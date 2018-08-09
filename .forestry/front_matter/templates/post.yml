@@ -21,3 +21,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- content/posts/testing.md
