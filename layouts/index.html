@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<!-- Define all variables here -->
+		{{ $style := resources.Get "styles/home.scss" | resources.ToCSS | resources.Minify }}
+
+		<!-- Default metadata --->
+		<meta charset='UTF-8'>
+		<title>The Owl</title>
+
+		<!-- Mobile scaling --->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- FontAwesome stylesheet --->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+		<!-- Homepage stylesheet --->
+		<link rel='stylesheet' href='{{ $style.Permalink }}' />
+	</head>
+
+	<body>
+		{{ partial "header" . }}
+
+		{{ partial "menu" . }}
+
+		<div id='latestPosts'>
+			{{ with .Site.GetPage "/posts" }}
+				{{ range first 8 .Pages }}
+					{{ partial "blogPost" . }}
+				{{ end }}
+			{{ end }}
+		</div>
+
+		{{ partial "footer" . }}
+
+		<!-- Include all necessary scripts here -->
+		<script type='text/javascript' src='/scripts/base.js'></script>
+	</body>
+</html>

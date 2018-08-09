@@ -1,0 +1,20 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/general';
+@import 'foundation/responsive';
+@import 'post';
+
+// ---------------- STYLES -------------------
+
+#latestPosts
+{
+	@include desktopOnly()
+	{
+		padding: 50px;
+	}
+
+	@include mobileOnly()
+	{
+		padding: 30px;
+	}
+}

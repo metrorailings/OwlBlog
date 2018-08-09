@@ -1,0 +1,72 @@
+/* ----------------------- LOCAL CONSTANTS ----------------------------- */
+
+$COLORS: 
+(
+	indianRedTheme: #CD5C5C,
+	paleVioletRedTheme: #DB7093,
+	lightRedTheme: #FFAAAA,
+	redTheme: #CC3355,
+	darkRedTheme: #FF3333,
+	mahoganyTheme: #670A0A,
+
+	lightBrownTheme: #CD853F,
+
+	amberTheme: #A8B633,
+	lightYellowTheme: #EEF3C2,
+
+	lightGreenTheme: #C7D0C4,
+	greenTheme: #ABC1A6,
+	darkGreenTheme: #8FA288,
+	moneyGreenTheme: #065C27,
+
+	cadetBlueTheme: #5F9EA0,
+	steelBlueTheme: #4682B4,
+	logoBlueTheme: #174C5B,
+	lightBlueTheme: #EEEEFF,
+	blueTheme: #BBDBFF,
+	darkBlueTheme: #3399FF,
+	darkerBlueTheme: #0101DF,
+
+	silverTheme: #C0C0C0,
+	duskTheme: #E5E5E5,
+	lighterGrayTheme: #DADADA,
+	lightGrayTheme: #D0D0D0,
+	grayTheme: #CDCDCD,
+	darkGrayTheme: #A0A0A0,
+	darkerGrayTheme: #898989,
+	slateGrayTheme: #708090,
+
+	smokeWhiteTheme: #F5F5F5,
+	lightWhiteTheme: #F8F8F8,
+	whiteTheme: #FFFFFF,
+
+	moccasinTheme: #FFFFE0,
+	lightMoccasinTheme: #FFFFF0,
+
+	blackTheme: #000000,
+
+	positiveTheme: #21693A,
+	negativeTheme: #DB5192,
+	noticeTheme: #EB9100
+);
+
+/* ----------------------- MIX-INS ----------------------------- */
+
+/*
+ * Mix-in designed to render a gradient background on a particular element
+ * Works across all major browsers
+ *
+ * @param $initialColor - the color which will launch the gradient
+ * @param $endColor - the color which will mark the tail of the rendered gradient
+ * @param $direction - the direction in which the gradient will render across the background of the element
+ *
+ * @author kinsho
+ */
+@mixin setGradient($initialColor, $endColor, $direction: left)
+{
+	background-color: $initialColor; // In the rare event that the user is on a browser that does not support gradients, set a default color
+	background-image: -webkit-linear-gradient($direction, $initialColor, $endColor);
+	background-image: -moz-linear-gradient($direction, $initialColor, $endColor);
+	background-image: -ms-linear-gradient($direction, $initialColor, $endColor);
+	background-image: -o-linear-gradient($direction, $initialColor, $endColor);
+}

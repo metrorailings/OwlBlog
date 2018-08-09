@@ -1,0 +1,28 @@
+{{ define "content" }}
+
+	<!-- Define all variables here -->
+	{{ $style := resources.Get "styles/post.scss" | resources.ToCSS | resources.Minify }}
+
+	<!-- Page-specific stylesheet --->
+	<link rel='stylesheet' href='{{ $style.Permalink }}' />
+
+	<div class='listContainer'>
+		{{ range first 10 .Pages }}
+
+			{{ if ne ($.Scratch.Get "lastPostsDate") (.Date.Format "January 2 2006") }}
+				<div class='postDate'>
+					{{ .Date.Format "Monday, January 2, 2006" }}
+				</div>
+			{{ end }}
+	
+			{{ $.Scratch.Set "lastPostsDate" (.Date.Format "January 2 2006") }}
+
+			<div class='postListing'>
+				<div class='postTitle'>{{ .Title }}</div>
+				<div class='headerUnderline'></div>
+				<div class='postBody'>{{ .Summary }}</div>
+			</div>
+		{{ end }}
+	</div>
+
+{{ end }}

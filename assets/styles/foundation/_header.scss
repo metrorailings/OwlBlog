@@ -1,0 +1,39 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/fonts';
+@import 'foundation/responsive';
+
+// ---------------- STYLES -------------------
+
+#header
+{
+	width: 100%;
+	height: 50vh;
+
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+
+	background-image: url('/images/homeBanner.jpeg');
+	background-size: cover;
+	background-position: center;
+
+	& > h2
+	{
+		@extend %whiteCapitalHeader;
+
+		text-align: center;
+		padding-right: 15px;
+		background: linear-gradient(to right, rgba(60, 60, 60, 0.6) 0%, rgba(60, 60, 60, 0.6) 80%, rgba(60, 60, 60, 0.0) 100%);
+
+		@include desktopOnly()
+		{
+			padding-left: 50px;
+		}
+
+		@include mobileOnly()
+		{
+			padding-left: 30px;
+		}
+	}
+}

@@ -1,0 +1,182 @@
+/* ----------------------- IMPORTS ----------------------------- */
+
+@import 'colors';
+@import 'responsive';
+
+/*
+ * The custom font-families that the site will use are:
+ *
+ * Cardo
+ * Muli
+ * Playfair Display
+ * Raleway
+ * Montez
+ * Sorts Mill Goudy
+ * Julius Sans One
+ */
+@import url(https://fonts.googleapis.com/css?family=Cardo|Muli|Raleway|Playfair+Display|Montez|Sorts+Mill+Goudy|Julius+Sans+One);
+
+/* ----------------------- LOCAL CONSTANTS ----------------------------- */
+
+$FONTS:
+(
+	
+	tinyFontSize: 12px,
+	smallFontSize: 16px,
+	regularFontSize: 18px,
+	regularPlusFontSize: 20px,
+	largeFontSize: 24px,
+	largePlusFontSize: 28px,
+	giganticFontSize: 36px,
+	giganticPlusFontSize: 48px,
+	enormousFontSize: 72px,
+
+	mobile-tinyFontSize: 10px,
+	mobile-smallFontSize: 12px,
+	mobile-regularFontSize: 16px,
+	mobile-regularPlusFontSize: 18px,
+	mobile-largeFontSize: 20px,
+	mobile-largePlusFontSize: 24px,
+	mobile-giganticFontSize: 28px,
+	mobile-giganticPlusFontSize: 36px,
+	mobile-enormousFontSize: 48px,
+
+	print-tinyFontSize: 8px,
+	print-smallFontSize: 10px,
+	print-regularFontSize: 14px,
+	print-regularPlusFontSize: 16px,
+	print-largeFontSize: 18px,
+	print-largePlusFontSize: 20px,
+	print-giganticFontSize: 24px,
+	print-giganticPlusFontSize: 30px,
+);
+
+/* ----------------------- MIX-INS ----------------------------- */
+
+/*
+ * Mixin built to provide a convenient way to set basic font styles quickly
+ *
+ * @param $weight - the font weight
+ * @param $size - the font size
+ * @param $family - the font family
+ * @param $style - the font style
+ * @param $color - an optional parameter that allows one to specify a font color
+ *
+ * @author kinsho
+ */
+@mixin basicFontSettings($weight: 400, $size: smallFontSize, $family: Cardo, $style: normal, $color: null)
+{
+	font:
+	{
+		weight: $weight;
+		size: map-get($FONTS, $size);
+		family: $family, sans-serif;
+		style: $style;
+	}
+
+	@if ($color)
+	{
+		color: map-get($COLORS, $color);
+	}
+
+	@include phoneOnly()
+	{
+		font-size: map-get($FONTS, mobile- + $size);
+	}
+
+	@include printOnly()
+	{
+		font-size: map-get($FONTS, print- + $size);
+	}
+}
+
+/* ----------------------- PLACEHOLDERS ----------------------------- */
+
+/* --- Italicized and bold stylings --- */
+%italicizedFont
+{
+	font-style: italic;
+}
+
+%boldFont
+{
+	font-weight: 700;
+}
+
+%whiteCapitalHeader
+{
+	@include basicFontSettings($weight: 700, $size: enormousFontSize, $family: Montez, $color: whiteTheme);
+
+	letter-spacing: 0.5px;
+	text-shadow: 5px 1px map-get($COLORS, blackTheme);
+}
+
+/* --- Regular stylings --- */
+
+%tinyText
+{
+	@include basicFontSettings($size: tinyFontSize);
+}
+
+%smallText
+{
+	@include basicFontSettings($size: smallFontSize);
+}
+
+%regularText
+{
+	@include basicFontSettings($size: regularFontSize);
+}
+
+%regularPlusText
+{
+	@include basicFontSettings($size: regularPlusFontSize);
+}
+
+%largePlusText
+{
+	@include basicFontSettings($size: largePlusFontSize);
+}
+
+%menuText
+{
+	@include basicFontSettings($size: regularPlusFontSize, $family: Raleway, $color: darkerGrayTheme);
+
+	letter-spacing: 0.1em;
+	cursor: pointer;
+}
+
+%decorativeText
+{
+	@include basicFontSettings($size: regularPlusFontSize, $family: Raleway, $weight: 300);
+
+	letter-spacing: 0.75px;
+}
+
+%footerText
+{
+	@include basicFontSettings($size: largeFontSize, $family: Palatino Linotype, $color: whiteTheme);
+	letter-spacing: 0.2em;
+
+	@media only screen and (max-device-width: 727px)
+	{
+		letter-spacing: 0.1em;
+	}
+}
+
+%regularLinkText
+{
+	@include basicFontSettings($weight: 700, $size: regularFontSize, $color: darkerBlueTheme);
+
+	text-decoration: none;
+}
+
+%postTitle
+{
+	@include basicFontSettings($size: largeFontSize, $family: Sorts Mill Goudy, $weight: 700);
+}
+
+%postBody
+{
+	@include basicFontSettings($size: regularFontSize, $family: Cardo);
+}

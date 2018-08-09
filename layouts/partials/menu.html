@@ -1,0 +1,19 @@
+{{ $length := len .Site.Sections }}
+
+<div id='desktopSiteMenu'>
+	{{ range $index, $element := (.Site.Sections) }}
+		<a href='{{ .URL }}'>{{ .Title }}</a>
+		{{ if lt (add $index 1) ($length) }}
+			<span class='menuSeparator'>|</span>
+		{{ end }}
+	{{ end }}
+</div>
+
+<div id='mobileSiteMenu'>
+	<div id='mobileMenuHeader'>MENU</div>
+	<div id='mobileMenuLinks'>
+		{{ range .Site.Sections }}
+			<a href='{{ .URL }}'>{{ .Title }}</a>
+		{{ end }}
+	</div>
+</div>
