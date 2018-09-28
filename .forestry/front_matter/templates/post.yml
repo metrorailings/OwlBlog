@@ -22,5 +22,5 @@ fields:
     schema:
       format: markdown
 pages:
-- content/posts/testing.md
 - content/testing.md
+- content/posts/testing.md
