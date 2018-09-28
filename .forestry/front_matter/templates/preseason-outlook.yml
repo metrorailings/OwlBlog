@@ -1,0 +1,65 @@
+---
+label: Preseason Outlook
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: team_name
+  label: Team Name
+- type: text
+  label: Quarterback
+  name: qb
+  default: 'QB: '
+- type: field_group_list
+  fields:
+  - type: text
+    default: N/A
+  label: Known Offensive Playmakers
+  name: known_offense_vectors
+  config:
+    min: '0'
+    max: '10'
+- type: field_group_list
+  name: potential_offense_vectors
+  label: Potential Offensive Playmakers
+  fields:
+  - type: text
+    default: N/A
+- type: field_group_list
+  name: elite_defensive_linemen
+  label: Elite Defensive Linemen
+  config:
+    min: '0'
+    max: '10'
+- type: field_group_list
+  name: notable_defensive_linemen
+  label: Notable Defensive Linemen
+  config:
+    min: '0'
+    max: '10'
+  fields:
+  - type: text
+    default: N/A
+- type: field_group_list
+  label: Other Defensive Stalwarts
+  name: other_defensive_stalwarts
+  config:
+    min: '0'
+    max: '10'
+  fields:
+  - type: text
+    default: N/A
+- type: field_group_list
+  name: managers
+  label: Managers
+  config:
+    min: '2'
+    max: '5'
+- type: textarea
+  name: outlook
+  label: Outlook
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
