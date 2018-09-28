@@ -56,3 +56,5 @@ fields:
     schema:
       format: markdown
     required: true
+pages:
+- content/posts/preseason-outlook---philadelphia-eagles.md
