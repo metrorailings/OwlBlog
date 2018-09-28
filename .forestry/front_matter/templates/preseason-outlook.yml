@@ -10,51 +10,44 @@ fields:
   label: Quarterback
   name: qb
   default: 'QB: '
-- type: field_group_list
-  fields:
-  - type: text
-    default: N/A
-  label: Known Offensive Playmakers
-  name: known_offense_vectors
   config:
-    min: '0'
-    max: '10'
-- type: field_group_list
-  name: potential_offense_vectors
+    required: true
+- type: text
+  name: known_offensive_playmakers
+  label: Known Offensive Playmakers
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: potential_offensive_playmakers
   label: Potential Offensive Playmakers
-  fields:
-  - type: text
-    default: N/A
-- type: field_group_list
+  config:
+    required: true
+  default: N/A
+- type: text
   name: elite_defensive_linemen
   label: Elite Defensive Linemen
   config:
-    min: '0'
-    max: '10'
-- type: field_group_list
+    required: true
+  default: N/A
+- type: text
   name: notable_defensive_linemen
   label: Notable Defensive Linemen
   config:
-    min: '0'
-    max: '10'
-  fields:
-  - type: text
-    default: N/A
-- type: field_group_list
-  label: Other Defensive Stalwarts
+    required: true
+  default: N/A
+- type: text
   name: other_defensive_stalwarts
+  label: Other Defensive Stalwarts
   config:
-    min: '0'
-    max: '10'
-  fields:
-  - type: text
-    default: N/A
-- type: field_group_list
+    required: true
+  default: N/A
+- type: text
   name: managers
   label: Managers
   config:
-    min: '2'
-    max: '5'
+    required: true
+  default: N/A
 - type: textarea
   name: outlook
   label: Outlook
