@@ -1,7 +1,6 @@
 +++
 content = ""
 date = "2018-09-28T00:10:59-04:00"
-draft = true
 elite_defensive_linemen = "Brandon Graham (E), Fletcher Cox (DT)"
 known_offensive_playmakers = "Zach Ertz (TE), Alshon Jeffery (WR), Jay Ajayi (RB), Nelson Agholor (WR)"
 managers = "Doug Pederson (HC), Howie Roseman (GM), Mike Groh (OC), Jim Schwartz (DC)"
