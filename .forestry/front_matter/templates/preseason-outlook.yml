@@ -1,0 +1,60 @@
+---
+label: Preseason Outlook
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: team_name
+  label: Team Name
+- type: text
+  label: Quarterback
+  name: qb
+  default: 'QB: '
+  config:
+    required: true
+- type: text
+  name: known_offensive_playmakers
+  label: Known Offensive Playmakers
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: potential_offensive_playmakers
+  label: Potential Offensive Playmakers
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: elite_defensive_linemen
+  label: Elite Defensive Linemen
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: notable_defensive_linemen
+  label: Notable Defensive Linemen
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: other_defensive_stalwarts
+  label: Other Defensive Stalwarts
+  config:
+    required: true
+  default: N/A
+- type: text
+  name: managers
+  label: Managers
+  config:
+    required: true
+  default: N/A
+- type: textarea
+  name: outlook
+  label: Outlook
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
+pages:
+- content/posts/preseason-outlook---philadelphia-eagles.md
