@@ -8,4 +8,3 @@ subject_image = ""
 title = "Introduction..."
 
 +++
-{{ .content }}
