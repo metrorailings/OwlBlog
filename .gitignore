@@ -3,3 +3,4 @@
 .DS_Store
 resources
 **/.DS_Store
+backend/node_modules

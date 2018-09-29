@@ -1,11 +1,6 @@
-{{ $length := len .Site.Sections }}
-
 <div id='desktopSiteMenu'>
-	{{ range $index, $element := (.Site.Sections) }}
+	{{ range .Site.Sections }}
 		<a href='{{ .URL }}'>{{ .Title }}</a>
-		{{ if lt (add $index 1) ($length) }}
-			<span class='menuSeparator'>|</span>
-		{{ end }}
 	{{ end }}
 </div>
 

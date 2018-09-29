@@ -9,6 +9,8 @@
 
 #desktopSiteMenu
 {
+	@extend %menuText;
+
 	margin:
 	{
 		top: 50px;
@@ -28,33 +30,31 @@
 	{
 		@extend %menuText;
 
+		padding:
+		{
+			top: 10px;
+			bottom: 10px;
+			left: 25px;
+			right: 25px;
+		}
+
 		text-decoration: none;
+		cursor: pointer;
 
 		&:hover
 		{
 			text-decoration: underline;
 		}
-	}
-}
 
-.menuSeparator
-{
-	margin:
-	{
-		left: 25px;
-		right: 25px;
-	}
-
-	color: map-get($COLORS, darkerGrayTheme);
-
-	@include desktopOnly()
-	{
-		font-size: map-get($FONTS, giganticFontSize);
-	}
-
-	@include mobileOnly()
-	{
-		font-size: map-get($FONTS, mobile-giganticFontSize);
+		&:not(:last-of-type)
+		{
+			border-right:
+			{
+				width: 1px;
+				style: solid;
+				color: map-get($COLORS, darkerGrayTheme);
+			}
+		}
 	}
 }
 
@@ -114,14 +114,14 @@
 
 	& > a
 	{
-		@extend %menuText;
-
 		margin:
 		{
 			top: 25px;
 		}
 
 		width: 100%;
+		cursor: pointer;
+
 		text-align: center;
 		text-decoration: none;
 	}

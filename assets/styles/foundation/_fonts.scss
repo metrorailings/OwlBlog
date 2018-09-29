@@ -14,13 +14,13 @@
  * Sorts Mill Goudy
  * Julius Sans One
  */
-@import url(https://fonts.googleapis.com/css?family=Cardo|Muli|Raleway|Playfair+Display|Montez|Sorts+Mill+Goudy|Julius+Sans+One);
+@import url(https://fonts.googleapis.com/css?family=Cardo|Muli|Raleway|Playfair+Display|Montez|Sorts+Mill+Goudy|Julius+Sans+One|Roboto+Mono);
 
 /* ----------------------- LOCAL CONSTANTS ----------------------------- */
 
 $FONTS:
 (
-	
+	tinierFontSize: 10px,
 	tinyFontSize: 12px,
 	smallFontSize: 16px,
 	regularFontSize: 18px,
@@ -140,10 +140,23 @@ $FONTS:
 
 %menuText
 {
-	@include basicFontSettings($size: regularPlusFontSize, $family: Raleway, $color: darkerGrayTheme);
+	@include basicFontSettings($size: regularPlusFontSize, $family: Raleway, $color: darkerGrayTheme, $weight: 100);
+
+	letter-spacing: 0.3em;
+}
+
+%dropdownText
+{
+	@include basicFontSettings($size: regularPlusFontSize, $family: Cardo, $color: darkerGrayTheme, $weight: 400);
 
 	letter-spacing: 0.1em;
-	cursor: pointer;
+}
+
+%smallDecorativeText
+{
+	@include basicFontSettings($size: smallFontSize, $family: Raleway, $weight: 300);
+
+	letter-spacing: 0.45px;
 }
 
 %decorativeText
@@ -171,12 +184,51 @@ $FONTS:
 	text-decoration: none;
 }
 
+%postDate
+{
+	@include basicFontSettings($size: regularPlusFontSize, $weight: 200, $family: Cardo);
+
+	letter-spacing: 0.3em;
+}
+
 %postTitle
 {
 	@include basicFontSettings($size: largeFontSize, $family: Sorts Mill Goudy, $weight: 700);
 }
 
+%postSmallTitle
+{
+	@include basicFontSettings($size: regularFontSize, $family: Sorts Mill Goudy, $weight: 400, $color: blackTheme);
+
+	text-decoration: underline;
+}
+
 %postBody
 {
 	@include basicFontSettings($size: regularFontSize, $family: Cardo);
+}
+
+%postSmallText
+{
+	@include basicFontSettings($size: tinyFontSize, $family: Cardo, $weight: 700);
+}
+
+%dataText
+{
+	@include basicFontSettings($size: regularFontSize, $family: Sorts Mill Goudy);
+}
+
+%grayDataText
+{
+	@include basicFontSettings($size: tinyFontSize, $family: Sorts Mill Goudy, $color: slateGrayTheme);
+}
+
+%numberText
+{
+	@include basicFontSettings($size: regularFontSize, $family: Roboto Mono);
+}
+
+%smallNumberText
+{
+	@include basicFontSettings($size: tinyFontSize, $family: Roboto Mono);
 }

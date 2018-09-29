@@ -1,0 +1,18 @@
+<!-- Counter used to keep track of number of data points that we can fetch -->
+{{ $.Scratch.Set "counter" 0 }}
+{{ $week := int .File.TranslationBaseName }}
+
+<div id='weekDropdownContainer'>
+	<label for='weekDropdown'>Week</label>
+	<select id='weekDropdown'>
+		{{ range .Site.Data.elo }}
+			{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+			<!-- Make sure to select the option for which the data on the page corresponds to -->
+			{{ if eq $week ($.Scratch.Get "counter") }}
+				<option value='{{ $.Scratch.Get "counter" }}' selected>{{$.Scratch.Get "counter" }}</option>
+			{{ else }}
+				<option value='{{ $.Scratch.Get "counter" }}'>{{$.Scratch.Get "counter" }}</option>
+			{{ end }}
+		{{ end }}
+	</select>
+</div>
