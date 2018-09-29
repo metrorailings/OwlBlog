@@ -4,7 +4,7 @@ date = "2018-09-27T22:24:07-04:00"
 draft = true
 post_subject = "Introduction"
 subject_image = ""
-title = "Introduction"
+title = "Introduction..."
 
 +++
 {{ .content }}
