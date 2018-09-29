@@ -1,0 +1,24 @@
+{{ define "content" }}
+
+	<!-- Define all variables here -->
+	{{ $style := resources.Get "styles/post.scss" | resources.ToCSS | resources.Minify }}
+
+	<!-- Page-specific stylesheet --->
+	<link rel='stylesheet' href='{{ $style.Permalink }}' />
+
+	<div class='post'>
+
+		<div class='postTitle'>{{ .Title }}</div>
+		<div class='headerUnderline'></div>
+
+		<div class='postBody'>{{ .Content }}</div>
+
+		<div class='postSeparator'>
+			<span class='thinSeparator'></span>
+			<img src='/uploads/owlIcon.svg' />
+			<span class='thinSeparator'></span>
+		</div>
+
+	</div>
+
+{{ end }}
