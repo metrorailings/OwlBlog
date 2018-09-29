@@ -9,10 +9,6 @@ fields:
   description: Post Headline
   config:
     required: true
-- type: file
-  name: subject_image
-  label: Subject Image
-  description: The main image that accompanies this post
 - type: textarea
   name: content
   label: Content
