@@ -7,4 +7,4 @@ subject_image = ""
 title = "Introduction"
 
 +++
-Yeah
+{{ .content }}
