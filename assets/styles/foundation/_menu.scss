@@ -1,0 +1,128 @@
+/* ----------------------- IMPORTS ----------------------------- */
+
+@import '../foundation/colors';
+@import '../foundation/fonts';
+@import '../foundation/responsive';
+@import '../foundation/animations';
+
+/* ----------------------- GENERAL STYLES ----------------------------- */
+
+#desktopSiteMenu
+{
+	@extend %menuText;
+
+	margin:
+	{
+		top: 50px;
+		bottom: 30px;
+	}
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	@include mobileOnly()
+	{
+		display: none;
+	}
+
+	& > a
+	{
+		@extend %menuText;
+
+		padding:
+		{
+			top: 10px;
+			bottom: 10px;
+			left: 25px;
+			right: 25px;
+		}
+
+		text-decoration: none;
+		cursor: pointer;
+
+		&:hover
+		{
+			text-decoration: underline;
+		}
+
+		&:not(:last-of-type)
+		{
+			border-right:
+			{
+				width: 1px;
+				style: solid;
+				color: map-get($COLORS, darkerGrayTheme);
+			}
+		}
+	}
+}
+
+#mobileSiteMenu
+{
+	@extend %menuText;
+
+	border:
+	{
+		color: map-get($COLORS, grayTheme);
+		width: 1px;
+		style: solid;
+
+		left: none;
+		right: none;
+	}
+
+	margin:
+	{
+		top: 50px;
+		bottom: 30px;
+	}
+
+	padding:
+	{
+		top: 15px;
+		bottom: 15px;
+	}
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	@include desktopOnly()
+	{
+		display: none;
+	}
+}
+
+#mobileMenuLinks
+{
+	@include transitionSettings($property: all, $duration: 0.2s);
+
+	max-height: 0px;
+	overflow: hidden;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	&.open
+	{
+		max-height: 1000px;
+	}
+
+	& > a
+	{
+		margin:
+		{
+			top: 25px;
+		}
+
+		width: 100%;
+		cursor: pointer;
+
+		text-align: center;
+		text-decoration: none;
+	}
+}

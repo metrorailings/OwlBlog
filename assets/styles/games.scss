@@ -1,0 +1,194 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/general';
+@import 'foundation/fonts';
+@import 'foundation/colors';
+@import 'foundation/responsive';
+@import 'weekDropdown';
+
+// ---------------- PAGE STYLES -------------------
+
+#gamesList
+{
+	@include phoneOnly()
+	{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+	}
+}
+
+.gameDate
+{
+	@extend %postDate;
+
+	margin:
+	{
+		top: 15px;
+		bottom: 15px;
+	}
+
+	display: block;
+	width: 100%;
+
+	text-align: center;
+}
+
+.gameListing
+{
+	display: inline-flex;
+	align-items: flex-start;
+	flex-direction: column;
+
+	@include tabletUp()
+	{
+		margin: 40px;
+	}
+
+	@include phoneOnly()
+	{
+		margin:
+		{
+			top: 15px;
+			bottom: 15px;
+		}
+	}
+}
+
+.listingHeader
+{
+	@extend %grayDataText;
+
+	padding-bottom: 10px;
+
+	display: flex;
+	align-items: center;
+}
+
+.listingBody
+{
+	border:
+	{
+		style: solid;
+		color: map-get($COLORS, lightGrayTheme);
+		width: 0.75px;
+		radius: 5px;
+	}
+
+	width: 350px;
+	box-shadow: 1px 3px 10px map-get($COLORS, darkGrayTheme);
+
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.listingColumnHeader, .listingColumn
+{
+	&:nth-of-type(1)
+	{
+		width: 160px;
+	}
+
+	&:nth-of-type(2)
+	{
+		width: 55px;
+	}
+
+	&:nth-of-type(3)
+	{
+		width: 55px;
+	}
+
+	&:nth-of-type(4)
+	{
+		width: 25px;
+	}
+
+	&:nth-of-type(5)
+	{
+		width: 55px;
+	}
+}
+
+.listingColumnHeader
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.listingColumn
+{
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+
+	& > div:not(.predictionField)
+	{
+		height: 50px;
+		min-width: 50px;
+	}
+}
+
+.teamIdentifier
+{
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+
+	width: 160px;
+}
+
+.teamLogo
+{
+	margin:
+	{
+		left: 5px;
+		right: 15px;
+	}
+
+	max-width: 30px;
+	max-height: 30px;
+}
+
+.teamName
+{
+	@extend %smallDecorativeText;
+}
+
+.numberField
+{
+	@extend %smallNumberText;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.predictionColumn
+{
+	border-top:
+	{
+		width: 0.75px;
+		style: solid;
+		color: map-get($COLORS, lightGrayTheme);
+	}
+
+	background-color: map-get($COLORS, lightBlueTheme);
+	font-size: map-get($FONTS, tinyFontSize);
+}
+
+.predictionField
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	color: map-get($COLORS, redTheme);
+
+	height: 50px;
+	min-width: 25px;
+}

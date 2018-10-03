@@ -1,0 +1,38 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/general';
+@import 'foundation/fonts';
+@import 'foundation/colors';
+@import 'foundation/responsive';
+
+// ---------------- STYLES -------------------
+
+#weekDropdownContainer
+{
+	margin:
+	{
+		top: 25px;
+		bottom: 25px;
+	}
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 100%;
+
+	& > label
+	{
+		@extend %dropdownText;
+
+		margin:
+		{
+			right: 10px;
+		}
+	}
+}
+
+#weekDropdown
+{
+	@extend %dropdownText;
+}

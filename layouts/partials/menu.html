@@ -1,0 +1,16 @@
+<div id='desktopSiteMenu'>
+	<a href='/'>Home</a>
+	{{ range .Site.Sections }}
+		<a href='{{ .URL }}'>{{ .Title }}</a>
+	{{ end }}
+</div>
+
+<div id='mobileSiteMenu'>
+	<div id='mobileMenuHeader'>MENU</div>
+	<div id='mobileMenuLinks'>
+		<a href='/'>Home</a>
+		{{ range .Site.Sections }}
+			<a href='{{ .URL }}'>{{ .Title }}</a>
+		{{ end }}
+	</div>
+</div>
