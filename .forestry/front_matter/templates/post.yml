@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: title
+  name: headline
   label: Post Subject
   description: Post Headline
   config:
