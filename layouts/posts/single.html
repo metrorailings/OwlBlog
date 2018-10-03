@@ -11,7 +11,7 @@
 		<div class='postTitle'>{{ .Params.headline }}</div>
 		<div class='headerUnderline'></div>
 
-		<div class='postBody'>{{ .Params.content }}</div>
+		<div class='postBody'>{{ .Params.content | markdownify }}</div>
 
 		<div class='postSeparator'>
 			<span class='thinSeparator'></span>
