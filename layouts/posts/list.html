@@ -17,10 +17,8 @@
 	
 			{{ $.Scratch.Set "lastPostsDate" (.Date.Format "January 2 2006") }}
 
-			<a class='postSmallTitle' href='{{ .URL }}'>{{ .Title }}</a>
+			<a class='postSmallTitle' href='{{ .URL }}'>{{ .Params.headline }}</a>
 		{{ end }}
 	</div>
-
-	{{ template "_internal/pagination.html" . }}
 
 {{ end }}

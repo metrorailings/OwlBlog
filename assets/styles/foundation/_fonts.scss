@@ -198,7 +198,7 @@ $FONTS:
 
 %postSmallTitle
 {
-	@include basicFontSettings($size: regularFontSize, $family: Sorts Mill Goudy, $weight: 400, $color: blackTheme);
+	@include basicFontSettings($size: regularFontSize, $family: Raleway, $weight: 400, $color: blackTheme);
 
 	text-decoration: underline;
 }
