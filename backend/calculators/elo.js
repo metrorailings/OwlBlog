@@ -65,15 +65,17 @@ function _calculateEloChange(game)
 		didUnderdogWin = (underdogScore > favoriteScore);
 		didFavoriteCover = ((favoriteScore - underdogScore) > Math.abs(game.owlSpread));
 
+		// All formulas below increase the score differential by 2.5 before conducting any more operations. This is
+		// done to guarantee the final spread multiplier is
+		// - greater than 1 in the event that the underdog wins or the favorite covers
+		// - less than 1 in the event that the favorite wins, but does not cover
+
 		// Calculate the spread adjustment to the ELO shift depending on the outcome of the game
 		if (didUnderdogWin)
 		{
 			// No need to add 1 here as underdogScore > favoriteScore
-			spreadPerformanceMultiplier = Math.log(underdogScore - favoriteScore);
+			spreadPerformanceMultiplier = Math.log(underdogScore - favoriteScore + 2.5);
 		}
-		// Both formulas below increase the score differential by 2.5 before conducting any more operations. This is
-		// done to guarantee the final spread multiplier is greater than 1 in the event that the favorite covers
-		// or less than 1 in the event that the favorite wins, but does not cover
 		else if (didFavoriteCover)
 		{
 			// No need to add 1 here as scoreDifferential > abs(owlSpread)
@@ -130,6 +132,7 @@ function _calculateEloChange(game)
 		games, eloScores = [],
 		scoreDifferential,
 		eloModifiers,
+		teamNames,
 		databaseElos = [];
 
 	await mongo.initialize();
@@ -214,6 +217,28 @@ function _calculateEloChange(game)
 		// Prep the ELO records for transfer to the database
 		databaseElos.push(mongo.formInsertSingleQuery(_eloMap[games[i].homeTeam]));
 		databaseElos.push(mongo.formInsertSingleQuery(_eloMap[games[i].awayTeam]));
+	}
+
+	// For any teams on bye, update their Elo record to indicate no change in their score for the coming week
+	if (games.length < 16)
+	{
+		teamNames = Object.keys(_eloMap);
+		for (let j = 0; j < teamNames.length; j += 1)
+		{
+			// Assume all records that are not updated belong to teams that were on bye the past week
+			if (_eloMap[teamNames[j]].week === week)
+			{
+				console.log('----------------------------------------');
+				console.log(teamNames[j] + ' were on BYE');
+				console.log('----------------------------------------');
+
+				_eloMap[teamNames[j]].week += 1;
+				_eloMap[teamNames[j]].change = 0;
+
+				delete _eloMap[teamNames[j]]._id;
+				databaseElos.push(mongo.formInsertSingleQuery(_eloMap[teamNames[j]]));
+			}
+		}
 	}
 
 	// Remove all the old ELO records from context
