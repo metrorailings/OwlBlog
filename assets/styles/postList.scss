@@ -1,0 +1,43 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/general';
+@import 'foundation/fonts';
+@import 'foundation/colors';
+@import 'foundation/responsive';
+
+// ---------------- STYLES -------------------
+
+.postDate
+{
+	@extend %postDate;
+
+	margin:
+	{
+		top: 15px;
+		bottom: 15px;
+		left: 10%;
+	}
+}
+
+.postSmallTitle
+{
+	@extend %postSmallTitle;
+
+	margin:
+	{
+		top: 15px;
+		bottom: 15px;
+		left: 10%;
+	}
+
+	&:hover
+	{
+		color: map-get($COLORS, darkBlueTheme);
+	}
+}
+
+.listContainer
+{
+	display: flex;
+	flex-direction: column;
+}

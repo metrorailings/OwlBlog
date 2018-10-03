@@ -1,0 +1,201 @@
+// ---------------- IMPORTS -------------------
+
+@import 'foundation/general';
+@import 'foundation/fonts';
+@import 'foundation/colors';
+@import 'foundation/responsive';
+@import 'weekDropdown';
+
+// ---------------- PAGE STYLES -------------------
+
+#eloChart
+{
+	margin:
+	{
+		top: 30px;
+		left: auto;
+		right: auto;
+	}
+
+	@include desktopOnly()
+	{
+		width: 50%;
+	}
+
+	@include tabletOnly()
+	{
+		width: 70%;
+	}
+
+	@include phoneOnly()
+	{
+		width: 95%;
+	}
+}
+
+#eloChartHeader
+{
+	@extend %postDate;
+
+	border-bottom:
+	{
+		width: 2px;
+		style: solid;
+		color: map-get($COLORS, slateGrayTheme);
+	}
+
+	display: flex;
+
+	& > span
+	{
+		padding:
+		{
+			top: 10px;
+			bottom: 20px;
+		}
+
+		text-align: center;
+
+		&:first-child
+		{
+			flex: 3;
+
+			border:
+			{
+				right:
+				{
+					style: solid;
+					width: 2px;
+					color: map-get($COLORS, slateGrayTheme);
+				}
+			}
+		}
+
+		&:last-child
+		{
+			flex: 2;
+		}
+	}
+}
+
+.eloEntry
+{
+	padding:
+	{
+		top: 5px;
+		bottom: 5px;
+	}
+
+	display: flex;
+
+	&:nth-of-type(2n)
+	{
+		background-color: map-get($COLORS, smokeWhiteTheme);
+	}
+
+	& > span
+	{
+		padding: 7px;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		&:first-child
+		{
+			flex: 3;
+		}
+
+		&:last-child
+		{
+			flex: 2;
+		}
+	}
+}
+
+.logoContainer
+{
+	flex: 1;
+
+	text-align: right;
+}
+
+.teamLogo
+{
+	margin:
+	{
+		right: 15px;
+	}
+
+	max-width: 25px;
+	max-height: 25px;
+}
+
+.teamName
+{
+	@extend %dataText;
+
+	flex: 1;
+
+	@include phoneOnly()
+	{
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+.teamRecord
+{
+	@extend %postSmallText;
+
+	padding:
+	{
+		left: 5px;
+		right: 5px;
+	}
+}
+
+.teamElo
+{
+	@extend %numberText;
+
+	flex: 3;
+	text-align: right;
+}
+
+.eloDifferential
+{
+	flex: 2;
+	text-align: center;
+}
+
+.positiveDifferential, .negativeDifferential
+{
+	@extend %postSmallText;
+
+	border:
+	{
+		radius: 50%;
+		width: 1px;
+		style: solid;
+		color: map-get($COLORS, blackTheme);
+	}
+
+	padding: 5px;
+	color: map-get($COLORS, whiteTheme);
+
+	& > i
+	{
+		padding-right: 5px;
+	}
+}
+
+.positiveDifferential
+{
+	background-color: map-get($COLORS, darkGreenTheme);
+}
+
+.negativeDifferential
+{
+	background-color: map-get($COLORS, indianRedTheme);
+}
