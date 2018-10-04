@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Introduction...</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Thu, 27 Sep 2018 22:24:07 -0400</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
