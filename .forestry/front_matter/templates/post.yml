@@ -18,5 +18,5 @@ fields:
     schema:
       format: markdown
 pages:
-- content/posts/week-4-picks.md
 - content/posts/introduction.md
+- content/posts/week-4-picks.md
