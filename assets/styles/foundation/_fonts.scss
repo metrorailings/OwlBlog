@@ -188,7 +188,7 @@ $FONTS:
 {
 	@include basicFontSettings($size: regularPlusFontSize, $weight: 200, $family: Cardo);
 
-	letter-spacing: 0.3em;
+	letter-spacing: 0.15em;
 }
 
 %postTitle

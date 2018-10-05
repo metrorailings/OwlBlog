@@ -17,6 +17,8 @@
 		right: auto;
 	}
 
+	box-shadow: 1px 3px 10px map-get($COLORS, darkGrayTheme);
+
 	@include desktopOnly()
 	{
 		width: 50%;
@@ -39,9 +41,9 @@
 
 	border-bottom:
 	{
-		width: 2px;
+		width: 1px;
 		style: solid;
-		color: map-get($COLORS, slateGrayTheme);
+		color: map-get($COLORS, grayTheme);
 	}
 
 	display: flex;
@@ -65,8 +67,8 @@
 				right:
 				{
 					style: solid;
-					width: 2px;
-					color: map-get($COLORS, slateGrayTheme);
+					width: 1px;
+					color: map-get($COLORS, grayTheme);
 				}
 			}
 		}
@@ -118,6 +120,7 @@
 	flex: 1;
 
 	text-align: right;
+	margin-right: 5px;
 }
 
 .teamLogo
@@ -136,6 +139,9 @@
 	@extend %dataText;
 
 	flex: 1;
+
+	text-align: left;
+	margin-left: 5px;
 
 	@include phoneOnly()
 	{
@@ -159,14 +165,18 @@
 {
 	@extend %numberText;
 
-	flex: 3;
+	flex: 1;
+
 	text-align: right;
+	margin-right: 5px;
 }
 
 .eloDifferential
 {
-	flex: 2;
-	text-align: center;
+	flex: 1;
+
+	text-align: left;
+	margin-left: 5px;
 }
 
 .positiveDifferential, .negativeDifferential
@@ -183,6 +193,8 @@
 
 	padding: 5px;
 	color: map-get($COLORS, whiteTheme);
+
+	margin-left: 5px;
 
 	& > i
 	{
