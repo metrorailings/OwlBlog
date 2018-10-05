@@ -1,31 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Owl Picks</title>
+    <link>https://www.owlpicks.com/</link>
+    <description>Recent content on Owl Picks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:25:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 02:06:33 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.owlpicks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>5</title>
+      <link>https://www.owlpicks.com/games/5/</link>
+      <pubDate>Tue, 02 Oct 2018 02:06:33 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/games/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://www.owlpicks.com/elo/5/</link>
+      <pubDate>Tue, 02 Oct 2018 01:07:58 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/elo/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Week 4 Picks</title>
-      <link>http://example.org/posts/week-4-picks/</link>
+      <link>https://www.owlpicks.com/posts/week-4-picks/</link>
       <pubDate>Sat, 29 Sep 2018 00:25:25 -0400</pubDate>
       
-      <guid>http://example.org/posts/week-4-picks/</guid>
+      <guid>https://www.owlpicks.com/posts/week-4-picks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction...</title>
-      <link>http://example.org/posts/introduction/</link>
+      <link>https://www.owlpicks.com/posts/introduction/</link>
       <pubDate>Thu, 27 Sep 2018 22:24:07 -0400</pubDate>
       
-      <guid>http://example.org/posts/introduction/</guid>
+      <guid>https://www.owlpicks.com/posts/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://www.owlpicks.com/games/4/</link>
+      <pubDate>Thu, 27 Sep 2018 18:25:34 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/games/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://www.owlpicks.com/elo/4/</link>
+      <pubDate>Thu, 27 Sep 2018 18:25:30 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/elo/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://www.owlpicks.com/games/3/</link>
+      <pubDate>Wed, 19 Sep 2018 01:16:37 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/games/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://www.owlpicks.com/elo/3/</link>
+      <pubDate>Wed, 19 Sep 2018 01:06:03 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/elo/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://www.owlpicks.com/games/2/</link>
+      <pubDate>Tue, 18 Sep 2018 22:34:30 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/games/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://www.owlpicks.com/elo/2/</link>
+      <pubDate>Mon, 10 Sep 2018 23:50:17 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/elo/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://www.owlpicks.com/elo/1/</link>
+      <pubDate>Thu, 09 Aug 2018 23:27:07 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/elo/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://www.owlpicks.com/games/1/</link>
+      <pubDate>Thu, 02 Aug 2018 01:08:38 -0400</pubDate>
+      
+      <guid>https://www.owlpicks.com/games/1/</guid>
       <description></description>
     </item>
     
