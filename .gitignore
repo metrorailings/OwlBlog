@@ -2,5 +2,6 @@
 .idea
 .DS_Store
 resources
+public
 **/.DS_Store
 backend/node_modules
