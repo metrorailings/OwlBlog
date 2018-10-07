@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Owl Picks</title>
-    <link>https://www.owlpicks.com/posts/</link>
+    <link>http://www.owlpicks.com/posts/</link>
     <description>Recent content in Posts on Owl Picks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Sep 2018 00:25:25 -0400</lastBuildDate>
     
-	<atom:link href="https://www.owlpicks.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.owlpicks.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 4 Picks</title>
-      <link>https://www.owlpicks.com/posts/week-4-picks/</link>
+      <link>http://www.owlpicks.com/posts/week-4-picks/</link>
       <pubDate>Sat, 29 Sep 2018 00:25:25 -0400</pubDate>
       
-      <guid>https://www.owlpicks.com/posts/week-4-picks/</guid>
+      <guid>http://www.owlpicks.com/posts/week-4-picks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction...</title>
-      <link>https://www.owlpicks.com/posts/introduction/</link>
+      <link>http://www.owlpicks.com/posts/introduction/</link>
       <pubDate>Thu, 27 Sep 2018 22:24:07 -0400</pubDate>
       
-      <guid>https://www.owlpicks.com/posts/introduction/</guid>
+      <guid>http://www.owlpicks.com/posts/introduction/</guid>
       <description></description>
     </item>
     
