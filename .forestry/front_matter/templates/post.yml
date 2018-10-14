@@ -18,6 +18,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/posts/colts-jets-halftime-analysis.md
 - content/posts/week-5-picks.md
 - content/posts/week-4-picks.md
 - content/posts/introduction.md
