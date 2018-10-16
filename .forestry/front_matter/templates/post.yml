@@ -18,6 +18,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/posts/49ers-packers-second-half-analysis.md
 - content/posts/rams-broncos-halftime-analysis.md
 - content/posts/colts-jets-halftime-analysis.md
 - content/posts/week-5-picks.md
