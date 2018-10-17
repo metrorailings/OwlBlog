@@ -1,6 +1,8 @@
 +++
+content = "Ahhh, week 7. The crappy teams have fully outed themselves as bottom-feeders while the good teams have distanced themselves from the chaff. From here on out, predicting games should be **_a bit_** easier now that we have five to six games worth of data on each team.\n\nThat being said, here are the games I'm feeling right now...\n\n***\n\n##### Browns @ Buccaneers (-3)\n\nA little hard for me to put top American dollar on Jameis Winston, but the Buccaneers have too much of an offensive edge over the Browns here, despite the recent emergence of Baker Mayfield as the franchise quarterback the Browns have sought for generations now. Mayfield is still a rookie finding his sea legs, and he hasn't had much help as of late given that his receiving weapons have been letting him down recently. On top of that, the team is managed by the worst coach in the league in Foo Jackson, and I'd be shocked if he actually made some serious adjustments to try and rectify his team's offensive woes.\n\nThe reality is that the Buccaneers are simply better coached and better able to produce yards compared to the Browns. Now I know, I know....that defense. That defense can't stop leaves blowing gently in the wind, let alone professional NFL offenses. But with that being said, the firing of Mike Smith on Monday may be the impetus this defense needs to actually step up and perform well, if only for one week. A decent man lost his job because of their performance, and that cannot sit well with them.\n\n***"
 date = "2018-10-16T22:57:11-04:00"
 draft = true
+headline = "Week 7 - Early Leanings"
 title = "Week 7 - Early Leanings"
 
 +++
