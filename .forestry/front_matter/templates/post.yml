@@ -18,6 +18,8 @@ fields:
     schema:
       format: markdown
 pages:
+- content/posts/week-7-early-leanings.md
+- content/posts/49ers-packers-quick-look.md
 - content/posts/rams-broncos-halftime-analysis.md
 - content/posts/colts-jets-halftime-analysis.md
 - content/posts/week-5-picks.md
