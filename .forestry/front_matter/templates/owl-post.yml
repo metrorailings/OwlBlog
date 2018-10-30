@@ -1,0 +1,9 @@
+---
+label: Owl Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: headline
+  label: Post Subject
+  description: Post Title
