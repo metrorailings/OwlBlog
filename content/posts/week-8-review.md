@@ -1,5 +1,5 @@
 +++
-content = "Eh, my picks sucked.\n\n[NeatPassionateChafer](https://gfycat.com/NeatPassionateChafer \"NeatPassionateChafer\")"
+content = "Eh, my picks sucked.\n\n[neatpassionatechafer](https://gfycat.com/neatpassionatechafer \"neatpassionatechafer\")"
 date = "2018-10-29T22:26:01-04:00"
 draft = true
 headline = "Week 8 Review"
