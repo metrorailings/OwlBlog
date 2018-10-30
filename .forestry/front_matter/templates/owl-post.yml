@@ -7,3 +7,5 @@ fields:
   name: headline
   label: Post Subject
   description: Post Title
+pages:
+- content/posts/week-8-review.md
