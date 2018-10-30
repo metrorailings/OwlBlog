@@ -11,7 +11,13 @@
 		<div class='postTitle'>{{ .Params.headline }}</div>
 		<div class='headerUnderline'></div>
 
-		<div class='postBody'>{{ .Params.content | markdownify }}</div>
+		<div class='postBody'>
+			{{ if .Params.content }}
+				{{ .Params.content | markdownify }}
+			{{ else }}
+				{{ .Content | markdownify }}
+			{{ end }}
+		</div>
 
 		<div class='postSeparator'>
 			<span class='thinSeparator'></span>
