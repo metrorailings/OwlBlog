@@ -56,67 +56,64 @@ function _calculateEloChange(game)
 	homeEloShift = K_VALUE * ((scoreDifferential > 0 ? 1 : (scoreDifferential < 0 ? 0 : 0.5) ) - homeProbability);
 	awayEloShift = K_VALUE * ((scoreDifferential > 0 ? 0 : (scoreDifferential < 0 ? 1 : 0.5) ) - awayProbability);
 
-	// Only go through the trouble of adjusting the ELO score by MoV if the game wasn't a pick em
+	// Adjusting the ELO score to take MoV  into account
 	// Remember that MoV is taken against the spread, now the raw score
-	if (game.owlSpread)
+	favoriteScore = (game.owlSpread > 0 ? game.awayTeamScore : game.homeTeamScore);
+	underdogScore = (game.owlSpread > 0 ? game.homeTeamScore : game.awayTeamScore);
+	didUnderdogWin = (underdogScore > favoriteScore);
+	didFavoriteCover = ((favoriteScore - underdogScore) > Math.abs(game.owlSpread));
+
+	// All formulas below increase the score differential by 2.5 before conducting any more operations. This is
+	// done to guarantee the final spread multiplier is
+	// - greater than 1 in the event that the underdog wins or the favorite covers
+	// - less than 1 in the event that the favorite wins, but does not cover
+
+	// Calculate the spread adjustment to the ELO shift depending on the outcome of the game
+	if (didUnderdogWin)
 	{
-		favoriteScore = (game.owlSpread > 0 ? game.awayTeamScore : game.homeTeamScore);
-		underdogScore = (game.owlSpread > 0 ? game.homeTeamScore : game.awayTeamScore);
-		didUnderdogWin = (underdogScore > favoriteScore);
-		didFavoriteCover = ((favoriteScore - underdogScore) > Math.abs(game.owlSpread));
-
-		// All formulas below increase the score differential by 2.5 before conducting any more operations. This is
-		// done to guarantee the final spread multiplier is
-		// - greater than 1 in the event that the underdog wins or the favorite covers
-		// - less than 1 in the event that the favorite wins, but does not cover
-
-		// Calculate the spread adjustment to the ELO shift depending on the outcome of the game
-		if (didUnderdogWin)
-		{
-			// No need to add 1 here as underdogScore > favoriteScore
-			spreadPerformanceMultiplier = Math.log(underdogScore - favoriteScore + 2.5);
-		}
-		else if (didFavoriteCover)
-		{
-			// No need to add 1 here as scoreDifferential > abs(owlSpread)
-			spreadPerformanceMultiplier = Math.log(Math.abs(scoreDifferential) + 2.5 - Math.abs(game.owlSpread));
-		}
-		else
-		{
-			spreadPerformanceMultiplier = 1 / Math.log(Math.abs(game.owlSpread) + 2.5 - Math.abs(scoreDifferential));
-		}
-
-		// Document all the information we've calculated for this particular game
-		console.log('----------------------------------------');
-		console.log(awayTeam + ' @ ' + homeTeam);
-		console.log(awayTeam + ': ' + awayElo);
-		console.log(homeTeam + ': ' + homeElo);
-		console.log(awayTeam + ': ' + (awayProbability * 100).toFixed(2) + '%');
-		console.log(homeTeam + ': ' + (homeProbability * 100).toFixed(2) + '%');
-		console.log(awayTeam + ': ' + awayEloShift.toFixed(2) + ' (Elo Shift)');
-		console.log(homeTeam + ': ' + homeEloShift.toFixed(2) + ' (Elo Shift)');
-		console.log('SPREAD: ' + game.owlSpread);
-		console.log(awayTeam + ': ' + game.awayTeamScore);
-		console.log(homeTeam + ': ' + game.homeTeamScore);
-		if (didUnderdogWin)
-		{
-			console.log('Underdog won');
-		}
-		else if (didFavoriteCover)
-		{
-			console.log('Favorite covered');
-		}
-		else
-		{
-			console.log('Favorite won, but did not cover');
-		}
-		console.log('spreadMultiplier: ' + spreadPerformanceMultiplier.toFixed(2));
-		console.log('----------------------------------------');
-
-		// Now apply the multiplier to the shift value
-		homeEloShift *= spreadPerformanceMultiplier;
-		awayEloShift *= spreadPerformanceMultiplier;
+		// No need to add 1 here as underdogScore > favoriteScore
+		spreadPerformanceMultiplier = Math.log(underdogScore - favoriteScore + 2.5);
 	}
+	else if (didFavoriteCover)
+	{
+		// No need to add 1 here as scoreDifferential > abs(owlSpread)
+		spreadPerformanceMultiplier = Math.log(Math.abs(scoreDifferential) + 2.5 - Math.abs(game.owlSpread));
+	}
+	else
+	{
+		spreadPerformanceMultiplier = 1 / Math.log(Math.abs(game.owlSpread) + 2.5 - Math.abs(scoreDifferential));
+	}
+
+	// Document all the information we've calculated for this particular game
+	console.log('----------------------------------------');
+	console.log(awayTeam + ' @ ' + homeTeam);
+	console.log(awayTeam + ': ' + awayElo);
+	console.log(homeTeam + ': ' + homeElo);
+	console.log(awayTeam + ': ' + (awayProbability * 100).toFixed(2) + '%');
+	console.log(homeTeam + ': ' + (homeProbability * 100).toFixed(2) + '%');
+	console.log(awayTeam + ': ' + awayEloShift.toFixed(2) + ' (Elo Shift)');
+	console.log(homeTeam + ': ' + homeEloShift.toFixed(2) + ' (Elo Shift)');
+	console.log('SPREAD: ' + game.owlSpread);
+	console.log(awayTeam + ': ' + game.awayTeamScore);
+	console.log(homeTeam + ': ' + game.homeTeamScore);
+	if (didUnderdogWin)
+	{
+		console.log('Underdog won');
+	}
+	else if (didFavoriteCover)
+	{
+		console.log('Favorite covered');
+	}
+	else
+	{
+		console.log('Favorite won, but did not cover');
+	}
+	console.log('spreadMultiplier: ' + spreadPerformanceMultiplier.toFixed(2));
+	console.log('----------------------------------------');
+
+	// Now apply the multiplier to the shift value
+	homeEloShift *= spreadPerformanceMultiplier;
+	awayEloShift *= spreadPerformanceMultiplier;
 
 	return {
 		home: Math.round(homeEloShift),
