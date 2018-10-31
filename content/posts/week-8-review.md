@@ -13,7 +13,7 @@ As I expected, Kansas City would post at least 30 points. But what took me by su
 
 But Keenum held his own, bolstering my preseason expectation that the man would actually be serviceable as a starting quarterback for the Broncos.
 
-Three big plays drove Denver towards the cover here. All of them are pass plays.
+Three big plays drove Denver towards the cover here. All of them are pass plays. Watch the GIFs below:
 
 {{< giphy gfycatTitle="neatpassionatechafer" >}}
 
