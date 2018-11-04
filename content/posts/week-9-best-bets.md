@@ -50,7 +50,7 @@ Give me the Bucs all day here. Yes, the Panthers proved that they were a damn go
 
 ![](/uploads/Screen Shot 2018-11-04 at 12.07.51 PM.png)
 
-To be fair, my ELO model above has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defensive secondary that can be picked upon.
+To be fair, my ELO model above has actually booked this game in favor of the Panthers by 8 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defensive secondary that can be picked upon.
 
 ***
 
