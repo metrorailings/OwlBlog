@@ -50,7 +50,7 @@ Give me the Bucs all day here. Yes, the Panthers proved that they were a damn go
 
 ![](/uploads/Screen Shot 2018-11-04 at 12.07.51 PM.png)
 
-To be fair, my ELO model above has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defense secondary that can be picked upon.
+To be fair, my ELO model above has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defensive secondary that can be picked upon.
 
 ***
 
@@ -60,7 +60,7 @@ The Rams frustrated me last week, mostly because I had quite a bit of money on t
 
 What last week showed me is that the Rams lack quality defensive personnel, particularly in the backfield. Wade Phillips knows damn well how to stop Aaron Rodgers and the Green Bay offense - blanket their receivers in man coverage and count on Aaron Donald and Ndamukong Suh to wreak havoc on the frontlines. He successfully implemented a similar game plan against Green Bay as defensive coordinator of the Broncos during their Super Bowl year.
 
-But the Packers receivers were running buck wild around the field because the defensive backs were simply unable to compete. And if those defensive backs are unable to hang with an average set of receivers, Drew Brees and Michael Thomas should have their way against the secondary, especially if those linebackers focus wholly on contain Alvin Kamara.
+But the Packers receivers were running buck wild around the field because the defensive backs were simply unable to compete. And if those defensive backs are unable to hang with an average set of receivers, Drew Brees and Michael Thomas should have their way against the secondary, especially if those linebackers focus wholly on Alvin Kamara.
 
 ***
 
