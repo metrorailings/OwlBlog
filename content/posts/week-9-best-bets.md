@@ -48,7 +48,9 @@ It does make sense though. A divisional rematch against a hated rival tends to f
 
 Give me the Bucs all day here. Yes, the Panthers proved that they were a damn good team in their win last week against the Ravens, but it seems to me that win was buoyed in part by a flaccid performance from Flacco and an emotionally-fueled performance from their offensive and defensive lines. If you believe in let-down spots, this is a solid let-down spot, what with the Panthers playing at home against a bottom-feeder going through some turmoil at the quarterback position.
 
-To be fair, my ELO model has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defense secondary that can be picked upon.
+![](/uploads/Screen Shot 2018-11-04 at 12.07.51 PM.png)
+
+To be fair, my ELO model above has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defense secondary that can be picked upon.
 
 ***
 
