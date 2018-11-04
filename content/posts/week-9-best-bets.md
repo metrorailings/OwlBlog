@@ -7,7 +7,7 @@ title = "Week 9 - Best Bets"
 +++
 My best bets of the week. Last week, I went 2-3. Two of those three losses came courtesy of the Chiefs and Rams failing to cover their spreads. BAH! I would not consider either of those picks to be terrible...but it is pretty clear neither team deserved to cover their respective spreads last week. And this week, I will be rooting against one of them to flat out lose.
 
-Here are my six picks.
+Here are five of my six picks.
 
 ***
 
@@ -27,4 +27,38 @@ I expect their offense to stall against a Vikings defense that's one of the best
 
 Holy hell. I love this pick. I absolutely do.
 
-I could not believe my eyes when I saw this glorious total. Although I suppose I understand why the sportsbook set the total so high...we
+I couldn't believe my eyes when I saw such a high total. Although I suppose I understand why the sportsbook set the total past 50...we have a Chiefs team that can seemingly score at will.
+
+But the Browns just promoted their defensive coordinator to interim head coach earlier in the week, right as the AFC's top team comes to town. The situational context may be enough for the Browns defense to keep the Chiefs at bay for much of this game.
+
+Likewise, I expect the Browns offense to stall as well, as Baker Mayfield will likely be harangued by the Chiefs potent pass rush. And even if the Browns offensive line manage to win in pass protection for much of the game...will the offense even be serviceable under the stifling thumb of Gregg Williams? 
+
+***
+
+##### _Steelers (+3)_ @ Ravens
+
+Bah. Going with the Steelers here, as two major analytics outfits (Pro Football Focus and Football Outsiders) have both flagged the Steelers as a hot pick this week.
+
+It does make sense though. A divisional rematch against a hated rival tends to favor the loser of the first match, especially if that loser is taking points in the second match. On top of that, the Steelers have shown some promise over their last couple games, particularly in their ground game. The Ravens, on the other hand, have shown us reason to doubt them in their game last week against the Panthers.
+
+***
+
+#####  _Buccaneers (+6)_ @ Panthers
+
+Give me the Bucs all day here. Yes, the Panthers proved that they were a damn good team in their win last week against the Ravens, but it seems to me that win was buoyed in part by a flaccid performance from Flacco and an emotionally-fueled performance from their offensive and defensive lines. If you believe in let-down spots, this is a solid let-down spot, what with the Panthers playing at home against a bottom-feeder going through some turmoil at the quarterback position.
+
+To be fair, my ELO model has actually booked this game in favor of the Panthers by 8.5 points. And I understand why - the Panthers have been consistently winning against solid competition whereas the Buccaneers have been flailing for the past several weeks. But the Buccaneers offense have proven they can scrounge up points, regardless of whether Jameis Winston or Ryan Fitzpatrick sits at its helm. And I do expect them to round up scores against a Panthers defense secondary that can be picked upon.
+
+***
+
+##### Rams @ _Saints (-1.5)_
+
+The Rams frustrated me last week, mostly because I had quite a bit of money on them. They were lucky to escape their own coliseum with a win after Ty Montgomery decided to go rogue and run the ball out of the end-zone on a kickoff.
+
+What last week showed me is that the Rams lack quality defensive personnel, particularly in the backfield. Wade Phillips knows damn well how to stop Aaron Rodgers and the Green Bay offense - blanket their receivers in man coverage and count on Aaron Donald and Ndamukong Suh to wreak havoc on the frontlines. He successfully implemented a similar game plan against Green Bay as defensive coordinator of the Broncos during their Super Bowl year.
+
+But the Packers receivers were running buck wild around the field because the defensive backs were simply unable to compete. And if those defensive backs are unable to hang with an average set of receivers, Drew Brees and Michael Thomas should have their way against the secondary, especially if those linebackers focus wholly on contain Alvin Kamara.
+
+***
+
+The sixth pick will be revealed later tonight....
