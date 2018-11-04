@@ -14,7 +14,9 @@ Here are five of my six picks.
 
 Rivers McCown of Football Outsiders did an [excellent piece](https://www.footballoutsiders.com/any-given-sunday/2018/any-given-sunday-seahawks-over-lions) on the Seahawks-Lions game last week. As part of his research, he looked into the Lions rushing attack this season and drew up a chart showing a peculiarity about the consequences of their run game.
 
-![](/uploads/Screen Shot 2018-11-02 at 11.58.08 PM.png)DVOA ratings are the proprietary metrics that Football Outsiders developed to grade teams on any facet of their game. Basically, if you're unfamiliar with DVOA, just know that in the particular case of this chart, a higher DVOA means a better performance from the offense.
+![](/uploads/Screen Shot 2018-11-02 at 11.58.08 PM.png)
+
+DVOA ratings are the proprietary metrics that Football Outsiders developed to grade teams on any facet of their game. Basically, if you're unfamiliar with DVOA, just know that in the particular case of this chart, a higher DVOA means a better performance from the offense.
 
 The Lions rushing attack only graded out positively two weeks this season. And those two weeks brought out the absolute best in their offense as well. And when their rush game isn't quite on point? Their offense suffers dearly.
 
@@ -30,7 +32,7 @@ I couldn't believe my eyes when I saw such a high total. Although I suppose I un
 
 But the Browns just promoted their defensive coordinator to interim head coach earlier in the week, right as the AFC's top team comes to town. The situational context may be enough for the Browns defense to keep the Chiefs at bay for much of this game.
 
-Likewise, I expect the Browns offense to stall as well, as Baker Mayfield will likely be harangued by the Chiefs potent pass rush. And even if the Browns offensive line manage to win in pass protection for much of the game...will the offense even be serviceable under the stifling thumb of Gregg Williams? 
+Likewise, I expect the Browns offense to stall as well, as Baker Mayfield will likely be harangued by the Chiefs potent pass rush. And even if the Browns offensive line manage to win in pass protection for much of the game...will the offense even be serviceable under the stifling thumb of Gregg Williams?
 
 ***
 
@@ -42,7 +44,7 @@ It does make sense though. A divisional rematch against a hated rival tends to f
 
 ***
 
-#####  _Buccaneers (+6)_ @ Panthers
+##### _Buccaneers (+6)_ @ Panthers
 
 Give me the Bucs all day here. Yes, the Panthers proved that they were a damn good team in their win last week against the Ravens, but it seems to me that win was buoyed in part by a flaccid performance from Flacco and an emotionally-fueled performance from their offensive and defensive lines. If you believe in let-down spots, this is a solid let-down spot, what with the Panthers playing at home against a bottom-feeder going through some turmoil at the quarterback position.
 
