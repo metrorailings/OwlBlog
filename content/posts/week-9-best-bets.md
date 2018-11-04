@@ -13,4 +13,18 @@ Here are my six picks.
 
 ##### Lions @ _Vikings (-4.5)_
 
-Rivers McCown of Football Outsiders did an [excellent piece](https://www.footballoutsiders.com/any-given-sunday/2018/any-given-sunday-seahawks-over-lions) on the Seahawks-Lions game last week. As part of his research, 
+Rivers McCown of Football Outsiders did an [excellent piece](https://www.footballoutsiders.com/any-given-sunday/2018/any-given-sunday-seahawks-over-lions) on the Seahawks-Lions game last week. As part of his research, he looked into the Lions rushing attack this season and drew up a chart showing a peculiarity about the consequences of their run game.
+
+![](/uploads/Screen Shot 2018-11-02 at 11.58.08 PM.png)DVOA ratings are the proprietary metrics that Football Outsiders developed to grade teams on any facet of their game. Basically, if you're unfamiliar with DVOA, just know that in the particular case of this chart, a higher DVOA means a better performance from the offense.
+
+The Lions rushing attack only graded out positively two weeks this season. And those two weeks brought out the absolute best in their offense as well. And when their rush game isn't quite on point? Their offense suffers dearly.
+
+I expect their offense to stall against a Vikings defense that's one of the best at limiting yards per carry. Sure, Minnesota may end up missing the services of Stefon Diggs in this game, but I trust Mike Zimmer will have other people step up in his stead and contribute effectively enough. And on top of that, I do expect the Lions offense to regress a little now that Stafford will have to live life without Golden Taint.
+
+***
+
+##### Chiefs @ Browns _(Under 52)_
+
+Holy hell. I love this pick. I absolutely do.
+
+I could not believe my eyes when I saw this glorious total. Although I suppose I understand why the sportsbook set the total so high...we
