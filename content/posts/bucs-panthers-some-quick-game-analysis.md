@@ -14,10 +14,10 @@ Don't believe me? Well, let me show you a few plays that stood out to me.
 
 {{< giphy gfycatTitle="PastViciousKoi" >}}
 
-Look at that double-reverse. You don't see many teams running that type of play, but the Panthers have the exact right personnel to run that type of play - a threatening runner in Christian McCaffrey and two swiss-knife playmakers in DJ Moore and Damiere Byrd. The defense was completely out of sorts by the time  DJ Moore began motioning uphill.
+Look at that double-reverse. You don't see many teams running that type of play, but the Panthers have the exact right personnel to run that type of play - a threatening rusher in Christian McCaffrey and two swiss-knife playmakers in DJ Moore and Damiere Byrd. The Bucs defense was completely out of sorts by the time  DJ Moore began motioning uphill.
 
 {{< giphy gfycatTitle="WeeklyDearestAntipodesgreenparakeet" >}}
 
-Look at that blitz being telegraphed prior to the ball being snapped. And yet the blitz still manages to throw Fitzpatrick into a tizzy.
+Look at that blitz being telegraphed prior to the ball being snapped. And yet the Panthers pass rushers on that play still manage to throw Fitzpatrick into a tizzy.
 
 The Buccaneers began coming back in the second half, in part because Tampa Bay managed to neutralize the blitz every now and then. But it wasn't enough against a team that literally laid 35 points before the first half even ended.
