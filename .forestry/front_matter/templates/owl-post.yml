@@ -8,6 +8,7 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/bucs-panthers-some-quick-game-analysis.md
 - content/posts/week-9-sunday-night-football.md
 - content/posts/week-9-best-bets.md
 - content/posts/week-8-review.md
