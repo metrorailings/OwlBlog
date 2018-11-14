@@ -2,9 +2,7 @@
 
 	<!-- Define all variables here -->
 	{{ $style := resources.Get "styles/games.scss" | resources.ToCSS | resources.Minify }}
-	{{ $week := int .File.TranslationBaseName }}
-	{{ $.Scratch.Set "dataCounter" 0 }}
-	
+
 	<!-- Page-specific stylesheet --->
 	<link rel='stylesheet' href='{{ $style.Permalink }}' />
 
@@ -12,74 +10,70 @@
 
 	<div id='gamesList'>
 
-		<!-- Cycle through all available game data until we find the data relevant to the week in context -->
-		{{ range .Site.Data.games }}
-			{{ $.Scratch.Set "dataCounter" (add ($.Scratch.Get "dataCounter") 1) }}
-			{{ if eq $week ($.Scratch.Get "dataCounter") }}
+		<!-- Pull the games that applies to the week currently in context -->
+		{{ with (index .Site.Data.games .File.TranslationBaseName ) }}
 
-				<!-- Once we find the appropriate dataset to display, then we can display game information -->
-				{{ range .games }}
+			<!-- Once we find the appropriate dataset to display, then we can display game information -->
+			{{ range .games }}
 
-					<!-- Show that the games are grouped by date and time -->
-					{{ if ne ($.Scratch.Get "lastGameDate") ( dateFormat "Monday, January 2, 3:04PM EST" .date ) }}
-						<div class='gameDate'>
-							{{ dateFormat "Monday, January 2" .date }}
-							<br />
-							{{ dateFormat "3:04PM EST" .date }}
-						</div>
-					{{ end }}
-
-					{{ $.Scratch.Set "lastGameDate" ( dateFormat "Monday, January 2, 3:04PM EST" .date ) }}
-
-					<span class='gameListing'>
-						<div class='listingHeader'>
-							<span class='listingColumnHeader'></span>
-							<span class='listingColumnHeader'>Vegas<br />Spread</span>
-							<span class='listingColumnHeader'>ELO<br />Spread</span>
-							<span class='listingColumnHeader'>Bet?</span>
-							<span class='listingColumnHeader'>Final<br />Score</span>
-						</div>
-						<div class='listingBody'>
-							<span class='listingColumn'>
-								<div class='teamIdentifier'>
-									<img class='teamLogo' src='/uploads/teamLogos/{{ lower .awayTeam }}.png' />
-									<span class='teamName'>{{ .awayTeam }}</span>
-								</div>
-								<div class='teamIdentifier'>
-									<img class='teamLogo' src='/uploads/teamLogos/{{ lower .homeTeam }}.png' />
-									<span class='teamName'>{{ .homeTeam }}</span>
-								</div>
-							</span>
-							<span class='listingColumn'>
-								<div class='emptyField'></div>
-								<div class='numberField'>{{ if gt .bookSpread 0 }}+{{ end }}{{ .bookSpread }}</div>
-							</span>
-							<span class='listingColumn'>
-								<div></div>
-								<div class='numberField'>{{ if gt .owlSpread 0 }}+{{ end }}{{ .owlSpread }}</div>
-							</span>
-							<span class='listingColumn predictionColumn'>
-								<div class='predictionField'>
-									{{ if .pickAwayTeam }}
-										<i class='fa fa-fire'></i>
-									{{ end }}
-								</div>
-								<div class='predictionField'>
-									{{ if .pickHomeTeam }}
-										<i class='fa fa-fire'></i>
-									{{ end }}
-								</div>
-							</span>
-							<span class='listingColumn'>
-								<div class='numberField'>{{ .awayTeamScore }}</div>
-								<div class='numberField'>{{ .homeTeamScore }}</div>
-							</span>
-						</div>
-					</span>
+				<!-- Show that the games are grouped by date and time -->
+				{{ if ne ($.Scratch.Get "lastGameDate") ( dateFormat "Monday, January 2, 3:04PM EST" .date ) }}
+					<div class='gameDate'>
+						{{ dateFormat "Monday, January 2" .date }}
+						<br />
+						{{ dateFormat "3:04PM EST" .date }}
+					</div>
 				{{ end }}
+
+				{{ $.Scratch.Set "lastGameDate" ( dateFormat "Monday, January 2, 3:04PM EST" .date ) }}
+
+				<span class='gameListing'>
+					<div class='listingHeader'>
+						<span class='listingColumnHeader'></span>
+						<span class='listingColumnHeader'>Vegas<br />Spread</span>
+						<span class='listingColumnHeader'>ELO<br />Spread</span>
+						<span class='listingColumnHeader'>Bet?</span>
+						<span class='listingColumnHeader'>Final<br />Score</span>
+					</div>
+					<div class='listingBody'>
+						<span class='listingColumn'>
+							<div class='teamIdentifier'>
+								<img class='teamLogo' src='/uploads/teamLogos/{{ lower .awayTeam }}.png' />
+								<span class='teamName'>{{ .awayTeam }}</span>
+							</div>
+							<div class='teamIdentifier'>
+								<img class='teamLogo' src='/uploads/teamLogos/{{ lower .homeTeam }}.png' />
+								<span class='teamName'>{{ .homeTeam }}</span>
+							</div>
+						</span>
+						<span class='listingColumn'>
+							<div class='emptyField'></div>
+							<div class='numberField'>{{ if gt .bookSpread 0 }}+{{ end }}{{ .bookSpread }}</div>
+						</span>
+						<span class='listingColumn'>
+							<div></div>
+							<div class='numberField'>{{ if gt .owlSpread 0 }}+{{ end }}{{ .owlSpread }}</div>
+						</span>
+						<span class='listingColumn predictionColumn'>
+							<div class='predictionField'>
+								{{ if .pickAwayTeam }}
+									<i class='fa fa-fire'></i>
+								{{ end }}
+							</div>
+							<div class='predictionField'>
+								{{ if .pickHomeTeam }}
+									<i class='fa fa-fire'></i>
+								{{ end }}
+							</div>
+						</span>
+						<span class='listingColumn'>
+							<div class='numberField'>{{ .awayTeamScore }}</div>
+							<div class='numberField'>{{ .homeTeamScore }}</div>
+						</span>
+					</div>
+				</span>
 			{{ end }}
 		{{ end }}
-
 	</div>
 
 	<!-- Page-specific script -->

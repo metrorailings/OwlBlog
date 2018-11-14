@@ -1,0 +1,296 @@
+{
+    "teams": [
+        {
+            "name": "Saints",
+            "elo": 1674,
+            "change": 24,
+            "wins": 7,
+            "losses": 1,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf504"
+        },
+        {
+            "name": "Chiefs",
+            "elo": 1670,
+            "change": 9,
+            "wins": 8,
+            "losses": 1,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf4fd"
+        },
+        {
+            "name": "Patriots",
+            "elo": 1662,
+            "change": 16,
+            "wins": 7,
+            "losses": 2,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf500"
+        },
+        {
+            "name": "Rams",
+            "elo": 1633,
+            "change": -24,
+            "wins": 8,
+            "losses": 1,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf505"
+        },
+        {
+            "name": "Steelers",
+            "elo": 1629,
+            "change": 19,
+            "wins": 5,
+            "losses": 2,
+            "week": 10,
+            "draws": 1,
+            "_id": "5be2455236ad81e67eadf507"
+        },
+        {
+            "name": "Chargers",
+            "elo": 1603,
+            "change": 22,
+            "wins": 6,
+            "losses": 2,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50f"
+        },
+        {
+            "name": "Panthers",
+            "elo": 1599,
+            "change": 13,
+            "wins": 6,
+            "losses": 2,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf4fe"
+        },
+        {
+            "name": "Eagles",
+            "elo": 1598,
+            "change": 0,
+            "wins": 4,
+            "losses": 4,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf51b"
+        },
+        {
+            "name": "Texans",
+            "elo": 1594,
+            "change": 10,
+            "wins": 6,
+            "losses": 3,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf503"
+        },
+        {
+            "name": "Vikings",
+            "elo": 1555,
+            "change": 24,
+            "wins": 5,
+            "losses": 3,
+            "week": 10,
+            "draws": 1,
+            "_id": "5be2455236ad81e67eadf508"
+        },
+        {
+            "name": "Falcons",
+            "elo": 1553,
+            "change": 38,
+            "wins": 4,
+            "losses": 4,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf511"
+        },
+        {
+            "name": "Bears",
+            "elo": 1545,
+            "change": 17,
+            "wins": 5,
+            "losses": 3,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50b"
+        },
+        {
+            "name": "Ravens",
+            "elo": 1538,
+            "change": -19,
+            "wins": 4,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf506"
+        },
+        {
+            "name": "Redskins",
+            "elo": 1534,
+            "change": -38,
+            "wins": 5,
+            "losses": 3,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf510"
+        },
+        {
+            "name": "Cowboys",
+            "elo": 1532,
+            "change": -36,
+            "wins": 3,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf512"
+        },
+        {
+            "name": "Seahawks",
+            "elo": 1530,
+            "change": -22,
+            "wins": 4,
+            "losses": 4,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50e"
+        },
+        {
+            "name": "Packers",
+            "elo": 1514,
+            "change": -16,
+            "wins": 3,
+            "losses": 4,
+            "week": 10,
+            "draws": 1,
+            "_id": "5be2455236ad81e67eadf501"
+        },
+        {
+            "name": "Jaguars",
+            "elo": 1507,
+            "change": 0,
+            "wins": 3,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf51a"
+        },
+        {
+            "name": "Titans",
+            "elo": 1504,
+            "change": 36,
+            "wins": 4,
+            "losses": 4,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf513"
+        },
+        {
+            "name": "Bengals",
+            "elo": 1503,
+            "change": 0,
+            "wins": 5,
+            "losses": 3,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf517"
+        },
+        {
+            "name": "Broncos",
+            "elo": 1479,
+            "change": -10,
+            "wins": 3,
+            "losses": 6,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf502"
+        },
+        {
+            "name": "Lions",
+            "elo": 1475,
+            "change": -24,
+            "wins": 3,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf509"
+        },
+        {
+            "name": "Colts",
+            "elo": 1470,
+            "change": 0,
+            "wins": 3,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf518"
+        },
+        {
+            "name": "49ers",
+            "elo": 1442,
+            "change": 30,
+            "wins": 2,
+            "losses": 7,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf514"
+        },
+        {
+            "name": "Dolphins",
+            "elo": 1428,
+            "change": 19,
+            "wins": 5,
+            "losses": 4,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50c"
+        },
+        {
+            "name": "Buccaneers",
+            "elo": 1421,
+            "change": -13,
+            "wins": 3,
+            "losses": 5,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf4ff"
+        },
+        {
+            "name": "Giants",
+            "elo": 1410,
+            "change": 0,
+            "wins": 1,
+            "losses": 7,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf516"
+        },
+        {
+            "name": "Jets",
+            "elo": 1389,
+            "change": -19,
+            "wins": 3,
+            "losses": 6,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50d"
+        },
+        {
+            "name": "Browns",
+            "elo": 1377,
+            "change": -9,
+            "wins": 2,
+            "losses": 6,
+            "week": 10,
+            "draws": 1,
+            "_id": "5be2455236ad81e67eadf4fc"
+        },
+        {
+            "name": "Cardinals",
+            "elo": 1375,
+            "change": 0,
+            "wins": 2,
+            "losses": 6,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf519"
+        },
+        {
+            "name": "Raiders",
+            "elo": 1341,
+            "change": -30,
+            "wins": 1,
+            "losses": 7,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf515"
+        },
+        {
+            "name": "Bills",
+            "elo": 1328,
+            "change": -17,
+            "wins": 2,
+            "losses": 7,
+            "week": 10,
+            "_id": "5be2455236ad81e67eadf50a"
+        }
+    ]
+}
