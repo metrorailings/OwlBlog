@@ -33,6 +33,26 @@ Tampa Bay should be able to score a few times in the game, but I expect the Gian
 
 ***
 
+##### Eagles @ _Saints (-8.5)_
+
+Seems odd to see the reigning Super Bowl champions be such heavy underdogs. But the Elo model thinks it's well-deserved.
+
+Frankly, I'm shocked that the sportsbooks haven't set the line even higher, considering the Saints are coming off three consecutive covers against solid competition. I'd honestly expect the books to set the line a little higher than usual in order to pull underdog money against such an elite team. Either the books are fine pricing the Saints appropriately or the spread is kept lower than usual to entice bets on a public darling in the Saints. If the latter is the case, that means the books are taking a chance on the Eagles here in this match. And that's a risky proposition in my book.
+
+The Eagles are far from being that team that took the league by storm last year. Michael Lombardi gave me some phenomenal insights in his observations about the team. Last season, the team was converting third downs at an unbelievable clip.  This season, statistical regression finally reared its ugly head - Philadelphia is struggling to overcome third-down from six yards and out. Worse yet, the Eagles cannot run the ball, leading to their offense being one-dimensional. A pass-only offense is not necessarily a terrible thing so long as the quarterback has several weapons reliably catching his passes, but Philly's even lacking horses there. Nelson Agholor has regressed to mediocre form while Alshon Jeffery has been hampered by injury for much of the season. 
+
+To be fair, their acquisition of Golden Tate should even things out a bit, but I honestly wonder whether that would be enough to keep pace with the league's hottest team on their home soil.
+
+***
+
+##### Panthers @ Lions
+
+Such a beautiful spot for the Lions here. Coming off three embarrassing losses, Detroit is primed to play better now that they've returned back home and their season is on the line. And last week's game against Chicago shows me that the team can defend against the run when it's a central focus of their defensive game plan. Snacks Harrison manning the nose position has brought up their rush defense a notch.
+
+If the Panthers cannot run the ball with reckless abandon here, Carolina may actually struggle to move the chains, let alone put up points. It wouldn't be a terrible bet to put some money on the Lions here, but _Marvin Jones_ will be ruled out of the game on injury. The offense was limped without Golden Tate, and now you take their best receiver off the field as well? Too risky.
+
+***
+
 ##### Cowboys @ Falcons
 
 The Falcons were depressing last week. Matt Ryan loses a step as a passer whenever he plays outside a dome. On top of that, that defense was carved up by Baker Mayfield and his skill players.
