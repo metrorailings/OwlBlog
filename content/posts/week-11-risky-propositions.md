@@ -11,7 +11,7 @@ In this series, I'll details bets that are a little risky for my blood.
 
 ##### Panthers @ Lions
 
-Such a beautiful spot for the Lions here. Coming off three embarrassing losses, Detroit is primed to play better now that they've returned back home and their season is on the line. And last week's game against Chicago shows me that the team can defend against the run when it's a central focus of their defensive game plan. Snacks Harrison manning the nose position has brought up their rush defense a notch.
+Such a beautiful spot for the Lions here. Coming off three embarrassing losses, Detroit is primed to play better now that they've returned back home and their season is on the line. And last week's game against Chicago shows me that the team can defend against the run when it's a central focus of their defensive game plan. Snacks Harrison manning the nose position has brought their rush defense up a notch.
 
 If the Panthers cannot run the ball with reckless abandon here, Carolina may actually struggle to move the chains, let alone put up points. It wouldn't be a terrible bet to put some money on the Lions here, but _Marvin Jones_ will be ruled out of the game on injury. The offense was limped without Golden Tate, and now you take their best receiver off the field as well? Too risky.
 
