@@ -18,7 +18,6 @@ fields:
     schema:
       format: markdown
 pages:
-- content/posts/reviewing-atlanta-s-loss-against-the-cowboys.md
 - content/posts/week-8-early-leanings.md
 - content/posts/week-7-early-leanings.md
 - content/posts/49ers-packers-quick-look.md
