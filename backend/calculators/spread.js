@@ -174,12 +174,12 @@ function _determineRawSpread(homeEloScore, awayEloScore)
 		owlSpread *= -1;
 
 		// If there's a significant difference between the Vegas spread and our spread, mark what team should be bet
-		if (owlSpread - games[i].bookSpread >= 3)
+		if (owlSpread - games[i].bookSpread >= 2.5)
 		{
 			games[i].pickAwayTeam = true;
 			games[i].pickHomeTeam = false;
 		}
-		else if (owlSpread - games[i].bookSpread <= -3)
+		else if (owlSpread - games[i].bookSpread <= -2.5)
 		{
 			games[i].pickAwayTeam = false;
 			games[i].pickHomeTeam = true;
