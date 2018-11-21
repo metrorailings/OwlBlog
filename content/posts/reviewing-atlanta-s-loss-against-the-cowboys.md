@@ -13,6 +13,6 @@ Two major takeaways...
 * Matt Ryan found himself flustered by Dallas' pass rush, especially when they blitzed. His worst throws of the day came against blitzes.
 * The Falcons have serious issues bottling up opposing rushers.
 
-Those two reasons are why the Falcons fell to Dallas. While Atlanta stands little chance of making it to the postseason, it's still worth observing their strengths and weaknesses for their remaining games this season. This Thanksgiving, the dirty birds will be traveling to New Orleans to face off against the Saints as 13-point underdogs. Think of that - the Falcons as double-digit underdogs, even with Matt Ryan playing well at the helm of the offense.
+Those two reasons are why the Falcons fell to Dallas. While Atlanta stands little chance of making it to the postseason, it's still worth observing their strengths and weaknesses for their remaining games this season. And speaking of which...this Thanksgiving, the dirty birds will be traveling to New Orleans to face off against the Saints as 13-point underdogs. Think of that - the Falcons as double-digit underdogs, even with Matt Ryan playing well at the helm of the offense.
 
-So the question becomes whether 
+So the question becomes whether the Saints are likely to cover. First off, it's worth noting that the
