@@ -16,7 +16,7 @@ Those two reasons are why the Falcons fell to Dallas. While Atlanta stands littl
 
 So the question becomes whether the Saints are likely to cover. And honestly, I'd say no.
 
-First off, it's worth noting that the Elo spread and the Vegas spread have **finally** drifted apart. It took quite a few blowouts, but the books have finally begun inflating the Saints' handicap in anticipation of the public inevitably coming in heavy on them.  So we know the line for this game is a little skewed.
+First off, it's worth noting that [my Elo spread](https://www.owlpicks.com/games/12/) and the Vegas spread have **finally** drifted apart. It took quite a few blowouts, but the books have finally begun inflating the Saints' handicap in anticipation of the public inevitably coming in heavy on them.  So we know the line for this game is a little skewed.
 
 But really, where the Falcons gain an edge here is in pass protection. The absolute best way to stall Matt Ryan is to field a strong pass rush augmented with well-timed blitzes. The Cowboys have the horses to pull that off - New Orleans, not so much. Despite some positive numbers from Sheldon Rankins and their first-round rookie, Marcus Davenport, the reality is that the Saints should be producing much more pressure given that their opponents are playing from behind so much of the damn time. The Eagles from last year are a textbook example of ramping up the pressure when playing with a lead.
 
