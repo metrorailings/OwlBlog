@@ -32,7 +32,7 @@ The books seem to think the Redskins will take a step back after Alex Smith's tr
 
 On top of that, these Cowboys are a little overrated. That win over the Falcons last week was driven mostly by Ezekiel Elliott. And unlike Atlanta's bottom-ranked defense, the Redskins defense have the chops to limit the havoc he wreaks. Not to mention the Redskins boast a bunch of quality pass rushers that can force the easily-flustered Dak Prescott into throwing some bad passes.
 
-**Bets: Redskins +7 & Redskins ML**
+**Bets: Redskins +7, Redskins ML, & Michael Gallup to Score a TD**
 
 ***
 
