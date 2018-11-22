@@ -8,6 +8,7 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/thanksgiving-bonanza.md
 - content/posts/reviewing-atlanta-s-loss-against-the-cowboys.md
 - content/posts/week-11-risky-propositions.md
 - content/posts/week-11-best-bets.md
