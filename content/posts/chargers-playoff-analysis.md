@@ -28,7 +28,7 @@ The reality is that the Chargers only have two solid weapons on their offense, b
 
 Melvin Ingram certainly deserves his billing as an elite pass rusher. His Pro Bowl invitation is not meant to be taken lightly, especially given that the Chargers fan base is probably one of the least passionate out there.
 
-Joey Bosa, on the other hand, has me a bit wary.  His return from injury has been uninspiring, to say the least. Though from a statistical perspective, racking up 8 quarterback hits in 6 games is pretty commendable. So even though I'll list the guy as an elite edge rusher (as other coaches would doubtlessly), I do expect his defensive contributions to be dampened in the playoffs.
+Joey Bosa, on the other hand, has me a bit wary.  His return from injury has been uninspiring, to say the least. Though from a statistical perspective, racking up 8 quarterback hits in 6 games is pretty commendable. Registering 16 solo tackles over those 6 games is impressive as well. So with those stats in mind and his prior history, I'll list the guy as an elite edge rusher.
 
 ***
 
