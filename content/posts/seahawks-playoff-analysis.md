@@ -16,11 +16,11 @@ Given his history though, I am willing to give the man the benefit of the doubt 
 
 ***
 
-#### Offensive Weapons: _Chris Carson, Russell Wilson_
+#### Offensive Weapons: _Chris Carson, Russell Wilson, Tyler Lockett_
 
 It's unsurprising to see two rushers being deemed as the main offensive weapons given that the Seahawks are the one team in the league most committed to the run. With Chris Carson as its bell cow halfback and Russell Wilson as a mobile quarterback, Seattle has been frustrating defenses for the better part of the season with its multi-dimensional ground game. Pete Carroll has been relentless in his journey to bring back that run-first offense from the Seahawks championship years....and his efforts have finally bore fruit this season.
 
-But on the other hand...the strong ground game comes at the expense of the passing game. It's not as prominent as it was the last couple years. Tyler Lockett and Doug Baldwin still contribute positively, but the statistics and the eye test tells me that neither player merits consideration as a significant offensive weapon. Perhaps I need to watch more game tape, but it seems that any consistent success the team has in the air game comes more as a result of some fantastic throws from Russell Wilson instead of some terrific plays from their wide receivers. Yes, it takes two to complete a deep pass outside the numbers, but no one pass-catcher has truly stood out to me from what I could see.
+But on the other hand...the strong ground game comes at the expense of the passing game. It's not as prominent as it was the last couple years. And yet despite that, Tyler Lockett is having his best season in terms of raw yardage.  This offense loves its deep passing off play action, and the one receiver that can truly take advantage of these throws is the 4th-year speedster. 
 
 ***
 
@@ -32,7 +32,7 @@ But on the other hand...the strong ground game comes at the expense of the passi
 
 ***
 
-#### Coach: _Anthony Lynn (HC), Gus Bradley (DC), Ken Whisenhunt (OC)_
+#### Coach: _Pete Carroll (HC), Brian Schottenheimer (OC), Ken Norton Jr. (DC)_
 
 ***
 
