@@ -32,14 +32,18 @@ Without a single elite pass rusher, the Colts defense will be a massive liabilit
 
 #### Playoff Experience
 
-Just as bad, Indianapolis lacks playoff experience across all aspects of their team.
+Yet another negative here. Quite a few people on the roster lack recent playoff experience. Key players like Andrew Luck and T.Y. Hilton last logged playing time in the postseason back in 2014, so it remains uncertain as to how quick these two (let alone other players) can adjust to the postseason environment.
 
 ***
 
-#### Coach: _Doug Pederson (HC), Mike Groh (OC), Jim Schwartz (DC)_
+#### Coach: _Frank Reich (HC), Matt Eberflus (DC)_
+
+Frank Reich has done well with a team that did fairly little during free agency. Not only do the Colts play much better than the sum of their parts, but he's successfully eased a shaken Andrew Luck back into the sport. Reich deserves commendations for the job he has done here. Honestly...I'd vote him as the Coach of the Year.
 
 ***
 
 ***
 
 #### Prognosis / Outlook
+
+Kudos to the Colts for making the playoffs after such a horrendous season last year. That being said...the next game against Houston will be the last game of their season.
