@@ -28,7 +28,7 @@ I initially had some trouble here. While I had little doubt Cameron Jordan deser
 
 I saw little from Rankins for the first three quarters. But then the man came alive in the fourth quarter. On the Buccaneers' last three drives, Sheldon booked a sack and two hits. Still, his absence the rest of the game worried me. If anything though, another player impressed me at times - Marcus Davenport.
 
-I literally just noticed that Davenport only played in 13 games this season, having taken 3 game off to heal up an injured toe. And from what I read, it seems that toe injury hindered his play style the first couple weeks after his return. If you take away the games where he couldn't allegedly perform up to potential, the rookie edge rusher comes away with 12 hits over 11 games. Not too shabby. So if anything, an argument can be made to include Davenport on this list.
+I literally just noticed that Davenport only played in 13 games this season, having taken 3 game off to heal up an injured toe. And from what I read, it seems that toe injury hindered his play style his first couple games back. If you take away the games where he couldn't allegedly perform up to potential, the rookie edge rusher comes away with 12 hits over 11 games. Not too shabby. So if anything, an argument can be made to include Davenport on this list.
 
 ***
 
@@ -43,5 +43,3 @@ I literally just noticed that Davenport only played in 13 games this season, hav
 ***
 
 #### Prognosis / Outlook
-
-The Texans could go as far as the conference championship. And with some luck, Houston could possibly win the Super Bowl this year.
