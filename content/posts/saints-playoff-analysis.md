@@ -34,12 +34,20 @@ I literally just noticed that Davenport only played in 13 games this season, hav
 
 #### Playoff Experience
 
+Most of the team that played last year in the postseason will be playing again this year. Only the defense have significant players that will be making their playoff debut in two weeks - edge rusher Marcus Davenport, defensive back Eli Apple, and linebacker Demario Davis. So inexperience will be a trivial matter for this team.
+
 ***
 
-#### Coach: _Bill O'Brien (HC), Romeo Crennel (DC)_
+#### Coach: _Sean Payton (HC), Dennis Allen (DC)_
+
+Payton and Allen have continued marshaling some fine performances from this team. But in talking about these coaches, I want to bring light to something here - it's the ways the Saints manage to win games. Compare the games against Los Angeles and Minnesota here. Against the Rams, New Orleans clobbered them offensively to the tune of 487 yards. That production on offense and some help from special teams was enough to overcome the defense giving up 483 yards of their own to the Rams offense.  Against the Vikings though, the Saints were able to win that contest thanks to a masterful showing from their defense. With the offense performing at a mediocre level, the defense picked up the slack and carried the team to a primetime road victory.
+
+So the fact that the Saints can tick off wins even when one unit underperforms reflects highly on the coaching.
 
 ***
 
 ***
 
 #### Prognosis / Outlook
+
+The Saints biggest obstacle in the NFC are the Eagles. If the Eagles falter for any reason or are simply not playing up to potential, expect New Orleans to represent the NFC in the Super Bowl.
