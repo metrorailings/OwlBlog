@@ -4,45 +4,43 @@ draft = true
 headline = "Chiefs Playoff Analysis"
 
 +++
-The Chiefs have emerged from nowhere and seized the top seed in the American Football Conference, thanks largely to the future MVP playing at quarterback - Patrick Mahomes. 
+The Chiefs have emerged from nowhere and seized the top seed in the American Football Conference, thanks largely to the future MVP playing at quarterback - Patrick Mahomes.
 
 ***
 
 #### Quarterback: _Patrick Mahomes_
 
-Drew Brees is an MVP candidate for a reason. Yes, a few of his games this season have been completely ordinary. But the eye test and the statistics irrefutably validates his status as an elite quarterback. Forget passer rating...just look at his deep passing statistics - Brees stands as one of only 4 quarterbacks this season to have completed over 50% of his deep passes.  
+As the prospective MVP of the season, no question is Patrick Mahomes an elite quarterback.
 
 ***
 
-#### Offensive Weapons: _Michael Thomas, Alvin Kamara_
+#### Offensive Weapons: _Tyreek Hill, Travis Kelce_
 
-Both players have done more than enough to merit inclusion on this list. Thomas and Kamara have continued performing at a high level after a Pro Bowl year last season. Mark Ingram, on the other hand, has dropped off a cliff. Not only has he lost his status as the team's bell cow at running back, but his receiving numbers have dropped off by roughly 60% from last year. It wasn't just Kamara that cannibalized Ingram's numbers this year - Taysom Hill has been stealing some carries away from Ingram as well.
+Tyreek Hill and Travis Kelce were spectacular last year, but even better this year now that a truly elite quarterback was at the helm of the offense. Both easily broke past the millenium yard mark on route to scoring double-digit touchdowns this year.
 
-Generally, I recommend that a team have at least 3 offensive skill players that can be put on this list. The Saints clearly fall a bit short on that, though certainly not for lack of trying. New Orleans did try to work Brandon Marshall and Dez Bryant into the fold, but neither player actually found their way on the field. And none of their depth receivers have been able to contribute consistently. Tre-Quan Smith seems like the most promising pass-catcher on the team after Michael Thomas, but the man has only had two big games this season.
+If Kareem Hunt was still in the fold here, the Chiefs would be stacked in terms of offensive weaponry. However, booting him off the team left them without a reliable backfield option. Without a rusher that can both run and pass the ball, the team only has two notable dimensions of attack on offense. Even though Mahomes is capable of running the ball himself, his rushes and scrambles have been kept at a minimal rate this season, which leaves me with some doubt as to whether the team can safely rely on his ability to run the ball in order to move the chains. 
 
 ***
 
-#### Elite Pass Rushers: _Cameron Jordan_
+#### Elite Pass Rushers: _Dee Ford, Chris Jones, Justin Houston_
 
-I initially had some trouble here. While I had little doubt Cameron Jordan deserved a spot here, my dilemma was whether I should include Sheldon Rankins as well. After all, Rankins was statistically the second best pass rusher on the team, tallying 15 hits on opposing quarterbacks during the season. So I decided to watch footage from a recent game where he registered a good number of hits - the game at Tampa Bay.
+The Chiefs are irrefutably the one team in the AFC with the best set of pass rushers. Before the season started, I would have been floored at the notion of Justin Houston only being the _third_ best pressure defender on the team... but the reality is that Dee Ford and Chris Jones have taken major leaps forward this year when it comes to rushing the passer, each having logged  30 hits on opposing quarterbacks this season.
 
-I saw little from Rankins for the first three quarters. But then the man came alive in the fourth quarter. On the Buccaneers' last three drives, Sheldon booked a sack and two hits. Still, his absence the rest of the game worried me. If anything though, another player impressed me at times - Marcus Davenport.
-
-I literally just noticed that Davenport only played in 13 games this season, having taken 3 game off to heal up an injured toe. And from what I read, it seems that toe injury hindered his play style his first couple games back. If you take away the games where he couldn't allegedly perform up to potential, the rookie edge rusher comes away with 12 hits over 11 games. Not too shabby. So if anything, an argument can be made to include Davenport on this list.
+Meanwhile, Justin Houston "merely" registered 15 quarterback hits this season and 28 solo tackles, but the man only played in 12 games this season. If you were to extrapolate his numbers over a 16-game period, Houston would doubtlessly be labelled elite.
 
 ***
 
 #### Playoff Experience
 
-Most of the team that played last year in the postseason will be playing again this year. Only the defense have significant players that will be making their playoff debut in two weeks - edge rusher Marcus Davenport, defensive back Eli Apple, and linebacker Demario Davis. So inexperience will be a trivial matter for this team.
+The Chiefs are fine here. All the key players here have postseason experience...except for one - Patrick Mahomes. Mahomes sat on the bench last year when the Chiefs lost their playoff opener against the Titans, so this year will actually be the first year Patrick sees real action in the postseason. I do not foresee this being much of a problem, though...the man has more than lived up to his billing as the starting quarterback this year. Nerves will rattle him at the start, but he'll shake them off fairly quickly. 
 
 ***
 
-#### Coach: _Sean Payton (HC), Dennis Allen (DC)_
+#### Coach: _Andy Reid (HC), Eric Bieniemy (OC) Bob Sutton (DC)_
 
-Payton and Allen have continued marshaling some fine performances from this team. But in talking about these coaches, I want to bring light to something here - it's the ways the Saints manage to win games. Compare the games against Los Angeles and Minnesota here. Against the Rams, New Orleans clobbered them offensively to the tune of 487 yards. That production on offense and some help from special teams was enough to overcome the defense giving up 483 yards of their own to the Rams offense.  Against the Vikings though, the Saints were able to win that contest thanks to a masterful showing from their defense. With the offense performing at a mediocre level, the defense picked up the slack and carried the team to a primetime road victory.
+Andy Reid has always been a top-tier coach the past several years. Nothing this season has changed that. If anything, I respect Reid even more now, having brought out phenomenal performances from the young Mahomes so early into his career. The time he spends mentoring his quarterback during games has paid off in dividends, as it seems Patrick has continued to develop throughout the season, even as defenses began working harder to limit his game.
 
-So the fact that the Saints can tick off wins even when one unit underperforms reflects highly on the coaching.
+Bob Sutton, meanwhile, has been a bit of a mixed bag. The defensive line has taken some massive strides forward this year...but at the expense of the secondary. Kansas City may have one of the worst defensive backfields in the league. The team's affinity for man coverage schemes only exacerbates the shortcomings among the cornerbacks and safeties. But lately, the Chiefs have shown some considerable progress in coverage. Even though Seattle managed to post 38 points against this defense late in the season, the cornerbacks and safeties actually played well in that game. It was Russell Wilson's dime passing that allowed Seattle to produce so much on offense.  
 
 ***
 
@@ -50,4 +48,4 @@ So the fact that the Saints can tick off wins even when one unit underperforms r
 
 #### Prognosis / Outlook
 
-The Saints biggest obstacle in the NFC are the Eagles. If the Eagles falter for any reason or are simply not playing up to potential, expect New Orleans to represent the NFC in the Super Bowl.
+Super Bowl favorites, easily. The Chiefs are likely the team to beat should any of the other teams with promise want to hoist the Lombardi Trophy this year.
