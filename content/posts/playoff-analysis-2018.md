@@ -11,8 +11,6 @@ Click on any of the team logos below to navigate to the write-up for that partic
 
 ***
 
-***
-
 ## NFC Playoffs
 
 <div class='logoPlayoffLinkContainer'>
