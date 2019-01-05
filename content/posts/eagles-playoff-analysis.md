@@ -29,9 +29,9 @@ But there is hope for Philly - Josh Adams seems to be impressing in the ground g
 
 #### Elite Pass Rushers: _Michael Bennett, Fletcher Cox_
 
-Both Michael Bennett and Fletcher Cox have been lighting up opposing quarterbacks all season. Bennett has been an especially impressive addition to the roster this year, taking the mantle of chief edge rusher away from the disappointing Brandon Graham. Fletcher Cox, meanwhile, is still up to his old ways, racking up roughly 35 quarterback hits over the course of the season. 
+Both Michael Bennett and Fletcher Cox have been lighting up opposing quarterbacks all season. Bennett has been an especially impressive addition to the roster this year, taking the mantle of chief edge rusher away from the disappointing Brandon Graham. Fletcher Cox, meanwhile, is still up to his old ways, racking up roughly 35 quarterback hits over the course of the season.
 
-An argument could be made that Chris Long should be added to the list. His 20 quarterback hits is above that of other edge rushers I consider elite, such as Melvin Ingram. Still, his mundane tackling and  numbers paint a different picture.   
+An argument could be made that Chris Long should be added to the list. He's registered 20 hits on opposing quarterbacks, more than that of other edge rushers I consider elite, like Melvin Ingram. Still, his mundane tackling numbers makes me a bit wary here. I'll revisit this section later should the Eagles win their first game against the Bears.
 
 ***
 
@@ -51,4 +51,4 @@ Doug Pederson has proved himself after going on a Super Bowl run with a team tha
 
 #### Prognosis / Outlook
 
-Believe it or not, the Eagles could actually reach the Super Bowl. Yeah, I said it...the Eagles could end up as NFC champions yet again. **BUT...**_only if  Nick Foles remains healthy._ If Foles is seriously injured at any point during the postseason, the Eagles will be cleaning out their lockers pretty damn soon afterwards. Guaranteed. 
+Believe it or not, the Eagles could actually reach the Super Bowl. Yeah, I said it...the Eagles could end up as NFC champions yet again. **BUT...**_only if  Nick Foles remains healthy._ If Foles is seriously injured at any point during the postseason, the Eagles will be cleaning out their lockers pretty damn soon afterwards. Guaranteed.
