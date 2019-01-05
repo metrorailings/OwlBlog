@@ -1,6 +1,5 @@
 +++
 date = "2019-01-02T00:07:35-05:00"
-draft = true
 headline = "Texans Playoff Analysis"
 
 +++
