@@ -3,7 +3,7 @@ date = "2018-12-30T01:38:42-05:00"
 headline = "Bears Playoff Analysis"
 
 +++
-Under Matt Nagy, the Chicago Bears have gone from being considered the dregs of the NFC North division to being crowned the Kings of the North. Barring an unlikely loss by the Rams, Chicago is locked in as the third seed of the National Football Conference.
+Under Matt Nagy, the Chicago Bears have gone from being considered the dregs of the NFC North division to being crowned the Kings of the North. Chicago is now locked in as the third seed of the National Football Conference.
 
 ***
 
@@ -19,7 +19,7 @@ A bit of an odd situation here. Tarik Cohen is the team's second-string running 
 
 The other key weapon is Mitchell Trubisky himself. For as terrible a passer as he is, the guy is a phenomenal scrambler. The Patriots game was a shining example of his ability to extend plays and run circles around defenders.
 
-Allen Robinson is notably absent here. Frankly, the man doesn't quite pass the eye test. And when you stitch together various statistics, it becomes evident that he's not vital to this Bears offense - his third down numbers are rather ordinary (especially when compared to the other major receivers on the team) and he generates less than 2 yards per route run, according to Pro Football Focus.  
+Allen Robinson is notably absent here. Frankly, the man doesn't quite pass the eye test. And when you stitch together various statistics, it becomes evident that he's not vital to this Bears offense - his third down numbers are rather ordinary (especially when compared to the other major receivers on the team) and he generates less than 2 yards per route run.
 
 ***
 
@@ -49,4 +49,4 @@ Matt Nagy especially deserves more praise for engineering a functional offense d
 
 #### Prognosis / Outlook
 
-If the Bears meet the Eagles in the first round...Chicago fans will need to wait another year to taste a playoff victory. But if it's the Vikings instead traveling to the Windy City come Wild Card weekend...then the Bears may make their way to the final four.
+When the Bears meet the Eagles in the first round...Chicago fans will need to wait another year to taste a playoff victory. But if it's the Vikings instead traveling to the Windy City come Wild Card weekend...then the Bears may make their way to the final four.
