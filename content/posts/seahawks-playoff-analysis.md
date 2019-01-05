@@ -3,7 +3,7 @@ date = "2018-12-28T00:48:55-05:00"
 headline = "Seahawks Playoff Analysis"
 
 +++
-The Seattle Seahawks are virtually locked into the fifth seed of the National Football Conference. Pretty amazing feat given their low preseason expectations...
+The Seattle Seahawks are locked into the fifth seed of the National Football Conference. Pretty amazing feat given their low preseason expectations...
 
 ***
 
