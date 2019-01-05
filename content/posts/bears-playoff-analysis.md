@@ -49,4 +49,4 @@ Matt Nagy especially deserves more praise for engineering a functional offense d
 
 #### Prognosis / Outlook
 
-When the Bears meet the Eagles in the first round...Chicago fans will need to wait another year to taste a playoff victory. But if it's the Vikings instead traveling to the Windy City come Wild Card weekend...then the Bears may make their way to the final four.
+Chicago fans will likely need to wait another year to finally savor a playoff victory. But should they beat the Eagles, a trip to the conference championship is very possible.
