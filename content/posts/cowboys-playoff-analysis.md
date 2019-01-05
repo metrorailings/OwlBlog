@@ -1,6 +1,6 @@
 +++
 date = "2018-12-25T19:04:15-05:00"
-headline = "Dallas Cowboys - Playoff Analysis"
+headline = "Cowboys Playoff Analysis"
 
 +++
 The Dallas Cowboys are officially the 4th seed in the National Football Conference playoffs. Jerry Jones and the [Clapper](https://media.giphy.com/media/SGWqZBe0hCj3nlr0Dn/giphy.gif) will be leading their men into the postseason, starting Wild Card weekend with a home showing against the Seahawks (most likely).
