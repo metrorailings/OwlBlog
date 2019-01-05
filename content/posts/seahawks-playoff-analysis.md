@@ -11,7 +11,7 @@ The Seattle Seahawks are virtually locked into the fifth seed of the National Fo
 
 Russell Wilson has been up and down this season. His performance against the Chiefs last week was a throwback to the last couple years when he was undoubtedly an elite quarterback. But then watch his game against the Vikings and doubts begin to creep up on whether he's losing his touch...
 
-Given his history though, I am willing to give the man the benefit of the doubt here. Not to mention that Pro Football Focus has him pegged as one of the most accurate quarterbacks this season, throwing deep passes with roughly 50% accuracy. His passer rating has been phenomenal as well. So the Seahawks can count on Russell Wilson as a strength heading into the postseason.
+Given his history though, I am willing to give the man the benefit of the doubt here. Not to mention that data analytics has him pegged as one of the most accurate quarterbacks this season, throwing deep passes with roughly 50% accuracy. His passer rating has been phenomenal as well. So the Seahawks can count on Russell Wilson as a strength heading into the postseason.
 
 ***
 
@@ -41,7 +41,7 @@ Russell Wilson and his team are only two years removed from a playoff victory. O
 
 Pete Carroll deserves massive credit for firing his friend Tom Cable in the offseason. Cable was absolutely ineffective in coaching up the offensive line - his firing was critical towards this team remaining relevant in the post-Legion-of-Boom era. Now that the offensive line has actually gelled under Mike Solari, Seattle has revived that ground game that was so vital to their 2013 Super Bowl run. Being able to run the ball opens up the deep pass, where Russell Wilson truly shines.
 
-The defense is not quite there yet though. Frank Clark has stepped in well enough for Michael Bennett, but the secondary is still a little too green to be considered truly great. Bobby Wagner patrolling the flat has helped the team tremendously in coverage though.   
+The defense is not quite there yet though. Frank Clark has stepped in well enough for Michael Bennett, but the secondary is still a little too green to be considered truly great. Bobby Wagner patrolling the flat has helped the team tremendously in coverage though.
 
 ***
 
