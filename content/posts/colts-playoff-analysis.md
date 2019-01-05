@@ -31,7 +31,7 @@ Without a single elite pass rusher, the Colts defense will be a massive liabilit
 
 #### Playoff Experience
 
-Yet another negative here. Quite a few people on the roster lack recent playoff experience. Key players like Andrew Luck and T.Y. Hilton last logged playing time in the postseason back in 2014, so it remains uncertain as to how quick these two (let alone other players) can adjust to the postseason environment.
+Yet another negative here. Quite a few people on the roster lack recent playoff experience. Key players like Andrew Luck and T.Y. Hilton last saw postseason action back in 2014, so it remains uncertain as to how quick these two (let alone other players) can adjust to the postseason environment.
 
 ***
 
