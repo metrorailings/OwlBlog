@@ -29,7 +29,7 @@ Now...notice Gronk is not on this list?  Well, this year may have been Rob Gronk
 
 For the second year in a row, Trey Flowers has been the team's star at rushing the quarterback. With 20 quarterback hits and 32 solo tackles, Flowers has made his presence known in quite a few games this season.
 
-The only other edge rusher worth consideration here is Deatrich Wise Jr. But numbers alone are sufficient to come to a conclusion here. Last year, the man posted 19 quarterback hits, 5 sacks, and 16 solo tackles. This year, he only notched 16 quarterback hits, 4.5 sacks, and 15 solo tackles. If I did not consider him to be an elite pass rusher last year, why the hell would I consider him one this year when the numbers paint a weaker picture? 
+The only other edge rusher worth consideration here is Deatrich Wise Jr. But numbers alone are sufficient to come to a conclusion here. Last year, the man posted 19 quarterback hits, 5 sacks, and 16 solo tackles. This year, he only notched 16 quarterback hits, 4.5 sacks, and 15 solo tackles. If I did not consider him to be an elite pass rusher last year, why the hell would I consider him one this year when the numbers paint a weaker picture?
 
 ***
 
@@ -39,7 +39,7 @@ The Patriots roll into the postseason with several new faces, but the major play
 
 ***
 
-#### Coach: _Bill Belichick (HC), Josh McDaniels (OC),_ 
+#### Coach: _Bill Belichick (HC), Josh McDaniels (OC)_
 
 The wunderkind Sean McVay is definitely a great coach, if simply for making Jared Goff look like an MVP candidate for a couple weeks. With the right personnel, his offensive schemes produces excellent results. Likewise, Wade Phillips is a fantastic defensive coordinator in his own right. Even if his unit has not been anything worth raving about this year, the man holds distinction as a defensive mastermind. So I trust the Rams are in good hands with these two leading the team.
 
@@ -47,4 +47,4 @@ The wunderkind Sean McVay is definitely a great coach, if simply for making Jare
 
 #### Prognosis / Outlook
 
-In years past, the Patriots were almost always Super Bowl contenders. This year is a different story. With a pedestrian defense and a reduced offense, the Patriots may not even win one playoff game this year. 
+In years past, the Patriots were almost always Super Bowl contenders. This year is a different story. With a pedestrian defense and a reduced offense, the Patriots may not even win one playoff game this year.
