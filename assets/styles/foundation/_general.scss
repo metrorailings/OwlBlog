@@ -46,7 +46,13 @@ h2
 	width: 100%;
 	text-align: center;
 
-	margin: 0px;
+	margin:
+	{
+		top: 25px;
+		left: 0px;
+		right: 0px;
+		bottom: 0px;
+	}
 
 	&::before
 	{
