@@ -79,3 +79,37 @@
 		max-height: 30px;
 	}
 }
+
+.logoPlayoffLinkContainer
+{
+	margin:
+	{
+		left: 25px;
+		right: 25px;
+	}
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.logoPlayoffLink
+{
+	margin: 25px;
+	cursor: pointer;
+
+	img
+	{
+		@include tabletUp()
+		{
+			max-height: 150px;
+			max-width: 150px;
+		}
+
+		@include phoneOnly()
+		{
+			max-height: 75px;
+			max-width: 75px;
+		}
+	}
+}

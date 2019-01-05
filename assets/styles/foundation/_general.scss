@@ -41,6 +41,34 @@ body
 	}
 }
 
+h2
+{
+	width: 100%;
+	text-align: center;
+
+	margin: 0px;
+
+	&::before
+	{
+		content: '-';
+
+		margin:
+		{
+			right: 5px;
+		}
+	}
+
+	&::after
+	{
+		content: '-';
+
+		margin:
+		{
+			left: 5px;
+		}
+	}
+}
+
 button:focus
 {
 	outline: none;
