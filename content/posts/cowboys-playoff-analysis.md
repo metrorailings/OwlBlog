@@ -9,7 +9,7 @@ The Dallas Cowboys are officially the 4th seed in the National Football Conferen
 
 #### Quarterback: _Dak Prescott_
 
-Dak Prescott is not an elite quarterback. All of the strengths we associate with top-tier quarterbacks - accuracy, decision-making, composure under pressure, efficiency...none of these are traits that can be associated with Dak. Even after Jerry Jones dealt a 1st-rounder for Amari Cooper in an attempt to inject life into their lame passing attack, Prescott still remains pretty awful. Pro Football Focus has him billed as one of the worst quarterbacks at throwing the deep ball from Week 10 onward, posting only a 30% accuracy rate on deep passes thrown.
+Dak Prescott is not an elite quarterback. All of the strengths we associate with top-tier quarterbacks - accuracy, decision-making, composure under pressure, efficiency...none of these are traits that can be associated with Dak. Even after Jerry Jones dealt a 1st-rounder for Amari Cooper in an attempt to inject life into their lame passing attack, Prescott still remains pretty awful. Analytical outfits have him billed as one of the worst quarterbacks at throwing the deep ball from Week 10 onward, posting only a 30% accuracy rate on deep passes thrown.
 
 The first three quarters of Dallas' home game against Philadelphia illustrates exactly why the man is more a liability than an asset in the Cowboys offense. Whatever magic the guy possessed in 2016 is lost this year.
 
@@ -25,7 +25,7 @@ As stated before when I was talking about the quarterback, the Cowboys passing g
 
 #### Elite Pass Rushers: _Demarcus Lawrence_
 
-With 23 quarterback hits and 40 solo tackles credited to him, Demarcus Lawrence is indeed an elite edge rusher. 
+With 23 quarterback hits and 40 solo tackles credited to him, Demarcus Lawrence is indeed an elite edge rusher.
 
 The only other player with any sort of elite potential is David Irving, but injuries have largely sidelined him for most of the season. Even if he returns in the postseason, I'm going to err on the safe side here and assume his contributions will be minimal.
 
@@ -48,3 +48,5 @@ Garrett did try to shake things up a bit - he fired his offensive line coach mid
 ***
 
 #### Outlook / Prognosis
+
+The Cowboys may be able to sneak by the Seahawks in the wild card round, but they'll be whipped in the division round by either the Rams or the Saints.
