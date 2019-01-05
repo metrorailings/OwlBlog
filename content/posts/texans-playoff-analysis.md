@@ -19,7 +19,7 @@ DeAndre has been the only reliable pass catcher on the team. Really, it seems li
 
 The depth receivers have been serviceable, but none of them can produce on a consistent basis. Luckily, the team had an added dimension to their offense that they can count upon when the air game stalls - Deshaun's ability to scramble and run with the ball. Similar to Mitch Trubisky, Watson has been magical matriculating the ball down the field with his scrambles and improvised runs.
 
-It's worth noting that Lamar Miller had flashes of brilliance this season, but injuries have slowed him down as well. And really, it's worth repeating an earlier point - that injuries have compromised much of this offense. If this team was fairly healthy coming into the postseason, I would consider them to be a Super Bowl favorite. 
+It's worth noting that Lamar Miller had flashes of brilliance this season, but injuries have slowed him down as well. And really, it's worth repeating an earlier point - that injuries have compromised much of this offense. If this team was fairly healthy coming into the postseason, I would consider them to be a Super Bowl favorite.
 
 ***
 
@@ -35,15 +35,15 @@ A case can be made for Whitney Mercilus to be included on this list as well. His
 
 A fair number of players on this team are only two years removed from playoff experience. The team is not as green as I initially thought.
 
-The only issue might be Deshaun Watson. This would be the first playoff game of his career. Normally, I'd say nerves could be an issue here...but the man is only two years removed from playing in the college national championship. If he can channel that rugged mentality that helped him win that game, he should be fine.  
+The only issue might be Deshaun Watson. This would be the first playoff game of his career. Normally, I'd say nerves could be an issue here...but the man is only two years removed from playing in the college national championship. If he can channel that rugged mentality that helped him win that game, he should be fine.
 
 ***
 
 #### Coach: _Bill O'Brien (HC), Romeo Crennel (DC)_
 
-Unfortunately, Bill O'Brien has not been a great coach this year. While he deserves credit for helping the team bounce back after an 0-3 start to the season, O'Brien has shown his limitations as well, particular when it comes to fixing weak points on the roster and adapting with the times. 
+Unfortunately, Bill O'Brien has not been a great coach this year. While he deserves credit for helping the team bounce back after an 0-3 start to the season, O'Brien has shown his limitations as well, particular when it comes to fixing weak points on the roster and adapting with the times.
 
-Take the offensive line, for example. His offensive line has been a train wreck, largely because his tackles have been utterly inept at pass protection and run blocking. O'Brien has done little to fix this issue, though he hasn't been helped by injuries to Seantrel Henderson. 
+Take the offensive line, for example. His offensive line has been a train wreck, largely because his tackles have been utterly inept at pass protection and run blocking. O'Brien has done little to fix this issue, though he hasn't been helped by injuries to Seantrel Henderson.
 
 But it's not just roster management - his crippling conservative approach to game management has been infuriating and even costly. The Philadelphia game best demonstrates this - whereas Doug Pederson had no qualms putting his offense out there on 4th downs, Bill O'Brien repeatedly refused to give his offense any opportunities to convert 4th downs, even when only a few yards were needed to move the chains.
 
@@ -55,4 +55,4 @@ On a positive note though, he's taken the Texans to the playoffs three of the la
 
 #### Prognosis / Outlook
 
-The Texans could go as far as the conference championship. And with some luck, Houston could possibly win the Super Bowl this year.
+The Texans could go as far as the conference championship. And with some luck, Houston could possibly win the Super Bowl this year. But at the very least, I do expect the Texans to play in the division round against the Patriots.
