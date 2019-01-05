@@ -3,7 +3,7 @@ date = "2018-12-27T00:28:34-05:00"
 headline = "Chargers Playoff Analysis"
 
 +++
-The \~Los Angeles\~ San Diego Chargers are destined for the 5th seed in the American Football Conference playoffs. Despite a crummy home field advantage, the Bolts have rode high on some MVP-quality play from Philip Rivers.
+The \~Los Angeles\~ San Diego Chargers have claimed the 5th seed in the American Football Conference playoffs. Despite a crummy home field advantage, the Bolts have rode high on some MVP-quality play from Philip Rivers.
 
 ***
 
@@ -55,4 +55,4 @@ In this case, what I've seen from Anthony Lynn seems to indicate that he's a pla
 
 #### Prognosis / Outlook
 
-I do expect the Chargers to survive Wild Card round should they face the Ravens or Colts. But the division round will be the end of the road for them if they have to travel to Arrowhead Stadium. If they're lucky enough, the Titans might bail them out here should they make the playoffs...then the Chargers may actually reach the conference championships.
+Not sure the Chargers will be going far in the playoffs. The Ravens and Chiefs will be tough road games, given that both teams have some talented pass rushers. My current feeling is that the Chargers will be one and done.
