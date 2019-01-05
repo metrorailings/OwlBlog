@@ -1,6 +1,5 @@
 +++
 date = "2018-12-30T01:38:42-05:00"
-draft = true
 headline = "Bears Playoff Analysis"
 
 +++
