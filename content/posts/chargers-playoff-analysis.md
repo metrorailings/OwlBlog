@@ -1,6 +1,5 @@
 +++
 date = "2018-12-27T00:28:34-05:00"
-draft = true
 headline = "Chargers Playoff Analysis"
 
 +++
