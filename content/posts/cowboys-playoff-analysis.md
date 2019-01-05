@@ -1,6 +1,5 @@
 +++
 date = "2018-12-25T19:04:15-05:00"
-draft = true
 headline = "Dallas Cowboys - Playoff Analysis"
 
 +++
