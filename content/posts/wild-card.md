@@ -1,6 +1,5 @@
 +++
 date = "2019-01-05T00:27:08-05:00"
-draft = true
 headline = "Wild Card Weekend Picks"
 
 +++
