@@ -1,6 +1,5 @@
 +++
 date = "2019-01-02T00:23:27-05:00"
-draft = true
 headline = "Saints Playoff Analysis"
 
 +++
