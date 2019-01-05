@@ -9,7 +9,7 @@ The Chiefs have emerged from nowhere and seized the top seed in the American Foo
 
 #### Quarterback: _Patrick Mahomes_
 
-As the prospective MVP of the season, no question is Patrick Mahomes an elite quarterback.
+As the prospective MVP of the season, there's no question Patrick Mahomes is an elite quarterback.
 
 ***
 
