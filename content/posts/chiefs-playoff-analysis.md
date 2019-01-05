@@ -7,7 +7,7 @@ The Chiefs have emerged from nowhere and seized the top seed in the American Foo
 
 ***
 
-#### Quarterback: _Patrick Mahomes_
+### Quarterback: _Patrick Mahomes_
 
 As the prospective MVP of the season, no question is Patrick Mahomes an elite quarterback.
 
@@ -17,7 +17,7 @@ As the prospective MVP of the season, no question is Patrick Mahomes an elite qu
 
 Tyreek Hill and Travis Kelce were spectacular last year, but even better this year now that a truly elite quarterback was at the helm of the offense. Both easily broke past the millenium yard mark on route to scoring double-digit touchdowns this year.
 
-If Kareem Hunt was still in the fold here, the Chiefs would be stacked in terms of offensive weaponry. However, booting him off the team left them without a reliable backfield option. Without a rusher that can both run and pass the ball, the team only has two notable dimensions of attack on offense. Even though Mahomes is capable of running the ball himself, his rushes and scrambles have been kept at a minimal rate this season, which leaves me with some doubt as to whether the team can safely rely on his ability to run the ball in order to move the chains. 
+If Kareem Hunt was still in the fold here, the Chiefs would be stacked in terms of offensive weaponry. However, booting him off the team left them without a reliable backfield option. Without a rusher that can both run and pass the ball, the team only has two notable dimensions of attack on offense. Even though Mahomes is capable of running the ball himself, his rushes and scrambles have been kept at a minimal rate this season, which leaves me with some doubt as to whether the team can safely rely on his ability to run the ball in order to move the chains.
 
 ***
 
@@ -31,7 +31,7 @@ Meanwhile, Justin Houston "merely" registered 15 quarterback hits this season an
 
 #### Playoff Experience
 
-The Chiefs are fine here. All the key players here have postseason experience...except for one - Patrick Mahomes. Mahomes sat on the bench last year when the Chiefs lost their playoff opener against the Titans, so this year will actually be the first year Patrick sees real action in the postseason. I do not foresee this being much of a problem, though...the man has more than lived up to his billing as the starting quarterback this year. Nerves will rattle him at the start, but he'll shake them off fairly quickly. 
+The Chiefs are fine here. All the key players here have postseason experience...except for one - Patrick Mahomes. Mahomes sat on the bench last year when the Chiefs lost their playoff opener against the Titans, so this year will actually be the first year Patrick sees real action in the postseason. I do not foresee this being much of a problem, though...the man has more than lived up to his billing as the starting quarterback this year. Nerves will rattle him at the start, but he'll shake them off fairly quickly.
 
 ***
 
@@ -39,7 +39,7 @@ The Chiefs are fine here. All the key players here have postseason experience...
 
 Andy Reid has always been a top-tier coach the past several years. Nothing this season has changed that. If anything, I respect Reid even more now, having brought out phenomenal performances from the young Mahomes so early into his career. The time he spends mentoring his quarterback during games has paid off in dividends, as it seems Patrick has continued to develop throughout the season, even as defenses began working harder to limit his game.
 
-Bob Sutton, meanwhile, has been a bit of a mixed bag. The defensive line has taken some massive strides forward this year...but at the expense of the secondary. Kansas City may have one of the worst defensive backfields in the league. The team's affinity for man coverage schemes only exacerbates the shortcomings among the cornerbacks and safeties. But lately, the Chiefs have shown some considerable progress in coverage. Even though Seattle managed to post 38 points against this defense late in the season, the cornerbacks and safeties actually played well in that game. It was Russell Wilson's dime passing that allowed Seattle to produce so much on offense.  
+Bob Sutton, meanwhile, has been a bit of a mixed bag. The defensive line has taken some massive strides forward this year...but at the expense of the secondary. Kansas City may have one of the worst defensive backfields in the league. The team's affinity for man coverage schemes only exacerbates the shortcomings among the cornerbacks and safeties. But lately, the Chiefs have shown some considerable progress in coverage. Even though Seattle managed to post 38 points against this defense late in the season, the cornerbacks and safeties actually played well in that game. It was Russell Wilson's dime passing that allowed Seattle to produce so much on offense.
 
 ***
 
