@@ -1,6 +1,5 @@
 +++
 date = "2019-01-06T01:10:23-05:00"
-draft = true
 headline = "Revised Wild Card Picks"
 
 +++
@@ -23,3 +22,7 @@ I'm going to revise my picks for tomorrow using this new system.
 ***
 
 ### Eagles @ Bears (-6.5)
+
+![](/uploads/Wild Card Analysis - Eagles @ Bears.jpg)By my estimation, the Bears have nothing over the Eagles outside of home field advantage. The Eagles carry two categories here though - quarterback performance and playoff experience. Given that the two teams draw even in every other category, the Eagles should not only cover the spread, but also win the game.
+
+**Pick: Eagles (+6.5) & Eagles (ML)**
