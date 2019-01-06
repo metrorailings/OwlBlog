@@ -13,3 +13,13 @@ I'm going to use another system that compares teams to one another among differe
 I'm going to revise my picks for tomorrow using this new system.
 
 ***
+
+### Chargers @ Ravens (-3)
+
+![](/uploads/Wild Card Analysis - Chargers @ Ravens.jpg)The Chargers and Ravens are fairly even here. Whereas the Chargers claim an advantage here in terms of quarterbacking experience/performance, the Ravens have the better set of offensive weapons as well as home field advantage. The game plans each team draws up will be critical in determining the win. Given that the Chargers are being given 3 points...I'll go with the Chargers here.
+
+**Pick: Chargers (+3)**
+
+***
+
+### Eagles @ Bears (-6.5)
