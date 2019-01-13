@@ -1,7 +1,6 @@
 +++
 date = "2019-01-13T00:26:09-05:00"
-draft = true
-headline = "Rams over Cowboys"
+headline = "Rams over Cowboys - Post-Game Thoughts"
 
 +++
 Some thoughts on the Rams first playoff win in the Sean McVay era...
