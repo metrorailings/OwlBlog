@@ -1,6 +1,5 @@
 +++
 date = "2019-01-12T20:09:47-05:00"
-draft = true
 headline = "Chiefs over Colts - Quick Analysis"
 
 +++
