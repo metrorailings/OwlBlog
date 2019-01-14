@@ -1,6 +1,5 @@
 +++
 date = "2019-01-13T21:46:56-05:00"
-draft = true
 headline = "On Road Teams in the Playoffs"
 
 +++
