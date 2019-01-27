@@ -7,13 +7,13 @@ Rather than list bullet points quickly explaining the Rams victory in the NFC ch
 
 ***
 
-##### 1st Quarter
+#### 1st Quarter
 
 The Saints started out hot, thanks to a smartly executed tight-end screen, Alvin Kamara running wheel routes, and Michael Thomas making catches against tight coverage.
 
 Still...there were indications the Saints' success would be a little unsustainable. First off, Aaron Donald and Ndamukong Suh were constantly winning battles at the line of scrimmage - the two defensive tackles not only managed to harassed Drew Brees on a few of his pass attempts, but also limited Alvin Kamara and Mark Ingram on run plays. Even against six-man boxes, the Rams were able to hold their own against New Orleans' rushers thanks to the play of those two key playmakers along the defensive line. Second, Los Angeles wholly committed themselves to double-teaming Michael Thomas whenever possible. Even though Thomas was able to produce in the first quarter, it would only be so long before Los Angeles would finally put the clamps on him.  And without Thomas, the Saints would have no receivers to depend upon in the passing game. Now if Drew Brees was an elite quarterback, he'd eventually find other receiving outlets as the game progressed...but we'll talk more about that later.
 
-##### 2nd Quarter
+#### 2nd Quarter
 
 The Rams offense finally got going after a successful fake punt deep in their half of the field. Immediately after the chains moved, McVay called in some of his best plays and sped up the tempo in order to try and ensure that fake punt would not be in vain. And it worked. The Rams were able to chew off major yardage on this drive. Thanks to McVay's game management, Jared Goff marshaled his offense down the field in a hostile environment. And even though this drive would only result in a field goal, it helped calm him down.
 
@@ -25,7 +25,7 @@ The Rams' last drive of the half ended successfully in a touchdown. Goff deserve
 
 The quarter had eerie similarities to last week...
 
-##### 3rd Quarter
+#### 3rd Quarter
 
 The Rams started off on a weak note, striking out on their first drive without even gaining a single yard. The Saints, on the other hand, came out strong. Some adjustments are obvious here:
 
@@ -36,7 +36,7 @@ The drive ended in a touchdown. The Rams were put in a bad spot - crap out on th
 
 The Saints started the ensuing drive on a very positive note, moving the chains twice. Then Aaron Donald blew up two consecutive plays to put the Saints into a long 3rd down situation. Given that the referees in the game were content letting defensive backs mug receivers in coverage, it's not much of a surprise that the Saints failed to convert against aggressive man coverage. Once again, the Rams defensive line forced another punt out of the Saints.
 
-##### 4th Quarter
+#### 4th Quarter
 
 The last three drives stand out in this quarter. On the third-to-last drive, Goff was sensational on two big passes, including one on a long scramble out of the pocket. It's clear New Orleans had no respect for Goff's mobility - the third-year quarterback made them pay dearly for that disrespect here. Now this drive should have ended in a touchdown, but Sean McVay made the unusual move of not chancing a goal-line push on 4th and 1. Apparently, the man was content simply notching the game into a tie at that point. I'm not happy with the decision - the playoffs reward those coaches that make bold wagers. With only one yard to go, McVay needed to show confidence in his offense at that moment.
 
@@ -48,7 +48,7 @@ Anyway, second down was a failed run. Third down ended with an incomplete pass t
 
 But with some abetting from the referees, the Rams were still in position to contest the result of this team. A touchdown would have resulted in a decisive Rams victory. A field goal would send this game into overtime.  But the Los Angeles offense would need to push the ball at least 40 or so yards down the field to put themselves in position to post points on the board.  Before the game, I wouldn't expect Goff to perform well in such a tense moment. But the man was mostly fantastic, connecting on two big passes to place his team in position for a mid-range field goal. Only way he could have done better is if he threw a cleaner pass towards Robert Woods on a 3rd down conversion. Had he thrown a better ball, it's possible Woods would have motored into the end zone for a touchdown to end the game once and for all. But instead, the Rams settled for a field goal to push the game into extra time.
 
-##### Overtime
+#### Overtime
 
 Two key things that I've emphasized time and time again in this analysis once again emerge in the waning minutes of this game - the Rams' suffocating defensive line and unexpectedly amazing play from Jared Goff.
 
