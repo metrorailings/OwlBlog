@@ -37,3 +37,13 @@ I'll tell you what though, that last New England drive was a master class in coa
 **_Hits on Mahomes: 4_**
 
 #### 3rd Quarter
+
+The Chiefs fire out of the gate with a four-play touchdown drive. Most notably, Mahomes wasn't touched even once on this drive, not even on a critical 3rd down when the Patriots only sent three rushers to try and pressure him. A big pass to Sammy Watkins despite Stephon Gilmore in coverage put the Chiefs in the red zone. Then the next play was well-designed - Travis Kelce was positioned on the right while Tyreek Hill was stationed to the left of Mahomes. Knowing the Patriots would send their safety to Hill's side of the field, Andy Reid essentially schemed things so that Kelce would only be guarded by one defensive back. It didn't take long for Travis to win his match-up and catch the ball for a touchdown.
+
+One thing that's becoming clear to me as I watch the Chiefs this quarter is that Bob Sutton finally made some adjustments on defense to slow down the Patriots' rushing attack. Sutton now has three of his men lining up as tackles along the middle of the line of the scrimmage. It's much harder for the Patriots to gain any leverage in runs now. However, the additional reinforcement along th edefensive line comes at the expense of the linebackers' corps - instead of fielding two players as conventional linebackers, the Chiefs now only field only one player behind their defensive linemen.
+
+On the last play of the 3rd quarter, Mahomes missed Kelce on what would have been a fairly easy touchdown. To be fair though, his target was open as well, but that throw was significantly more difficult to make. Kelce literally ran across the formation into empty space behind two other receivers running their routes. A simple lob in his direction was all that was needed for a touchdown on that play.
+
+**_Hits on Mahomes: 3_**
+
+#### 4th Quarter
