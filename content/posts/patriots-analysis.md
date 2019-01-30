@@ -47,7 +47,7 @@ On the last play of the 3rd quarter, Mahomes missed Kelce on what would have bee
 
 #### 4th Quarter
 
-Watching the 4th quarter, it's clearly becoming evident to me that the Chiefs defensive line is turning into a vulnerability. The problem with the Chiefs is that the line is only capable of two modes - run stopping mode and pass rush mode. When the line tightens up with bigger bodies towards the middle, the Chiefs become effective defensing the run, but the pass rush loses its teeth. When the line widens into a more traditional four-man look and the Chiefs have all their stud defensive linemen out there, Kansas becomes effective rushing the passer, but then the rush defense loses virtually all of its efficacy. 
+Watching the 4th quarter, it's clearly becoming evident to me that the Chiefs defensive line is turning into a vulnerability. The problem with the Chiefs is that the line is only capable of two modes - run stopping mode and pass rush mode. When the line tightens up with bigger bodies towards the middle, the Chiefs become effective defensing the run, but the pass rush loses its teeth. When the line widens into a more traditional four-man look and the Chiefs have all their stud defensive linemen out there, Kansas becomes effective rushing the passer, but then the rush defense loses virtually all of its efficacy.
 
 It's dawning on me that I overrated this Chiefs defensive line. After all, what good is a phenomenal pass rush if the defensive line and the linebackers behind them are completely inept in containing opposing rushers? Therefore, any analysis I conduct in the future on a playoff team's defense has to account for their ability to stop the run with their box players.
 
@@ -59,7 +59,7 @@ The Chiefs catch another break, as an errant pass by Brady results in an interce
 
 With the Chiefs now ahead, the opportunity is there to close out the game. And now, **_finally_**, the Chiefs opt to play some good defense. Aggressive press coverage against the Patriots receivers forces Brady to hold on to the ball a touch longer. Unfortunately, the pass rush is unable to hit home. Granted, you have a few players coming close here and there, but Brady still has far too much time in the pocket to breathe comfortably. It's worth noting Chris Jones is sidelined at this point with injury, so the only stud rushers lining up along the line are Justin Houston and Dee Ford. Still, neither one  of these two are slouches, so Kansas shouldn't be having much issue nailing Brady. The problem is that these defenders are being chipped or outright  stone-walled by multiple Patriot blockers. As a result, neither of these edge rushers are unable to even work the pocket until it's too late. The coaches aren't helping much either - neither Houston nor Ford are straying from their wide-nine position. Edge blitzes aren't being called much either.
 
-It also hurts that Tom Brady is playing his best football to close out the game. Without much of a rushing game to carry the offense, the team vested their faith in Brady's arm. And that trust paid off tremendously, as Brady made some key throws to receivers like Julian Edelman, Chris Hogan and Rob Gronkowski to keep the chains moving. Within the red zone, the Patriots were able to count on Sony Michel punching the ball across the goal line on two separate occasions. 
+It also hurts that Tom Brady is playing his best football to close out the game. Without much of a rushing game to carry the offense, the team vested their faith in Brady's arm. And that trust paid off tremendously, as Brady made some key throws to receivers like Julian Edelman, Chris Hogan and Rob Gronkowski to keep the chains moving. Within the red zone, the Patriots were able to count on Sony Michel punching the ball across the goal line on two separate occasions.
 
 The Chiefs answered back with their own scores and a field goal to tie the game up, but a favorable coin toss put the ball back in Brady's hands in overtime. The rest is history. Overtime does not need to be discussed here.
 
@@ -67,4 +67,8 @@ The Chiefs answered back with their own scores and a field goal to tie the game 
 
 #### Conclusion
 
-Insert stuff...
+This game hurts me. The Chiefs are the better team from a roster perspective. Playing on their own turf should have given Kansas a decisive advantage here. I was almost certain the Patriots would need some ridiculous luck to pull out a victory here.
+
+But it turns out it would be bad coaching from the Chiefs brass that would allow New England to steal a win here. Andy Reid and Bob Sutton were truly derelict in their coaching duties here - whatever game plan they drew up earlier in the week was clearly ineffective from the get-go. Strategic adjustments were usually made far too late to have any considerable impact. The Patriots clearly gained a beat on where the Chiefs were vulnerable and attacked those weak points with heartless abandon.
+
+It's becoming evident to me that Andy Reid is a truly unfit coach come playoff time. The man had so many things align well this season and he still managed to squander any championship hopes his team may have had. 
