@@ -10,14 +10,14 @@ We do this by studying their games against common opponents. We look only for th
 
 ***
 
-**Sacks**: 0
+**Sacks**: 1
 
 **Hits**: 3
 
-**Hurries**: 3
+**Hurries**: 10
 
-**Thrown Away / Batted Passes**: 1
+**Thrown Away / Batted Passes**: 4
 
-**Passes Attempted:** 16
+**Passes Attempted:** 41
 
-**Negligible Passes:** 2
+**Negligible Passes:** 5
