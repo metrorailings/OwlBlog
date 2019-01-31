@@ -25,4 +25,4 @@ We do this by studying their games against common opponents. We look only for th
 
 Aaron Rodgers was involved in 52 total pass-eligible plays in the game. 5 of those plays were passes that Rodgers threw less than one second after receiving the snap, so we could factor them out of the equation here.
 
-So that being said...New England's pressure score becomes **_0.38._** Pretty solid score. Let's see how the Rams fare against the Packers a week later.  
+So that being said...New England's pressure score becomes **_0.38._** Pretty solid score. Let's see how the Rams fare against the Packers a week earlier.
