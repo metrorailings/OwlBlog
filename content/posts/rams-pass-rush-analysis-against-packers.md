@@ -1,6 +1,5 @@
 +++
 date = "2019-01-30T23:46:18-05:00"
-draft = true
 headline = "Analyzing the Rams Pass Rush Against the Packers"
 
 +++
@@ -10,20 +9,20 @@ We do this by studying their games against common opponents. We look only for th
 
 ***
 
-**Sacks**: 
+**Sacks**: 3 
 
-**Hits**: 
+**Hits**: 6
 
-**Hurries**: 
+**Hurries**: 6
 
-**Thrown Away / Batted Passes**: 
+**Thrown Away / Batted Passes**: 0
 
-**Passes Attempted:** 
+**Passes Attempted:** 34
 
-**Negligible Passes:** 
+**Negligible Passes:** 4
 
 ***
 
-Aaron Rodgers was involved in 52 total pass-eligible plays in the game. 5 of those plays were passes that Rodgers threw less than one second after receiving the snap, so we could factor them out of the equation here.
+Aaron Rodgers was involved in 34 total pass-eligible plays in the game. 4 of those plays were passes that Rodgers threw less than one second after receiving the snap, so we could factor them out of the equation here.
 
-So that being said...New England's pressure score becomes **_0.38._** Pretty solid score. Let's see how the Rams fare against the Packers a week later.
+So that being said...Los Angeles' pressure score becomes **_0.45._** An excellent score in fact. Better than the Patriots. A little concerning for New England fans.
