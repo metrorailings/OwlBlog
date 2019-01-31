@@ -25,4 +25,4 @@ We do this by studying their games against common opponents. We look only for th
 
 Aaron Rodgers was involved in 34 total pass-eligible plays in the game. 4 of those plays were passes that Rodgers threw less than one second after receiving the snap, so we could factor them out of the equation here.
 
-So that being said...Los Angeles' pressure score becomes **_0.45._** An excellent score in fact. Better than the Patriots. A little concerning for New England fans.
+So that being said...Los Angeles' pressure score becomes **_0.45._** An excellent score in fact. Better than the Patriots. A little concerning for New England backers.
