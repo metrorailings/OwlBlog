@@ -9,3 +9,21 @@ One of the biggest factors determining which team wins in the Super Bowl is the 
 We do this by studying their games against common opponents. We look only for those common opponents that played both teams at roughly the same point in the season. In this case, the Rams and Patriots only have one such common opponent - the Packers. New England and Los Angeles played Green Bay literally a week apart from one another. Both games were also played on their respective home fields, so we don't have to worry about controlling for home field advantage.
 
 ***
+
+**Sacks**: 
+
+**Hits**: 
+
+**Hurries**: 
+
+**Thrown Away / Batted Passes**: 
+
+**Passes Attempted:** 
+
+**Negligible Passes:** 
+
+***
+
+Aaron Rodgers was involved in 52 total pass-eligible plays in the game. 5 of those plays were passes that Rodgers threw less than one second after receiving the snap, so we could factor them out of the equation here.
+
+So that being said...New England's pressure score becomes **_0.38._** Pretty solid score. Let's see how the Rams fare against the Packers a week later.
