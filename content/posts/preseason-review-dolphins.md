@@ -7,7 +7,7 @@ headline = "Preseason Review: Miami Dolphins"
 
 ***
 
-**QB:** _Josh Rosen, Ryan Fitzpatrick_
+**QB:** _Josh Rosen, Ryan Fitzpatric_
 
 **Known Offensive Vectors:** _N/A_
 

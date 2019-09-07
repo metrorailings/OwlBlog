@@ -7,9 +7,9 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/preseason-review-dolphins.md
 - content/posts/preseason-review-bills.md
 - content/posts/preseason-review-jets.md
-- content/posts/preseason-review-dolphins.md
 - content/posts/chargers-patriots-playoff-preview.md
 - content/posts/eagles-over-bears.md
 - content/posts/bucs-panthers-some-quick-game-analysis.md
