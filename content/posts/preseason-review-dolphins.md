@@ -2,7 +2,7 @@
 headline = "Preseason Review: Miami Dolphins"
 
 +++
-## **_Tier 8_**
+## Tier 8
 
 ***
 
