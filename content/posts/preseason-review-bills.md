@@ -3,7 +3,7 @@ content = ""
 headline = "Preseason Review: Buffalo Bills"
 
 +++
-##### **_Tier 6_**
+## **_Tier 6_**
 
 ***
 
