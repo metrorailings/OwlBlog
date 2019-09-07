@@ -17,9 +17,9 @@ fields:
     schema:
       format: markdown
 pages:
+- content/posts/preseason-review-bills.md
 - content/posts/preseason-review-jets.md
 - content/posts/preseason-review-dolphins.md
-- content/posts/preseason-review-bills.md
 - content/posts/rams-broncos-halftime-analysis.md
 - content/posts/colts-jets-halftime-analysis.md
 - content/posts/week-7-early-leanings.md
