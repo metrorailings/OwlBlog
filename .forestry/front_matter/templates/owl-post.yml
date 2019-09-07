@@ -8,7 +8,6 @@ fields:
   description: Post Title
 pages:
 - content/posts/preseason-review-patriots.md
-- content/posts/preseason-review-dolphins.md
 - content/posts/preseason-review-bills.md
 - content/posts/preseason-review-jets.md
 - content/posts/chargers-patriots-playoff-preview.md
