@@ -7,6 +7,7 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/preseason-review-texans.md
 - content/posts/preseason-review-colts.md
 - content/posts/preseason-review-titans.md
 - content/posts/preseason-review-jaguars.md
