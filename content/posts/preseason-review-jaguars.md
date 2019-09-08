@@ -8,9 +8,9 @@ headline = "Preseason Review: Jacksonville Jaguars"
 
 **QB:** _Nick Foles_
 
-**Known Offensive Vectors:** _N/A_
+**Known Offensive Vectors:** _Keelan Cole (WR), Marqise Lee (WR)_
 
-**Potential Offensive Vectors:** _Leonard Fournette (RB), Keelan Cole (WR), Dede Westbrook (WR)_
+**Potential Offensive Vectors:** _Leonard Fournette (RB), Dede Westbrook (WR)_
 
 **Key Defensive Personnel:** _Calais Campbell (E), Yannick Ngakoue (E), Marcel Dareus (DT), Josh Allen (OLB), Myles Jack (MLB), Telvin Smith (OLB), Jalen Ramsey (CB), A.J. Bouye (CB)_
 
