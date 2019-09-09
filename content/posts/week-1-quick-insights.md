@@ -34,3 +34,7 @@ Pittsburgh is still a bit slow at the linebacker position. New England is making
 The Patriots are truly a brilliant team. The quickness with which they can adjust on offense as opposing defense starts to adjust wows me. And that defensive line plays far better than the sum of its parts. It amazes me to see New England occasionally pressure the quarterback rushing only three defensive linemen. Generally, three-man rushes are doomed to fail.
 
 New England will be goddamn scary on offense if they can work Josh Gordon and Antonio Brown into plays together.
+
+***
+
+## Bengals @ Seahawks
