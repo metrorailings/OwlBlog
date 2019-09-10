@@ -53,6 +53,32 @@ So far, the 49ers biggest additions to the defensive line have not disappointed.
 
 The 49ers pass coverage still remains problematic. Nothing better exemplifies this than the defense giving up 18 yards on a 3rd and 17 _while playing sticks coverage_. If San Francisco is to be effective on defense, then the defensive line will clearly be leading the way. Though the line's rushing defense is suspect as well, given the smaller size of the front.
 
-Penalties ruled the day here. Alex Kemp and his coaching staff are a litigious bunch. Something worth keeping in mind for future bets. 
+Penalties ruled the day here. Alex Kemp and his coaching staff are a litigious bunch. Something worth keeping in mind for future bets.
 
-  
+***
+
+## Texans @ Saints
+
+Texans seem to prefer fielding two tight ends at once on offense.
+
+More interesting though, Deshaun Watson turns his back when selling play-action. Opposing defenses can send cornerback blitzes to throw him off as soon as he turns back around. The Saints have done that successfully on a number of occasions.
+
+The Saints clock management towards the end of the game was simply phenomenal. With only thirty or so seconds left, the Saints were able to matriculate the ball down the field for a game-winning field goal. The last time-out wasn't even burned until after the very last offensive play, giving the Saints the flexibility to throw the ball down the middle of the field if need be. The receivers were trained well too, going down quickly after catches in order to conserve as much time as possible.
+
+Deandre Hopkins is a beast. Deshaun Watson is fantastic with the big throws. And the Texans seem to have gotten better with some of their offensive play-calling, even fooling the Saints defense on occasion with misdirection plays.
+
+Alvin Kamara is simply irreplaceable.
+
+***
+
+## Titans @ Browns
+
+The Browns are out of control. So many unnecessary penalties holding them back...
+
+The Titans, on the other hand, are well-composed and play some sound (albeit boring) football. It seems as if the coaches trust Derrick Henry more than they trust Marcus Mariota.
+
+Tennessee does have issues along the offensive line, as the Browns defensive front were constantly winning their battles in the trenches.
+
+Speaking of which, Cleveland too has a major issue on their offensive line - their right tackle Hubbard. Just going by this game alone, I can tell Cleveland's tackles won't be doing Baker any favors this season.
+
+Baker Mayfield made some good throws, though. The second-year passer still has some ways to go when it comes to decision-making and reading opposing defenses. Mayfield still needs more time leveling up. 

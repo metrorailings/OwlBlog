@@ -7,6 +7,7 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/week-1-quick-insights.md
 - content/posts/preseason-review-49ers.md
 - content/posts/preseason-review-cardinals.md
 - content/posts/preseason-review-rams.md
@@ -15,7 +16,6 @@ pages:
 - content/posts/preseason-review-falcons.md
 - content/posts/preseason-review-saints.md
 - content/posts/preseason-review-buccaneers.md
-- content/posts/week-1-quick-insights.md
 - content/posts/preseason-review-bears.md
 - content/posts/preseason-review-lions.md
 - content/posts/preseason-review-vikings.md
