@@ -7,6 +7,8 @@ fields:
   label: Post Subject
   description: Post Title
 pages:
+- content/posts/preseason-review-49ers.md
+- content/posts/preseason-review-cardinals.md
 - content/posts/preseason-review-rams.md
 - content/posts/preseason-review-seahawks.md
 - content/posts/preseason-review-panthers.md
