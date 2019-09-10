@@ -38,3 +38,21 @@ New England will be goddamn scary on offense if they can work Josh Gordon and An
 ***
 
 ## Bengals @ Seahawks
+
+The Bengals are impressing me here. It's clear to me that Cincinnati is the better team. All the more remarkable too considering the team doesn't have many new faces on their roster. The new coaches have done some fantastic work breathing new life into a team many considered one of the worst franchises in professional football last year.
+
+Speaking of which, I'm also impressed at the way Zac Taylor keeps himself composed standing on the sidelines. Never overly emotional, nor does he look out of his depth. Likewise, his defensive coordinator has the same stoic demeanor as well.
+
+***
+
+## 49ers @ Buccaneers
+
+Tampa Bay cannot rely on either Demar Dotson or Donovan Smith as starting tackles. Especially because Winston tends to flinch every time an opposing pass rusher breathes on him. Unless Jameis manages to find inner peace real soon as the pocket crumbles around him, it's going to be a long season for this Buccaneers offense. I'm beginning to doubt whether Bruce Arians can turn Winston into a capable quarterback.
+
+So far, the 49ers biggest additions to the defensive line have not disappointed. Dee Ford and Nick Bosa have been consistently winning their battles at the line of scrimmage. It helps that lining up in wide-nine stances forces Tampa Bay's tight ends to match up with them in pass protection sometimes, though I wonder if the Bucs' tight ends are honestly that much worser than the Bucs' tackles at holding back against edge rushers.
+
+The 49ers pass coverage still remains problematic. Nothing better exemplifies this than the defense giving up 18 yards on a 3rd and 17 _while playing sticks coverage_. If San Francisco is to be effective on defense, then the defensive line will clearly be leading the way. Though the line's rushing defense is suspect as well, given the smaller size of the front.
+
+Penalties ruled the day here. Alex Kemp and his coaching staff are a litigious bunch. Something worth keeping in mind for future bets. 
+
+  
