@@ -15,7 +15,7 @@ fields:
     date_format: MM/DD/YY
     time_format: h:mm A ZZ
     display_utc: false
-    export_format: YYYY-MM-DD h:mm
+    export_format: YYYY-MM-DD h:mm:ss
 pages:
 - content/posts/preseason-review-jets.md
 - content/posts/week-1-quick-insights.md
