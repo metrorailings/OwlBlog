@@ -6,6 +6,16 @@ fields:
   name: headline
   label: Post Subject
   description: Post Title
+- name: date
+  type: datetime
+  label: Date
+  description: Date Created
+  config:
+    required: true
+    date_format: MM/DD/YY
+    time_format: h:mm A ZZ
+    display_utc: false
+    export_format: YYYY-MM-DD h:mm
 pages:
 - content/posts/week-1-quick-insights.md
 - content/posts/preseason-review-49ers.md
