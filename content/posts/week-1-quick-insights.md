@@ -1,5 +1,4 @@
 +++
-draft = true
 headline = "Week 1 Quick Insights"
 
 +++
@@ -41,7 +40,9 @@ New England will be goddamn scary on offense if they can work Josh Gordon and An
 
 The Bengals are impressing me here. It's clear to me that Cincinnati is the better team. All the more remarkable too considering the team doesn't have many new faces on their roster. The new coaches have done some fantastic work breathing new life into a team many considered one of the worst franchises in professional football last year.
 
-Speaking of which, I'm also impressed at the way Zac Taylor keeps himself composed standing on the sidelines. Never overly emotional, nor does he look out of his depth. Likewise, his defensive coordinator has the same stoic demeanor as well.
+Speaking of which, I'm also impressed at the way Zac Taylor keeps himself composed standing on the sidelines. Never overly emotional, nor does he look out of his depth. Likewise, his defensive coordinator shares the same stoic demeanor. 
+
+Andy Dalton looks far more comfortable in this offense, given the quickness of his passes and his overall composure in the pocket.
 
 ***
 
@@ -81,4 +82,4 @@ Tennessee does have issues along the offensive line, as the Browns defensive fro
 
 Speaking of which, Cleveland too has a major issue on their offensive line - their right tackle Hubbard. Just going by this game alone, I can tell Cleveland's tackles won't be doing Baker any favors this season.
 
-Baker Mayfield made some good throws, though. The second-year passer still has some ways to go when it comes to decision-making and reading opposing defenses. Mayfield still needs more time leveling up. 
+Baker Mayfield made some good throws, though. The second-year passer still has some ways to go when it comes to decision-making and reading opposing defenses. Mayfield still needs more time leveling up.
