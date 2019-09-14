@@ -1,4 +1,5 @@
 +++
+date = "2019-09-05 12:00:12"
 headline = "Preseason Review: Carolina Panthers"
 
 +++
