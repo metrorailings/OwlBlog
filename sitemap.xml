@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.owlpicks.com/posts/preseason-review-vikings/</loc>
+    <lastmod>2019-09-05T12:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.owlpicks.com/posts/preseason-review-packers/</loc>
     <lastmod>2019-09-05T12:00:05+00:00</lastmod>
   </url>
@@ -568,10 +573,6 @@
   </url>
   
   <url>
-    <loc>https://www.owlpicks.com/posts/preseason-review-vikings/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.owlpicks.com/posts/week-1-quick-insights/</loc>
   </url>
   
@@ -594,13 +595,13 @@
   
   <url>
     <loc>https://www.owlpicks.com/</loc>
-    <lastmod>2019-09-05T12:00:05+00:00</lastmod>
+    <lastmod>2019-09-05T12:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.owlpicks.com/posts/</loc>
-    <lastmod>2019-09-05T12:00:05+00:00</lastmod>
+    <lastmod>2019-09-05T12:00:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
