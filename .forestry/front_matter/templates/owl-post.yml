@@ -17,6 +17,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/preseason-review-rams.md
 - content/posts/preseason-review-seahawks.md
 - content/posts/preseason-review-panthers.md
 - content/posts/preseason-review-falcons.md
@@ -49,7 +50,6 @@ pages:
 - content/posts/week-1-quick-insights.md
 - content/posts/preseason-review-49ers.md
 - content/posts/preseason-review-cardinals.md
-- content/posts/preseason-review-rams.md
 - content/posts/chargers-patriots-playoff-preview.md
 - content/posts/eagles-over-bears.md
 - content/posts/bucs-panthers-some-quick-game-analysis.md
