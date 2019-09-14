@@ -1,4 +1,5 @@
 +++
+date = "2019-09-09 12:00:00"
 headline = "Week 1 Quick Insights"
 
 +++
