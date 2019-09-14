@@ -1,5 +1,6 @@
 +++
 content = ""
+date = "2019-09-04 12:00:01"
 headline = "Preseason Review: Buffalo Bills"
 
 +++
