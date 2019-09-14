@@ -1,8 +1,9 @@
 +++
+date = "2019-09-04 12:00:14"
 headline = "Preseason Review: Los Angeles Chargers"
 
 +++
-**_Los Angeles Chargers (Tier 2)_**
+## **_Tier 2_**
 
 ***
 
