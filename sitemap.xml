@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.owlpicks.com/posts/preseason-review-chiefs/</loc>
+    <lastmod>2019-09-04T12:00:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.owlpicks.com/posts/preseason-review-chargers/</loc>
     <lastmod>2019-09-04T12:00:14+00:00</lastmod>
   </url>
@@ -509,10 +514,6 @@
   </url>
   
   <url>
-    <loc>https://www.owlpicks.com/posts/preseason-review-chiefs/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.owlpicks.com/posts/preseason-review-cowboys/</loc>
   </url>
   
@@ -587,13 +588,13 @@
   
   <url>
     <loc>https://www.owlpicks.com/</loc>
-    <lastmod>2019-09-04T12:00:14+00:00</lastmod>
+    <lastmod>2019-09-04T12:00:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.owlpicks.com/posts/</loc>
-    <lastmod>2019-09-04T12:00:14+00:00</lastmod>
+    <lastmod>2019-09-04T12:00:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
