@@ -17,6 +17,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/preseason-review-jaguars.md
 - content/posts/preseason-review-texans.md
 - content/posts/preseason-review-colts.md
 - content/posts/preseason-review-titans.md
@@ -41,7 +42,6 @@ pages:
 - content/posts/preseason-review-lions.md
 - content/posts/preseason-review-vikings.md
 - content/posts/preseason-review-packers.md
-- content/posts/preseason-review-jaguars.md
 - content/posts/preseason-review-redskins.md
 - content/posts/preseason-review-giants.md
 - content/posts/preseason-review-cowboys.md
