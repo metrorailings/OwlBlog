@@ -1,4 +1,5 @@
 +++
+date = "2019-09-04 12:00:15"
 headline = "Preseason Review: Kansas City Chiefs"
 
 +++
