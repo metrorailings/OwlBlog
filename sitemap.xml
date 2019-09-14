@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.owlpicks.com/posts/week-1-quick-insights/</loc>
+    <lastmod>2019-09-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.owlpicks.com/posts/preseason-review-49ers/</loc>
+    <lastmod>2019-09-05T12:00:16+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.owlpicks.com/posts/preseason-review-cardinals/</loc>
     <lastmod>2019-09-05T12:00:15+00:00</lastmod>
   </url>
@@ -578,14 +588,6 @@
   </url>
   
   <url>
-    <loc>https://www.owlpicks.com/posts/preseason-review-49ers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.owlpicks.com/posts/week-1-quick-insights/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.owlpicks.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -604,13 +606,13 @@
   
   <url>
     <loc>https://www.owlpicks.com/</loc>
-    <lastmod>2019-09-05T12:00:15+00:00</lastmod>
+    <lastmod>2019-09-09T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.owlpicks.com/posts/</loc>
-    <lastmod>2019-09-05T12:00:15+00:00</lastmod>
+    <lastmod>2019-09-09T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
