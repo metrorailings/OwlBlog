@@ -1,4 +1,5 @@
 +++
+date = "2019-09-04 12:00:03"
 headline = "Preseason Review: New England Patriots"
 
 +++
