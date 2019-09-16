@@ -22,6 +22,8 @@ Kwan Alexander is quite passionate and embraces the leadership role he's been gi
 
 The Bengals are looking hopeless at defending against teams that are good at running the ball. 
 
+San Francisco's misdirection on play-action resulting in big plays.
+
 ***
 
 ## Eagles @ Falcons
