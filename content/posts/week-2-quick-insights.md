@@ -20,9 +20,15 @@ Josh Allen is committing to staying in the pocket. Though it's easy to do so con
 
 Kwan Alexander is quite passionate and embraces the leadership role he's been given on defense.
 
-The Bengals are looking hopeless at defending against teams that are good at running the ball. 
+The Bengals are looking hopeless at defending against teams that are good at running the ball. Outside runs in particular bewilder Cincinnati's defense.
 
 San Francisco's misdirection on play-action resulting in big plays.
+
+Lack of creativity by the Bengals offense. Was the game plan here really to simply drop Andy Dalton back five or seven paces behind his offensive line and have him sling the ball to his receivers, with an occasional run by Joe Mixon?
+
+Cincinnati's defense is a mess in coverage and run defense.
+
+Playing from behind leaves the Cincinnati offense in a bit of a precarious situation, given their offensive line kinda sucks in pass protection 
 
 ***
 
