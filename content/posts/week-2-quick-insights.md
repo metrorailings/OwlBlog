@@ -31,6 +31,12 @@ Playing from behind leaves the Cincinnati offense in a bit of a precarious situa
 
 ***
 
+## Chargers @ Lions
+
+Chargers run defense still remains suspect despite Thomas Davis now patrolling the middle of the field as the team's lead linebacker.
+
+***
+
 ## Eagles @ Falcons
 
 Isaac Seumalo is a point of weakness along the Eagles offensive line.
