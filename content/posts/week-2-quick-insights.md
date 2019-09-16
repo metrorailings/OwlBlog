@@ -35,6 +35,12 @@ Playing from behind leaves the Cincinnati offense in a bit of a precarious situa
 
 Chargers run defense still remains suspect despite Thomas Davis now patrolling the middle of the field as the team's lead linebacker.
 
+Austin Ekeler is a beast.
+
+The Chargers run solid screens with Ekeler. Two big screens mostly negated due to iffy penalties, sadly.  Craif Wrolstad and his referees are a litigious bunch.
+
+The replacement place kicker is truly terrible. The Chargers **desperately** need their primary field goal kicker back in action.
+
 ***
 
 ## Eagles @ Falcons
