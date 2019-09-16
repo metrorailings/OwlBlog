@@ -1,6 +1,5 @@
 +++
 date = "2019-09-15 12:00:00"
-draft = true
 headline = "Week 2 Quick Insights"
 
 +++
