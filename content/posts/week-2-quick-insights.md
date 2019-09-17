@@ -27,7 +27,7 @@ Lack of creativity by the Bengals offense. Was the game plan here really to simp
 
 Cincinnati's defense is a mess in coverage and run defense.
 
-Playing from behind leaves the Cincinnati offense in a bit of a precarious situation, given their offensive line kinda sucks in pass protection 
+Playing from behind leaves the Cincinnati offense in a bit of a precarious situation, given their offensive line kinda sucks in pass protection
 
 ***
 
@@ -40,6 +40,14 @@ Austin Ekeler is a beast.
 The Chargers run solid screens with Ekeler. Two big screens mostly negated due to iffy penalties, sadly.  Craif Wrolstad and his referees are a litigious bunch.
 
 The replacement place kicker is truly terrible. The Chargers **desperately** need their primary field goal kicker back in action.
+
+***
+
+## Seahawks @ Steelers
+
+Donte Moncrief is a liability at receiver, dropping passes and even bouncing them towards opposing defensive backs on one occasion.
+
+Steelers defense can be picked apart. Their zone blitzing naturally leaves them vulnerable at certain spots along their defense. And their zone coverage can be exploited by capable tight ends.
 
 ***
 
