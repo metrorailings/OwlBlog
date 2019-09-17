@@ -49,6 +49,8 @@ Donte Moncrief is a liability at receiver, dropping passes and even bouncing the
 
 Steelers defense can be picked apart. Their zone blitzing naturally leaves them vulnerable at certain spots along their defense. And their zone coverage can be exploited by capable tight ends.
 
+Mason Rudolph can run if need be.
+
 ***
 
 ## Eagles @ Falcons
