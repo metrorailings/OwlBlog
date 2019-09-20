@@ -6,4 +6,10 @@ headline = "Week 3 Quick Insights"
 +++
 ## Titans @ Jaguars
 
-The Jaguars insist on running a zone coverage scheme that forces their linebackers to run around the field and even blanket receivers at times. It's not good when Jacksonville has a slow bunch of linebackers outside of Myles Jack. 
+The Jaguars insist on running a zone coverage scheme that forces their linebackers to run around the field and even blanket receivers at times. It's not good when Jacksonville has a slow bunch of linebackers outside of Myles Jack.
+
+Jacksonville is still trying to build an offensive identity around Leonard Fournette instead of the passing game. The Titans are keying in on Fournette though, stalling the Jaguars anemic offense.
+
+Mariota sucks.
+
+ The Titans will run that ball with reckless abandon until it works, dammit.
