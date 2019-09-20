@@ -53,6 +53,18 @@ Mason Rudolph can run if need be.
 
 ***
 
+## Cardinals @ Ravens
+
+Lamar shows a preference for throwing to tight-ends and receivers running slants across the middle of the field.
+
+I really do think Lamar is fond of his tight-ends. The Ravens need to load their roster with quality tight-ends.
+
+Christian Kirk is a gamer.
+
+Good man coverage across the board can really limit the Cardinals and their air raid.
+
+***
+
 ## Eagles @ Falcons
 
 Isaac Seumalo is a point of weakness along the Eagles offensive line.
