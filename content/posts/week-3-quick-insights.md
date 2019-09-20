@@ -12,4 +12,6 @@ Jacksonville is still trying to build an offensive identity around Leonard Fourn
 
 Mariota sucks.
 
- The Titans will run that ball with reckless abandon until it works, dammit.
+The Titans will run that ball with reckless abandon until it works, dammit.
+
+Minshew seems to like throwing his deep balls outside the numbers.
