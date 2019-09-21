@@ -1,6 +1,5 @@
 +++
 date = "2019-09-21 12:00:00"
-draft = true
 headline = "Week 3 Supercontest Picks"
 
 +++
@@ -35,3 +34,9 @@ The reality is that this Arizona team is still developing an identity on offense
 The Panthers, on the other hand, are a desperate team still looking for their first victory of the season. I think that desperation is the extra juice they need to win this game outright. Not to mention the surprise factor involved whenever a team starts a new quarterback that doesn't have much footage out there that can be studied.
 
 One thing worth noting before I close this out...Kawann Short is questionable. As the best pass rusher on the team, Short is absolutely critical here to the Panthers' chances of winning this game. Carolina's secondary is nowhere near competent enough to keep the Cardinals' air raid under control. The Panthers need to harass Kyler Murray on a regular basis if they want to cap Arizona's offense.
+
+***
+
+## _Rams_ @ Browns (+3)
+
+Against my own personal inclination to see the Browns win a major primetime game here, give me the more cohesive team here with the better coaches and the experience of having played so many spotlight games over the past couple years. Jared Goff's pedestrian quarterbacking gives me some pause here, but it's not like Baker Mayfield has been lighting the world on fire this season. Not to mention losing a major weapon like David Njoku will hurt this offense - it robs them of a vector on offense.
