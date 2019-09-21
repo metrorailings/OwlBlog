@@ -28,4 +28,10 @@ Not to mention Pittsburgh does have an ace card here - the surprise factor invol
 
 ## _Panthers_ @ Cardinals (-3)
 
-The
+Like the Steelers, the Panthers are starting an untested quarterback on the road, albeit against a different NFC West club. Still, I feel better about this pick compared to the Pittsburgh pick, even though Carolina is only being given three points here.
+
+The reality is that this Arizona team is still developing an identity on offense. Kliff Kingsbury is still feeling his way around as a rookie head coach, given all the mistakes he made last week against the Ravens.
+
+The Panthers, on the other hand, are a desperate team still looking for their first victory of the season. I think that desperation is the extra juice they need to win this game outright. Not to mention the surprise factor involved whenever a team starts a new quarterback that doesn't have much footage out there that can be studied.
+
+One thing worth noting before I close this out...Kawann Short is questionable. As the best pass rusher on the team, Short is absolutely critical here to the Panthers' chances of winning this game. Carolina's secondary is nowhere near competent enough to keep the Cardinals' air raid under control. The Panthers need to harass Kyler Murray on a regular basis if they want to cap Arizona's offense.
