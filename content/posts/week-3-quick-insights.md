@@ -28,3 +28,7 @@ Once again, horrendous clock management from Andy Reid as the first half winds d
 Gus Edwards has been beastly, breaking tackles and accelerating quickly.
 
 Ravens offense adjusted in the second half by hammering the ball on the ground. First drive was nothing but runs. It's clear the Chiefs prioritized defending the pass here.
+
+I have to review why the Ravens defense was unable to pressure Mahomes after the first quarter.
+
+Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit.
