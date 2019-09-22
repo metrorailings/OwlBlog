@@ -31,4 +31,4 @@ Ravens offense adjusted in the second half by hammering the ball on the ground. 
 
 I have to review why the Ravens defense was unable to pressure Mahomes after the first quarter.
 
-Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit.
+Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit. Ravens are a team with fight though.
