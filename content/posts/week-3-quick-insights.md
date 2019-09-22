@@ -27,4 +27,4 @@ Once again, horrendous clock management from Andy Reid as the first half winds d
 
 Gus Edwards has been beastly, breaking tackles and accelerating quickly.
 
-Ravens adjusted in the second half by hammering the ball on the ground.
+Ravens offense adjusted in the second half by hammering the ball on the ground.
