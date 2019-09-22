@@ -21,3 +21,5 @@ Minshew seems to like throwing his deep balls outside the numbers.
 ## Ravens @ Chiefs
 
 The Chiefs are hopeless at rushing the passer. Chris Jones is the only quality pass rusher on that team. Frank Clark hasn't been living up to his billing.
+
+Michael Lombardi may be right - this Ravens offense has a hard time recovering from negative plays.
