@@ -48,3 +48,5 @@ Also worth noting - Jameis sucks. Buccaneers need to get rid of him. Maybe eve t
 Winston would be murdered by a team with a solid pass rush, the way he holds on to the ball. His pocket presence is horrendous too.
 
 Shaq Barrett something special. Buccaneers made a solid pick-up in free agency here. 
+
+Daniel Jones holds on to the ball like a damn fool too.
