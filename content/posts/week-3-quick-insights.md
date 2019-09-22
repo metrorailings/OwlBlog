@@ -1,6 +1,5 @@
 +++
 date = "2019-09-22 12:00:00"
-draft = true
 headline = "Week 3 Quick Insights"
 
 +++
@@ -23,3 +22,5 @@ Minshew seems to like throwing his deep balls outside the numbers.
 The Chiefs are hopeless at rushing the passer. Chris Jones is the only quality pass rusher on that team. Frank Clark hasn't been living up to his billing.
 
 Michael Lombardi may be right - this Ravens offense has a hard time recovering from negative plays.
+
+Once again, horrendous clock management from Andy Reid as the first half winds down.
