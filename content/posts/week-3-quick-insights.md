@@ -24,3 +24,5 @@ The Chiefs are hopeless at rushing the passer. Chris Jones is the only quality p
 Michael Lombardi may be right - this Ravens offense has a hard time recovering from negative plays.
 
 Once again, horrendous clock management from Andy Reid as the first half winds down.
+
+Gus Edwards has been beastly, breaking tackles and accelerating quickly.
