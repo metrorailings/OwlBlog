@@ -41,12 +41,14 @@ Daniel Jones can run with the ball. Offensive playbook even has designed runs fo
 
 Janoris Jenkins is not an elite corner.
 
-In the second quarter, Giants defense has shifted to a two-safety look with man coverage underneath. It seems to be enough to keep Jameis from moving the ball on them at will.
+In the second half, Giants defense has shifted to a two-safety look with man coverage underneath. It seems to be enough to keep Jameis from moving the ball on them at will.
 
-Also worth noting - Jameis sucks. Buccaneers need to get rid of him. Maybe eve trade up for Justin Herbert or whatever his name is.
+Also worth noting - Jameis sucks. Buccaneers need to get rid of him. Maybe even trade up for Justin Herbert or whatever his name is.
 
-Winston would be murdered by a team with a solid pass rush, the way he holds on to the ball. His pocket presence is horrendous too.
+Winston would be murdered by a team with a solid pass rush, the way he holds on to the ball. His pocket presence is horrendous.
 
 Shaq Barrett something special. Buccaneers made a solid pick-up in free agency here. 
 
 Daniel Jones holds on to the ball like a damn fool too.
+
+Buccaneers playing prevent defense on the Giants on the last drive was their downfall. Credit to Daniel Jones for picking apart their weak defensive scheme. And credit to the Giants for stunting the Buccaneers' offense somehow. I need to review tape here...
