@@ -32,3 +32,19 @@ Ravens offense adjusted in the second half by hammering the ball on the ground. 
 I have to review why the Ravens defense was unable to pressure Mahomes after the first quarter.
 
 Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit. Ravens are a team with fight though.
+
+***
+
+## Giants @ Buccaneers
+
+Daniel Jones can run with the ball. Offensive playbook even has designed runs for him.
+
+Janoris Jenkins is not an elite corner.
+
+In the second quarter, Giants defense has shifted to a two-safety look with man coverage underneath. It seems to be enough to keep Jameis from moving the ball on them at will.
+
+Also worth noting - Jameis sucks. Buccaneers need to get rid of him. Maybe eve trade up for Justin Herbert or whatever his name is.
+
+Winston would be murdered by a team with a solid pass rush, the way he holds on to the ball. His pocket presence is horrendous too.
+
+Shaq Barrett something special. Buccaneers made a solid pick-up in free agency here. 
