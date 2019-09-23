@@ -99,7 +99,7 @@ Gus Bradley does not have much of a taste for blitzes, apparently. In fact, he m
 
 Kyler Murray being able to run off the read option seems to be an important part of the Cardinals offense.
 
-Cardinals seem to be more prone to using wide receiver screens as part of their red zone package.
+Cardinals seem to be more prone to using wide receiver screens as part of their otherwise barebones red zone package.
 
 Kyle Allen playing well, especially under pressure. Keeps his eyes down the field.
 
