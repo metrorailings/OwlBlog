@@ -82,3 +82,17 @@ Baker Mayfield having to hold on to the ball and manufacture a play is not a pre
 The Browns lack any creative red zone plays to try and make an emergency touchdown.
 
 Once again, the Browns' lack of discipline at preventing penalties kept some Ram drives alive or more fruitful.  
+
+***
+
+## Texans @ Chargers
+
+Texans secondary is still incredibly problematic. The off coverage in particular is worrying.
+
+DJ Reader stepping up as a solid pass rusher.
+
+Gus Bradley does not have much of a taste for blitzes, apparently. In fact, he may have more of a liking for three-man rushes than for blitzes, sadly.
+
+***
+
+## Panthers @ Cardinals
