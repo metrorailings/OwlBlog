@@ -96,3 +96,17 @@ Gus Bradley does not have much of a taste for blitzes, apparently. In fact, he m
 ***
 
 ## Panthers @ Cardinals
+
+Kyler Murray being able to run off the read option seems to be an important part of the Cardinals offense.
+
+Cardinals seem to be more prone to using wide receiver screens as part of their red zone package.
+
+Kyle Allen playing well, especially under pressure. Keeps his eyes down the field.
+
+Carolina has a package of reverses in their offensive repertoire. One example is a two-layered wide receiver sweep.
+
+Mario Addison with a timely sack to end a Cardinal drive.
+
+Arizona is lousy at defending tight ends.
+
+Kyle Allen's first two touchdowns came from traditional drop-back plays. Impressive.
