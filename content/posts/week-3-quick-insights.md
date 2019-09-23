@@ -110,3 +110,5 @@ Mario Addison with a timely sack to end a Cardinal drive.
 Arizona is lousy at defending tight ends.
 
 Kyle Allen's first two touchdowns came from traditional drop-back plays. Impressive.
+
+Carolina's secondary is playing very well. Quite disciplined in their zone coverage.
