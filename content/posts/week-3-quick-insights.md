@@ -70,3 +70,15 @@ Buccaneers playing prevent defense on the Giants on the last drive was their dow
 Browns have serious issues guarding shifty receivers.
 
 Cooper Kupp is the best receiver on the Rams.
+
+Wade Phillips adjusted quickly on defense. Rams defense were embarrassed on a long third down when a blitz left them helpless to defend against a halfback screen. The second time the Browns tried to pull off the same trick, a linebacker shadowed the Browns tailback and took him down before the screen was even set.
+
+Browns made a bizarre call on a fourth and long, calling a draw run. Just idiotic.
+
+Goff's play clock management on the road is just poor. Waiting too long to call for the snap. Nearly cost the Rams a first down when McVay called a time-out immediately before the ball was snapped on what actually ended up being a successful throw to move the chains.
+
+Baker Mayfield having to hold on to the ball and manufacture a play is not a pretty sight. Plays have to unfold like they're drawn up in order for the Browns signal caller to be successful.
+
+The Browns lack any creative red zone plays to try and make an emergency touchdown.
+
+Once again, the Browns' lack of discipline at preventing penalties kept some Ram drives alive or more fruitful.  
