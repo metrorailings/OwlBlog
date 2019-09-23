@@ -35,6 +35,14 @@ Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Raven
 
 ***
 
+## Lions @ Eagles
+
+Outside zone runs may be effective against Detroit's bigger, slower front.
+
+Detroit runs quite a bit of 11 personnel for a team that's reputedly run-heavy.
+
+***
+
 ## Giants @ Buccaneers
 
 Daniel Jones can run with the ball. Offensive playbook even has designed runs for him.
