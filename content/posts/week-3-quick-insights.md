@@ -41,6 +41,8 @@ Outside zone runs may be effective against Detroit's bigger, slower front.
 
 Detroit runs quite a bit of 11 personnel for a team that's reputedly run-heavy.
 
+Philly's secondary is lousy.
+
 ***
 
 ## Giants @ Buccaneers
@@ -60,3 +62,11 @@ Shaq Barrett something special. Buccaneers made a solid pick-up in free agency h
 Daniel Jones holds on to the ball like a damn fool too.
 
 Buccaneers playing prevent defense on the Giants on the last drive was their downfall. Credit to Daniel Jones for picking apart their weak defensive scheme. And credit to the Giants for stunting the Buccaneers' offense somehow. I need to review tape here...
+
+***
+
+## Rams @ Browns
+
+Browns have serious issues guarding shifty receivers.
+
+Cooper Kupp is the best receiver on the Rams.
