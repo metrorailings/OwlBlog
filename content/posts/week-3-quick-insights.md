@@ -41,7 +41,7 @@ Outside zone runs may be effective against Detroit's bigger, slower front.
 
 Detroit runs quite a bit of 11 personnel for a team that's reputedly run-heavy.
 
-Philly's secondary is lousy.
+Philly's secondary is lousy. Darby especially has lost some of his touch. Not good when the top cornerback on your roster fails to perform adequately.
 
 ***
 
