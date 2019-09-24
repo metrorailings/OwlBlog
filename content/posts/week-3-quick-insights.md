@@ -33,6 +33,10 @@ I have to review why the Ravens defense was unable to pressure Mahomes after the
 
 Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit. Ravens are a team with fight though.
 
+Cameron Irving is a point of weakness along that Chiefs offensive line.
+
+The Chiefs may have issues picking up second-level and zone blitzes, similar to what I saw last year when Kansas City faced the Patriots before the Super Bowl.
+
 ***
 
 ## Lions @ Eagles
@@ -57,7 +61,7 @@ Also worth noting - Jameis sucks. Buccaneers need to get rid of him. Maybe even 
 
 Winston would be murdered by a team with a solid pass rush, the way he holds on to the ball. His pocket presence is horrendous.
 
-Shaq Barrett something special. Buccaneers made a solid pick-up in free agency here. 
+Shaq Barrett something special. Buccaneers made a solid pick-up in free agency here.
 
 Daniel Jones holds on to the ball like a damn fool too.
 
@@ -81,7 +85,7 @@ Baker Mayfield having to hold on to the ball and manufacture a play is not a pre
 
 The Browns lack any creative red zone plays to try and make an emergency touchdown.
 
-Once again, the Browns' lack of discipline at preventing penalties kept some Ram drives alive or more fruitful.  
+Once again, the Browns' lack of discipline at preventing penalties kept some Ram drives alive or more fruitful.
 
 ***
 
