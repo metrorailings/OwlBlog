@@ -29,13 +29,13 @@ Gus Edwards has been beastly, breaking tackles and accelerating quickly.
 
 Ravens offense adjusted in the second half by hammering the ball on the ground. First drive was nothing but runs. It's clear the Chiefs prioritized defending the pass here.
 
-I have to review why the Ravens defense was unable to pressure Mahomes after the first quarter.
-
 Chiefs should have covered. But two lucky heaves by Lamar Jackson kept the Ravens within one score. Goddammit. Ravens are a team with fight though.
 
 Cameron Irving is a point of weakness along that Chiefs offensive line.
 
-The Chiefs may have issues picking up second-level and zone blitzes, similar to what I saw last year when Kansas City faced the Patriots before the Super Bowl.
+The Chiefs may have issues picking up delay and zone blitzes, similar to what I saw last year when Kansas City faced the Patriots before the Super Bowl.
+
+Add overload blitzes to the short list of issues dragging these Chiefs down. Even against five and six-man fronts, the Chiefs offensive line tends to slide protection towards one direction, usually letting one defender come free from the opposite edge. Usually, Kansas counters this by dumping the ball off on the halfback leaking out of the backfield.    
 
 ***
 
