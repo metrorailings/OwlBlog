@@ -35,7 +35,9 @@ Cameron Irving is a point of weakness along that Chiefs offensive line.
 
 The Chiefs may have issues picking up delay and zone blitzes, similar to what I saw last year when Kansas City faced the Patriots before the Super Bowl.
 
-Add overload blitzes to the short list of issues dragging these Chiefs down. Even against five and six-man fronts, the Chiefs offensive line tends to slide protection towards one direction, usually letting one defender come free from the opposite edge. Usually, Kansas counters this by dumping the ball off on the halfback leaking out of the backfield.    
+Add overload blitzes to the short list of issues dragging these Chiefs down. Even against five and six-man fronts, the Chiefs offensive line tends to slide protection towards one direction, usually letting one defender come free from the opposite edge. Usually, Kansas counters this by dumping the ball off on the halfback leaking out of the backfield.
+
+The Ravens won the battle in the trenches throughout the game with creative blitz concepts. Of the times that Mahomes was left with a clean pocket, I noticed that play-action and quarterback roll-outs were used on a few of those plays.
 
 ***
 
