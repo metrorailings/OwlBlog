@@ -124,3 +124,5 @@ Carolina's secondary is playing very well. Quite disciplined in their zone cover
 ## Broncos @ Packers
 
 Broncos love their three-man rushes, for some stupid reason.
+
+Flacco not showing any confidence by abandoning the pocket early on a critical third down.
