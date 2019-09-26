@@ -118,3 +118,9 @@ Arizona is lousy at defending tight ends.
 Kyle Allen's first two touchdowns came from traditional drop-back plays. Impressive.
 
 Carolina's secondary is playing very well. Quite disciplined in their zone coverage.
+
+***
+
+## Broncos @ Packers
+
+Broncos love their three-man rushes, for some stupid reason.
