@@ -17,6 +17,11 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/week-4-quick-insights.md
+- content/posts/week-3-quick-insights.md
+- content/posts/week-3-supercontest-picks.md
+- content/posts/week-2-supercontest-picks.md
+- content/posts/week-2-quick-insights.md
 - content/posts/week-1-quick-insights.md
 - content/posts/preseason-review-49ers.md
 - content/posts/preseason-review-cardinals.md
