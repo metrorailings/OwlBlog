@@ -232,3 +232,11 @@ $FONTS:
 {
 	@include basicFontSettings($size: tinyFontSize, $family: Roboto Mono);
 }
+
+%sectionNavigationText
+{
+	@include basicFontSettings($size: largeFontSize, $family: Sorts Mill Goudy, $color: slateGrayTheme);
+
+	text-decoration: none;
+	letter-spacing: 0.05em;
+}
