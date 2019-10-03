@@ -1,12 +1,13 @@
 +++
 date = "2019-09-29 12:00:00"
-draft = true
 headline = "Week 4 Quick Insights"
 
 +++
 ## Jaguars @ Broncos
 
-Linebackers not playing disciplined against misdirection plays.
+Jaguar linebackers not playing disciplined against misdirection plays.
+
+Jacksonville doesn't seem to have much of a red zone playbook.
 
 ***
 
