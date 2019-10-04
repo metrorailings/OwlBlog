@@ -19,6 +19,12 @@ Fournette was able to chew off some serious yardage early in the second half beh
 
 Minshew is magical with his elusiveness in the pocket.
 
+Timely zone blitz by the Jaguars to end a critical Broncos drive.
+
+Minshew magic is a real thing. This whole team ups its game when Minshew magic is in effect.
+
+Zone blitzes throw off the Broncos and their attempt to dump off passes to leaking halfbacks.
+
 ***
 
 ## Cowboys @ Saints
