@@ -13,3 +13,5 @@ Jabrill Peppers has been beastly against the run today.
 Giants zone defense is simply lousy, as expected.
 
 Dalvin Cook is something special.
+
+Daniel Jones seems to genuinely enjoy throwing outside the numbers, even against tight coverage. The Giants need more X-style receivers that could catch those contested balls.
