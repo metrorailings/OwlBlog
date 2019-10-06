@@ -11,3 +11,5 @@ Zimmer cannot still shake off his pathological conservative nature on offense. O
 Jabrill Peppers has been beastly against the run today.
 
 Giants zone defense is simply lousy, as expected.
+
+Dalvin Cook is something special.
