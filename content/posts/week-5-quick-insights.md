@@ -42,3 +42,5 @@ Frank Reich is one of the best coaches in the league. To take a team decimated b
 ***
 
 ## Buccaneers @ Saints
+
+Jameis Winston is an amalgamation of good and bad quarterbacking. As simple as that.
