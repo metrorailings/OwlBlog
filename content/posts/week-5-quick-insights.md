@@ -44,3 +44,5 @@ Frank Reich is one of the best coaches in the league. To take a team decimated b
 ## Buccaneers @ Saints
 
 Jameis Winston is an amalgamation of good and bad quarterbacking. As simple as that.
+
+Saints maintaining balance between the run and the pass, despite Tampa Bay supposedly being much better at defending the run compared to the pass.
