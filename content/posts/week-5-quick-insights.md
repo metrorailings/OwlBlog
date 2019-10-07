@@ -46,3 +46,11 @@ Frank Reich is one of the best coaches in the league. To take a team decimated b
 Jameis Winston is an amalgamation of good and bad quarterbacking. As simple as that.
 
 Saints maintaining balance between the run and the pass, despite Tampa Bay supposedly being much better at defending the run compared to the pass.
+
+Ronald Jones is quite the speedster halfback for Tampa Bay.
+
+Bucs seem content prioritizing the run over the passing game, at least for a few first-half drives.
+
+Tampa Bay seems almost powerless against Michael Thomas.
+
+Teddy Bridgewater showing development, throwing deep on several occasions against a rather weak Tampa Bay secondary.
