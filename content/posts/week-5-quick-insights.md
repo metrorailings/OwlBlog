@@ -58,3 +58,5 @@ Teddy Bridgewater showing development, throwing deep on several occasions agains
 Winston making bad decisions and erratic throws against this Saints. It's almost as if this team has him shook. Either that or playing his second straight road game has taken the edge off his quarterbacking.
 
 This referee crew seems far more lenient when it comes to pass interference. 
+
+Once again, Tampa Bay has sold itself on the run being more important than the pass in this game. Quite interesting considering the number of receiving weapons the team boasts on offense.
