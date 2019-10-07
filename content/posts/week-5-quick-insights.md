@@ -54,3 +54,7 @@ Bucs seem content prioritizing the run over the passing game, at least for a few
 Tampa Bay seems almost powerless against Michael Thomas.
 
 Teddy Bridgewater showing development, throwing deep on several occasions against a rather weak Tampa Bay secondary.
+
+Winston making bad decisions and erratic throws against this Saints. It's almost as if this team has him shook. Either that or playing his second straight road game has taken the edge off his quarterbacking.
+
+This referee crew seems far more lenient when it comes to pass interference. 
