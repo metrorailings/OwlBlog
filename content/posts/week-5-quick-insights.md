@@ -66,3 +66,15 @@ Once again, Tampa Bay has sold itself on the run being more important than the p
 ## Bears vs Raiders (London)
 
 It's clear the Bears didn't really give much of a shit to prepare for this game. Sloppy play on both sides of the ball, the Raiders making hay mostly by rushing Josh Jacobs and throwing short passes, flying into London late into the week...all these things indicate that Chicago was content trying to wing this game. I feel like a damn fool picking the Bears here. Let it be known that an underprepared team is a likely loser.
+
+***
+
+## Browns @ 49ers
+
+Cleveland making some serious hay with some brilliantly-executed misdirection plays.
+
+But once a funk sets in, this Browns team deflates quickly.
+
+The 49ers chewing up a lot of yardage with that outside zone rushing attack. I wonder if the same game plan that teams use to attack the Rams will apply here with the 49ers.
+
+Garoppolo has been frankly disappointing. Need to see him carry a game for once against a respectable team.
