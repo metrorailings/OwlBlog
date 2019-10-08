@@ -57,6 +57,12 @@ Teddy Bridgewater showing development, throwing deep on several occasions agains
 
 Winston making bad decisions and erratic throws against this Saints. It's almost as if this team has him shook. Either that or playing his second straight road game has taken the edge off his quarterbacking.
 
-This referee crew seems far more lenient when it comes to pass interference. 
+This referee crew seems far more lenient when it comes to pass interference.
 
 Once again, Tampa Bay has sold itself on the run being more important than the pass in this game. Quite interesting considering the number of receiving weapons the team boasts on offense.
+
+***
+
+## Bears vs Raiders (London)
+
+It's clear the Bears didn't really give much of a shit to prepare for this game. Sloppy play on both sides of the ball, the Raiders making hay mostly by rushing Josh Jacobs and throwing short passes, flying into London late into the week...all these things indicate that Chicago was content trying to wing this game. I feel like a damn fool picking the Bears here. Let it be known that an underprepared team is a likely loser.
