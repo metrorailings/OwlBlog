@@ -78,3 +78,5 @@ But once a funk sets in, this Browns team deflates quickly.
 The 49ers chewing up a lot of yardage with that outside zone rushing attack. I wonder if the same game plan that teams use to attack the Rams will apply here with the 49ers.
 
 Garoppolo has been frankly disappointing. Need to see him carry a game for once against a respectable team.
+
+Baker honestly has issues seeing open receivers. I wonder if throws up the middle are all the more difficult now that it's been confirmed that Baker cannot see past the line of scrimmage at times.
