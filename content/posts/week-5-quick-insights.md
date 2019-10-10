@@ -85,4 +85,4 @@ Baker honestly has issues seeing open receivers. I wonder if throws up the middl
 
 ## Cardinals @ Bengals
 
-Cardinals cannot seemingly stop Joe Mixon from running between the tackles. 
+Cardinals cannot seemingly stop Joe Mixon from running between the tackles. One of the Bengals' successful drives was predicated on Mixon being able to run all over the Cardinals.
