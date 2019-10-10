@@ -80,3 +80,9 @@ The 49ers chewing up a lot of yardage with that outside zone rushing attack. I w
 Garoppolo has been frankly disappointing. Need to see him carry a game for once against a respectable team.
 
 Baker honestly has issues seeing open receivers. I wonder if throws up the middle are all the more difficult now that it's been confirmed that Baker cannot see past the line of scrimmage at times.
+
+***
+
+## Cardinals @ Bengals
+
+Cardinals cannot seemingly stop Joe Mixon from running between the tackles. 
