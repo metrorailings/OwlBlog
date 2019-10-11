@@ -30,6 +30,10 @@ A little bit of a risky pick given Deshaun Watson and his penchant for late game
 
 What really sells me on this pick is that Andy Reid faced off against this Texans squad just 2 years back. In that game, Alex Smith had a ball of a time throwing dimes all over the field against a weak Houston secondary. Fast forward to now and not much has changed. Houston's defense is still pathetic in the backfield. Romeo Crennel hasn't really changed his coverage schemes much. And I expect that to bite them in the ass yet again in Arrowhead.
 
+UPDATE:
+
+On second thought, after watching tape of that game back in 2017, I'm not so impressed by the Chiefs' offense against the Texans defense. Despite losing two of its three best pass rushers early in the game, Houston was able to force Kansas City into a number of third-and-long situations. The problem here is that the Chiefs were able to convert on most of those plays, despite the odds being against them. Some of those conversions came because of soft coverage on the part of the Texans, but other conversions came thanks to some great improvisational play by Alex Smith and Travis Kelce being a one-man wrecking crew. Either way, Kansas City's largely owes its offensive success to some terrific performances by a few key players - strategy only amounted to so much. Andy Reid doesn't have the Texans figured out like I originally assumed.
+
 ***
 
 ##### _Eagles_ @ Vikings (-3)
