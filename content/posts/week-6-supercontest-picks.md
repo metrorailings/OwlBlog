@@ -8,7 +8,7 @@ headline = "Week 6 Supercontest Picks"
 
 It's a little alarming to me that the books consider the 49ers and the Rams as (more or less) equal. One team has a better quarterback than the other. And that should make the difference here, more or less.
 
-I see Wade Phillips stacking the box in order to stop the run game. Sure, his defensive backs will be left on their own against the 49ers' skill players, but that's a gamble I'm sure Wade is willing to take. The combination of Marcus Peters, Aqib Talib, Eric Weddle, and Taylor Rapp should be enough to keep an underperforming quarterback at bay. 
+I see Wade Phillips stacking the box in order to stop the run game. Sure, his defensive backs will be left on their own against the 49ers' skill players, but that's a gamble I'm sure Wade is willing to take. The combination of Marcus Peters, Aqib Talib, Eric Weddle, and Taylor Rapp should be enough to keep an underperforming quarterback at bay.
 
 San Francisco's defense will likely follow what other teams have done and try to stack the line of scrimmage in order to prevent the Rams from running their outside zone scheme. And sure, that'll work. But McVay's unit has still made a little hay in the run game, simply by running between the tackles instead. So Los Angeles has a workaround here that should help them sustain drives, even against the 49ers stout defensive front.
 
@@ -26,8 +26,18 @@ So give me the desperate (but not completely inept) Freddie Kitchens here over t
 
 ##### Texans @ _Chiefs_ (-4.5)
 
-A little bit of a risky pick given Deshaun Watson and his penchant for comebacks. But a Chiefs team coming off a loss and expecting the return of its deep threat in Tyreek Hill gives me faith here. 
+A little bit of a risky pick given Deshaun Watson and his penchant for late game heroic. But a Chiefs team coming off a loss and expecting the return of its deep threat in Tyreek Hill gives me faith here.
 
-What really sells me on this is that Andy Reid has faced off against this Texans squad just 2 years back. In that game, Alex Smith had a ball of a time throwing completed passes all over the field against a weak Houston secondary.
+What really sells me on this pick is that Andy Reid faced off against this Texans squad just 2 years back. In that game, Alex Smith had a ball of a time throwing dimes all over the field against a weak Houston secondary. Fast forward to now and not much has changed. Houston's defense is still pathetic in the backfield. Romeo Crennel hasn't really changed his coverage schemes much. And I expect that to bite them in the ass yet again in Arrowhead.
 
-Fast forward to now and not much has changed. Houston's defense is still pathetic in the backfield. Romeo Crennel hasn't really changed his coverage schemes much. And I expect that to bite them in the ass yet again in Arrowhead.
+***
+
+##### _Eagles_ @ Vikings (-3)
+
+The Vikings are just _so_ damn childish with their emphasis on running the ball on early downs. And it's this stubborn devotion to the run that'll be their undoing against teams that can adapt against opponents. The Eagles under Jim Schwartz and Doug Pederson are one of those teams.
+
+Besides, I'd rather trust Carson Wentz over Kirk Cousins.
+
+***
+
+  
