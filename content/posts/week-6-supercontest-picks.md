@@ -34,10 +34,12 @@ What really sells me on this pick is that Andy Reid faced off against this Texan
 
 ##### _Eagles_ @ Vikings (-3)
 
-The Vikings are just _so_ damn childish with their emphasis on running the ball on early downs. And it's this stubborn devotion to the run that'll be their undoing against teams that can adapt against opponents. The Eagles under Jim Schwartz and Doug Pederson are one of those teams.
+The Vikings are just _so_ damn childish with their emphasis on running the ball on early downs. And it's this stubborn devotion to the run that'll be their undoing against teams that can adapt against formulaic opponents. The Eagles under Jim Schwartz and Doug Pederson are one of those teams.
 
 Besides, I'd rather trust Carson Wentz over Kirk Cousins.
 
 ***
 
-  
+##### Titans @ _Broncos_ (-2)
+
+Maybe I'm falling for a trap here, but the Broncos being such short favorites against another formulaic team in the Titans seems wrong to me. Granted, the Broncos defense isn't built as well as the Bills defense that stoned the Tennessee offense last week, but Vic Fangio should prepare this team well against a Titans team that identifies as a run-first unit.
