@@ -39,3 +39,5 @@ Kyle Shanahan is pathologically conservative once he has a safe lead.
 The Vikings were able to make hay on the first drive through some end-around trickery and outside runs. Eagles defensive line also having a hard time pressuring Cousins on the drive.
 
 If there's one thing going in favor for the Eagles defense, it's that the front is holding up well against inside runs between the tackles.
+
+Three straight runs for the Eagles offense, leading to a three-and-out on their first drive. The writing is on the wall, for fuck's sake.
