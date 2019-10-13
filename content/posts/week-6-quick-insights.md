@@ -19,3 +19,23 @@ Penalties were still an issue for this team, though a few of the penalties charg
 I have to stop picking bad teams unless those teams are taking more than 3 points.
 
 Only thing worth praising for the Browns are their scripted play. It was those plays that led to Cleveland taking a double-digit lead halfway through the game.
+
+***
+
+## 49ers @ Rams
+
+I should be more wary of teams that can win in dominating fashion without much help from their quarterback. This Niners team is something special, even if Jimmy Garoppalo is off every now and then.
+
+Man coverage isn't doing much against these 49ers. Kyle Shanahan is countering the Rams defensive coverage looks with bunch formations, from the few plays I did get a good look at.
+
+The 49ers defense have hit their stride. Their aggressive man coverage and trench play is paying off in spades today.
+
+Kyle Shanahan is pathologically conservative once he has a safe lead.
+
+***
+
+## Eagles @ Vikings
+
+The Vikings were able to make hay on the first drive through some end-around trickery and outside runs. Eagles defensive line also having a hard time pressuring Cousins on the drive.
+
+If there's one thing going in favor for the Eagles defense, it's that the front is holding up well against inside runs between the tackles.
