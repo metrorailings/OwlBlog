@@ -17,3 +17,5 @@ The Seahawks were able to exert their will over the Browns defense, mostly on th
 Penalties were still an issue for this team, though a few of the penalties charged against the Browns looked a little spurious.
 
 I have to stop picking bad teams unless those teams are taking more than 3 points.
+
+Only thing worth praising for the Browns are their scripted play. It was those plays that led to Cleveland taking a double-digit lead halfway through the game.
