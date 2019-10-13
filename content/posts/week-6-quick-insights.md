@@ -41,3 +41,5 @@ The Vikings were able to make hay on the first drive through some end-around tri
 If there's one thing going in favor for the Eagles defense, it's that the front is holding up well against inside runs between the tackles.
 
 Three straight runs for the Eagles offense, leading to a three-and-out on their first drive. The writing is on the wall, for fuck's sake.
+
+Two drives - Cousins hasn't been all too impressive outside of one throw to Thielan down the middle of the field. Eagles having trouble getting pressure with their standard personnel however...which helps.
