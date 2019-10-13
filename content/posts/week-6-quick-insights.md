@@ -15,3 +15,5 @@ The coaching on a Browns drive that ended at the Seahawks goal line was atrociou
 The Seahawks were able to exert their will over the Browns defense, mostly on the ground. Chris Carson was a force, breaking tackles and churning out additional yards after contact. Cleveland needs to be more disciplined in their tackling. Some conditioning would also help as well.
 
 Penalties were still an issue for this team, though a few of the penalties charged against the Browns looked a little spurious.
+
+I have to stop picking bad teams unless those teams are taking more than 3 points.
