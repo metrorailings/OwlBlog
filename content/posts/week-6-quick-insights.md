@@ -43,3 +43,7 @@ If there's one thing going in favor for the Eagles defense, it's that the front 
 Three straight runs for the Eagles offense, leading to a three-and-out on their first drive. The writing is on the wall, for fuck's sake.
 
 Two drives - Cousins hasn't been all too impressive outside of one throw to Thielan down the middle of the field. Eagles having trouble getting pressure with their standard personnel however...which helps.
+
+Jason Peters not playing left tackle may be a serious liability for the Eagles.
+
+Outside runs are a serious problem for this Eagles front seven.
