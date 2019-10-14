@@ -47,3 +47,9 @@ Two drives - Cousins hasn't been all too impressive outside of one throw to Thie
 Jason Peters not playing left tackle may be a serious liability for the Eagles.
 
 Outside runs are a serious problem for this Eagles front seven.
+
+Finally, Kirk Cousins is discovering the deep ball again. Two home run balls to Stefon Diggs to put his Vikings up over 20 points. Main takeaway here is that Kirk Cousins has rediscovered his former penchant for the big play. Pretty similar to what I saw last year when the Vikings played Philadelphia at Lincoln Financial Field.
+
+Eagles playing a good amount of zone defense.
+
+Finally, Vikings are breaking out in the second half. Kirk Cousins making passes under pressure and the team finally using their two best skill players in creative and purposeful ways.
