@@ -53,3 +53,15 @@ Finally, Kirk Cousins is discovering the deep ball again. Two home run balls to 
 Eagles playing a good amount of zone defense.
 
 Finally, Vikings are breaking out in the second half. Kirk Cousins making passes under pressure and the team finally using their two best skill players in creative and purposeful ways.
+
+***
+
+## Texans @ Chiefs
+
+Patrick Mahomes' first pass was to Tyreek Hill.
+
+Chiefs matriculated the ball pretty well on one drive. Using window dressing to make an inside run for a big gain, taking advantage of the amount of cushion the Texans are giving Tyreek Hill, and Mahomes even bringing back some of his magic with a lob to Travis Kelce under duress.
+
+But the Texans returned the favor with a touchdown of their own. And that touchdown was more or less gotten through running the ball. The Chiefs are still unable to stop the run.
+
+Bad deep ball from Patrick Mahomes resulting in his first interception of the season. It seems that ankle is more serious than was previously thought...he's not turning properly into his throws, though he does pass more like a baseball pitcher than an actual football quarterback.
