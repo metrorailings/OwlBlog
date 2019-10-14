@@ -65,3 +65,9 @@ Chiefs matriculated the ball pretty well on one drive. Using window dressing to 
 But the Texans returned the favor with a touchdown of their own. And that touchdown was more or less gotten through running the ball. The Chiefs are still unable to stop the run.
 
 Bad deep ball from Patrick Mahomes resulting in his first interception of the season. It seems that ankle is more serious than was previously thought...he's not turning properly into his throws, though he does pass more like a baseball pitcher than an actual football quarterback anyway.
+
+Just poor defense from the Chiefs. How do you let a halfback leak out run a wheel route out of the backfield without assigning anybody to him in coverage?
+
+Tashuan Gipson is a weak point for the Texans secondary.
+
+Chiefs' pass rush is laughable.
