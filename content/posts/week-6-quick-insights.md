@@ -77,6 +77,14 @@ Chiefs' pass rush is laughable.
 
 You know, I don't get the Lions. Start off with a flea flicker and a set of passes in order to throw the Packers off guard. Manage to post 13 points in the first 20 or so minutes of the game, but only 9 points the rest of the way, though.
 
-Detroit's offense failed down the stretch. Their play-calling was uninspiring and predictable. Heavy formations almost always led to power run plays that the Packers were able to shut down fairly effectively. Spread formations usually led to passing plays in which receivers were expected to win against solid man coverage defenders without much scheming help. It seems the Lions offense expected much more success against these Packer corners. But in the end of the day, the Packers won on the backs of their defense. 
+Detroit's offense failed down the stretch. Their play-calling was uninspiring and predictable. Heavy formations almost always led to power run plays that the Packers were able to shut down fairly effectively. Spread formations usually led to passing plays in which receivers were expected to win against solid man coverage defenders without much scheming help. It seems the Lions offense expected much more success against these Packer corners. But in the end of the day, the Packers won on the backs of their defense.
 
 The Lions were only able to finish in the end zone on one of their six scoring drives. The other scores came in the form of field goals that were ultimately not enough to win the game. The Packers defense stepped up their play at all three levels and kept this Lions offense under wraps after a disastrous first quarter.
+
+***
+
+## Saints @ Jaguars
+
+Saints flashed some creative defensive coverages at Gardner Minshew. On one play, they baited Minshew into throwing to a receiver that ended up being in bracket coverage. On another play, linebackers threatened to blitz up the middle, only to drop away when the ball was snapped. Instead, it was two cornerbacks that ended up blitzing Minshew, one of whom was lined up along the trenches and the other lined up across a receiver.
+
+Fournette seems to be a liability in pass coverage.
