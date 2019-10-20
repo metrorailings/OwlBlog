@@ -1,6 +1,5 @@
 +++
 date = "2019-10-19 12:00:00"
-draft = true
 headline = "Week 7 Supercontest Picks"
 
 +++
