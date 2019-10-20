@@ -11,6 +11,8 @@ I see Wade Phillips stacking the box in order to stop the run game. Sure, his de
 
 San Francisco's defense will likely follow what other teams have done and try to stack the line of scrimmage in order to prevent the Rams from running their outside zone scheme. And sure, that'll work. But McVay's unit has still made a little hay in the run game, simply by running between the tackles instead. So Los Angeles has a workaround here that should help them sustain drives, even against the 49ers stout defensive front.
 
+**Postmortem:** The 49ers did not do what I expected from them. Instead of overloading the front on defense, San Francisco opted to stay with their regular four-man look. And it still worked. The 49ers defensive line reduced Jared Goff into a nervous wreck. The Rams have serious issues along their offensive line. And without any solid pass protection, Jared Goff has been exposed this season. I don't see the Rams as a viable playoff team anymore. 
+
 ***
 
 ##### Seahawks @ _Browns_ (+1.5)
@@ -20,6 +22,10 @@ The Browns have no business winning this game, according to the metrics. And yet
 The reality here is that as bad as Freddie Kitchens has been so far this season, Pete Carroll hasn't been that much better. The Seahawks' head coach has likely grown too old for the game - his approach is a little too stubborn and outdated for today's game. Teams shouldn't be emphasizing the run game over the pass game anymore. And yet, Carroll (and Zimmer) seem to think otherwise.
 
 So give me the desperate (but not completely inept) Freddie Kitchens here over the aging Pete Carroll and a Seahawks team traveling across two time zones. It also helps that Steve Wilks has considerable experience facing off against this Seahawks team.
+
+**Postmortem:** It took four bloody turnovers for the Seahawks to close out this match with a win. If Baker played with just a bit more composure, Cleveland could have walked into their bye week with an ugly win. I don't regret this pick at all.
+
+Also, Steve Wilks blows. I deserve to be dropkicked for using Steve Wilks to justify a pick. 
 
 ***
 
@@ -41,8 +47,12 @@ The Vikings are just _so_ damn childish with their emphasis on running the ball 
 
 Besides, I'd rather trust Carson Wentz over Kirk Cousins.
 
+**Postmortem:** The Eagles have lost their pass rushing edge. And without that ability to rush the passer effectively, Philadelphia's entire defensive backfield has been exposed. The Vikings had a ball of a time airing out the ball against a hopeless Eagles secondary. Kirk Cousins finally rekindled things with Stefon Diggs, though I still have my doubts about whether their relationship can survive road trips...
+
 ***
 
 ##### Titans @ _Broncos_ (-2)
 
 Maybe I'm falling for a trap here, but the Broncos being such short favorites against another formulaic team in the Titans seems wrong to me. Granted, the Broncos defense isn't built as well as the Bills defense that stoned the Tennessee offense last week, but Vic Fangio should prepare this team well against a Titans team that identifies as a run-first unit.
+
+**Postmortem:** Mariota is trash. I'm so happy I called this one correctly.
