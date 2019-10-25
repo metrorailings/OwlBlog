@@ -49,6 +49,12 @@ Dalvin Cook is one slippery fuck. And the Vikings knows it.
 
 Slow linebacker coverage from the Dolphins resulted in a big play from a Bills fullback - Patrick DiMarco.
 
-Josh Allen's deep throws are fueled more by prayer than accuracy.
+Josh Allen's deep throws are fueled more by prayer than accuracy. Ryan Fitzpatrick has thrown a dime though early, slinging a ball to a receiver in between a cornerback and safety.
 
 Dolphins play a decent amount of man coverage.
+
+Miami's strength on offense seems to be the inside run game, according to their offensive coordinator. Not so coincidentally, the Dolphins have two big runs up the middle in the first quarter alone.
+
+Bad decision-making by Josh Allen costs his team potentially 4 extra points. Still, Allen did put his team in position for the field goal by taking advantage of the Dolphins' poor coverage discipline on a critical third down.
+
+Dolphins seem adamant on running the ball even against eight-man boxes. 
