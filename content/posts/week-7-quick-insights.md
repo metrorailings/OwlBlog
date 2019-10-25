@@ -57,4 +57,14 @@ Miami's strength on offense seems to be the inside run game, according to their 
 
 Bad decision-making by Josh Allen costs his team potentially 4 extra points. Still, Allen did put his team in position for the field goal by taking advantage of the Dolphins' poor coverage discipline on a critical third down.
 
-Dolphins seem adamant on running the ball even against eight-man boxes. 
+Dolphins seem adamant on running the ball even against eight-man boxes.
+
+Another fantastic dime pass from Fitzpatrick into triple coverage.
+
+Ryan Lewis may be a point of weakness in Miami's secondary.
+
+Miami's play-action fakes tend to lead to throws outside the numbers, interestingly enough.
+
+Edward Oliver a big player on this Bills defensive line, especially against the run.
+
+Tre'Davious White is something special, both in pass coverage and against the rush.
