@@ -42,3 +42,13 @@ Nobody on this Texans team hit the quarterback more than once outside of JJ Watt
 ## Vikings @ Lions
 
 Dalvin Cook is one slippery fuck. And the Vikings knows it.
+
+***
+
+## Dolphins @ Bills
+
+Slow linebacker coverage from the Dolphins resulted in a big play from a Bills fullback - Patrick DiMarco.
+
+Josh Allen's deep throws are fueled more by prayer than accuracy.
+
+Dolphins play a decent amount of man coverage.
