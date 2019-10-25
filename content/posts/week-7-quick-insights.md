@@ -1,6 +1,5 @@
 +++
 date = "2019-10-20 12:00:00"
-draft = true
 headline = "Week 7 Quick Insights"
 
 +++
@@ -28,12 +27,18 @@ Teddy Bridgewater throwing the ball away when plays don't develop as expected. N
 
 Penalties, penalties, penalties....the Texans have been victimized on multiple drives by penalties.
 
-Jacoby Brissett made one clutch throw under duress and almost completed a second one despite major pressure from JJ Watt.
+Jacoby Brissett made one clutch throw under duress and almost completed a second one under major pressure from JJ Watt.
 
 The Texans' backup right tackle is simply horrendous. Pressure on a three-man rush is a major red flag.
 
-More importantly, the Colts defense is pretty disciplined here, given the way a defensive lineman disrupted a tight end from running a leak route out of play action.
+The Colts defense looks to be pretty disciplined here, given the way a defensive lineman disrupted a tight end from running a leak route out of play action.
 
 Pierre Desir is definitely a solid cornerback for the Colts here, holding DeAndre Hopkins to limited receptions in key moments.
 
 Nobody on this Texans team hit the quarterback more than once outside of JJ Watt. It's concerning, especially for a team that's not that solidly coached in the first place. If this game made one thing clear, it's that Watt is the only elite pass rusher on this squad as of this week.
+
+***
+
+## Vikings @ Lions
+
+Dalvin Cook is one slippery fuck. And the Vikings knows it.
