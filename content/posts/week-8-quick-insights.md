@@ -11,3 +11,9 @@ Why does Pat Shurmur run on 2nd and long? Why is this a thing in the NFL?
 Giants run defense once again choking up yardage to opposing rushers.
 
 Jones is rough. The kid is still holding on to balls recklessly. And Shurmur telegraphing run plays doesn't help the situation.
+
+***
+
+## Eagles @ Bills
+
+Josh Allen's ability to run is really tasking these coverage defenders patrolling the flat. The threat of Josh Allen scrambling has these defenders dropping off their assignments.
