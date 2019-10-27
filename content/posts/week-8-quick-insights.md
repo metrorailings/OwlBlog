@@ -21,3 +21,9 @@ Darius Slayton may be a beast in the making for the Giants. Finally, something w
 ## Eagles @ Bills
 
 Josh Allen's ability to run is really tasking these coverage defenders patrolling the flat. The threat of Josh Allen scrambling has these defenders dropping off their assignments.
+
+***
+
+## Browns @ Patriots
+
+Greedy Williams and Denzel Ward playing well in their return.
