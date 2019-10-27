@@ -27,3 +27,7 @@ Josh Allen's ability to run is really tasking these coverage defenders patrollin
 ## Browns @ Patriots
 
 Greedy Williams and Denzel Ward playing well in their return.
+
+Once again, the Browns shooting themselves in the foot with penalties.
+
+New England's passing offense is definitely suspect. It seems the team only found consistent success through their screen game and improvisational plays. If it wasn't for the defense, the game would have been competitive well into the fourth quarter.
