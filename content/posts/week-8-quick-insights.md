@@ -12,6 +12,8 @@ Giants run defense once again choking up yardage to opposing rushers.
 
 Jones is rough. The kid is still holding on to balls recklessly. And Shurmur telegraphing run plays doesn't help the situation.
 
+Giants offensive playbook seems to favor high-low routes where a receiver runs a slant route to the outside while the inside receiver crosses underneath to the flat. Daniel Jones seems to prefer throwing to the deeper receiver, even in tight coverage.
+
 ***
 
 ## Eagles @ Bills
