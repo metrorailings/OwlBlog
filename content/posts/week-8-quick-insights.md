@@ -14,6 +14,8 @@ Jones is rough. The kid is still holding on to balls recklessly. And Shurmur tel
 
 Giants offensive playbook seems to favor high-low routes where a receiver runs a slant route to the outside while the inside receiver crosses underneath to the flat. Daniel Jones seems to prefer throwing to the deeper receiver, even in tight coverage.
 
+Darius Slayton may be a beast in the making for the Giants. Finally, something worthy of taking that Hakeem Nicks role.
+
 ***
 
 ## Eagles @ Bills
