@@ -42,4 +42,4 @@ Lots of window dressing before the snap serving the Chiefs well, confusing this 
 
 The Chiefs' linebackers are liabilities in coverage, particularly in 5-wide situations.
 
-The creative plays that were sustaining the Chiefs early in the game have largely disappeared. Reid only drew up so many of them, apparently.
+The creative plays that were sustaining the Chiefs early in the game have largely disappeared. Reid only drew up so many of them, apparently. Late game magic for the Chiefs largely boils down to the quarterback's ability to create plays.
