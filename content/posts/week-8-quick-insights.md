@@ -44,4 +44,8 @@ The Chiefs' linebackers are liabilities in coverage, particularly in 5-wide situ
 
 The creative plays that were sustaining the Chiefs early in the game have largely disappeared. Reid only drew up so many of them, apparently. Late game magic for the Chiefs largely boils down to the quarterback's ability to create plays.
 
-Rodgers has taken over the offensive play-calling in closing out the game.
+Rodgers has taken over the offensive play-calling in closing out the game, which indicates to me that LaFleur is reluctantly (but correctly) allowing his quarterback to call the shots when need be. 
+
+***
+
+## Chargers @ Bears
