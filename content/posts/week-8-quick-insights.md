@@ -41,3 +41,5 @@ More blitzing by the Chiefs linebackers and safeties leading to positive results
 Lots of window dressing before the snap serving the Chiefs well, confusing this Packers defense. It also helps that the Packers are regularly overcompensating in their coverage on Tyreek Hill.
 
 The Chiefs' linebackers are liabilities in coverage, particularly in 5-wide situations.
+
+The creative plays that were sustaining the Chiefs early in the game have largely disappeared. Reid only drew up so many of them, apparently.
