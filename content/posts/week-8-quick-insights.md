@@ -61,3 +61,5 @@ Chargers defense on long third downs is a truly a spectacle in failure.
 Chicago's offensive line is showing some serious symptoms of incompetency.
 
 The Chargers offensive line is just as bad.
+
+Kudos to Trubisky for completing a few big plays, but the Bears red zone offense is truly pathetic. It seems Nagy doesn't full trust his quarterback in goal-to-go situations either. Not to mention it doesn't help that Mitch no longer runs around like he used to.
