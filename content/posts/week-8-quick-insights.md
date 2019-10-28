@@ -44,7 +44,7 @@ The Chiefs' linebackers are liabilities in coverage, particularly in 5-wide situ
 
 The creative plays that were sustaining the Chiefs early in the game have largely disappeared. Reid only drew up so many of them, apparently. Late game magic for the Chiefs largely boils down to the quarterback's ability to create plays.
 
-Rodgers has taken over the offensive play-calling in closing out the game, which indicates to me that LaFleur is reluctantly (but correctly) allowing his quarterback to call the shots when need be. 
+Rodgers has taken over the offensive play-calling in closing out the game, which indicates to me that LaFleur is reluctantly (but correctly) allowing his quarterback to call the shots when need be.
 
 ***
 
@@ -65,3 +65,9 @@ The Chargers offensive line is just as bad.
 Kudos to Trubisky for completing a few big plays, but the Bears red zone offense is truly pathetic. It seems Nagy doesn't full trust his quarterback in goal-to-go situations either. Not to mention it doesn't help that Mitch no longer runs around like he used to.
 
 To the Bears credit, their offense found themselves in the red zone on five different occasions in the first half. And yet, not a single touchdown was scored. Sure, Trubisky could be to blame for the offense's ineptitude for the red zone, but I'm also seeing Matt Nagy's gimmick plays and goal-to-go plays fail to move the ball past the goal line. This Bears offense is hopeless if it needs to rely on Trubisky dropping back to pass, which seems more and more to be the case as teams have gotten a beat on the exotic plays the Bears like to run.
+
+***
+
+## Jets @ Jaguars
+
+Jacksonville roasted the Jets with an inside run against an 8-man box. Not a good sign for New York.
