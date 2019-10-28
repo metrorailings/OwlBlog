@@ -49,3 +49,11 @@ Rodgers has taken over the offensive play-calling in closing out the game, which
 ***
 
 ## Chargers @ Bears
+
+Soldier Field has some slippery turf. Good coaches like Sean Payton are well aware of this and advise their players to wear better cleats. Bad coaches like Anthony Lynn aren't quite as sharp though.
+
+Interesting coverage defense by the Bears on a third down. Showed blitz, only for defenders to back out away from the line of scrimmage leaving only three people to rush the passer. These defenders backing away took away the crossing routes two of the Chargers skill players were running though.
+
+Joey Bosa making key plays in the first quarter alone.
+
+Chargers defense on long third downs is a truly a spectacle in failure.
