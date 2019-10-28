@@ -57,3 +57,5 @@ Interesting coverage defense by the Bears on a third down. Showed blitz, only fo
 Joey Bosa making key plays in the first quarter alone.
 
 Chargers defense on long third downs is a truly a spectacle in failure.
+
+Chicago's offensive line is showing some serious symptoms of incompetency.
