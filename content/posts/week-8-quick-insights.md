@@ -59,3 +59,5 @@ Joey Bosa making key plays in the first quarter alone.
 Chargers defense on long third downs is a truly a spectacle in failure.
 
 Chicago's offensive line is showing some serious symptoms of incompetency.
+
+The Chargers offensive line is just as bad.
