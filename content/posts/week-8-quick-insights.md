@@ -35,3 +35,7 @@ New England's passing offense is definitely suspect. It seems the team only foun
 ***
 
 ## Packers @ Chiefs
+
+More blitzing by the Chiefs linebackers and safeties leading to positive results.
+
+Lots of window dressing before the snap serving the Chiefs well, confusing this Packers defense. It also helps that the Packers are regularly overcompensating in their coverage on Tyreek Hill.
