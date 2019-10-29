@@ -75,6 +75,8 @@ Jaguars soft zone defense not doing much of anything.
 
 Jets smartly using quick plays on offense to matriculate the ball downfield.
 
+Minshew working his magic and delivering a perfect ball on a scramble away from pressure.
+
 ***
 
 ## Dolphins @ Steelers
