@@ -87,6 +87,8 @@ Ever since giving up a big run to Fournette on that early run, the Jets run defe
 
 The entire Jets offensive line is a major liability in pass protection. Only the right tackle seems somewhat qualified to be playing in the professional league here.
 
+Two fumbles by the Jaguars on special teams. Sloppy.
+
 ***
 
 ## Dolphins @ Steelers
