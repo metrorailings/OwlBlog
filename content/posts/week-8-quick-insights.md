@@ -79,6 +79,12 @@ Minshew working his magic and delivering a perfect ball on a scramble away from 
 
 The Jets left tackle is a liability.
 
+Jets cornerbacks are affording receivers too much space on blitz situations.
+
+Minshew doing well reading Gregg Williams' blitz schemes.
+
+Ever since giving up a big run to Fournette on that early run, the Jets run defense has been stout.
+
 ***
 
 ## Dolphins @ Steelers
