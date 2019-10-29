@@ -77,6 +77,8 @@ Jets smartly using quick plays on offense to matriculate the ball downfield.
 
 Minshew working his magic and delivering a perfect ball on a scramble away from pressure.
 
+The Jets left tackle is a liability.
+
 ***
 
 ## Dolphins @ Steelers
