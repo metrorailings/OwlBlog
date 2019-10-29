@@ -1,6 +1,5 @@
 +++
 date = "2019-10-27 12:00:00"
-draft = true
 headline = "Week 8 Quick Insights"
 
 +++
@@ -83,3 +82,5 @@ Jets smartly using quick plays on offense to matriculate the ball downfield.
 Miami willing to gamble. The defense tried a jailbreak blitz on a 3rd-and-20 in order to push the Steelers out of field goal range. Instead, Mason Rudolph was able to hit a short crosser for a long-developing 45-yard touchdown.
 
 Fitzpatrick a major gambler, even under pressure. No surprise.
+
+Rudolph developing a taste for Juju Smith-Schuster.
