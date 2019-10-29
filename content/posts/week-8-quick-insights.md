@@ -84,3 +84,5 @@ Miami willing to gamble. The defense tried a jailbreak blitz on a 3rd-and-20 in 
 Fitzpatrick a major gambler, even under pressure. No surprise.
 
 Rudolph developing a taste for Juju Smith-Schuster.
+
+Miami's defensive backs are liabilities in coverage. Pair that with one of the weaker defensive lines in the league and you have a pretty shitty defense.
