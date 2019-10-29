@@ -71,3 +71,13 @@ To the Bears credit, their offense found themselves in the red zone on five diff
 ## Jets @ Jaguars
 
 Jacksonville roasted the Jets with an inside run against an 8-man box. Not a good sign for New York.
+
+Jaguars soft zone defense not doing much of anything.
+
+Jets smartly using quick plays on offense to matriculate the ball downfield.
+
+***
+
+## Dolphins @ Steelers
+
+Miami willing to gamble. The defense tried a jailbreak blitz on a 3rd-and-20 in order to push the Steelers out of field goal range. Instead, Mason Rudolph was able to hit a short crosser for a long-developing 45-yard touchdown.
