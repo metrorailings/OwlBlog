@@ -89,6 +89,8 @@ The entire Jets offensive line is a major liability in pass protection. Only the
 
 Two fumbles by the Jaguars on special teams. Sloppy.
 
+Jets blitz pick-up is still lame. But Gase is starting to adjust late in the game by calling quick passes and occasional gadget plays to keep the heat off Darnold.
+
 ***
 
 ## Dolphins @ Steelers
