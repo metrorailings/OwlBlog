@@ -85,6 +85,8 @@ Minshew doing well reading Gregg Williams' blitz schemes.
 
 Ever since giving up a big run to Fournette on that early run, the Jets run defense has been stout.
 
+The entire Jets offensive line is a major liability in pass protection. Only the right tackle seems somewhat qualified to be playing in the professional league here.
+
 ***
 
 ## Dolphins @ Steelers
