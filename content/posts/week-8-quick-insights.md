@@ -120,3 +120,7 @@ Jameis messing up a snap ends up giving the Titans a goal-to-go touchdown.
 Tampa Bay loves running between their tackles on zone schemes.
 
 Ryan Tannehill isn't immune to bad quarterback play either. Some of his first quarter decisions have already been questionable. Not to mention his anticipation needs to be called into question.
+
+In part due to a tip, Winston throws another interception that gifts the Titans with yet another goal-to-go touchdown.
+
+Why do the Titans have fade routes in their red zone package?
