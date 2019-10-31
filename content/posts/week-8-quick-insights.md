@@ -108,3 +108,9 @@ Rudolph developing a taste for Juju Smith-Schuster.
 Miami's defensive backs are liabilities in coverage. Pair that with one of the weaker defensive lines in the league and you have a pretty shitty defense.
 
 Deceptive blitz by the Jaguars forced a bad throw from Darnold on a short field.
+
+***
+
+## Buccaneers @ Titans
+
+On the first drive, the Buccaneers could have scored. But two bad decisions by Winston killed any chance at a touchdown. The first bad decision came when he tried to force a throw to Mike Evans under heavy coverage. The second bad decision was not diagnosing man-to-man coverage before the snap and throwing to his tight end crossing the formation over.
