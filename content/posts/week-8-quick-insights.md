@@ -124,3 +124,5 @@ Ryan Tannehill isn't immune to bad quarterback play either. Some of his first qu
 In part due to a tip, Winston throws another interception that gifts the Titans with yet another goal-to-go touchdown.
 
 Why do the Titans have fade routes in their red zone package?
+
+Jameis under pressure has been unusually good.
