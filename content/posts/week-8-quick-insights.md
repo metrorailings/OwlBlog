@@ -114,3 +114,9 @@ Deceptive blitz by the Jaguars forced a bad throw from Darnold on a short field.
 ## Buccaneers @ Titans
 
 On the first drive, the Buccaneers could have scored. But two bad decisions by Winston killed any chance at a touchdown. The first bad decision came when he tried to force a throw to Mike Evans under heavy coverage. The second bad decision was not diagnosing man-to-man coverage before the snap and throwing to his tight end crossing the formation over.
+
+Jameis messing up a snap ends up giving the Titans a goal-to-go touchdown.
+
+Tampa Bay loves running between their tackles on zone schemes.
+
+Ryan Tannehill isn't immune to bad quarterback play either. Some of his first quarter decisions have already been questionable. Not to mention his anticipation needs to be called into question.
