@@ -55,7 +55,7 @@ Interesting coverage defense by the Bears on a third down. Showed blitz, only fo
 
 Joey Bosa making key plays in the first quarter alone.
 
-Chargers defense on long third downs is a truly a spectacle in failure.
+Chargers defense on long third downs is just abysmal.
 
 Chicago's offensive line is showing some serious symptoms of incompetency.
 
@@ -95,6 +95,8 @@ Two fumbles by the Jaguars on special teams. Sloppy.
 
 Jets blitz pick-up is still lame. But Gase is starting to adjust late in the game by calling quick passes and occasional gadget plays to keep the heat off Darnold.
 
+Deceptive blitz by the Jaguars forced a bad throw from Darnold on a short field.
+
 ***
 
 ## Dolphins @ Steelers
@@ -106,8 +108,6 @@ Fitzpatrick a major gambler, even under pressure. No surprise.
 Rudolph developing a taste for Juju Smith-Schuster.
 
 Miami's defensive backs are liabilities in coverage. Pair that with one of the weaker defensive lines in the league and you have a pretty shitty defense.
-
-Deceptive blitz by the Jaguars forced a bad throw from Darnold on a short field.
 
 ***
 
