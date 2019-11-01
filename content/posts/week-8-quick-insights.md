@@ -1,5 +1,5 @@
 +++
-date = "2019-10-27 12:00:00"
+date = 2019-10-27T12:00:00Z
 headline = "Week 8 Quick Insights"
 
 +++
@@ -113,7 +113,7 @@ Deceptive blitz by the Jaguars forced a bad throw from Darnold on a short field.
 
 ## Buccaneers @ Titans
 
-On the first drive, the Buccaneers could have scored. But two bad decisions by Winston killed any chance at a touchdown. The first bad decision came when he tried to force a throw to Mike Evans under heavy coverage. The second bad decision was not diagnosing man-to-man coverage before the snap and throwing to his tight end crossing the formation over.
+On the first drive, the Buccaneers could have scored. But two bad decisions by Winston killed any chance at a touchdown. The first bad decision came when he tried to force a throw to Mike Evans under heavy coverage. The second bad decision was not diagnosing man-to-man coverage before the snap and throwing to his tight end crossing over the formation from behind the line of scrimmage.
 
 Jameis messing up a snap ends up giving the Titans a goal-to-go touchdown.
 
