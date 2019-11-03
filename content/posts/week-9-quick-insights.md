@@ -35,3 +35,11 @@ This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won
 Not much of a surprise, but Jameis genuinely plays better against teams not as familiar with him.
 
 It also helps that the Seahawks are unable to generate any pressure with their pass rushing specialists alone. Having to resort to the blitz leaves passing lanes open that Jameis can exploit more often than not.
+
+***
+
+## Browns @ Broncos
+
+Broncos are mercilessly killing this Browns defense on one drive using heavy play action on multiple first downs.
+
+Browns tackling is absolutely sloppy. Why did I take this team again as road favorites? Never take bad teams on the road, especially when they're giving points to the other side.
