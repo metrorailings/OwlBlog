@@ -26,4 +26,12 @@ The Colts defense played so well on the last drive, forcing the Steelers into sh
 
 Calling more blitzes in the second half will be the key difference for the Steelers should they pull out the win here. Still, their offensive play-calling is not helping matters either today. Randy Fichtner picks the wrong times to be conservative. Not to mention some of his play-calls have been less than inspiring.
 
-This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won against losing teams and have yet to post a win against winning team before today. It seems Pittsburgh is a team trying to show itself to be more talented than they actually are. 
+This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won against losing teams and have yet to claim victory against winning teams before today. It seems Pittsburgh is a team trying to show itself to be more talented than they actually are. 
+
+***
+
+## Buccaneers @ Seahawks
+
+Not much of a surprise, but Jameis genuinely plays better against teams not as familiar with him.
+
+It also helps that the Seahawks are unable to generate any pressure with their pass rushing specialists alone. Having to resort to the blitz leaves passing lanes open that Jameis can exploit more often than not.
