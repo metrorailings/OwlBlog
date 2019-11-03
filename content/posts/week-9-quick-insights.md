@@ -13,3 +13,7 @@ Remind me to never side with a rookie quarterback in his second outing against a
 Then again, it also hurts that Minshew is lacking a playmaker in Dede Westbrook today. 
 
 ***
+
+## Colts @ Steelers
+
+Jabaal Sheard may be the Colts' best defensive linemen. Making stops against the run and against 4th down trick plays too.
