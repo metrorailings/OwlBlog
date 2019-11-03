@@ -23,3 +23,7 @@ The Colts offensive line is incredibly dominant. The Steelers pass rush is nearl
 Zone defense is too risky when you don't have the horses to execute that style of defense. And the Colts matriculating the ball downfield with ease tells me that the Steelers don't have those horses.
 
 The Colts defense played so well on the last drive, forcing the Steelers into short passes that essentially drained clock. Had it not been for an overzealous Darius Leonard, the Steelers would have done nothing on that last drive. Frank reich and Matt Eburfleus have this team excellently coached.
+
+Calling more blitzes in the second half will be the key difference for the Steelers should they pull out the win here. Still, their offensive play-calling is not helping matters either today. Randy Fichtner picks the wrong times to be conservative. Not to mention some of his play-calls have been less than inspiring.
+
+This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won against losing teams and have yet to post a win against winning team before today. It seems Pittsburgh is a team trying to show itself to be more talented than they actually are. 
