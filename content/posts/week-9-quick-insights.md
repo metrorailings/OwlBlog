@@ -21,3 +21,5 @@ Jabaal Sheard may be the Colts' best defensive linemen. Making stops against the
 The Colts offensive line is incredibly dominant. The Steelers pass rush is nearly nonexistent. Brian Hoyer is being given too much time to pick apart the Steelers zone defense.
 
 Zone defense is too risky when you don't have the horses to execute that style of defense. And the Colts matriculating the ball downfield with ease tells me that the Steelers don't have those horses.
+
+The Colts defense played so well on the last drive, forcing the Steelers into short passes that essentially drained clock. Had it not been for an overzealous Darius Leonard, the Steelers would have done nothing on that last drive. Frank reich and Matt Eburflus have this team excellently coached.
