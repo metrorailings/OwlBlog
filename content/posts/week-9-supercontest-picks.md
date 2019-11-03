@@ -1,6 +1,5 @@
 +++
 date = 2019-11-03T12:00:00Z
-draft = true
 headline = "Week 9 Supercontest Picks"
 
 +++
