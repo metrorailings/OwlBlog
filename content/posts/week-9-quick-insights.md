@@ -55,3 +55,9 @@ Tyreek Hill's ability to beat bracket coverage is really something. Kudos to Mat
 Cousins is not as effective as he was the last three weeks.
 
 The Chiefs have done an excellent job bottling up the run so far in the first quarter. In fact, something tells me the defense has gotten a beat on the way the Vikings run the football.
+
+Solid defensive play-calling to kill a Chiefs drive late in the game. Sending more men over the weak side of the line ended up putting a good bit more pressure on Matt Moore.
+
+The Vikings defense has hit home a few times when it comes to pressuring the passer, but Matt Moore threw two key balls over to Tyreek Hill on a drive that ended in a critical field goal. Tyreek Hill is a game-changer.
+
+The Chiefs defensive tackles are consistently winning their battles against the interior of the Vikings offensive line.
