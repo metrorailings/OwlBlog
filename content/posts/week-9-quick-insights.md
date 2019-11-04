@@ -45,3 +45,9 @@ Interestingly enough, Seahawks decide to throw some big passes on a drive that c
 Broncos are mercilessly killing this Browns defense on one drive using heavy play action on multiple first downs.
 
 Browns tackling is absolutely sloppy. Why did I take this team again as road favorites? Never take bad teams on the road, especially when they're giving points to the other side.
+
+***
+
+## Vikings @ Chiefs
+
+Tyreek Hill's ability to beat bracket coverage is really something.
