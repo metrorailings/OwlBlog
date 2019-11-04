@@ -36,6 +36,8 @@ Not much of a surprise, but Jameis genuinely plays better against teams not as f
 
 It also helps that the Seahawks are unable to generate any pressure with their pass rushing specialists alone. Having to resort to the blitz leaves passing lanes open that Jameis can exploit more often than not.
 
+Interestingly enough, Seahawks decide to throw some big passes on a drive that could have been a closing drive.
+
 ***
 
 ## Browns @ Broncos
