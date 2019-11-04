@@ -50,4 +50,4 @@ Browns tackling is absolutely sloppy. Why did I take this team again as road fav
 
 ## Vikings @ Chiefs
 
-Tyreek Hill's ability to beat bracket coverage is really something.
+Tyreek Hill's ability to beat bracket coverage is really something. Kudos to Matt Moore for throwing a good pass.
