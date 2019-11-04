@@ -1,6 +1,5 @@
 +++
 date = 2019-11-03T12:00:00Z
-draft = true
 headline = "Week 9 Quick Insights"
 
 +++
@@ -67,3 +66,5 @@ The Chiefs defensive tackles are consistently winning their battles against the 
 ## Titans @ Panthers
 
 Panthers are horrid at defending against the run.
+
+The interior of the Titans offensive line may be a point of weakness.
