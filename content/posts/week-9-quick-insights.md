@@ -61,3 +61,9 @@ Solid defensive play-calling to kill a Chiefs drive late in the game. Sending mo
 The Vikings defense has hit home a few times when it comes to pressuring the passer, but Matt Moore threw two key balls over to Tyreek Hill on a drive that ended in a critical field goal. Tyreek Hill is a game-changer.
 
 The Chiefs defensive tackles are consistently winning their battles against the interior of the Vikings offensive line.
+
+***
+
+## Titans @ Panthers
+
+Panthers are horrid at defending against the run.
