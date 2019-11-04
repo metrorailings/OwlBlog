@@ -51,3 +51,7 @@ Browns tackling is absolutely sloppy. Why did I take this team again as road fav
 ## Vikings @ Chiefs
 
 Tyreek Hill's ability to beat bracket coverage is really something. Kudos to Matt Moore for throwing a good pass.
+
+Cousins is not as effective as he was the last three weeks.
+
+The Chiefs have done an excellent job bottling up the run so far in the first quarter. In fact, something tells me the defense has gotten a beat on the way the Vikings run the football.
