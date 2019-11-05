@@ -68,3 +68,7 @@ The Chiefs defensive tackles are consistently winning their battles against the 
 Panthers are horrid at defending against the run.
 
 The interior of the Titans offensive line may be a point of weakness.
+
+Solid coverage by the Panthers defensive backs.
+
+Tennessee's defense on the other hand leaves much to be desired. Being gifted a few interceptions by Jameis Winston last week seems to have left them overconfident. The only good thing the defense is doing is getting pressure on the quarterback. Yet that pressure means little if you let the Panthers convert on downs like 3rd and 14. The worst part is that Carolina moved the chains on that down with a wide receiver screen that was only designed to net several yards and set up an easier field goal.
