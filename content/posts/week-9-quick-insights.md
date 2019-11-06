@@ -92,3 +92,7 @@ Lazy coverage, sloppy zone execution from linebackers...Oakland's pass defense i
 No punts in the first quarter and a half. Says something about the relative quality of the offenses against these defenses.
 
 Trey Flowers coming up big on two consecutive plays, effectively killing an Oakland drive.
+
+Johnathan Hankins making a difference against the run in particular.
+
+The Raiders defense seems to have adjusted in the second half by blitzing more. Seems to be working out so far...
