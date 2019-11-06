@@ -9,7 +9,7 @@ Leonard Fournette being a power runner doesn't bode well for a Jaguars team play
 
 Remind me to never side with a rookie quarterback in his second outing against a division opponent. The Texans are not getting any pressure on Minshew, but that doesn't seem to matter as Houston seems to have gotten a beat on the Jaguars passing tendencies. The Texans' coverage schemes are taking away many of the offensive concepts Minshew has gotten comfortable executing. Without those easy throws, Minshew is left spooked.
 
-Then again, it also hurts that Minshew is lacking a playmaker in Dede Westbrook today. 
+Then again, it also hurts that Minshew is lacking a playmaker in Dede Westbrook today.
 
 ***
 
@@ -25,7 +25,7 @@ The Colts defense played so well on the last drive, forcing the Steelers into sh
 
 Calling more blitzes in the second half will be the key difference for the Steelers should they pull out the win here. Still, their offensive play-calling is not helping matters either today. Randy Fichtner picks the wrong times to be conservative. Not to mention some of his play-calls have been less than inspiring.
 
-This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won against losing teams and have yet to claim victory against winning teams before today. It seems Pittsburgh is a team trying to show itself to be more talented than they actually are. 
+This Steelers team is so frustrating. It's no wonder why Pittsburgh has only won against losing teams and have yet to claim victory against winning teams before today. It seems Pittsburgh is a team trying to show itself to be more talented than they actually are.
 
 ***
 
@@ -72,3 +72,9 @@ The interior of the Titans offensive line may be a point of weakness.
 Solid coverage by the Panthers defensive backs.
 
 Tennessee's defense on the other hand leaves much to be desired. Being gifted a few interceptions by Jameis Winston last week seems to have left them overconfident. The only good thing the defense is doing is getting pressure on the quarterback. Yet that pressure means little if you let the Panthers convert on downs like 3rd and 14. The worst part is that Carolina moved the chains on that down with a wide receiver screen that was only designed to net several yards and set up an easier field goal.
+
+***
+
+## Lions @ Raiders
+
+So far on this Lions first drive, Detroit is cutting through this Oakland defense like swiss cheese.
