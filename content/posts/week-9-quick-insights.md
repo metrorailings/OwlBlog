@@ -96,3 +96,5 @@ Trey Flowers coming up big on two consecutive plays, effectively killing an Oakl
 Johnathan Hankins making a difference against the run in particular.
 
 The Raiders defense seems to have adjusted in the second half by blitzing more. Seems to be working out so far...
+
+Carr bailed out of the pocket too early on 3rd down, essentially limiting his options and killing the drive.
