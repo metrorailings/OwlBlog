@@ -78,3 +78,11 @@ Tennessee's defense on the other hand leaves much to be desired. Being gifted a 
 ## Lions @ Raiders
 
 So far on this Lions first drive, Detroit is cutting through this Oakland defense like swiss cheese.
+
+But a bungled handoff from Stafford to McKissic leads to a lost fumble, killing that drive.
+
+Josh Jacobs is something special. Up there with Dalvin Cook and Alvin Kamara in terms of shiftiness and agility.
+
+Daryl Worley is a major point of weakness in the Oakland defensive backfield.
+
+Derek Carr playing smart, making quick decisions even in weird situations.
