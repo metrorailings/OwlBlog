@@ -88,3 +88,7 @@ Daryl Worley is a major point of weakness in the Oakland defensive backfield.
 Derek Carr playing smart, making quick decisions even in weird situations.
 
 Lazy coverage, sloppy zone execution from linebackers...Oakland's pass defense is a mess.
+
+No punts in the first quarter and a half. Says something about the relative quality of the offenses against these defenses.
+
+Trey Flowers coming up big on two consecutive plays, effectively killing an Oakland drive.
