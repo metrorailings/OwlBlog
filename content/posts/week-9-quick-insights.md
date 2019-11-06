@@ -86,3 +86,5 @@ Josh Jacobs is something special. Up there with Dalvin Cook and Alvin Kamara in 
 Daryl Worley is a major point of weakness in the Oakland defensive backfield.
 
 Derek Carr playing smart, making quick decisions even in weird situations.
+
+Lazy coverage, sloppy zone execution from linebackers...Oakland's pass defense is a mess.
