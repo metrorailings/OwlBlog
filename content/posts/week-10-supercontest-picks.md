@@ -26,4 +26,16 @@ The Bears are just awful. Simply awful. But this Lions team isn't really much be
 
 ##### Dolphins @ _Colts_ (-10)
 
-Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points here. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take those chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses. 
+Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points here. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take those chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses.
+
+***
+
+##### Rams @ _Steelers_ (+3.5)
+
+It seems a little odd to me that the Rams would be significant road favorites against a decent Steelers team. Yes, Pittsburgh's offense isn't quite the same with Mason Rudolph at its helm...but then again, has the Rams offense been the same since the Super Bowl last season? I think people here are too quickly falling back in love with McVay after his team posted back-to-back wins against bottom-tier teams.
+
+Let's not forget that the Rams offensive line still presents a liability here, one that can be exploited by one of the league's best pass-rushing units.
+
+***
+
+ 
