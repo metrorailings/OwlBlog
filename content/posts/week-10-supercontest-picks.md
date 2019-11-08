@@ -14,8 +14,12 @@ Still...Arizona has been remarkably competent over the past couple weeks. Kliff 
 
 ##### Falcons @ _Saints_ (-13)
 
-I'm not the biggest fan of taking the Saints as double-digit favorites, as the team has a habit of taking games off every now and then. But with this game is against a hated division rival, I do expect New Orleans to play hard here, especially against a Falcons defense made out of cardboard cut-outs.
+I'm not the biggest fan of taking the Saints as double-digit favorites, as the team has a habit of taking games off every now and then. But against a hated division rival, I do expect New Orleans to play hard here, especially if the potential is there to run up points against a Falcons defense made out of cardboard cut-outs.
 
 ***
 
 ##### Lions @ _Bears_ (-2.5)
+
+The Bears are just awful. Simply awful. But this Lions team isn't really much better, even though Stafford's commitment to deeper throws has made this offense look better. It's the milquetoast defense that's the problem - the Lions are awful at generating pressure with their front four linemen and pretty predictable with their man coverage schemes. If Nagy can scheme up enough plays to expose Detroit's predictable defense, Chicago can scrape up here with a win.
+
+***
