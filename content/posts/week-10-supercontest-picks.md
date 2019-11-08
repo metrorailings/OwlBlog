@@ -38,4 +38,6 @@ Let's not forget that the Rams offensive line still presents a liability here, o
 
 ***
 
- 
+##### Bills @ _Browns_ (-3)
+
+The Bills ridiculously poor run defense will not serve them well here against Nick Chubb. Now if Cleveland can stop shooting themselves in the foot...
