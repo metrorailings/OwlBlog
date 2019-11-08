@@ -23,4 +23,18 @@ The Colts have gotten by at this point by having built a solid infrastructure ar
 
 Risky here to pick an above-average team to win by more than a touchdown against any NFL team, even on their own home turf.
 
-But the Redskins are starting _Dwayne Haskins_ here. In his 22 pass attempts this year, Haskins has thrown 4 interceptions. As if that stat alone isn't enough of a testament to his hopelessness, his reported disillusionment with the team and his feelings of entitlement to the starter position just paints a worse picture of him. 
+But the Redskins are starting _Dwayne Haskins_ here. In his 22 pass attempts this year, Haskins has thrown 4 interceptions. As if that stat alone isn't enough of a testament to his hopelessness, his reported disillusionment with the team and his feelings of entitlement to the starter position just paints a worse picture of him.
+
+***
+
+##### _Browns_ @ Broncos (+3)
+
+Tough to side with the Browns here, but I have to admit that Cleveland impressed me last week with a decent showing against the Patriots. Nick Chubb took his game to a new level and the pass rushing specialists finally stepped up as a unit, even if it was against a weakened Patriots offensive line featuring Marshall Newhouse.
+
+But the Broncos aren't much better so long as Garrett Bowles still remains a starting tackle along their offensive line. I expect the Browns to break through and once again pressure a journeyman quarterback starting in his first game as a Bronco without ever having taken a meaningful snap before with the team.
+
+***
+
+##### _Buccaneers_ @ Seahawks (-6)
+
+I love this spot for the Buccaneers. Tampa Bay has been all over the place this year, but their better performances this year has come against non-division opponents. Cue a Seahawks team that seems to play worse at home than on the road. It also helps that Seattle's defense has choked up yardage over the season - neither Ezekiel Ansah nor Jadaveon Clowney have really panned out as marquis pass rushers. Without a pass rush, the young secondary has been hung out to dry on a number of occasions.
