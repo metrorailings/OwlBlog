@@ -26,7 +26,7 @@ The Bears are just awful. Simply awful. But this Lions team isn't really much be
 
 ##### Dolphins @ _Colts_ (-10)
 
-Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points here. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take those chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses.
+Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take those chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses.
 
 ***
 
