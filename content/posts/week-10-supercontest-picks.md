@@ -20,7 +20,7 @@ I'm not the biggest fan of taking the Saints as double-digit favorites, as the t
 
 ##### Lions @ _Bears_ (-2.5)
 
-The Bears are just awful. Simply awful. But this Lions team isn't really much better, even though Stafford's commitment to deeper throws has made this offense look better. It's the milquetoast defense that's the problem - the Lions are awful at generating pressure with their front four linemen and pretty predictable with their man coverage schemes. If Nagy can scheme up enough plays to expose Detroit's predictable defense, Chicago can scrape up here with a win.
+The Bears are just awful. Simply awful. But this Lions team isn't really much better, even though Stafford's commitment to deeper throws has made this offense look better. It's the milquetoast defense that's the problem - the Lions are awful at generating pressure with their front four linemen and pretty predictable with their man coverage schemes. If Nagy can scheme up enough plays to expose Detroit's predictable defense, Chicago can scrape by here with a win.
 
 ***
 
