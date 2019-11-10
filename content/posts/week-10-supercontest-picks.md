@@ -19,13 +19,13 @@ I'm not the biggest fan of taking the Saints as double-digit favorites, as the t
 
 ##### Lions @ _Bears_ (-2.5)
 
-The Bears are just awful. Simply awful. But this Lions team isn't really much better, even though Stafford's commitment to deeper throws has made this offense look better. It's the milquetoast defense that's the problem - the Lions are awful at generating pressure with their front four linemen and pretty predictable with their man coverage schemes. If Nagy can scheme up enough plays to expose Detroit's predictable defense, Chicago can scrape by here with a win.
+The Bears are just awful. Simply awful. But this Lions team isn't really much better, even though Stafford's commitment to deeper throws has made this offense look better. It's the milquetoast defense that's the problem - the Lions are awful at generating pressure with their front four linemen and pretty predictable with their man coverage schemes. If Nagy can scheme up enough plays to expose Detroit's predictability on defense, Chicago can scrape by here with a win.
 
 ***
 
 ##### Dolphins @ _Colts_ (-10)
 
-Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take those chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses.
+Even though Indianapolis has yet to win a game by more than 7 points this season, it seems this would be the perfect game to run away with the points. Unlike the careful Jacoby Brissett, Brian Hoyer is more willing to take chances and fling those home run balls. Those opportunities will be there against one of the league's worst pass defenses, especially if T.Y. Hilton is healthy.
 
 ***
 
