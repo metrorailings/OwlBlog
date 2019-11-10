@@ -14,7 +14,9 @@ Cleveland's offensive line cannot play power football. Six rushes roughly three 
 
 Bills are dangerous with their designed quarterback runs. Two big runs on one drive led to a touchdown.
 
-The Browns' goal-to-go play package may have been deciphered by this Bills defense. Cleveland is just absolutely hopeless when just a few yards away from the goal line. 
+The Browns' goal-to-go play package may have been deciphered by this Bills defense. Cleveland is just absolutely hopeless when just a few yards away from the goal line.
+
+Baker Mayfield is overrated. Not only that, but this Cleveland has screwed up now on two forward pitches, something science initially deemed impossible. I'm never betting on this Browns team again.
 
 ***
 
