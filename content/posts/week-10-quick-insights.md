@@ -4,4 +4,6 @@ draft = true
 headline = "Week 10 Quick Insights"
 
 +++
-## Bills @ Broans
+## Bills @ Browns
+
+Finally, Baker is re-establishing a rapport with Jarvis Landry.
