@@ -48,3 +48,5 @@ Screens are eviscerating this Cowboys defense. The Vikings are taking advantage 
 Mike Hughes staking his name as the best cornerback on this Vikings secondary.
 
 Worth noting that slight pressure from Michael Bennett threw Cousins off on a big play.
+
+Harrison Smith is the featured blitz defender for the Vikings.
