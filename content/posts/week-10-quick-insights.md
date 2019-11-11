@@ -54,3 +54,5 @@ Harrison Smith is the featured blitz defender for the Vikings.
 Vikings are committed to their plan of stopping Zeke first and foremost. By large, the Cowboys' success on offense has come courtesy of Dak Prescott. Let's see if the Cowboys smarten up and counter through carefully executed play-action concepts.
 
 Poor decision by Kirk Cousins on a free play. Worrisome.
+
+Amari Cooper with his toe-tap receptions is damn near magical.
