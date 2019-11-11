@@ -51,4 +51,4 @@ Worth noting that slight pressure from Michael Bennett threw Cousins off on a bi
 
 Harrison Smith is the featured blitz defender for the Vikings.
 
-Vikings are committed to their plan of stopping Zeke first and foremost. By large, the Cowboys' success on offense has come courtesy of Dak Prescott.
+Vikings are committed to their plan of stopping Zeke first and foremost. By large, the Cowboys' success on offense has come courtesy of Dak Prescott. Let's see if the Cowboys smarten up and counter through carefully executed play-action concepts.
