@@ -56,3 +56,5 @@ Vikings are committed to their plan of stopping Zeke first and foremost. By larg
 Poor decision by Kirk Cousins on a free play. Worrisome.
 
 Amari Cooper with his toe-tap receptions is damn near magical.
+
+The Vikings deciphered the Cowboys and their running game. Zeke was neutered here. Other coaches should be looking at this game as a template on how to stop the Cowboys from rushing.
