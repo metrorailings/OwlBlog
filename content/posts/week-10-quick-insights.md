@@ -1,6 +1,5 @@
 +++
 date = 2019-11-10T12:00:00Z
-draft = true
 headline = "Week 10 Quick Insights"
 
 +++
@@ -37,3 +36,15 @@ Mason Rudolph himself has acknowledged his own inability to throw the deep pass.
 McVay's self-scouting is to be taken with a grain of salt. His unwillingness to really change his system up much during the offseason is testament enough that the Rams lack the willpower to truly adapt their game against changing circumstances.
 
 Clay Matthews stepping up as the complimentary pass rusher to Aaron Donald.
+
+***
+
+## Vikings @ Cowboys
+
+Cowboys relying on dropback passing to matriculate the ball instead of play-action and runs.
+
+Screens are eviscerating this Cowboys defense. The Vikings are taking advantage of this overzealous Cowboys defensive front.
+
+Mike Hughes staking his name as the best cornerback on this Vikings secondary.
+
+Worth noting that slight pressure from Michael Bennett threw Cousins off on a big play.
