@@ -50,3 +50,5 @@ Mike Hughes staking his name as the best cornerback on this Vikings secondary.
 Worth noting that slight pressure from Michael Bennett threw Cousins off on a big play.
 
 Harrison Smith is the featured blitz defender for the Vikings.
+
+Vikings are committed to their plan of stopping Zeke first and foremost. By large, the Cowboys' success on offense has come courtesy of Dak Prescott.
