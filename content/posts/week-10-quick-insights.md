@@ -35,3 +35,5 @@ The Rams defense is intent on having the Steelers play from negative game script
 Mason Rudolph himself has acknowledged his own inability to throw the deep pass. So far though, it seems the man is making more of an effort to generate more air yards, committing himself more to throwing intermediate routes. 
 
 McVay's self-scouting is to be taken with a grain of salt. His unwillingness to really change his system up much during the offseason is testament enough that the Rams lack the willpower to truly adapt their game against changing circumstances.
+
+Clay Matthews stepping up as the complimentary pass rusher to Aaron Donald.
