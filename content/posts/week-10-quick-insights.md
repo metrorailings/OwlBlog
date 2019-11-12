@@ -64,3 +64,5 @@ The Vikings deciphered the Cowboys and their running game. Zeke was neutered her
 ## Seahawks @ 49ers
 
 Seahawks coming out strong with the press coverage.
+
+Jadaveon Clowney stepping up and not falling for any of the trickery of the 49ers offense
