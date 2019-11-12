@@ -31,7 +31,7 @@ The Steelers seem to like to spread their linebackers out towards the edge of th
 
 The Rams defense is intent on having the Steelers play from negative game script. Apparently, Los Angeles is convinced Mason Rudolph and the offense struggle to recover from negative plays.
 
-Mason Rudolph himself has acknowledged his own inability to throw the deep pass. So far though, it seems the man is making more of an effort to generate more air yards, committing himself more to throwing intermediate routes. 
+Mason Rudolph himself has acknowledged his own inability to throw the deep pass. So far though, it seems the man is making more of an effort to generate more air yards, committing himself more to throwing intermediate routes.
 
 McVay's self-scouting is to be taken with a grain of salt. His unwillingness to really change his system up much during the offseason is testament enough that the Rams lack the willpower to truly adapt their game against changing circumstances.
 
@@ -58,3 +58,9 @@ Poor decision by Kirk Cousins on a free play. Worrisome.
 Amari Cooper with his toe-tap receptions is damn near magical.
 
 The Vikings deciphered the Cowboys and their running game. Zeke was neutered here. Other coaches should be looking at this game as a template on how to stop the Cowboys from rushing.
+
+***
+
+## Seahawks @ 49ers
+
+Seahawks coming out strong with the press coverage.
