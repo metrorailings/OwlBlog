@@ -33,7 +33,7 @@ The Rams defense is intent on having the Steelers play from negative game script
 
 Mason Rudolph himself has acknowledged his own inability to throw the deep pass. So far though, it seems the man is making more of an effort to generate more air yards, committing himself more to throwing intermediate routes.
 
-McVay's self-scouting is to be taken with a grain of salt. His unwillingness to really change his system up much during the offseason is testament enough that the Rams lack the willpower to truly adapt their game against changing circumstances.
+McVay's self-scouting is to be taken with a grain of salt. His unwillingness to really change his system up much during the offseason is testament enough that the Rams lack the willpower to truly change and remain ahead of the curve.
 
 Clay Matthews stepping up as the complimentary pass rusher to Aaron Donald.
 
@@ -65,4 +65,6 @@ The Vikings deciphered the Cowboys and their running game. Zeke was neutered her
 
 Seahawks coming out strong with the press coverage.
 
-Jadaveon Clowney stepping up and not falling for any of the trickery of the 49ers offense
+Jadaveon Clowney stepping up and not falling for any of the trickery of the 49ers offense.
+
+49ers making money off slants against Seattle's man coverage.
