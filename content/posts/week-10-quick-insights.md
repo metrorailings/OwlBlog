@@ -68,3 +68,5 @@ Seahawks coming out strong with the press coverage.
 Jadaveon Clowney stepping up and not falling for any of the trickery of the 49ers offense.
 
 49ers making money off slants against Seattle's man coverage.
+
+Jimmy Garoffalo is sailing his passes tonight. His errant passing is throwing this game for the 49ers.
