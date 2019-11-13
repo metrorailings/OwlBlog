@@ -70,3 +70,11 @@ Jadaveon Clowney stepping up and not falling for any of the trickery of the 49er
 49ers making money off slants against Seattle's man coverage.
 
 Jimmy Garoffalo is sailing his passes tonight. His errant passing is throwing this game for the 49ers.
+
+***
+
+## Cardinals @ Buccaneers
+
+The Cardinals have been wowing me with initial set of misdirection plays on their first drive.
+
+But then in the red zone, things quickly fall apart. For some reason, Arizona lacks imagination when it comes to red zone plays. Their season red zone scoring percentage seems to be a testament to this.
