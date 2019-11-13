@@ -78,3 +78,7 @@ Jimmy Garoffalo is sailing his passes tonight. His errant passing is throwing th
 The Cardinals have been wowing me with initial set of misdirection plays on their first drive.
 
 But then in the red zone, things quickly fall apart. For some reason, Arizona lacks imagination when it comes to red zone plays. Their season red zone scoring percentage seems to be a testament to this.
+
+The Cardinals are winning the battle in the trenches against the Buccaneers offense. Tampa Bay is struggling to run the ball and pass protect against Arizona's pass rushers.
+
+Still, Tampa Bay was able to work the ball down into the end zone through fortunate penalties, a fantastic catch by Mike Evans, and the Cardinals simply being inept in their prevent defense.
