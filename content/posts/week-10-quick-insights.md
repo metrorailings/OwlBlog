@@ -82,3 +82,7 @@ But then in the red zone, things quickly fall apart. For some reason, Arizona la
 The Cardinals are winning the battle in the trenches against the Buccaneers offense. Tampa Bay is struggling to run the ball and pass protect against Arizona's pass rushers.
 
 Still, Tampa Bay was able to work the ball down into the end zone through fortunate penalties, a fantastic catch by Mike Evans, and the Cardinals simply being inept in their prevent defense.
+
+Kliff Kingsbury seems to be scheming things so that Kyler Murray gets rid of the ball quickly.
+
+Arizona's offensive line failed in their run-blocking and pass protection discipline on a sequence of four plays, killing a promising drive.
