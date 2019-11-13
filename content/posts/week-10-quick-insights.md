@@ -86,3 +86,5 @@ Still, Tampa Bay was able to work the ball down into the end zone through fortun
 Kliff Kingsbury seems to be scheming things so that Kyler Murray gets rid of the ball quickly.
 
 Arizona's offensive line failed in their run-blocking and pass protection discipline on a sequence of four plays, killing a promising drive.
+
+On a late-game drive, Tampa Bay only saw success on a scramble from Jameis on a 3rd-and-long situation and two chain-moving throws to receivers NOT named Mike Evans.
