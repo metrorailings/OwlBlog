@@ -96,3 +96,5 @@ Kyler Murray is being given options on these plays. On one play, the rookie opte
 Tampa Bay's run defense is stout, thanks in no small part to players like Vita Vea and Jason Pierre-Paul.
 
 Godwin turning into the Bucs' de facto second receiver. 
+
+Arizona's conditioning towards the end of the game is a cause for concern. Missed tackles and sloppy form.
