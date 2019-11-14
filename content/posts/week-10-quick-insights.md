@@ -88,3 +88,7 @@ Kliff Kingsbury seems to be scheming things so that Kyler Murray gets rid of the
 Arizona's offensive line failed in their run-blocking and pass protection discipline on a sequence of four plays, killing a promising drive.
 
 On a late-game drive, Tampa Bay only saw success on a scramble from Jameis on a 3rd-and-long situation and two chain-moving throws to receivers NOT named Mike Evans.
+
+Arizona with the wicked fake punt to keep the drive alive.
+
+Kyler Murray is being given options on these plays. On one play, the rookie opted out of a wide receiver screen to throw a deep out route to Larry Fitzgerald. 
