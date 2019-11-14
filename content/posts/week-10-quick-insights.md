@@ -91,4 +91,8 @@ On a late-game drive, Tampa Bay only saw success on a scramble from Jameis on a 
 
 Arizona with the wicked fake punt to keep the drive alive.
 
-Kyler Murray is being given options on these plays. On one play, the rookie opted out of a wide receiver screen to throw a deep out route to Larry Fitzgerald. 
+Kyler Murray is being given options on these plays. On one play, the rookie opted out of a wide receiver screen to throw a deep out route to Larry Fitzgerald.
+
+Tampa Bay's run defense is stout, thanks in no small part to players like Vita Vea and Jason Pierre-Paul.
+
+Godwin turning into the Bucs' de facto second receiver. 
