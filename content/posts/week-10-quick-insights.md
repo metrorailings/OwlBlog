@@ -108,3 +108,5 @@ Carolina initiating things with a run-heavy drive.
 Packers moving the ball down on the Panthers with a couple touch throws from Rodgers. His pass protection has held up remarkably.
 
 Kyle Allen can be mobile.
+
+Green Bay's receivers seem to have trouble gaining separation from defensive backs.
