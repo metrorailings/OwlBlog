@@ -114,3 +114,5 @@ Green Bay's receivers seem to have trouble gaining separation from defensive bac
 Two sideline throws to Davante Adams have been key to getting the Packers in position for touchdowns. 
 
 The Panthers' left tackle is a liability in protection. He was largely the reason a promising drive ended prematurely.
+
+Luke Kuechly has been strangely off in his defense against the run. His decisions are flatly wrong. On one drive, the Panthers gave up a little over 40 yards rushing en route to a Packers touchdown. Part of the reason why is the linebackers not executing on their responsibilities to guard against the run.
