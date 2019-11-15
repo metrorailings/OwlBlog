@@ -110,3 +110,5 @@ Packers moving the ball down on the Panthers with a couple touch throws from Rod
 Kyle Allen can be mobile.
 
 Green Bay's receivers seem to have trouble gaining separation from defensive backs.
+
+Two sideline throws to Davante Adams have been key to getting the Packers in position for touchdowns. 
