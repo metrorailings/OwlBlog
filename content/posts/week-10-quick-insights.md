@@ -21,7 +21,7 @@ Baker Mayfield is overrated. Not only that, but this Cleveland has screwed up no
 
 ## Giants @ Jets
 
-Jets using zone blitzes to try and confuse Daniel Jones. We'll see wether Jones can weather Gregg Williams' trickery.
+Jets using zone blitzes to try and confuse Daniel Jones. We'll see whether Jones can weather Gregg Williams' trickery.
 
 ***
 
@@ -111,7 +111,7 @@ Kyle Allen can be mobile.
 
 Green Bay's receivers seem to have trouble gaining separation from defensive backs.
 
-Two sideline throws to Davante Adams have been key to getting the Packers in position for touchdowns. 
+Two sideline throws to Davante Adams have been key to getting the Packers in position for touchdowns.
 
 The Panthers' left tackle is a liability in protection. He was largely the reason a promising drive ended prematurely.
 
