@@ -1,6 +1,5 @@
 +++
 date = 2019-11-16T12:00:00Z
-draft = true
 headline = "Week 11 SuperContest Picks"
 
 +++
@@ -43,3 +42,9 @@ Give me the elite defense here hurting off a bad loss and playing against a rook
 ***
 
 #### Chiefs vs _Chargers_ (+3.5)
+
+Always a risk to pick against a good team in Kansas City, but the Chiefs are not stout at all on defense. The offense will need to outgun opponents to win decisive matches, but the Chargers are difficult to outgun given their talent on offense, starting with quarterback Philip Rivers.
+
+Besides, I do respect Anthony Lynn's attempts to prep his team to play this game in the high altitudes of Mexico City. Unlike Andy Reid, who seems content letting his team practice as if this were any other game, Anthony Lynn is forcing his team to practice in the heights of Colorado Springs in order to condition them for the hypoxemia that'll hit them as the game wears on.
+
+On top of that, the Chargers taking more than three points makes them all the more tempting. 
