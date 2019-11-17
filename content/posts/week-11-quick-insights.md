@@ -8,3 +8,7 @@ headline = "Week 11 Quick Insights"
 Matthew Judon dominating against the run and at taking down the quarterback.
 
 Deshaun Watson seems to be leaning too heavily on DeAndre Hopkins in the passing game. Lots of slants and even a deep heave in his direction on a critical 4th down play.
+
+Ravens' defensive line has been a little sloppy with their aggressiveness. One bad penalty sustained a Texans drive. 
+
+***
