@@ -22,3 +22,5 @@ The Ravens and their cadre of tight ends are unique in this league. Mark Andrews
 Once again, Brees and Thomas haven't missed a beat with their connection whenever the latter runs flat routes. 
 
 A bungled snap from Jameis nearly cost the Buccaneers a possession one yard away from the end zone. Luckily, the sack created additional space for the Tampa Bay offense that allowed Jameis to slide the ball towards a halfback running a post route against a linebacker for a touchdown.
+
+It'll be interesting studying this game to see if the Saints can work out of negative game script given Brees and his penchant for the short ball.
