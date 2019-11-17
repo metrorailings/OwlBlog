@@ -36,3 +36,7 @@ Jeff Driskel is one hell of a mobile quarterback himself. Not like Lamar Jackson
 Driskel's decision-making is suspect. Opted to throw the ball instead of running for what might have been a first-down.
 
 Detroit's defense is just not physical enough compared to this Dallas offense. Jason Witten caught a ball against a defensive back in his hip pocket. Amari Cooper made a catch against a pass that should have been picked off by Darius Slay. Blitzes are just not hitting home. Dak Prescott is breaking out of sacks long enough to throw completions.
+
+Detroit rushing only 3 people on a critical 3rd down is just pathetic. Matt Patricia thinks way too highly of his coverage people.
+
+Dallas is trying to close out this game on an aggressive note, interestingly enough. Dak is handling the ball much more than Zeke.
