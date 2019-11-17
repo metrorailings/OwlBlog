@@ -17,6 +17,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/week-11-quick-insights.md
 - content/posts/week-11-supercontest-picks.md
 - content/posts/week-10-quick-insights.md
 - content/posts/week-10-supercontest-picks.md
