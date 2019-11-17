@@ -46,3 +46,5 @@ Dallas is trying to close out this game on an aggressive note, interestingly eno
 ## Patriots @ Eagles
 
 Dallas Goedert stepping on a big screen.
+
+Philadelphia's secondary is holding up well against the Patriots receiving corps now that they're healthy.
