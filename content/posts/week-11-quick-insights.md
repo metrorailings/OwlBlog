@@ -40,3 +40,9 @@ Detroit's defense is just not physical enough compared to this Dallas offense. J
 Detroit rushing only 3 people on a critical 3rd down is just pathetic. Matt Patricia thinks way too highly of his coverage people.
 
 Dallas is trying to close out this game on an aggressive note, interestingly enough. Dak is handling the ball much more than Zeke.
+
+***
+
+## Patriots @ Eagles
+
+Dallas Goedert stepping on a big screen.
