@@ -26,3 +26,13 @@ Once again, Brees and Thomas haven't missed a beat with their connection wheneve
 A bungled snap from Jameis nearly cost the Buccaneers a possession one yard away from the end zone. Luckily, the sack created additional space for the Tampa Bay offense that allowed Jameis to slide the ball towards a halfback running a post route against a linebacker for a touchdown.
 
 It'll be interesting studying this game to see if the Saints can work out of negative game script given Brees and his penchant for the short ball. So far, one drive ended because of a negative play. 
+
+***
+
+## Cowboys @ Lions
+
+Jeff Driskel is one hell of a mobile quarterback himself. Not like Lamar Jackson, but still pretty good in his own right.
+
+Driskel's decision-making is suspect. Opted to throw the ball instead of running for what might have been a first-down.
+
+Detroit's defense is just not physical enough compared to this Dallas offense. Jason Witten caught a ball against a defensive back in his hip pocket. Amari Cooper made a catch against a pass that should have been picked off by Darius Slay. Blitzes are just not hitting home. Dak Prescott is breaking out of sacks long enough to throw completions.
