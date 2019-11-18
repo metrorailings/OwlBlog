@@ -48,3 +48,15 @@ Dallas is trying to close out this game on an aggressive note, interestingly eno
 Dallas Goedert stepping on a big screen.
 
 Philadelphia's secondary is holding up well against the Patriots receiving corps now that they're healthy.
+
+***
+
+## Broncos @ Vikings
+
+Denver coming out with a creative offensive concept on a shovel sweep.
+
+Courtland Sutton is the man.
+
+Broncos showing confidence in Brandon Allen, having him throw 3 straight times on a goal-to-go situation.
+
+Some fantastically creative play-calling from the Broncos offensive coaching staff. A wildcat play transformed into an end-around that then became a successful passing play. Then Denver ran a similar play right afterwards with mostly the same personnel, but ran the ball this time around.  
