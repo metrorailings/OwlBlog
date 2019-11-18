@@ -60,3 +60,5 @@ Courtland Sutton is the man.
 Broncos showing confidence in Brandon Allen, having him throw 3 straight times on a goal-to-go situation.
 
 Some fantastically creative play-calling from the Broncos offensive coaching staff. A wildcat play transformed into an end-around that then became a successful passing play. Then Denver ran a similar play right afterwards with mostly the same personnel, but ran the ball this time around.  
+
+Defensive tackle Purcell has been a beast against the run for the Broncos.
