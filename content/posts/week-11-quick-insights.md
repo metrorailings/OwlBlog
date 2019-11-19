@@ -82,3 +82,5 @@ Patrick Mahomes with the excellent touch passing.
 Chargers shooting themselves in the foot now with defensive penalties, including a penalty that negated a fumble recovery.
 
 Two legitimate pass interference penalties against the Chiefs paved the way for a Chargers touchdown.
+
+Chargers are just a sloppy bunch.
