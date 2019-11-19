@@ -83,4 +83,4 @@ Chargers shooting themselves in the foot now with defensive penalties, including
 
 Two legitimate pass interference penalties against the Chiefs paved the way for a Chargers touchdown.
 
-Chargers are just a sloppy bunch.
+Chargers are just a sloppy bunch. Not to mention their defense seems too happy to drop back deep. Though it may be worth noting the linebackers may only be dropping back deep in order to counter Mahomes' penchant for the big play.
