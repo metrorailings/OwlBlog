@@ -69,6 +69,8 @@ Broncos defensive line not yielding at all against the run.
 
 Devontae Harris may be a serious liability in pass coverage. Big throws in his direction resulted in a Vikings touchdown.
 
+Vikings adjusted in the second half by doubling Courtland Sutton on key downs.
+
 ***
 
 ## Chiefs vs Chargers (Mexico City)
