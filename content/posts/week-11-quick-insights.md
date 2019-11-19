@@ -74,3 +74,7 @@ Rivers just threw an interception on an intermediate throw. Think it might be ti
 The Chargers' rookie left tackle may be a liability.
 
 If the Chargers are to win this game, the win will have to come through the ground game unfortunately.
+
+The Chargers love to drain that play clock for some reason.
+
+Patrick Mahomes with the excellent touch passing.
