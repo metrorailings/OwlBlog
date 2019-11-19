@@ -67,6 +67,8 @@ Two horrible passes from Brandon Allen on red-zone-to-go drives. Second pass res
 
 Broncos defensive line not yielding at all against the run.
 
+Devontae Harris may be a serious liability in pass coverage. Big throws in his direction resulted in a Vikings touchdown.
+
 ***
 
 ## Chiefs vs Chargers (Mexico City)
