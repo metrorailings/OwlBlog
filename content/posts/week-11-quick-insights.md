@@ -65,6 +65,8 @@ Defensive tackle Purcell has been a beast against the run for the Broncos.
 
 Two horrible passes from Brandon Allen on red-zone-to-go drives. Second pass resulted in an interception. Dropback football is not his strength.
 
+Broncos defensive line not yielding at all against the run.
+
 ***
 
 ## Chiefs vs Chargers (Mexico City)
