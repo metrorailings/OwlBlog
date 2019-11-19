@@ -63,6 +63,8 @@ Some fantastically creative play-calling from the Broncos offensive coaching sta
 
 Defensive tackle Purcell has been a beast against the run for the Broncos.
 
+Two horrible passes from Brandon Allen on red-zone-to-go drives. Second pass resulted in an interception.
+
 ***
 
 ## Chiefs vs Chargers (Mexico City)
