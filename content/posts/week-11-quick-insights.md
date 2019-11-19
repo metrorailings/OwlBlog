@@ -9,7 +9,7 @@ Matthew Judon dominating against the run and at taking down the quarterback.
 
 Deshaun Watson seems to be leaning too heavily on DeAndre Hopkins in the passing game. Lots of slants and even a deep heave in his direction on a critical 4th down play.
 
-Ravens' defensive line has been a little sloppy with their aggressiveness. One bad penalty sustained an ultimately fruitless Texans drive. 
+Ravens' defensive line has been a little sloppy with their aggressiveness. One bad penalty sustained an ultimately fruitless Texans drive.
 
 Houston's pass rush is nonexistent, as expected. Mercilus, Reader, nor Brennan Scarlet.
 
@@ -21,11 +21,11 @@ Lamar Jackson and his ability to break tackles is really something special. His 
 
 ## Saints @ Buccaneers
 
-Once again, Brees and Thomas haven't missed a beat with their connection whenever the latter runs flat routes. 
+Once again, Brees and Thomas haven't missed a beat with their connection whenever the latter runs flat routes.
 
 A bungled snap from Jameis nearly cost the Buccaneers a possession one yard away from the end zone. Luckily, the sack created additional space for the Tampa Bay offense that allowed Jameis to slide the ball towards a halfback running a post route against a linebacker for a touchdown.
 
-It'll be interesting studying this game to see if the Saints can work out of negative game script given Brees and his penchant for the short ball. So far, one drive ended because of a negative play. 
+It'll be interesting studying this game to see if the Saints can work out of negative game script given Brees and his penchant for the short ball. So far, one drive ended because of a negative play.
 
 ***
 
@@ -59,6 +59,18 @@ Courtland Sutton is the man.
 
 Broncos showing confidence in Brandon Allen, having him throw 3 straight times on a goal-to-go situation.
 
-Some fantastically creative play-calling from the Broncos offensive coaching staff. A wildcat play transformed into an end-around that then became a successful passing play. Then Denver ran a similar play right afterwards with mostly the same personnel, but ran the ball this time around.  
+Some fantastically creative play-calling from the Broncos offensive coaching staff. A wildcat play transformed into an end-around that then became a successful passing play. Then Denver ran a similar play right afterwards with mostly the same personnel, but ran the ball this time around.
 
 Defensive tackle Purcell has been a beast against the run for the Broncos.
+
+***
+
+## Chiefs vs Chargers (Mexico City)
+
+Philip Rivers' depth of target has been unusually short so far. Though as I write this, Rivers finally threw a deep ball to Mike Williams. That pass was underthrown though.
+
+Rivers just threw an interception on an intermediate throw. Think it might be time for him to retire?
+
+The Chargers' rookie left tackle may be a liability.
+
+If the Chargers are to win this game, the win will have to come through the ground game unfortunately.
