@@ -108,3 +108,5 @@ Vince Biegel of the Dolphins stepping up in defensing the run.
 The Bills front seven are shuffling quite a bit around the line of scrimmage, creating confusion and opening up blitz opportunities right up the middle.
 
 Miami is just hopeless at running the ball, apparently. Their wildcat plays, on the other hand, are promising.
+
+Buffalo has been playing pretty aggressive here, even in the 4th quarter up by two scores.
