@@ -71,6 +71,8 @@ Devontae Harris may be a serious liability in pass coverage. Big throws in his d
 
 Vikings adjusted in the second half by doubling Courtland Sutton on key downs.
 
+Denver and their 3-man pass rushes.....why? You let up a big pass that sustained a Vikings drive.
+
 ***
 
 ## Chiefs vs Chargers (Mexico City)
@@ -94,3 +96,11 @@ Two legitimate pass interference penalties against the Chiefs paved the way for 
 Chargers are just a sloppy bunch. Not to mention their defense seems too happy to drop back deep. Though it may be worth noting the linebackers may only be dropping back deep in order to counter Mahomes' penchant for the big play.
 
 Pass defense from the Chiefs have stepped up tremendously.
+
+***
+
+## Bills @ Dolphins
+
+Josh Allen doing serviceably well matriculating the ball through short and intermediate passes.
+
+Vince Biegel of the Dolphins stepping up in defensing the run.
