@@ -104,3 +104,5 @@ Pass defense from the Chiefs have stepped up tremendously.
 Josh Allen doing serviceably well matriculating the ball through short and intermediate passes.
 
 Vince Biegel of the Dolphins stepping up in defensing the run.
+
+The Bills front seven are shuffling quite a bit around the line of scrimmage, creating confusion and opening up blitz opportunities right up the middle.
