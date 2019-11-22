@@ -127,4 +127,4 @@ Wide receiver screens are a favored play on third downs for this Jaguars offense
 
 Jacksonville's linebackers are incredibly slow and easy to fool, once again.
 
-Two poor decisions by Foles. Missing open receivers that he should have perhaps picked up on pre-snap.
+Two poor decisions by Foles. Missing open receivers that he should have perhaps picked up on pre-snap. His throws on short crossing routes also tend to be high.
