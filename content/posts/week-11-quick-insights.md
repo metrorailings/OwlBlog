@@ -122,3 +122,5 @@ The Jaguars are pretty awful at defensing the run. Notably, the linebackers seem
 Nick Foles seems too overdependent on DJ Chark to catch his passes.
 
 Leonard Fournette is truly terrible running from a shotgun look. Abandons the inside zone entirely on a handoff from Foles.
+
+Wide receiver screens are a favored play on third downs for this Jaguars offense.
