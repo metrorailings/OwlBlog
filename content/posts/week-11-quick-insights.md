@@ -116,3 +116,5 @@ Buffalo has been playing pretty aggressive here, even in the 4th quarter up by t
 ## Jaguars @ Colts
 
 Nick Foles did not do a good job of sniffing out a blitz from the Colts. Good job by the Colts, though, blitzing against an overmatched Jaguars offensive line.
+
+The Jaguars are pretty awful at defensing the run. Notably, the linebackers seem easily duped on misdirection plays.
