@@ -110,3 +110,9 @@ The Bills front seven are shuffling quite a bit around the line of scrimmage, cr
 Miami is just hopeless at running the ball, apparently. Their wildcat plays, on the other hand, are promising.
 
 Buffalo has been playing pretty aggressive here, even in the 4th quarter up by two scores.
+
+***
+
+## Jaguars @ Colts
+
+Nick Foles did not do a good job of sniffing out a blitz from the Colts. Good job by the Colts, though, blitzing against an overmatched Jaguars offensive line.
