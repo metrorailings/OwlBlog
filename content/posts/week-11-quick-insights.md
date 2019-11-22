@@ -120,3 +120,5 @@ Nick Foles did not do a good job of sniffing out a blitz from the Colts. Good jo
 The Jaguars are pretty awful at defensing the run. Notably, the linebackers seem easily duped on misdirection plays.
 
 Nick Foles seems too overdependent on DJ Chark to catch his passes.
+
+Leonard Fournette is truly terrible running from a shotgun look. Abandons the inside zone entirely on a handoff from Foles.
