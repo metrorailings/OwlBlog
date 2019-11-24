@@ -16,7 +16,7 @@ Plus the injuries along the Broncos offensive line should present pass-rushing o
 
 I still have absolutely zero faith in an entitled Dwayne Haskins and a Redskins team mired in a toxic environment.
 
-That and Jeff Driskel impressed me in his outing against the Dallas. He was fearless with his passes, almost to the point of recklessness. Driskel is not afraid to chance those big plays. Even if the Lions are without the services of their best pass rusher in Trey Flowers, does it really take much to throw Haskins off his game, especially considering his reputed aversion to throwing in tight windows?
+That and Jeff Driskel impressed me in his outing against the Dallas. He was fearless with his passes, almost to the point of recklessness. Driskel is not afraid to chance those big plays. Even if the Lions are without the services of their best pass rusher in Trey Flowers, does it really take much to throw Haskins off his game, especially considering his reputed aversion to throwing in tight windows.
 
 ***
 
@@ -24,4 +24,6 @@ That and Jeff Driskel impressed me in his outing against the Dallas. He was fear
 
 I cannot trust these Browns as double-digit favorites against anybody, even the worst team in football. And missing the only three players on this team that can rush the passer should give Tannehill and his skill players enough opportunities to post points on the board. I don't expect the Dolphins to win, but I do expect Miami to score just enough to keep the game within two scores.
 
-Besides, even if the Dolphins stall on offense, hopefully they can be bailed out by penalties that the Browns love committing.  
+Besides, even if the Dolphins stall on offense, hopefully they can be bailed out by penalties that the Browns love committing.
+
+***
