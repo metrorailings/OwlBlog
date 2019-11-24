@@ -19,3 +19,5 @@ Cowboys have seen some success running the ball. Nothing too consistent, but it 
 These Cowgirls aren't equipped to play in wet and windy conditions. Their special teams also may present a serious liability.
 
 Patriots pass protection has held up remarkably well now that Isaiah Wynn has been inserted back into the lineup.
+
+A promising New England drive was finally stopped when Demarcus Lawrence and Michael Bennett finally stepped up and killed two run plays.
