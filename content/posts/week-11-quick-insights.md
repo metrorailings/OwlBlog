@@ -128,3 +128,13 @@ Wide receiver screens are a favored play on third downs for this Jaguars offense
 Jacksonville's linebackers are incredibly slow and easy to fool, once again.
 
 Two poor decisions by Foles. Missing open receivers that he should have perhaps picked up on pre-snap. His throws on short crossing routes also tend to be high.
+
+***
+
+## Cardinals @ 49ers
+
+49ers defensive backs are playing off the receivers, almost as if San Francisco's defensive coaches have pegged Arizona is a team known for their deep passing instead of their quick releases and run game trickery.
+
+Sherman failing to adequately cover Christian Kirk on one down led to a big play that put the Cardinals in a goal-to-go situation.
+
+Wide receiver screens are killing this 49ers defense. San Francisco just faced this Arizona squad two weeks ago. Did they not learn anything about this Cardinals offense in that first outing?
