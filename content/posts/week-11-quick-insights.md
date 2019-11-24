@@ -135,6 +135,6 @@ Two poor decisions by Foles. Missing open receivers that he should have perhaps 
 
 49ers defensive backs are playing off the receivers, almost as if San Francisco's defensive coaches have pegged Arizona is a team known for their deep passing instead of their quick releases and run game trickery.
 
-Sherman failing to adequately cover Christian Kirk on one down led to a big play that put the Cardinals in a goal-to-go situation.
+Sherman failing to adequately cover Christian Kirk on two downs led to big plays that put the Cardinals in a goal-to-go situations on both occasions.
 
 Wide receiver screens are killing this 49ers defense. San Francisco just faced this Arizona squad two weeks ago. Did they not learn anything about this Cardinals offense in that first outing?
