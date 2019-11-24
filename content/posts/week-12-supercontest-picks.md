@@ -27,3 +27,5 @@ I cannot trust these Browns as double-digit favorites against anybody, even the 
 Besides, even if the Dolphins stall on offense, hopefully they can be bailed out by penalties that the Browns love committing.
 
 ***
+
+#### Buccaneers @ _Falcons_ (-4.5)
