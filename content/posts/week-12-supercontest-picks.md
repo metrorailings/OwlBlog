@@ -1,6 +1,5 @@
 +++
 date = 2019-11-23T12:00:00Z
-draft = true
 headline = "Week 12 Supercontest Picks"
 
 +++
@@ -29,3 +28,13 @@ Besides, even if the Dolphins stall on offense, hopefully they can be bailed out
 ***
 
 #### Buccaneers @ _Falcons_ (-4.5)
+
+Once again, the Falcons played incredibly well against another division opponent last week in the Panthers. Why expect anything different from a Tampa Bay team that's been drastically underperforming this season? Not to mention that Atlanta's recently revived pass rush should force Jameis Winston into a few errors.
+
+***
+
+#### Jaguars @ _Titans_ (-3)
+
+The Titans are seen on the same level as the Jaguars by the sportsbooks and I am not sure why. Yes, the Jaguars were able to pull out a great win when these two teams battled earlier in the season, but that victory was partly fueled by Jaguars players playing past their pay grade thanks to an emotional high courtesy of Gardner Minshew. It's also worth noting that the Jaguars were held in check for much of the game. It was a few big passes to receivers running outside the numbers that was the key difference.
+
+Besides, the Jaguars run defense has been exposed over the past couple weeks. The Titans want nothing more than to run the ball at will, so this weakness plays well into Tennessee's strength here.
