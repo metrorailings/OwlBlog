@@ -37,6 +37,10 @@ Is Miami seriously trying to play New England's style of defense without having 
 
 The Dolphins are just so bad running the ball. Just so bad.
 
+Negative game script is not something the Dolphins tolerate well.
+
+Just horrific coaching by Miami. The Dolphins tried to run a special teams trick play from several yards out by running the ball. This team isn't trying very hard to prepare.
+
 ***
 
 ## Packers @ 49ers
