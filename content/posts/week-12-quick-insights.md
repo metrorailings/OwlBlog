@@ -78,3 +78,5 @@ Tampa Bay starting this game with a number of miscues. A drop by their star wide
 The Buccaneers don't seem to care for any of Atlanta's play-action fakes.
 
 Chris Godwin having an unreal game today, even catching Jameis Winston's errant passes.
+
+Tampa Bay's defensive front is dominating this Falcons offensive line in the pass game.
