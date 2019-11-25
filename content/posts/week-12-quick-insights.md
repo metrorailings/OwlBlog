@@ -80,3 +80,5 @@ The Buccaneers don't seem to care for any of Atlanta's play-action fakes.
 Chris Godwin having an unreal game today, even catching Jameis Winston's errant passes.
 
 Tampa Bay's defensive front is dominating this Falcons offensive line in the pass game.
+
+Jameis Winston having a little bit too easy of a time connecting on deep passes against this Falcons zone coverage. And while Atlanta seems to be blanketing Mike Evans with multiple defensive backs, Chris Godwin is being allowed to run free all over the field.
