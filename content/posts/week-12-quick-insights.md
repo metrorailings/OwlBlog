@@ -68,3 +68,7 @@ Oddly enough, Kyle Shanahan is calling the offense aggressively despite being up
 Fuck me...I just realized that I picked the Falcons here largely because Atlanta is usually so well prepared against its division rivals. With this Tampa team under a new coaching regime, any intel the Falcons gathered before on Tampa Bay have been rendered mostly moot. My assumption was invalid.
 
 Tampa's run defense is for real.
+
+Jameis throwing a perfect ball on a timing route for a touchdown.
+
+Shaquil Barrett not falling for any of the Falcons' play-action.
