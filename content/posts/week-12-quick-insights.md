@@ -82,3 +82,9 @@ Chris Godwin having an unreal game today, even catching Jameis Winston's errant 
 Tampa Bay's defensive front is dominating this Falcons offensive line in the pass game.
 
 Jameis Winston having a little bit too easy of a time connecting on deep passes against this Falcons zone coverage. And while Atlanta seems to be blanketing Mike Evans with multiple defensive backs, Chris Godwin and other receivers are more or less being released into vanilla zones.
+
+***
+
+## Panthers @ Saints
+
+Panthers run defense is worrisome. Eight men in the box against a very heavy formation and Latavius Murray still ran in the touchdown.
