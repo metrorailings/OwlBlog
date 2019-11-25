@@ -45,3 +45,5 @@ Slants and digs are ripping apart this Green Bay coverage unit.
 Cris Collinsworth is a goddamn moron sometimes.
 
 Fred Warner stepping up nicely as the middle linebacker now that Kwon Alexander is out for the season. 
+
+Oddly enough, Kyle Shanahan is calling the offense aggressively despite being up by multiple touchdowns. Interesting.
