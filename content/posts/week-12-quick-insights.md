@@ -60,3 +60,9 @@ Cris Collinsworth is a goddamn moron sometimes.
 Fred Warner stepping up nicely as the middle linebacker now that Kwon Alexander is out for the season. 
 
 Oddly enough, Kyle Shanahan is calling the offense aggressively despite being up by multiple touchdowns. Interesting.
+
+***
+
+## Buccaneers @ Falcons
+
+Fuck me...I just realized that I picked the Falcons here largely because Atlanta is usually so well prepared against its division rivals. With this Tampa team under a new coaching regime, any intel the Falcons gathered before on Tampa Bay have been rendered mostly moot. My assumption was invalid.
