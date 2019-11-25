@@ -1,6 +1,5 @@
 +++
 date = 2019-11-24T12:00:00Z
-draft = true
 headline = "Week 12 Quick Insights"
 
 +++
@@ -31,6 +30,10 @@ Kyle Van Noy may be the Patriots' best pass rusher. I'm waiting to see Jamie Col
 ## Dolphins @ Browns
 
 A gift of a pass interference call sustained a Browns touchdown drive.
+
+Dolphins doing well limiting Nick Chubb's gains.
+
+Is Miami seriously trying to play New England's style of defense without having any of the horses in the defensive backfield?
 
 ***
 
