@@ -23,3 +23,5 @@ Patriots pass protection has held up remarkably well now that Isaiah Wynn has be
 A promising New England drive was finally stopped when Demarcus Lawrence and Michael Bennett finally stepped up and killed two run plays.
 
 The Cowboys may have the worst special teams in the league. New England is exposing this unit as a joke.
+
+Kyle Van Noy may be the Patriots' best pass rusher. I'm waiting to see Jamie Collins really make his presence felt. But it's interesting that New England's best pass rushers are not necessarily people that specialize in trench warfare.
