@@ -41,3 +41,7 @@ The 49ers have a pretty dominant defensive line, if that hasn't been emphasized 
 The Packers lack diversity and creativity in their offensive playbook. Unlike Arizona last week, the Packers are not taking advantage of the 49ers' tendency on defense to keep their cornerbacks off the receivers. Green Bay's offense should be dinking and dunking their way to points here. Instead, Rodgers is insisting on holding the ball here instead of simply taking what the defense is giving him.
 
 Slants and digs are ripping apart this Green Bay coverage unit. 
+
+Cris Collinsworth is a goddamn moron sometimes.
+
+Fred Warner stepping up nicely as the middle linebacker now that Kwon Alexander is out for the season. 
