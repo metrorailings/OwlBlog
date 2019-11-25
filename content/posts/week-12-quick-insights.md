@@ -24,4 +24,4 @@ A promising New England drive was finally stopped when Demarcus Lawrence and Mic
 
 The Cowboys may have the worst special teams in the league. New England is exposing this unit as a joke.
 
-Kyle Van Noy may be the Patriots' best pass rusher. I'm waiting to see Jamie Collins really make his presence felt. But it's interesting that New England's best pass rushers are not necessarily people that specialize in trench warfare to begin with. Instead, New England seems more inclined to converting linebackers into down linemen hybrids.
+Kyle Van Noy may be the Patriots' best pass rusher. I'm waiting to see Jamie Collins really make his presence felt. But it's interesting that New England's best pass rushers are not necessarily people that specialize in trench warfare to begin with. Instead, New England seems more inclined to converting linebackers into down linemen hybrids. It's probably the reason why the team decided to jettison Michael Bennett earlier in the season.
