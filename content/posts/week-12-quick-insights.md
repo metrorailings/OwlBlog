@@ -35,6 +35,8 @@ Dolphins doing well limiting Nick Chubb's gains.
 
 Is Miami seriously trying to play New England's style of defense without having any of the horses in the defensive backfield?
 
+The Dolphins are just so bad running the ball. Just so bad.
+
 ***
 
 ## Packers @ 49ers
