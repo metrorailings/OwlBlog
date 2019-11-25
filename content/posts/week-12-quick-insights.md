@@ -41,6 +41,10 @@ Negative game script is not something the Dolphins tolerate well.
 
 Just horrific coaching by Miami. The Dolphins tried to run a special teams trick play from several yards out by running the ball. This team isn't trying very hard to prepare.
 
+Jarvis Landry emerging as the Browns' best weapon on offense.
+
+The Dolphins' revamped pass coverage unit is not coping well with all the different weapons the Browns field on offense. That may be the critical difference in this game. 
+
 ***
 
 ## Packers @ 49ers
