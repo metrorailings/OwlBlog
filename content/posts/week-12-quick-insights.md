@@ -94,3 +94,5 @@ Brees showing so much more of a willingness to throw the ball deep.
 Alvin Kamara has not factored much into this game going into the second quarter. The Saints dominating without arguably their best player on offense is noteworthy. 
 
 This Panthers defense is a sieve, at least up until opposing offenses make their way into the red zone.
+
+Carolina Panthers making some hay using end-arounds and misdirection plays.
