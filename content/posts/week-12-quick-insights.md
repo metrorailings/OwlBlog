@@ -43,7 +43,7 @@ Just horrific coaching by Miami. The Dolphins tried to run a special teams trick
 
 Jarvis Landry emerging as the Browns' best weapon on offense.
 
-The Dolphins' revamped pass coverage unit is not coping well with all the different weapons the Browns field on offense. That may be the critical difference in this game. 
+The Dolphins' revamped pass coverage unit is not coping well with all the different weapons the Browns field on offense. That may be the critical difference in this game.
 
 ***
 
@@ -53,11 +53,11 @@ The 49ers have a pretty dominant defensive line, if that hasn't been emphasized 
 
 The Packers lack diversity and creativity in their offensive playbook. Unlike Arizona last week, the Packers are not taking advantage of the 49ers' tendency on defense to keep their cornerbacks off the receivers. Green Bay's offense should be dinking and dunking their way to points here. Instead, Rodgers is insisting on holding the ball here instead of simply taking what the defense is giving him.
 
-Slants and digs are ripping apart this Green Bay coverage unit. 
+Slants and digs are ripping apart this Green Bay coverage unit.
 
 Cris Collinsworth is a goddamn moron sometimes.
 
-Fred Warner stepping up nicely as the middle linebacker now that Kwon Alexander is out for the season. 
+Fred Warner stepping up nicely as the middle linebacker now that Kwon Alexander is out for the season.
 
 Oddly enough, Kyle Shanahan is calling the offense aggressively despite being up by multiple touchdowns. Interesting.
 
@@ -91,10 +91,16 @@ Panthers run defense is worrisome. Eight men in the box against a very heavy for
 
 Brees showing so much more of a willingness to throw the ball.
 
-The Saints dominating without arguably their best player on offense in Alvin Kamara is noteworthy. 
+The Saints dominating without arguably their best player on offense in Alvin Kamara is noteworthy.
 
 This Panthers defense is a sieve, at least up until opposing offenses make their way into the red zone.
 
 Carolina Panthers making some hay using end-arounds and misdirection plays.
 
 Carolina's offensive line blocking is suspect.
+
+***
+
+## Ravens @ Rams
+
+The Rams edge defenders are having a really hard time containing runs that veer to the outside. These Ravens are gashing the Rams defense on the outside. Not to mention these Rams defenders are nowhere near as physical as this Ravens offense right now.
