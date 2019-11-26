@@ -89,10 +89,12 @@ Jameis Winston having a little bit too easy of a time connecting on deep passes 
 
 Panthers run defense is worrisome. Eight men in the box against a very heavy formation and Latavius Murray still ran in the touchdown.
 
-Brees showing so much more of a willingness to throw the ball deep.
+Brees showing so much more of a willingness to throw the ball.
 
-Alvin Kamara has not factored much into this game going into the second quarter. The Saints dominating without arguably their best player on offense is noteworthy. 
+The Saints dominating without arguably their best player on offense in Alvin Kamara is noteworthy. 
 
 This Panthers defense is a sieve, at least up until opposing offenses make their way into the red zone.
 
 Carolina Panthers making some hay using end-arounds and misdirection plays.
+
+Carolina's offensive line blocking is suspect.
