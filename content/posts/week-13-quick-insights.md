@@ -19,4 +19,4 @@ Detroit may be worse than the Giants at defense. I'm not kidding.
 
 The Bills have gotten a beat on this Cowboys passing offense. Though once again, the defense has been showing a vulnerability against the run.
 
-Offensive line has been a little overwhelmed today, likely because of carefully planned blitzes.
+The Cowboys' offensive front has been a little overwhelmed today, likely because of carefully planned blitzes.
