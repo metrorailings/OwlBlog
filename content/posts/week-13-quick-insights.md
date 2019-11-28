@@ -12,3 +12,11 @@ The Bears seem to suck more though. This new quarterback Brough is actually step
 The Lions suck, particularly up front. Their pass rush is virtually nonexistant. Despite the Lions' hot start, the Bears have posted more yards on offense.
 
 Detroit may be worse than the Giants at defense. I'm not kidding.
+
+***
+
+## Bills @ Cowboys
+
+The Bills have gotten a beat on this Cowboys passing offense. Though once again, the defense has been showing a vulnerability against the run.
+
+Offensive line has been a little overwhelmed today, likely because of carefully planned blitzes.
