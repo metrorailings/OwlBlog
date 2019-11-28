@@ -4,3 +4,5 @@ headline = "Week 13 Quick Insights"
 
 +++
 ## Bears @ Lions
+
+The Lions suck. Just something worth noting.
