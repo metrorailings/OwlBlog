@@ -9,6 +9,8 @@ A bit of a risky pick given that the Broncos can run the ball behind Philip Lind
 
 Plus the injuries along the Broncos offensive line should present pass-rushing opportunities for this Bills front seven.
 
+**_Postmortem:_** The game went as expected, moe or less. The Bills defense exposed Brandon Allen as a sham.
+
 ***
 
 #### _Lions_ @ Redskins (+3.5)
