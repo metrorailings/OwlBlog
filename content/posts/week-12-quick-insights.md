@@ -73,7 +73,7 @@ Jameis throwing a perfect ball on a timing route for a touchdown.
 
 Shaquil Barrett not falling for any of the Falcons' play-action.
 
-Tampa Bay starting this game with a number of miscues. A drop by their star wide receiver and two interceptions by Jameis.
+Tampa Bay starting this game with a number of miscues. A drop by their star wide receiver and two interceptions from Jameis.
 
 The Buccaneers don't seem to care for any of Atlanta's play-action fakes.
 
