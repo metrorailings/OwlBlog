@@ -65,7 +65,7 @@ Oddly enough, Kyle Shanahan is calling the offense aggressively despite being up
 
 ## Buccaneers @ Falcons
 
-Fuck me...I just realized that I picked the Falcons here largely because Atlanta is usually so well prepared against its division rivals. With this Tampa team under a new coaching regime, any intel the Falcons gathered before on Tampa Bay have been rendered mostly moot. My assumption was invalid.
+Fuck me...I just realized that I picked the Falcons here largely because Atlanta is usually so well prepared against its division rivals. With this Tampa team under a new coaching regime, any intel the Falcons gathered before on Tampa Bay may have been rendered mostly moot. My assumption was invalid.
 
 Tampa's run defense is for real.
 
