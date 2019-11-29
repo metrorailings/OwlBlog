@@ -103,4 +103,4 @@ Carolina's offensive line blocking is suspect.
 
 ## Ravens @ Rams
 
-The Rams edge defenders are having a really hard time containing runs that veer to the outside. These Ravens are gashing the Rams defense on the outside. Not to mention these Rams defenders are nowhere near as physical as this Ravens offense right now.
+The Rams edge defenders are having a really hard time containing runs that veer to the outside. These Raven halfbacks are gashing the Rams defense on the outside. Not to mention Rams defenders are playing nowhere near as physical as this Ravens offense right now.
