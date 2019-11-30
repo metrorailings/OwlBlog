@@ -9,7 +9,7 @@ A bit of a risky pick given that the Broncos can run the ball behind Philip Lind
 
 Plus the injuries along the Broncos offensive line should present pass-rushing opportunities for this Bills front seven.
 
-**_Postmortem:_** The game went as expected, moe or less. The Bills defense exposed Brandon Allen as a sham.
+**_Postmortem:_** The game went as expected, more or less. The Bills defense exposed Brandon Allen as a sham.
 
 ***
 
@@ -19,6 +19,8 @@ I still have absolutely zero faith in an entitled Dwayne Haskins and a Redskins 
 
 That and Jeff Driskel impressed me in his outing against the Dallas. He was fearless with his passes, almost to the point of recklessness. Driskel is not afraid to chance those big plays. Even if the Lions are without the services of their best pass rusher in Trey Flowers, does it really take much to throw Haskins off his game, especially considering his reputed aversion to throwing in tight windows.
 
+**_Postmortem:_** I forgot how pathetic these Lions can be. As Brandon Allen demonstrated, one good game is too little a sample size to judge a quarterback, especially when that quarterback doesn't have much of a rushing attack or defense that can bail him out of bad decisions.
+
 ***
 
 #### _Dolphins_ @ Browns (-10.5)
@@ -27,11 +29,15 @@ I cannot trust these Browns as double-digit favorites against anybody, even the 
 
 Besides, even if the Dolphins stall on offense, hopefully they can be bailed out by penalties that the Browns love committing.
 
+**_Postmortem:_** Well, Ryan Fitzpatrick almost managed to come back and cover in this one, but alas...it was not meant to be. The Dolphins makeshift defensive backfield could not contain all the skill players the Browns fielded. That was the fundamental difference in this game.  
+
 ***
 
 #### Buccaneers @ _Falcons_ (-4.5)
 
 Once again, the Falcons played incredibly well against another division opponent last week in the Panthers. Why expect anything different from a Tampa Bay team that's been drastically underperforming this season? Not to mention that Atlanta's recently revived pass rush should force Jameis Winston into a few errors.
+
+**_Postmortem:_** Maybe the Falcons doing well against division opponents the last two years was more noise than actual meaningful data from which we can extrapolate future performances. Or maybe Dan Quinn and his staff might have been a tad too unfamiliar with Tampa Bay's new coaching regime to properly plan around their tendencies on offense and defense. Either way, Atlanta was never completely out of contention here until the second half. Still, it wasn't a pretty day or the Falcons offense - Matt Ryan was under duress on every drive. The Buccaneers' defensive front consistently won their battles in the trenches. Furthermore, Ryan himself was noticeably more off than I expected. Maybe old age is rearing its ugly form here? Not too sure, but Ryan is not the dependable quarterback he once was, which makes Atlanta's offensive line issues all the more worrisome.
 
 ***
 
