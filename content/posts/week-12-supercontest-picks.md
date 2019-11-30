@@ -37,7 +37,9 @@ Besides, even if the Dolphins stall on offense, hopefully they can be bailed out
 
 Once again, the Falcons played incredibly well against another division opponent last week in the Panthers. Why expect anything different from a Tampa Bay team that's been drastically underperforming this season? Not to mention that Atlanta's recently revived pass rush should force Jameis Winston into a few errors.
 
-**_Postmortem:_** Maybe the Falcons doing well against division opponents the last two years was more noise than actual meaningful data from which we can extrapolate future performances. Or maybe Dan Quinn and his staff might have been a tad too unfamiliar with Tampa Bay's new coaching regime to properly plan around their tendencies on offense and defense. Either way, Atlanta was never completely out of contention here until the second half. Still, it wasn't a pretty day or the Falcons offense - Matt Ryan was under duress on every drive. The Buccaneers' defensive front consistently won their battles in the trenches. Furthermore, Ryan himself was noticeably more off than I expected. Maybe old age is rearing its ugly form here? Not too sure, but Ryan is not the dependable quarterback he once was, which makes Atlanta's offensive line issues all the more worrisome.
+**_Postmortem:_** Maybe the Falcons doing well against division opponents the last two years was more noise than actual meaningful data from which we can extrapolate future performances. Or maybe Dan Quinn and his staff might have been a tad too unfamiliar with Tampa Bay's new coaching regime to properly plan around their tendencies on offense and defense. 
+
+Either way, Atlanta was never completely out of contention here until the second half. Despite that, it wasn't a pretty day or the Falcons offense - Matt Ryan was under duress on every drive. The Buccaneers defensive front consistently won their battles in the trenches. Furthermore, Ryan himself was noticeably more off than I expected - maybe a sign of old age rearing its ugly form here? Not too sure, but questions persist as to whether Ryan is still one of the league's better quarterbacks. The legitimacy of these questions makes Atlanta's offensive line issues all the more worrisome.
 
 ***
 
@@ -46,3 +48,5 @@ Once again, the Falcons played incredibly well against another division opponent
 The Titans are seen on the same level as the Jaguars according to the sportsbooks and I am not sure why. Yes, the Jaguars were able to pull out a great win when these two teams battled earlier in the season, but that victory was partly fueled by Jaguars players playing past their pay grade thanks to an emotional high due to the sudden emergence of sixth-round rookie Gardner Minshew. It's also worth noting that the Jaguars were held in check for much of the game. It was a few big passes to receivers running outside the numbers that was the key difference.
 
 Besides, the Jaguars run defense has been exposed over the past couple weeks. The Titans want nothing more than to run the ball at will, so this weakness plays well into Tennessee's strength here.
+
+**_Postmortem:_** Went just as expected. The Titans dominated the Jaguars with both power runs and intermediate passes off play-action.
