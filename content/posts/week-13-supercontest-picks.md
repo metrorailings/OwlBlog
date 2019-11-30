@@ -22,4 +22,4 @@ One thing to be said about Washington....the Redskins are awful. _Just awful_. N
 
 #### _49ers_ @ Ravens (-6)
 
-From an Elo standpoint, the Ravens' ranking is inflated. After that big win, this spread literally jumped up 2 to 3 points in their favor. A little bit too much of a jump given that the 49ers are one of the three best teams in this league. Their defense can limit Lamar Jackson's production here.
+From an Elo standpoint, the Ravens' ranking is inflated. After that big win, this spread literally jumped up 2 to 3 points in their favor. A little bit too much of a jump given that the 49ers are one of the three best teams in this league. Their defense can certainly limit Lamar Jackson's production here.
