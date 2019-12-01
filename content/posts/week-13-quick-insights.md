@@ -41,6 +41,8 @@ On offense, things aren't much better. Bungled snaps followed by a silly throw b
 
 Seems the Chiefs defense has picked up quite a few of the Raiders tendencies on offense. 
 
+The Chiefs know the Raiders' route tree about as well as the Raiders. 
+
 ***
 
 ## Rams @ Cardinals
