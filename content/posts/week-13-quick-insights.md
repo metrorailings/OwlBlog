@@ -32,3 +32,21 @@ Saquon isn't that good in pass protection. And his vision as a halfback could us
 Once again, Green Bay does well on their initial scripted plays, then the offense falters very quickly afterwards.
 
 Without the pass rush hitting home, the weak Giants secondary is left out to dry.
+
+On offense, things aren't much better. Bungled snaps followed by a silly throw by Daniel Jones leading to an interception. This Giants product is a mess.
+
+***
+
+## Raiders @ Chiefs
+
+Seems the Chiefs defense has picked up quite a few of the Raiders tendencies on offense. 
+
+***
+
+## Rams @ Cardinals
+
+Cardinals soft-zone defense choked on a third-and-long.
+
+The Cardinals and their soft zone choking even against crossing routes.
+
+I wonder if the Rams defense is keying in on the Rams' short passing attack.
