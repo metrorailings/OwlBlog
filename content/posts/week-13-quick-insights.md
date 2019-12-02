@@ -81,8 +81,8 @@ Deshaun Watson is targeting Johnathan Jones with zest.
 
 ## 49ers @ Ravens
 
-Both offensive lines holding up so far in pass protection.
-
 Marcus Peters having a bad day, giving up a long touchdown and missing a tackle that resulted in a 49ers first down.
 
 The Ravens defensive coaches are drawing up some solid blitz schemes here. These blitzes are throwing Garoffalo off his game. A fumble and several bad throws so far.
+
+Seriously speaking, Baltimore has been holding up very well in pass protection, probably thanks in no small part to the Ravens running game keeping defensive lines at bay.
