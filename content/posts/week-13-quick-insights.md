@@ -66,3 +66,5 @@ Texans linebacker Jake Martin finally stepping as a capable pass rusher against 
 Some sloppy long distance defense and an assignment being missed led to a Patriots touchdown. Still, it seems the Texans may be onto something, assigning a defensive back to blanket New England's halfback in coverage. Without an outlet leaking from the backfield, Tom Brady is left in even more desperate straits.
 
 The Texans may actually have a functioning secondary here.
+
+Deshaun Watson is targeting Johnathan Jones with zest.
