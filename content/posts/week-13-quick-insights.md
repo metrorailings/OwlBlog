@@ -49,6 +49,8 @@ The Chiefs know the Raiders' route tree about as well as the Raiders.
 
 Play-action is just throwing this Arizona defense into a dizzy.
 
+Interesting tidbit. The Rams defensive front is purposely stretching their outside arms as they're rushing through the offensive line in order to keep Kyler Murray from scampering out at a sharp angle.
+
 Cardinals soft-zone defense choked on a third-and-long.
 
 The Cardinals and their soft zone choking even against crossing routes.
