@@ -52,3 +52,11 @@ Cardinals soft-zone defense choked on a third-and-long.
 The Cardinals and their soft zone choking even against crossing routes.
 
 I wonder if the Rams defense is keying in on the Rams' short passing attack.
+
+***
+
+## Patriots @ Texans
+
+The Patriots are gambling with man coverage against the Texans stacked receiver corps. And it hasn't panned out - the Texans burned New England on two separate downs, the latter resulting in a Houston touchdown.
+
+Patriots love to blitz. But zero blitzes only work against inexperienced quarterbacks.
