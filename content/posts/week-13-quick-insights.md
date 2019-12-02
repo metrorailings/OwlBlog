@@ -88,3 +88,11 @@ The Ravens defensive coaches are drawing up some solid blitz schemes here. These
 Seriously speaking, Baltimore has been holding up very well in pass protection, probably thanks in no small part to the Ravens running game keeping defensive lines at bay.
 
 Lamar Jackson's runs are so difficult to defend. His shiftiness, his speed, his fakes...almost impossible to counter.
+
+The Ravens run defense still remains very questionable though.
+
+Baltimore is a lot more willing to run offensive plays on 4th down given all their bells and whistles on that side of the ball.
+
+Baltimore's receiving corps are more defined by their tight ends than their actual wide receivers.
+
+Richard Sherman coming and making plays near the line of scrimmage.
