@@ -86,3 +86,5 @@ Marcus Peters having a bad day, giving up a long touchdown and missing a tackle 
 The Ravens defensive coaches are drawing up some solid blitz schemes here. These blitzes are throwing Garoffalo off his game. A fumble and several bad throws so far.
 
 Seriously speaking, Baltimore has been holding up very well in pass protection, probably thanks in no small part to the Ravens running game keeping defensive lines at bay.
+
+Lamar Jackson's runs are so difficult to defend. His shiftiness, his speed, his fakes...almost impossible to counter.
