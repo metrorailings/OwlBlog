@@ -85,4 +85,4 @@ Both offensive lines holding up so far in pass protection.
 
 Marcus Peters having a bad day, giving up a long touchdown and missing a tackle that resulted in a 49ers first down.
 
-The Ravens defensive coaches are drawing up some solid blitz schemes here. These blitzes are throwing Garoffalo off his game.
+The Ravens defensive coaches are drawing up some solid blitz schemes here. These blitzes are throwing Garoffalo off his game. A fumble and several bad throws so far.
