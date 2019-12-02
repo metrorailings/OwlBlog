@@ -51,6 +51,10 @@ Play-action is just throwing this Arizona defense into a dizzy.
 
 Interesting tidbit. The Rams defensive front is purposely stretching their outside arms as they're rushing through the offensive line in order to keep Kyler Murray from scampering out at a sharp angle.
 
+Cardinals having trouble covering tight-ends.
+
+These Cardinals defense is playing soft.
+
 Cardinals soft-zone defense choked on a third-and-long.
 
 The Cardinals and their soft zone choking even against crossing routes.
@@ -72,3 +76,9 @@ Some sloppy long distance defense and an assignment being missed led to a Patrio
 The Texans may actually have a functioning secondary here.
 
 Deshaun Watson is targeting Johnathan Jones with zest.
+
+***
+
+## 49ers @ Ravens
+
+Both offensive lines holding up so far in pass protection.
