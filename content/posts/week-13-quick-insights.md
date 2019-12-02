@@ -60,3 +60,9 @@ I wonder if the Rams defense is keying in on the Rams' short passing attack.
 The Patriots are gambling with man coverage against the Texans stacked receiver corps. And it hasn't panned out - the Texans burned New England on two separate downs, the latter resulting in a Houston touchdown.
 
 Patriots love to blitz. But zero blitzes only work against inexperienced quarterbacks.
+
+Texans linebacker Jake Martin finally stepping as a capable pass rusher against a good right tackle in Marcus Cannon.
+
+Some sloppy long distance defense and an assignment being missed led to a Patriots touchdown. Still, it seems the Texans may be onto something, assigning a defensive back to blanket New England's halfback in coverage. Without an outlet leaking from the backfield, Tom Brady is left in even more desperate straits.
+
+The Texans may actually have a functioning secondary here.
