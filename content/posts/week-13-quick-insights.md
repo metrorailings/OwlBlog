@@ -39,13 +39,15 @@ On offense, things aren't much better. Bungled snaps followed by a silly throw b
 
 ## Raiders @ Chiefs
 
-Seems the Chiefs defense has picked up quite a few of the Raiders tendencies on offense. 
+Seems the Chiefs defense has picked up quite a few of the Raiders tendencies on offense.
 
-The Chiefs know the Raiders' route tree about as well as the Raiders. 
+The Chiefs know the Raiders' route tree about as well as the Raiders.
 
 ***
 
 ## Rams @ Cardinals
+
+Play-action is just throwing this Arizona defense into a dizzy.
 
 Cardinals soft-zone defense choked on a third-and-long.
 
