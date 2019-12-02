@@ -82,3 +82,5 @@ Deshaun Watson is targeting Johnathan Jones with zest.
 ## 49ers @ Ravens
 
 Both offensive lines holding up so far in pass protection.
+
+Marcus Peters having a bad day, giving up a long touchdown and missing a tackle that resulted in a 49ers first down.
