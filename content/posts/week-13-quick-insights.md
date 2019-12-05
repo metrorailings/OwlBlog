@@ -100,3 +100,13 @@ Richard Sherman coming and making plays near the line of scrimmage.
 Garoppalo hasn't been impressive in this game. A bad decision on third down ended a very promising drive. Not to mention he was bailed out by defensive pass interference on that drive anyway. I think the Ravens and their creative blitzes have warped the clock in his head.
 
 Lamar's read-option runs are gashing this 49ers defense.
+
+***
+
+## Titans @ Colts
+
+So far, Ryan Tannehill performing adequately under pressure.
+
+This game really does illustrate why quarterback play is so important towards sustaining a drive.
+
+Titans sustaining a great drive with nothing but power runs and a wide receiver screen. Some great conditioning on this team.
