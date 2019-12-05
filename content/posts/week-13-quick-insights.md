@@ -112,3 +112,5 @@ This game really does illustrate why quarterback play is so important towards su
 Titans sustaining a great drive with nothing but power runs and screens. Some great conditioning on this team.
 
 The Titans ran a direct snap to Derrick Henry on 2nd and 11. Fascinating. 
+
+The Colts do enjoy their zone blitzes.
