@@ -114,3 +114,7 @@ Titans sustaining a great drive with nothing but power runs and screens. Some gr
 The Titans ran a direct snap to Derrick Henry on 2nd and 11. Fascinating. 
 
 The Colts do enjoy their zone blitzes.
+
+Tennessee running an up-tempo offense at times to gain a rhythm.
+
+The Titans last touchdown came on a bit of a well-executed trick play.
