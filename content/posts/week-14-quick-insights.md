@@ -28,3 +28,9 @@ The Saints defensive line are not winning upfront. Shanahan is punking this defe
 Nick Bosa can be designated an elite pass rusher. Nobody else has really impressed me as of yet on this 49er defensive front.
 
 New Orleans doesn't have much of a pass rush in this game. Cameron Jordan may be the only elite pass rusher on that defense.
+
+***
+
+## Chiefs @ Patriots
+
+Trick play by the Patriots for a touchdown - a sliding flea flicker. Well done by Josh McDaniels. Brady's pass was a bit underthrown too. Makes me wonder... 
