@@ -47,4 +47,4 @@ Brady showing his age. A bad decision (abetted a bit by pressure) led to an inte
 
 Kyle Van Noy making plays against the run, as an elite defender should.
 
-Brady's depth receivers are letting him down. That and Kansas City has found a solution here with the blitz, apparently. 
+Brady's depth receivers are letting him down. That and Kansas City has found a solution here on defense, blitzing an overmatched offensive line. 
