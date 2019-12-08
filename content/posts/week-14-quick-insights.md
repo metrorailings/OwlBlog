@@ -56,3 +56,5 @@ Brady's depth receivers are letting him down. That and Kansas City has found a s
 Ravens start their first drive executing mostly pass plays. Interesting. Let's see if they still insist on Lamar heaving the ball against the Bills elite pass defense. 
 
 Their second drive was run-heavy. Coincidentally, the Ravens were able to post their first points on the board at the end of the drive.
+
+Once again, an exotic run play leads to a touchdown for this Ravens offense. This Bills defense showing spunk though.
