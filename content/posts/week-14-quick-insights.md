@@ -17,4 +17,6 @@ Nick Bosa having an impact on this game, stunting the Saints on two downs.
 
 Deonte Harris making his presence known as a speedster on offense.
 
-49ers pass protection is holding up. Although it does help that the Saints are biting hard on play-action. New Orleans needs to play more assignments on defense. Kudos to Kyle Shanahan for outcoaching Dennis Allen though. 
+49ers pass protection is holding up. Although it does help that the Saints are biting hard on play-action. New Orleans needs to play more assignments on defense. Kudos to Kyle Shanahan for outcoaching Dennis Allen though.
+
+Good play-calling by Sean Payton right near the goal line. Called a power run on 3rd down that set up an easy quarterback sneak on 4th down. 
