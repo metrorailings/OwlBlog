@@ -34,3 +34,11 @@ New Orleans doesn't have much of a pass rush in this game. Cameron Jordan may be
 ## Chiefs @ Patriots
 
 Trick play by the Patriots for a touchdown - a sliding flea flicker. Well done by Josh McDaniels. Brady's pass was a bit underthrown too. Makes me wonder... 
+
+Chris Jones already working the interior of the Patriots offensive line. Him putting the heat on Brady ended a Patriots drive coming off a turnover.
+
+Once again, Brady underthrowing yet another pass that might have put New England in fringe field-goal range.
+
+Patriots pass rush is anemic. If New England, they may be able to thank Mahomes untimely hand injury for the cheap win.
+
+Patriots struggling to run this ball.There success has largely come courtesy of the pass.
