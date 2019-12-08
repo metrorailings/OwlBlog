@@ -23,4 +23,4 @@ Good play-calling by Sean Payton right near the goal line. Called a power run on
 
 The Saints defensive line are not winning upfront. Shanahan is punking this defense.
 
-49ers seem to have three solid skill players on offense - Deebo Samuel, Emmanuel Sanders, and George Kittle. Also helps that the team can run the ball with a combination of different halfbacks.
+49ers seem to have three solid skill players on offense - Deebo Samuel, Emmanuel Sanders, and George Kittle. Also helps that the team can run the ball with a combination of different halfbacks. And unlike Kyle Shanahan's Falcons the year they went to the Super Bowl, this team actually has pass rushers worth a damn.
