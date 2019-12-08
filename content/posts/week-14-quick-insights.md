@@ -41,4 +41,6 @@ Once again, Brady underthrowing yet another pass that might have put New England
 
 Patriots pass rush is anemic. If New England, they may be able to thank Mahomes untimely hand injury for the cheap win.
 
-Patriots struggling to run this ball.There success has largely come courtesy of the pass.
+Patriots struggling to run this ball. Their success has largely come courtesy of the pass.
+
+Brady showing his age. A bad decision (abetted a bit by pressure) led to an interception on a scoring drive.
