@@ -12,3 +12,5 @@ Absence of Jaquiski Tartt at deep safety made a difference on an intermediate th
 49ers picking on Eli Apple on three consecutive downs for big plays. Eli Apple seems to have a hard time guarding the slant.
 
 49ers coming into this game well-coached and ready, given the success of their first drive.
+
+Nick Bosa having an impact on this game, stunting the Saints on two downs.
