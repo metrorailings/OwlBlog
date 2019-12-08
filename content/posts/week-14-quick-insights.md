@@ -43,4 +43,8 @@ Patriots pass rush is anemic. If New England, they may be able to thank Mahomes 
 
 Patriots struggling to run this ball. Their success has largely come courtesy of the pass.
 
-Brady showing his age. A bad decision (abetted a bit by pressure) led to an interception on a scoring drive.
+Brady showing his age. A bad decision (abetted a bit by pressure) led to an interception deep on the Patriots side of the field.
+
+Kyle Van Noy making plays against the run, as an elite defender should.
+
+Brady's depth receivers are letting him down. That and Kansas City has found a solution here with the blitz, apparently. 
