@@ -6,3 +6,5 @@ headline = "Week 14 Quick Insights"
 ## 49ers @ Saints
 
 As expected, the Saints are working the 49ers in the short game, as the Cardinals did not too long ago.
+
+Absence of Jaquiski Tartt at deep safety made a difference on an intermediate throw to Jared Cook for a touchdown.
