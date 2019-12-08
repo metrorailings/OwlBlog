@@ -22,3 +22,5 @@ Deonte Harris making his presence known as a speedster on offense.
 Good play-calling by Sean Payton right near the goal line. Called a power run on 3rd down that set up an easy quarterback sneak on 4th down. 
 
 The Saints defensive line are not winning upfront. Shanahan is punking this defense.
+
+49ers seem to have three solid skill players on offense - Deebo Samuel, Emmanuel Sanders, and George Kittle. Also helps that the team can run the ball with a combination of different halfbacks.
