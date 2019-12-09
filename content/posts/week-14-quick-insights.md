@@ -49,6 +49,8 @@ Kyle Van Noy making plays against the run, as an elite defender should.
 
 Brady's depth receivers are letting him down. That and Kansas City has found a solution here on defense, blitzing an overmatched offensive line. Combine that with a lack of a run game and it makes things almost impossible for New England here.
 
+You take away Edelman and James White, you're left with a dysfunctional Patriots offense. Belichick and Brady poured their hearts into this game and still lost.
+
 ***
 
 ## Ravens @ Bills
