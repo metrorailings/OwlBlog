@@ -84,3 +84,11 @@ Washington is just injured. Quarterback is operating on one leg, their best pass
 Aaron Rodgers is seriously struggling to find open receivers, despite having several seconds in the pocket on multiple occasions.
 
 Yes, it is easier to defend a good rushing team than to rush the ball against a bad team. All a defense needs to stop the run is to put more men in the box. I wish I knew this for the Patriots game.
+
+***
+
+## Steelers @ Cardinals
+
+Steeler fans travel well.
+
+Why is Kyler playing so scared? Kliff should be scheming these quick plays better.
