@@ -60,3 +60,5 @@ Ravens start their first drive executing mostly pass plays. Interesting. Let's s
 Their second drive was run-heavy. Coincidentally, the Ravens were able to post their first points on the board at the end of the drive.
 
 Once again, an exotic run play leads to a touchdown for this Ravens offense. This Bills defense showing spunk though.
+
+Bills did mostly well defensing the run. It was the Ravens and their blitzes that threw this Buffalo offense out of its groove until the game was too out of hand. Ravens were almost too happy blitzing, almost as if they weren't worried about Josh Allen being able to dissect their undermanned pass coverage.
