@@ -62,3 +62,5 @@ Their second drive was run-heavy. Coincidentally, the Ravens were able to post t
 Once again, an exotic run play leads to a touchdown for this Ravens offense. This Bills defense showing spunk though.
 
 Bills did mostly well defensing the run. It was the Ravens and their blitzes that threw this Buffalo offense out of its groove until the game was too out of hand. Ravens were almost too happy blitzing, almost as if they weren't worried about Josh Allen being able to dissect their undermanned pass coverage.
+
+Ravens man coverage defenders did incredibly well guarding against Buffalo's smaller and more agile receiver unit. That's two weeks in a row now that the Ravens defensive backfield held up against a receiver corps known more for speed than size.
