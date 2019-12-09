@@ -93,4 +93,10 @@ Steeler fans travel well.
 
 Why is Kyler playing so scared? Kliff should be scheming these quick plays better.
 
-I have to say...Kyler is shitting himself here. I wonder if being hit by NFL linemen is taking its toll on him mentally.
+I have to say...Kyler may be shitting himself here. I wonder if being hit by NFL linemen is taking its toll on him mentally.
+
+Better plan from Kyler following that Pittsburgh turnovers. Though any success I saw on that drive came more from scheme than quarterback play. Still, the Steelers defense are doing a solid job limiting Kyler Murray's options here. Even when Kyler attempted to run the ball outside, Minkah Fitzpatrick immediately cut him off. 
+
+Finally, the up-tempo play-calling is yielding results for this Arizona offense. Steelers are trying their damnedest to confuse Kyler by crowding the line of scrimmage with linebackers though.
+
+Duck Hodges making hay with scramble runs.
