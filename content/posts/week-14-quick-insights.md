@@ -92,3 +92,5 @@ Yes, it is easier to defend a good rushing team than to rush the ball against a 
 Steeler fans travel well.
 
 Why is Kyler playing so scared? Kliff should be scheming these quick plays better.
+
+I have to say...Kyler is shitting himself here. I wonder if being hit by NFL linemen is taking its toll on him mentally.
