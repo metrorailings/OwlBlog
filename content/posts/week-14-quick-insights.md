@@ -74,3 +74,7 @@ I honestly wonder whether it's easier stopping an offense that can rush the ball
 Dear lord...Haskins is just awful.
 
 Aaron Jones is something special when he accelerates into the second level. And it's quite impressive to see Green Bay just lining up in power run formations and pound the ball for big yardage.
+
+The Smith brothers can both be considered elite pass rushers so far. Za'Darius is clearly the better half in the duo though. The Redskins were finally making hay through power runs until Za'Darius finally forced a negative play by shooting through an interior gap. It didn't matter as Dwayne Haskins was able to convert on a 3rd and long.
+
+Lazard making a big catch to keep the chains moving.
