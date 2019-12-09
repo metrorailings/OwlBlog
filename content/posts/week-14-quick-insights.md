@@ -72,3 +72,5 @@ Ravens man coverage defenders did incredibly well guarding against Buffalo's sma
 I honestly wonder whether it's easier stopping an offense that can rush the ball well or running against a defense that struggles to neutralize the ground game.
 
 Dear lord...Haskins is just awful.
+
+Aaron Jones is something special when he accelerates into the second level. And it's quite impressive to see Green Bay just lining up in power run formations and pound the ball for big yardage.
