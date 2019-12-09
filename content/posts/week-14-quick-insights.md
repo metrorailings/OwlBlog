@@ -77,4 +77,8 @@ Aaron Jones is something special when he accelerates into the second level. And 
 
 The Smith brothers can both be considered elite pass rushers so far. Za'Darius is clearly the better half in the duo though. The Redskins were finally making hay through power runs until Za'Darius finally forced a negative play by shooting through an interior gap. It didn't matter as Dwayne Haskins was able to convert on a 3rd and long.
 
-Lazard making a big catch to keep the chains moving.
+Lazard making a big catch to keep the chains moving for the Packers offense.
+
+Washington is just injured. Quarterback is operating on one leg, their best pass rusher is dealing with a leg injury, and their best halfback has been ruled out in the first half with a knee injury.
+
+Aaron Rodgers is seriously struggling to find open receivers, despite having several seconds in the pocket on multiple occasions.
