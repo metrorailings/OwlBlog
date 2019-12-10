@@ -110,3 +110,5 @@ Raiders are dismal against the pass.
 Ryan Tannehill really impressing in a bit of a tough situation here, delivering on a touchdown bomb while under severe duress.
 
 Raiders can run the ball with backs other than Josh Jacobs.
+
+Oakland committing to stopping the run, lining up quite a bit in their 4-3 base defense.
