@@ -116,3 +116,5 @@ Oakland committing to stopping the run, lining up quite a bit in their 4-3 base 
 Likewise, Tennessee looking to cut the Raiders off on their short yardage plays. The Titans defensive backs overplayed the flat on one play, giving up an easy touchdown heave.
 
 Oakland may have some of the worst defensive backs in the league.
+
+Tennessee may have issues of their own as well in their defensive backfield.
