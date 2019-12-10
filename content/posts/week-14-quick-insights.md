@@ -114,3 +114,5 @@ Raiders can run the ball with backs other than Josh Jacobs.
 Oakland committing to stopping the run, lining up quite a bit in their 4-3 base defense.
 
 Likewise, Tennessee looking to cut the Raiders off on their short yardage plays. The Titans defensive backs overplayed the flat on one play, giving up an easy touchdown heave.
+
+Oakland may have some of the worst defensive backs in the league.
