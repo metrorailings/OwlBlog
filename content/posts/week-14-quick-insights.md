@@ -19,7 +19,7 @@ Deonte Harris making his presence known as a speedster on offense.
 
 49ers pass protection is holding up. Although it does help that the Saints are biting hard on play-action. New Orleans needs to play more assignments on defense. Kudos to Kyle Shanahan for outcoaching Dennis Allen though.
 
-Good play-calling by Sean Payton right near the goal line. Called a power run on 3rd down that set up an easy quarterback sneak on 4th down. 
+Good play-calling by Sean Payton right near the goal line. Called a power run on 3rd down that set up an easy quarterback sneak on 4th down.
 
 The Saints defensive line are not winning upfront. Shanahan is punking this defense.
 
@@ -33,7 +33,7 @@ New Orleans doesn't have much of a pass rush in this game. Cameron Jordan may be
 
 ## Chiefs @ Patriots
 
-Trick play by the Patriots for a touchdown - a sliding flea flicker. Well done by Josh McDaniels. Brady's pass was a bit underthrown too. Makes me wonder... 
+Trick play by the Patriots for a touchdown - a sliding flea flicker. Well done by Josh McDaniels. Brady's pass was a bit underthrown too. Makes me wonder...
 
 Chris Jones already working the interior of the Patriots offensive line. Him putting the heat on Brady ended a Patriots drive coming off a turnover.
 
@@ -55,7 +55,7 @@ You take away Edelman and James White, you're left with a dysfunctional Patriots
 
 ## Ravens @ Bills
 
-Ravens start their first drive executing mostly pass plays. Interesting. Let's see if they still insist on Lamar heaving the ball against the Bills elite pass defense. 
+Ravens start their first drive executing mostly pass plays. Interesting. Let's see if they still insist on Lamar heaving the ball against the Bills elite pass defense.
 
 Their second drive was run-heavy. Coincidentally, the Ravens were able to post their first points on the board at the end of the drive.
 
@@ -95,8 +95,18 @@ Why is Kyler playing so scared? Kliff should be scheming these quick plays bette
 
 I have to say...Kyler may be shitting himself here. I wonder if being hit by NFL linemen is taking its toll on him mentally.
 
-Better plan from Kyler following that Pittsburgh turnovers. Though any success I saw on that drive came more from scheme than quarterback play. Still, the Steelers defense are doing a solid job limiting Kyler Murray's options here. Even when Kyler attempted to run the ball outside, Minkah Fitzpatrick immediately cut him off. 
+Better plan from Kyler following that Pittsburgh turnovers. Though any success I saw on that drive came more from scheme than quarterback play. Still, the Steelers defense are doing a solid job limiting Kyler Murray's options here. Even when Kyler attempted to run the ball outside, Minkah Fitzpatrick immediately cut him off.
 
 Finally, the up-tempo play-calling is yielding results for this Arizona offense. Steelers are trying their damnedest to confuse Kyler by crowding the line of scrimmage with linebackers though.
 
 Duck Hodges making hay with scramble runs.
+
+***
+
+## Titans @ Raiders
+
+Raiders are dismal against the pass.
+
+Ryan Tannehill really impressing in a bit of a tough situation here, delivering on a touchdown bomb while under severe duress.
+
+Raiders can run the ball with backs other than Josh Jacobs.
