@@ -17,11 +17,11 @@ fields:
     schema:
       format: markdown
 pages:
-- content/posts/rams-broncos-halftime-analysis.md
-- content/posts/colts-jets-halftime-analysis.md
-- content/posts/week-7-early-leanings.md
-- content/posts/49ers-packers-quick-look.md
-- content/posts/introduction.md
+- content/posts/week-4-picks.md
 - content/posts/week-8-early-leanings.md
 - content/posts/week-5-picks.md
-- content/posts/week-4-picks.md
+- content/posts/introduction.md
+- content/posts/49ers-packers-quick-look.md
+- content/posts/week-7-early-leanings.md
+- content/posts/colts-jets-halftime-analysis.md
+- content/posts/rams-broncos-halftime-analysis.md
