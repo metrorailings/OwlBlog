@@ -29,7 +29,9 @@ Nick Bosa can be designated an elite pass rusher. Nobody else has really impress
 
 New Orleans doesn't have much of a pass rush in this game. Cameron Jordan may be the only elite pass rusher on that defense.
 
-I wonder if New Orleans has a tendency to play their cornerbacks more in outside coverage. If so, it makes their linebackers all the more valuable, as that unit is essentially the first line of defense against crossing routes. It would explain how Jared Goff had a hell of a game against these Saints last year.
+I wonder if New Orleans has a tendency to play their cornerbacks more in outside technique. If so, it makes their linebackers all the more valuable, as that unit is essentially the first line of defense against crossing routes. It would explain how Jared Goff had a hell of a game against these Saints last year.
+
+Then again, the corners may be playing outside technique as they're counting on the safeties to defend the real dangerous crossing routes. And these Saint safeties are just awful.                                                                                                                             
 
 ***
 
