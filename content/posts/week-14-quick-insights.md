@@ -31,7 +31,9 @@ New Orleans doesn't have much of a pass rush in this game. Cameron Jordan may be
 
 I wonder if New Orleans has a tendency to play their cornerbacks more in outside technique. If so, it makes their linebackers all the more valuable, as that unit is essentially the first line of defense against crossing routes. It would explain how Jared Goff had a hell of a game against these Saints last year.
 
-Then again, the corners may be playing outside technique as they're counting on the safeties to defend the real dangerous crossing routes. And these Saint safeties are just awful.                                                                                                                             
+Then again, the corners may be playing outside technique as they're counting on the safeties to defend the real dangerous crossing routes. And these Saint safeties are just awful.
+
+Kyle Shanahan is playing this Saints defense like a fiddle, even predicting when New Orleans will run man coverage.
 
 ***
 
