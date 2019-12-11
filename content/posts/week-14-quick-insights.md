@@ -124,3 +124,7 @@ Likewise, Tennessee looking to cut the Raiders off on their short yardage plays.
 Oakland may have some of the worst defensive backs in the league.
 
 Tennessee may have issues of their own as well in their defensive backfield.
+
+Titans play pretty intelligently on defense.
+
+Tennessee's offense has some character to it. Hurrying the pace at the correct moments, calling semi-trick plays towards the end of the game to close things out...
