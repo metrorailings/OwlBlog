@@ -128,3 +128,15 @@ Tennessee may have issues of their own as well in their defensive backfield.
 Titans play pretty intelligently on defense.
 
 Tennessee's offense has some character to it. Hurrying the pace at the correct moments, calling semi-trick plays towards the end of the game to close things out...
+
+***
+
+## Seahawks @ Rams
+
+Seahawks and Rams know each other a little too well.
+
+On one play, the Seahawks tried to bait Jared Goff into throwing a wide receiver screen in a situation that seemingly favored such a screen. The Rams anticipated this, as one of the skill players that the Seahawks presumed would be blocking ended up releasing and running a fly and catching a big throw to set LA up for a touchdown.
+
+Likewise on defense, the Rams still kept seven men in the box even though the Seahawks spread four receivers out. The Rams were correct to do so though, as the Hawks ended up running the ball.
+
+If Goff can be scripted into rhythm, this Rams offense looks so much better.  
