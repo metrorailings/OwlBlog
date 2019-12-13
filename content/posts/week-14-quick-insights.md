@@ -139,6 +139,6 @@ On one play, the Seahawks tried to bait Jared Goff into throwing a wide receiver
 
 Likewise on defense, the Rams still kept seven men in the box even though the Seahawks spread four receivers out. The Rams were correct to do so though, as the Hawks ended up running the ball.
 
-If Goff can be scripted into rhythm, this Rams offense looks so much better.  While Goff might not be worth much as a dropback passer, he can certainly execute on scheme plays.
+If Goff can be scripted into rhythm, this Rams offense looks so much better.  While Goff might not be worth much as a dropback passer, he can certainly execute on scheme.
 
 Two errors killed a Seahawks drive.
