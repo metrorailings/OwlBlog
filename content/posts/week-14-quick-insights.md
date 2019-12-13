@@ -81,7 +81,7 @@ Dear lord...Haskins is just awful.
 
 Aaron Jones is something special when he accelerates into the second level. And it's quite impressive to see Green Bay just lining up in power run formations and pound the ball for big yardage.
 
-The Smith brothers can both be considered elite pass rushers so far. Za'Darius is clearly the better half in the duo though. The Redskins were finally making hay through power runs until Za'Darius finally forced a negative play by shooting through an interior gap. It didn't matter as Dwayne Haskins was able to convert on a 3rd and long.
+The Smith brothers can both be considered elite pass rushers so far. Za'Darius is clearly the better half in the duo though. The Redskins were finally making hay through power runs until Za'Darius finally forced a negative play by shooting through an interior gap. It didn't matter though as Dwayne Haskins was able to convert on a 3rd and long.
 
 Lazard making a big catch to keep the chains moving for the Packers offense.
 
@@ -89,7 +89,7 @@ Washington is just injured. Quarterback is operating on one leg, their best pass
 
 Aaron Rodgers is seriously struggling to find open receivers, despite having several seconds in the pocket on multiple occasions.
 
-Yes, it is easier to defend a good rushing team than to rush the ball against a bad team. All a defense needs to stop the run is to put more men in the box. I wish I knew this for the Patriots game.
+Yes, it is easier to defend a good rushing team than to rush the ball against a bad team. All a defense needs to do to stop the run is to put more men in the box. I wish I knew this for the Patriots game.
 
 ***
 
@@ -101,7 +101,7 @@ Why is Kyler playing so scared? Kliff should be scheming these quick plays bette
 
 I have to say...Kyler may be shitting himself here. I wonder if being hit by NFL linemen is taking its toll on him mentally.
 
-Better plan from Kyler following that Pittsburgh turnovers. Though any success I saw on that drive came more from scheme than quarterback play. Still, the Steelers defense are doing a solid job limiting Kyler Murray's options here. Even when Kyler attempted to run the ball outside, Minkah Fitzpatrick immediately cut him off.
+Better play from Kyler following a Pittsburgh turnover. Though any success I saw on that drive came more from scheme than quarterback play. Still, the Steelers defense are doing a solid job limiting Kyler Murray's options here. Even when Kyler attempted to run the ball outside, Minkah Fitzpatrick immediately cut him off.
 
 Finally, the up-tempo play-calling is yielding results for this Arizona offense. Steelers are trying their damnedest to confuse Kyler by crowding the line of scrimmage with linebackers though.
 
