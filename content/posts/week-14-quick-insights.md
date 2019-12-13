@@ -45,7 +45,7 @@ Chris Jones already working the interior of the Patriots offensive line. Him put
 
 Once again, Brady underthrowing yet another pass that might have put New England in fringe field-goal range.
 
-Patriots pass rush is anemic. If New England, they may be able to thank Mahomes untimely hand injury for the cheap win.
+Patriots pass rush is anemic. If New England wins, they may be able to thank Mahomes untimely hand injury for the cheap victory.
 
 Patriots struggling to run this ball. Their success has largely come courtesy of the pass.
 
