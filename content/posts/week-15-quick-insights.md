@@ -1,6 +1,5 @@
 +++
 date = 2019-12-15T12:00:00Z
-draft = true
 headline = "Week 15 Quick Insights"
 
 +++
@@ -9,3 +8,11 @@ headline = "Week 15 Quick Insights"
 Josh Wells a liability as a replacement left tackle for Tampa Bay.
 
 Detroit Lions actually blitzed for once and managed to secure an interception off that blitz.
+
+The Lions are so bad in their defensive backfield, I love it.
+
+***
+
+## Bears @ Packers
+
+The Packers truly have one of the best offensive lines in the league. Their pass-blocking and run-blocking has been stellar this week and last week. 
