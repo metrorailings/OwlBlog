@@ -21,4 +21,22 @@ Then again, does it even matter? O'Brien just had one of the biggest wins in his
 
 In other words, the Texans are nowhere near as bad as their loss last week. Houston can still throw and run the ball fairly well. And both of those will help keep them in contention here against a Titans defense that's more middling than I originally thought.
 
-####   
+***
+
+#### _Seahawks_ @ Panthers (+6.5)
+
+The Panthers suck. The Seahawks need a win. And this game seems like Michael Lombardi's favorite play this week.
+
+***
+
+#### _Rams_ @ Cowboys (+1)
+
+It scares me that so many people are riding the Rams here. But a soft forensic analysis justifies my love for the Rams here. Give me a good team as slight favorites against another team that's been underwhelming the past few weeks.
+
+Can the Cowboys win? Yes they can. It's going to take some solid coaching and inspiration though. Having gotten to know Jason Garrett over the past couple years though, I'm pretty comfortable betting against him.
+
+***
+
+#### _Colts_ @ Saints (-8)
+
+Way too many points being given to a good team here. Yes, the Colts are not great, but they're not bad enough to justify this spread, even with Jacoby Brissett at quarterback. I'm hoping Frank Reich's offensive genius can find a way to simulate some of the success the 49ers saw last week on offense.
