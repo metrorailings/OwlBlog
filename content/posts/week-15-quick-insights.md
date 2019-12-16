@@ -38,3 +38,17 @@ Of course the Cowboys are developing a rhythm on offense, courtesy of their offe
 Aaron Donald may be the only elite defensive linemen on the Rams, considering none of the other lineman are having much of an impact at defensing the run.
 
 Maybe the lesson here is that the Rams play abnormally well against division opponents. Their true worth can only be measured against teams they do not play often.
+
+Once again, Goff is trash playing dropback football. The Rams need him to settle into a rhythm for the offense to see any success.
+
+***
+
+## Bills @ Steelers
+
+Josh Allen loves holding his balls.
+
+Bold coaching by Sean McDermott paying off with a touchdown.
+
+Nobody on the Bills defensive line really standing out, though Shaq Lawson looks to have potential.
+
+McDermott loves checking out pre-snap formations and then taking timeouts, if only to gain even more intel on the opponent.
