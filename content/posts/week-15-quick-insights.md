@@ -15,7 +15,7 @@ The Lions are so bad in their defensive backfield, I love it.
 
 ## Bears @ Packers
 
-The Packers truly have one of the best offensive lines in the league. Their pass-blocking and run-blocking has been stellar this week and last week. 
+The Packers truly have one of the best offensive lines in the league. Their pass-blocking and run-blocking has been stellar this week and last week.
 
 Great throw by Aaron Rodgers for the team's first touchdown, though the jury is still out on whether he can still be considered an elite quarterback this season.
 
@@ -23,7 +23,7 @@ Great throw by Aaron Rodgers for the team's first touchdown, though the jury is 
 
 ## Seahawks @ Panthers
 
-The Seahawks game plan is fairly simple here. Power runs with bootleg play-fakes peppered into the offense every now and then. 
+The Seahawks game plan is fairly simple here. Power runs with bootleg play-fakes peppered into the offense every now and then.
 
 But the Panthers are playing the run fairly well. Maybe yet more proof that it's easier for a bad defense to guard against good rushers than it is for a good offense to rush the ball against a bad defense.
 
@@ -52,3 +52,21 @@ Bold coaching by Sean McDermott paying off with a touchdown.
 Nobody on the Bills defensive line really standing out, though Shaq Lawson looks to have potential.
 
 McDermott loves checking out pre-snap formations and then taking timeouts, if only to gain even more intel on the opponent.
+
+***
+
+## Vikings @ Chargers
+
+Danielle Hunter is truly an elite defensive linemen. I still need time to assess whether Linval Joseph or Everson Griffen belong in the same club though. Next week's match against the division leader Packers will be instructive in this regard.
+
+The Vikings on offense thrive off the rushing threat posed by Dalvin Cook. Lots of 12-personnel alignments to draw opposing defenders towards the line of scrimmage. I suspect a simple box count more often than not determines whether Kirk Cousins rolls out for play-action or hands the ball off to Dalvin Cook so he can work his way north.
+
+The true test for Kirk Cousins comes when Dalvin Cook cannot be counted on anymore due to injury. I wonder how he holds up. More research is needed here.
+
+***
+
+## Colts @ Saints
+
+Once again the Saints letting up yardage on intermediate and deep crossers.
+
+##  
