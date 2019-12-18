@@ -69,4 +69,10 @@ The true test for Kirk Cousins comes when Dalvin Cook cannot be counted on anymo
 
 Once again the Saints letting up yardage on intermediate and deep crossers.
 
-##  
+***
+
+## Texans @ Titans
+
+The Texans pass coverage has taken a serious step up from its dreadful preseason form.
+
+Interesting power running from the Titans. Their receivers sometimes line up next to the offensive line in a no-point stance only to end up blocking for Derrick Henry right alongside the rest of the offensive line. 
