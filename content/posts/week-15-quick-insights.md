@@ -75,4 +75,14 @@ Once again the Saints letting up yardage on intermediate and deep crossers.
 
 The Texans pass coverage has taken a serious step up from its dreadful preseason form.
 
-Interesting power running from the Titans. Their receivers sometimes line up next to the offensive line in a no-point stance only to end up blocking for Derrick Henry right alongside the rest of the offensive line. 
+Interesting power running from the Titans. Their receivers sometimes line up next to the offensive line in a no-point stance only to end up blocking for Derrick Henry right alongside the rest of the offensive line.
+
+The Titans power running is something impressive.
+
+***
+
+## Patriots @ Bengals
+
+New England is making hay here early using rub routes.
+
+This Bengals defense making silly mistakes in coverage.
