@@ -86,3 +86,7 @@ The Titans power running is something impressive.
 New England is making hay here early using rub routes.
 
 This Bengals defense making silly mistakes in coverage. Why are you playing off coverage on N'Keal Harry, of all people?
+
+Now that Cincinnati started playing more aggressive man coverage, New England's depth receivers are struggling to matriculate the ball downfield.
+
+The right side of New England's offensive line is struggling to hold up in pass protection, it seems. 
