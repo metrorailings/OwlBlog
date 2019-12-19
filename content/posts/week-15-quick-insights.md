@@ -85,4 +85,4 @@ The Titans power running is something impressive.
 
 New England is making hay here early using rub routes.
 
-This Bengals defense making silly mistakes in coverage.
+This Bengals defense making silly mistakes in coverage. Why are you playing off coverage on N'Keal Harry, of all people?
