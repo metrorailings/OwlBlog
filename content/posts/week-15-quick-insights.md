@@ -89,4 +89,6 @@ This Bengals defense making silly mistakes in coverage. Why are you playing off 
 
 Now that Cincinnati started playing more aggressive man coverage, New England's depth receivers are struggling to matriculate the ball downfield.
 
-The right side of New England's offensive line is struggling to hold up in pass protection, it seems. 
+The right side of New England's offensive line is struggling to hold up in pass protection, it seems.  Is this an exception to the rule?
+
+Kyle Van Noy is definitely the team's best pass rusher, but Deatrich Wise looks to have serious potential here.
