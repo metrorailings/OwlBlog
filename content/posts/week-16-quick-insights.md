@@ -19,4 +19,8 @@ Bills are being gashed on the ground for steady yardage.
 
 Some creative play-calling by the Patriots offense, throwing a ball to N'Keal Harry running a wheel route after play action.
 
-Patriots making hay with heavy run formations here.
+Patriots making hay with heavy run formations here peppered with passes here and there. Good play-calling by Josh McDaniels.
+
+Kyle Van Noy only down lineman on either team having any impact on this game, even if only on one play.
+
+Dont'a Hightower managed to create pressure on a 3rd down.
