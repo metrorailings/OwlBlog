@@ -8,3 +8,5 @@ headline = "Week 16 Quick Insights"
 Jameis getting steadily better, though his turnover rate is still ridiculous.
 
 Texans still have no viable pass rush without JJ Watt.
+
+Houston actually has some damn good pass coverage personnel.
