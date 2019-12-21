@@ -27,4 +27,14 @@ Dont'a Hightower managed to create pressure on a 3rd down.
 
 Bills still insisting on singular man coverage on Julian Edelman.
 
-I notice the Patriots chipping one of the Bills defensive lineman. Probably Shaq Lawson?
+I notice the Patriots chipping one of the Bills defensive lineman. Probably Shaq Lawson? Jerry Hughes?
+
+Jordan Phillips creating a negative play for the Bills here with a run stuff.
+
+Jerry Hughes and Dont'a Hightower stepping up in their pass rush.
+
+Bills are finally stopping Patriot drives now that they're occasionally doubling Julian Edelman.
+
+Patriot insisted on running man coverage, even on an end-of-half drive. That insistence cost them a touchdown.
+
+Lots of double-clutching by Josh Allen. Seems to indicate uncertainty and a failure to read the coverage properly.
