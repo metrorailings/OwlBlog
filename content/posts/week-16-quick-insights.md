@@ -54,3 +54,5 @@ Gregg Williams' zone blitzes making mincemeat of these Steelers quarterbacks.
 Boswell is still kicking well.
 
 Ah, Steelers running prevent zone at the end of the half. Fantastic....
+
+TJ Watt's huge strip sack leading to a touchdown for the Steelers on a bomb from Mason Rudolph. Not bad.
