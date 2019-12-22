@@ -56,3 +56,5 @@ Boswell is still kicking well.
 Ah, Steelers running prevent zone at the end of the half. Fantastic....
 
 TJ Watt's huge strip sack leading to a touchdown for the Steelers on a bomb from Mason Rudolph. Not bad.
+
+I think Williams defensive style is the real winner here. Jamal Adams being back also helped. But the Steelers offense was absolutely gutted here by the Jets and their confusing formations. Veteran quarterbacks can dissect the offense, but young inexperienced quarterbacks are left hapless.
