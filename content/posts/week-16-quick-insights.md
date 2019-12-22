@@ -38,3 +38,19 @@ Bills are finally stopping Patriot drives now that they're occasionally doubling
 Patriot insisted on running man coverage, even on an end-of-half drive. That insistence cost them a touchdown.
 
 Lots of double-clutching by Josh Allen. Seems to indicate uncertainty and a failure to read the coverage properly.
+
+Shaq Lawson made solid reads on 2 of the Patriots misdirection plays, stopping these plays early in the backfield.
+
+Bills have some serious issues overall with tackling.
+
+***
+
+## Steelers @ Jets
+
+Holy hell, Mason Rudolph is back at quarterback. Duck Hodges may have been benched. Lord help us.
+
+Gregg Williams' zone blitzes making mincemeat of these Steelers quarterbacks.
+
+Boswell is still kicking well.
+
+Ah, Steelers running prevent zone at the end of the half. Fantastic....
