@@ -80,3 +80,5 @@ Wentz missing a screen pass that could have closed the game. Worrisome.
 ## Chiefs @ Bears
 
 Tyreek Hill is the team's best receiver, though Travis Kelce is a very close second. The real question here for the Chiefs offense is whether they have a reliable third vector on offense. It could be the quarterback's mobility, it could be Shady and the run game, or it could be a second X receiver like Sammy Watkins.
+
+The Chiefs have some of the best route concepts I've seen.
