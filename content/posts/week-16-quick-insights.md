@@ -63,4 +63,14 @@ I think Williams defensive style is the real winner here. Jamal Adams being back
 
 ## Cardinals @ Seahawks
 
-Rasheed Greene another name to watch on this Seahawks defensive line.
+Rasheem Greene another name to watch on this Seahawks defensive line.
+
+***
+
+## Cowboys @ Eagles
+
+Carson Wentz and his mobility has sustained a few drives.
+
+Dallas Goedert stepping up as a viable catching option.
+
+Wentz missing a screen pass. Worrisome.
