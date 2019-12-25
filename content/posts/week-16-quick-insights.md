@@ -69,6 +69,8 @@ The Saints and Sean Payton finding ways to get Michael Thomas matched up in sing
 
 A zone blitz using the man cornerback covering Michael Thomas was an ill-advised move.
 
+Excellent improvisational play from Ryan Tannehill to create a touchdown from a busted screen play.
+
 ***
 
 ## Cardinals @ Seahawks
