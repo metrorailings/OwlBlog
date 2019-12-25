@@ -67,6 +67,8 @@ Titans still commit hard to their play-action heavy offense, even without their 
 
 The Saints and Sean Payton finding ways to get Michael Thomas matched up in single coverage....well done.
 
+A zone blitz using the man cornerback covering Michael Thomas was an ill-advised move.
+
 ***
 
 ## Cardinals @ Seahawks
