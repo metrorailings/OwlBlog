@@ -63,13 +63,23 @@ I think Williams defensive style is the real winner here. Jamal Adams being back
 
 ## Saints @ Titans
 
-Titans still commit hard to their play-action heavy offense, even without their bellcow in Derrick Henry. It doesn't matter, as defenses still bite against the fake rush and Tannehill is still doing a fantastic job connecting with his skill players. I honestly wonder if Tannehill can be considered elite.  
+Titans still commit hard to their play-action heavy offense, even without their bellcow in Derrick Henry. It doesn't matter, as defenses still bite against the fake rush and Tannehill is still doing a fantastic job connecting with his skill players. I honestly wonder if Tannehill can be considered elite.
 
 The Saints and Sean Payton finding ways to get Michael Thomas matched up in single coverage....well done.
 
 A zone blitz using the man cornerback covering Michael Thomas was an ill-advised move.
 
 Excellent improvisational play from Ryan Tannehill to create a touchdown from a busted screen play.
+
+***
+
+## Packers @ Vikings
+
+Cousins not doing well enough in a big moment here. It's worth noting that the Vikings aren't running as much play action here, forcing Cousins to play dropback football here.
+
+Danielle Hunter is easily the Vikings best defensive lineman. And on the other side, we have Za'Darius Smith as the Packers best down lineman.
+
+Aaron Rodgers seems to only really connect with DaVonte Adams and Allen Lazard, at least so far.
 
 ***
 
@@ -85,7 +95,7 @@ Carson Wentz and his mobility has sustained a few drives.
 
 Dallas Goedert stepping up as a viable catching option.
 
-Wentz missing a screen pass that could have closed the game. Worrisome. 
+Wentz missing a screen pass that could have closed the game. Worrisome.
 
 ***
 
