@@ -81,6 +81,10 @@ Danielle Hunter is easily the Vikings best defensive lineman. And on the other s
 
 Aaron Rodgers seems to only really connect with DaVonte Adams and Allen Lazard, at least so far.
 
+A second quarter Packers drive summed up their offense quite well. Quick throws to Davante Adams paired with runs by Jamal Adams and not much else. Aaron Rodgers failed to improvise on two separate opportunities in the red zone, once again making me wonder whether Rodgers can be considered an elite quarterback this season.
+
+Allen Lazard failed to reel in a big throw. Disappointing.
+
 ***
 
 ## Cardinals @ Seahawks
