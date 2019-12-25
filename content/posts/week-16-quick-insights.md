@@ -61,6 +61,14 @@ I think Williams defensive style is the real winner here. Jamal Adams being back
 
 ***
 
+## Saints @ Titans
+
+Titans still commit hard to their play-action heavy offense, even without their bellcow in Derrick Henry. It doesn't matter, as defenses still bite against the fake rush and Tannehill is still doing a fantastic job connecting with his skill players. I honestly wonder if Tannehill can be considered elite.  
+
+The Saints and Sean Payton finding ways to get Michael Thomas matched up in single coverage....well done.
+
+***
+
 ## Cardinals @ Seahawks
 
 Rasheem Greene another name to watch on this Seahawks defensive line.
