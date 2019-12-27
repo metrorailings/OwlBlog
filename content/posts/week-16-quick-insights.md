@@ -87,6 +87,10 @@ Allen Lazard failed to reel in a big throw. Disappointing.
 
 Just questionable play-calling by the Vikings offensive coaches. A failed trick play on 3rd down only to be followed by a weak play on 4th down where receivers ran what are essentially isolation routes. I have yet to really see Cousins fake the hand-off, bootleg out to his left, and deliver a dime. 
 
+Dean Lowry beasting against the Vikings and their rushing attack.
+
+This Vikings offensive line is just trash.
+
 ***
 
 ## Cardinals @ Seahawks
