@@ -89,7 +89,7 @@ Just questionable play-calling by the Vikings offensive coaches. A failed trick 
 
 Dean Lowry beasting against the Vikings and their rushing attack.
 
-This Vikings offensive line is just trash.
+This Vikings offensive line is just trash. More specifically, it's the interior that's awful.
 
 ***
 
