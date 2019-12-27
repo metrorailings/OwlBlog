@@ -107,6 +107,8 @@ Greg Ward emerging as a reliable vector on offense.
 
 Dallas Goedert stepping up as a viable catching option.
 
+Brandon Graham playing well as a down lineman on two plays, one a rushing play and the other a passing attempt.
+
 Wentz missing a screen pass that could have closed the game. Worrisome.
 
 ***
