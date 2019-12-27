@@ -103,6 +103,8 @@ Rasheem Greene another name to watch on this Seahawks defensive line.
 
 Carson Wentz and his mobility has sustained a few drives.
 
+Greg Ward emerging as a reliable vector on offense.
+
 Dallas Goedert stepping up as a viable catching option.
 
 Wentz missing a screen pass that could have closed the game. Worrisome.
