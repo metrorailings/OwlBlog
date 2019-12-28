@@ -113,6 +113,8 @@ Wentz missing a screen pass that could have closed the game. Worrisome.
 
 Interestingly enough, despite the season-ending injuries to their two premiere wide receivers, the Eagles may actually have five different vectors on offense - Miles Sanders as a well-rounded halfback, Dallas Goedert and Zach Ertz as versatile tight ends, Greg Ward as a receiving threat, and Wentz as an effective scrambler. 
 
+And yet, Philadelphia still struggles on offense. I'm starting to genuinely think that the Eagles coaching staff on offense is not quite as competent as I once thought. Honestly, Frank Reich deserves way more credit for that incredible Super Bowl run a couple years ago.
+
 ***
 
 ## Chiefs @ Bears
