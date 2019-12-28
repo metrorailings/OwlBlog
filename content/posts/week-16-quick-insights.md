@@ -111,6 +111,8 @@ Brandon Graham playing well as a down lineman on two plays, one a rushing play a
 
 Wentz missing a screen pass that could have closed the game. Worrisome.
 
+Interestingly enough, despite the season-ending injuries to their two premiere wide receivers, the Eagles may actually have five different vectors on offense - Miles Sanders as a well-rounded halfback, Dallas Goedert and Zach Ertz as versatile tight ends, Greg Ward as a receiving threat, and Wentz as an effective scrambler. 
+
 ***
 
 ## Chiefs @ Bears
