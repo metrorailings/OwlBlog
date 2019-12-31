@@ -61,7 +61,7 @@ It's not easy to be considered an elite pass rusher though. To get to this point
 
 Defensive rushers can also showcase their worth through their tackling and their effort. The best pass rushers are usually great tacklers and chasers, keeping opposing rushers from breaking past the line of scrimmage and shutting down screen plays and trick plays before they further develop.
 
-_** It's recommended that teams have at least 2 elite pass rushers **_ 
+_** It's recommended that teams have at least 2 elite pass rushers **_
 
 ***
 
@@ -83,4 +83,22 @@ _** It's recommended that teams have at least 3 reliable vectors **_
 
 ***
 
+### Is the team currently playing with home field advantage?
+
+Home field advantage may have lost some of its luster the past several years, but it still remains a valuable determinants of success in the postseason. Rarely do wild card teams see the Super Bowl - in fact, only three times in the past decade have we seen a wild card team fight their way to a championship appearance. Yes, I know teams with higher seeds tend to be better overall than teams with lower seeds, but you still can't discount home field advantage and the favorable refereeing that home teams tend to enjoy.
+
+***
+
 ### Does the team feature a reliable field goal kicker?
+
+It should be obvious why this is important. Time and time again, field goal kickers have been the difference between a loss and victory. Let's not forget the Super Bowls that were won and lost on a field goal attempt.
+
+***
+
+### Does the defense feature at least one elite player in its backfield? 
+
+It helps if the team has a defensive back that can essentially shut down a receiver or even make plays all across the field. Think of the Seattle Seahawks back in their heyday in the early part of the decade, where Richard Sherman was able to blanket just about any skill player in the NFL while Earl Thomas successfully patrolled the deeper end of the field as a ball hawk and last line of defense. Meanwhile, Kam Chancellor made his presence known as a violent box safety. Those three were critical to helping lift Seattle to two Super Bowl berths and one championship victory.
+
+***
+
+  
