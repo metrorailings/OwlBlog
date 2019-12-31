@@ -77,6 +77,6 @@ No, an offense doesn't need to fall apart should one of their vectors be lost to
 
 When assessing a team's offense to determine its vectors, the traditional metrics are usually a good start. Yardage accrued, touchdowns, and targeting numbers all matter. Going beyond these standard statistics though, advanced stats like yards after the catch also help us identify the players that are creating more value by their own efforts. But the single best metric I've seen is a proprietary metric from Pro Football Focus - Yards Per Route Ran. It's a metric that fantastically identifies the pass catchers that matter most to any particular offense. It shows us the average yardage accrued any time a pass catcher runs a meaningful route.
 
-Still, the best thing here is the eye test. The eye test will tell us whether the receiver is truly creating additional value for this offense through individual effort or whether his numbers are more a result of scheme. The eye test also tells us whether
+Still, the best thing here is the eye test. The eye test will tell us whether the receiver is truly creating additional value for this offense through individual effort or whether his numbers are more a result of scheme. The eye test also tells us whose names are called during critical moments. 
 
 _** It's recommended that teams have at least 3 reliable vectors **_
