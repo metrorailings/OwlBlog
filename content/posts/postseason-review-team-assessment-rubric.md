@@ -25,6 +25,14 @@ A good defense is necessary if I am to designate the defensive coordinator or he
 
 ***
 
+### Do the quarterback and most of the other key players on the offense have any playoff experience? 
+
+In other words, I'm talking about playoff jitters here. Sure, jitters quiet down after one game, but for that one game, nerves can determine whether a team succeeds or fails. We've seen this happen time and time again, whether it was the Dallas offense starting horribly slow back in 2016, Philadelphia stumbling in its first postseason game in 2017 before rattling off two sensational wins, the Rams constantly fumbling the ball early against the Falcons in 2017, or the Jaguars embarrassing themselves with an ugly win against the lowly Bills before shredding the Steelers defense in their only postseason appearance over the last several years. 
+
+While the Eagles and Jaguars were able to overcome their nerves to win their respective games, the Rams and Cowboys were sunk into too deep a hole early because of their jitters.
+
+***
+
 ### Is the offense led by an elite quarterback?
 
 Pretty straightforward why this is important. In today's pass-happy NFL, you need a quality quarterback that can be productive passing the ball, especially when schemes fail to yield easy yardage.
@@ -51,4 +59,6 @@ A pass rush will never win you the Super Bowl alone. But it certainly helps a gr
 
 It's not easy to be considered an elite pass rusher though. To get to this point, the defensive rusher needs to be able to generate pressure against opposing quarterbacks on a consistent basis. Quarterback hits are a pretty accurate metric to use here, though we should also review game tape to determine that whether a player simply feasted on weaker competition or actually managed to rack up some hits against more capable offensive linemen and quarterbacks.
 
-Defensive rushers can also showcase their worth through their tackling and their effort. The best pass rushers are usually great tacklers and chasers, keeping opposing rushers from breaking past the line of scrimmage and shutting down screen plays and trick plays before they further develop. 
+Defensive rushers can also showcase their worth through their tackling and their effort. The best pass rushers are usually great tacklers and chasers, keeping opposing rushers from breaking past the line of scrimmage and shutting down screen plays and trick plays before they further develop.
+
+***
