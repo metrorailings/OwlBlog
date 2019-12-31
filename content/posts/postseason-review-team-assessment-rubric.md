@@ -101,4 +101,4 @@ It helps if the team has a defensive back that can essentially shut down a recei
 
 ***
 
-  
+That's it for now. These are the questions that need to be answered positively for a team to be considered an actual Super Bowl contender. The more yeses, the higher your chance of hoisting the Lombardi trophy in the end.  
