@@ -80,3 +80,7 @@ When assessing a team's offense to determine its vectors, the traditional metric
 Still, the best thing here is the eye test. The eye test will tell us whether the receiver is truly creating additional value for this offense through individual effort or whether his numbers are more a result of scheme. The eye test also tells us whose names are called during critical moments. 
 
 _** It's recommended that teams have at least 3 reliable vectors **_
+
+***
+
+### Does the team feature a reliable field goal kicker?
