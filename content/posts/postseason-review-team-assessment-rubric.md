@@ -61,4 +61,14 @@ It's not easy to be considered an elite pass rusher though. To get to this point
 
 Defensive rushers can also showcase their worth through their tackling and their effort. The best pass rushers are usually great tacklers and chasers, keeping opposing rushers from breaking past the line of scrimmage and shutting down screen plays and trick plays before they further develop.
 
+_** It's recommended that teams have at least 2 elite pass rushers **_ 
+
 ***
+
+### How many different vectors does the team feature on offense?
+
+By vectors, I mean all the different ways a team can move the ball on offense. When I was assessing offenses years ago, I would use the number of quality skill position players to determine whether an offense was loaded enough come time for the playoffs. But for those teams that are stacked at a particular position group, I'd be overstating their potential. If a team had two phenomenal running backs that were being used interchangeably, it'd be no different than having only one quality halfback on the roster. So I use the concept of vectors here to essentially normalize all the different concepts and tools a team can utilize on offense. Slot receivers, X receivers, Z receivers, tight ends, fullbacks, scatbacks, power runners, and mobile quarterbacks are all considered separate vectors on offense. Certain position groups can feature more than one vector. Take tight ends for example - a team with two great tight ends can count each of them as a separate vector, so long as each of these tight ends see action on the field regularly, regardless of the other's snap count or health situation.
+
+It should be obvious, but the more vectors you have, the better your offense should be. The logic is simple - the more ways an offense can move the ball, the more opposing defenses would need to be stretch their resources in order to properly cover such an offense. In general, I recommend a team have at least 3 reliable vectors on offense.
+
+Notice I use the word "reliable" in the last sentence there. It's not easy for teams to develop reliable vectors. The rule of thumb here is a bit complex - it's not enough for  
