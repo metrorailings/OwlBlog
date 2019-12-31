@@ -39,4 +39,14 @@ There's no stat that blissfully sums this up. All the traditional quarterback st
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Basically, just copy and paste the same stuff I wrote about teams needing a defensive chess players - does this team feature a great mind on offense, somebody that can scheme up great plays and create easy yardage for their offense? Pair a brilliant mind with an elite quarterback and you have a damn good combination on offense. Josh McDaniels, Frank Reich, and Andy Reid all serve as offensive geniuses on their respective teams. 
+Basically, just copy and paste the same stuff I wrote about teams needing a defensive chess players - does this team feature a great mind on offense, somebody that can scheme up great plays and create easy yardage for their offense? Pair a brilliant mind with an elite quarterback and you have a damn good combination on offense. Josh McDaniels, Frank Reich, and Andy Reid all serve as offensive geniuses on their respective teams.
+
+***
+
+### How many elite pass rushers are on this team?
+
+I'm still of the belief that the edge rusher is the most important position in football outside of the quarterback, especially during the postseason. More often than not, it's the edge rushers that sway critical games in their team's favor. It was the Giants and their pass rush that unraveled the seemingly immortal Patriots of 2007. And it could even be argued that the Patriots of 2018 won their Super Bowl in large part thanks to Trey Flowers and Kyle Van Noy wrecking offensive backfields in their playoffs.
+
+A pass rush will never win you the Super Bowl alone. But it certainly helps a great deal, which makes sense - defensive backs and linebackers can only cover skill players for so long before a receiver finally becomes open. An elite coverage unit is theoretically worthless if opposing quarterbacks can simply sit in the pocket and wait for one of their receivers to finally break free from coverage.
+
+It's not easy to be considered an elite pass rusher though.  
