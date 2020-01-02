@@ -47,7 +47,11 @@ Yes. Josh McDaniels is one of the better offensive minds in the league today. Th
 
 **_Kyle Van Noy_** can definitely be considered an elite pass rusher, given his consistently solid play over the course of the season. While his pass rushing numbers aren't as gaudy as one would expect, we have to keep in mind that Belichick defenses typically ask a great deal more from their pass rushers - Kyle Van Noy saw quite a bit of coverage work as well throughout the season.
 
-And really, if Van Noy is on this list despite the lack of spectacular statistics, then one could make a very strong argument for **_Dont'a Hightower_**.  
+And really, if Van Noy is on this list despite the lack of spectacular statistics, then one could make a very strong argument for **_Dont'a Hightower_**.  Hightower was actually more productive on a per-rush basis, tallying up at least 13 quarterback hits despite rushing only half as much as Van Noy.
+
+Somebody could make an argument for **_Jamie Collins_**, but I'll shy away from that, as it's quite clear Bill prefers to use Collins far more in coverage than as an actual pass rusher.
+
+Still, we have 2 elite pass rushers here and one man that can play like a stud pass rusher depending on the game plan. The Patriots are in good shape here.
 
 ***
 
