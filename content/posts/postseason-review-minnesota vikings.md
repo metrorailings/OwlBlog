@@ -37,7 +37,7 @@ No, even though Kirk Cousins has some gaudy numbers. Those numbers came more fro
 
 To be determined. As I discussed earlier when explaining why Kirk Cousins is not an elite quarterback, offensive coordinator Kevin Stefanski saw some remarkable success when he incorporated a bootleg concept in the offensive playbook, allowing Kirk Cousins to roll out to his left and air out some dimes.
 
-The fact that this team has been pretty productive despite not having an elite quarterback usually stands as proof that the main offensive coaches are doing a great job here, but I wonder if the Vikings' success comes more from talent than scheme. As I'll discuss later below when discussing offensive vectors, the Vikings have some of the best talent in the league.
+The fact that this team has been pretty productive despite not having an elite quarterback usually stands as proof that the main offensive coaches are doing a great job here, but I wonder if the Vikings' success comes more from talent and easy competition than it does from scheme. Not to mention Minnesota remains firmly committed to the outdated mentality of power running setting everything up.
 
 ***
 
@@ -73,5 +73,10 @@ Yes. Outside on one bad game early in the season, Dan Bailey has done well scori
 
 ### Does the defense feature at least one elite player in its backfield?
 
-Yes, Harrison Smith has made a name for himself as one of the best swiss-knife safeties in this league.  
- 
+Yes, Harrison Smith has made a name for himself as one of the best swiss-knife safeties in this league.
+
+***
+
+## Prognosis
+
+This team should be better given its roster. But an injury to a key receiver, a lack of resilience on the part of the offense, and offensive coaching
