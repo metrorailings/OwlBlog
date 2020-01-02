@@ -3,7 +3,7 @@ date = 2019-12-31T12:00:00Z
 headline = "Postseason Review - Buffalo Bills"
 
 +++
-The Buffalo Bills have fought their way into the playoffs for the second time under Sean McDermott. Now let's review them.
+The Buffalo Bills have fought their way into the playoffs for the second time under Sean McDermott. Now let's review them using the rubric defined [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric").
 
 ***
 
@@ -25,7 +25,6 @@ Yes, the team does feature a great defensive mind in Sean McDermott. This team h
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-  
 Unfortunately not. While most of the starters on offense have considerable playoff experience, this will be Josh Allen's first outing in the postseason. As a mediocre quarterback starting in the playoffs, things won't start well for these Bills.
 
 ***
@@ -68,7 +67,7 @@ No.
 
 ### Does the team feature a reliable field goal kicker?
 
-No. Stephen Hauschka has missed quite a few field goals this year from 50 yards and out. In fact, he missed 2 important field goals in the Bills 3-point loss to the Browns. A couple other missed field goals were attempted in end-half scenarios, creating doubts about whether he can be clutch should the Bills need a last-minute field goal to win.  
+No. Stephen Hauschka has missed quite a few field goals this year from 50 yards and out. In fact, he missed 2 important field goals in the Bills 3-point loss to the Browns. A couple other missed field goals were attempted in end-half scenarios, creating doubts about whether he can be clutch should the Bills need a last-minute field goal to win.
 
 ***
 
@@ -84,4 +83,4 @@ Micah Hyde is another candidate here.
 
 The Bills have a number of deficiencies, most notably at quarterback and kicker. The lack of playoff experience will hurt Buffalo as well in their first match against the Texans.
 
-Still, there's a possibility the Bills can pull off an upset against Houston in the Wild Card round. If so, their season will end in dismal fashion in Baltimore. 
+Still, there's a possibility the Bills can pull off an upset against Houston in the Wild Card round. If so, their season will end in dismal fashion in Baltimore.
