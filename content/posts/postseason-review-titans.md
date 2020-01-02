@@ -39,7 +39,7 @@ His skill players have done their fair share to lift this team's fortunes, sure,
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Yes. Arthur Smith has molded this offense into one of the better units in the league. Ryan Tannehill certainly helps bolsters his case, but it's more the gadget plays that justify his consideration here as a chess player. Smith has a package of misdirection plays that he usually invokes towards the end of the game to seal away wins. And these plays are remarkably effective as well, having actually won games for the Titans against serious competition.
+Yes. Arthur Smith has molded this offense into one of the better units in the league. Ryan Tannehill certainly helps bolsters his case, but it's more the gadget plays that justify his consideration here as a chess player. Smith has a package of misdirection and up-tempo plays that he usually invokes towards the end of the game to seal away wins. And these plays are remarkably effective as well, having actually won games for the Titans against serious competition.
 
 One can argue that his religious devotion to the run is a bit foolish given that rushing is not nearly as valuable as passing in today's NFL. Still, when you have quite possibly the league's most productive rushing attack, it's hard to blame him for committing so much time and energy to the ground game. 
 
@@ -47,4 +47,30 @@ One can argue that his religious devotion to the run is a bit foolish given that
 
 ### How many elite pass rushers are on this team?
 
-Arguably none. The only player worthy of consideration here is Harold Landry. 
+Arguably none. The only player worthy of consideration here is **_Harold Landry_**. Yet nowhere in my notes have I taken notice of Landry. His raw pass-rush numbers are unimpressive as well compared to other players in the same position. If he is to be classified as an elite pass rusher, it would be more so off the back of his strong run defense. But that wouldn't make sense, because we're looking first and foremost for pass rushers here.
+
+***
+
+### How many different vectors does the team feature on offense?
+
+**_AJ Brown_** and **_Derrick Henry_** deserve vector status, without question. The former will be the offensive rookie of the year and the latter is the rushing champion of the league.
+
+Other than that, it is hard to find a third vector for this team. **_Jonnu Smith_**, **_Adam Humphries_**, **_Corey Davis,_** and **_Tajae Sharpe,_** but no one of them has really stood out among the rest. Jonnu Smith has the strongest case, given his yardage, his targets, and his position as a tight end.
+
+***
+
+### Is the team currently playing with home field advantage?
+
+No.
+
+***
+
+### Does the team feature a reliable field goal kicker?
+
+Honestly, the team's been a mess this entire season when it comes to field goals. The Titans started a new kicker two weeks ago in Greg Joseph. It remains to be seen whether Joseph can actually deliver, as he hasn't attempted a single field goal this season. His record in Cleveland is all right though, so he holds some promise.
+
+***
+
+### Does the defense feature at least one elite player in its backfield?
+
+I would lean no here. Kevin Byard is the only defensive back from that bunch giving me pause here.
