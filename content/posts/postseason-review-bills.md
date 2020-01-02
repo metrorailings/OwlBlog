@@ -13,6 +13,8 @@ Yes, the team is mentally tough. They've done enough to demonstrate a will to fi
 
 Even against tough opponents, the Bills have played well too. Baltimore and New England had to scratch and claw their way to wins over this Buffalo squad.
 
+The only knock on this team and their defense is their wretched tackling. The Bills have some serious issues stopping players upon first contact.
+
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
