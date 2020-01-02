@@ -77,3 +77,11 @@ No. Stephen Hauschka has missed quite a few field goals this year from 50 yards 
 Tre' Davious White. One of the best cornerbacks in the game. Enough said.
 
 Micah Hyde is another candidate here.
+
+***
+
+## PROGNOSIS
+
+The Bills have a number of deficiencies, most notably at quarterback and kicker. The lack of playoff experience will hurt Buffalo as well in their first match against the Texans.
+
+Still, there's a possibility the Bills can pull off an upset against Houston in the Wild Card round. If so, their season will end in dismal fashion in Baltimore. 
