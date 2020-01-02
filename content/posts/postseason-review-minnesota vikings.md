@@ -79,4 +79,4 @@ Yes, Harrison Smith has made a name for himself as one of the best swiss-knife s
 
 ## Prognosis
 
-This team should be better given its roster. But an injury to a key receiver, a lack of resilience on the part of the offense, and offensive coaching
+This team should be better given its roster. But an injury to a key receiver, a lack of resilience on the part of the offense, iffy offensive coaching, a pedestrian quarterback, and complete lack of home field advantage will doom this team in their first match against the Saints.
