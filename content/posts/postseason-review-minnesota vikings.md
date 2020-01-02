@@ -51,7 +51,7 @@ The only pass rusher I can wholeheartedly define as elite is **_Danielle Hunter_
 
 ### How many different vectors does the team feature on offense?
 
-I can only confirm two vectors here - **_Dalvin Cook_** and **_Stefon Diggs_**. The former remains one of the best tailbacks in this league given his penchant for manufacturing yards despite some poor run blocking from his offensive lineman. Stefon Diggs remains one of the best receiving threats in the league, having posted 2.69 yards per route run, according to Pro Football Focus. 
+I can only confirm two vectors here - **_Dalvin Cook_** and **_Stefon Diggs_**. The former remains one of the best tailbacks in this league given his penchant for manufacturing yards despite some poor run blocking from his offensive lineman. Stefon Diggs remains one of the best receiving threats in the league, having posted 2.69 yards per route run, according to Pro Football Focus.
 
 It seems unfair not to include **_Adam Thielan_** on this list, but his production has plummeted off a click the past several weeks. It remains to be seen whether his injuries continuing plaguing him in the postseason.
 
@@ -77,6 +77,6 @@ Yes, Harrison Smith has made a name for himself as one of the best swiss-knife s
 
 ***
 
-## Prognosis
+## PROGNOSIS
 
 This team should be better given its roster. But an injury to a key receiver, a lack of resilience on the part of the offense, iffy offensive coaching, a pedestrian quarterback, and complete lack of home field advantage will doom this team in their first match against the Saints.
