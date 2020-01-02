@@ -74,3 +74,9 @@ Honestly, the team's been a mess this entire season when it comes to field goals
 ### Does the defense feature at least one elite player in its backfield?
 
 I would lean no here. Kevin Byard is the only defensive back from that bunch giving me pause here.
+
+***
+
+## PROGNOSIS
+
+An elite quarterback and a good offensive mind aren't enough to win consistently in these playoffs, let alone against the best coached team in the league in the Patriots. I expect an early death for these Titans in the Wild Card round.
