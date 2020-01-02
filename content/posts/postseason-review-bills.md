@@ -38,7 +38,17 @@ No. I would even struggle to say they're led by a viable quarterback. In reality
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-To be determined. Brian Daboll has gotten some productivity out of this offense thanks to his usage of short routes, power runs behind Devin Singletary, Josh Allen's mobility, and good usage of mid-level veterans like John Brown and Cole Beasley. But it's incredibly difficult separating the logic and philosophy driving this offense from Josh Allen's painful throwing.
+To be determined. Brian Daboll has gotten some productivity out of this offense thanks to his usage of short routes, power runs behind Devin Singletary, Josh Allen's mobility, and good usage of mid-level veterans like John Brown and Cole Beasley. But it's difficult separating the logic and philosophy driving this offense from Josh Allen's painful throwing.
+
+It seems that when this season started, the Bills were intent on having Josh Allen work with smaller receivers that could run more complicated routes. And it paid off. So if anything, that's an argument that demonstrates the intelligence of the coaching staff here.
+
+***
+
+### How many elite pass rushers are on this team?
+
+At least one. I can count **_Shaq Lawson_** as an elite pass rusher here. Though not league-leading in any respect, the man still makes plays here and there, even if the numbers don't necessarily vouch for his ability.
+
+**_Jerry Hughes_** is another possibility, given the Patriots seemed intent on doubling him at the line of scrimmage. But that might have been more circumstance than actual strategy on the part of New England.
 
 ***
 
@@ -46,4 +56,24 @@ To be determined. Brian Daboll has gotten some productivity out of this offense 
 
 The Bills hit the magic number of 3 here. I can confirm **_John Brown_**, **_Devin Singletary_**, and **_Josh Allen_** as veritable vectors. John Brown is undoubtedly the team's best receiver and the receiver Josh Allen favors most, going by targets. With 2 yards per route run, Brown has validated the team's belief in him. Devin Singletary, meanwhile, has been a great halfback, posting over 5 yards on average with every rush. And Josh Allen is on this list given his mobility - while his passing is suspect, his athleticism and his long runs are truly an asset to the offense.
 
-**_Cole Beasley_** falls outside this bucket here given that his production hasn't quite cemented him as a cornerstone on this offense. He's come up big in spot moments, so it was a little difficult crossing his name off here, but production and dependence matters here when assessing potential vectors.   
+**_Cole Beasley_** falls outside this bucket here given that his production hasn't quite cemented him as a cornerstone on this offense. He's come up big in spot moments, so it was a little difficult crossing his name off here, but production and dependence matters here when assessing potential vectors.
+
+***
+
+### Is the team currently playing with home field advantage?
+
+No.
+
+***
+
+### Does the team feature a reliable field goal kicker?
+
+No. Stephen Hauschka has missed quite a few field goals this year from 50 yards and out. In fact, he missed 2 important field goals in the Bills 3-point loss to the Browns. A couple other missed field goals were attempted in end-half scenarios, creating doubts about whether he can be clutch should the Bills need a last-minute field goal to win.  
+
+***
+
+### Does the defense feature at least one elite player in its backfield?
+
+Tre' Davious White. One of the best cornerbacks in the game. Enough said.
+
+Micah Hyde is another candidate here.
