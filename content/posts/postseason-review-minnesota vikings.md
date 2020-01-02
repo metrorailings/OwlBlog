@@ -43,14 +43,35 @@ The fact that this team has been pretty productive despite not having an elite q
 
 ### How many elite pass rushers are on this team?
 
+_Danielle Hunter (DE)_
+
 The only pass rusher I can wholeheartedly define as elite is **_Danielle Hunter_**. I've seen him step up in big moments and he has the pressure numbers and tackle numbers to justify his inclusion. **_Everson Griffen_** has those numbers as well. But it's different. I have yet to see Griffin truly step up and make plays on a consistent basis. I'll list him here simply as a possible elite pass rusher.
 
 ***
 
 ### How many different vectors does the team feature on offense?
 
-**_Dalvin Cook (RB)_**
+I can only confirm two vectors here - **_Dalvin Cook_** and **_Stefon Diggs_**. The former remains one of the best tailbacks in this league given his penchant for manufacturing yards despite some poor run blocking from his offensive lineman. Stefon Diggs remains one of the best receiving threats in the league, having posted 2.69 yards per route run, according to Pro Football Focus. 
 
-**_Stefon Diggs (X Receiver)_**
+It seems unfair not to include **_Adam Thielan_** on this list, but his production has plummeted off a click the past several weeks. It remains to be seen whether his injuries continuing plaguing him in the postseason.
 
-**_Adam Thielan (Y Receiver)_**  
+Nobody else really qualifies to be on this list, which is a little worrisome. Having only two reliable vectors can leave this offense short-changed against well-coached defenses.
+
+***
+
+### Is the team currently playing with home field advantage?
+
+No.
+
+***
+
+### Does the team feature a reliable field goal kicker?
+
+Yes. Outside on one bad game early in the season, Dan Bailey has done well scoring field goals and extra points for his Vikings.
+
+***
+
+### Does the defense feature at least one elite player in its backfield?
+
+Yes, Harrison Smith has made a name for himself as one of the best swiss-knife safeties in this league.  
+ 
