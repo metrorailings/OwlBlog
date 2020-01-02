@@ -6,3 +6,7 @@ headline = "Postseason Review - Tennessee Titans"
 A resurgent Titans squad led by Ryan Tannehill has clawed their way into the playoffs. Let's look at their playoff prospects using the rubric outlined [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric").
 
 ***
+
+### Is the team mentally tough?
+
+Yes.
