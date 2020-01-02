@@ -19,7 +19,7 @@ Their goal-line stand against the Chargers in Tannehill's first game as a starte
 
 Hard to say, but I'd lean towards no. I respect Mike Vrabel and Dean Pees and the work they've done in their past stints. But it's clear that this Tennessee defense has holes at all three levels. Would things would be worse or better if an average set of coaches were managing the defense? I can't answer for sure.
 
-That being said, this defense has done well enough from a scoring perspective over the past several weeks. Not that scoring defense tells the full story anyway, but it is a feather in their cap nonetheless.
+If there's one example I can use that makes me doubt the minds behind this defense, it was their loose coverage of Michael Thomas a couple weeks ago when the Saints came to town. Being that Thomas is playing at an unreal level right now, one would think it'd be wise to bracket him or pay extra attention to him when you execute zone blitzes against Drew Brees. The Titans did neither. 
 
 ***
 
@@ -44,3 +44,7 @@ Yes. Arthur Smith has molded this offense into one of the better units in the le
 One can argue that his religious devotion to the run is a bit foolish given that rushing is not nearly as valuable as passing in today's NFL. Still, when you have quite possibly the league's most productive rushing attack, it's hard to blame him for committing so much time and energy to the ground game. 
 
 ***
+
+### How many elite pass rushers are on this team?
+
+Arguably none. The only player worthy of consideration here is Harold Landry. 
