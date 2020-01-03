@@ -13,6 +13,8 @@ One would think so going solely off history. But in reality, this team shouldn't
 
 I'm not sure anymore. The Patriots have lost three of their last five games. Two of those losses came back-to-back. The will to win is there, but the talent and execution is not. Brady, McDaniels, and Belichick have known about this team's offensive issues since the beginning of the season and yet, these three seem almost powerless to overcome their woes.
 
+Still, mental toughness is usually a function of the head coach, and it's impossible for me to doubt Bill Belichick given his pedigree. So I'll give the Patriots the benefit of the doubt here.
+
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
@@ -33,13 +35,13 @@ Yet another question difficult to answer. Brady has underthrown quite a few pass
 
 But the mind is still there. The raw football intelligence is still there. It's a quality that never truly leaves the greats, that genius level of knowledge about a particular subject that renders itself indelibly into the recesses of the minds of the greats.
 
-Still...the very fact I have doubt here is enough for me to say no, Brady is no longer an elite quarterback. 
+Still...the very fact I have doubt here is enough for me to say no, Brady is no longer an elite quarterback.
 
 ***
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Yes. Josh McDaniels is one of the better offensive minds in the league today. The Patriots have made hay using scheming and trick plays to put points on the board. Were it not for these plays being so cleverly scripted into the flow of the game, New England's offense would be abysmal instead of just miserable.  
+Yes. Josh McDaniels is one of the better offensive minds in the league today. The Patriots have made hay using scheming and trick plays to put points on the board. Were it not for these plays being so cleverly scripted into the flow of the game, New England's offense would be abysmal instead of just miserable.
 
 ***
 
