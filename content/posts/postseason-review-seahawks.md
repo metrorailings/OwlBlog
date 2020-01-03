@@ -3,7 +3,7 @@ date = 2020-01-03T12:00:00Z
 headline = "Postseason Review - Seattle Seahawks"
 
 +++
-The Patriots are seeing Wild Card weekend for the first time in over ten years, shockingly. So let's examine their prospects using my trusty old rubric [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric").
+The Seahawks are returning to the playoffs once again as a wild card team. Let's see if their fortunes will be better this year using my lovely little rubric [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric").
 
 ***
 
