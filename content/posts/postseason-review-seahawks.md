@@ -9,6 +9,8 @@ The Seahawks are returning to the playoffs once again as a wild card team. Let's
 
 ### Is the team mentally tough?
 
+Yes
+
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
