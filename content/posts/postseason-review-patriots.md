@@ -51,23 +51,35 @@ And really, if Van Noy is on this list despite the lack of spectacular statistic
 
 Somebody could make an argument for **_Jamie Collins_**, but I'll shy away from that, as it's quite clear Bill prefers to use Collins far more in coverage than as an actual pass rusher.
 
-Still, we have 2 elite pass rushers here and one man that can play like a stud pass rusher depending on the game plan. The Patriots are in good shape here.
+Still, we have two confirmed elite pass rushers and one man that can play like a stud rusher depending on the game plan. The Patriots are in good shape here.
 
 ***
 
 ### How many different vectors does the team feature on offense?
 
+On the other hand, the Patriots are not in so good a shape here. **_Julian Edelman_** is clearly a vector given the trust Brady has vested in him, but Edelman's inclusion as a vector is only valid so long as he remains healthy _enough_ over the course of the postseason. Injuries have hammered him repeatedly through the season and it seems as if things will be no different for the playoffs.
+
+**_James White_** is the only other player that I can confidently assert as a vector here, given his ability to catch balls out of the backfield.
+
+I have a hard time considering **_Sony "Playstation" Michel_** and **_Rex Burkhead_** a vector here as the Patriots offensive line have been pretty flaccid in their run-blocking. It's worth noting that the Patriots have been much better running the ball the past three weeks, so we can't rule out the ground game as a possible vector.
+
 ***
 
 ### Is the team currently playing with home field advantage?
+
+Yes, but only in the Wild Card round.
 
 ***
 
 ### Does the team feature a reliable field goal kicker?
 
+Surprisingly, yes. Despite their struggles over the season with kicking field goals, it seems the Patriots finally found somebody that can kick field goals consistently. Folk only missed three field goals all year, two in inclement weather and one that was blocked when the Patriots line broke down inside.
+
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
+
+Stephon Gilmore. One could also include Devin McCourty and his five interceptions as well.
 
 ***
 
