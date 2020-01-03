@@ -9,15 +9,25 @@ The Seahawks are returning to the playoffs once again as a wild card team. Let's
 
 ### Is the team mentally tough?
 
-Yes
+Yes. Once again returning to this idea that mental fortitude is primarily a function of the head coach, I'd be remiss to doubt Pete Carroll and the attitude that he instills in his team.
+
+Granted, the team has fallen short on a few occasions or even nearly coughed up the lead in other games, but the Hawks still have that resilience, probably best exemplified by their near-successful comeback against the 49ers in the season finale, despite being so utterly outplayed and out-coached.
 
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
+Unfortunately, no. Even though Carroll once led the Legion of Boom early in the decade, his grasp on defensive concepts seems to have slipped over the years. 
+
+The Seahawks have coughed up nearly 6000 yards on defense this year. They've won games sloppily against teams that ate up yardage against their defense. Matt Schaub managed to post 460 yards against their defense, albeit in a futile effort as the game was out of hand.
+
+People can argue that Carroll's defenses are more than happy to give up yardage when the Seahawks are blowing out the other team on the scoreboard. Sure, but the Seahawks back in their Legion of Boom days were infamously stingy, even with big leads.
+
 ***
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
+
+Yes
 
 ***
 
