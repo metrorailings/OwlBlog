@@ -67,11 +67,13 @@ Yes, but only during the Wild Card round, most likely.
 
 ### Does the team feature a reliable field goal kicker?
 
-Yes. Will Lutz has been solid this year outside of one bad game against the Bears. 
+Yes. Will Lutz has been solid this year outside of one bad game against the Bears. I'm not sure if the Soldier Field turf played a role in that game though...
 
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
+
+Yes, Marshon Lattimore.
 
 ***
 
