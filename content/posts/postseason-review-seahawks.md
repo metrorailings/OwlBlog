@@ -17,7 +17,7 @@ Granted, the team has fallen short on a few occasions or even nearly coughed up 
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-Unfortunately, no. Even though Carroll once led the Legion of Boom early in the decade, his grasp on defensive concepts seems to have slipped over the years. 
+Unfortunately, no. Even though Carroll once led the Legion of Boom early in the decade, his grasp on defensive concepts seems to have slipped over the years.
 
 The Seahawks have coughed up nearly 6000 yards on defense this year. They've won games sloppily against teams that ate up yardage against their defense. Matt Schaub managed to post 460 yards against their defense, albeit in a futile effort as the game was out of hand.
 
@@ -39,7 +39,7 @@ Yes. Russell Wilson was in the conversation for MVP before Lamar Jackson really 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Once again, no. The offense can be unbearably flaccid at times and all too content playing some uninspiring football with the lead in hand. Brian Schottenheimer has done little to field an efficient and creative offense, despite having one of the best quarterbacks in the game heading his offense. Even in their pivotal game against the 49ers, the Seahawks were gutless on offense until the game was essentially forced into Russell Wilson's hands. 
+Once again, no. The offense can be unbearably flaccid at times and all too content playing some uninspiring football with the lead in hand. Brian Schottenheimer has done little to field an efficient and creative offense, despite having one of the best quarterbacks in the game heading his offense. Even in their pivotal game against the 49ers, the Seahawks were gutless on offense until the game was essentially forced into Russell Wilson's hands.
 
 ***
 
