@@ -23,7 +23,7 @@ I'll say yes here though, going off Bill O'Brien's past history.
 
 I'd argue yes. Romeo Crennel's willingness to experiment with the blitz and incorporate cast-offs into his defensive backfield says something about his drive to make this defense better. The defense also had a few stellar games this year, most notably against the Patriots in a big prime-time spot and the Jaguars over in London.
 
-One thing does give me pause here - the way the defense has choked away yardage this year compared to years past. It's just not the same defense - this team has been too happy to give up yardage at times. Then again, maybe Houston can't help itself in this area given the impotence of the pass rush following JJ Watt's chest injury.
+One thing does give me pause here - the way the defense has choked away yardage this year compared to years past. It's just not the same defense - this team has been too happy giving up yardage. Then again, maybe Houston can't help itself in this area given the impotence of the pass rush following JJ Watt's chest injury.
 
 Either way, I'll give the benefit of the doubt to Romeo Crennel once again going off history.
 
