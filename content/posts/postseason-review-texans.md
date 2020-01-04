@@ -41,13 +41,21 @@ Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
+No.
+
 ***
 
 ### How many elite pass rushers are on this team?
 
+Only one - **_JJ Watt_**. As Rivers McCown has noted time and time again in his articles about the Texans this year, nobody else on Houston has adequately stepped up as a dominant pass rusher. Jacob Martin and Whitney Mercilus have shown flashes of brilliance, but neither have been consistent.
+
 ***
 
 ### How many different vectors does the team feature on offense?
+
+The Texans feature a number of different vectors. Their top receiver is **_DeAndre Hopkins_**. His AP All-Pro designation this year speaks for itself. **_Will Fuller_** also counts as a vector, given his role as the team's main deep threat. Even though Fuller is a basket case when it comes to injury, his presence on offense makes a serious difference - statistical downturns have been documented when Fuller is missing in action. Even though Fuller will be sidelined for the Wild Card game, I'm still counting him as a vector as he may be a factor in the games going forward.
+
+When it comes to the ground game, the Texans are pretty productive with the combo of **_Carlos Hyde_** and **_Duke Johnson_**. Duke Johnson provides more versatility in the passing game whereas Carlos Hyde has been a workhorse, rushing the ball for over 1000 yards on 245 rushes.  And we can't forget about **_Deshaun Watson_** and his ability to scramble as well. In fact, the success of their ground game can be partly traced to teams having to honor Watson's ability to run with the ball.
 
 ***
 
