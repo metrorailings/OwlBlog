@@ -37,7 +37,7 @@ No. I would even struggle to say they're led by a viable quarterback. In reality
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-To be determined. Brian Daboll has gotten some productivity out of this offense thanks to his usage of short routes, power runs behind Devin Singletary, Josh Allen's mobility, and good usage of mid-level veterans like John Brown and Cole Beasley. But it's difficult separating the logic and philosophy driving this offense from Josh Allen's painful throwing.
+To be determined. Brian Daboll has gotten some productivity out of this offense thanks to his usage of short routes, power runs behind Devin Singletary, Josh Allen's mobility, and good usage of mid-level veterans like John Brown and Cole Beasley. But it's difficult separating the logic and philosophy driving this offense from Josh Allen's painful throws.
 
 It seems that when this season started, the Bills were intent on having Josh Allen work with smaller receivers that could run more complicated routes. And it paid off. So if anything, that's an argument that demonstrates the intelligence of the coaching staff here.
 
@@ -45,7 +45,7 @@ It seems that when this season started, the Bills were intent on having Josh All
 
 ### How many elite pass rushers are on this team?
 
-At least one. I can count **_Shaq Lawson_** as an elite pass rusher here. Though not league-leading in any respect, the man still makes plays here and there, even if the numbers don't necessarily vouch for his ability.
+At least one. I can count **_Shaq Lawson_** as an elite pass rusher here. Though not league-leading in any respect, the man still makes plays on a regular basis, even if the numbers don't necessarily vouch for his ability.
 
 **_Jerry Hughes_** is another possibility, given the Patriots seemed intent on doubling him at the line of scrimmage. But that might have been more circumstance than actual strategy on the part of New England.
 
