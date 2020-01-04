@@ -9,11 +9,11 @@ The Buffalo Bills have fought their way into the playoffs for the second time un
 
 ### Is the team mentally tough?
 
-Yes, the team is mentally tough. They've done enough to demonstrate a will to fight, winning almost all the games they're supposed to win. Their defense has hung in their in tough moments, defending leads against last-minute comeback attempts.
+Yes, the team is mentally tough. They've done enough to demonstrate a will to fight, winning almost all the games they're supposed to win. Their defense has hung in there in arduous moments, defending leads against last-minute comeback attempts.
 
 Even against tough opponents, the Bills have played well too. Baltimore and New England had to scratch and claw their way to wins over this Buffalo squad.
 
-The only knock on this team and their defense is their wretched tackling. The Bills have some serious issues stopping players upon first contact.
+The only knock on this team and their defense is their halfhearted tackling. The Bills have some serious issues stopping players upon first contact.
 
 ***
 
@@ -25,7 +25,7 @@ Yes, the team does feature a great defensive mind in Sean McDermott. This team h
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-Unfortunately not. While most of the starters on offense have considerable playoff experience, this will be Josh Allen's first outing in the postseason. As a mediocre quarterback starting in the playoffs, things won't start well for these Bills.
+Unfortunately not. While most of the starters on offense have considerable playoff experience, this will be Josh Allen's first outing in the postseason. As a mediocre quarterback starting in the playoffs, things won't begin well for these Bills.
 
 ***
 
