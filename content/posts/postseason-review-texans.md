@@ -80,3 +80,5 @@ No. No one defensive back on this team has stood out in my observations on this 
 ***
 
 ## PROGNOSIS
+
+While a win over the Bills seems likely, their road to the playoffs ends in Baltimore.
