@@ -17,9 +17,9 @@ Their goal-line stand against the Chargers in Tannehill's first game as a starte
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-Hard to say, but I'd lean towards no. I respect Mike Vrabel and Dean Pees and the work they've done in their past stints. But it's clear that this Tennessee defense has holes at all three levels. Would things be worse or better if an average set of coaches were managing the defense? I can't answer for sure.
+Hard to say, but I'd lean towards no. I respect Mike Vrabel and Dean Pees and the work they've done in their past stints. But it's clear that this Tennessee defense has holes at all three levels. Would things be worse or better if a set of certifiably pedestrian coaches were managing this defense? I can't answer for sure.
 
-If there's one example I can use that makes me doubt the minds behind this defense, it was their loose coverage of Michael Thomas a couple weeks ago when the Saints came to town. Being that Thomas is playing at an unreal level right now, one would think it'd be wise to bracket him or pay extra attention to him when you execute zone blitzes against Drew Brees. The Titans did neither.
+If there's one example I can use that makes me doubt the minds behind this defense, it was their loose coverage of Michael Thomas a couple weeks ago when the Saints came into town. Being that Thomas is playing at an unreal level right now, one would think it'd be wise to bracket him or pay extra attention to him when you execute zone blitzes against Drew Brees. The Titans did neither.
 
 ***
 
