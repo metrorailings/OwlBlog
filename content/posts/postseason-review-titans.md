@@ -31,7 +31,7 @@ A good number of the players on the offense have playoff experience, but unfortu
 
 ### Is the offense led by an elite quarterback?
 
-Yes, actually. I dare say Tannehill is an elite quarterback. Maybe it's the air in Nashville or the moonshine from the Tennessee backwoods, but Tannehill has found new life under Mike Vrabel and his coaching staff. It's not just the fact that his completion percentage has soared past expectations more than anybody else in the league, according to Next Gen Stats. It's his toughness. I've seen him get his ass kicked in the game against the Colts and yet, the man still stood in the pocket and make big-time throws.
+Yes, actually. I dare say Tannehill is an elite quarterback. Maybe it's the air in Nashville or the moonshine from the Tennessee backwoods, but Tannehill has found new life under Mike Vrabel and his coaching staff. It's not just the fact that his completion percentage has soared past expectations more than anybody else in the league, according to Next Gen Stats. It's his toughness. I've seen him get his ass kicked in the game against the Colts and yet, the man still stood in the pocket, making big-time throws.
 
 His skill players have done their fair share to lift this team's fortunes, sure, but it wasn't until Ryan Tannehill was inserted into the lineup as a starter that the offense began realizing its full potential. And that's usually the hallmark of an elite quarterback - being able to lift the play of all his fellow players by his presence alone
 
