@@ -55,7 +55,7 @@ Arguably none. The only player worthy of consideration here is **_Harold Landry_
 
 **_AJ Brown_** and **_Derrick Henry_** deserve vector status, without question. The former will be the offensive rookie of the year and the latter is the rushing champion of the league.
 
-Other than that, it is hard to find a third vector for this team. **_Jonnu Smith_**, **_Adam Humphries_**, **_Corey Davis,_** and **_Tajae Sharpe,_** but no one of them has really stood out among the rest. Jonnu Smith has the strongest case, given his yardage, his targets, and his position as a tight end.
+Other than that, it is hard to find a third vector for this team. Jonnu Smith, Adam Humphries, Corey Davis, and Tajae Sharpe are all eligible candidates**_,_** but not one of them has really stood out among the rest. Jonnu Smith has the strongest case out of the group, given his yardage, his targets, and his position as a tight end.
 
 ***
 
