@@ -41,7 +41,7 @@ Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-No.
+No. I see Bill O'Brien has an appetite for experimentation, but his blind devotion to inside zone runs and his conservatism on clock management and fourth downs baffles me at times.
 
 ***
 
@@ -61,13 +61,21 @@ When it comes to the ground game, the Texans are pretty productive with the comb
 
 ### Is the team currently playing with home field advantage?
 
+Yes, but only in the Wild Card round.
+
 ***
 
 ### Does the team feature a reliable field goal kicker?
 
+Not sure. Ka'imi Fairbairn seems given to streaks. Not to mention his misses tend to come on the road, which may be an indictment on his composure. He's been absolutely perfect the last six weeks though (two of which were on the road), so he's on the right track. 
+
+I'll give the Texans the benefit of the doubt here.
+
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
+
+No. No one defensive back on this team has stood out in my observations on this team. 
 
 ***
 
