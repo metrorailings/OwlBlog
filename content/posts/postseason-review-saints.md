@@ -67,7 +67,7 @@ Yes, but only during the Wild Card round, most likely.
 
 ### Does the team feature a reliable field goal kicker?
 
-Yes, 
+Yes. Will Lutz has been solid this year outside of one bad game against the Bears. 
 
 ***
 
