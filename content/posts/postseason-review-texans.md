@@ -35,7 +35,7 @@ Yes, they do.
 
 ### Is the offense led by an elite quarterback?
 
-Without a doubt. Aside from Lamar Jackson, Deshaun Watson has been the most electric quarterback this season, especially 
+Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric quarterback this season. The Texans are never out of contention so long as Watson is leading this offense.
 
 ***
 
