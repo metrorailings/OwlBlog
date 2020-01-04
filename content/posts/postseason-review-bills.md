@@ -53,9 +53,9 @@ At least one. I can count **_Shaq Lawson_** as an elite pass rusher here. Though
 
 ### How many different vectors does the team feature on offense?
 
-The Bills hit the magic number of 3 here. I can confirm **_John Brown_**, **_Devin Singletary_**, and **_Josh Allen_** as veritable vectors. John Brown is undoubtedly the team's best receiver and the receiver Josh Allen favors most, going by targets. With 2 yards per route run, Brown has validated the team's belief in him. Devin Singletary, meanwhile, has been a great halfback, posting over 5 yards on average with every rush. And Josh Allen is on this list given his mobility - while his passing is suspect, his athleticism and his long runs are truly an asset to the offense.
+The Bills hit the magic number of 3 here. I can confirm **_John Brown_**, **_Devin Singletary_**, and **_Josh Allen_** as guaranteed vectors. John Brown is undoubtedly the team's best receiver and the receiver Josh Allen favors most, going by targets. With two yards per route run, Brown has validated the team's belief in him. Devin Singletary, meanwhile, has been a great halfback, posting over five yards on average rushing the ball. And Josh Allen is on this list given his mobility - while his passing is suspect, his athleticism and his long runs are truly an asset to this offense.
 
-**_Cole Beasley_** falls outside this bucket here given that his production hasn't quite cemented him as a cornerstone on this offense. He's come up big in spot moments, so it was a little difficult crossing his name off here, but production and dependence matters here when assessing potential vectors.
+**_Cole Beasley_** falls outside this bucket here given that his production hasn't quite cemented him as a cornerstone on this offense. He's come up big in spot moments, so it was a little difficult crossing his name off here, but production and dependence matters when assessing potential vectors.
 
 ***
 
@@ -67,7 +67,7 @@ No.
 
 ### Does the team feature a reliable field goal kicker?
 
-No. Stephen Hauschka has missed quite a few field goals this year from 50 yards and out. In fact, he missed 2 important field goals in the Bills 3-point loss to the Browns. A couple other missed field goals were attempted in end-half scenarios, creating doubts about whether he can be clutch should the Bills need a last-minute field goal to win.
+No. Stephen Hauschka has missed quite a few field goals this year from 50 yards and out. In fact, he missed two important field goals in the Bills 3-point loss to the Browns. A couple other missed field goals were attempted in end-half scenarios, creating doubts about whether he can be clutch should the Bills need a last-minute field goal to win.
 
 ***
 
