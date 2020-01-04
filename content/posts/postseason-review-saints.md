@@ -9,7 +9,7 @@ The Saints oddly only the 3rd seed in the NFC due to some unfortunate luck when 
 
 ### Is the team mentally tough?
 
-No doubt. Winning five straight games without Drew Brees alone proves the team can handle hardship. Their comeback win against a surging Titans team in Tennessee is another fine example that exemplifies this team's mental fortitude. 
+No doubt. Winning five straight games without Drew Brees alone proves the team can handle hardship. Their comeback win against a surging Titans team in Tennessee is another fine example that exemplifies this team's mental fortitude.
 
 ***
 
@@ -21,7 +21,7 @@ Yes. Dennis Allen's tenure as the Saints defensive coach has been largely succes
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-Yes, these Saints have become fixtures in the playoffs, going three years now with postseason outings. 
+Yes, these Saints have become fixtures in the playoffs, going three years now with postseason outings.
 
 ***
 
@@ -39,42 +39,36 @@ Yes. Sean Payton's a fantastic coach and an even better offensive mind. His abil
 
 ### How many elite pass rushers are on this team?
 
-I honestly don't know. We have three eligible candidates here - **_Derek Barnett_**, **_Fletcher Cox_**, and **_Brandon Graham_**. Neither one have truly stood out consistently enough from my observations. In the key rematch against the Dallas Cowboys, neither of the three were able to mount much pressure, though Derek Barnett may have been playing hurt. Against the Giants in the last week of the regular season, all three had a moment, but I didn't see enough consistency.
+**_Cameron Jordan_** can safely be considered an elite pass rusher, given his numbers alone and consistency in production.
 
-Their numbers aren't very impressive as well, though it may be more
+While Marcus Davenport, the Saints other starting edge rusher, has been relegated to injured reserve for the season, New Orleans might actually have another man that can step up and pressure the passer on a consistent basis - **_Demario Davis_**. Even though Davis has been limited in the number of times he's allowed to rush into the offensive backfield, he's been surprisingly efficient when doing so as of lately. Over the past six weeks, he's tallied up six hits on opposing quarterbacks over 73 rushes. Not too shabby for a middle linebacker.
 
 ***
 
 ### How many different vectors does the team feature on offense?
 
-The Eagles actually have five different vectors on offense.
+The Saints have at least four different vectors on offense.
 
-The most important vectors are the tight ends - **_Zach Ertz_** and  **_Dallas Goedert_**. Both have the ability to run routes and make tough catches. And Carson Wentz seems to have an affinity for his tight ends, given his targeting numbers.
+The most important one is is **_Michael Thomas_**, who earned his billing as the best wide receiver in the NFL this season. 
 
-On the receiver end, we have **_Greg Ward_** as a surprise breakout star now that the offense can no longer count on the services of Alshon Jeffery nor DeSean Jackson. On the rushing end, **_Miles Sanders_** has done a fantastic job as a rookie tailback, working in concert with a solid offensive line. His ability to catch the balls out of the backfield also serves this team well.
+**_Alvin Kamara_** has still been playing at a high level, even if his numbers are not as impressive as in years past.
 
-One more vector here is **_Carson Wentz_**. Though his passing may be shaky at times, his ability to scramble can sustain drives when plays don't develop as expected.
+The Saints' investment in **_Jared Cook_** this offseason has paid off in spades, as Drew Brees has found himself a tight end that can run routes along the middle of the field and make tough catches when necessary.
+
+Lastly, **_Taysom Hill_** continues to serve the team well as a utility player who can run all sorts of plays from the quarterback position given his athleticism. 
 
 ***
 
 ### Is the team currently playing with home field advantage?
 
-Yes, but only in the Wild Card round.
-
 ***
 
 ### Does the team feature a reliable field goal kicker?
-
-No. Jake Elliott has not been so clutch over the past several weeks, missing four field goals, three of which would have helped to end the game sooner in the Eagles favor.
 
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
 
-Malcolm Jenkins definitely ranks as an elite player.
-
 ***
 
 ## PROGNOSIS
-
-The Eagles have their fair share of strengths and weaknesses. If Carson Wentz can play past his inexperience and connect well with his weapons on offense, a division round invitation is in order. And while the Eagles will not be the favorite up against the 49ers, I do believe they'll give San Francisco a run for their money.
