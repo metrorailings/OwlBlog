@@ -27,27 +27,41 @@ People can argue that Carroll's defenses are more than happy to give up yardage 
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-Yes
+Yes. With the exception of a few rookies, most of the Seahawks have considerable playoff experience, including Russell Wilson.
 
 ***
 
 ### Is the offense led by an elite quarterback?
 
+Yes. Russell Wilson was in the conversation for MVP before Lamar Jackson really broke out as the favorite. Still, he's put in some remarkable performances, including a nearly legendary comeback against the 49ers that fell short due to bad coaching.
+
 ***
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
+
+Once again, no. The offense can be unbearably flaccid at times and all too content playing some uninspiring football with the lead in hand. Brian Schottenheimer has done little to field an efficient and creative offense, despite having one of the best quarterbacks in the game heading his offense. Even in their pivotal game against the 49ers, the Seahawks were gutless on offense until the game was essentially forced into Russell Wilson's hands. 
 
 ***
 
 ### How many elite pass rushers are on this team?
 
+None. Jadaveon Clowney may be the one person on this team closest to being considered elite, but his boom-or-bust production over the course of the season only invalidates such a consideration - an elite pass rusher needs to rack up pressures and tackles and be **_consistent_** at it.
+
+Nobody else even comes close.
+
 ***
 
 ### How many different vectors does the team feature on offense?
 
+**_Tyler Lockett_** and **_D.K. Metcalf_** are the only skill players that can be safely considered reliable vectors on offense, the former known for his speed and route-running ability while the latter is known more as a receiver that can make those contested catches outside the number. Chris Carson would have been on this list had his season not ended due to a hip injury.
+
+**_Russell Wilson_** can add himself to this list as well given his ability to run the ball, either off read-options or scrambles.
+
 ***
 
 ### Is the team currently playing with home field advantage?
+
+No.
 
 ***
 
