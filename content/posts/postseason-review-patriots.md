@@ -11,7 +11,7 @@ The Patriots are seeing Wild Card weekend for the first time in over ten years, 
 
 One would think so going solely off history. But in reality, this team shouldn't have lost the way it did against the Dolphins last week. It was an embarrassing loss against a double-digit underdog.
 
-I'm not sure anymore. The Patriots have lost three of their last five games. Two of those losses came back-to-back. The will to win is there, but the talent and execution is not. Brady, McDaniels, and Belichick have known about this team's offensive issues since the beginning of the season and yet, these three seem almost powerless to overcome their woes.
+I'm not sure anymore. The Patriots have lost three of their last five games. Two of those losses came back-to-back. The will to win is there, but the talent and execution is not. Brady, McDaniels, and Belichick have known about this team's offensive issues since the beginning of the season and yet, these three seem almost powerless to overcome them.
 
 Still, mental toughness is usually a function of the head coach, and it's impossible for me to doubt Bill Belichick given his pedigree. So I'll give the Patriots the benefit of the doubt here.
 
