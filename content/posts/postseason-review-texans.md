@@ -15,6 +15,8 @@ It seems this team phones in performances whenever they're significant favorites
 
 Houston did go through some hardships this season when they lost JJ Watt for half the season. While none of its other pass rushers have stepped up in Watt's absence, the Texans defense were able to compensate with some strong performances from the revamped defensive backfield.
 
+I'll say yes here though, going off Bill O'Brien's past history.
+
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
@@ -32,6 +34,8 @@ Yes, they do.
 ***
 
 ### Is the offense led by an elite quarterback?
+
+Without a doubt. Aside from Lamar Jackson, Deshaun Watson has been the most electric quarterback this season, especially 
 
 ***
 
