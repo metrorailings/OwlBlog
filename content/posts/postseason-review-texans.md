@@ -41,7 +41,7 @@ Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-No. I see Bill O'Brien has an appetite for experimentation, but his blind devotion to inside zone runs and his conservatism on clock management and fourth downs baffles me at times.
+No. I see Bill O'Brien has more of an appetite for experimentation and change this season, but he still baffles me from time to time with his insistence on running offensive concepts that have been failing more often than now. His blind devotion to inside zone runs and his poor play-action scheming are good examples of concepts that are featured prominently in the playbook even if they haven't proven themselves for long stretches. 
 
 ***
 
