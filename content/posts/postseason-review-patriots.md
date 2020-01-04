@@ -9,7 +9,7 @@ The Patriots are seeing Wild Card weekend for the first time in over ten years, 
 
 ### Is the team mentally tough?
 
-One would think so going solely off history. But in reality, this team shouldn't have lost the way it did against the Dolphins last week. It was an embarrassing loss to a team listed as double-digit underdogs.
+One would think so going solely off history. But in reality, this team shouldn't have lost the way it did against the Dolphins last week. It was an embarrassing loss against a double-digit underdog.
 
 I'm not sure anymore. The Patriots have lost three of their last five games. Two of those losses came back-to-back. The will to win is there, but the talent and execution is not. Brady, McDaniels, and Belichick have known about this team's offensive issues since the beginning of the season and yet, these three seem almost powerless to overcome their woes.
 
