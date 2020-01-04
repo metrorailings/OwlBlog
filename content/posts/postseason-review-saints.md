@@ -53,7 +53,7 @@ The most important one is is **_Michael Thomas_**, who earned his billing as the
 
 **_Alvin Kamara_** has still been playing at a high level, even if his numbers are not as impressive as in years past.
 
-The Saints' investment in **_Jared Cook_** this offseason has paid off in spades, as Drew Brees has found himself a tight end that can run routes along the middle of the field and make tough catches when necessary.
+The Saints' investment in **_Jared Cook_** this offseason has paid off in spades, as Drew Brees has found himself a tight end that can run routes along the middle of the field and make tough catches when necessary. In one year, he's become a vital part of the offense, posting over two yards per route run, according to Pro Football Focus.
 
 Lastly, **_Taysom Hill_** continues to serve the team well as a utility player who can run all sorts of plays from the quarterback position given his athleticism. 
 
@@ -61,9 +61,13 @@ Lastly, **_Taysom Hill_** continues to serve the team well as a utility player w
 
 ### Is the team currently playing with home field advantage?
 
+Yes, but only during the Wild Card round, most likely.
+
 ***
 
 ### Does the team feature a reliable field goal kicker?
+
+Yes, 
 
 ***
 
