@@ -49,7 +49,7 @@ No. I see Bill O'Brien has more of an appetite this season for experimentation a
 
 ### How many elite pass rushers are on this team?
 
-Only one - **_JJ Watt_**. As Rivers McCown has noted time and time again in his articles about the Texans this year, nobody else on Houston has adequately stepped up as a dominant pass rusher. Jacob Martin and Whitney Mercilus have shown flashes of brilliance, but neither have been consistent.
+Only one - **_JJ Watt_**. As Rivers McCown has noted time and time again in his articles about the Texans this year, nobody else on Houston has stepped up in Watt's absense. Jacob Martin and Whitney Mercilus have shown flashes of brilliance, but neither have been consistent.
 
 ***
 
