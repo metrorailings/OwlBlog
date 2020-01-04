@@ -3,7 +3,7 @@ date = 2020-01-04T12:00:00Z
 headline = "Postseason Review - New Orleans Saints"
 
 +++
-The Saints oddly only the 3rd seed in the NFC due to some unfortunate luck when Drew Brees injured his thumb against the Rams and an underprepared Teddy Bridgewater had to step into his place. Even still, New Orleans has been billed as one of the favorites to win. Let's use the  the rubric [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric") to see exactly why.
+The Saints are oddly only the 3rd seed in the NFC due to some unfortunate luck when Drew Brees injured his thumb against the Rams and an underprepared Teddy Bridgewater had to step into his place. Even still, New Orleans has been billed as one of the favorites to win. Let's use the  the rubric [here](https://owlpicks.com/posts/postseason-review-team-assessment-rubric/ "Rubric") to see exactly why.
 
 ***
 
