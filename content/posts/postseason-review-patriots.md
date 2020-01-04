@@ -31,9 +31,9 @@ No doubt.
 
 ### Is the offense led by an elite quarterback?
 
-Yet another question difficult to answer. Brady has underthrown quite a few passes this year. He's unable to develop any rapport with his young receiving corps this year. Some of the touch on his throws must be lost, as he's not really attempting tight-window throws anymore.
+Yet another question difficult to answer. Brady has underthrown quite a few passes this year. He's unable to develop much rapport with his young receiving corps. Some of the touch on his throws must be lost, as he's not really attempting tight-window throws anymore.
 
-But the mind is still there. The raw football intelligence is still there. It's a quality that never truly leaves the greats, that genius level of knowledge about a particular subject that renders itself indelibly into the recesses of the minds of the greats.
+But the mind is still there. The raw football intelligence is still there. It's a quality that never truly leaves the greats, that genius level of knowledge about a particular subject that renders itself indelibly into the recesses of their minds.
 
 Still...the very fact I have doubt here is enough for me to say no, Brady is no longer an elite quarterback.
 
