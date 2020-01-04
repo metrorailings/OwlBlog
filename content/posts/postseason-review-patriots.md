@@ -47,7 +47,7 @@ Yes. Josh McDaniels is one of the better offensive minds in the league today. Th
 
 ### How many elite pass rushers are on this team?
 
-**_Kyle Van Noy_** can definitely be considered an elite pass rusher, given his consistently solid play over the course of the season. While his pass rushing numbers aren't as gaudy as one would expect, we have to keep in mind that Belichick defenses typically ask a great deal more from their pass rushers - Kyle Van Noy saw quite a bit of coverage work as well throughout the season.
+**_Kyle Van Noy_** can definitely be considered an elite pass rusher, given his consistently solid play over the course of the season. While his pass rushing numbers aren't as gaudy as one would expect, we have to keep in mind that Belichick defenses typically ask a great deal more from their pass rushers - Kyle Van Noy saw quite a bit of coverage work throughout the season that took away some of his pass rushing opportunities.
 
 And really, if Van Noy is on this list despite the lack of spectacular statistics, then one could make a very strong argument for **_Dont'a Hightower_**.  Hightower was actually more productive on a per-rush basis, tallying up at least 13 quarterback hits despite rushing only half as much as Van Noy.
 
