@@ -67,10 +67,16 @@ No.
 
 ### Does the team feature a reliable field goal kicker?
 
+No. Jason Myers has missed one too many kicks in critical moments for me to certify him as a reliable field goal kicker. Not to mention he's shanked a few extra point attempts.
+
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
 
+No. The Seahawks have one of the worst backfields in the league, as no one player has stood out from those ranks.
+
 ***
 
 ## PROGNOSIS
+
+The Seahawks have too many deficiencies to go far. With a little bit of luck, Seattle can advance to the division round and possibly lose a closer-than-expected race against the 49ers, but it seems more probable to me that the Hawks will be downed by their fellow birds of prey in the Eagles.
