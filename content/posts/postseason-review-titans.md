@@ -47,7 +47,7 @@ One can argue that his religious devotion to the run is a bit foolish given that
 
 ### How many elite pass rushers are on this team?
 
-Arguably none. The only player worthy of consideration here is **_Harold Landry_**. Yet nowhere in my notes have I taken notice of Landry. His raw pass-rush numbers are unimpressive as well compared to other players in the same position. If he is to be classified as an elite pass rusher, it would be more so off the back of his strong run defense. But that wouldn't make sense, because we're looking first and foremost for pass rushers here.
+Arguably none. The only player worthy of consideration here is **_Harold Landry_**. Yet nowhere in my notes have I taken notice of Landry. His raw numbers are unimpressive as well compared to other players in the same position. If he is to be classified as an elite pass rusher, it would be more so off the back of his strong run defense. But that wouldn't make sense, because we're looking first and foremost for pass rushers here.
 
 ***
 
