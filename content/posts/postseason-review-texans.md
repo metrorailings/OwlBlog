@@ -23,7 +23,7 @@ I'll say yes here though, going off Bill O'Brien's past history.
 
 I'd argue yes. Romeo Crennel's willingness to experiment with the blitz and incorporate cast-offs into his defensive backfield says something about his drive to make this defense better. The defense also had a few stellar games this year, most notably against the Patriots in a big prime-time spot and the Jaguars over in London.
 
-One thing does give me pause here - the way the defense has tanked this year compared to years past. It's just not the same defense - this team has been too happy to give up yardage at times. Then again, maybe Houston can't help itself in this area given the impotence of the pass rush following JJ Watt's chest injury.
+One thing does give me pause here - the way the defense has choked away yardage this year compared to years past. It's just not the same defense - this team has been too happy to give up yardage at times. Then again, maybe Houston can't help itself in this area given the impotence of the pass rush following JJ Watt's chest injury.
 
 Either way, I'll give the benefit of the doubt to Romeo Crennel once again going off history.
 
@@ -43,7 +43,7 @@ Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-No. I see Bill O'Brien has more of an appetite for experimentation and change this season, but he still baffles me from time to time with his insistence on running offensive concepts that have been failing more often than now. His blind devotion to inside zone runs and his poor play-action scheming are good examples of concepts that are featured prominently in the playbook even if they haven't proven themselves over long stretches. 
+No. I see Bill O'Brien has more of an appetite for experimentation and change this season, but he still baffles me from time to time with his insistence on running offensive concepts that have been failing more often than now. His blind devotion to inside zone runs and his poor play-action scheming are good examples of concepts that are featured prominently in the playbook even if they haven't proven themselves over long stretches.
 
 ***
 
@@ -69,7 +69,7 @@ Yes, but only in the Wild Card round.
 
 ### Does the team feature a reliable field goal kicker?
 
-Not sure. Ka'imi Fairbairn seems given to streaks. Not to mention his misses tend to come on the road, which may be an indictment on his composure. He's been absolutely perfect the last six games though (two of which were on the road), so he's on the right track. 
+Not sure. Ka'imi Fairbairn seems given to streaks. Not to mention his misses tend to come on the road, which may be an indictment on his composure. He's been absolutely perfect the last six games though (two of which were on the road), so he's on the right track.
 
 I'll give the Texans the benefit of the doubt here and say Fairbairn is reliable enough.
 
@@ -77,7 +77,7 @@ I'll give the Texans the benefit of the doubt here and say Fairbairn is reliable
 
 ### Does the defense feature at least one elite player in its backfield?
 
-No. No one defensive back on this team has stood out in my observations on this team. 
+No. No one defensive back on this team has stood out in my observations on this team.
 
 ***
 
