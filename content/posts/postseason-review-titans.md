@@ -11,7 +11,7 @@ A resurgent Titans squad led by Ryan Tannehill has muscled their way into the pl
 
 Yes, sufficiently so. After benching their franchise quarterback for a burn-out from Miami, one would be forgiven for thinking the Titans were done for the season. Instead, their fortunes swung upward - the team found renewed life with a quarterback that wasn't afraid to lob the ball into smaller, riskier windows.
 
-Their goal-line stand against the Chargers in Tannehill's first game as a starter, their surprise wins over the Chiefs and Colts, their respectable performances even in defeat...all these things point to a team that's not short on resilience.
+Their goal-line stand against the Chargers in Tannehill's first game as a starter, their surprise wins over the Chiefs and Colts, their respectable performances even in defeat...all these things point to a team that's not short on resolve.
 
 ***
 
@@ -19,7 +19,7 @@ Their goal-line stand against the Chargers in Tannehill's first game as a starte
 
 Hard to say, but I'd lean towards no. I respect Mike Vrabel and Dean Pees and the work they've done in their past stints. But it's clear that this Tennessee defense has holes at all three levels. Would things would be worse or better if an average set of coaches were managing the defense? I can't answer for sure.
 
-If there's one example I can use that makes me doubt the minds behind this defense, it was their loose coverage of Michael Thomas a couple weeks ago when the Saints came to town. Being that Thomas is playing at an unreal level right now, one would think it'd be wise to bracket him or pay extra attention to him when you execute zone blitzes against Drew Brees. The Titans did neither. 
+If there's one example I can use that makes me doubt the minds behind this defense, it was their loose coverage of Michael Thomas a couple weeks ago when the Saints came to town. Being that Thomas is playing at an unreal level right now, one would think it'd be wise to bracket him or pay extra attention to him when you execute zone blitzes against Drew Brees. The Titans did neither.
 
 ***
 
@@ -41,7 +41,7 @@ His skill players have done their fair share to lift this team's fortunes, sure,
 
 Yes. Arthur Smith has molded this offense into one of the better units in the league. Ryan Tannehill certainly helps bolsters his case, but it's more the gadget plays that justify his consideration here as a chess player. Smith has a package of misdirection and up-tempo plays that he usually invokes towards the end of the game to seal away wins. And these plays are remarkably effective as well, having actually won games for the Titans against serious competition.
 
-One can argue that his religious devotion to the run is a bit foolish given that rushing is not nearly as valuable as passing in today's NFL. Still, when you have quite possibly the league's most productive rushing attack, it's hard to blame him for committing so much time and energy to the ground game. 
+One can argue that his religious devotion to the run is a bit foolish given that rushing is not nearly as valuable as passing in today's NFL. Still, when you have quite possibly the league's most productive rushing attack, it's hard to blame him for committing so much time and energy to the ground game.
 
 ***
 
