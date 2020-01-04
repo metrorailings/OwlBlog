@@ -39,7 +39,7 @@ His supporting cast has done their fair share to lift this team's fortunes, sure
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Yes. Arthur Smith has molded this offense into one of the better units in the league. Ryan Tannehill certainly helps bolsters his case, but it's more the gadget plays that justify his consideration here as a chess player. Smith has a package of misdirection and up-tempo plays that he usually invokes towards the end of the game to seal away wins. And these plays are remarkably effective as well, having actually won games for the Titans against serious competition.
+Yes. Arthur Smith has molded this offense into one of the better units in the league. Ryan Tannehill certainly helps bolsters his case, but it's more the misdirection plays, the play-action, and the scripting that justifies his consideration here as a chess player. Smith has a package of misdirection and up-tempo plays that he usually invokes towards the end of the game to seal away wins. And these plays are remarkably effective as well, having actually won games for the Titans against serious competition.
 
 One can argue that his religious devotion to the run is a bit foolish given that rushing is not nearly as valuable as passing in today's NFL. Still, when you have quite possibly the league's most productive rushing attack, it's hard to blame him for committing so much time and energy to the ground game.
 
