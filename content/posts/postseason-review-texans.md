@@ -25,6 +25,8 @@ I'd argue yes. Romeo Crennel's willingness to experiment with the blitz and inco
 
 One thing does give me pause here - the way the defense has tanked this year compared to years past. It's just not the same defense - this team has been too happy to give up yardage at times. Then again, maybe Houston can't help itself in this area given the impotence of the pass rush following JJ Watt's chest injury.
 
+Either way, I'll give the benefit of the doubt to Romeo Crennel once again going off history.
+
 ***
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
@@ -41,7 +43,7 @@ Without a doubt. Lamar Jackson aside, Deshaun Watson has been the most electric 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-No. I see Bill O'Brien has more of an appetite for experimentation and change this season, but he still baffles me from time to time with his insistence on running offensive concepts that have been failing more often than now. His blind devotion to inside zone runs and his poor play-action scheming are good examples of concepts that are featured prominently in the playbook even if they haven't proven themselves for long stretches. 
+No. I see Bill O'Brien has more of an appetite for experimentation and change this season, but he still baffles me from time to time with his insistence on running offensive concepts that have been failing more often than now. His blind devotion to inside zone runs and his poor play-action scheming are good examples of concepts that are featured prominently in the playbook even if they haven't proven themselves over long stretches. 
 
 ***
 
