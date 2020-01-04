@@ -19,7 +19,7 @@ Still, mental toughness is usually a function of the head coach, and it's imposs
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-Yes, Bill Belichick is still one of the best at coaching defenses, let alone teams. His defense this year is the gold standard at pass coverage.
+Yes, Bill Belichick is still one of the best at coaching defenses, let alone teams. His defense this year has been the gold standard at pass coverage.
 
 ***
 
