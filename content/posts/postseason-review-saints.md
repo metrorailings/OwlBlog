@@ -73,8 +73,10 @@ Yes. Will Lutz has been solid this year outside of one bad game against the Bear
 
 ### Does the defense feature at least one elite player in its backfield?
 
-Yes, Marshon Lattimore.
+Yes, Marshon Lattimore qualifies here, given his reputation as a shutdown corner.
 
 ***
 
 ## PROGNOSIS
+
+The Saints hold so much promise this year. Though without a bye and real home-field advantage, the Saints still stand as Super Bowl favorites in my book.
