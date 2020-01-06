@@ -7,7 +7,9 @@ headline = "Wild Card Round: Picks"
 
 The Texans have the experience and the quarterback while the Bills have the better defense overall and the grit. It's a fair spread, to be honest. I'd give the edge to the Texans given it is their home field.
 
-**_Bet: Texans ML_**
+I'll tell you this though - Josh Allen's inexperience in the playoffs and his mediocre play gives us another opportunity here to bet in favor of the Texans in the 1st half.
+
+**_Bet: Texans 1st Half ML_**
 
 ***
 
