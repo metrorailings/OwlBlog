@@ -18,3 +18,7 @@ And I will never understand why the Patriots were so intent on shutting down the
 ***
 
 ## Vikings @ Saints
+
+It seems evident to me that the Saints phoned this game in. Even though pound-for-pound the Saints are the better team, New Orleans was not fully committed to winning this game, instead possibly looking ahead to the Packers or even the 49ers.
+
+Tackling was poor. The pass rush was nonexistent. Will Lutz missed a kick. Offensive linemen were losing their battles in the trenches.
