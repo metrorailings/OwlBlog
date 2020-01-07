@@ -23,4 +23,6 @@ It seems evident to me that the Saints phoned this game in. Even though pound-fo
 
 Tackling was poor. The pass rush was nonexistent. Will Lutz missed a kick. Offensive linemen were losing their battles in the trenches. Only Trey Hendricksen and and Taysom Hill seem to have shown up here.
 
-Kevin Stefanski needs to be given credit here though for his playcalling. His plays have made some excellent use of pre-snap motion to throw this Saints defense off their scent. The Vikings also used the Saints initial reads against them on occasion with some great success. 
+Kevin Stefanski needs to be given credit here though for his playcalling. His plays have made some excellent use of pre-snap motion to throw this Saints defense off their scent. The Vikings also used the Saints initial reads against them on occasion with some great success.
+
+Drew Brees is not an elite quarterback. His arm strength has waned with age. Even if the mind and improvisational skill is there, the physical tools are limited.
