@@ -14,3 +14,7 @@ It seems Tennessee's success on defense came mostly against short-yardage situat
 If I knew this better, I would have classified the Titans as defensively chess-minded for this game. And that designation would have been enough for me to think twice about taking a side on this game.
 
 And I will never understand why the Patriots were so intent on shutting down the Titans air game early on, despite Ryan Tannehill having a documented history of failure at Gillette Stadium. Derrick Henry is the heart and soul of the offense too - shutting him down early would have forced the Titans to play out of their groove. Steve and Bill Belichick have disappointed me. 
+
+***
+
+## Vikings @ Saints
