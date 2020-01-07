@@ -21,4 +21,6 @@ And I will never understand why the Patriots were so intent on shutting down the
 
 It seems evident to me that the Saints phoned this game in. Even though pound-for-pound the Saints are the better team, New Orleans was not fully committed to winning this game, instead possibly looking ahead to the Packers or even the 49ers.
 
-Tackling was poor. The pass rush was nonexistent. Will Lutz missed a kick. Offensive linemen were losing their battles in the trenches.
+Tackling was poor. The pass rush was nonexistent. Will Lutz missed a kick. Offensive linemen were losing their battles in the trenches. Only Trey Hendricksen and and Taysom Hill seem to have shown up here.
+
+Kevin Stefanski needs to be given credit here though for his playcalling. His plays have made some excellent use of pre-snap motion to throw this Saints defense off their scent. The Vikings also used the Saints initial reads against them on occasion with some great success. 
