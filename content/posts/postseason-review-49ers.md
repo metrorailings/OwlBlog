@@ -53,32 +53,30 @@ After him, **_Arik Armstead_** presents a strong case here, given his numbers al
 
 ### How many different vectors does the team feature on offense?
 
-On the other hand, the Patriots are not in so good a shape here. **_Julian Edelman_** is clearly a vector given the trust Brady has vested in him, but Edelman's inclusion as a vector is only meaningful so long as he remains healthy _enough_ over the course of the postseason. Injuries have hammered him repeatedly through the season and it seems as if things will be no different for the playoffs.
+The team's single best weapon on offense is its tight end, **_George Kittle._** George Kittle's numbers alone sell his case as the team's biggest offensive threat. **_Deebo Samuel_** and **_Emmanual Sanders_** are other receivers that can be noted as vectors here, especially the former given his ability to run like Sonic the Hedgehog.
 
-**_James White_** is the only other player that I can confidently assert as a vector here, given his ability to catch balls out of the backfield.
-
-I have a hard time considering **_Sony "Playstation" Michel_** and **_Rex Burkhead_** a vector here as the Patriots offensive line have been pretty flaccid in their run-blocking. Though it's worth noting that the Patriots have been so much better running the ball the past three weeks, so we can't completely rule out the ground game as a possible vector. More footage needs to be put on tape before I correct myself here.
+When it comes to their offensive backfield, the 49ers have two additional vectors - the fullback **_Kyle Juszczyk_** and their committee of tailbacks (**_Raheem Mostert / Tevin Coleman / Matt Breida_**). Juszczyk's numbers don't necessarily justify his designation as a vector, but the man's ability to catch the ball out of the backfield is especially valuable for an offense looking to exhaust defenses and their limited coverage resources. 
 
 ***
 
 ### Is the team currently playing with home field advantage?
 
-Yes, but only in the Wild Card round.
+Yes, all through the NFC playoffs.
 
 ***
 
 ### Does the team feature a reliable field goal kicker?
 
-Surprisingly, yes. Despite their struggles over the season with field goals, it seems the Patriots finally found somebody that can kick them through the uprights consistently. Folk only missed three field goals all year, two in inclement weather and one that was blocked when the Patriots line broke down inside.
+_Arguably_ yes. Aside from a bad game in which Gould shanked two kicks and had one blocked and another game that was played in some horrific weather, Gould has been pretty good. Maybe I'm making too many excuses for him here, but I'll give him the benefit of the doubt given his history.
 
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
 
-Stephon Gilmore. One could also include Devin McCourty with his five interceptions.
+Richard Sherman has been one of the best cornerbacks in the league this year, so yes.
 
 ***
 
 ## PROGNOSIS
 
-The Patriots are not nearly as bad as the media narratives claim. Still, their limp offense will cost them dearly on the road in Kansas City.
+The 49ers are missing the services of a brilliant defensive mind and a quarterback that can play his way out of negative game script. Not to mention their lack of experience will hurt them as well against the Vikings. Even though I've been pretty damn awful at predicting postseason outcomes so far in these write-ups, I'll continue doing so because I'm a dumb fuck - I do think the Vikings will upset the 49ers here. 
