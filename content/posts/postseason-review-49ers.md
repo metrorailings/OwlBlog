@@ -11,13 +11,15 @@ The 49ers enter the postseason as the top seed. So let's examine their prospects
 
 Unsure. The last three weeks of the season were bizarre. One game was lost to an underwhelming Atlanta team riding the coattails of Julio Jones. The other two games were unnecessarily close. Yes, I acknowledge that key pieces of their defense were sidelined due to injury but it still doesn't sit well with me.
 
-Then again, San Francisco did go on a rough five-week stretch in which they faced off against four playoff teams. While their record for those weeks include two losses, those losses were hard-fought.
+Then again, San Francisco did go on a rough five-week stretch in which they faced off against four playoff teams. While their record for those weeks includes two losses, those losses were hard-fought.
 
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-Yes, Bill Belichick is still one of the best at coaching defenses, let alone teams. His defense this year has been the gold standard at pass coverage.
+No. I still contend that Robert Saleh cannot be considered an elite coach. The team's success on defense comes so much more from talent rather than scheme. In fact, Saleh's predominantly cover-3 has been notoriously failing around the league, whether in Jacksonville or Atlanta or Los Angeles.
+
+On top of that, the Arizona Cardinals managed to ring up points against this defense in two meetings, even though their scheme on offense is pretty obviously configured to favor short passes. 
 
 ***
 
