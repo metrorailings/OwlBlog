@@ -17,15 +17,15 @@ Then again, San Francisco did go on a rough five-week stretch in which they face
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-No. I still contend that Robert Saleh cannot be considered an elite coach. The team's success on defense comes so much more from talent rather than scheme. In fact, Saleh's predominantly cover-3 has been notoriously failing around the league, whether in Jacksonville or Atlanta or Los Angeles.
+No. I still contend that Robert Saleh cannot be considered an elite coach. The team's success on defense comes so much more from talent rather than scheme. In fact, Saleh's approach to defense has been notoriously failing for other teams around the league, whether in Jacksonville or Atlanta or Los Angeles or even Seattle.
 
-On top of that, the Arizona Cardinals managed to ring up points against this defense in two meetings, even though their scheme on offense is pretty obviously configured to favor short passes. 
+On top of that, the Arizona Cardinals managed to ring up points against this defense in two (almost) back-to-back meetings, even though their scheme on offense is pretty obviously configured to favor short passes. 
 
 ***
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-No doubt.
+No. Jimmy Garoppalo lacks meaningful playoff experience. Likewise, the two most valuable skill players on this offense in Deebo Samuel and George Kittle lack postseason experience.
 
 ***
 
