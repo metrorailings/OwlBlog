@@ -26,3 +26,5 @@ Tackling was poor. The pass rush was nonexistent. Will Lutz missed a kick. Offen
 Kevin Stefanski needs to be given credit here though for his playcalling. His plays have made some excellent use of pre-snap motion to throw this Saints defense off their scent. The Vikings also used the Saints initial reads against them on occasion with some great success.
 
 Drew Brees is not an elite quarterback. His arm strength has waned with age. Even if the mind and improvisational skill is there, the physical tools are limited.
+
+It's worth noting that Kirk Cousins is playing fairly decent. While his accuracy has presented issues on a few occasions, he's been all right. His ability to pass and roll out to the left has held up excellently into the postseason.
