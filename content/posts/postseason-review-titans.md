@@ -27,6 +27,8 @@ If there's one example I can use that makes me doubt the minds behind this defen
 
 A good number of the players on the offense have playoff experience, but unfortunately, the quarterback is missing postseason experience on his resume. Ryan Tannehill's first outing as a playoff quarterback will likely result in a few screw-ups.
 
+**_Update (1-9-2019)_**
+
 ***
 
 ### Is the offense led by an elite quarterback?
