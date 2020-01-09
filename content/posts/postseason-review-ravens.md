@@ -63,16 +63,16 @@ Yes, all through the AFC playoffs.
 
 ### Does the team feature a reliable field goal kicker?
 
-_Arguably_ yes. Aside from a bad game in which Gould shanked two kicks and had one blocked and another game that was played in some horrific weather, Gould has been pretty good. Maybe I'm making too many excuses for him here, but I'll give him the benefit of the doubt given his history.
+Yes. Justin Tucker is still playing like a future hall of famer this year.
 
 ***
 
 ### Does the defense feature at least one elite player in its backfield?
 
-Richard Sherman has been one of the best cornerbacks in the league this year, so yes.
+Once again, yes. I would actually argue this team has three elite players in the backfield - Earl Thomas, Marcus Peters, and Marlon Humphrey. All three have been recognized this year as Pro Bowlers. On top of that, Peters and Humphrey made made the All-Pro team as well.
 
 ***
 
 ## PROGNOSIS
 
-The 49ers are missing the services of a brilliant defensive mind and a quarterback that can play his way out of negative game script. Not to mention their lack of experience will hurt them as well against the Vikings. Even though I've been pretty damn awful at predicting postseason outcomes so far in these write-ups, I'll continue doing so because I'm a dumb fuck - I do think the Vikings will upset the 49ers here.
+A Super Bowl berth is all but certain here. The only real competition Baltimore might see in the AFC playoffs are the Chiefs, but I have a hard time seeing the Chiefs as a serious threat - their defense lacks the horses to keep the Ravens offense sidelined.
