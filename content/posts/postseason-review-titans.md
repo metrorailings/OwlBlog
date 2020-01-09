@@ -27,7 +27,7 @@ If there's one example I can use that makes me doubt the minds behind this defen
 
 A good number of the players on the offense have playoff experience, but unfortunately, the quarterback is missing postseason experience on his resume. Ryan Tannehill's first outing as a playoff quarterback will likely result in a few screw-ups.
 
-**_Update (1-9-2019)_**
+**_Update (1-9-2020)_**
 
 Ryan Tannehill survived his first playoff appearance as a starter, despite only throwing for 72 yards.
 
@@ -53,13 +53,15 @@ One can argue that his religious devotion to the run is a bit foolish given that
 
 Arguably none. The only player worthy of consideration here is **_Harold Landry_**. Yet nowhere in my notes have I taken notice of Landry. His raw numbers are unimpressive as well compared to other players in the same position. If he is to be classified as an elite pass rusher, it would be more so off the back of his strong run defense. But that wouldn't make sense, because we're looking first and foremost at pass rushing prowess here.
 
+If anything, I'd rather tip my hat towards **_Jurrell Casey_** given his history, but his numbers and overall play has dipped far too low this year for my liking.
+
 ***
 
 ### How many different vectors does the team feature on offense?
 
 **_AJ Brown_** and **_Derrick Henry_** deserve vector status, without question. The former will be the offensive rookie of the year and the latter is the rushing champion of the league.
 
-Other than that, it is hard to find a third vector for this team. Jonnu Smith, Adam Humphries, Corey Davis, and Tajae Sharpe are all eligible candidates**_,_** but not one of them has really stood out among the rest. Jonnu Smith has the strongest case out of the group, given his yardage, his targets, and his position as a tight end.
+Other than that, it is hard to find a third vector for this team. Jonnu Smith, Adam Humphries, Corey Davis, and Tajae Sharpe are all eligible candidates_,_ but not one of them has really stood out among the rest. Jonnu Smith has the strongest case out of the group, given his yardage, his targets, and his position as a tight end.
 
 ***
 
@@ -77,10 +79,18 @@ Honestly, the team's been a mess this entire season when it comes to field goals
 
 ### Does the defense feature at least one elite player in its backfield?
 
-I would lean no here. Kevin Byard is the only defensive back from that bunch giving me pause here.
+I would lean no here. Kevin Byard is the only defensive back from that bunch giving me pause here. Maybe his postseason play will make me reverse my opinion here.
 
 ***
 
 ## PROGNOSIS
 
 An elite quarterback and a good offensive mind aren't enough to win consistently in these playoffs, let alone against the best coached team in the league in the Patriots. I expect an early death for these Titans in the Wild Card round.
+
+**_Correction (1-9-2020)_**
+
+I was wrong. The Titans killed off the Patriots and are advancing toward a showdown against the Ravens.
+
+Really, what helped was that Vrabel was a former Patriot player himself. Even though his defense leaves too much on the table in terms of yardage, the unit was able to key in on some of New England's habits on offense thanks to Vrabel knowing Bill Belichick's tendencies. This inside knowledge was _just_ enough for the Titans to stop the Patriots on a few key drives and skip town with a close win.
+
+But neither Vrabel nor Arthur Smith have any intimate knowledge of the Ravens brain trust. And that doesn't bode well for a defense that can be gashed easily. I expect the Titans to fall to the Ravens in a blowout.
