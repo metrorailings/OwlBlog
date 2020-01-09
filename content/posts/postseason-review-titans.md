@@ -29,6 +29,8 @@ A good number of the players on the offense have playoff experience, but unfortu
 
 **_Update (1-9-2019)_**
 
+Ryan Tannehill survived his first playoff appearance as a starter, despite only throwing for 72 yards.
+
 ***
 
 ### Is the offense led by an elite quarterback?
