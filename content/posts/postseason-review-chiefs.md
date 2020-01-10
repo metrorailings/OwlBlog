@@ -81,6 +81,6 @@ Yes, Tyrann Matthieu has been damn good following in Eric Berry's footsteps and 
 
 ## PROGNOSIS
 
-The Chiefs have quite a bit of talent and solid coaching. But three critical deficiencies present themselves here - their seeding, the lack of a second outstanding defensive pass rusher, and the lack of resolve. The last drawback is especially concerning, as Andy Reid's teams have been doomed too many times in these playoffs precisely for that reason. Without that mental strength, a team must have complete home field advantage and be stacked in every other major aspect covered here to have a good shot at the Super Bowl.
+The Chiefs have quite a bit of talent and solid coaching. But three critical deficiencies present themselves here - their seeding, the lack of a second outstanding defensive pass rusher, and the lack of resolve. The last drawback is especially concerning, as Andy Reid's teams have been doomed too many times in these playoffs precisely for that reason. Without that mental strength, a team must have complete home field advantage and be stacked in every other major aspect covered here to have a good shot at the Super Bowl.I
 
-So in this case, without a second pass rusher worth his salt and a lack of total home field advantage, the Chiefs have only slim hopes winning the AFC title, let alone the championship.
+In this case though, Kansas is missing a second pass rusher worth his salt as well as total home field advantage. The Chiefs only have slim hopes of winning the AFC title, let alone the championship.
