@@ -17,6 +17,10 @@ Houston did go through some hardships this season when they lost JJ Watt for hal
 
 I'll say yes here though, going off Bill O'Brien's past history.
 
+**_Correction (1-10-20)_**
+
+Honestly, I need to correct myself here and say maybe. The team's strength comes not from Bill O'Brien, but by Deshaun Watson's will to win.
+
 ***
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
@@ -49,15 +53,15 @@ No. I see Bill O'Brien has more of an appetite this season for experimentation a
 
 ### How many elite pass rushers are on this team?
 
-Only one - **_JJ Watt_**. As Rivers McCown has noted time and time again in his articles about the Texans this year, nobody else on Houston has stepped up in Watt's absense. Jacob Martin and Whitney Mercilus have shown flashes of brilliance, but neither have been consistent.
+Only one - **_JJ Watt_**. As Rivers McCown has noted time and time again in his articles about the Texans this year, nobody else on Houston has stepped up in Watt's absense. **_Jacob Martin_** and **_Whitney Mercilus_** have shown flashes of brilliance, but neither have been consistent.
 
 ***
 
 ### How many different vectors does the team feature on offense?
 
-The Texans feature four different vectors here. Their top receiver is **_DeAndre Hopkins_**. His AP All-Pro designation this year speaks for itself. **_Will Fuller_** also counts as a vector, given his role as the team's main deep threat. Even though Fuller is a basket case when it comes to injury, his presence on offense makes a serious difference - statistical downturns have been documented when Fuller is missing in action. Even though Fuller will be sidelined for the Wild Card game, I'm still counting him as a vector as he may be a factor in the games going forward.
+The Texans feature four different vectors here. Their top receiver is **_DeAndre Hopkins_**. His All-Pro designation this year speaks for itself. **_Will Fuller_** also counts as a vector, given his role as the team's main deep threat. Even though Fuller is a basket case when it comes to injury, his presence on offense makes a serious difference - statistical downturns have been documented when Fuller is missing in action. Even though Fuller will be sidelined for the Wild Card game, I'm still counting him as a vector as he may be a factor in the games going forward.
 
-When it comes to the ground game, the Texans are pretty productive with the combo of **_Carlos Hyde_** and **_Duke Johnson_**. Duke Johnson provides more versatility in the passing game whereas Carlos Hyde has been a workhorse, rushing the ball for over 1000 yards on 245 rushes.  And we can't forget about **_Deshaun Watson_** and his ability to scramble as well. In fact, the success of their ground game can be partly traced to teams having to honor Watson's ability to run with the ball.
+When it comes to the ground game, the Texans are pretty productive with the combo of **_Carlos Hyde_** and **_Duke Johnson_**. Duke Johnson provides more versatility in the passing game whereas Carlos Hyde has been a workhorse, rushing the ball for over a thousand yards on 245 rushes.  And we can't forget about **_Deshaun Watson_** and his ability to scramble as well. In fact, the success of their ground game can be partly traced to teams having to honor Watson's ability to run with the ball.
 
 ***
 
@@ -84,3 +88,7 @@ No. No one defensive back on this team has stood out in my observations on this 
 ## PROGNOSIS
 
 While a win over the Bills seems likely, their road to the playoffs will end with a tough loss to Baltimore.
+
+**_Correction (1-10-20)_**
+
+Never mind, the Titans and their upset win over New England now have these Texans being sent to Kansas City instead for the division round. It doesn't matter though I still expect the Texans to bow out of the playoffs here, although they will put up a fight against these Chiefs, regardless of whatever the double-digit spread implies.
