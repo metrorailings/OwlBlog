@@ -63,7 +63,7 @@ Besides those two, things get a little bit more murky here. **_Mecole Hardman_**
 
 ### Is the team currently playing with home field advantage?
 
-Yes, but likely only during the divisional round.
+Yes, but (likely) only during the divisional round.
 
 ***
 
