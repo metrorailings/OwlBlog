@@ -79,4 +79,4 @@ Hard to say. I want to give the nod to Jaire Alexander though, considering he's 
 
 ## PROGNOSIS
 
-So many questions about this team. I'm not sure about the coaching of this team, let alone their mental resilience. Add in more questions about their defensive backfield and my forecast becomes a little hazy here. Still, I think they'll be able to survive against the Seahawks only to meet their end against the Vikings, despite home field advantage. Bizarre finish to the NFC playoffs, I know.
+So many questions about this team. I'm not sure about the coaching of this team, let alone their mental resilience. Add in more questions about their defensive backfield and my forecast becomes a little hazy here. Still, I think they'll be able to survive against the Seahawks only to meet their end against the Vikings, despite home field advantage and having beaten them twice during the regular season. Bizarre finish to the NFC playoffs, I know.
