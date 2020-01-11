@@ -53,7 +53,7 @@ Nobody else even comes close.
 
 ### How many different vectors does the team feature on offense?
 
-**_Tyler Lockett_** and **_D.K. Metcalf_** are the only skill players that can be safely considered reliable vectors on offense, the former known for his speed and route-running ability while the latter is known more as a receiver that can make those contested catches outside the number. Chris Carson would have been on this list had his season not ended due to a hip injury.
+**_Tyler Lockett_** and **_D.K. Metcalf_** are the only skill players that can be safely considered reliable vectors on offense, the former known for his speed and route-running ability while the latter is known more as a receiver that can make those contested catches along the sidelines. Chris Carson would have been on this list had his season not ended due to a hip injury.
 
 **_Russell Wilson_** can add himself to this list as well given his ability to run the ball, either off read-options or scrambles.
 
@@ -80,3 +80,7 @@ No. The Seahawks have one of the worst backfields in the league, as no one playe
 ## PROGNOSIS
 
 The Seahawks have too many deficiencies to go far. With a little bit of luck, Seattle can advance to the division round and possibly lose a closer-than-expected race against the 49ers, but it seems more probable to me that the Hawks will be downed by their fellow birds of prey in the Eagles.
+
+**_Correction (1-10-20)_**
+
+Carson Wentz being concussed early in the game was all the luck the Seahawks needed to advance to the division round and face off against the Packers. Once again, with a bit of luck, Seattle can steal another victory and actually contend for the NFC championship.
