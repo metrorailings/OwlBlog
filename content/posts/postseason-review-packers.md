@@ -17,7 +17,7 @@ Given this is Matt LaFleur's first year as a head coach, it's impossible to go o
 
 ### Is the defensive coordinator or the head coach a chess player when it comes to defense?
 
-Yes. I'll give credit to Pettine for bringing over free agents that had an immediate impact on defense. I'll also give credit to Pettine for embracing a riskier style of defense that leaves the unit more exposed to rushes. Even though their yardage numbers could be better, the defense has still stepped up in key moments.
+I suppose so. Clearly, I'm not all that confident giving this team respect when it comes to defensive coaching...but I'll give credit to Pettine for bringing over free agents that had an immediate impact on defense. I'll also give credit to Pettine for embracing a riskier style of defense that leaves the unit more exposed to rushes. Even though their yardage numbers could be better, the defense has still stepped up in key moments.
 
 ***
 
@@ -73,6 +73,10 @@ Yes. Crosby has only missed two kicks all year, both in situations that ultimate
 
 ### Does the defense feature at least one elite player in its backfield?
 
+Hard to say. I want to give the nod to Jaire Alexander though, considering he's the figurehead of that Green Bay backfield. But that passing coverage can be picked apart, despite his presence.
+
 ***
 
 ## PROGNOSIS
+
+So many questions about this team. I'm not sure about the coaching of this team, let alone their mental resilience. Add in more questions about their defensive backfield and my forecast becomes a little hazy here. Still, I think they'll be able to survive against the Seahawks only to meet their end against the Vikings, despite home field advantage. Bizarre finish to the NFC playoffs, I know.
