@@ -7,7 +7,7 @@ headline = "Division Round Picks"
 
 Believe it or not, I love the Vikings in this spot. The 49ers have home field advantage, yes, but their lack of experience and mediocre defensive coaching should ice them against a resurgent Vikings team that found its groove last week.
 
-**_Bet: Vikings +7, Vikings ML_**
+**_Bet: Vikings +7, Vikings ML, Cousins Passing Yards Over_**
 
 ***
 
@@ -35,4 +35,4 @@ Honestly the hardest match to call this whole weekend. The Packers have too many
 
 On the other hand, the Seahawks aren't that good of a team, so it honestly shouldn't take much to defeat them. Seattle's coaching is pretty poor overall and their defense lacks any real talent.
 
-**_Bet: Packers ML_**    
+**_Bet: Packers ML_**
