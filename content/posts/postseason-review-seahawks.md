@@ -11,7 +11,7 @@ The Seahawks are returning to the playoffs once again as a wild card team. Let's
 
 Yes. Once again returning to this idea that mental fortitude is primarily a function of the head coach, I'd be remiss to doubt Pete Carroll and the attitude that he instills in his team.
 
-Granted, the team has fallen short on a few occasions or even nearly coughed up the lead in other games, but the Hawks still have that resilience, probably best exemplified by their near-successful comeback against the 49ers in the season finale, despite being so utterly outplayed and out-coached.
+Granted, the team has fallen short on a few occasions or even nearly coughed up the lead in other games, but the Hawks still have that resilience, probably best exemplified by their near-comeback against the 49ers in the season finale, despite being so utterly outplayed and out-coached.
 
 ***
 
@@ -19,15 +19,15 @@ Granted, the team has fallen short on a few occasions or even nearly coughed up 
 
 Unfortunately, no. Even though Carroll once led the Legion of Boom early in the decade, his grasp on defensive concepts seems to have slipped over the years.
 
-The Seahawks have coughed up nearly 6000 yards on defense this year. They've won games sloppily against teams that ate up yardage against their defense. Matt Schaub managed to post 460 yards against their defense, albeit in a futile effort as the game was out of hand.
+The Seahawks have coughed up nearly six thousand yards on defense this year. They've won games sloppily against teams that ate up yardage against their defense. Matt Schaub managed to post 460 yards against their defense, albeit in a futile effort as the game was out of hand.
 
-People can argue that Carroll's defenses are more than happy to give up yardage when the Seahawks are blowing out the other team on the scoreboard. Sure, but the Seahawks back in their Legion of Boom days were infamously stingy, even with big leads.
+People can argue that Carroll's defenses are more than happy to give up yardage when the Seahawks are blowing out the other team on the scoreboard. Sure, but that argument won't hold any weight when one remembers how stingy the Legion of Boom were even with big leads.
 
 ***
 
 ### Do the quarterback and most of the other key players on the offense have any playoff experience?
 
-Yes. With the exception of a few rookies, most of the Seahawks have considerable playoff experience, including Russell Wilson.
+Yes. With the exception of a few rookies, most of the Seahawks have considerable playoff experience, especially Russell Wilson.
 
 ***
 
@@ -39,13 +39,13 @@ Yes. Russell Wilson was in the conversation for MVP before Lamar Jackson really 
 
 ### Is the offensive coordinator or the head coach a chess player when it comes to offense?
 
-Once again, no. The offense can be unbearably flaccid at times and all too content playing some uninspiring football with the lead in hand. Brian Schottenheimer has done little to field an efficient and creative offense, despite having one of the best quarterbacks in the game heading his offense. Even in their pivotal game against the 49ers, the Seahawks were gutless on offense until the game was essentially forced into Russell Wilson's hands.
+Once again, no. The offense can be unbearably flaccid at times and all too content playing some uninspiring football with the lead in hand. Brian Schottenheimer has done little to field an efficient and creative offense, despite having one of the best quarterbacks in the game helming his unit. Even in their pivotal rematch against the 49ers, the Seahawks were gutless on offense until the game was essentially forced into Russell Wilson's hands.
 
 ***
 
 ### How many elite pass rushers are on this team?
 
-None. Jadaveon Clowney may be the one person on this team closest to being considered elite, but his boom-or-bust production over the course of the season only invalidates such a consideration - an elite pass rusher needs to rack up pressures and tackles and be **_consistent_** at it.
+None. **_Jadaveon Clowney_** may be the one person on this team closest to being considered elite, but his boom-or-bust production over the course of the season invalidates his eligibility here  - an elite pass rusher needs to rack up pressures and tackles and be **consistent** at it.
 
 Nobody else even comes close.
 
