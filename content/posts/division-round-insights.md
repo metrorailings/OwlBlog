@@ -16,3 +16,9 @@ Somehow, the Titans are winning. They're playing mistake-free football. Meanwhil
 Adoree Jackson is playing like a stud in the defense backfield for the Titans.
 
 There's a real force at play here that's much more destructive than bad coaching or lack of resilience - it's apathy. The Ravens made so many uncharacteristic mistakes in this game, similar to the Saints of last week. Teams in the postseason are just as subject to apathy as are teams in the regular season.  It's just that the postseason is the _worst_ possible time to try and wing your way through games. Every playoff team is considerably better than the lame teams that tend to be on the wrong end of large spreads in the regular season. 
+
+***
+
+## Texans @ Chiefs
+
+Chiefs with the big plays dominating this game.
