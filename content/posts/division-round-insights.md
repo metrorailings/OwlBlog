@@ -6,3 +6,5 @@ headline = "Division Round Insights"
 ## Vikings @ 49ers
 
 I need to examine the Vikings average depth of target here. I'm not sure if they're attacking the flat enough here. Other than a big pass to Stefon Diggs, the Vikings passing game has been limp.
+
+***
