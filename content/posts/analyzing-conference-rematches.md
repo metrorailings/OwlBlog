@@ -98,3 +98,5 @@ _Playoffs_
 We have the same result in 3 matches and a different result in 1 match.
 
 It is worth noting that in the postseason rematch, all the losers in the first meeting did far better from a points perspective. Even the Packers, who were quite frankly lucky to have posted up 22 points against the 49ers in their first encounter. 
+
+***
