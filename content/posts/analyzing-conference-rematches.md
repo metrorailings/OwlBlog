@@ -51,4 +51,8 @@ _Playoffs_
 * Saints (36) @ **Seahawks (41)**
 * Seahawks (24) @ **Bears (35)**
 
-We have the same result in 1 match and different results in 4 matches. Once again, a caveat here worth noting for the one set of games with the same results. The first match between the Packers and the Eagles took place on the first week of the season, so I'm not too sure whether that game can be justifiably linked to its playoff counterpart given that the first week of the season tends to be a bit wild.  
+We have the same result in 1 match and different results in 4 matches. Once again, a caveat here worth noting for the one set of games with the same results. The first match between the Packers and the Eagles took place on the first week of the season, so I'm not too sure whether that game can be justifiably linked to its playoff counterpart given that the first week of the season tends to be a bit wild.
+
+***
+
+## 2011
