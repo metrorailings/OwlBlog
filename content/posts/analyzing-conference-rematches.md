@@ -76,3 +76,19 @@ _Playoffs_
 * Texans (13) @ **Ravens (20)**
 
 We have the same result in 4 matches and different results in 2 matches. Not much to caveat here, though it is worth noting the Texans were forced to go down their quarterback depth chart in the rematch against the Bengals. Not that it mattered much though, as Houston was still able to pull out the win.
+
+***
+
+## 2012
+
+_Regular Season_
+
+* Patriots (30) @ **Ravens (31)**
+* Ravens (17) @ **Broncos (34)**
+* **49ers (30)** @ Packers (22)
+
+_Playoffs_
+
+* **Ravens (13)** @ Patriots (28)
+* **Ravens (38)** @ Broncos (35)
+* Packers (31) @ **49ers (45)**
