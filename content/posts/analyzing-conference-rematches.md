@@ -86,9 +86,15 @@ _Regular Season_
 * Patriots (30) @ **Ravens (31)**
 * Ravens (17) @ **Broncos (34)**
 * **49ers (30)** @ Packers (22)
+* Texans (14) @ **Patriots (42)**
 
 _Playoffs_
 
-* **Ravens (13)** @ Patriots (28)
+* **Ravens (28)** @ Patriots (13)
 * **Ravens (38)** @ Broncos (35)
 * Packers (31) @ **49ers (45)**
+* Texans (28) @ **Patriots (41)**
+
+We have the same result in 3 matches and a different result in 1 match.
+
+It is worth noting that in the postseason rematch, all the losers in the first meeting did far better from a points perspective. Even the Packers, who were quite frankly lucky to have posted up 22 points against the 49ers in their first encounter. 
