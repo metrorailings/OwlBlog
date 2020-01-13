@@ -62,9 +62,11 @@ _Regular Season_
 * **Packers (38)** @ Giants (35)
 * Giants (20) @ **49ers (27)**
 * **Patriots (41)** @ Broncos (23)
+* Lions (17) @ **Saints (31)**
 
 _Playoffs_
 
 * **Giants (37)** @ Packers (20)
 * **Giants (20)** @ 49ers (17)
 * Broncos (10) @ **Patriots (45)**
+* Lions (28) @ **Saints (45)**
