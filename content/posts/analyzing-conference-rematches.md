@@ -63,6 +63,8 @@ _Regular Season_
 * Giants (20) @ **49ers (27)**
 * **Patriots (41)** @ Broncos (23)
 * Lions (17) @ **Saints (31)**
+* **Texans (20)** @ Bengals (19)
+* Texans (14) @ **Ravens (29)**
 
 _Playoffs_
 
@@ -70,3 +72,5 @@ _Playoffs_
 * **Giants (20)** @ 49ers (17)
 * Broncos (10) @ **Patriots (45)**
 * Lions (28) @ **Saints (45)**
+* Bengals (10) @ **Texans (31)**
+* Texans (13) @ **Ravens (20)**
