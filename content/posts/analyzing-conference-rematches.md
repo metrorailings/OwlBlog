@@ -22,12 +22,12 @@ _Regular Season_
 _Playoffs_
 
 * Ravens (3) @ **Colts (20)**
-* Jets (17) @ **Colts (30)** 
+* Jets (17) @ **Colts (30)**
 * **Ravens (33)** @ Patriots (14)
 * **Jets (24)** @ Bengals (14)
 * Packers (45) @ **Cardinals (51)**
 
-We have the same result in 3 matches and different results in 3 matches. Some games here have circumstances worth mentioning - in the Colts loss to the Jets, Peyton Manning was pulled early for some strange reason. Apparently, Jim Caldwell didn't care much about maintaining an undefeated record through the season. The Jets-Bengals games were literally back-to-back, as their regular season encounter took place on the last week of the season. Oddly enough, the Cowboys and the Eagles were in a similar situation, playing each other on the last week of the season only to have to play each other again in the Wild Card round. The games played out the same way both ways - the Cowboys were able to win in domineering fashion. It makes me wonder whether the second meeting between two teams meeting one another on consecutive weeks favors the winner of the first meeting. 
+We have the same result in 3 matches and different results in 3 matches. Some games here have circumstances worth mentioning - in the Colts loss to the Jets, Peyton Manning was pulled early for some strange reason. Apparently, Jim Caldwell didn't care much about maintaining an undefeated record through the season. The Jets-Bengals games were literally back-to-back, as their regular season encounter took place on the last week of the season. Oddly enough, the Cowboys and the Eagles were in a similar situation, playing each other on the last week of the season only to have to play each other again in the Wild Card round. The games played out the same way both ways - the Cowboys were able to win in domineering fashion. It makes me wonder whether the second meeting between two teams meeting one another on consecutive weeks favors the winner of the first meeting.
 
 Once again, we have another incidence here of teams meeting one another on back-to-back meetings - the Packers and the Cardinals. However, the Cardinals trotted out their back-up quarterback in the first match, so the rematch was a little different. Aaron Rodgers and his crew were able to rack up more points in the rematch though.
 
@@ -56,3 +56,15 @@ We have the same result in 1 match and different results in 4 matches. Once agai
 ***
 
 ## 2011
+
+_Regular Season_
+
+* **Packers (38)** @ Giants (35)
+* Giants (20) @ **49ers (27)**
+* **Patriots (41)** @ Broncos (23)
+
+_Playoffs_
+
+* **Giants (37)** @ Packers (20)
+* **Giants (20)** @ 49ers (17)
+* Broncos (10) @ **Patriots (45)**
