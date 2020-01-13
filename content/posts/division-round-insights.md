@@ -21,4 +21,4 @@ There's a real force at play here that's much more destructive than bad coaching
 
 ## Texans @ Chiefs
 
-Chiefs with the big plays dominating this game.
+Chiefs with the big plays dominating this game. The Chiefs came out a bit dry, but then ramped things up quickly and rode the momentum to a 50+ point beatdown.
