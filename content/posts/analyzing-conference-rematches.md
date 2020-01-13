@@ -74,3 +74,5 @@ _Playoffs_
 * Lions (28) @ **Saints (45)**
 * Bengals (10) @ **Texans (31)**
 * Texans (13) @ **Ravens (20)**
+
+We have the same result in 4 matches and different results in 2 matches. Not much to caveat here, though it is worth noting the Texans were forced to go down their quarterback depth chart in the rematch against the Bengals. Not that it mattered much though, as Houston was still able to pull out the win.
