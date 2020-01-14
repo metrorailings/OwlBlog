@@ -122,3 +122,19 @@ _Playoffs_
 * **49ers (23)** @ Panthers (10)
 
 We have the same result in 3 matches and different results in 3 matches. It's worth noting the 49ers win against the Packers in the regular season came in the first week of the season. Nonetheless, I do see a theme here - the losers in the regular season performed better in the playoff rematch.
+
+***
+
+## 2014
+
+_Regular Season_
+
+* **Patriots (42)** @ Colts (20)
+* Packers (16) @ **Seahawks (36)**
+* **Seahawks (13)** @ Panthers (9)
+
+_Playoffs_
+
+* Colts (7) @ **Patriots (45)**
+* Packers (22) @ **Seahawks (28)**
+* Panthers (17) @ **Seahawks (31)**
