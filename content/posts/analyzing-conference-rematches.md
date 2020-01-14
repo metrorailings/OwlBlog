@@ -140,3 +140,9 @@ _Playoffs_
 * Packers (22) @ **Seahawks (28)**
 * Panthers (17) @ **Seahawks (31)**
 * Bengals (10) @ **Colts (26)**
+
+We have the same result in all 4 conference rematches.
+
+***
+
+## 2015
