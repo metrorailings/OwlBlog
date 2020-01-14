@@ -120,3 +120,5 @@ _Playoffs_
 * **Chargers (27)** @ Bengals (10)
 * **49ers (23)** @ Packers (20)
 * **49ers (23)** @ Panthers (10)
+
+We have the same result in 3 matches and different results in 3 matches. It's worth noting the 49ers win against the Packers in the regular season came in the first week of the season. Nonetheless, I do see a theme here - the losers in the regular season performed better in the playoff rematch.
