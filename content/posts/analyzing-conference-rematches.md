@@ -100,3 +100,23 @@ We have the same result in 3 matches and a different result in 1 match.
 It is worth noting that in the postseason rematch, all the losers in the first meeting did far better from a points perspective. Even the Packers, who were quite frankly lucky to have posted up 22 points against the 49ers in their first encounter. 
 
 ***
+
+## 2013
+
+_Regular Season_
+
+* Saints (7) @ **Seahawks (34)**
+* Broncos (31) @ **Patriots (34)**
+* **Colts (23)** @ Chiefs (7)
+* **Bengals (17)** @ Chargers (10)
+* Packers (28) @ **49ers (34)**
+* 49ers (9) @ **Panthers (10)**
+
+_Playoffs_
+
+* Saints (15) @ **Seahawks (23)**
+* Patriots (16) @ **Broncos (26)**
+* Chiefs (44) @ **Colts (45)**
+* **Chargers (27)** @ Bengals (10)
+* **49ers (23)** @ Packers (20)
+* **49ers (23)** @ Panthers (10)
