@@ -132,9 +132,11 @@ _Regular Season_
 * **Patriots (42)** @ Colts (20)
 * Packers (16) @ **Seahawks (36)**
 * **Seahawks (13)** @ Panthers (9)
+* Bengals (0) @ **Colts (27)**
 
 _Playoffs_
 
 * Colts (7) @ **Patriots (45)**
 * Packers (22) @ **Seahawks (28)**
 * Panthers (17) @ **Seahawks (31)**
+* Bengals (10) @ **Colts (26)**
