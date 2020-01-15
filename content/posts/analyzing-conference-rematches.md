@@ -154,6 +154,7 @@ _Regular Season_
 * **Panthers (27)** @ Seahawks (23)
 * **Seahawks (38)** @ Vikings (7)
 * Packers (8) @ **Cardinals (38)**
+* Texans (20) @ **Chiefs (27)**
 
 _Playoffs_
 
@@ -162,7 +163,10 @@ _Playoffs_
 * Seahawks (24) @ **Panthers (31)**
 * **Seahawks (10)** @ Vikings (9)
 * Packers (20) @ **Cardinals (26)**
+* Texans (0) @ **Chiefs (30)**
 
-We have the same result in 3 matches and a different result in 1 match. It's worth noting both of Denver's rematches involved a different starting quarterback. It's also worth noting that the Patriots would have likely won the first match had the injury gods not dealt them a major blow midway through the game.
+We have the same result in 5 matches and a different result in 1 match. It's worth noting both of Denver's rematches involved a different starting quarterback. It's also worth noting that the Patriots would have likely won the first match had the injury gods not dealt them a major blow midway through the game.
 
-Also, the Vikings were _so close_ to upsetting the Seahawks in their playoff rematch. Still, the fact that they slashed the point deficit down 31 points is testament to this idea that losers from the first match tend to fare better in the rematch. Same with the Packers nearly stealing the win from the Cardinals despite fielding a depleted receiver corps.
+Also, the Vikings were _so close_ to upsetting the Seahawks in their playoff rematch. Still, the fact that they slashed the point deficit down 31 points is testament to this idea that losers from the first match tend to fare better in the rematch. Same with the Packers nearly stealing the win from the Cardinals despite fielding a depleted receiver corps. Only the Texans disappoint here, faring so much worse against the Chiefs in the postseason despite losing against them earlier in the season. It does make sense though, given Bill O'Brien's well-documented history of failure.
+
+***
