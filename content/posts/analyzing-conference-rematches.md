@@ -170,3 +170,25 @@ We have the same result in 5 matches and a different result in 1 match. It's wor
 Also, the Vikings were _so close_ to upsetting the Seahawks in their playoff rematch. Still, the fact that they slashed the point deficit down 31 points is testament to this idea that losers from the first match tend to fare better in the rematch. Same with the Packers nearly stealing the win from the Cardinals despite fielding a depleted receiver corps. Only the Texans disappoint here, faring so much worse against the Chiefs in the postseason despite losing against them earlier in the season. It does make sense though, given Bill O'Brien's well-documented history of failure.
 
 ***
+
+## 2018
+
+_Regular Season_
+
+* Cowboys (13) @ **Seahawks (24)**
+* Eagles (7) @ **Saints (48)**
+* **Ravens (22)** @ Chargers (10)
+* Chiefs (40) @ **Patriots (43)**
+* Rams (35) @ **Saints (45)**
+
+_Playoffs_
+
+* Seahawks (22) @ **Cowboys (24)**
+* Eagles (14) @ **Saints (20)**
+* **Chargers (23)** @ Ravens (17)
+* **Patriots (37)** @ Chiefs (31)
+* **Rams (26)** @ Saints (23)
+
+We have the same result in 1 match and different results in 1 match.
+
+The Eagles faced off against the Saints with a different quarterback leading them in the playoffs. Philadelphia fared much better in that rematch, one score away from taking the win, though the caveat here is that Drew Brees was clearly injured and not the same in the postseason compared to the regular season.
