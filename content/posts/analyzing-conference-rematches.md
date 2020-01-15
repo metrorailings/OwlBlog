@@ -97,7 +97,7 @@ _Playoffs_
 
 We have the same result in 3 matches and a different result in 1 match.
 
-It is worth noting that in the postseason rematch, all the losers in the first meeting did far better from a points perspective. Even the Packers, who were quite frankly lucky to have posted up 22 points against the 49ers in their first encounter. 
+It is worth noting that in the postseason rematch, all the losers in the first meeting did far better from a points perspective. Even the Packers, who were quite frankly lucky to have posted up 22 points against the 49ers in their first encounter.
 
 ***
 
@@ -141,8 +141,28 @@ _Playoffs_
 * Panthers (17) @ **Seahawks (31)**
 * Bengals (10) @ **Colts (26)**
 
-We have the same result in all 4 conference rematches.
+We have the same result in all 4 conference rematches. Little disappointing to say the least. Looks like this theory is on its way to being shot down.
 
 ***
 
 ## 2015
+
+_Regular Season_
+
+* Broncos (27) @ **Steelers (34)**
+* Patriots (24) @ **Broncos (30)**
+* **Panthers (27)** @ Seahawks (23)
+* **Seahawks (38)** @ Vikings (7)
+* Packers (8) @ **Cardinals (38)**
+
+_Playoffs_
+
+* Steelers (16) @ **Broncos (23)**
+* Patriots (18) @ **Broncos (20)**
+* Seahawks (24) @ **Panthers (31)**
+* **Seahawks (10)** @ Vikings (9)
+* Packers (20) @ **Cardinals (26)**
+
+We have the same result in 3 matches and a different result in 1 match. It's worth noting both of Denver's rematches involved a different starting quarterback. It's also worth noting that the Patriots would have likely won the first match had the injury gods not dealt them a major blow midway through the game.
+
+Also, the Vikings were _so close_ to upsetting the Seahawks in their playoff rematch. Still, the fact that they slashed the point deficit down 31 points is testament to this idea that losers from the first match tend to fare better in the rematch. Same with the Packers nearly stealing the win from the Cardinals despite fielding a depleted receiver corps.
