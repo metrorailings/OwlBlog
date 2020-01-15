@@ -194,3 +194,7 @@ We have the same result in 2 matches and different results in 3 matches.
 The Eagles faced off against the Saints with a different quarterback leading them in the playoffs. Philadelphia fared much better in that rematch, one score away from taking the win, though the caveat here is that Drew Brees was clearly injured and not the same in the postseason compared to the regular season.
 
 And on that same note, the Rams winning the rematch against the Saints is somewhat tainted by the fact that Brees is clearly off now that time is catching up to him.
+
+***
+
+Data seems to accept this idea that losers in conference games during the regular season are more likely to win in the postseason, simply going by score differentials. 
