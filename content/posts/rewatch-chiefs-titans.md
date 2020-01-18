@@ -14,3 +14,5 @@ Tennessee's defensive backs are not pressing enough against the Chiefs skill pla
 The Titans have been big beneficiaries of luck in this game. Not only has Kansas been hit unfairly with penalties that ended a potential touchdown drive, but the Chiefs have been ravaged by injuries to their offensive front in the first half. Also worth mentioning is Frank Clark dropping a gift of an interception.
 
 I wonder if Carrente is more inclined to calling penalties against road teams. If so, that doesn't bode well for the Titans.
+
+So as it turns out, Carrente is more prone to favoring home teams in terms of penalties. Good news for the Chiefs.
