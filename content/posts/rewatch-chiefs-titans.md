@@ -18,3 +18,5 @@ I wonder if Carrente is more inclined to calling penalties against road teams. I
 So as it turns out, Carrente is more prone to favoring home teams in terms of penalties. Only two other referees this season have shown more favorability towards the host teams. Good news for the Chiefs.
 
 Tennessee defense masking its coverage scheme while Kansas City continues using layers of misdirection to move the ball down the field. So far, the Chiefs are winning this battle.
+
+Kansas City pass coverage has improved tremendously. Their run defense is horrible, but pass coverage is sufficient enough to allow the Chiefs to put more men in the box.
