@@ -20,3 +20,5 @@ So as it turns out, Carrente is more prone to favoring home teams in terms of pe
 Tennessee defense masking its coverage scheme while Kansas City continues using layers of misdirection to move the ball down the field. So far, the Chiefs are winning this battle.
 
 Kansas City pass coverage has stifled the Titans passing attack here outside of one play. Their run defense is horrible, but at least the Chiefs can afford to put an extra man in the box and play man coverage against the Titans skill players.
+
+Even against seven-man boxes, Derrick Henry is still chewing off huge chunks of yardage. The Chiefs are going to have a hard time keeping Henry from popping off.
