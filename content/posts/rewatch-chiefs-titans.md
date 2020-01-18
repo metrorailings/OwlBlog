@@ -10,3 +10,5 @@ The Chiefs and Titans faced each other once before in the regular season. Let's 
 The Titans are taking advantage of Kansas City's single-high coverage, nailing a big throw off play-action that ultimately led to a touchdown a few minutes later. Kansas City can negate this by emulating the Patriots strategy and keeping two safeties deep, therefore encouraging the Titans into running the ball more and passing to receivers running intermediate routes.
 
 Tennessee's defensive backs are not pressing enough against the Chiefs skill players. But then again...it's a risky proposition considering a failed press can lead to a dismal result for the Titans defense. 
+
+The Titans have been big beneficiaries of luck in this game. Not only has Kansas been hit unfairly with penalties that ended a potential touchdown drive, but the Chiefs have been ravaged by injuries to their offensive front late in the second quarter.
