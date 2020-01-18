@@ -15,4 +15,4 @@ The Titans have been big beneficiaries of luck in this game. Not only has Kansas
 
 I wonder if Carrente is more inclined to calling penalties against road teams. If so, that doesn't bode well for the Titans.
 
-So as it turns out, Carrente is more prone to favoring home teams in terms of penalties. Only two other referees have shown more favorability towards the host teams. Good news for the Chiefs.
+So as it turns out, Carrente is more prone to favoring home teams in terms of penalties. Only two other referees this season have shown more favorability towards the host teams. Good news for the Chiefs.
