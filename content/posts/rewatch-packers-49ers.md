@@ -8,3 +8,5 @@ Given that the Packers will be visiting San Francisco yet again to contend again
 ***
 
 The 49ers defensive line is manhandling this Packers offensive line. Nick Bosa, DJ Jones, Arik Armstead, and DeForest Buckner are all doing well so far to start the game.
+
+Two bad penalties against the Packers have set back their momentum.
