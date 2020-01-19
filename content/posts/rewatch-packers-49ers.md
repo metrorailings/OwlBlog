@@ -12,3 +12,7 @@ The 49ers defensive line is manhandling this Packers offensive line. Nick Bosa, 
 Two bad penalties against the Packers have set back their momentum.
 
 Horrible call on a 4th and 1 by Matt LaFleur. Just sad. A run up the middle. Nothing more than that.
+
+***
+
+I've seen enough. I question whether the Packers are capable of playing drop-back football. At the same time, I wonder the same thing about these 49ers. I'll need to watch a game where the opposing team kept them on their heels to see if Jimmy G is capable of marshaling this offense outside of scheme.
