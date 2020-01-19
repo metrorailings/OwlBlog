@@ -17,6 +17,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/afc-conference-championship-titans-chiefs.md
 - content/posts/analyzing-conference-rematches.md
 - content/posts/bears-playoff-analysis.md
 - content/posts/bucs-panthers-some-quick-game-analysis.md
