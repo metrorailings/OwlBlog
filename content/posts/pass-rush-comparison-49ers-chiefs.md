@@ -1,6 +1,5 @@
 +++
 date = 2020-01-23T12:00:00Z
-draft = true
 headline = "Pass Rush Comparison: Chiefs vs. 49ers"
 
 +++
