@@ -11,12 +11,12 @@ So let's evaluate how the two teams perform against one another by comparing the
 
 ### Packers @ Chiefs (Week 8)
 
-_Hurries: |_
+_Hurries: |||_
 
 _Hits: \~||||\~ |_
 
-_Sacks: ||_
+_Sacks: |||_
 
-_Eligible Passes Attempted: \~||||\~ \~||||\~ \~||||\~ ||_
+_Eligible Passes Attempted: \~||||\~ \~||||\~ \~||||\~ \~||||\~ |_
 
 ***
