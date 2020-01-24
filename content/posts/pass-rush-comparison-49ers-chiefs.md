@@ -13,10 +13,10 @@ So let's evaluate how the two teams perform against one another by comparing the
 
 _Hurries: |||_
 
-_Hits: \~||||\~ |_
+_Hits: ||||\~ |_
 
 _Sacks: |||_
 
-_Eligible Passes Attempted: \~||||\~ \~||||\~ \~||||\~ \~||||\~ |_
+_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||\~ |_
 
 ***
