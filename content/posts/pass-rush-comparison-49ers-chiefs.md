@@ -37,4 +37,4 @@ The raw numbers are a lot less impressive than I initially thought - the 49ers o
 
 ***
 
-### Ravens @ Chiefs (Week 3)
+### Vikings @ Chiefs (Week 9)
