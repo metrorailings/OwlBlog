@@ -21,6 +21,8 @@ _Eligible Passes Attempted:_ **35**
 
 Impressive showing from the Chiefs here. While no one defensive lineman really stood out, Kansas City was able to hit home on multiple occasions thanks in large part to their blitzing.
 
+It's worth noting neither Chris Jones nor Frank Clark were able to play in this game.
+
 ***
 
 ### Packers @ 49ers (Week 12)
@@ -39,10 +41,12 @@ The raw numbers are a lot less impressive than I initially thought - the 49ers o
 
 ### Vikings @ Chiefs (Week 9)
 
-_Hurries: ||||\~ |_
+_Hurries:_ **13**
 
-_Hits: |||_
+_Hits:_ **5**
 
-_Sacks: |_
+_Sacks:_ **1**
 
-_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||\~ ||||\~_
+_Eligible Passes Attempted:_ **41**
+
+Chris Jones established his reputation as the best pass rusher on this team, racking up a sack, a few hits, and a few hurries. Other than that, the Chiefs did a fairly good job applying heat to Cousins.
