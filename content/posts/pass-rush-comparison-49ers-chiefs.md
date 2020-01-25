@@ -50,3 +50,15 @@ _Sacks:_ **1**
 _Eligible Passes Attempted:_ **41**
 
 Chris Jones established his reputation as the best pass rusher on this team, racking up a sack, a few hits, and a few hurries. Other than that, the Chiefs did a fairly good job applying heat to Cousins.
+
+***
+
+### Vikings @ 49ers (Division Round)
+
+_Hurries:_ 
+
+_Hits:_ 
+
+_Sacks:_ 
+
+_Eligible Passes Attempted:_
