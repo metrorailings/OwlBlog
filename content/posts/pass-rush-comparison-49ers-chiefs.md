@@ -19,6 +19,8 @@ _Sacks:_ **4**
 
 _Eligible Passes Attempted:_ **35**
 
+Impressive showing from the Chiefs here. While no one defensive lineman really stood out, Kansas City was able to hit home on multiple occasions thanks in large part to their blitzing.
+
 ***
 
 ### Packers @ 49ers (Week 12)
@@ -30,3 +32,9 @@ _Hits:_ **3**
 _Sacks:_ **6**
 
 _Eligible Passes Attempted:_ **38**
+
+The raw numbers are a lot less impressive than I initially thought - the 49ers only managed to post up 9 hits on Rodgers. Still, what's key is that it seemed like San Francisco had Rodgers on his heels the whole game. Despite his tendency to hold the ball and dance in the pocket, Aaron seemed all too content settling for short passes.
+
+***
+
+### Ravens @ Chiefs (Week 3)
