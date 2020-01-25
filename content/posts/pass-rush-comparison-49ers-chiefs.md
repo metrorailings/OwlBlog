@@ -38,3 +38,11 @@ The raw numbers are a lot less impressive than I initially thought - the 49ers o
 ***
 
 ### Vikings @ Chiefs (Week 9)
+
+_Hurries: ||||\~ |_
+
+_Hits: |||_
+
+_Sacks: |_
+
+_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||\~ ||||\~_
