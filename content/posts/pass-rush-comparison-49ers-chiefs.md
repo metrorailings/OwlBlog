@@ -23,10 +23,10 @@ _Eligible Passes Attempted:_ **35**
 
 ### Packers @ 49ers (Week 12)
 
-_Hurries:_ 
+_Hurries: |||_
 
-_Hits:_
+_Hits: ||_
 
-_Sacks:_
+_Sacks: ||_
 
-_Eligible Passes Attempted:_
+_Eligible Passes Attempted: ||||\~ ||||\~ |||_
