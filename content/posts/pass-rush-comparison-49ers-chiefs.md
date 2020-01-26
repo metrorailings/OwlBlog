@@ -55,10 +55,10 @@ Chris Jones established his reputation as the best pass rusher on this team, rac
 
 ### Vikings @ 49ers (Division Round)
 
-_Hurries: ||||\~ |_
+_Hurries:_ **6**
 
-_Hits: ||||_
+_Hits:_ **4**
 
-_Sacks: ||_
+_Sacks:_ **4**
 
-_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||\~_
+_Eligible Passes Attempted:_ **25**
