@@ -69,8 +69,8 @@ _Eligible Passes Attempted:_ **25**
 
 _Hurries: ||||_
 
-_Hits: |_
+_Hits: ||_
 
 _Sacks: |_
 
-_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ |_
+_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||_
