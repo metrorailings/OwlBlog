@@ -62,3 +62,15 @@ _Hits:_ **4**
 _Sacks:_ **4**
 
 _Eligible Passes Attempted:_ **25**
+
+***
+
+### Texans @ Chiefs (Division Round)
+
+_Hurries: |_
+
+_Hits:_ 
+
+_Sacks:_ 
+
+_Eligible Passes Attempted: ||||\~_
