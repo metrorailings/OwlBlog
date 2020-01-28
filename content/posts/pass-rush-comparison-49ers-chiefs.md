@@ -89,4 +89,4 @@ _Hits:_
 
 _Sacks:_ 
 
-_Eligible Passes Attempted:_ 
+_Eligible Passes Attempted: |_
