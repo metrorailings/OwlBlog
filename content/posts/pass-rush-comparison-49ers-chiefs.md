@@ -63,14 +63,30 @@ _Sacks:_ **4**
 
 _Eligible Passes Attempted:_ **25**
 
+The 49ers did well harassing Kirk Cousins on a regular basis. Nick Bosa and Arik Armstead stood out in particular.
+
 ***
 
 ### Texans @ Chiefs (Division Round)
 
-_Hurries: ||||_
+_Hurries:_ **9**
 
-_Hits: ||_
+_Hits:_ **3**
 
-_Sacks: |_
+_Sacks:_ **3**
 
-_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||_
+_Eligible Passes Attempted:_ **35**
+
+Frank Clark made his presence known in his return. Without the services of Chris Jones, Clark was easily the best pass rusher. The Chiefs did manage to manufacture some pressures with blitz packages.
+
+***
+
+### Titans @ Chiefs (Conference Championship)
+
+_Hurries:_ 
+
+_Hits:_ 
+
+_Sacks:_ 
+
+_Eligible Passes Attempted:_ 
