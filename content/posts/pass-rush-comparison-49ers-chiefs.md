@@ -83,10 +83,10 @@ Frank Clark made his presence known in his return. Without the services of Chris
 
 ### Titans @ Chiefs (Conference Championship)
 
-_Hurries: ||||\~ ||_
+_Hurries:_ **11**
 
-_Hits: |_
+_Hits:_ **1**
 
-_Sacks:_
+_Sacks:_ **2**
 
-_Eligible Passes Attempted: ||||\~ ||||\~ ||||\~ ||||_
+_Eligible Passes Attempted:_ **29**__
