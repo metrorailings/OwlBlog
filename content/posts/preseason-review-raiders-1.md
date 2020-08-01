@@ -8,20 +8,22 @@ headline = "2020 Preseason Review: Oakland Raiders"
 
 ***
 
-**QB:** _Derek Carr_
+**QB**  
+_Derek Carr_
 
-**Known Offensive Vectors:** _Jalen Richard (RB)_
+**KNOWN VECTORS**  
+_Josh Jacobs (RB)_
 
-**Potential Offensive Vectors:** _Tyrell Williams (WR), Josh Jacobs (RB), Doug Martin (RB)_
+**NOTABLE DEFENSIVE PLAYERS**  
+_Clelin Ferrell (DE)_
 
-**Key Defensive Personnel:** _Clelin Ferrell (DE)_
+**MANAGERS**  
+_Mike Mayock (New GM), Jon Gruden (HC), Greg Olson (OC), Paul Guenther (DC)_
 
-**Managers:** _Mike Mayock (New GM), Jon Gruden (HC), Greg Olson (OC), Paul Guenther (DC)_
+**VEGAS OVER/UNDER**  
+6
 
-**Vegas Over/Under:** 6
-
-**Coaching Turnover:**
-
+**STAFF TURNOVER**  
 Aside from the running backs coach, the offensive coaching staff has been kept intact from last year. It's worth noting that this team has opted to keep Tom Cable around as the offensive line coach, despite his track record of failure. So not much is to be expected from the offensive line this year, putting even more pressure on an easily frightened Derek Carr.
 
 On defense, we see a bit of reorganization. The defensive line coach from last year is now a senior assistant on the defensive staff. A new coach was hired to take on oversight duties over the defensive line. On a similar note, the senior assistant from last year will now be training the defensive backs exclusively - the old coach that managed the secondary has been sent packing.
