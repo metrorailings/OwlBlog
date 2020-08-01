@@ -1,6 +1,5 @@
 +++
 date = 2020-08-01T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Las Vegas Raiders"
 
 +++
@@ -18,12 +17,13 @@ _Josh Jacobs (RB), Darren Waller (TE), Hunter Renfrow (WR)_
 _Clelin Ferrell (DE), Maxx Crosby (DE)_
 
 **MANAGERS**  
-_Mike Mayock (New GM), Jon Gruden (HC), Greg Olson (OC), Paul Guenther (DC)_
+_Jon Gruden (HC), Mike Mayock (GM), Greg Olson (OC), Paul Guenther (DC)_
 
 **VEGAS OVER/UNDER**  
 7\.5 (-115)
 
-**STAFF TURNOVER**
+**STAFF TURNOVER**  
+The one major change here is Rod Marinelli now overseeing the defensive line. Marinelli's great work in Dallas bodes well for Las Vegas here, as the Raiders were one of the worst teams at rushing the passer. Not one defensive player last year really staked a name for himself as a marquis pass rusher.
 
 ***
 
