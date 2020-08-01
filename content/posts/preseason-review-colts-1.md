@@ -7,14 +7,14 @@ headline = "2020 Preseason Review: Indianapolis Colts"
 
 ***
 
-**QB  
-**_Philip Rivers_
+**QB**  
+_Philip Rivers_
 
-**KNOWN VECTORS**   
-_T.Y. Hilton (WR), Marlon Mack (RB),_
+**KNOWN VECTORS**  
+_T.Y. Hilton (WR), Marlon Mack (RB)_
 
-**NOTABLE DEFENSIVE PLAYERS  
-**_DeForest Buckner (DT), Justin Houston (DE), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
+**NOTABLE DEFENSIVE PLAYERS**  
+_DeForest Buckner (DT), Justin Houston (DE), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
 
 **MANAGERS**  
 _Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
