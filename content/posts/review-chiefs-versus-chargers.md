@@ -1,5 +1,6 @@
 +++
 date = 2020-01-30T12:00:00Z
+draft = true
 headline = "Review of Chiefs against the Chargers"
 
 +++
