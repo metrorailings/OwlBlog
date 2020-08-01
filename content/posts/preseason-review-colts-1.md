@@ -7,17 +7,17 @@ headline = "2020 Preseason Review: Indianapolis Colts"
 
 ***
 
-**QB:** _Philip Rivers_
+**-QB-** _Philip Rivers_
 
-**Known Vectors:** _T.Y. Hilton (WR), Marlon Mack (RB),_ 
+**-KNOWN VECTORS-** _T.Y. Hilton (WR), Marlon Mack (RB),_
 
-**Notable Defensive Personnel:** _DeForest Buckner (DT), Justin Houston (DE), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
+**-NOTABLE DEFENSIVE PLAYERS-** _DeForest Buckner (DT), Justin Houston (DE), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
 
-**Managers:** _Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
+**-MANAGERS-** _Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
 
-**Vegas Over/Under:** 8.5 (-160)
+**-VEGAS OVER/UNDER-** 8.5 (-160)
 
-**Staff Turnover:**
+**-STAFF TURNOVER-**
 
 On the offensive side, we have no significant turnover. Mike Groh was added to the staff as a wide receivers coach. Last year's wide receivers coach has been re-assigned as a passing game specialist.
 
@@ -33,4 +33,4 @@ On the defensive side, the addition of DeForest Buckner gives this defense  a tr
 
 Oddly enough, the Colts opted to leave Pierre Desir out on the streets this year, instead bringing in Xavier Rhodes to fill his roster spot. It remains to be seen whether Rhodes is an adequate replacement given his shit play from last year. Maybe a change of scenery could do him good? If Rhodes can at least regress back to average form and Rock Ya-Sin (last year's first round pick) can take the next step in his development, this Indy defense will be complete at all three levels.
 
-So in the end, we have a few major factors of uncertainty here that keeps me from crowning this team as championship contenders. Despite these unknowns though, I still feel good calling these Colts as an elite team given that they have one of the best coaching staffs in the league. In Reich I trust.   
+So in the end, we have a few major factors of uncertainty here that keeps me from crowning this team as championship contenders. Despite these unknowns though, I still feel good calling these Colts as an elite team given that they have one of the best coaching staffs in the league. In Reich I trust.
