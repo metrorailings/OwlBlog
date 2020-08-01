@@ -22,8 +22,8 @@ _Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
 **VEGAS OVER/UNDER**  
 8\.5 (-160)
 
-**STAFF TURNOVER  
-**On the offensive side, we have no significant turnover. Mike Groh was added to the staff as a wide receivers coach. Last year's wide receivers coach has been re-assigned as a passing game specialist.
+**STAFF TURNOVER**  
+On the offensive side, we have no significant turnover. Mike Groh was added to the staff as a wide receivers coach. Last year's wide receivers coach has been re-assigned as a passing game specialist.
 
 On the defensive side of the ball, everybody was retained except for Mike Phair, the defensive line coach. Phair voluntarily left the team to go join old friends over in Carolina. In his place is Brian Baker.
 
