@@ -34,3 +34,5 @@ Gruden is heralded as some offensive genius, yet his offense scoring only 21 poi
 It's not even a difficult game plan to figure out. It's a power rushing attack combined with short passes. The offense only saw success on their drives so long as the vast majority of plays on any one play netted positive yards. Should Oakland fall behind schedule, the drive was essentially doomed.
 
 It's not just the poor game planning either. His personnel decisions has been horrific. And his quarterback situation still remains a bit of a train wreck. Neither Derek Carr nor Marcus Mariota give Gruden the type of quarterback he wants - one with juice.
+
+On defense, things still remain questionable. I'm not sure if any of their free agency pick-ups or their draft selections from this year or last are ready to step up. Nobody in Paul Guenther's unit really impressed last year heading into their second year under his system.  
