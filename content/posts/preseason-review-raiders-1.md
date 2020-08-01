@@ -35,4 +35,6 @@ It's not even a difficult game plan to figure out. It's a power rushing attack c
 
 It's not just the poor game planning either. His personnel decisions has been horrific. And his quarterback situation still remains a bit of a train wreck. Neither Derek Carr nor Marcus Mariota give Gruden the type of quarterback he wants - one with juice.
 
-On defense, things still remain questionable. I'm not sure if any of their free agency pick-ups or their draft selections from this year or last are ready to step up. Nobody in Paul Guenther's unit really impressed last year heading into their second year under his system.  
+On defense, things still remain questionable. I'm not sure if any of their free agency pick-ups or their draft selections from this year or last are ready to step up. Nobody in Paul Guenther's unit really impressed last year heading into their second year under his system.
+
+I don't feel good at all about this Raiders organization. I don't think they're trending in the right direction quite yet. And the coronavirus will only frustrate them more as they get used to their new venue in Vegas. I'm projecting a bottom-feeder here.
