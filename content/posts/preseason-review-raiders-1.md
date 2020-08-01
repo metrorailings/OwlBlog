@@ -21,7 +21,7 @@ _Clelin Ferrell (DE), Maxx Crosby (DE)_
 _Mike Mayock (New GM), Jon Gruden (HC), Greg Olson (OC), Paul Guenther (DC)_
 
 **VEGAS OVER/UNDER**  
-6
+7\.5 (-115)
 
 **STAFF TURNOVER**
 
