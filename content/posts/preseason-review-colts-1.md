@@ -27,7 +27,7 @@ On the defensive side of the ball, everybody was retained except for Mike Phair,
 
 As expected, the Colts fell a little short of the playoffs last year, mostly because Jacoby Brissett couldn't step up as a starting quarterback. Interestingly enough, the Colts were mostly solid on so many other points, especially on offensive line. But those strengths weren't enough to overcome their deficiency at quarterback.
 
-This year is a brand new year, though. Philip Rivers has now been hired to command this offense from behind center. Unlike Brissett, Rivers is a proven franchise quarterback. Indianapolis can trust him to make their passing game competent once more. His age may have started catching up to him, but the arm strength and the intellect is still there.
+This year is a brand new year, though. Philip Rivers has now been hired to command this offense from behind center. Unlike Brissett, Rivers is a proven franchise quarterback. Indianapolis can trust him to make their passing game competent once more, even if Philip's age may have started catching up to him. Watching a few of his plays from last year, I know the arm strength and the intellect is still there.
 
 On the defensive side, the addition of DeForest Buckner gives this defense  a true cornerstone player that can dominate the line of scrimmage. Last year, the only player on this squad worth his salt at rushing the passer was Justin Houston, who could only play spot duty. Buckner though is a down-to-down player, so the Colts should always be able to field a dominant pass rusher on the field so long as the two remain healthy.
 
