@@ -93,4 +93,4 @@ _Eligible Passes Attempted:_ **29**
 
 Another name worth mentioning on this Chiefs defensive line is Tanoh Kpassagnon. Even though Frank Clark and Chris Jones racked up the most pressure for the Chiefs, K-Pass came up big with two sacks.
 
-Still, not that impressive a performance given both Frank Clark and Chris Jones were active. Now the Titans did tune their offensive front towards the end of the game to better ward off pressure, but this performance doesn't bode well against a 49ers team that's built somewhat similarly to the Titans on offense.__
+Still, not that impressive a performance given both Frank Clark and Chris Jones were active. Now the Titans did tune their offensive front towards the end of the game to better ward off pressure, but this performance doesn't bode well against a 49ers team that's built somewhat similarly to the Titans on offense.
