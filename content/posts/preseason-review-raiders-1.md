@@ -31,4 +31,6 @@ _Mike Mayock (New GM), Jon Gruden (HC), Greg Olson (OC), Paul Guenther (DC)_
 
 Gruden is heralded as some offensive genius, yet his offense scoring only 21 points coming out of halftime last year tells me otherwise. It seems to me that teams managed to figure Jon's game plan out after a few quarters. Normally, great coaches would adjust accordingly in order to keep opposing defenses guessing, but Gruden seemed incapable of that. Pretty worrying for the man tasked with helping the Raiders relive their old days of glory.
 
+It's not even a difficult game plan to figure out. It's a power rushing attack combined with short passes. The offense only saw success on their drives so long as the vast majority of plays on any one play netted positive yards. Should Oakland fall behind schedule, the drive was essentially doomed.
+
 It's not just the poor game planning either. His personnel decisions has been horrific. And his quarterback situation still remains a bit of a train wreck. Neither Derek Carr nor Marcus Mariota give Gruden the type of quarterback he wants - one with juice.
