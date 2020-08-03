@@ -20,7 +20,7 @@ _DeForest Buckner (DT), Justin Houston (DE), Darius Leonard (OLB), Xavier Rhodes
 _Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
 
 **VEGAS OVER/UNDER**  
-8\.5 (-160)
+8\.5
 
 **STAFF TURNOVER**  
 On the offensive side, we have no significant turnover. Mike Groh was added to the staff as a wide receivers coach. Last year's wide receivers coach has been re-assigned as a passing game specialist.
