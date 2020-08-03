@@ -30,4 +30,4 @@ On the defensive side, we see two new position coaches in Al Golden and Steve Ja
 
 ***
 
-After posting the worst record last year, the Bengals have nowhere to go but up. Joe Burrow brings with him a ray of hope for this team's future prospects.
+After posting the worst record last year, the Bengals have nowhere to go but up. But to be fair, we shouldn't be setting the bar so low for this team, for these Bengals finally have some reason for hope in Joe Burrow. Burrow is an all-world talent. If he realizes his potential as an elite quarterback, this team will finally climb the ranks as a contender worth noticing. 
