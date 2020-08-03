@@ -20,14 +20,14 @@ _Clelin Ferrell (DE), Maxx Crosby (DE)_
 _Jon Gruden (HC), Mike Mayock (GM), Greg Olson (OC), Paul Guenther (DC)_
 
 **VEGAS OVER/UNDER**  
-7\.5 (-115)
+7\.5
 
 **STAFF TURNOVER**  
 The one major change here is Rod Marinelli now overseeing the defensive line. Marinelli's great work in Dallas bodes well for Las Vegas here, as the Raiders were one of the worst teams at rushing the passer. Not one defensive player last year really staked a name for himself as a marquis pass rusher.
 
 ***
 
-21 points. That's the total number of points these Raiders scored during the third quarter _in all 16 games last season_ - 21 points. Last year's Raiders were so bad, that not one player on that team was invited to the Pro Bowl. Think about that - the team with the most deluded fanbase in the league couldn't even manage to send one of their own to Hawaii. 
+21 points. That's the total number of points these Raiders scored during the third quarter _in all 16 games last season_ - 21 points. Last year's Raiders were so bad, that not one player on that team was invited to the Pro Bowl. Think about that - the team with the most deluded fanbase in the league couldn't even manage to send one of their own to Hawaii.
 
 Gruden is heralded as some offensive genius, yet his offense scoring only 21 points coming out of halftime last year tells me otherwise. It seems to me that teams managed to figure Jon's game plan out after a few quarters. Normally, great coaches would adjust accordingly in order to keep opposing defenses guessing, but Gruden seemed incapable of that. Pretty worrying for the man tasked with helping the Raiders relive their old days of glory.
 
