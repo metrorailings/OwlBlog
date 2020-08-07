@@ -3,7 +3,7 @@ date = 2020-08-02T12:00:00Z
 headline = "2020 Preseason Review: Cincinnati Bengals"
 
 +++
-## **_Tier 6_**
+## **_Tier 7_**
 
 ***
 
