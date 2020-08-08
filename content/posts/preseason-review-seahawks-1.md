@@ -4,25 +4,27 @@ draft = true
 headline = "2020 Preseason Review: Seattle Seahawks"
 
 +++
-## **_Tier 2_**
+## **_- Tier 2 -_**
 
 ***
 
-**QB:** _Russell Wilson_
+**QB  
+**_Russell Wilson_
 
-**Known Offensive Vectors:** _Russell Wilson (Mobile QB), Tyler Lockett (WR), Chris Carson (RB), Will Dissly (TE)_
+**KNOWN VECTORS**  
+_Russell Wilson (Mobile QB), Tyler Lockett (WR), D.K. Metcalf (WR), Chris Carson (RB), Will Dissly (TE)_
 
-**Potential Offensive Vectors:** _N/A_
+**NOTABLE DEFENSIVE PLAYERS**  
+_L.J. Collier (DE), Jarran Reed (DT), Bobby Wagner (LB), Jamal Adams (SS)_
 
-**Key Defensive Personnel:** _Jadeveon Clowney (DE), Ezekiel Ansah (DE), L.J. Collier (DE), Jarran Reed (DT), Bobby Wagner (LB), Bradley McDougald (SS)_
+**MANAGERS**  
+_John Schneider (GM), Pete Carroll (HC), Brian Schottenheimer (OC), Ken Norton Jr (DC)_
 
-**Managers:** _John Schneider (GM), Pete Carroll (HC), Brian Schottenheimer (OC), Ken Norton Jr (DC)_
+**VEGAS OVER/UNDER**  
+9\.5
 
-**Vegas Over/Under:** 8.5
-
-**Coaching Turnover:**
-
-On offense, the team added a few more assistants to the staff.
+**COACHING TURNOVER  
+**On offense, the team restructured their organization. Schottenheimer will not have two junior coordinators reporting to him, .
 
 On defense, nothing changed coaching-wise from last year.
 
