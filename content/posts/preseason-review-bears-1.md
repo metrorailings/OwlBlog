@@ -32,4 +32,6 @@ On defense, things look mostly the same. Technically, the Bears lost a defensive
 
 The Bears were a mess last year. And they'll likely be a mess again this year so long as Moscow Mitch Trubisky remains at the helm of their offense.
 
-Things get interesting when we start looking at Nick Foles though. It's only a matter of time before Mitch is demoted in favor of Foles.
+Things get interesting when we start looking at Nick Foles though. It's only a matter of time before Mitch is demoted in favor of Foles. But then two questions will dictate the Bears fate here - when is Foles going to take over the offense and will he be anywhere close to Super Bowl form when he makes his starting debut?
+
+In regards to the first question, 
