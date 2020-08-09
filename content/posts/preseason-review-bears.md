@@ -1,5 +1,5 @@
 +++
-date = "2019-09-05 12:00:08"
+date = 2019-09-05T12:00:08Z
 headline = "Preseason Review: Chicago Bears"
 
 +++

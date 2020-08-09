@@ -4,24 +4,24 @@ draft = true
 headline = "2020 Preseason Review: Chicago Bears"
 
 +++
-## **_Tier 2_**
+## **_Tier 6_**
 
 ***
 
 **QB**  
-_Russell Wilson_
+_Mitch Trubisky, Nick Foles_
 
 **KNOWN VECTORS**  
-_Russell Wilson (Mobile QB), Tyler Lockett (WR), D.K. Metcalf (WR), Chris Carson (RB), Will Dissly (TE)_
+_Mitch Trubisky (Mobile QB), Allen Robinson (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_L.J. Collier (DE), Jarran Reed (DT), Bobby Wagner (LB), Jamal Adams (SS)_
+_Akeem Hicks (DT), Khalil Mack (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
 
 **MANAGERS**  
-_John Schneider (GM), Pete Carroll (HC), Brian Schottenheimer (OC), Ken Norton Jr (DC)_
+_Ryan Pace (GM), Matt Nagy (HC), Mark Helfrich (OC), Chuck Pagano (DC)_
 
 **VEGAS OVER/UNDER**  
-9\.5
+8
 
 **COACHING TURNOVER**  
 On offense, the team restructured their organization. Schottenheimer will now have two junior coordinators reporting to him, Dave Canales as the passing game coordinator and Brennan Carroll as the run-game coordinator. Interestingly enough, most of the offensive assistance coaches from last year have been retained, just shifted into revised roles.
