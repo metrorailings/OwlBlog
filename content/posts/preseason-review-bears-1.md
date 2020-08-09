@@ -15,15 +15,19 @@ _Mitch Trubisky, Nick Foles_
 _Mitch Trubisky (Mobile QB), Allen Robinson (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Akeem Hicks (DT), Khalil Mack (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
+_Akeem Hicks (DT), Khalil Mack (DE), Robert Quinn (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
 
 **MANAGERS**  
-_Ryan Pace (GM), Matt Nagy (HC), Mark Helfrich (OC), Chuck Pagano (DC)_
+_Ryan Pace (GM), Matt Nagy (HC), Bill Lazor (New OC), Chuck Pagano (DC)_
 
 **VEGAS OVER/UNDER**  
 8
 
 **COACHING TURNOVER**  
-On offense, the team restructured their organization. Schottenheimer will now have two junior coordinators reporting to him, Dave Canales as the passing game coordinator and Brennan Carroll as the run-game coordinator. Interestingly enough, most of the offensive assistance coaches from last year have been retained, just shifted into revised roles.
+After a disastrous season last year, the Bears fired so many of their offensive coaches, including their coordinator. Interestingly enough, Matt Nagy is technically the mastermind of the offense and yet he still remains gainfully employed, which suggests to me that Nagy organized these firings in order to salvage his career in Chicago. Whatever the case though, Chicago has new coaches in place to lead their offense and train their quarterbacks, offensive linemen, and tight ends. One thing worth noting here is that some assistant coaches were hired before Bill Lazor was even formally brought into the fold as the new offensive coordinator. Either Nagy and Lazor were working together before the latter was officially hired or Nagy doesn't care much what his coordinator thinks cause it's his offense.
 
-On defense, the only major change is Damione Lewis coming into the fold as the defensive line coach, replacing Jethro Franklin from last year. It's unclear whether Franklin was actually fired in the offseason, but it's worth noting that last year's defensive front was barely serviceable. So it seems likely the Hawks' brain trust actively sought to bring in a new coach this year to oversee that unit.
+On defense, things look mostly the same. Technically, the Bears lost a defensive assistant coach to the offense - Chris Jackson switched sides and is now assisting Mike Furrey with the receiving corps.
+
+***
+
+The Bears were a mess last year. Mitch Trubisky fell apart 
