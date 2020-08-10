@@ -32,6 +32,10 @@ On defense, things look mostly the same. Technically, the Bears lost a defensive
 
 The Bears were a mess last year. And they'll likely be a mess again this year so long as Moscow Mitch Trubisky remains at the helm of their offense.
 
-Things get interesting when we start looking at Nick Foles though. It's only a matter of time before Mitch is demoted in favor of Foles. But then two questions will dictate the Bears fate here - when is Foles going to take over the offense and will he be anywhere close to Super Bowl form when he makes his starting debut?
+Things get interesting when we start looking at Nick Foles though. It's only a matter of time before Mitch is demoted in favor of Foles. In that light, two major questions will dictate the Bears fate  - when is Foles going to become the team's primary quarterback and will he be anywhere close to Super Bowl form when he makes his starting debut?
 
-In regards to the first question, 
+In regards to the first question, my hunch is that Trubisky will be benched following a series of horrific outings. Looking at the schedule, I noticed the Bears run into a rough gauntlet of opponents in November. It'd be a little late by then, but Foles will probably earn the starting nod sometime in late November.
+
+The second question is even murkier. Foles has been hot and cold through the years. His sensational years in Philadelphia were followed by a pathetically lackluster year in Jacksonville. It helps that Nick will be joined in Chicago by coaches that've worked well with him in the past, but that's still not very reassuring to me. In the end, it depends on whether the offensive system Nagy installs in place is a comfortable fit for Nick.
+
+The defense will be fine. While last year's unit was not as prolific as the unit from two years back, it still boasts dominant players at every level. With a little more motivation, this defense can easily round into top form. 
