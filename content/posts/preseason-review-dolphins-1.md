@@ -7,13 +7,17 @@ headline = "2020 Preseason Review: Miami Dolphins"
 **QB**  
 _Ryan Fitzpatrick, Tua Tagovailoa_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS**  
+_Kenyan Drake (RB), DeVante Parker (WR)_
 
-**NOTABLE DEFENSIVE PLAYERS**
+**NOTABLE DEFENSIVE PLAYERS**  
+_Christian Wilkins (DT), Xavien Howard (CB)_
 
-**MANAGERS**
+**MANAGERS**  
+_Chris Grier (GM), Brian Flores (New HC), Chad O’Shea (New OC), Patrick Graham (New DC)_
 
-**VEGAS OVER/UNDER**
+**VEGAS OVER/UNDER  
+**6
 
 **COACHING TURNOVER**
 
