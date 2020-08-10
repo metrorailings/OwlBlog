@@ -14,11 +14,12 @@ _Kenyan Drake (RB), DeVante Parker (WR)_
 _Christian Wilkins (DT), Xavien Howard (CB)_
 
 **MANAGERS**  
-_Chris Grier (GM), Brian Flores (New HC), Chad O’Shea (New OC), Patrick Graham (New DC)_
+_Chris Grier (GM), Brian Flores (New HC), Chan Gailey (New OC), Josh Boyer (New DC)_
 
 **VEGAS OVER/UNDER  
 **6
 
-**COACHING TURNOVER**
+**COACHING TURNOVER  
+**The team blew up their offensive coaching staff after only one season under Brian Flores' tenure as head coach. Not sure why, as Chad O'Shea wasn't given much talent to work with. Chan Gailey comes into the organization as the new offensive coordinator this year. 
 
 ***
