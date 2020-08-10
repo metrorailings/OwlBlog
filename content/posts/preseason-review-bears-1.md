@@ -11,7 +11,7 @@ headline = "2020 Preseason Review: Chicago Bears"
 _Mitch Trubisky, Nick Foles_
 
 **KNOWN VECTORS**  
-_Mitch Trubisky (Mobile QB), Allen Robinson (WR)_
+_Allen Robinson (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Akeem Hicks (DT), Khalil Mack (DE), Robert Quinn (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
