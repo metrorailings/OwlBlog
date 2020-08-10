@@ -1,6 +1,5 @@
 +++
 date = 2020-08-07T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Chicago Bears"
 
 +++
@@ -38,4 +37,8 @@ In regards to the first question, my hunch is that Trubisky will be benched foll
 
 The second question is even murkier. Foles has been hot and cold through the years. His sensational years in Philadelphia were followed by a pathetically lackluster year in Jacksonville. It helps that Nick will be joined in Chicago by coaches that've worked well with him in the past, but that's still not very reassuring to me. In the end, it depends on whether the offensive system Nagy installs in place is a comfortable fit for Nick.
 
-The defense will be fine. While last year's unit was not as prolific as the unit from two years back, it still boasts dominant players at every level. With a little more motivation, this defense can easily round into top form. 
+The defense will be fine. While last year's unit was not as prolific as the unit from two years back, it still boasts dominant players at every level. With a little more motivation, this defense can easily round into top form.
+
+Matt Nagy is another question mark worth addressing. His offensive system was exposed last year - the gadget plays, the screens to Tarik Cohen, the designed quarterback runs...none of those plays generated much positive value last year. I'm not sure whether that's an indictment on Nagy or Mitch though. If Mitch is really holding Nagy back, we should see some improvement when Foles steps onto the field under center.
+
+I doubt the Bears will make the playoffs. A middling season is likely in the works though. I see 7-8 wins here.
