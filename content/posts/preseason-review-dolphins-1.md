@@ -11,7 +11,7 @@ _Ryan Fitzpatrick, Tua Tagovailoa_
 _Kenyan Drake (RB), DeVante Parker (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Christian Wilkins (DT), Xavien Howard (CB)_
+_Christian Wilkins (DT), Shaq Lawson (DE), Kyle Van Noy (LB), Xavien Howard (CB), Byron Jones (CB)_
 
 **MANAGERS**  
 _Chris Grier (GM), Brian Flores (New HC), Chan Gailey (New OC), Josh Boyer (New DC)_
@@ -32,4 +32,6 @@ Tua Tagovailoa is another point of concern for me. Given his injury history, he 
 
 Then again, quarterbacks like Robert Griffin, Andrew Luck, and Lamar Jackson managed to thrive in their first years in the NFL. If I had to reason why these players manage to perform well in their rookie season, I'd chalk it up largely to two things - dynamism and charisma. Quarterbacks possessing those two qualities are simply better fit to lead offenses through negative game script. See, the psychological baggage of negative game script can be particularly taxing on rookie passers - to marshal an offense is hard enough as is, but once momentum starts swinging hard against you, it becomes especially grueling. Quarterbacks with charisma and plenty of talents can overcome these down moments quicker than other players. And I do believe Tua Tagovailoa has those qualities in spades, even if he's rusty.
 
-The defense has seen some massive upgrades this season thanks to free agency.
+The defense has seen some massive upgrades this season thanks to free agency. Every level of the defense now features a proven player.  A pretty jarring contrast to their actions last season, when Flores and Grier seemed more than happy to shed off any promising talent on the roster in order to build up draft capital and salary cap.
+
+The Dolphins seem like they'll be taking things much more seriously this year. What worries me about this shift in mentality is that the coaches may try to inject Tua into the game plan earlier than necessary. Maybe Tua will carry this team to the next level or maybe he'll break down after a few hard hits. I'm not sure. It's hard to gauge this team's prospects.
