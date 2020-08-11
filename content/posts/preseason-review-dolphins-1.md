@@ -11,7 +11,7 @@ headline = "2020 Preseason Review: Miami Dolphins"
 _Ryan Fitzpatrick, Tua Tagovailoa_
 
 **KNOWN VECTORS**  
-_Kenyan Drake (RB), DeVante Parker (WR)_
+_DeVante Parker (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Christian Wilkins (DT), Shaq Lawson (DE), Kyle Van Noy (LB), Xavien Howard (CB), Byron Jones (CB)_
