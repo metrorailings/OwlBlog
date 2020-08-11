@@ -15,11 +15,13 @@ _Kirk Cousins_
 _Adam Thielan (WR), Dalvin Cook (RB), Justin Jefferson (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS  
-**_Danielle Hunter (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
+**_Danielle Hunter (DE), Ifeadi Odenigbo (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
 
-**MANAGERS**
+**MANAGERS**  
+_Rick Spielman (GM), Mike Zimmer (HC/DC), Gary Kubiak (OC)_
 
-**VEGAS OVER/UNDER**
+**VEGAS OVER/UNDER  
+**8.5/9
 
 **COACHING TURNOVER**
 
