@@ -16,14 +16,18 @@ _Christian Wilkins (DT), Xavien Howard (CB)_
 **MANAGERS**  
 _Chris Grier (GM), Brian Flores (New HC), Chan Gailey (New OC), Josh Boyer (New DC)_
 
-\**VEGAS OVER/UNDER  
-\**6
+**VEGAS OVER/UNDER**  
+6
 
-\**COACHING TURNOVER  
-\**The team blew up their offensive coaching staff after only one season under Brian Flores' tenure as head coach. Not sure why, as Chad O'Shea wasn't given much talent to work with. Chan Gailey comes into the organization as the new offensive coordinator this year.
+**COACHING TURNOVER**  
+The team blew up their offensive coaching staff after only one season under Brian Flores' tenure as head coach. Not sure why, as Chad O'Shea wasn't given much workable talent in the first place. Chan Gailey comes into the organization as the new offensive coordinator this year. Only the coaches training the halfbacks and the tight ends were carried over from last year.
+
+Likewise, the defense went through a reshuffling of its own. Flores replaced last year's coordinator with a friendly face in Josh Boyer, a colleague from his days in New England. Most of the assistant defensive coaches from last year were retained as well. Four new coaches were hired to mentor the linebackers and defensive backs. 
 
 ***
 
-I'm a little concerned at the coaching changes in the offseason. Major organizational changes don't usually follow a season where the team exceeds expectations. Maybe this shake-up will ultimately produce an even better team, but the whole thing just seems so bizarre to me, especially when considering some assistant coaches held on to their jobs even as their superiors ended up getting canned.
+I'm a little concerned at all the coaching changes in the offseason. Major organizational revisions don't usually follow a season where the team exceeds expectations. Maybe this shake-up will ultimately produce an even better team, but the whole thing just seems so bizarre to me, especially considering some assistant coaches held on to their jobs despite the coordinators getting fired.
 
-Tua Tagovailoa is another point of concern for me. He may be too brittle for this league. And on top of that, it's been years since he's seen action on a football field. Combine that with the lack of practice this year
+Tua Tagovailoa is another point of concern for me. Given his injury history, he may be too brittle for this league. And on top of that, it's been years since he's seen meaningful action on a football field. Combine that with shortened practices this season and don't be surprised if Tua suffers through some rough outings his first year in the professional leagues.
+
+Then again, quarterbacks like Robert Griffin, Andrew Luck, and Lamar Jackson managed to thrive in their first years in the NFL. If I had to reason why these players manage to perform well in their rookie season, I'd chalk it up largely to two things - dynamism and charisma. Quarterbacks possessing those two qualities are simply better fit to lead offenses, especially through negative game script. In fact, the psychological baggage of negative game script can be particularly taxing on rookie passers. To marshal an offense is hard enough as is, but once momentum starts swinging hard against you, it becomes especially grueling. Quarterbacks with charisma and plenty of talents can overcome these down moments quicker than other players.  
