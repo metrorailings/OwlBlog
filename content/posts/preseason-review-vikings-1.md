@@ -12,9 +12,10 @@ headline = "2020 Preseason Review: Minnesota Vikings"
 _Kirk Cousins_
 
 **KNOWN VECTORS**  
-_Adam Thielan (WR), Dalvin Cook (RB)_
+_Adam Thielan (WR), Dalvin Cook (RB), Justin Jefferson (WR)_
 
-**NOTABLE DEFENSIVE PLAYERS**
+**NOTABLE DEFENSIVE PLAYERS  
+**_Danielle Hunter (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
 
 **MANAGERS**
 
