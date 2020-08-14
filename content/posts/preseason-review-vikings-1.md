@@ -20,7 +20,7 @@ _Danielle Hunter (DE), Ifeadi Odenigbo (DE), Anthony Barr (LB), Eric Kendricks (
 _Rick Spielman (GM), Mike Zimmer (HC/DC), Gary Kubiak (OC)_
 
 **VEGAS OVER/UNDER**  
-8\.5/9
+8\.5 to 9
 
 **COACHING TURNOVER**  
 On offense, Kevin Stefanski's departure allowed Gary Kubiak to fully assume command of the offense. Stefanski managed to poach away the wide receivers coach to his new home in Cleveland, so Minnesota promoted a junior assistant to oversee that position group.
