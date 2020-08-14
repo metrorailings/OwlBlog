@@ -12,7 +12,7 @@ headline = "2020 Preseason Review: Dallas Cowboys"
 _Dak Prescott_
 
 **KNOWN VECTORS**  
-_Ezekiel Elliott (RB), Amari Cooper (WR), Dak Prescott (Mobile QB)_
+_Ezekiel Elliott (RB), Amari Cooper (WR), CeeDee Lamb (WR), Dak Prescott (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Demarcus Laurence (DE), Everson Griffen (DE), Gerald McCoy (DT), Jaylon Smith (MLB), Chidobe Awuzie (CB)_
