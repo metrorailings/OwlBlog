@@ -9,16 +9,16 @@ headline = "2020 Preseason Review: Dallas Cowboys"
 ***
 
 **QB**  
-_Kirk Cousins_
+_Dak Prescott_
 
 **KNOWN VECTORS**  
-_Adam Thielan (WR), Dalvin Cook (RB)_
+_Ezekiel Elliott (RB), Amari Cooper (WR), Dak Prescott (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Danielle Hunter (DE), Ifeadi Odenigbo (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
+_Demarcus Laurence (DE), Everson Griffen (DE),_ 
 
 **MANAGERS**  
-_Jerry Jones (Owner/GM), Mike McCarthy (HC), Kellen Moore (OC), Mike Nolan (DC)_
+_Jerry Jones (Owner/GM), Mike McCarthy (New HC), Kellen Moore (OC), Mike Nolan (New DC)_
 
 **VEGAS OVER/UNDER**  
 9\.5
