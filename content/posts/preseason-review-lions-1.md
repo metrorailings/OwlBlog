@@ -1,6 +1,5 @@
 +++
 date = 2020-08-13T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Detroit Lions"
 
 +++
@@ -34,4 +33,6 @@ Speaking of stealing things from the Patriots, one of the Lions' biggest free-ag
 
 Still, the bigger question remains whether their defense has taken a step forward. From a statistical viewpoint, the answer is likely yes. Don't expect any big leap though - their potential is capped given the limited talent on their roster as well as the undeserved ego of their head coach.
 
-And I suppose that brings me back to the biggest question dogging this team - can an elite quarterback overcome an awful coach? That's hard to say. I would think an overbearing coach would quash any promise a great quarterback would show. But then you look at teams like the Texans and you see Deshaun Watson thriving despite Bill O'Brien's incompetence.
+And I suppose that brings me back to the biggest question dogging this team - can an elite quarterback overcome an awful coach? That's hard to say. I would think an overbearing coach would quash any promise a great quarterback would show. But then you look at teams like the Texans and you see Deshaun Watson thriving despite Bill O'Brien's incompetence. And unlike Matt Patricia, O'Brien has full control of his offense. At least in Detroit, Stafford and Bevell enjoy some degree of freedom given Patricia specializes in defense.
+
+It's quite possible that Detroit can end up in the playoffs largely thanks to Stafford. It would be one hell of a surprise.
