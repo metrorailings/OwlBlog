@@ -15,7 +15,7 @@ _Dak Prescott_
 _Ezekiel Elliott (RB), Amari Cooper (WR), Dak Prescott (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Demarcus Laurence (DE), Everson Griffen (DE),_
+_Demarcus Laurence (DE), Everson Griffen (DE), Gerald McCoy (DT), Jaylon Smith (MLB), Chidobe Awuzie (CB)_
 
 **MANAGERS**  
 _Jerry Jones (Owner/GM), Mike McCarthy (New HC), Kellen Moore (OC), Mike Nolan (New DC)_
