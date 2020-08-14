@@ -23,8 +23,7 @@ _Jerry Jones (Owner/GM), Mike McCarthy (New HC), Kellen Moore (OC), Mike Nolan (
 **VEGAS OVER/UNDER**  
 9\.5
 
-**COACHING TURNOVER**
-
+**COACHING TURNOVER**  
 Only offensive coordinator Kellen Moore and defensive line coach Leon Lett survived the transition from the Jason Garrett era to the Mike McCarthy era. Every other coach will mark their first year with the Dallas Cowboys this season.
 
 ***
