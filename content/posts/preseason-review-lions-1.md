@@ -3,6 +3,10 @@ date = 2020-08-13T12:00:00Z
 headline = "2020 Preseason Review: Detroit Lions"
 
 +++
+## Tier 4
+
+***
+
 **QB**  
 _Matthew Stafford_
 
