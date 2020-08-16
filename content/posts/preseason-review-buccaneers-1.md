@@ -40,4 +40,4 @@ Defensively, this team remains just as interesting. The Buccaneers feature up to
 
 That pass rush plays a more important role given the state of their secondary. The lack of playmakers in that part of the field bit them in the ass quite a bit last season. The hope this year is that the three defensive backs drafted last year and the safety drafted this year elevate that entire unit to something that no longer resembles a liability.  If those young players do pan out, Tampa Bay will have a complete defense at all three levels. Last year's squad ranked fifth in DVOA, so a more complete defense should make this unit truly elite.
 
-Tampa Bay has some great potential this year. A trip to the postseason is definitely possible here, so long as Brady and Arians can keep this offense humming more often than not. 
+Tampa Bay has some great potential this year. A trip to the postseason is definitely possible here, so long as Brady and Arians can keep this offense humming through the better part of the season. 
