@@ -1,6 +1,5 @@
 +++
 date = 2020-08-14T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Dallas Cowboys"
 
 +++
@@ -39,3 +38,5 @@ The defense will have a harder time adjusting though. Mike Nolan prefers a 3-4 d
 Speaking of which, the Cowboys landing Griffen is _huge_. Super Bowls are won off the backs of pass rushers. A organization must have at least two pass rushers worth their salt should they want to be taken seriously as Super Bowl contenders. And with the acquisition of Griffen and Gerald McCoy, Dallas should be able to muster a highly capable pass rush here.
 
 Only major point of concern is their defensive backfield. With the departure of Byron Jones, Dallas lost a major cornerstone in that secondary. The hope here is that Darian Thompson, Ha-Ha Clinton Dix, or Chidobe Awuzie will step up their game and keep the unit playing at a serviceable level. 
+
+Given the balance across that roster and the fact that new coaches can spark some life in teams that have fallen into a rut, I really like this Dallas squad. I can see a Super Bowl berth.
