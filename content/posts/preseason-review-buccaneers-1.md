@@ -15,7 +15,7 @@ _Tom Brady_
 _Mike Evans (WR), Chris Godwin (WR), Cameron Brate (TE), Rob Gronkowski (TE)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Shaquil Barrett (DE), Jason Pierre-Paul (DE), Vita Vea (NT), Lavonte David (LB)_
+_Shaquil Barrett (DE), Jason Pierre-Paul (DE), Vita Vea (NT), Ndamukong Suh (DT), Lavonte David (LB)_
 
 **MANAGERS**  
 _Jason Licht (GM), Bruce Arians (HC), Todd Bowles (DC),_ 
@@ -29,3 +29,5 @@ _Jason Licht (GM), Bruce Arians (HC), Todd Bowles (DC),_
 On defense, nothing has changed.
 
 ***
+
+Defensively, this team remains just as interesting. The Buccaneers feature up to three dominant defensive linemen, a real luxury rarely enjoyed in today's NFL. The linebackers 
