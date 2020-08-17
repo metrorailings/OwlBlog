@@ -12,7 +12,7 @@ headline = "2020 Preseason Review: San Francisco 49ers"
 _Jimmy Garoppolo_
 
 **KNOWN VECTORS**  
-_Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_ 
+_Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Kwon Alexander (LB), Richard Sherman (CB), Jimmie Ward (FS)_
@@ -32,4 +32,4 @@ On defense, the 49ers lost a few assistants to Cleveland. New faces have been br
 
 Was it not for some overly simplistic defensive scheming courtesy of Robert Saleh, the 49ers would be world champions and I'd be $8000 richer. Ah well...
 
-Anyway, here we are with the 49ers going into the season as the reigning champion of the NFC. 
+Anyway, here we are with the 49ers going into the season as the reigning champions of the NFC.
