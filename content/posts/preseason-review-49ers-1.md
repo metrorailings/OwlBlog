@@ -9,7 +9,7 @@ headline = "2020 Preseason Review: San Francisco 49ers"
 ***
 
 **QB**  
-_Jimmy Garoffalo_
+_Jimmy Garoppolo_
 
 **KNOWN VECTORS**  
 _Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_ 
