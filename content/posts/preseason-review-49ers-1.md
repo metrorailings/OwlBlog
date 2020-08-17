@@ -4,7 +4,7 @@ draft = true
 headline = "2020 Preseason Review: San Francisco 49ers"
 
 +++
-## Tier 1
+## _Tier 1_
 
 ***
 
