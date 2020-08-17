@@ -11,9 +11,11 @@ headline = "2020 Preseason Review: San Francisco 49ers"
 **QB**  
 _Jimmy Garoffalo_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS**  
+_Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_ 
 
-**NOTABLE DEFENSIVE PLAYERS**
+**NOTABLE DEFENSIVE PLAYERS**  
+_Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Kwon Alexander (LB), Richard Sherman (CB), Jimmie Ward (FS)_
 
 **MANAGERS**
 
