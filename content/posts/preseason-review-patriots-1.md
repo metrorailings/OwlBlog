@@ -11,7 +11,8 @@ headline = "2020 Preseason Review: New England Patriots"
 **QB**  
 _Cam Newton, Jarrett Stidham_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS  
+**_Cam Newton (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**
 
