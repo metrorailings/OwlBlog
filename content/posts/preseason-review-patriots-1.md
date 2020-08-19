@@ -1,6 +1,5 @@
 +++
 date = 2020-08-18T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: New England Patriots"
 
 +++
@@ -38,4 +37,4 @@ On offense though, things should be much better compared to last year. The bitte
 
 This year though, Belichick will be working with a former MVP in Cam Newton. And Cam is especially hungry this year, looking for some sort of redemption after being unceremoniously ousted from the Panthers. Unlike Tom, Bill has a truly dynamic figure in Cam - his mobility and athletic build should give Josh McDaniels plenty more material to load into his playbook. On top of that, Cam should be more willing to work with skill players who couldn't develop a bond with Brady. Not to mention Cam is much more willing to throw the ball outside the numbers.
 
-So long as the offense 
+So long as the offense can outpace the expected defensive regression, New England should be the favorite to take the division yet again.
