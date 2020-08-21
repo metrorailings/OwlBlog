@@ -1,6 +1,5 @@
 +++
 date = 2020-08-20T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Houston Texans"
 
 +++
@@ -36,4 +35,6 @@ Simply put, O'Brien doesn't get it. He doesn't understand what it takes to build
 
 The silver lining in that Hopkins trade comes in the form of David Johnson. Unlike Carlos Hyde, David Johnson can function in multiple roles. Hyde was the hammer to their power rushing attack but lacked the tools to run receiving routes out of the backfield. David Johnson can be that bell-cow runner capable of playing receiver as well.  
 
-Still, the offense will be invariably worse this year. The defense may not be worse, but it'll still likely be an underperforming unit, given much hasn't been done to fix its shortcomings. A new outside linebackers coach has been installed this year in the hopes that somebody can finally develop another pass rusher who can aptly compliment J.J. Watt. I'll believe that's possible when I see it though. Furthermore, those coverage defenders still remain a bit of a liability, though the addition of Bradley Roby last year has given the unit some semblance of respect. Their draft acquisitions this year may remediate those weaknesses somewhat, but it'll take time for their rookies to settle into place and reliably contribute value. 
+Still, the offense will be invariably worse this year. The defense may not be worse, but it'll still likely be an underperforming unit, given much hasn't been done to fix its shortcomings. A new outside linebackers coach has been installed this year in the hopes that somebody can finally develop another pass rusher who can aptly compliment J.J. Watt. I'll believe that's possible when I see it though. Furthermore, those coverage defenders still remain a bit of a liability, though the addition of Bradley Roby last year has given the unit some semblance of respect. Their draft acquisitions this year may remediate those weaknesses somewhat, but it'll take time for their rookies to settle into place and reliably contribute value.
+
+It's not going to be a pretty year for these Texans. The loss of Hopkins will be too much to overcome, even for the resourceful Deshaun Watson. It's out of respect to Watson and his weapons that I'm even considering Houston as a fringe contender for a wild card seat, but the team is still missing too many pieces needed to survive the postseason.  
