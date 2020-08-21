@@ -29,3 +29,9 @@ _Bill O'Brien (GM/HC/OC), Anthony Weaver (DC)_
 On to the other side of the football, we have a major surface-level change in new defensive coordinator, Anthony Weaver. In reality, it's not a major reset, as Romeo Crennel actively reduced his role in the organization given his advanced age. His defensive line coach from last year has been promoted to oversee the defensive unit in his place. The more significant changes on this defensive staff come in the form of Chris Rumph and D'Anton Lynn. The former was brought into the fold to replace last year's outside linebackers coach, who was fired during the offseason. The latter has been promoted to oversee the entire secondary after last year's defensive backs coach mutually parted ways with the organization.
 
 ***
+
+As long as Bill O'Brien is head coach, this Texans organization is doomed to crash and burn yearly. Sure, they may have won the division four years over, but that crown has been utterly meaningless going into the postseason. Each of their playoff campaigns ended pretty dismally.
+
+Simply put, O'Brien doesn't get it. He doesn't understand what it takes to build a truly great organization. Championship teams don't trade away their best playmakers for a cool nickel. Championship teams don't then replace those playmakers for busted talent with elaborate injury histories. If O'Brien expects this defense to not miss a beat after donating away Nuke Hopkins, he's mistaken. Brandin Cooks won't be swooping in to save the day, that's for sure. There's a reason why ace coaches like Sean Payton, Bill Belichick, and Sean McVay were quick to trade him.
+
+The defense hasn't really played well over the past couple years. A lack of identity may be one reason why. Their front seven turns into mush once J.J. Watt is inevitably sidelined with an injury.
