@@ -21,5 +21,6 @@ _**MANAGERS
 **_Steve Keim (GM), Kliff Kingsbury (HC/OC), Vance Joseph (DC)_  
   
 **VEGAS OVER/UNDER**  
+7\.5  
   
 **COACHING TURNOVER**
