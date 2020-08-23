@@ -15,9 +15,10 @@ _Kyler Murray_
 **_DeAndre Hopkins (WR), Larry Fitzgerald (WR), Christian Kirk (WR), Kenyan Drake (RB)_  
 _  
 _**NOTABLE DEFENSIVE PLAYERS  
-**_Jordan Phillips (DE), Chandler Jones (OLB), Devon Kennard (OLB), Isaiah Simmons (ILB), Budda Baker (FS), Patrick Peterson (CB)_  
+**_Jordan Phillips (DE), Chandler Jones (OLB), Devon Kennard (OLB), Isaiah Simmons (ILB), Jordan Hicks (ILB), Budda Baker (FS), Patrick Peterson (CB)_  
 _  
-_**MANAGERS**  
+_**MANAGERS  
+**_Steve Keim (GM), Kliff Kingsbury (HC/OC), Vance Joseph (DC)_  
   
 **VEGAS OVER/UNDER**  
   
