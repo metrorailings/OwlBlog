@@ -12,9 +12,10 @@ headline = "2020 Preseason Review: Arizona Cardinals"
 _Kyler Murray_
 
 **KNOWN VECTORS  
-**  
+**_DeAndre Hopkins (WR), Larry Fitzgerald (WR), Christian Kirk (WR), Kenyan Drake (RB)_  
 _  
-_**NOTABLE DEFENSIVE PLAYERS**  
+_**NOTABLE DEFENSIVE PLAYERS  
+**_Jordan Phillips (DE), Chandler Jones (OLB), Devon Kennard (OLB), Isaiah Simmons (ILB), Budda Baker (FS), Patrick Peterson (CB)_  
 _  
 _**MANAGERS**  
   
