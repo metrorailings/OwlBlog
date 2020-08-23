@@ -17,10 +17,10 @@ _Juju Smith-Schuster (WR), Eric Ebron (TE)_
 _Cameron Heyward (DE), T.J. Watt (OLB), Bud Dupree (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
 
 **MANAGERS**  
-_Kevin Colbert (GM), Mike Tomlin (HC), Randy Fichtner (OC), Keith Butler (DC)  
-_  
-**VEGAS OVER/UNDER  
-**9
+Kevin Colbert (GM), Mike Tomlin (HC), Randy Fichtner (OC), Keith Butler (DC)  
+  
+**VEGAS OVER/UNDER**  
+9
 
 **COACHING TURNOVER**  
 On offense, a quarterbacks coach has been hired so that Randy Fichtner can focus more on his coordinator duties. The team also found their long-term replacement for the late Darryl Drake.
@@ -37,4 +37,4 @@ The addition of Eric Ebron will help things a bit, as Heath Miller has been sore
 
 And that's the key point here when we look at the offense. Things are anything but certain regarding the future prospects of this unit, as too many questions keep the outlook here muddy. The quarterback, the wide receivers, the halfbacks, the tight ends...all of those position groups are laden with uncertainties. Can Roethlisberger play well heading into his 17th season? Will James Conner blossom this year and give this team a serious rushing attack? Can anybody else but Juju on this team step up in the receiving game?
 
-It's out of respect to the coaching staff, the stacked defense, and the overall continuity of the personnel that I'm labelling this team as playoff contenders. I think a wild-card ticket will be their reward when the regular season ends. 
+It's out of respect to the coaching staff, the stacked defense, and the overall continuity of the personnel that I'm labelling this team as playoff contenders. I think a wild-card ticket will be their reward when the regular season ends.
