@@ -23,4 +23,5 @@ _**MANAGERS
 **VEGAS OVER/UNDER**  
 7\.5  
   
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+On offense, nothing significant has changed. Almost everybody from last year's staff has been retained.
