@@ -29,3 +29,5 @@ On offense, nothing significant has changed. Almost everybody from last year's s
 On defense, the only major change comes with the defensive line coach from last year being replaced with Brentson Buckner. Buckner's last stint in Oakland didn't end well, but I do respect his blunt acceptance of his tenure there - he openly admits to getting fired from there. None of that "it wasn't the right fit for me" bullshit.
 
 ***
+
+Arizona surprised me last year. I fully expected Kliff Kingsbury to predicate the entire offense on the air raid philosophy. Instead, Kingsbury took a more balanced approach, opting to rely on the ground game on roughly 40% of offensive plays. It's likely elements of the air raid were weaved into the playbook, but the team's identity on offense resembled a much more traditional spread offense than the air raid. 
