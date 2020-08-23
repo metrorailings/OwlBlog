@@ -25,3 +25,7 @@ _**MANAGERS
   
 **COACHING TURNOVER**  
 On offense, nothing significant has changed. Almost everybody from last year's staff has been retained.
+
+On defense, the only major change comes with the defensive line coach from last year being replaced with Brentson Buckner. Buckner's last stint in Oakland didn't end well, but I do respect his blunt acceptance of his tenure there - he openly admits to getting fired from there. None of that "it wasn't the right fit for me" bullshit.
+
+***
