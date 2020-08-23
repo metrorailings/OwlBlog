@@ -11,18 +11,18 @@ headline = "2020 Preseason Review: Arizona Cardinals"
 **QB**  
 _Kyler Murray_
 
-**KNOWN VECTORS  
-**_DeAndre Hopkins (WR), Larry Fitzgerald (WR), Christian Kirk (WR), Kenyan Drake (RB)_  
-_  
-_**NOTABLE DEFENSIVE PLAYERS  
-**_Jordan Phillips (DE), Chandler Jones (OLB), Devon Kennard (OLB), Isaiah Simmons (ILB), Jordan Hicks (ILB), Budda Baker (FS), Patrick Peterson (CB)_  
-_  
-_**MANAGERS  
-**_Steve Keim (GM), Kliff Kingsbury (HC/OC), Vance Joseph (DC)_  
+**KNOWN VECTORS**  
+_DeAndre Hopkins (WR), Larry Fitzgerald (WR), Christian Kirk (WR), Kenyan Drake (RB)_  
   
+**NOTABLE DEFENSIVE PLAYERS**  
+_Jordan Phillips (DE), Chandler Jones (OLB), Devon Kennard (OLB), Isaiah Simmons (ILB), Jordan Hicks (ILB), Budda Baker (FS), Patrick Peterson (CB)_  
+  
+**MANAGERS**  
+_Steve Keim (GM), Kliff Kingsbury (HC/OC), Vance Joseph (DC)_
+
 **VEGAS OVER/UNDER**  
-7\.5  
-  
+7\.5
+
 **COACHING TURNOVER**  
 On offense, nothing significant has changed. Almost everybody from last year's staff has been retained.
 
