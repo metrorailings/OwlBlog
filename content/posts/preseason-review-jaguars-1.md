@@ -11,15 +11,17 @@ headline = "2020 Preseason Review: Jacksonville Jaguars"
 **QB**  
 _Gardner Minshew_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS**  
+_DJ Chark (WR)_
 
-**NOTABLE DEFENSIVE PLAYERS**
+**NOTABLE DEFENSIVE PLAYERS**  
+_Josh Allen (LB), Myles Jack (LB)_
 
 **MANAGERS**  
 _David Caldwell (GM), Doug Marrone (HC), Jay Gruden (New OC), Todd Wash (DC)_
 
 **VEGAS OVER/UNDER**  
-7\.5
+4\.5
 
 **COACHING TURNOVER**  
 Obviously, the biggest change at offense comes at the coordinator position. With the sunset of the Nick Foles era, John DeFillippo has been let go in favor of Washington's former head coach Jay Gruden. Interestingly enough, the vast majority of offensive assistant coaches from last year have been held over during this transition. Last year's quarterbacks coach Scott Milanovich bailed after securing a head coaching position in the Canadian Football League, so he's been replaced with Ben McAdoo, arguably the worst coach in Giants history.
