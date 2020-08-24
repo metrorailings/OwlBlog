@@ -15,7 +15,7 @@ _Gardner Minshew_
 _DJ Chark (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Josh Allen (LB), Myles Jack (LB)_
+_Josh Allen (LB), Myles Jack (LB), Joe Schobert (LB)_
 
 **MANAGERS**  
 _David Caldwell (GM), Doug Marrone (HC), Jay Gruden (New OC), Todd Wash (DC)_
@@ -30,4 +30,6 @@ On defense, the only significant change came with the team replacing the junior 
 
 ***
 
-Are the Jaguars tanking for Trevor Lawrence? Good question. It's hard to argue that Jacksonville's not in a rebuilding mode. I mean...three of their best defensive players have been traded away for draft selections. Nick Foles has been unceremoniously shipped away after the Jaguars shelled out some serious coin for him a year before. The team's perfectly content keeping sixth-round sophomore player Gardner Minshew in place as the starting quarterback and giving him little in terms of weaponry. The team made no splashy moves in free agency, instead opting to use the draft to inject new blood into the roster.
+Are the Jaguars tanking for Trevor Lawrence? Good question. It's hard to argue that Jacksonville's not in a rebuilding mode. I mean...three of their best defensive players have been traded away for draft selections. Nick Foles has been unceremoniously shipped away after the Jaguars shelled out some serious coin for him just a year before. The team's perfectly content keeping sixth-round sophomore player Gardner Minshew in place as the starting quarterback and giving him little in terms of weaponry. The team restrained itself from indulging too much in free agency, only spending serious money to ink Joe Schobert to a contract.
+
+Clearly, these moves suggest the organization is embarking on some sort of multi-year developmental plan here. Unfortunately, that doesn't bode well for the team going into this season. 2020 will be a lost season for the Jaguars. Perhaps the only major thing to look forward to here is whether  whether Gardner Minshew can grow and actually become a decent quarterback going forward.   
