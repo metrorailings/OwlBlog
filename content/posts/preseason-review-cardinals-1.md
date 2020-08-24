@@ -4,7 +4,7 @@ draft = true
 headline = "2020 Preseason Review: Arizona Cardinals"
 
 +++
-## Tier 5
+## Tier 4
 
 ***
 
@@ -30,4 +30,8 @@ On defense, the only major change comes with the defensive line coach from last 
 
 ***
 
-Arizona surprised me last year. I fully expected Kliff Kingsbury to predicate the entire offense on the air raid philosophy. Instead, Kingsbury took a more balanced approach, opting to rely on the ground game on roughly 40% of offensive plays. It's likely elements of the air raid were weaved into the playbook, but the team's identity on offense resembled a much more traditional spread offense than the air raid. 
+Arizona surprised me last year. I fully expected Kliff Kingsbury to predicate his entire offense on the air raid philosophy. Instead, Kingsbury took a more balanced approach, opting to rely on the ground game on roughly 40% of offensive plays. It's likely elements of the air raid were weaved into the playbook, but at the end of the day, the team's identity on offense resembled a much more traditional spread offense than the air raid.
+
+On paper, the team has to be better this year. A stud receiver in DeAndre Hopkins, quite a bit of help added along the defensive front seven, Kyler Murray maturing into his second year, most of the coaches from last year being retained...all these factors usually forecast an improved team. But Kingsbury, Vance Joseph, and their coaching staff still concern me. I'm still not entirely sure what to make of them.
+
+Kyler Murray has lately been seen as a sleeper pick for MVP, precisely because people expect a sophomore explosion from this Cardinals squad. Can the coaches deliver on that hope? We shall see. I'll give Kliff and company the slight benefit of the doubt here given their willingness to adopt a style of football that's not immediately comfortable to them.
