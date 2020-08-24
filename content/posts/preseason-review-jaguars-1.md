@@ -11,10 +11,10 @@ headline = "2020 Preseason Review: Jacksonville Jaguars"
 **QB**  
 _Gardner Minshew_
 
-**KNOWN VECTORS**  
-  
-**NOTABLE DEFENSIVE PLAYERS**  
-  
+**KNOWN VECTORS**
+
+**NOTABLE DEFENSIVE PLAYERS**
+
 **MANAGERS**  
 _David Caldwell (GM), Doug Marrone (HC), Jay Gruden (New OC), Todd Wash (DC)_
 
@@ -22,8 +22,8 @@ _David Caldwell (GM), Doug Marrone (HC), Jay Gruden (New OC), Todd Wash (DC)_
 7\.5
 
 **COACHING TURNOVER**  
-On offense, nothing significant has changed. Almost everybody from last year's staff has been retained.
+Obviously, the biggest change at offense comes at the coordinator position. With the sunset of the Nick Foles era, John DeFillippo has been let go in favor of Washington's former head coach Jay Gruden. Interestingly enough, the vast majority of offensive assistant coaches from last year have been held over during this transition. Last year's quarterbacks coach Scott Milanovich bailed after securing a head coaching position in the Canadian Football League, so he's been replaced with Ben McAdoo, arguably the worst coach in Giants history.
 
-On defense, the only major change comes with the defensive line coach from last year being replaced with Brentson Buckner. Buckner's last stint in Oakland didn't end well, but I do respect his blunt acceptance of his tenure there - he openly admits to getting fired from there. None of that "it wasn't the right fit for me" bullshit.
+On defense, the only significant change came with the team replacing the junior linebackers coach.
 
 ***
