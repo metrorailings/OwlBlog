@@ -29,3 +29,5 @@ Obviously, the biggest change at offense comes at the coordinator position. With
 On defense, the only significant change came with the team replacing the junior linebackers coach.
 
 ***
+
+Are the Jaguars tanking for Trevor Lawrence? Good question. It's hard to argue that Jacksonville's not in a rebuilding mode. I mean...three of their best defensive players have been traded away for draft selections. Nick Foles has been unceremoniously shipped away after the Jaguars shelled out some serious coin for him a year before. The team's perfectly content keeping sixth-round sophomore player Gardner Minshew in place as the starting quarterback and giving him little in terms of weaponry. The team made no splashy moves in free agency.
