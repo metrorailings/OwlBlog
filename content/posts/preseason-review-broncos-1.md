@@ -4,7 +4,7 @@ draft = true
 headline = "2020 Preseason Review: Denver Broncos"
 
 +++
-## _Tier 6_
+## _Tier 3_
 
 ***
 
