@@ -23,4 +23,9 @@ _John Elway (GM), Vic Fangio (HC/DC), Pat Shurmur (New OC)_
 **VEGAS OVER/UNDER**  
 7\.5
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+Rich Scangarello was quickly ousted as offensive coordinator following a pretty sad showing from the offensive unit last year. Former Giants head coach Pat Shurmur has been brought in to replace him. Shurmur also brought along his former offensive coordinator in Mike Shula to take over as quarterbacks coach.
+
+The defense lost a linebackers coach to the Los Angeles Rams. In his place is John Pagano, recently fired from Houston after a disappointing season from his outside linebackers over there.
+
+***
