@@ -30,4 +30,6 @@ The defense lost a linebackers coach to the Los Angeles Rams. In his place is Jo
 
 ***
 
-On paper, this Broncos team should be better than last year's squad. Drew Lock maturing into his second year, Von Miller no longer being the sole anchor along that defensive front now with Bradley Chubb returning from injury and Jurrell Casey joining the fray, young promising talent ready to step up as dependable skill position players,  
+On paper, this Broncos team should be better than last year's squad. Drew Lock maturing into his second year, Von Miller no longer being the sole anchor along that defensive front now with Bradley Chubb returning from injury and Jurrell Casey joining the fray, young promising talent ready to step up as reliable skill position players...all these facts point to an upsurge here.
+
+Yet, I can't shake this feeling that Vic Fangio doesn't quite get it. The friction between him and his offensive staff last year didn't quite rub me right. It's one thing for a coach to privately chastise his offensive coaches. It's a whole another thing to outright berate them in the midst of a game.
