@@ -29,3 +29,5 @@ Rich Scangarello was quickly ousted as offensive coordinator following a pretty 
 The defense lost a linebackers coach to the Los Angeles Rams. In his place is John Pagano, recently fired from Houston after a disappointing season from his outside linebackers over there.
 
 ***
+
+On paper, this Broncos team should be better than last year's squad. Drew Lock maturing into his second year, Von Miller no longer being the sole anchor along that defensive front now with Bradley Chubb returning from injury and Jurrell Casey joining the fray, young promising talent ready to step up as dependable skill position players,  
