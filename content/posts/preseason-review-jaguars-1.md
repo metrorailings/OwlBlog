@@ -3,7 +3,7 @@ date = 2020-08-23T12:00:00Z
 headline = "2020 Preseason Review: Jacksonville Jaguars"
 
 +++
-## Tier 7
+## _Tier 8_
 
 ***
 
