@@ -1,5 +1,5 @@
 +++
-date = 2020-08-24T12:00:00Z
+date = 2020-08-26T12:00:00Z
 headline = "2020 Preseason Review: Denver Broncos"
 
 +++
@@ -14,7 +14,7 @@ _Drew Lock_
 _Courtland Sutton (WR), Phillip Lindsay (RB), Noah Fant (TE), Jerry Jeudy (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**_  
-Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS)_
+Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS)
 
 **MANAGERS**  
 _John Elway (GM), Vic Fangio (HC/DC), Pat Shurmur (New OC)_
