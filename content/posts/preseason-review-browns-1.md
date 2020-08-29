@@ -26,3 +26,5 @@ _Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
 **COACHING TURNOVER**
 
 ***
+
+First thing I notice when studying this team is that the organization committed itself to fixing its offensive line this season. Signing Jack Conklin in free agency and drafting a tackle in the first round were both much-needed investments after last year's disastrous experiment at left tackle.
