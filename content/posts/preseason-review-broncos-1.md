@@ -3,7 +3,7 @@ date = 2020-08-26T12:00:00Z
 headline = "2020 Preseason Review: Denver Broncos"
 
 +++
-## _Tier 4_
+## _Tier 6_
 
 ***
 
@@ -33,10 +33,12 @@ On paper, this Broncos team should be better than last year's squad. Drew Lock m
 
 Yet, I can't shake this feeling that Vic Fangio doesn't quite get it. The friction between him and his offensive staff last year didn't quite rub me right. It's one thing for a coach to privately chastise his offensive coaches. It's a whole another thing to outright berate them in the midst of a game. Then again, one can argue that Scangarello's flaccid play-calling deserved to be derided. Victory favors the bold in the professional leagues - an offense built on conservative decisions won't be going far. Still, something doesn't sit right with me regarding that whole situation.
 
-Anyway, shortly after firing Rich, Fangio did say that he wanted an offense that would challenge his defense with its unpredictability. With that aim in mind and a young quarterback looking to be groomed, Pat Shurmur was hired. Shurmur's offensive philosophy will probably better suit what Fangio has been looking for. Not to mention the man is better than most other coaches at developing signal callers - his reputation as a quarterback whisperer was built from his work with Donovan McNabb, Nick Foles, and Case Keenum.
+When I think about this point even more, I think back to the earlier comments Fangio made insinuating racism is virtually nonexistent in the NFL - it's the type of tone-deaf and idiotically simplistic statement I'd expect from an old codger. And it's worrying given that this codger is the head coach overseeing a roster with an average age of 25 years. This type of cultural disconnect frays relationships between the coaching staff and the players. Team unity is in serious jeopardy should the organization go through a rough stretch during the season.
+
+Anyway, let's get back to Fangio and his relationship with the offense. Shortly after firing Rich, Vic did say that he wanted an offense that would challenge his defense with its unpredictability. With that aim in mind and a young quarterback looking to be groomed, Pat Shurmur was hired. Shurmur's offensive philosophy will probably better suit what Fangio has been looking for. Not to mention the man is better than most other coaches at developing signal callers - his reputation as a quarterback whisperer was built from his work with Donovan McNabb, Nick Foles, and Case Keenum.
 
 On the defensive side of things, I don't expect any sort of downturn. Football Outsiders ranked this defense as middling, which sounds right. Even with Fangio at the helm, it seems that this Broncos defense wasn't turning heads at all last year. Part of that can be attributed to a pass rush that found itself neutered after Bradley Chubb went down with a partially torn ACL. Things should be better this year, but the extent to which things improve remains to be seen - several unknown factors weigh heavily here, not the least of which being whether AJ Bouye can adequately replace Chris Harris as the team's chief cornerback.
 
 On another note, this coronvavirus pandemic will actually be working in the Broncos favor this year. Home field advantage shouldn't be as big a factor this year given that attendance will be seriously winnowed down to comply with social distancing etiquette. But Denver will still be a tough place to play given its altitude and thin air. So it can be argued that the Broncos will have the best home field advantage in the league.
 
-Most of my research tells me the Broncos are bound for a better season this year. A part of me wants to play contrarian here and doubt Denver's potential, but it's hard to find arguments to lend the contrarian viewpoint any credence. The only serious counterpoint I'd consider is that Drew Lock simply fails to pan out. Analytical experts weren't very high on his potential coming out of college. Not to mention John Elway has a horrible history of drafting quarterbacks.
+Most of my research tells me the Broncos are bound for a better season this year. A part of me wants to play contrarian here and doubt Denver's potential, but it's hard to find arguments to lend the contrarian viewpoint any credence. One of the only few serious counterpoint I'd consider that hasn't been discussed at length here is the possibility that Drew Lock simply fails to pan out. Analytical experts weren't very high on his potential coming out of college. Not to mention John Elway has a horrible history of drafting quarterbacks.
