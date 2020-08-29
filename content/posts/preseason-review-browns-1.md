@@ -4,20 +4,24 @@ draft = true
 headline = "2020 Preseason Review: Cleveland Browns"
 
 +++
+## Tier 4
+
+***
+
 **QB**  
-_Drew Lock_
+_Baker Mayfield_
 
-**KNOWN VECTORS**  
-_Courtland Sutton (WR), Phillip Lindsay (RB), Noah Fant (TE), Jerry Jeudy (WR)_
-
-**NOTABLE DEFENSIVE PLAYERS**_  
-_Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS)_
-
+**KNOWN VECTORS**_  
+Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE)  
+_  
+**NOTABLE DEFENSIVE PLAYERS**  
+_Myles Garrett  
+_  
 **MANAGERS**  
-_John Elway (GM), Vic Fangio (HC/DC), Pat Shurmur (New OC)_
+_Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
 
 **VEGAS OVER/UNDER**  
-7\.5
+8\.5
 
 **COACHING TURNOVER**  
 Rich Scangarello was quickly ousted as offensive coordinator following a pretty sad showing from the offensive unit last year. Former Giants head coach Pat Shurmur has been brought in to replace him. Shurmur also brought along his former offensive coordinator in Mike Shula to take over as quarterbacks coach.
