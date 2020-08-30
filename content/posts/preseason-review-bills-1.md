@@ -12,21 +12,20 @@ headline = "2020 Preseason Review: Buffalo Bills"
 _Josh Allen_
 
 **KNOWN VECTORS**  
-_Stefan Diggs (WR),_   
-  
+_Stefan Diggs (WR), Josh Allen (Mobile QB)_
+
 **NOTABLE DEFENSIVE PLAYERS**  
 _Tre'Davious White (CB)_
 
-  
 **MANAGERS**  
-_Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
-
+_Brandon Beane (GM)_, _Sean McDermott (HC/DC), Brian Daboll (OC)  
+_  
 **VEGAS OVER/UNDER**  
 8\.5
 
 **COACHING TURNOVER**  
-On offense, only the running game coordinator managed to survive the regime change. It makes sense, given Nick Chubb's fantastic season last year.
+On offense and defense, I noticed a few junior assistants have been reassigned or have had their titles clarified.
 
-On defense, all the assistants from last year have been replaced, following the arrival of Joe Woods as the team's new defensive coordinator.
+The only major change came at the defensive line. The two assistants from last year overseeing that position group were replaced with two new coaches this year.
 
 ***
