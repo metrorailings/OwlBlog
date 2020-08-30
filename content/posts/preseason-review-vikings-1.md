@@ -14,7 +14,7 @@ _Kirk Cousins_
 _Adam Thielan (WR), Dalvin Cook (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Danielle Hunter (DE), Ifeadi Odenigbo (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
+_Danielle Hunter (DE), Yannick Ngakoue (DE), Anthony Barr (LB), Eric Kendricks (LB), Harrison Smith (SS)_
 
 **MANAGERS**  
 _Rick Spielman (GM), Mike Zimmer (HC/DC), Gary Kubiak (OC)_
@@ -33,6 +33,12 @@ Last year's Vikings and this year's Vikings shouldn't be that different. Despite
 
 If anything, the defense may present an issue here. I still expect a top-ten defense, but these Vikings need more than that should they want to go deep into the playoffs. Kirk Cousins cannot be trusted to put this team on his back. Barring an _annus mirabilis_, Cousins will need help from everybody - his offensive linemen, his skill position players, and (most importantly) all of his fellow defensive personnel. A defense that can shut down opposing offenses can make things so much easier on an offense that goes through occasional fits.
 
-But this Minnesota defense is short-handed in a few respects. One, that defensive line is desperately in need of a second playmaker now that the team has cut itself loose from Everson Griffin and Linval Joseph. Zimmer and company are hoping that Ifeadi Odenigbo and Jaleel Johnson could replace them at their respective positions, but that remains to be seen. Two, the backfield is a little young. With the release of Xavier Rhodes and Trae Waynes, the team's contingent of cornerbacks have lost quite a bit of veteran experience. Expect teams to be able to throw on these Vikings should the pass rush fail to hit home (which may be often if Ifeadi Odenigbo fails to pan out).
+But this Minnesota defense is short-handed in a few respects. One, that defensive line is desperately in need of a second playmaker now that the team has cut itself loose from Everson Griffin and Linval Joseph. Zimmer and company are hoping that Ifeadi Odenigbo and Jaleel Johnson could replace them at their respective positions, but that remains to be seen. Two, the backfield is a little young. With the release of Xavier Rhodes and Trae Waynes, the team's contingent of cornerbacks have lost quite a bit of veteran experience. Expect teams to be able to throw on these Vikings should the pass rush fail to hit home (which may happen all too often if Ifeadi Odenigbo fails to pan out).
 
-A playoff berth is a given here. Minnesota is too good a team to not make the playoffs. The real question to ask here is how far this team advances in the postseason. I don't see any real reason to call this team championship contenders. Key players were lost in the offseason and haven't been adequately replaced. The team's counting on young prospects to step up here, but odds are only a few of them will take their game to the next level.
+A playoff berth is a given here. Minnesota is too good an organization to not make the playoffs. The real question to ask here is how far this team advances in the postseason. I don't see any real reason to call this team championship contenders. Key players were lost in the offseason and haven't been adequately replaced. The team's counting on young prospects to step up here, but odds are too few of them will be able to elevate their game accordingly.
+
+***
+
+#### EDIT (08/30/20)
+
+The Vikings traded a second-round draft pick for Yannick Ngakoue today. Big move for the team, considering their defensive front was likely to heavily regress this year after losing talented linemen over the offseason. In fact, I don't think it's ridiculous to say the 2020 Vikings can now be considered legitimate Super Bowl contenders. Championship teams are usually built off a great pass rush after all. So I'm going to go ahead and update their tier ranking here.
