@@ -30,6 +30,6 @@ The only major change came with the coach overseeing the defensive line leaving 
 
 ***
 
-The Bills have a bit of a precarious situation along the front lines of their defense. With Lorenzo Alexander having retired, Shaq Lawson signing over in Miami, and Jordan Phillips leaving for the desert, that defensive front was completely bereft of any noteworthy players. In response to the talent exodus, McDermott and Beane spent quite a bit of coin to poach Mario Addison and Vernon Butler from Carolina's locker room. It remains to be seen whether both players pan out.
+The Bills have a bit of a precarious situation along the front lines of their defense. With Lorenzo Alexander retiring, Shaq Lawson signing over in Miami, and Jordan Phillips leaving for the desert, that defensive front was left completely bereft of any noteworthy players. McDermott and Beane responded quickly by spending some serious coin to poach Mario Addison and Vernon Butler away from Carolina's locker room. It remains to be seen whether both players will pan out. Neither one impress me much at first glance.
 
 Another acquisition worth noting is that of Josh Norman. Norman's best days actually came under McDermott's guidance, so it'll be interesting to see whether Sean can breathe life back into the former Pro Bowl corner and have him playing at a high level. Given his age though, he'll more than likely serve the team as a depth player.
