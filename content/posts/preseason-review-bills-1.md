@@ -12,10 +12,11 @@ headline = "2020 Preseason Review: Buffalo Bills"
 _Josh Allen_
 
 **KNOWN VECTORS**  
-Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE), Austin Hooper (TE)  
+_Stefan Diggs (WR),_   
   
 **NOTABLE DEFENSIVE PLAYERS**  
-Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)  
+_Tre'Davious White (CB)_
+
   
 **MANAGERS**  
 _Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
