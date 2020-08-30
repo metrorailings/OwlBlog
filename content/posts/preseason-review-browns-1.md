@@ -10,12 +10,12 @@ headline = "2020 Preseason Review: Cleveland Browns"
 **QB**  
 _Baker Mayfield_
 
-**KNOWN VECTORS**_  
-Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE), Austin Hooper (TE)  
-  
+**KNOWN VECTORS**  
+_Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE), Austin Hooper (TE)_
+
 **NOTABLE DEFENSIVE PLAYERS**  
-Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)  
-  
+_Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)_
+
 **MANAGERS**  
 _Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
 
