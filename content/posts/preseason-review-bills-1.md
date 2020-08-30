@@ -12,7 +12,7 @@ headline = "2020 Preseason Review: Buffalo Bills"
 _Josh Allen_
 
 **KNOWN VECTORS**  
-_Stefan Diggs (WR), Josh Allen (Mobile QB)_
+_Stefan Diggs (WR), Josh Allen (Mobile QB), Devin Singletary (RB), John Brown (WR), Cole Beasley (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Tre'Davious White (CB)_
