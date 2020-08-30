@@ -15,7 +15,7 @@ _Josh Allen_
 _Stefan Diggs (WR), Josh Allen (Mobile QB), Devin Singletary (RB), John Brown (WR), Cole Beasley (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Tre'Davious White (CB)_
+_Tre'Davious White (CB), Micah Hyde (SS)_
 
 **MANAGERS**  
 _Brandon Beane (GM)_, _Sean McDermott (HC/DC), Brian Daboll (OC)  
