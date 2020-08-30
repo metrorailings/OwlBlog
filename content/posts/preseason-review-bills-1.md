@@ -26,7 +26,7 @@ _
 **COACHING TURNOVER**  
 On offense and defense, I noticed a few junior assistants have been reassigned or have had their titles clarified.
 
-The only major change came with the coach overseeing the defensive line leaving voluntarily to return to college football. That resignation prompted Sean McDermott to reach out to a former colleague from his Carolina days to come and coach the defensive linemen.
+The only major change came with the coach overseeing the defensive line leaving voluntarily to return to college football. That resignation prompted Sean McDermott to reach out to a former colleague from his Carolina days to come and coach the defensive linemen this year.
 
 ***
 
