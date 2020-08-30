@@ -1,6 +1,5 @@
 +++
 date = 2020-08-30T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: Buffalo Bills"
 
 +++
@@ -40,4 +39,4 @@ Really though, all these points are fairly minor compared to the one real weakne
 
 Yet a quick look at the players I marked as notable defensive players should give anybody pause on that point. A great defense is only possible with enough talent on the roster. Buffalo doesn't have the requisite amount of high-level talent on that side of the football, period.
 
-With that said, a playoff berth is a possibility, given the coaching, the consistency of personnel from last season, and the fact that the Patriots defense will be nowhere near as dominant this year as last year.
+With that said, a playoff berth is a possibility, given the coaching, the consistency of personnel from last season, and the fact that the Patriots defense will be nowhere near as dominant this year as last year. Anything beyond that would shock me.
