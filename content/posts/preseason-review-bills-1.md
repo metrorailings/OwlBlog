@@ -4,7 +4,7 @@ draft = true
 headline = "2020 Preseason Review: Buffalo Bills"
 
 +++
-## _Tier 3_
+## _Tier 6_
 
 ***
 
