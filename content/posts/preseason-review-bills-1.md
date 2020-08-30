@@ -15,7 +15,7 @@ _Josh Allen_
 _Stefan Diggs (WR), Josh Allen (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Tre'Davious White (CB)_
+_Shaq Lawson (DE), Lorenzo Alexander (OLB), Tre'Davious White (CB)_
 
 **MANAGERS**  
 _Brandon Beane (GM)_, _Sean McDermott (HC/DC), Brian Daboll (OC)  
