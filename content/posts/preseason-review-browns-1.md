@@ -12,10 +12,10 @@ _Baker Mayfield_
 
 **KNOWN VECTORS**_  
 Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE), Austin Hooper (TE)  
-_  
+  
 **NOTABLE DEFENSIVE PLAYERS**  
-_Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)  
-_  
+Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)  
+  
 **MANAGERS**  
 _Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
 
