@@ -24,8 +24,8 @@ _Mickey Loomis (GM)_, _Sean Payton (HC/OC), Dennis Allen (DC)_
 10\.5
 
 **COACHING TURNOVER**  
-On offense and defense, I noticed a few junior assistants have been reassigned or have had their titles clarified.
+On offense, the team added two new junior assistants to the staff.
 
-The only major change came with the coach overseeing the defensive line leaving voluntarily to return to college football. That resignation prompted Sean McDermott to reach out to a former colleague from his Carolina days to come and coach the defensive linemen this year.
+On defense, linebackers coach Mike Nolan left the organization to go join Dallas as their new defensive coordinator. A junior assistant from last year has been promoted to oversee the linebackers this season.
 
 ***
