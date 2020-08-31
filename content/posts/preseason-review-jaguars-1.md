@@ -33,6 +33,4 @@ Are the Jaguars tanking for Trevor Lawrence? Good question. It's hard to argue t
 
 Unfortunately, that doesn't bode well for the team going into this season. 2020 will be a lost season for the Jaguars. Perhaps the only major thing to look forward to here is whether Gardner Minshew can grow and actually become a decent quarterback going forward. If Minshew does develop into a franchise-caliber quarterback, David Caldwell can consider himself one of the luckiest sons of bitches out there.
 
-I haven't forgotten about Yannick Ngakoue either. That's another interesting storyline to watch, though I suspect his situation will be resolved by the time the season gets going.
-
 In the end, there's not much to expect here. Maybe Jacksonville can beat their expected win total this season, but don't expect anything serious from them. A high draft pick is in the cards for them.
