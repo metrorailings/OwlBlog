@@ -4,7 +4,7 @@ draft = true
 headline = "2020 Preseason Review: New Orleans Saints"
 
 +++
-## _Tier 3_
+## _Tier 2_
 
 ***
 
@@ -12,10 +12,10 @@ headline = "2020 Preseason Review: New Orleans Saints"
 _Drew Brees_
 
 **KNOWN VECTORS**  
-_Michael Thomas (WR), Emmanuel Sanders (WR), Alvin Kamara (RB), Taysom Hill (Mobile QB)_
+_Michael Thomas (WR), Emmanuel Sanders (WR), Alvin Kamara (RB), Jared Cook (TE), Taysom Hill (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Cameron Jordan (DE), Malcolm Jenkins (SS)_
+_Cameron Jordan (DE), Marcus Davenport (DE), Demario Davis (MLB), Malcolm Jenkins (SS), Marshon Lattimore (CB)_
 
 **MANAGERS**  
 _Mickey Loomis (GM)_, _Sean Payton (HC/OC), Dennis Allen (DC)_
