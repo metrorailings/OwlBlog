@@ -3,7 +3,7 @@ date = 2020-08-30T12:00:00Z
 headline = "2020 Preseason Review: New Orleans Saints"
 
 +++
-## _Tier 2_
+## _Tier 1_
 
 ***
 
@@ -35,4 +35,4 @@ The Saints roster is loaded with high-end talent. The coaches are some of the be
 
 A couple reasons why. One, Drew Brees is aging and it's showing, particularly in the latter half of the season - his arm strength fails him as the season rolls on. The passing offense suffers hard as a result. Second, the defense isn't just good enough to carry the team once the offense begins dragging its feet. It's the defensive front that bears so much of the blame in this regard - only one player on that line can be counted as elite. Marcus Davenport was drafted a few years back to give the defensive front a dominant bookend opposite Cameron Jordan, but he hasn't really panned out as of yet. New Orleans better hope the third year is his breakout year...
 
-It's those reasons that'll damn the Saints once they reach the postseason. It's entirely possible New Orleans may finish with the best record in the NFC once again this season, but that achievement does little to remediate the issues I outlined above.  
+It's those reasons that'll damn the Saints once they reach the postseason. It's entirely possible New Orleans may finish with the best record in the NFC once again this season, but that achievement does little to remediate the issues I outlined above.
