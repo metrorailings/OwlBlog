@@ -37,6 +37,6 @@ Another acquisition worth noting is that of Josh Norman. Norman's best days actu
 
 Really though, all these points are fairly minor compared to the one real weakness that's been dragging this team down for the past two years - Josh Allen. Simply put, Allen can't throw deep. His accuracy can best be summed up as rancid ass. All right, that's not a fully fair representation of his accuracy - his short and intermediate passes are usually money. But no passing game can really sustain itself on those short throws. It's the deep ball that really gives the air game any bite. If the Bills can't incorporate that dimension into their offense, then Buffalo can only hope to win the championship on the backs of a historic defense. 
 
-Yet a quick look at the players I marked as notable defensive players should give anybody pause on that point. A great defense is only possible with enough talent on the roster. Buffalo doesn't have the requisite amount of high-level talent on that side of the football, period.
+Yet a quick look at the players I marked as notable defensive players should give any Buffalo hopeful pause. A great defense is only possible with enough talent on the roster, but the Bills don't have the requisite amount of high-level talent on that side of the football, period.
 
 With that said, a playoff berth is a possibility, given the coaching, the consistency of personnel from last season, and the fact that the Patriots defense will be nowhere near as dominant this year as last year. Anything beyond that would shock me.
