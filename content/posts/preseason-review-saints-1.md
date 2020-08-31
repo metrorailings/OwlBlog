@@ -9,19 +9,19 @@ headline = "2020 Preseason Review: New Orleans Saints"
 ***
 
 **QB**  
-_Josh Allen_
+_Drew Brees_
 
 **KNOWN VECTORS**  
-_Stefan Diggs (WR), Josh Allen (Mobile QB), Devin Singletary (RB), John Brown (WR), Cole Beasley (WR)_
+_Michael Thomas (WR), Emmanuel Sanders (WR), Alvin Kamara (RB), Taysom Hill (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Tre'Davious White (CB), Micah Hyde (SS)_
+_Cameron Jordan (DE), Malcolm Jenkins (SS)_
 
 **MANAGERS**  
-_Brandon Beane (GM)_, _Sean McDermott (HC/DC), Brian Daboll (OC)_  
-  
+_Mickey Loomis (GM)_, _Sean Payton (HC/OC), Dennis Allen (DC)_
+
 **VEGAS OVER/UNDER**  
-8\.5
+10\.5
 
 **COACHING TURNOVER**  
 On offense and defense, I noticed a few junior assistants have been reassigned or have had their titles clarified.
