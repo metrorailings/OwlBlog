@@ -4,21 +4,21 @@ draft = true
 headline = "2020 Preseason Review: Tennessee Titans"
 
 +++
-## _Tier 3_
+## _Tier 4_
 
 ***
 
 **QB**  
-_Daniel Jones_
+_Ryan Tannehill_
 
 **KNOWN VECTORS**  
-_Saquon Barkley (RB), Sterling Shepard (WR), Golden Tate (WR), Evan Engram (TE), Darius Slayton (WR), Daniel Jones (Mobile QB)_
+_Derrick Henry (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Markus Golden (OLB), Leonard Williams (DE), Blake Martinez (ILB), James Bradberry (CB)_
+_Harold Landry (OLB), Kevin Byard (FS)_
 
 **MANAGERS**  
-_Dave Gettleman (GM)_, _Joe Judge (New HC), Jason Garrett (New OC), Patrick Graham (New DC)_
+ _(GM)_, _Joe Judge (New HC), Jason Garrett (New OC), Patrick Graham (New DC)_
 
 **VEGAS OVER/UNDER**  
 6
