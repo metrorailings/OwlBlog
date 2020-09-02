@@ -18,12 +18,14 @@ _Derrick Henry (RB)_
 _Harold Landry (OLB), Kevin Byard (FS)_
 
 **MANAGERS**  
- _(GM)_, _Joe Judge (New HC), Jason Garrett (New OC), Patrick Graham (New DC)_
+_Jon Robinson (GM)_, _Mike Vrabel (HC/DC), Arthur Smith (OC)_
 
 **VEGAS OVER/UNDER**  
-6
+8\.5
 
 **COACHING TURNOVER**  
-After spending all season last year among the dregs of the league, Gettleman decided to burn everything down and start all over with Joe Judge as the new head coach. The wide receivers coach and the junior offensive line assistant from last year were the only folks to survive the transition of power.
+After some surprising performances from Ryan Tannehill and Derrick Henry, the entire offensive coaching staff has been retained from last year.
+
+On defense though, we do see some changes. The biggest change comes with Dean Pees retiring yet again, leaving defensive play-calling duties up in the air for the time being. Aside from that, the team lost two of their assistants last year, so new coaches have been introduced to replace them - Jim Haslett for the outside linebackers and Anthony Midget for the secondary.
 
 ***
