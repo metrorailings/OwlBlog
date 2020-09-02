@@ -12,7 +12,7 @@ headline = "2020 Preseason Review: New York Giants"
 _Daniel Jones_
 
 **KNOWN VECTORS**  
-_Saquon Barkley (RB), Sterling Shepard (WR), Evan Engram (TE), Darius Slayton (WR), Daniel Jones (Mobile QB)_
+_Saquon Barkley (RB), Sterling Shepard (WR), Golden Tate (WR), Evan Engram (TE), Darius Slayton (WR), Daniel Jones (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Markus Golden (OLB), Leonard Williams (DE), Blake Martinez (ILB), James Bradberry (CB)_
@@ -25,3 +25,9 @@ _Dave Gettleman (GM)_, _Joe Judge (New HC), Jason Garrett (New OC), Patrick Grah
 
 **COACHING TURNOVER**  
 After spending all season last year in the dregs of the league, Gettleman decided to burn everything down and start all over with Joe Judge as the new head coach. The wide receivers coach and the junior offensive line assistant from last year were the only folks to survive the transition of power.
+
+***
+
+Ah, my Giants. How I miss having high expectations for them going into a new season...
+
+This season should be a lost cause, unfortunately. The coronavirus pandemic and the shortened training camp schedule means it'll take longer for the coaches to indoctrinate the players with their style of football. A particularly troublesome fact given Daniel Jones is entering only his second year as the foreman of the offense.  
