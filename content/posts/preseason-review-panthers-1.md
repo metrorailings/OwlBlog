@@ -11,7 +11,8 @@ headline = "2020 Preseason Review: Carolina Panthers"
 **QB**  
 _Teddy Bridgewater_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS**  
+_Christian McCaffrey (RB), Robby Anderson (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**
 
