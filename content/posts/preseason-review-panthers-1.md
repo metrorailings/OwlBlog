@@ -15,7 +15,7 @@ _Teddy Bridgewater_
 _Christian McCaffrey (RB), Robby Anderson (WR), D.J. Moore (WR), Curtis Samuel (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Kawann Short (DE), Brian Burns (OLB), Derrick Brown (DT), Shaq Thompson (ILB)_
+_Kawann Short (DE), Brian Burns (OLB), Derrick Brown (DT), Shaq Thompson (LB)_
 
 **MANAGERS**  
 _Marty Hurney (GM), Matt Rhule (New HC), Joe Brady (New OC), Phil Snow (New DC)_
