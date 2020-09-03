@@ -17,7 +17,7 @@ _Derrick Henry (RB)_
 _Harold Landry (OLB), Vic Beasley (OLB), Kevin Byard (FS)_
 
 **MANAGERS**  
-_Jon Robinson (GM)_, _Mike Vrabel (HC/DC), Arthur Smith (OC)_
+_Jon Robinson (GM)_, _Mike Vrabel (HC/New DC), Arthur Smith (OC)_
 
 **VEGAS OVER/UNDER**  
 8\.5
