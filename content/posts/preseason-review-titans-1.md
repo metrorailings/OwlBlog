@@ -11,10 +11,10 @@ headline = "2020 Preseason Review: Tennessee Titans"
 _Ryan Tannehill_
 
 **KNOWN VECTORS**  
-_Derrick Henry (RB)_
+_Derrick Henry (RB), A.J. Brown (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Harold Landry (OLB), Vic Beasley (OLB), Kevin Byard (FS)_
+_Harold Landry (OLB), Vic Beasley (OLB), Jeffery Simmons (DT), Kevin Byard (FS)_
 
 **MANAGERS**  
 _Jon Robinson (GM)_, _Mike Vrabel (HC/New DC), Arthur Smith (OC)_
