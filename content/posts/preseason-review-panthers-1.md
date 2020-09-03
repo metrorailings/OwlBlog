@@ -14,12 +14,15 @@ _Teddy Bridgewater_
 **KNOWN VECTORS**  
 _Christian McCaffrey (RB), Robby Anderson (WR)_
 
-**NOTABLE DEFENSIVE PLAYERS**
+**NOTABLE DEFENSIVE PLAYERS**  
+_Kawann Short (DE), Brian Burns (OLB), Derrick Brown (DT)_
 
-**MANAGERS**
+**MANAGERS**  
+_Marty Hurney (GM), Matt Rhule (New HC), Joe Brady (New OC), Phil Snow (New DC)_
 
 **VEGAS OVER/UNDER**
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+A new regime begets plenty of new faces. On offense, every coach comes into the organization new this year save for one Jake Peetz. The running backs coach from last year will now be training up the quarterback.
 
 ***
