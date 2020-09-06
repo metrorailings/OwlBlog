@@ -1,10 +1,9 @@
 +++
 date = 2020-09-04T12:00:00Z
-draft = true
 headline = "2020 Preseason Review: New York Jets"
 
 +++
-## _Tier 8_
+## _Tier 7_
 
 ***
 
