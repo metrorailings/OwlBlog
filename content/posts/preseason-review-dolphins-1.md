@@ -3,7 +3,7 @@ date = 2020-08-10T12:00:00Z
 headline = "2020 Preseason Review: Miami Dolphins"
 
 +++
-## **_Tier 5_**
+## **_Tier 7_**
 
 ***
 
