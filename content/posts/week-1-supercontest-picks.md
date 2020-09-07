@@ -33,3 +33,5 @@ I'm also banking on the Ravens largely picking up where they left off, consideri
 ***
 
 I'm not yet fully sold on this pick. It's almost guaranteed the Colts will win this one. It's just a matter of whether they can stave off the humidity down there in Jacksonville long enough to cover the spread. If the team ends up winding down early because of the weather, Gardner Minshew and the Jaguars offense may post just enough points to beat the spread. Coaching shouldn't make much a difference in this regard.
+
+***
