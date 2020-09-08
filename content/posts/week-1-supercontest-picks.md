@@ -39,3 +39,21 @@ I'm not yet fully sold on this pick. It's almost guaranteed the Colts will win t
 ### Jets @ Bills (-6.5)
 
 > Bills -6.5
+
+***
+
+Give me the Bills here. Home field mixed in with a clear coaching advantage should give them the victory here.
+
+Still, the fact that they're going up against Sam Darnold gives me pause here. Darnold isn't an elite passer or anything, but he's no pushover either. Compared to Josh Allen, Darnold has more of the tools needed to be a successful quarterback. Still, those tools mean less if the Jets skill players fail to work in tandem with their quarterback.
+
+***
+
+### Seahawks @ Falcons (+1.5)
+
+> Falcons +1.5
+
+***
+
+For the past several years under Pete Carroll, the Seahawks have been the poster child for underwhelming first-week performances. In fact, they were on a losing streak up until last year, when they managed to edge out the Bengals. The same Bengals that would later post the worst record of any team last year.
+
+The last two years tell me Schottenheimer hasn't done much to change this trend.   
