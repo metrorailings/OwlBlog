@@ -1,6 +1,5 @@
 +++
 date = 2020-09-12T12:00:00Z
-draft = true
 headline = "Week 1 Supercontest Picks"
 
 +++
@@ -68,4 +67,4 @@ The last two years tell me Schottenheimer hasn't done much to change this trend.
 
 The Tom Brady era of Buccaneers football likely begins with a definitive loss. Keep in mind Brady has been institutionalized in the Patriot way for nearly two decades. It'll take a good minute for him to adjust to a different way of life, especially without any preseason training or meaningful outings in his new role as the Buccaneers signal caller. While he adjusts, mistakes will be made.
 
-That doesn't mean that Brady will be completely impotent here - the GOAT will find ways to score a few points here and there. But it won't be enough against a seasoned New Orleans outfit looking to start strong on another campaign to win the Super Bowl.
+That doesn't mean that Brady will be completely impotent here - the GOAT will find ways to score a few points here and there. But it won't be enough against a seasoned New Orleans outfit looking to start strong.
