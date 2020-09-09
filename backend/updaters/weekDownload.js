@@ -44,6 +44,7 @@ var GAMES_COLLECTION = 'games',
 	// Now retrieve that data
 	var dbResults = await mongo.read(GAMES_COLLECTION,
 	{
+		_id : { $gt : 256 },
 		week: week
 	});
 

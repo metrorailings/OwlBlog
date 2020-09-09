@@ -3,7 +3,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b45",
             "name": "Bears",
-            "elo": 1500,
+            "elo": 1450,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -12,7 +12,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b46",
             "name": "Bengals",
-            "elo": 1470,
+            "elo": 1425,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -21,7 +21,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b47",
             "name": "Bills",
-            "elo": 1300,
+            "elo": 1565,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -30,7 +30,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b48",
             "name": "Broncos",
-            "elo": 1570,
+            "elo": 1445,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -39,7 +39,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b49",
             "name": "Browns",
-            "elo": 1340,
+            "elo": 1550,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -48,7 +48,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4a",
             "name": "Buccaneers",
-            "elo": 1380,
+            "elo": 1535,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -57,7 +57,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4b",
             "name": "Cardinals",
-            "elo": 1360,
+            "elo": 1565,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -66,7 +66,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4c",
             "name": "Chargers",
-            "elo": 1610,
+            "elo": 1445,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -75,7 +75,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4d",
             "name": "Chiefs",
-            "elo": 1550,
+            "elo": 1650,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -84,7 +84,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4e",
             "name": "Colts",
-            "elo": 1430,
+            "elo": 1625,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -93,7 +93,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b4f",
             "name": "Cowboys",
-            "elo": 1670,
+            "elo": 1615,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -102,7 +102,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b50",
             "name": "Dolphins",
-            "elo": 1330,
+            "elo": 1435,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -111,7 +111,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b51",
             "name": "Eagles",
-            "elo": 1720,
+            "elo": 1515,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -120,7 +120,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b52",
             "name": "Falcons",
-            "elo": 1580,
+            "elo": 1465,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -129,7 +129,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b53",
             "name": "Giants",
-            "elo": 1440,
+            "elo": 1390,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -138,7 +138,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b54",
             "name": "Jaguars",
-            "elo": 1650,
+            "elo": 1350,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -147,7 +147,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b55",
             "name": "Jets",
-            "elo": 1340,
+            "elo": 1430,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -156,7 +156,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b56",
             "name": "Lions",
-            "elo": 1480,
+            "elo": 1530,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -165,7 +165,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b57",
             "name": "Packers",
-            "elo": 1605,
+            "elo": 1480,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -174,7 +174,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b58",
             "name": "Panthers",
-            "elo": 1525,
+            "elo": 1405,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -183,7 +183,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b59",
             "name": "Patriots",
-            "elo": 1705,
+            "elo": 1595,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -192,7 +192,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b5a",
             "name": "Raiders",
-            "elo": 1470,
+            "elo": 1385,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -201,7 +201,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b5b",
             "name": "Rams",
-            "elo": 1580,
+            "elo": 1575,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -210,7 +210,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b5c",
             "name": "Ravens",
-            "elo": 1590,
+            "elo": 1635,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -218,8 +218,8 @@
         },
         {
             "_id": "5b94080ffbd1b3067caf8b5d",
-            "name": "Redskins",
-            "elo": 1550,
+            "name": "Football Team",
+            "elo": 1380,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -228,7 +228,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b5e",
             "name": "Saints",
-            "elo": 1620,
+            "elo": 1650,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -237,7 +237,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b5f",
             "name": "Seahawks",
-            "elo": 1475,
+            "elo": 1605,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -246,7 +246,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b60",
             "name": "Steelers",
-            "elo": 1635,
+            "elo": 1585,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -255,7 +255,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b61",
             "name": "Texans",
-            "elo": 1600,
+            "elo": 1490,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -264,7 +264,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b62",
             "name": "Titans",
-            "elo": 1460,
+            "elo": 1550,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -273,7 +273,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b63",
             "name": "Vikings",
-            "elo": 1550,
+            "elo": 1600,
             "change": 0,
             "wins": 0,
             "losses": 0,
@@ -282,7 +282,7 @@
         {
             "_id": "5b94080ffbd1b3067caf8b64",
             "name": "49ers",
-            "elo": 1535,
+            "elo": 1615,
             "change": 0,
             "wins": 0,
             "losses": 0,

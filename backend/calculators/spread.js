@@ -165,7 +165,9 @@ function _determineRawSpread(homeEloScore, awayEloScore)
 		owlSpread = _determineRawSpread(homeEloScore, awayEloScore);
 
 		// As the spread is calculated for the home team, account for the home team's home-field advantage
-		owlSpread += 2.5;
+		// Note that the smaller crowds at home games this year (or nonexistant in some cases) will reduce the home
+		// field advantage this year
+		owlSpread += 1.5;
 
 		// Account for any curves
 		owlSpread += CURVES.get(games[i].curve);

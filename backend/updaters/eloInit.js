@@ -19,8 +19,6 @@ var _fs = require('fs'),
 
 var ELO_COLLECTION = 'elo',
 
-	AVERAGE_ELO_SCORE = 1500,
-
 	INPUT_FILE = 'backend/data/elo1.json',
 	OUTPUT_FILE = 'data/elo/',
 	JSON_EXTENSION = '.json';
@@ -32,8 +30,7 @@ var ELO_COLLECTION = 'elo',
 	try
 	{
 		var rawData,
-			eloScores = [], databaseElos = [],
-			regressedEloScore;
+			eloScores = [], databaseElos = [];
 
 		await mongo.initialize();
 
@@ -45,21 +42,10 @@ var ELO_COLLECTION = 'elo',
 
 		for (let i = 0; i < rawData.teams.length; i += 1)
 		{
-			regressedEloScore = Math.round(rawData.teams[i].elo - ((rawData.teams[i].elo - AVERAGE_ELO_SCORE) / 3));
-
-			// Regress each team's ELO score to the average by a third. It will help us sort out wrong preseason
-			// expectations faster
-			console.log('-------------------------');
-			console.log('NAME: ' + rawData.teams[i].name);
-			console.log('RAW ELO: ' + rawData.teams[i].elo);
-			console.log('ADJUSTMENT: ' + Math.round((rawData.teams[i].elo - AVERAGE_ELO_SCORE) / -3));
-			console.log('ADJUSTED ELO: ' + regressedEloScore);
-			console.log('-------------------------');
-
 			eloScores.push(
 			{
 				name: rawData.teams[i].name,
-				elo: regressedEloScore,
+				elo: rawData.teams[i].elo,
 				change: 0,
 				wins: 0,
 				losses: 0,

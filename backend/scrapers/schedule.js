@@ -16,55 +16,54 @@ var fs = require('fs'),
 
 // ----------------- ENUMS/CONSTANTS --------------------------
 
-var DATA_FILE = 'schedule.json',
+var DATA_FILE = 'data/schedule.json',
 
 	GAMES_COLLECTION = 'games',
 
 	TEAM_NAMES =
-	{
-		IND: 'Colts',
-		CIN: 'Bengals',
-		NO: 'Saints',
-		TB: 'Buccaneers',
-		MIA: 'Dolphins',
-		TEN: 'Titans',
-		OAK: 'Raiders',
-		LA: 'Rams',
-		ARI: 'Cardinals',
-		WAS: 'Redskins',
-		MIN: 'Vikings',
-		SF: '49ers',
-		DEN: 'Broncos',
-		SEA: 'Seahawks',
-		NYG: 'Giants',
-		JAC: 'Jaguars',
-		GB: 'Packers',
-		CHI: 'Bears',
-		DET: 'Lions',
-		NYJ: 'Jets',
-		LAC: 'Chargers',
-		KC: 'Chiefs',
-		PHI: 'Eagles',
-		ATL: 'Falcons',
-		BAL: 'Ravens',
-		BUF: 'Bills',
-		CAR: 'Panthers',
-		DAL: 'Cowboys',
-		NE: 'Patriots',
-		HOU: 'Texans',
-		CLE: 'Browns',
-		PIT: 'Steelers'
-	};
+	[
+		'Colts',
+		'Bengals',
+		'Saints',
+		'Buccaneers',
+		'Dolphins',
+		'Titans',
+		'Raiders',
+		'Rams',
+		'Cardinals',
+		'Football Team',
+		'Vikings',
+		'49ers',
+		'Broncos',
+		'Seahawks',
+		'Giants',
+		'Jaguars',
+		'Packers',
+		'Bears',
+		'Lions',
+		'Jets',
+		'Chargers',
+		'Chiefs',
+		'Eagles',
+		'Falcons',
+		'Ravens',
+		'Bills',
+		'Panthers',
+		'Cowboys',
+		'Patriots',
+		'Texans',
+		'Browns',
+		'Steelers'
+	];
 
 // ----------------- LOGIC --------------------------
 
 (async function ()
 {
-	var timezoneOffset = new Date().getTimezoneOffset() * 60000,
-		rawData, weekData, gameData,
-		weekIndex, gameIndex,
+	let tzOffset = 300 * 60000,
+		rawData, gameData,
 		scheduleData = [],
-		gameId = 0;
+		gameId = 257;
 
 	await mongo.initialize();
 
@@ -74,23 +73,30 @@ var DATA_FILE = 'schedule.json',
 	// Parse the JSON data
 	rawData = JSON.parse(rawData);
 
-	for (weekIndex = 0; weekIndex < rawData.weeks.length; weekIndex += 1)
+	for (let i = 0; i < rawData.length; i += 1)
 	{
-		weekData = rawData.weeks[weekIndex];
+		gameData = rawData[i];
 
-		for (gameIndex = 0; gameIndex < weekData.games.length; gameIndex += 1)
+		for (let j = 0; j < TEAM_NAMES.length; j += 1)
 		{
-			gameData = weekData.games[gameIndex];
-
-			scheduleData.push(mongo.formInsertSingleQuery(
+			if (gameData.home.endsWith(TEAM_NAMES[j]))
 			{
-				_id: ++gameId,
-				date: new Date(new Date(gameData.scheduled).getTime() - timezoneOffset),
-				homeTeam: TEAM_NAMES[gameData.home.alias],
-				awayTeam: TEAM_NAMES[gameData.away.alias],
-				week: weekIndex + 1
-			}));
+				gameData.homeTeam = TEAM_NAMES[j];
+			}
+			else if (gameData.visitor.endsWith(TEAM_NAMES[j]))
+			{
+				gameData.awayTeam = TEAM_NAMES[j];
+			}
 		}
+
+		scheduleData.push(mongo.formUpdateOneQuery({ _id : gameId + 1 },
+		{
+			_id: ++gameId,
+			date: new Date(new Date(gameData.date + ', ' + (gameData.date.split[0] !== 'January' ? 2020 : 2021) + ' ' + gameData.time) - tzOffset),
+			homeTeam: gameData.homeTeam,
+			awayTeam: gameData.awayTeam,
+			week: gameData.week
+		}, true));
 	}
 
 	console.log('Pushing new game data into the database...');
