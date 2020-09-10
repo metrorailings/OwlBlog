@@ -22,7 +22,11 @@
 					<div class='eloEntry'>
 						<span>
 							<span class='logoContainer'>
-								<img class='teamLogo' src='/uploads/teamLogos/{{ lower .name }}.png' />
+								{{ if eq .name "Football Team" }}
+									<img class='teamLogo' src='/uploads/teamLogos/footballTeam.png' />
+								{{ else }}
+									<img class='teamLogo' src='/uploads/teamLogos/{{ lower .name }}.png' />
+								{{ end }}
 							</span>
 							<span class='teamName'>
 								<span>{{ .name }}</span>

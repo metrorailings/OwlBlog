@@ -38,11 +38,19 @@
 					<div class='listingBody'>
 						<span class='listingColumn'>
 							<div class='teamIdentifier'>
-								<img class='teamLogo' src='/uploads/teamLogos/{{ lower .awayTeam }}.png' />
+								{{ if eq .awayTeam "Football Team" }}
+									<img class='teamLogo' src='/uploads/teamLogos/footballTeam.png' />
+								{{ else }}
+									<img class='teamLogo' src='/uploads/teamLogos/{{ lower .awayTeam }}.png' />
+								{{ end }}
 								<span class='teamName'>{{ .awayTeam }}</span>
 							</div>
 							<div class='teamIdentifier'>
-								<img class='teamLogo' src='/uploads/teamLogos/{{ lower .homeTeam }}.png' />
+								{{ if eq .homeTeam "Football Team" }}
+									<img class='teamLogo' src='/uploads/teamLogos/footballTeam.png' />
+								{{ else }}
+									<img class='teamLogo' src='/uploads/teamLogos/{{ lower .homeTeam }}.png' />
+								{{ end }}
 								<span class='teamName'>{{ .homeTeam }}</span>
 							</div>
 						</span>
