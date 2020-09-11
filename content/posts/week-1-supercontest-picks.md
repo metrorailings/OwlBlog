@@ -55,7 +55,7 @@ Still, the fact that they're going up against Sam Darnold gives me pause here. D
 
 For the past several years under Pete Carroll, the Seahawks have been the poster child for underwhelming first-week performances. In fact, they were on a losing streak up until last year, when they managed to edge out the Bengals. The same Bengals that would later post the worst record of any team last year.
 
-The last two years tell me Schottenheimer hasn't done much to change this trend. So give me a middling Falcons squad to win the game, in turn giving their fans some false hope.
+The last two years tell me Schottenheimer hasn't done much to change this trend. So give me a middling Falcons squad to steal the win here.
 
 ***
 
