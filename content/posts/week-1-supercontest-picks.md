@@ -77,6 +77,6 @@ That doesn't mean that Brady will be completely impotent here - the man will fin
 
 ***
 
-Losing your best defensive player in Von Miller isn't helpful. Neither is the fact that I expect Drew Lock to stumble in his first game as the team's franchise quarterback.
+Losing your best defensive player in Von Miller isn't helpful. Neither is the likelihood that Drew Lock will stumble in his first game as the team's franchise quarterback.
 
-But Denver has two big factors in its favor - the thin air at Mile High Stadium and the reduced practices at training camp. Both of these things will be way too much for Tennessee's defense to overcome. Expect the Titans defense to be exhausted as the game waxes on, meaning Denver should have an easier time scoring points and closing out the game.   
+But Denver has two big factors in its favor - the thin air of Mile High Stadium and the reduced practices at training camp. Both of these things don't bode well from an endurance perspective, so expect the Titans defense to be exhausted as the game waxes on. Denver should have an easier time scoring points against an overhyped Tennessee squad.   
