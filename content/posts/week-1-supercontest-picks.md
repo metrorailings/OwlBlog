@@ -55,7 +55,7 @@ Still, the fact that they're going up against Sam Darnold gives me pause here. D
 
 For the past several years under Pete Carroll, the Seahawks have been the poster child for underwhelming first-week performances. In fact, they were on a losing streak up until last year, when they managed to edge out the Bengals. The same Bengals that would later post the worst record of any team last year.
 
-The last two years tell me Schottenheimer hasn't done much to change this trend. So give me a middling Falcons squad to win the game, in turn giving their fans some false hope.
+The last two years tell me Schottenheimer hasn't done much to change this trend. So give me a middling Falcons squad to steal the win here.
 
 ***
 
@@ -65,6 +65,18 @@ The last two years tell me Schottenheimer hasn't done much to change this trend.
 
 ***
 
-The Tom Brady era of Buccaneers football likely begins with a definitive loss. Keep in mind Brady has been institutionalized in the Patriot way for nearly two decades. It'll take a good minute for him to adjust to a different way of life, especially without any preseason training or meaningful outings in his new role as the Buccaneers signal caller. While he adjusts, mistakes will be made.
+The Tom Brady era of Buccaneers football likely begins with a definitive loss. Keep in mind Brady has been institutionalized in the Patriot way for nearly two decades. It'll take a good minute for him to adjust to a different way of life, especially without any preseason training or meaningful outings in his new role as the Buccaneers signal caller. While he adjusts, mistakes will be made, especially behind one of the worse offensive lines in the league. 
 
-That doesn't mean that Brady will be completely impotent here - the GOAT will find ways to score a few points here and there. But it won't be enough against a seasoned New Orleans outfit looking to start strong.
+That doesn't mean that Brady will be completely impotent here - the man will find ways to score a few points here and there. But it won't be enough against a seasoned New Orleans outfit looking to start strong.
+
+***
+
+### Titans @ Broncos
+
+> Broncos +1.5
+
+***
+
+Losing your best defensive player in Von Miller isn't helpful. Neither is the likelihood that Drew Lock will stumble in his first game as the team's franchise quarterback.
+
+But Denver has two big factors in its favor - the thin air of Mile High Stadium and the reduced practices at training camp. Both of these things don't bode well from an endurance perspective, so expect the Titans defense to be exhausted as the game waxes on. Denver should have an easier time scoring points against an overhyped Tennessee squad.   
