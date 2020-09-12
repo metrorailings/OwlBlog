@@ -60,7 +60,7 @@ var DATA_FILE = 'data/schedule.json',
 
 (async function ()
 {
-	let tzOffset = 300 * 60000,
+	let tzOffset = 240 * 60000,
 		rawData, gameData,
 		scheduleData = [],
 		gameId = 257;

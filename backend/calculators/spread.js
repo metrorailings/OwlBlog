@@ -79,7 +79,7 @@ function _determineRawSpread(homeEloScore, awayEloScore)
 	var eloDifferential = Math.abs(homeEloScore - awayEloScore),
 		rawSpread = 0,
 		benchmark = 25,
-		keyNumbers = [3, 7, 10, 14];
+		keyNumbers = [3, 4, 7, 10, 14];
 
 	while (eloDifferential >= benchmark)
 	{
@@ -94,7 +94,7 @@ function _determineRawSpread(homeEloScore, awayEloScore)
 		{
 			if (keyNumbers[i] === rawSpread + 1)
 			{
-				benchmark = 40;
+				benchmark = 35;
 			}
 		}
 	}
