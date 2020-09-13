@@ -25,3 +25,13 @@ Steve Spagnuolo's defense seems to have been inspired by Wade Phillips. His will
 ## Bears @ Lions
 
 Lions are an undisciplined bunch. Jamie Collins was kicked out for idiotically making contact with a referee. Cornerbacks are unnecessarily grabbing facemasks. Mitchell Trubisky is doing his damndest to give this game away and the Lions are simply unwilling to take the win.
+
+I need to see why, but the Lions are choking away a three-score lead in the 4th quarter. What a lily-livered team. What kind of turd franchise allows a schmuck like Mitch Trubisky to stage a big comeback on the road?
+
+***
+
+## Dolphins @ Patriots
+
+As expected, the Patriots are having fun leveraging Newton's athleticism on read-option plays and rushing packages.
+
+80% of offensive plays for the Patriots have utilized play-action. Crazy. New England seems intent on defining its offense through
