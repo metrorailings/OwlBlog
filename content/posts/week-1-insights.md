@@ -49,3 +49,5 @@ The Buccaneers passing offense isn't anywhere near as crisp as I'd expect from a
 I wonder if a cover-two defense combined with chips off Alvin Kamara would be enough to cork this Saints offense.
 
 Todd Bowles with his A-gap blitzes has been absolute money. 
+
+Trey Hendrickson showing up tonight as a capable pass rusher.
