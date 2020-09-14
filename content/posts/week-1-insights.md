@@ -61,3 +61,9 @@ Trey Hendrickson showing up tonight as a capable pass rusher.
 ## Cowboys @ Rams
 
 The Rams defense has found a creative way to open up pass rushing opportunities for Aaron Donald, having somebody else blitz alongside him in order to uncover any double teams.
+
+The Rams have designed their offense to try and make it impossible to determine before the snap whether the Rams are throwing the ball or rushing. Their scripted plays have been pretty successful in illustrating this scheming.
+
+Rams tight end Tyler Higbee may be a gamer.
+
+Cowboys have a pretty solid offensive line. So do the Rams. Rams offensive line seem to have little issue executing on zone running concepts.
