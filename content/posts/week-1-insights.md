@@ -71,3 +71,5 @@ Cowboys have a pretty solid offensive line. So do the Rams. Rams offensive line 
 Los Angeles' offensive line deserves even more applause for their pass protection and run blocking.
 
 Mike Nolan is finally sick of his defensive line not winning their battles along the trenches. The coordinator has called for quite a few more blitzes in order to rattle Jared Goff. And it's working.
+
+Aldon Smith is a gamer.
