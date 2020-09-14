@@ -55,3 +55,9 @@ Trey Hendrickson showing up tonight as a capable pass rusher.
 ***
 
 ## Seahawks @ Falcons
+
+***
+
+## Cowboys @ Rams
+
+The Rams defense has found a creative way to open up pass rushing opportunities for Aaron Donald, having somebody else blitz alongside him in order to uncover any double teams.
