@@ -67,3 +67,5 @@ The Rams have designed their offense to try and make it impossible to determine 
 Rams tight end Tyler Higbee may be a gamer.
 
 Cowboys have a pretty solid offensive line. So do the Rams. Rams offensive line seem to have little issue executing on zone running concepts.
+
+Los Angeles' offensive line deserves even more applause for their pass protection and run blocking.
