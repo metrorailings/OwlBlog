@@ -56,8 +56,8 @@ function _calculateEloChange(game)
 	homeEloShift = K_VALUE * ((scoreDifferential > 0 ? 1 : (scoreDifferential < 0 ? 0 : 0.5) ) - homeProbability);
 	awayEloShift = K_VALUE * ((scoreDifferential > 0 ? 0 : (scoreDifferential < 0 ? 1 : 0.5) ) - awayProbability);
 
-	// Adjusting the ELO score to take MoV  into account
-	// Remember that MoV is taken against the spread, now the raw score
+	// Adjusting the ELO score to take margin of victory into account
+	// Remember that margin of victory is taken against the spread, not the raw score
 	favoriteScore = (game.owlSpread > 0 ? game.awayTeamScore : game.homeTeamScore);
 	underdogScore = (game.owlSpread > 0 ? game.homeTeamScore : game.awayTeamScore);
 	didUnderdogWin = (underdogScore > favoriteScore);
