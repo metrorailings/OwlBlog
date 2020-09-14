@@ -56,6 +56,8 @@ Trey Hendrickson showing up tonight as a capable pass rusher.
 
 ## Seahawks @ Falcons
 
+Atlanta's secondary may be the worst in football.
+
 ***
 
 ## Cowboys @ Rams
