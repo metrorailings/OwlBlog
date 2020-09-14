@@ -56,8 +56,6 @@ Trey Hendrickson showing up tonight as a capable pass rusher.
 
 ## Seahawks @ Falcons
 
-Atlanta's secondary may possibly be the worst in football, which is expected, given their youth.
-
 Seattle's willingness to experiment with safety and linebacker blitzes is a game-changer for them.
 
 ***
