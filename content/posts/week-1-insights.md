@@ -58,6 +58,8 @@ Trey Hendrickson showing up tonight as a capable pass rusher.
 
 Seattle's willingness to experiment with safety and linebacker blitzes is a game-changer for them.
 
+Atlanta has a promising defensive line, though they are matching up against one of the league's weaker offensive lines.
+
 ***
 
 ## Cowboys @ Rams
@@ -75,3 +77,7 @@ Los Angeles' offensive line deserves even more applause for their pass protectio
 Mike Nolan is finally sick of his defensive line not winning their battles along the trenches. The coordinator has called for quite a few more blitzes in order to rattle Jared Goff. And it's working.
 
 Aldon Smith is a gamer.
+
+***
+
+## Steelers @ Giants
