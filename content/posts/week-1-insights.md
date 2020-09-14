@@ -42,13 +42,13 @@ As expected, the Patriots are having fun leveraging Newton's athleticism on read
 
 Buccaneers emphasizing the run over the pass here, opting to rush the ball nearly twice as much over the pass.
 
-Brees and his short passes worry me. Usually, his age starts to show itself in the second half of the season. 
+Brees and his short passes worry me. Usually, his age starts to show itself in the second half of the season.
 
 The Buccaneers passing offense isn't anywhere near as crisp as I'd expect from a player of Tom Brady's caliber.
 
 I wonder if a cover-two defense combined with chips off Alvin Kamara would be enough to cork this Saints offense.
 
-Todd Bowles with his A-gap blitzes has been absolute money. 
+Todd Bowles with his A-gap blitzes has been absolute money.
 
 Trey Hendrickson showing up tonight as a capable pass rusher.
 
@@ -69,3 +69,5 @@ Rams tight end Tyler Higbee may be a gamer.
 Cowboys have a pretty solid offensive line. So do the Rams. Rams offensive line seem to have little issue executing on zone running concepts.
 
 Los Angeles' offensive line deserves even more applause for their pass protection and run blocking.
+
+Mike Nolan is finally sick of his defensive line not winning their battles along the trenches. The coordinator has called for quite a few more blitzes in order to rattle Jared Goff. And it's working.
