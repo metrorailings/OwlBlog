@@ -107,3 +107,5 @@ The Titans need to give Stephen Gostkowski a breather. Four straight missed kick
 This Broncos offensive line needs to be called into question, particularly the tackles.
 
 Melvin Gordon loves running laterally.
+
+This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps. 
