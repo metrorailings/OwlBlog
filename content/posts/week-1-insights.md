@@ -1,6 +1,5 @@
 +++
 date = 2020-09-15T12:00:00Z
-draft = true
 headline = "Week 1 Insights"
 
 +++
