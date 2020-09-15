@@ -1,6 +1,5 @@
 +++
 date = 2020-09-15T12:00:00Z
-draft = true
 headline = "Week 1 Insights"
 
 +++
@@ -42,19 +41,25 @@ As expected, the Patriots are having fun leveraging Newton's athleticism on read
 
 Buccaneers emphasizing the run over the pass here, opting to rush the ball nearly twice as much over the pass.
 
-Brees and his short passes worry me. Usually, his age starts to show itself in the second half of the season. 
+Brees and his short passes worry me. Usually, his age starts to show itself in the second half of the season.
 
 The Buccaneers passing offense isn't anywhere near as crisp as I'd expect from a player of Tom Brady's caliber.
 
 I wonder if a cover-two defense combined with chips off Alvin Kamara would be enough to cork this Saints offense.
 
-Todd Bowles with his A-gap blitzes has been absolute money. 
+Todd Bowles with his A-gap blitzes has been absolute money.
 
 Trey Hendrickson showing up tonight as a capable pass rusher.
 
 ***
 
 ## Seahawks @ Falcons
+
+Seattle's willingness to experiment with safety and linebacker blitzes is a game-changer for them.
+
+Atlanta has a promising defensive line, though they are matching up against one of the league's weaker offensive lines.
+
+Incredibly bold 4th down call from the Seahawks offensive coordinator. For once, Seattle may actually recognize Russell Wilson throwing the ball presents the best chance to win.
 
 ***
 
@@ -69,3 +74,37 @@ Rams tight end Tyler Higbee may be a gamer.
 Cowboys have a pretty solid offensive line. So do the Rams. Rams offensive line seem to have little issue executing on zone running concepts.
 
 Los Angeles' offensive line deserves even more applause for their pass protection and run blocking.
+
+Mike Nolan is finally sick of his defensive line not winning their battles along the trenches. The coordinator has called for quite a few more blitzes in order to rattle Jared Goff. And it's working.
+
+Aldon Smith is a gamer.
+
+***
+
+## Steelers @ Giants
+
+Daniel Jones actually playing well.
+
+The Steelers doing excellent with their backfield penetrating on run plays.
+
+Offensive line looks to be an issue YET AGAIN. Jason Garrett isn't doing much to help this line against the Steelers varied pass rush. Nor is the offensive line generating any actual push in the trenches on running downs.
+
+The Giants and their three man pass rushes...lord help me.
+
+The Steelers and their pass rush remain as ferocious as ever.
+
+***
+
+## Titans @ Broncos
+
+Ryan Tannehill crisp and efficient conducting the 2-minute offense.
+
+The Broncos have a truly stout defensive line and some elaborate complexity to their coverage schemes. It's what's keeping them in this game. Well, that and....
+
+The Titans need to give Stephen Gostkowski a breather. Four straight missed kicks, three of them field goals. Shameful.
+
+This Broncos offensive line needs to be called into question, particularly the tackles.
+
+Melvin Gordon loves running laterally.
+
+This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps. 
