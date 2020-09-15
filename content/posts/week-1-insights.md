@@ -60,6 +60,8 @@ Seattle's willingness to experiment with safety and linebacker blitzes is a game
 
 Atlanta has a promising defensive line, though they are matching up against one of the league's weaker offensive lines.
 
+Incredibly bold 4th down call from the Seahawks offensive coordinator. For once, Seattle may actually recognize Russell Wilson throwing the ball presents the best chance to win.
+
 ***
 
 ## Cowboys @ Rams
@@ -81,3 +83,9 @@ Aldon Smith is a gamer.
 ***
 
 ## Steelers @ Giants
+
+Daniel Jones actually playing well.
+
+The Steelers doing excellent with their backfield penetrating on run plays.
+
+Offensive line looks to be an issue YET AGAIN. Jason Garrett isn't doing much to help this line against the Steelers varied pass rush. Nor is the offensive line generating any actual push in the trenches on running downs.
