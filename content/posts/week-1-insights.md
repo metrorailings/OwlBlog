@@ -93,3 +93,17 @@ Offensive line looks to be an issue YET AGAIN. Jason Garrett isn't doing much to
 The Giants and their three man pass rushes...lord help me.
 
 The Steelers and their pass rush remain as ferocious as ever.
+
+***
+
+## Titans @ Broncos
+
+Ryan Tannehill crisp and efficient conducting the 2-minute offense.
+
+The Broncos have a truly stout defensive line and some elaborate complexity to their coverage schemes. It's what's keeping them in this game. Well, that and....
+
+The Titans need to give Stephen Gostkowski a breather. Four straight missed kicks, three of them field goals. Shameful.
+
+This Broncos offensive line needs to be called into question, particularly the tackles.
+
+Melvin Gordon loves running laterally.
