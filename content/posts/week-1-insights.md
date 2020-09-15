@@ -91,3 +91,5 @@ The Steelers doing excellent with their backfield penetrating on run plays.
 Offensive line looks to be an issue YET AGAIN. Jason Garrett isn't doing much to help this line against the Steelers varied pass rush. Nor is the offensive line generating any actual push in the trenches on running downs.
 
 The Giants and their three man pass rushes...lord help me.
+
+The Steelers and their pass rush remain as ferocious as ever.
