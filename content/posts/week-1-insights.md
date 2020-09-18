@@ -27,6 +27,8 @@ Lions are an undisciplined bunch. Jamie Collins was kicked out for idiotically m
 
 I need to see why, but the Lions are choking away a three-score lead in the 4th quarter. What a lily-livered team. What kind of turd franchise allows a schmuck like Mitch Trubisky to stage a big comeback on the road?
 
+Trubisky came back largely thanks to Detroit's laziness and lack of stamina. I can't emphasize the laziness point enough - the Lions are a gutless outfit. Talk about lacking the drive to win, let alone actively giving up on plays. On top of that, their conditioning is terrible. 
+
 ***
 
 ## Dolphins @ Patriots
@@ -107,4 +109,4 @@ This Broncos offensive line needs to be called into question, particularly the t
 
 Melvin Gordon loves running laterally.
 
-This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps. 
+This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps.
