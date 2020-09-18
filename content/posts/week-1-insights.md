@@ -39,6 +39,10 @@ As expected, the Patriots are having fun leveraging Newton's athleticism on read
 
 New England using heavier personnel to run the ball even more effectively behind Cam.
 
+N'Keal Harry finally turning into a playmaker now that Newton is directing this offense.
+
+Miami's defense is better, but they're struggling with this new offense the Patriots are presenting. Still, their secondary and linebackers units look promising.
+
 ***
 
 ## Buccaneers @ Saints
