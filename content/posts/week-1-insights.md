@@ -43,7 +43,7 @@ N'Keal Harry finally turning into a playmaker now that Newton is directing this 
 
 Miami's defense is better, but they're struggling with this new offense the Patriots are presenting. Still, their secondary and linebackers units look promising.
 
-Miami not afraid to run cover zero.
+Miami not afraid to run cover zero. Likewise, New England's corners aren't afraid to play physically.
 
 ***
 
