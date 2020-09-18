@@ -29,3 +29,41 @@ I have very little respect for this Texans team after their pathetic showing las
 But I'm convinced the Ravens haven't lost a beat over the offseason. With most of the roster and coaching staff intact from last year, I knew we wouldn't be waiting long for Baltimore to kick into fifth gear. The Texans, on the other hand, will be taking their sweet time finding their groove this year. Replacing DeAndre Hopkins with speed elements didn't pan out at all in their first game against a decent Kansas City defensive outfit. I really don't see these Texans faring much better against a juiced-up version of that same defense, even with Watson doing his usual theatrics.
 
 Then again, the Ravens won't be able to stomp this team quite like the way they did to the Browns. For one thing, Houston has an experienced secondary. And Houston is somewhat decent at defending against the run, though the loss of D.J. Reader over the offseason has hurt them a bit in that regard.
+
+***
+
+## Rams @ Eagles
+
+> Eagles -1
+
+***
+
+It's hard going with the Eagles here after that disastrous outing last week. But the Eagles are welcoming so many of their key trench players back into the thick of things just in time to host the Rams for the homecoming game. While the Rams can move the ball extraordinarily well simply through scheming, Jared Goff still needs to function at a high level to keep the offense in rhythm. And the reality is that Goff falls apart when pressured. On top of that, any bootlegs the Rams run will be met quickly with resistance so long as defensive ends like Brandon Graham and Derek Barnett play from their usual wide-nine stances.
+
+So give me the team hurting bad from an embarrassing loss here.
+
+***
+
+## 49ers @ Jets
+
+> 49ers -6.5
+
+***
+
+The Jets are just pitifully ugly, especially on offense. If the team expects to produce a passing game with Breshad Perriman as lead receiver...it's not going to be pretty.
+
+Granted, the Jets will likely give it their best this week, if only for their pride. But the problem here is that the 49ers are also coming off a humiliating loss last week - San Francisco needs to bounce back for their own sake. A blowout victory would go a long way to quieting some of their inner demons.
+
+***
+
+## Bills @ Dolphins
+
+> Dolphins +5.5
+
+***
+
+Bit of a risky pick investing a pick into a team that hasn't really proven itself yet, but Miami demonstrated an acceptable level of competence in their showing against the Patriots. Particularly on defense, Miami showed some positive signs despite matching up against a re-engineered Patriots offense.
+
+The part here that tempts me to go with the Dolphins here is that Buffalo executes a style of football similar to that of the Patriots. On offense, both teams centralize their offense around exotic rushing packages featuring their quarterback. On defense, both teams count on the strength of their defensive backfields. But the thing is that the Bills aren't quite the Patriots. Josh Allen is a bargain bin version of Cam Newton. And the Bills secondary don't quite have the same punch as their Patriot counterparts.
+
+Familiarity should help Miami gameplan better against the poor man's Patriots here. On top of that, throw in some stifling Miami humidity and the Dolphins can sneak away with a win here.  
