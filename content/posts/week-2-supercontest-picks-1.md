@@ -4,14 +4,26 @@ draft = true
 headline = "Week 2 Supercontest Picks"
 
 +++
-### Bears @ Lions (-3)
+### Jaguars @ Titans (-8.5)
 
-> Lions -3
-
-***
-
-A pick loved by sharp folks everywhere, the Lions should be able to take this game and nail the cover with ease.  The Bears have the far better defense, sure...but the lack of preseason conditioning will leave them exhausted here as the game stretches into the third and fourth quarters. On top of that, the Lions actually have a top-flight quarterback, unlike the Bears. Coaching here is more or less a wash - Patricia and Nagy are a little too incompetent to gain an upper hand over one another here.
+> Jaguars +8.5
 
 ***
 
-### 
+It's a little too easy to pick the Jaguars here one week removed from a sensational upset over the Indianapolis Colts. Still, the fact that Jacksonville played well enough to steal a win last week tells me that this team isn't taking the season lightly, despite Jacksonville's ownership doing its damndest to tank.
+
+The Titans don't structure their defense like the Colts, though. Indy's defense is embarrassingly simple - the fact that a milquetoast passer like _Gardner Minshew_ was able to complete above 90% of his passes against them is testament to its lack of complexity. In contrast, Tennessee's defense is much more intricate, in part because Dean Pees was its architect. It's going to be harder for Minshew to move the ball against a defense that thrives off unpredictability and haze blitzing, so that concerns me.
+
+Still...8.5 points is a lot, no? Especially against a team missing its best receiver in A.J. Brown?
+
+***
+
+### Ravens @ Texans (+7)
+
+> Ravens -7
+
+***
+
+I have very little respect for this Texans team after their pathetic showing last week. Even still, I'm wary of going against an elite quarterback coming off a bad loss, especially when that same quarterback's taking seven points.
+
+But I'm convinced the Ravens haven't lost a beat over the offseason. With most of the roster and coaching staff intact from last year, I knew we wouldn't be waiting long for Baltimore to kick into fifth gear. The Texans, on the other hand, will be taking their sweet time finding their groove this year. Replacing DeAndre Hopkins with speed elements didn't pan out at all in their first game against a decent Kansas City defensive outfit. I really don't see these Texans faring much better against a juiced-up version of that same defense, even with Watson doing his usual theatrics.
