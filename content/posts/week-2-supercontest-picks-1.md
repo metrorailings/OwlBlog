@@ -66,4 +66,18 @@ Bit of a risky pick investing a pick into a team that hasn't really proven itsel
 
 The part here that tempts me to go with the Dolphins here is that Buffalo executes a style of football similar to that of the Patriots. On offense, both teams centralize their offense around exotic rushing packages featuring their quarterback. On defense, both teams count on the strength of their defensive backfields. But the thing is that the Bills aren't quite the Patriots. Josh Allen is a bargain bin version of Cam Newton. And the Bills secondary don't quite have the same punch as their Patriot counterparts.
 
-Familiarity should help Miami gameplan better against the poor man's Patriots here. On top of that, throw in some stifling Miami humidity and the Dolphins can sneak away with a win here.  
+Familiarity should help Miami gameplan better against the poor man's Patriots here. On top of that, throw in some stifling Miami humidity and the Dolphins can sneak away with a win here.
+
+***
+
+## Patriots @ Seahawks
+
+> Patriots +4
+
+***
+
+Tough to pick this one too. I think Russell Wilson may be the favorite to win the MVP this year after a sensational performance against the Falcons last week. But it could be argued that the performance was more thanks to Atlanta's secondary choking - Atlanta's defensive backs gave more space to receivers than any other secondary last week. Not too surprising given the Falcons rebuilt much of their defensive backfield in the offseason and the players there haven't had much time to gel together.
+
+Still, that tells me Russell Wilson's numbers will normalize downward as he faces better defensive coverage units. It could happen as early as this week, given the Patriots feature arguably the best secondary in the league. So Wilson and his offense won't have as fun a time here.
+
+On defense, the Seahawks are pretty much in the same predicament as the Dolphins of last week in that New England's presenting a completely revamped offense. Without enough tape on their new offensive schemes, the Seahawks will be drafting a game plan based partly on speculation.
