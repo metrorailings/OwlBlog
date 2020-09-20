@@ -45,3 +45,9 @@ Herbert with an impressive pass against a tight cover-three zone for the touchdo
 Chargers defense have a beat on this Chiefs offense, even sniffing out screens before they get a chance to develop.
 
 Herbert playing intelligently on two plays, throwing away the ball as the play fails to develop.
+
+And just like that, a dumb play by Herbert ends a promising drive.
+
+Late down the stretch, the Chiefs defensive front seems to be winning their battles in the trenches. This is either an indictment of the Chargers offensive line or an indication as to the simplicity of the Chargers offense now that it's being helmed by a rookie quarterback making his first start.
+
+***
