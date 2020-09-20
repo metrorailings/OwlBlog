@@ -39,3 +39,5 @@ Chargers successfully harassing Mahomes on just about every passing play.
 Los Angeles is gambling a bit too much with the pass rush, leaving open lanes that Mahomes was able to exploit on two critical downs.
 
 Austin Ekeler a world-class talent.
+
+Herbert with an impressive pass against a tight cover-three zone for the touchdown. 
