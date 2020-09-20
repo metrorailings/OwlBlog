@@ -29,3 +29,9 @@ Offense looking discombobulated. Part of that is on the offensive line not givin
 Giants were finally money on one drive that consisted of largely short passes to receivers in the flat. No splash play, but the Bears seemed content giving these short gains over to New York.
 
 Unfortunately, New York couldn't count on that single dimension of offense to carry them to victory. Damn shame too, as they came close. But the Giants need to start investing in deep balls if they want to matriculate the ball more consistently.
+
+***
+
+## Chiefs @ Chargers
+
+Chargers successfully harassing Mahomes on just about every passing play.
