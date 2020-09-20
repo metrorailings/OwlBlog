@@ -40,4 +40,8 @@ Los Angeles is gambling a bit too much with the pass rush, leaving open lanes th
 
 Austin Ekeler a world-class talent.
 
-Herbert with an impressive pass against a tight cover-three zone for the touchdown. 
+Herbert with an impressive pass against a tight cover-three zone for the touchdown.
+
+Chargers defense have a beat on this Chiefs offense, even sniffing out screens before they get a chance to develop.
+
+Herbert playing intelligently on two plays, throwing away the ball as the play fails to develop.
