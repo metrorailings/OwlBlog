@@ -35,3 +35,5 @@ Unfortunately, New York couldn't count on that single dimension of offense to ca
 ## Chiefs @ Chargers
 
 Chargers successfully harassing Mahomes on just about every passing play.
+
+Los Angeles is gambling a bit too much with the pass rush, leaving open lanes that Mahomes was able to exploit on two critical downs.
