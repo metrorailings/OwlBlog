@@ -27,3 +27,5 @@ The Giants and their obnoxious attitude against the pass rush is affording Mitch
 Offense looking discombobulated. Part of that is on the offensive line not giving Daniel Jones enough protection, but it's clearly Jason Garrett's gameplan here is absolute trash.
 
 Giants were finally money on one drive that consisted of largely short passes to receivers in the flat. No splash play, but the Bears seemed content giving these short gains over to New York.
+
+Unfortunately, New York couldn't count on that single dimension of offense to carry them to victory. Damn shame too, as they came close. But the Giants need to start investing in deep balls if they want to matriculate the ball more consistently.
