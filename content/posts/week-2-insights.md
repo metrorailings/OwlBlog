@@ -19,3 +19,7 @@ Joe Woods enjoys calling blitzes.
 Joe Burrow particularly dependent on A.J. Green in the 2-minute drill.
 
 ***
+
+## Giants @ Bears
+
+The Giants and their obnoxious attitude against the pass rush is affording Mitch Trubisky a whole bunch of time here. Trubisky is lighting up the scoreboard here as New York is giving him literally all day in the pocket.
