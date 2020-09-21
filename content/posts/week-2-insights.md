@@ -51,3 +51,13 @@ And just like that, a dumb play by Herbert ends a promising drive.
 Late down the stretch, the Chiefs defensive front seems to be winning their battles in the trenches. This is either an indictment of the Chargers offensive line or an indication as to the simplicity of the Chargers offense now that it's being helmed by a rookie quarterback making his first start.
 
 ***
+
+## Rams @ Eagles
+
+***
+
+## Patriots @ Seahawks
+
+The Patriots anemic pass rush is affording too much time to Russell Wilson. Seems to me that Wilson can outlast the Patriots great secondary.
+
+Seahawks are rough on defense, but I never quite realized until now they're surprisingly talented along the back parts of their defense. The front lines need work, but the hope there is that one or two defensive linemen drafted over the past three years can break out into elite players. 
