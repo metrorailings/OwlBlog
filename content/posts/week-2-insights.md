@@ -65,3 +65,5 @@ Seahawks are rough on defense, but I never quite realized until now they're surp
 Seattle is a team jacked with testosterone.
 
 Russell Wilson has been absolutely money on his deep passing. No other quarterback in the league compares except for maybe Patrick Mahomes. His throws are so good that New England's best man coverage corners are getting exposed.
+
+So many of Cam's throws are targeted over the middle. Not sure what the thought process here is. Are the Patriots expecting the middle of the field to be consistently wide open so long as Seattle sticks with its cover-three defensive formations and the linebackers stay close to the line of scrimmage in anticipation of a quarterback run?
