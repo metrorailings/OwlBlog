@@ -53,6 +53,8 @@ Late down the stretch, the Chiefs defensive front seems to be winning their batt
 
 ## Rams @ Eagles
 
+Philadelphia's defense has bee working hard to try and pressure Goff, but the problem is that Goff is getting rid of the ball too quickly. The Eagles have been pretty generous giving away short passes, though McVay probably schemed quite a few of those short plays.
+
 ***
 
 ## Patriots @ Seahawks
