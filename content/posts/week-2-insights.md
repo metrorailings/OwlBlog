@@ -60,4 +60,6 @@ Late down the stretch, the Chiefs defensive front seems to be winning their batt
 
 The Patriots anemic pass rush is affording too much time to Russell Wilson. Seems to me that Wilson can outlast the Patriots great secondary.
 
-Seahawks are rough on defense, but I never quite realized until now they're surprisingly talented along the back parts of their defense. The front lines need work, but the hope there is that one or two defensive linemen drafted over the past three years can break out into elite players. 
+Seahawks are rough on defense, but I never quite realized until now they're surprisingly talented along the back parts of their defense. The front lines need work, but the hope there is that one or two defensive linemen drafted over the past three years can break out into elite players.
+
+Seattle is a team jacked with testosterone.
