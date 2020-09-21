@@ -69,3 +69,7 @@ Russell Wilson has been absolutely money on his deep passing. No other quarterba
 So many of Cam's throws are targeted over the middle. Not sure what the thought process here is. Are the Patriots expecting the middle of the field to be consistently wide open so long as Seattle sticks with its cover-three defensive formations and the linebackers stay close to the line of scrimmage in anticipation of a quarterback run?
 
 The fact that Seattle's coverage unit is still playing at a high level despite losing quite a few defensive backs is impressive. It speaks to the way this team is so amped. Broken tackles aren't really much of an issue too for the Seahawks.
+
+Then again, maybe the Patriots aren't so good passing the ball anymore. The fact that Josh Allen booked over 400 yards against the Dolphins this week tells me Cam's passing numbers last week were even more pathetic than they first appeared.
+
+But it's also worth noting that James White is missing in action too. And White is arguably the team's second best receiver.
