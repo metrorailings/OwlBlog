@@ -57,7 +57,11 @@ Philadelphia's defense has bee working hard to try and pressure Goff, but the pr
 
 Bad passes from Carson Wentz and uninspiring offensive plays seem to define Philadelphia's scripted offense.
 
-So long as things go according to plan, Goff excels in McVay's system.
+So long as things go according to plan, Goff excels in McVay's system. So kudos to McVay for reading Jim Schwartz well enough to counter his style of defense.
+
+Speaking of Schwartz...it may be high time to move on if he's unable to adapt in situations like these.
+
+By finally running the ball through light boxes, exposing weakly-defended flats, and incorporating some clever play fakes, the Eagles were able to end a drive with a touchdown.
 
 ***
 
