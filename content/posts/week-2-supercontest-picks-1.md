@@ -1,6 +1,5 @@
 +++
 date = 2020-09-18T12:00:00Z
-draft = true
 headline = "Week 2 Supercontest Picks"
 
 +++
