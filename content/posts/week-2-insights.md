@@ -65,7 +65,7 @@ By finally running the ball through light boxes, exposing weakly-defended flats,
 
 The right side of the Philly offensive line seems to be a major liability.
 
-It took until 3:06 into the 2nd quarter, but Jared Goff finally registered an incomplete pass.
+It took until 3:06 into the 2nd quarter, but Jared Goff finally registered an incomplete pass, courtesy of pressure from Fletcher Cox.
 
 ***
 
