@@ -57,6 +57,8 @@ Philadelphia's defense has bee working hard to try and pressure Goff, but the pr
 
 Bad passes from Carson Wentz and uninspiring offensive plays seem to define Philadelphia's scripted offense.
 
+So long as things go according to plan, Goff excels in McVay's system.
+
 ***
 
 ## Patriots @ Seahawks
