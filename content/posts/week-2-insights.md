@@ -63,6 +63,10 @@ Speaking of Schwartz...it may be high time to move on if he's unable to adapt in
 
 By finally running the ball through light boxes, exposing weakly-defended flats, and incorporating some clever play fakes, the Eagles were able to end a drive with a touchdown.
 
+The right side of the Philly offensive line seems to be a major liability.
+
+It took until 3:06 into the 2nd quarter, but Jared Goff finally registered an incomplete pass.
+
 ***
 
 ## Patriots @ Seahawks
