@@ -27,6 +27,8 @@ Lions are an undisciplined bunch. Jamie Collins was kicked out for idiotically m
 
 I need to see why, but the Lions are choking away a three-score lead in the 4th quarter. What a lily-livered team. What kind of turd franchise allows a schmuck like Mitch Trubisky to stage a big comeback on the road?
 
+Trubisky came back largely thanks to Detroit's laziness and lack of stamina. I can't emphasize the laziness point enough - the Lions are a gutless outfit. Talk about lacking the drive to win, let alone actively giving up on plays. On top of that, their conditioning is terrible.
+
 ***
 
 ## Dolphins @ Patriots
@@ -34,6 +36,14 @@ I need to see why, but the Lions are choking away a three-score lead in the 4th 
 As expected, the Patriots are having fun leveraging Newton's athleticism on read-option plays and rushing packages.
 
 80% of offensive plays for the Patriots have utilized play-action. Crazy. New England seems intent on defining its offense through Cam though.
+
+New England using heavier personnel to run the ball even more effectively behind Cam.
+
+N'Keal Harry finally turning into a playmaker now that Newton is directing this offense.
+
+Miami's defense is better, but they're struggling with this new offense the Patriots are presenting. Still, their secondary and linebackers units look promising.
+
+Miami not afraid to run cover zero. Likewise, New England's corners aren't afraid to play physically.
 
 ***
 
@@ -107,4 +117,4 @@ This Broncos offensive line needs to be called into question, particularly the t
 
 Melvin Gordon loves running laterally.
 
-This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps. 
+This Broncos offensive line is clearly not ready for the way the Titans defensive front likes to cut into gaps.
