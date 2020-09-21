@@ -72,3 +72,5 @@ The fact that Seattle's coverage unit is still playing at a high level despite l
 Then again, maybe the Patriots aren't so good passing the ball anymore. The fact that Josh Allen booked over 400 yards against the Dolphins this week tells me Cam's passing numbers last week were even more pathetic than they first appeared.
 
 But it's also worth noting that James White is missing in action too. And White is arguably the team's second best receiver.
+
+The Seahawks have zero pass rush. Zero. Their best pass rusher is a strong safety in Jamal Adams.
