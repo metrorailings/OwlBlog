@@ -99,4 +99,6 @@ The Colts are doubling down on their run-first identity. Their first drive inclu
 
 Rivers is showing his age. He needs a passing game oriented around short passes, screens, and quick outs, peppered with occasional deep throws to T.Y. Hilton.
 
-The interior of the Minnesota offensive line has serious issues picking up pass rushers running twists.
+The interior of the Minnesota offensive line has serious issues picking up pass rushers running twists. It might be a persistent vulnerability the league's smarter defensive coaches will surely exploit.
+
+Seeing Xavier Rhodes in action for the Colts makes me wonder if Indianapolis has a beat on the Kubiak system thanks to the years Rhodes spent practicing against Minnesota's offense.
