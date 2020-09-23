@@ -88,3 +88,9 @@ Then again, maybe the Patriots aren't so good passing the ball anymore. The fact
 But it's also worth noting that James White is missing in action too. And White is arguably the team's second best receiver.
 
 The Seahawks have zero pass rush. Zero. Their best pass rusher is a strong safety in Jamal Adams.
+
+***
+
+## Vikings @ Colts
+
+Vikings started off with three vintage Kubiak bootlegs.
