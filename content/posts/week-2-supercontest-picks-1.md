@@ -43,7 +43,7 @@ It's hard going with the Eagles here after that disastrous outing last week. But
 
 So give me the team hurting bad from an embarrassing loss here.
 
-**_Postmortem:_** My mistake here was underestimating Sean McVay and overestimating Jim Schwartz. The reality was that the game was won last week when McVay sat down to draft his game plan - Schwartz's defense hasn't evolved much the past few years, so McVay was able to scheme up plays exploiting the limitations of Schwartz's system. The Eagles were constantly gashed on defense. Goff didn't even miss a single throw until late in the second quarter. Up until that point, the Rams were nothing but money.
+**_Postmortem:_** My mistake here was underestimating Sean McVay and overestimating Jim Schwartz. The reality was that the game was won last week when McVay sat down to draft his game plan - Schwartz's defense hasn't evolved much the past few years, so McVay was able to scheme up plays exploiting the limitations of that defense. The Eagles were constantly gashed by Goff and his offense - the clown didn't even miss a single throw until late in the second quarter. Up until that point, the Rams were nothing but money.
 
 Philadelphia has serious issues. Not only are its strategies and tactics growing a bit stale, the team lacks any real passion. Carson Wentz is no longer getting the job done, partly because of his own mistakes and partly because his weapons haven't been sharp. Additionally, the defense is missing some veteran leadership, particularly in its backfield. I should be very wary betting the Eagles going into the rest of the season.
 
