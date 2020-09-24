@@ -1,6 +1,5 @@
 +++
 date = 2020-09-17T12:00:00Z
-draft = true
 headline = "Week 2 Insights"
 
 +++
@@ -54,6 +53,20 @@ Late down the stretch, the Chiefs defensive front seems to be winning their batt
 
 ## Rams @ Eagles
 
+Philadelphia's defense has bee working hard to try and pressure Goff, but the problem is that Goff is getting rid of the ball too quickly. The Eagles have been pretty generous giving away short passes, though McVay probably schemed quite a few of those short plays.
+
+Bad passes from Carson Wentz and uninspiring offensive plays seem to define Philadelphia's scripted offense.
+
+So long as things go according to plan, Goff excels in McVay's system. So kudos to McVay for reading Jim Schwartz well enough to counter his style of defense.
+
+Speaking of Schwartz...it may be high time to move on if he's unable to adapt in situations like these.
+
+By finally running the ball through light boxes, exposing weakly-defended flats, and incorporating some clever play fakes, the Eagles were able to end a drive with a touchdown.
+
+The right side of the Philly offensive line seems to be a major liability.
+
+It took until 3:06 into the 2nd quarter, but Jared Goff finally registered an incomplete pass, courtesy of pressure from Fletcher Cox.
+
 ***
 
 ## Patriots @ Seahawks
@@ -73,3 +86,19 @@ The fact that Seattle's coverage unit is still playing at a high level despite l
 Then again, maybe the Patriots aren't so good passing the ball anymore. The fact that Josh Allen booked over 400 yards against the Dolphins this week tells me Cam's passing numbers last week were even more pathetic than they first appeared.
 
 But it's also worth noting that James White is missing in action too. And White is arguably the team's second best receiver.
+
+The Seahawks have zero pass rush. Zero. Their best pass rusher is a strong safety in Jamal Adams.
+
+***
+
+## Vikings @ Colts
+
+Vikings started off with three vintage Kubiak bootlegs.
+
+The Colts are doubling down on their run-first identity. Their first drive included 12 designated run plays. Might also be an attempt to exploit the Vikings' nickel defense, though it is concerning to see Reich so headstrong with his emphasis on the rushing game.
+
+Rivers is showing his age. He needs a passing game oriented around short passes, screens, and quick outs, peppered with occasional deep throws to T.Y. Hilton.
+
+The interior of the Minnesota offensive line has serious issues picking up pass rushers running twists. It might be a persistent vulnerability the league's smarter defensive coaches will surely exploit.
+
+Seeing Xavier Rhodes in action for the Colts makes me wonder if Indianapolis has a beat on the Kubiak system thanks to the years Rhodes spent practicing against Minnesota's offense.
