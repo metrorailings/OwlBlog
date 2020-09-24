@@ -29,6 +29,8 @@ But I'm convinced the Ravens haven't lost a beat over the offseason. With most o
 
 Then again, the Ravens won't be able to stomp this team quite like the way they did to the Browns. For one thing, Houston has an experienced secondary. And Houston is somewhat decent at defending against the run, though the loss of D.J. Reader over the offseason has hurt them a bit in that regard.
 
+**_Postmortem:_** Houston's defense did its best to curb Baltimore's ground game as much as it could, but the Ravens were finally able to break out big runs in the fourth quarter to seal away the win. To be fair, the Texans defense don't deserve all the blame for finally giving up towards the end - the offense couldn't hold on to the football long enough to give their defensive teammates a chance to rest. Deshaun Watson was constantly under duress, especially when Fuller left after busting his hamstring. Baltimore was simply given too many opportunities to make something happen and it was only a matter of time before the Ravens would run up the score.
+
 ***
 
 ## Rams @ Eagles
