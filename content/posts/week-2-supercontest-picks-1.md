@@ -41,6 +41,10 @@ It's hard going with the Eagles here after that disastrous outing last week. But
 
 So give me the team hurting bad from an embarrassing loss here.
 
+**_Postmortem:_** My mistake here was underestimating Sean McVay and overestimating Jim Schwartz. The reality was that the game was won last week when McVay sat down to draft his game plan - Schwartz's defense hasn't evolved much the past few years, so McVay was able to exploit the limitations of Schwartz's system. The Eagles were constantly gashed on defense. Goff didn't even miss a single throw until late in the second quarter. Up until that point, the Rams were nothing but money.
+
+Philadelphia has serious issues. Not only are its schemes growing stale and outdated, the team lacks some serious passion too. Carson Wentz is no longer getting the job done, partly due to his own mistakes and partly because his supporting cast is letting him down. On top of that, the defense is missing some veteran leadership, particularly in its backfield. I should be very wary betting on this team in the future.
+
 ***
 
 ## 49ers @ Jets
@@ -80,3 +84,7 @@ Tough to pick this one too. I think Russell Wilson may be the favorite to win th
 So that tells me Russell Wilson's numbers will normalize downward as he faces better defensive coverage units. It could happen as early as this week, given the Patriots feature arguably the best secondary in the league. So Wilson and his offense won't have as fun a time here.
 
 On defense, the Seahawks are pretty much in the same predicament as the Dolphins of last week in that New England's presenting a completely revamped offense. Without enough tape on their new offensive schemes, the Seahawks will be drafting a game plan based partly on speculation. Josh McDaniels will have plenty of opportunities to surprise them with tricks and gimmicks.
+
+**_Postmortem:_** Never underestimate the emotions driving the Seahawks whenever they face teams they hold grudges against. On top of that, Russell Wilson had some spectacular throws leading to multiple scores. If Wilson wasn't the favorite last week to win the MVP award, he is now.
+
+What surprised me the most here may have been the Patriots' reluctance to feature Cam Newton or incorporate some creative rushing plays. Newton made his mark here playing as a conventional pocket passer. Cam did well enough though, especially considering that New England didn't have much depth among its skill players following the unexpected absence of James White.
