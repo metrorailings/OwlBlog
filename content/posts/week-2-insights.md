@@ -95,7 +95,7 @@ The Seahawks have zero pass rush. Zero. Their best pass rusher is a strong safet
 
 Vikings started off with three vintage Kubiak bootlegs.
 
-The Colts are doubling down on their run-first identity. Their first drive included 12 designated run plays. Might also be an attempt to exploit the Vikings' nickel defense, though it is concerning to see Reich so headstrong with his emphasis on the rushing game.
+The Colts are doubling down on their run-first identity. Their first drive included 12 designated run plays. Might also be an attempt to exploit the Vikings' nickel defense, though it's concerning to see Reich be so headstrong with his emphasis on the rushing game.
 
 Rivers is showing his age. He needs a passing game oriented around short passes, screens, and quick outs, peppered with occasional deep throws to T.Y. Hilton.
 
