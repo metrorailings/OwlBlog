@@ -108,3 +108,5 @@ Seeing Xavier Rhodes in action for the Colts makes me wonder if Indianapolis has
 ## Broncos @ Steelers
 
 Justin Simmons an absolute beast on the Steelers' opening drive in the second half.
+
+One drive was defined largely by short passes on out routes and a few wide receiver screens. Roethlisberger's attempted a deep ball on a fourth-down play, but it was wide off the mark.
