@@ -112,3 +112,5 @@ Justin Simmons an absolute beast on the Steelers' opening drive in the second ha
 One drive was defined largely by short passes on out routes and a few wide receiver screens. Roethlisberger's attempted a deep ball on a fourth-down play, but it was wide off the mark.
 
 The Broncos offensive line simply cannot get any push in the trenches. All their rushing attempts are gutted at the line of scrimmage.
+
+Jeff Driskel connecting on some critical throws against this Steelers secondary is concerning. It's even more concerning considering Pittsburgh is fielding nickel and dime packages on passing downs.
