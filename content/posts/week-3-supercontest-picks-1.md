@@ -60,4 +60,4 @@ It worries me that Pittsburgh can harangue opposing passers into submission. But
 
 The Vikings are missing way too many critical pieces on defense, especially among their linebacking corps. It's not good considering Ryan Tannehill and the reigning rushing champion are coming into town.
 
-On top of that, I trust Tannehill way more than Cousins. Coaching is more or less a wash here, as both head coaches have proven themselves to be among the upper echelons of the coaching ranks.
+On top of that, I trust Tannehill way more than Cousins. Coaching is more or less a wash here, as both head coaches are pretty damn good in their own rights.
