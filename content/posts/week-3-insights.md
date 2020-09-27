@@ -20,4 +20,4 @@ Seahawks are really relying on strong safety blitzes to generate pressure. Cowbo
 
 Aldon Smith showing potential.
 
-This Dallas team not showing much of anything to start this game.
+This Dallas team not showing much of anything to start this game. Preparation is seriously lacking. Why did I pick this team again?
