@@ -18,7 +18,7 @@ Chan Gailey is just painfully conservative so long as he's carrying a lead. Fitz
 
 Seahawks are really relying on strong safety blitzes to generate pressure. Cowboys are doing well picking up those blitzes so far.
 
-Aldon Smith showing potential.
+Aldon Smith showing potential working in tandem with DeMarcus Lawrence.
 
 This Dallas team not showing much of anything to start this game. Preparation is seriously lacking. Why did I pick this team again?
 
