@@ -30,6 +30,10 @@ These Cowboys are committing way too many stupid mistakes across the board. Spec
 
 It's the big plays and the pass rush keeping these worthless Cowboys in contention, otherwise Seattle would have ran away with this dumb game eons ago.
 
+This Dallas offense has no real spirit outside of the young players. The veterans though...what's wrong with them?
+
+Jamal Adams may have injured himself after tripping on the turf. The turf monster up in Century Link is a scary dude.
+
 ***
 
 ## Texans @ Steelers
