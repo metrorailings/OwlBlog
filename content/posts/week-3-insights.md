@@ -17,3 +17,7 @@ Chan Gailey is just painfully conservative so long as he's carrying a lead. Fitz
 ## Cowboys @ Seahawks
 
 Seahawks are really relying on strong safety blitzes to generate pressure. Cowboys are doing well picking up those blitzes so far.
+
+Aldon Smith showing potential.
+
+This Dallas team not showing much of anything to start this game.
