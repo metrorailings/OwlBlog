@@ -34,6 +34,8 @@ This Dallas offense has no real spirit outside of the young players. The veteran
 
 Jamal Adams may have injured himself after tripping on the turf. The turf monster up in Century Link is a scary dude.
 
+Horrendous clock management by the Seahawks. Seattle was too excited to put up a score. The Seahawks are loaded with too much testosterone sometimes.
+
 ***
 
 ## Texans @ Steelers
