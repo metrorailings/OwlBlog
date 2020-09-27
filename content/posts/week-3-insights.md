@@ -22,7 +22,13 @@ Aldon Smith showing potential working in tandem with DeMarcus Lawrence.
 
 This Dallas team not showing much of anything to start this game. Preparation is seriously lacking. Why did I pick this team again?
 
-Seattle's turf is tripping up players on both teams.
+Seattle's turf has tripped up players on both teams a few times.
+
+Dallas is truly an awful team on offense. The Cowboys have no juice on offense. And where are the second half adjustments? I don't understand. You know damn well the Seahawks are going to be blitzing you on every other down and your response to that is GUH.
+
+These Cowboys are committing way too many stupid mistakes across the board. Special teams, secondary, quarterback, tailback....this team has no commitment to excellence.
+
+It's the big plays and the pass rush keeping these worthless Cowboys in contention, otherwise Seattle would have ran away with this dumb game eons ago.
 
 ***
 
