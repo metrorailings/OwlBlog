@@ -23,3 +23,7 @@ Aldon Smith showing potential working in tandem with DeMarcus Lawrence.
 This Dallas team not showing much of anything to start this game. Preparation is seriously lacking. Why did I pick this team again?
 
 Seattle's turf is tripping up players on both teams.
+
+***
+
+## Texans @ Steelers
