@@ -56,4 +56,6 @@ Guarding against the run remains very much a problem for the Green Bay defense. 
 
 Vikings playing with some serious juice in this game given that they have yet to win a game this season.
 
+Kirk Cousins may have found the next Stefon Diggs in rookie Justin Jefferson.
+
 ***
