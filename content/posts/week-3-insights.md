@@ -48,6 +48,8 @@ A well-executed Saint blitz killed a very promising Packers drive.
 
 So far, seems like Green Bay has fully bought in to Matt LaFuck's system of zone runs and bootlegs. Rodgers and the offense are out there executing well so far.
 
+Guarding against the run remains very much a problem for the Green Bay defense. Some solid coaching from Sean Payton though, emphasizing the running game knowing full well Green Bay's not built to stone rushing plays.
+
 ***
 
 ## Texans @ Steelers
