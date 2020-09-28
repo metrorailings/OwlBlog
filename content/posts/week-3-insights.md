@@ -42,4 +42,12 @@ Amari Cooper was strangely absent on a drive...?
 
 ***
 
+## Packers @ Saints
+
+A well-executed Saint blitz killed a very promising Packers drive.
+
+So far, seems like Green Bay has fully bought in to Matt LaFuck's system of zone runs and bootlegs. Rodgers and the offense are out there executing well so far.
+
+***
+
 ## Texans @ Steelers
