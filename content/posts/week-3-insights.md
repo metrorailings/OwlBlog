@@ -36,7 +36,9 @@ Jamal Adams may have injured himself after tripping on the turf. The turf monste
 
 Horrendous clock management by the Seahawks. Seattle was too excited to put up a score. The Seahawks are loaded with too much testosterone sometimes.
 
-In the end, Seattle had swagger and Dallas didn't.
+In the end, Seattle had swagger and Dallas didn't. Seattle's defense of no-names managed to out-play Dallas and its big-name players.
+
+Amari Cooper was strangely absent on a drive...?
 
 ***
 
