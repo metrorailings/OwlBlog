@@ -52,4 +52,6 @@ Guarding against the run remains very much a problem for the Green Bay defense. 
 
 ***
 
-## Texans @ Steelers
+## Titans @ Vikings
+
+***
