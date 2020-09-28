@@ -58,4 +58,4 @@ Vikings playing with some serious juice in this game given that they have yet to
 
 Kirk Cousins may have found the next Stefon Diggs in rookie Justin Jefferson.
 
-***
+Titans enjoy their three-man pass rush quite a bit as well. Why is this starting to become a thing? I don't understand.
