@@ -67,3 +67,5 @@ The Kubiak brand of play-action football is producing some serious dividends her
 ## Chiefs @ Ravens
 
 Ravens cannot play from negative game script. Lamar is not a pocket passer - his reads are late and his accuracy needs work. Lamar's ability is positively correlated with his team's momentum.
+
+The Chiefs defense is playing very well at all levels. Defensive linemen pressuring Jackson, linebackers reading plays, and and defensive backs executing well enough on man coverage.
