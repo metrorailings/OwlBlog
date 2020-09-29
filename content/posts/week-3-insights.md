@@ -65,6 +65,10 @@ The Vikings defensive line stepped up and won three downs in a row after a criti
 
 Dalvin Cook is something special. His speed, his elusiveness, his burst...
 
+Right side of the Viking offensive line may present itself as a liability.
+
+Derrick Henry has started asserting himself as a physical runner.
+
 ***
 
 ## Chiefs @ Ravens
