@@ -29,6 +29,8 @@ But I'm convinced the Ravens haven't lost a beat over the offseason. With most o
 
 Then again, the Ravens won't be able to stomp this team quite like the way they did to the Browns. For one thing, Houston has an experienced secondary. And Houston is somewhat decent at defending against the run, though the loss of D.J. Reader over the offseason has hurt them a bit in that regard.
 
+**_Postmortem:_** Houston's defense did its best to curb Baltimore's ground game as much as it could, but the Ravens were finally able to break out big runs in the fourth quarter to seal away the win. To be fair, the Texans defense don't deserve all the blame for finally giving up towards the end - the offense couldn't hold on to the football long enough to give their brothers on defense a chance to rest. Deshaun Watson was constantly under duress, especially when Fuller was sidelined with yet another injury. Baltimore was simply given too many opportunities to make something happen.
+
 ***
 
 ## Rams @ Eagles
@@ -40,6 +42,10 @@ Then again, the Ravens won't be able to stomp this team quite like the way they 
 It's hard going with the Eagles here after that disastrous outing last week. But the Eagles are welcoming so many of their key trench players back into the thick of things just in time to host the Rams for the homecoming game. While the Rams can move the ball extraordinarily well simply through scheming, Jared Goff still needs to function at a high level to keep the offense in rhythm. And the reality is that Goff falls apart when pressured. On top of that, any bootlegs the Rams run will be met quickly with resistance so long as defensive ends like Brandon Graham and Derek Barnett play from their usual wide-nine stances.
 
 So give me the team hurting bad from an embarrassing loss here.
+
+**_Postmortem:_** My mistake here was underestimating Sean McVay and overestimating Jim Schwartz. The reality was that the game was won last week when McVay sat down to draft his game plan - Schwartz's defense hasn't evolved much the past few years, so McVay was able to scheme up plays exploiting the limitations of that defense. The Eagles were constantly gashed by Goff and his offense - the clown didn't even miss a single throw until late in the second quarter. Up until that point, the Rams were nothing but money.
+
+Philadelphia has serious issues. Not only are its strategies and tactics growing a bit stale, the team lacks any real passion. Carson Wentz is no longer getting the job done, partly because of his own mistakes and partly because his weapons haven't been sharp. Additionally, the defense is missing some veteran leadership, particularly in its backfield. I should be very wary betting the Eagles going into the rest of the season.
 
 ***
 
@@ -80,3 +86,7 @@ Tough to pick this one too. I think Russell Wilson may be the favorite to win th
 So that tells me Russell Wilson's numbers will normalize downward as he faces better defensive coverage units. It could happen as early as this week, given the Patriots feature arguably the best secondary in the league. So Wilson and his offense won't have as fun a time here.
 
 On defense, the Seahawks are pretty much in the same predicament as the Dolphins of last week in that New England's presenting a completely revamped offense. Without enough tape on their new offensive schemes, the Seahawks will be drafting a game plan based partly on speculation. Josh McDaniels will have plenty of opportunities to surprise them with tricks and gimmicks.
+
+**_Postmortem:_** Never underestimate the emotions driving the Seahawks whenever they face teams they hold grudges against. On top of that, Russell Wilson had some spectacular throws leading to multiple scores. If Wilson wasn't the favorite last week to win the MVP award, he is now.
+
+What surprised me the most here may have been the Patriots' reluctance to feature Cam Newton or incorporate some creative rushing plays. Newton made his mark here playing as a conventional pocket passer. Cam did well enough though, especially considering that New England didn't have much depth among its skill players following the unexpected absence of James White.

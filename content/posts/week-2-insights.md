@@ -23,11 +23,11 @@ Joe Burrow particularly dependent on A.J. Green in the 2-minute drill.
 
 The Giants and their obnoxious attitude against the pass rush is affording Mitch Trubisky a whole bunch of time here. Trubisky is lighting up the scoreboard here as New York is giving him literally all day in the pocket.
 
-Offense looking discombobulated. Part of that is on the offensive line not giving Daniel Jones enough protection, but it's clearly Jason Garrett's gameplan here is absolute trash.
+Offense looking discombobulated. Part of that is on the offensive line not giving Daniel Jones enough protection, but it's clear Jason Garrett's gameplan here is absolute trash.
 
 Giants were finally money on one drive that consisted of largely short passes to receivers in the flat. No splash play, but the Bears seemed content giving these short gains over to New York.
 
-Unfortunately, New York couldn't count on that single dimension of offense to carry them to victory. Damn shame too, as they came close. But the Giants need to start investing in deep balls if they want to matriculate the ball more consistently.
+Unfortunately, New York couldn't count on that single dimension of offense to carry them to victory. Damn shame too, as they came close. But the Giants need to start investing in deep balls if they want to produce far more consistently.
 
 ***
 
@@ -37,7 +37,7 @@ Chargers successfully harassing Mahomes on just about every passing play.
 
 Los Angeles is gambling a bit too much with the pass rush, leaving open lanes that Mahomes was able to exploit on two critical downs.
 
-Austin Ekeler a world-class talent.
+Austin Ekeler is a world-class talent.
 
 Herbert with an impressive pass against a tight cover-three zone for the touchdown.
 
@@ -95,10 +95,24 @@ The Seahawks have zero pass rush. Zero. Their best pass rusher is a strong safet
 
 Vikings started off with three vintage Kubiak bootlegs.
 
-The Colts are doubling down on their run-first identity. Their first drive included 12 designated run plays. Might also be an attempt to exploit the Vikings' nickel defense, though it is concerning to see Reich so headstrong with his emphasis on the rushing game.
+The Colts are doubling down on their run-first identity. Their first drive included 12 designated run plays. Might also be an attempt to exploit the Vikings' nickel defense, though it's concerning to see Reich be so headstrong with his emphasis on the rushing game.
 
 Rivers is showing his age. He needs a passing game oriented around short passes, screens, and quick outs, peppered with occasional deep throws to T.Y. Hilton.
 
 The interior of the Minnesota offensive line has serious issues picking up pass rushers running twists. It might be a persistent vulnerability the league's smarter defensive coaches will surely exploit.
 
 Seeing Xavier Rhodes in action for the Colts makes me wonder if Indianapolis has a beat on the Kubiak system thanks to the years Rhodes spent practicing against Minnesota's offense.
+
+***
+
+## Broncos @ Steelers
+
+Justin Simmons an absolute beast on the Steelers' opening drive in the second half.
+
+One drive was defined largely by short passes on out routes and a few wide receiver screens. Roethlisberger's attempted a deep ball on a fourth-down play, but it was wide off the mark.
+
+The Broncos offensive line simply cannot get any push in the trenches. All their rushing attempts are gutted at the line of scrimmage.
+
+Jeff Driskel connecting on some critical throws against this Steelers secondary is concerning. It's even more concerning considering Pittsburgh is fielding nickel and dime packages on passing downs.
+
+Finally, Ben throws a few decent deep passes on a drive ending in a touchdown. That arm strength isn't completely gone yet.
