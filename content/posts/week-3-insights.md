@@ -61,6 +61,8 @@ Titans enjoy their three-man pass rush quite a bit as well. Why is this starting
 
 The Kubiak brand of play-action football is producing some serious dividends here now that Justin Jefferson is there as a complimentary receiver alongside Adam Thielan.
 
+The Vikings defensive line stepped up and won three downs in a row after a critical turnover by Kirk Cousins set the Titans up nicely.
+
 ***
 
 ## Chiefs @ Ravens
