@@ -61,3 +61,9 @@ Kirk Cousins may have found the next Stefon Diggs in rookie Justin Jefferson.
 Titans enjoy their three-man pass rush quite a bit as well. Why is this starting to become a thing? I don't understand.
 
 The Kubiak brand of play-action football is producing some serious dividends here now that Justin Jefferson is there as a complimentary receiver alongside Adam Thielan.
+
+***
+
+## Chiefs @ Ravens
+
+Ravens cannot play from negative game script. Lamar is not a pocket passer - his reads are late and his accuracy needs work. Lamar's ability is positively correlated with his team's momentum.
