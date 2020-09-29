@@ -63,6 +63,8 @@ The Kubiak brand of play-action football is producing some serious dividends her
 
 The Vikings defensive line stepped up and won three downs in a row after a critical turnover by Kirk Cousins set the Titans up nicely.
 
+Dalvin Cook is something special. His speed, his elusiveness, his burst...
+
 ***
 
 ## Chiefs @ Ravens
