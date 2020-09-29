@@ -71,6 +71,8 @@ Derrick Henry has started asserting himself as a physical runner.
 
 Titans starting to line up in five-man fronts, likely in response to the Vikings and their bootlegging tendencies.
 
+Vikings have some exotic blitzes in their defensive playbook.
+
 ***
 
 ## Chiefs @ Ravens
