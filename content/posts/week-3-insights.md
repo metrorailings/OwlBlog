@@ -69,3 +69,13 @@ The Kubiak brand of play-action football is producing some serious dividends her
 Ravens cannot play from negative game script. Lamar is not a pocket passer - his reads are late and his accuracy needs work. Lamar's ability is positively correlated with his team's momentum.
 
 The Chiefs defense is playing very well at all levels. Defensive linemen pressuring Jackson, linebackers reading plays, and and defensive backs executing well enough on man coverage.
+
+Ravens don't have much juice, committing careless mistakes either killing drives early or gifting more yards to the Chiefs.
+
+Chiefs have ended three consecutive drives with essentially turn-overs - a missed field goal, a fumble, and downs. On the drive that ended on downs, three of those downs were spent on running the ball. The Ravens have done a decent job keying in against the run.
+
+Again, the Chiefs are having a hard time trying to force the ground game against these Ravens.
+
+Three straight runs inside the red zone followed by one improved passing play and a well-designed trick play ends in a score for the Chiefs.
+
+Lamar Jackson doomed that last gasp drive from the Ravens with his petulance, his inability to remain composed against blitzes, and his inaccurate throws.
