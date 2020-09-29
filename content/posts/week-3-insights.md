@@ -69,6 +69,8 @@ Right side of the Viking offensive line may present itself as a liability.
 
 Derrick Henry has started asserting himself as a physical runner.
 
+Titans starting to line up in five-man fronts, likely in response to the Vikings and their bootlegging tendencies.
+
 ***
 
 ## Chiefs @ Ravens
