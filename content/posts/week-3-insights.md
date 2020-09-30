@@ -90,3 +90,9 @@ Again, the Chiefs are having a hard time trying to force the ground game against
 Three straight runs inside the red zone followed by one improved passing play and a well-designed trick play ends in a score for the Chiefs.
 
 Lamar Jackson doomed that last gasp drive from the Ravens with his petulance, his inability to remain composed against blitzes, and his inaccurate throws.
+
+***
+
+## Panthers @ Chargers
+
+Austin Ekeler is something special.
