@@ -96,3 +96,5 @@ Lamar Jackson doomed that last gasp drive from the Ravens with his petulance, hi
 ## Panthers @ Chargers
 
 Austin Ekeler is something special.
+
+One Panthers drive was defined almost exclusively by a committee of halfbacks. Carolina seems intent on setting a ground game in place before anything else.
