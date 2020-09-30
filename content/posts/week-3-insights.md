@@ -100,3 +100,5 @@ Austin Ekeler is something special.
 One Panthers drive was defined almost exclusively by a committee of halfbacks. Carolina seems intent on setting a ground game in place before anything else.
 
 Extremely sloppy penalty by Los Angeles extended a Panthers touchdown drive.
+
+Herbert has had a few crisp throws so far, but his offensive line is giving away to three-man pass rushes, of all things.
