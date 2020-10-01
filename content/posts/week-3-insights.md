@@ -106,3 +106,5 @@ Herbert has had a few crisp throws so far, but his offensive line is giving away
 Panthers actually seem to have an affinity for the three-man defensive front. Interesting. They'll learn the hard way this is not a sustainable strategy.
 
 Panthers passing offense is predicated on easy throws for Teddy. I want to see some more deep throws here. Bridgewater is capable of being more than a game manager!
+
+Chargers aren't showing much juice on offense...
