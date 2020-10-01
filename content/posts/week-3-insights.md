@@ -103,4 +103,4 @@ Extremely sloppy penalty by Los Angeles extended a Panthers touchdown drive.
 
 Herbert has had a few crisp throws so far, but his offensive line is giving away to three-man pass rushes, of all things.
 
-Panthers defense have done some solid work feeling the beat of this new Chargers offense even after Justin Herbert started just one game. 
+Panthers actually seem to have an affinity for the three-man defensive front. Interesting. They'll learn the hard way this is not a sustainable strategy.
