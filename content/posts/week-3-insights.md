@@ -112,3 +112,7 @@ Chargers aren't showing much juice on offense...
 Herbert's accuracy is suspect. Consistency may not be his thing...
 
 Bad series of plays called in the red zone led to the Chargers depressingly settling for a field goal.
+
+Finally a big pass from Teddy.
+
+Carolina's not afraid to run those blitzes against a rookie quarterback.
