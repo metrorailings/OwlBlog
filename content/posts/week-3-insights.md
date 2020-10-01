@@ -108,3 +108,7 @@ Panthers actually seem to have an affinity for the three-man defensive front. In
 Panthers passing offense is predicated on easy throws for Teddy. I want to see some more deep throws here. Bridgewater is capable of being more than a game manager!
 
 Chargers aren't showing much juice on offense...
+
+Herbert's accuracy is suspect. Consistency may not be his thing...
+
+Bad series of plays called in the red zone led to the Chargers depressingly settling for a field goal.
