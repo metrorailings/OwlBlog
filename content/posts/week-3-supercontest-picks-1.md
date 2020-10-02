@@ -1,6 +1,5 @@
 +++
 date = 2020-09-25T12:00:00Z
-draft = true
 headline = "Week 3 Supercontest Picks"
 
 +++
@@ -61,3 +60,15 @@ It worries me that Pittsburgh can harangue opposing passers into submission. But
 The Vikings are missing way too many critical pieces on defense, especially among their linebacking corps. It's not good considering Ryan Tannehill and the reigning rushing champion are coming into town.
 
 On top of that, I trust Tannehill way more than Cousins. Coaching is more or less a wash here, as both head coaches are pretty damn good in their own rights.
+
+***
+
+### Cowboys @ Seahawks (-5)
+
+> Cowboys +5
+
+***
+
+The Cowboys have the offensive horsepower and the defensive playmakers to match up with the Seahawks here. Granted, Russell Wilson is in MVP form, but Cam Newton proved last week that Seattle's pass coverage unit is a major liability.
+
+I'm hoping their unexpected win over Atlanta last week sparks some fire in Dallas too...
