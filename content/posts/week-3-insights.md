@@ -130,3 +130,5 @@ Cardinals may be weak against the run.
 The Cardinals and their crossing routes in five-man sets have been destroying this Lions defense.
 
 Kyler Murray and his mobility can definitely be considered an added dimension to this offense.
+
+Lions with a very successful two-minute drive to close out the first half.
