@@ -116,3 +116,17 @@ Bad series of plays called in the red zone led to the Chargers depressingly sett
 Finally a big pass from Teddy.
 
 Carolina's not afraid to run those blitzes against a rookie quarterback.
+
+***
+
+## Lions @ Cardinals
+
+Kyler forcing passes into tight coverage resulting in interceptions. I wonder if an opportunistic zone defense is his weakness.
+
+Detroit showing off some of the creativity in their playbook.
+
+Cardinals may be weak against the run.
+
+The Cardinals and their crossing routes in five-man sets have been destroying this Lions defense.
+
+Kyler Murray and his mobility can definitely be considered an added dimension to this offense.
