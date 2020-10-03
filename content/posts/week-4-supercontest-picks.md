@@ -53,3 +53,25 @@ Don't overlook the Vikings here on offense as well. While Deshaun Watson is the 
 I hate betting against Russell Wilson and his fiery Seahawks, especially coming off two statement wins. But those wins were emotionally and physically taxing - the Seahawks need a proper week to reset themselves, meaning an underwhelming game is very possible here. What better moment to underperform than in a cross-country match against a middling Miami team that impresses nobody? The humidity won't be helping things either.
 
 On top of that, Seattle's defense will be missing its most vital cornerstone in Jamal Adams. Maybe Quandre Diggs can step up in his absence, but that seems unlikely given all the different roles Adams played in this defense. More than likely, the Seahawks will be replacing Jamal Adams with Ryan Neal, a street-level player off their practice squad. Expectations for this defense are incriminating low given all the yards they've given up to Cam Newton and Dak Prescott over the past two weeks, so things don't look promising against a Miami offense with some moxie.
+
+***
+
+### Chargers @ Buccaneers (-7)
+
+> Buccaneers -7
+
+***
+
+Seven points is a lot to ask for an unfinished Tampa Bay offense. But this contest play is predicated more on Todd Bowles and his assortment of blitzes throwing a rookie quarterback off balance. Given the sorry state of the Chargers offensive line and the humid weather wearing down, Justin Herbert will likely spend most of the day negotiating through shrinking pockets and free blitzers.
+
+So long as Tampa Bay can give Tom Brady and his squad enough possessions, a cover is very much a possibility.
+
+***
+
+### Ravens @ Football Team (+13)
+
+> Ravens -13
+
+***
+
+Yet another wide spread here. But the Ravens are that type of team that either beat you big or lose big. And there's no way in hell they're losing to the Washington Former Slurs so long as Dwayne Haskins remains the team's quarterback.
