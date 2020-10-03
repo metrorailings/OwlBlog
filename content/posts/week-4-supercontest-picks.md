@@ -22,7 +22,7 @@ Granted, Carolina's offense is pretty uninspiring. Teddy Bridgewater will never 
 
 ***
 
-I'm wary of this pick. I actually think it's not all too difficult to conceive a defensive game plan against a Saints offense missing the deep vertical dimension to its passing attack. The problem is Matt Patricia is the head coach of this team. And Patricia is the exact kind of coach to fuck up here, even with the proper plan in place. 
+I'm wary of this pick. I actually think it's not all too difficult to conceive a defensive game plan against a Saints offense missing the deep vertical dimension to its passing attack. The problem is Matt Patricia is the head coach of this team. And Patricia is the exact kind of coach to fuck up here, even with the proper plan in place.
 
 His game against the Rams two years ago perfectly illustrates his commitment to failure - even though his defensive game plan was masterfully formulated, the Lions still didn't end up covering as double-digit underdogs.
 
@@ -41,3 +41,15 @@ Oddsmakers expect this game to be a high-scoring one, as both offenses carry som
 I'm not too sure about that. The Texans offense has been incredibly lackluster without a true big play threat in DeAndre Hopkins and a coach that wants nothing more than to handcuff his star quarterback. Granted, Minnesota's defense has been disappointing in its own right, but a part of their struggle can be owed to inexperience. It's a problem Mike Zimmer will gradually correct over the course of this season. While I don't expect the defensive backs to adjust swimmingly this week, I do expect some improvement from them regardless, especially against a Texans offense missing an identity.
 
 Don't overlook the Vikings here on offense as well. While Deshaun Watson is the better quarterback, Minnesota's offense is arguably stocked with better talent at all other levels.
+
+***
+
+### Seahawks @ Dolphins (+6.5)
+
+> Dolphins +6.5
+
+***
+
+I hate betting against Russell Wilson and his fiery Seahawks, especially coming off two statement wins. But those wins were emotionally and physically taxing - the Seahawks need a proper week to reset themselves, meaning an underwhelming game is very possible here. What better moment to underperform than in a cross-country match against a middling Miami team that impresses nobody? The humidity won't be helping things either.
+
+On top of that, Seattle's defense will be missing its heart and soul in Jamal Adams. Maybe Quandre Diggs can step up in his absence, but that seems unlikely given all the different roles Adams played in this defense. 
