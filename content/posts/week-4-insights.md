@@ -29,3 +29,9 @@ The haze blitz messed with Justin Herbert and fooled him into throwing an interc
 ## Bills @ Raiders
 
 Derek Carr with some poor passes ultimately left the Raiders having to settle for a field goal. Very disappointing short pass on 3rd and long too.
+
+Gruden passing up on a chance to show confidence in his offense by kicking the field goal on a fourth and short.
+
+Bills have some serious juice across the organization. Buffalo is genuinely having good fun playing football.
+
+Brian Daboll drawing up some creative plays and Josh Allen executing them well. Compare this offense to whatever mess the Giants run and this is yet another strong argument in favor of year-over-year continuity.
