@@ -12,7 +12,7 @@ Justin Herbert may be the real thing. His passes have been on point and his pois
 
 Tom Brady, on the other hand....maybe it's time to put him out to pasture. It's sad.
 
-Tampa Bay's players committing some silly penalties, some of it because of anger, some of it because of procedural ignorance. 
+Tampa Bay's players committing some silly penalties, some of it because of anger, some of it because of procedural ignorance.
 
 Heavier sets seem to be doing wonders for Tampa Bay's offense. I wonder if the Chargers pass rushers were throwing Brady way off his game...
 
@@ -23,3 +23,9 @@ In the second half, Brady is dead set on testing this Chargers secondary deep. H
 Tampa Bay with a late drive intended to drain clock. Bruce Arians isn't quite that interested in running up the score in this particular affair.
 
 The haze blitz messed with Justin Herbert and fooled him into throwing an interception to close out the game.
+
+***
+
+## Bills @ Raiders
+
+Derek Carr with some poor passes ultimately left the Raiders having to settle for a field goal. Very disappointing short pass on 3rd and long too.
