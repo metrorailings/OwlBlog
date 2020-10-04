@@ -1,6 +1,5 @@
 +++
 date = 2020-10-02T12:00:00Z
-draft = true
 headline = "Week 4 Supercontest Picks"
 
 +++
@@ -24,7 +23,7 @@ Granted, Carolina's offense is pretty uninspiring. Teddy Bridgewater will never 
 
 I'm wary of this pick. I actually think it's not all too difficult to conceive a defensive game plan against a Saints offense missing the deep vertical dimension to its passing attack. The problem is Matt Patricia is the head coach of this team. And Patricia is the exact kind of coach to fuck up here, even with the proper plan in place.
 
-His game against the Rams two years ago perfectly illustrates his commitment to failure - even though his defensive game plan was masterfully formulated, the Lions still didn't end up covering as double-digit underdogs.
+His game against the Rams two years ago perfectly illustrates his commitment to failing - even though his defensive game plan against the Rams was masterfully formulated, the Lions still didn't end up covering as double-digit underdogs.
 
 It does help that the Saints are missing key weapons on offense and two starting defensive backs in their secondary. So I offer up the Lions here, albeit only lukewarmly.
 
