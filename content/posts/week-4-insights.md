@@ -9,3 +9,5 @@ headline = "Week 4 Insights"
 ***
 
 Justin Herbert may be the real thing. His passes have been on point and his poise has been admirable so far.
+
+Tom Brady, on the other hand....maybe it's time to put him out to pasture. It's sad.
