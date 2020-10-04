@@ -75,3 +75,15 @@ So long as Tampa Bay can give Tom Brady and his squad enough possessions, a cove
 ***
 
 Yet another wide spread here. But the Ravens are that type of team that either beat you big or lose big. And there's no way in hell they're losing to the Washington Former Slurs so long as Dwayne Haskins remains the team's quarterback.
+
+***
+
+### Eagles @ 49ers (-7)
+
+> 49ers -7
+
+***
+
+Talk about a team coming off a smoking high playing a team clawing its way out of an abysmally low point. Conventional wisdom would say the latter team is due for a surprising performance. But the Eagles are even more hopeless than your typical loser. Something about their coaching and their players gives me the impression that the team has given up on contending. Their willingness to accept the draw last week against the lowly Bengals will never sit right with me.
+
+It's that reason and Kyle Shanahan's ability to pull great performances out of this team that make me want to side with the 49ers here. Still...in general, it's never wise to bet against a team at their lowest point. The spread is overly skewed because of that perception that the Eagles are truly horrendous.
