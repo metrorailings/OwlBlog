@@ -13,3 +13,5 @@ Justin Herbert may be the real thing. His passes have been on point and his pois
 Tom Brady, on the other hand....maybe it's time to put him out to pasture. It's sad.
 
 Tampa Bay's players committing some silly penalties, some of it because of anger, some of it because of procedural ignorance. 
+
+Heavier sets seem to be doing wonders for Tampa Bay's offense. I wonder if the Chargers pass rushers were throwing Brady way off his game...
