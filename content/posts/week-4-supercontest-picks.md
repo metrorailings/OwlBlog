@@ -62,7 +62,7 @@ On top of that, Seattle's defense will be missing its most vital cornerstone in 
 
 ***
 
-Seven points is a lot to ask for an unfinished Tampa Bay offense. But this contest play is predicated more on Todd Bowles and his assortment of blitzes throwing a rookie quarterback off balance. Given the sorry state of the Chargers offensive line and the humid weather wearing down, Justin Herbert will likely spend most of the day negotiating through shrinking pockets and free blitzers.
+Seven points is a lot to ask for an unfinished Tampa Bay offense. But this contest play is predicated more on Todd Bowles and his assortment of blitzes throwing a rookie quarterback off balance. Given the sorry state of the Chargers offensive line and the humid weather bearing down on the field that day, Justin Herbert will likely spend most of the day negotiating through shrinking pockets and free blitzers.
 
 So long as Tampa Bay can give Tom Brady and his squad enough possessions, a cover is very much a possibility.
 
