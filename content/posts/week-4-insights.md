@@ -21,3 +21,5 @@ Justin Herbert with a big pass leading to a score against a jailbreak blitz. Wel
 In the second half, Brady is dead set on testing this Chargers secondary deep. His intended air yards have to be well into the double-digits here. Tampa Bay has to be convinced that the Chargers defensive backfield is a pointed area of weakness.
 
 Tampa Bay with a late drive intended to drain clock. Bruce Arians isn't quite that interested in running up the score in this particular affair.
+
+The haze blitz messed with Justin Herbert and fooled him into throwing an interception to close out the game.
