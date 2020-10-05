@@ -45,3 +45,5 @@ Matt Patricia is only putting six men in the box against Drew Brees. I expected 
 Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is Patricia this bad a coach?
 
 On top of that, Detroit's defensive tackles are a soft bunch. Pushed around pretty easily.
+
+Stocking up on Patriot rejects is not a good way to build a roster, Matt.
