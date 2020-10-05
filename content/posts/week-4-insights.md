@@ -41,3 +41,5 @@ Brian Daboll drawing up some creative plays and Josh Allen executing them well. 
 ## Saints @ Lions
 
 Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here. 
+
+Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is Patricia this bad a coach?
