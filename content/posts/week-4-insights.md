@@ -47,3 +47,7 @@ Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is
 On top of that, Detroit's defensive tackles are a soft bunch. Pushed around pretty easily.
 
 Stocking up on Patriot rejects is not a good way to build a roster, Matt.
+
+It took a quarter, but New Orleans' B-team of cornerbacks are holding up well finally.
+
+Drew Brees is nailing some fantastic passes here against Detroit's porous zone coverage.
