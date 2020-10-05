@@ -61,6 +61,18 @@ Titans enjoy their three-man pass rush quite a bit as well. Why is this starting
 
 The Kubiak brand of play-action football is producing some serious dividends here now that Justin Jefferson is there as a complimentary receiver alongside Adam Thielan.
 
+The Vikings defensive line stepped up and won three downs in a row after a critical turnover by Kirk Cousins set the Titans up nicely.
+
+Dalvin Cook is something special. His speed, his elusiveness, his burst...
+
+Right side of the Viking offensive line may present itself as a liability.
+
+Derrick Henry has started asserting himself as a physical runner.
+
+Titans starting to line up in five-man fronts, likely in response to the Vikings and their bootlegging tendencies.
+
+Vikings have some exotic blitzes in their defensive playbook.
+
 ***
 
 ## Chiefs @ Ravens
@@ -78,3 +90,45 @@ Again, the Chiefs are having a hard time trying to force the ground game against
 Three straight runs inside the red zone followed by one improved passing play and a well-designed trick play ends in a score for the Chiefs.
 
 Lamar Jackson doomed that last gasp drive from the Ravens with his petulance, his inability to remain composed against blitzes, and his inaccurate throws.
+
+***
+
+## Panthers @ Chargers
+
+Austin Ekeler is something special.
+
+One Panthers drive was defined almost exclusively by a committee of halfbacks. Carolina seems intent on setting a ground game in place before anything else.
+
+Extremely sloppy penalty by Los Angeles extended a Panthers touchdown drive.
+
+Herbert has had a few crisp throws so far, but his offensive line is giving away to three-man pass rushes, of all things.
+
+Panthers actually seem to have an affinity for the three-man defensive front. Interesting. They'll learn the hard way this is not a sustainable strategy.
+
+Panthers passing offense is predicated on easy throws for Teddy. I want to see some more deep throws here. Bridgewater is capable of being more than a game manager!
+
+Chargers aren't showing much juice on offense...
+
+Herbert's accuracy is suspect. Consistency may not be his thing...
+
+Bad series of plays called in the red zone led to the Chargers depressingly settling for a field goal.
+
+Finally a big pass from Teddy.
+
+Carolina's not afraid to run those blitzes against a rookie quarterback.
+
+***
+
+## Lions @ Cardinals
+
+Kyler forcing passes into tight coverage resulting in interceptions. I wonder if an opportunistic zone defense is his weakness.
+
+Detroit showing off some of the creativity in their playbook.
+
+Cardinals may be weak against the run.
+
+The Cardinals and their crossing routes in five-man sets have been destroying this Lions defense.
+
+Kyler Murray and his mobility can definitely be considered an added dimension to this offense.
+
+Lions with a very successful two-minute drive to close out the first half.
