@@ -51,3 +51,5 @@ Stocking up on Patriot rejects is not a good way to build a roster, Matt.
 It took a quarter, but New Orleans' B-team of cornerbacks are holding up well finally.
 
 Drew Brees is nailing some fantastic passes here against Detroit's porous zone coverage.
+
+New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss. 
