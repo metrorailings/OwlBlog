@@ -35,3 +35,21 @@ Gruden passing up on a chance to show confidence in his offense by kicking the f
 Bills have some serious juice across the organization. Buffalo is genuinely having good fun playing football.
 
 Brian Daboll drawing up some creative plays and Josh Allen executing them well. Compare this offense to whatever mess the Giants run and this is yet another strong argument in favor of year-over-year continuity.
+
+***
+
+## Saints @ Lions
+
+Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here. 
+
+Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is Patricia this bad a coach?
+
+On top of that, Detroit's defensive tackles are a soft bunch. Pushed around pretty easily.
+
+Stocking up on Patriot rejects is not a good way to build a roster, Matt.
+
+It took a quarter, but New Orleans' B-team of cornerbacks are holding up well finally.
+
+Drew Brees is nailing some fantastic passes here against Detroit's porous zone coverage.
+
+New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss. 
