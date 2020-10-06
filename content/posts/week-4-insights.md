@@ -78,4 +78,12 @@ Patriots racking up lots of yardage on the ground, despite operating with backup
 
 New England adamantly sticking to an eight-man coverage shell, forcing Mahomes to hold the ball longer. Now if only the Patriots had another quality pass rusher alongside Chase Winowich to give their three-man pass rush some teeth.
 
-Still, I do respect the way New England masks its three-man pass rushes through five-man defensive fronts. 
+Still, I do respect the way New England masks its three-man pass rushes through five-man defensive fronts.
+
+***
+
+## Falcons @ Packers
+
+I can't say enough good things about the Packers and their offensive line. Continuity in coaching and personnel has served this team very well.
+
+Rodgers is having a ball of a time.
