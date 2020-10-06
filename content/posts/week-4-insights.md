@@ -40,7 +40,7 @@ Brian Daboll drawing up some creative plays and Josh Allen executing them well. 
 
 ## Saints @ Lions
 
-Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here. 
+Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here.
 
 Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is Patricia this bad a coach?
 
@@ -52,4 +52,18 @@ It took a quarter, but New Orleans' B-team of cornerbacks are holding up well fi
 
 Drew Brees is nailing some fantastic passes here against Detroit's porous zone coverage.
 
-New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss. 
+New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss.
+
+***
+
+## Ravens @ Football Team
+
+***
+
+## Patriots @ Chiefs
+
+New England's rushing offense is at that point where it's finely tuned.
+
+Kansas City's cornerbacks stick to their assigned receivers like glue.
+
+Excellent coaching from Andy Reid and Patrick Mahomes, seeing an opportunity to exploit some horrifically bad refereeing to screw over the Patriots.
