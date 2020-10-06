@@ -73,3 +73,5 @@ Brian Hoyer is a goddamn moron, taking a sack at the end of the half and costing
 Kansas City has a punk attitude to them.
 
 The Chiefs have gotten way too much help from the referees.
+
+Patriots racking up lots of yardage on the ground, despite operating with backup quarterbacks. Probably a statement that says as much about New England's rushing offense as it does Kansas City's rushing defense.
