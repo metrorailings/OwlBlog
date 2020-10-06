@@ -86,4 +86,4 @@ Still, I do respect the way New England masks its three-man pass rushes through 
 
 I can't say enough good things about the Packers and their offensive line. Continuity in coaching and personnel has served this team very well.
 
-Rodgers is having a ball of a time.
+Rodgers is having a ball of a time. Even celebrating with Matt LeFuck.Good for them.
