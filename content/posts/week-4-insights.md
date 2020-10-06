@@ -40,7 +40,7 @@ Brian Daboll drawing up some creative plays and Josh Allen executing them well. 
 
 ## Saints @ Lions
 
-Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here. 
+Matt Patricia is only putting six men in the box against Drew Brees. I expected way too much from Patricia here.
 
 Literal six-man boxes against Alvin Kamara and the Saints offensive line. How is Patricia this bad a coach?
 
@@ -52,4 +52,38 @@ It took a quarter, but New Orleans' B-team of cornerbacks are holding up well fi
 
 Drew Brees is nailing some fantastic passes here against Detroit's porous zone coverage.
 
-New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss. 
+New Orleans is playing with a passion here. Never bet against a solid head coach coming off a painful loss.
+
+***
+
+## Ravens @ Football Team
+
+***
+
+## Patriots @ Chiefs
+
+New England's rushing offense is at that point where it's finely tuned.
+
+Kansas City's cornerbacks stick to their assigned receivers like glue.
+
+Excellent coaching from Andy Reid and Patrick Mahomes, seeing an opportunity to exploit some horrifically bad refereeing to screw over the Patriots.
+
+Brian Hoyer is a goddamn moron, taking a sack at the end of the half and costing his team a chance at a field goal.
+
+Kansas City has a punk attitude to them.
+
+The Chiefs have gotten way too much help from the referees.
+
+Patriots racking up lots of yardage on the ground, despite operating with backup quarterbacks. Probably a statement that says as much about New England's rushing offense as it does Kansas City's rushing defense.
+
+New England adamantly sticking to an eight-man coverage shell, forcing Mahomes to hold the ball longer. Now if only the Patriots had another quality pass rusher alongside Chase Winowich to give their three-man pass rush some teeth.
+
+Still, I do respect the way New England masks its three-man pass rushes through five-man defensive fronts.
+
+***
+
+## Falcons @ Packers
+
+I can't say enough good things about the Packers and their offensive line. Continuity in coaching and personnel has served this team very well.
+
+Rodgers is having a ball of a time. Even celebrating with Matt LeFuck.Good for them.
