@@ -69,3 +69,7 @@ Kansas City's cornerbacks stick to their assigned receivers like glue.
 Excellent coaching from Andy Reid and Patrick Mahomes, seeing an opportunity to exploit some horrifically bad refereeing to screw over the Patriots.
 
 Brian Hoyer is a goddamn moron, taking a sack at the end of the half and costing his team a chance at a field goal.
+
+Kansas City has a punk attitude to them.
+
+The Chiefs have gotten way too much help from the referees.
