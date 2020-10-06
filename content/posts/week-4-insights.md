@@ -67,3 +67,5 @@ New England's rushing offense is at that point where it's finely tuned.
 Kansas City's cornerbacks stick to their assigned receivers like glue.
 
 Excellent coaching from Andy Reid and Patrick Mahomes, seeing an opportunity to exploit some horrifically bad refereeing to screw over the Patriots.
+
+Brian Hoyer is a goddamn moron, taking a sack at the end of the half and costing his team a chance at a field goal.
