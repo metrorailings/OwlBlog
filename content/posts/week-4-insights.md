@@ -75,3 +75,7 @@ Kansas City has a punk attitude to them.
 The Chiefs have gotten way too much help from the referees.
 
 Patriots racking up lots of yardage on the ground, despite operating with backup quarterbacks. Probably a statement that says as much about New England's rushing offense as it does Kansas City's rushing defense.
+
+New England adamantly sticking to an eight-man coverage shell, forcing Mahomes to hold the ball longer. Now if only the Patriots had another quality pass rusher alongside Chase Winowich to give their three-man pass rush some teeth.
+
+Still, I do respect the way New England masks its three-man pass rushes through five-man defensive fronts. 
