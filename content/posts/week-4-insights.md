@@ -58,6 +58,8 @@ New Orleans is playing with a passion here. Never bet against a solid head coach
 
 ## Ravens @ Football Team
 
+Incredibly poor blitz pick-up from Washington's offensive line ended a promising drive.
+
 ***
 
 ## Patriots @ Chiefs
