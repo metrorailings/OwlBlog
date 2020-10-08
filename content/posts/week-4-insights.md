@@ -66,6 +66,8 @@ Ravens forcing a fumble deep in Washington territory leading to Baltimore's firs
 
 Poor throws by Drayne Haskins killing another Washington drive.
 
+Lamar Jackson and his speed is something of legend.
+
 ***
 
 ## Patriots @ Chiefs
