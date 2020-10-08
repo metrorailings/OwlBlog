@@ -62,7 +62,9 @@ Incredibly poor blitz pick-up from Washington's offensive line ended a promising
 
 Washington hitting hard against the rush to kill an early Ravens drive.
 
-Ravens forcing a fumble deep in Washington territory.
+Ravens forcing a fumble deep in Washington territory leading to Baltimore's first touchdown.
+
+Poor throws by Drayne Haskins killing another Washington drive.
 
 ***
 
