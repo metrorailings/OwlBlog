@@ -60,6 +60,10 @@ New Orleans is playing with a passion here. Never bet against a solid head coach
 
 Incredibly poor blitz pick-up from Washington's offensive line ended a promising drive.
 
+Washington hitting hard against the rush to kill an early Ravens drive.
+
+Ravens forcing a fumble deep in Washington territory.
+
 ***
 
 ## Patriots @ Chiefs
