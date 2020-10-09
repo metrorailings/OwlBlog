@@ -13,3 +13,7 @@ Chicago's failure to pass the ball is almost entirely on Nick Foles here, not be
 Roquan Smith failing to make tackles in the run game.
 
 Sloppy penalties from Chicago's secondary gifting ridiculous yardage to Tampa Bay.
+
+Brady doing well building rapport with his weapons.
+
+Allen Robinson is Nick Foles' best friend.
