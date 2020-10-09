@@ -5,3 +5,5 @@ headline = "Week 5 Insights"
 
 +++
 ## Buccaneers @ Bears
+
+Excellent use of crossing routes from these Buccaneers.
