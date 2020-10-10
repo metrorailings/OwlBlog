@@ -38,4 +38,16 @@ I'll only believe in the Falcons once I see them turn the corner. Until then, I'
 
 ***
 
-Give me a Texans team looking to make a statement after firing their hated head coach. Deshaun Watson unleashed should be enough to cover this spread against a bottom-feeder like the Jaguars defense. Here's hoping Houston shines immediately after ridding themselves of their biggest albatross. 
+Give me a Texans team looking to make a statement after firing their hated head coach. Deshaun Watson unleashed should be enough to cover this spread against a bottom-feeder like the Jaguars defense. Here's hoping Houston shines immediately after ridding themselves of their biggest albatross.
+
+***
+
+### Bengals @ Ravens (-12.5)
+
+> Bengals +12.5
+
+***
+
+I wish I felt better about this pick. But the reality is that Cincinnati is justifiably double-digit underdogs given the overwhelming talent and coaching deficit between the two teams. Quite simply put, the Ravens are a complete team and the Bengals are a very unfinished product.
+
+Taking the Bengals here would mean relying on Joe Burrow to make just enough plays to slide into a late cover here. The Ravens may help out by opting to replace Lamar Jackson with Robert Griffin III once the fourth quarter starts, but I can't rely on that happening if I'm going to include this in my card.
