@@ -48,6 +48,30 @@ Give me a Texans team looking to make a statement after firing their hated head 
 
 ***
 
-I wish I felt better about this pick. But the reality is that Cincinnati is justifiably double-digit underdogs given the overwhelming talent and coaching deficit between the two teams. Quite simply put, the Ravens are a complete team and the Bengals are a very unfinished product.
+I wish I felt better about this pick. But the reality is that Cincinnati is justifiably a double-digit underdog given the overwhelming talent and coaching deficit between the two teams. Quite simply put, the Ravens are a complete team and the Bengals are a very unfinished product.
 
-Taking the Bengals here would mean relying on Joe Burrow to make just enough plays to slide into a late cover here. The Ravens may help out by opting to replace Lamar Jackson with Robert Griffin III once the fourth quarter starts, but I can't rely on that happening if I'm going to include this in my card.
+Taking the Bengals here would mean relying on Joe Burrow to make just enough plays to slide into a late cover here. The Ravens may help out by opting to replace Lamar Jackson with Robert Griffin III once the fourth quarter starts, but I'd rather not rely on that happening if I'm going to include this in my card.
+
+***
+
+### Dolphins @ 49ers (-8.5)
+
+> 49ers -8.5
+
+***
+
+If the 49ers were a bit healthier on defense, I'd be much more confident in this pick. That said, San Francisco is expected to come into this match with very little depth along their defensive front and their defensive backfield.
+
+The hope here is that the offense returning to full strength this week combined with a humiliating performance against a depressing Eagles team last week gives them the fire needed to play at a frenetic level this week. It also helps that the Dolphins have to trek across 3,000 miles of land to play this game.
+
+***
+
+### Vikings @ Seahawks (-7)
+
+> Seahawks -7
+
+***
+
+Even at this slightly inflated spread, give me a Russell Wilson and a Seahawks offense firing on all cylinders against an immature Vikings defense. 
+
+I know Kirk Cousins and Dalvin Cook will cook in this game but I'm hoping a juiced Seahawks defense will make just enough plays to keep the Vikings offense at bay and help Seattle cover here. The Seahawks success here on defense will depend largely on its hodgepodge defensive front.
