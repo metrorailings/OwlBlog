@@ -37,3 +37,5 @@ I'll only believe in the Falcons once I see them turn the corner. Until then, I'
 > Texans -6
 
 ***
+
+Give me a Texans team looking to make a statement after firing their hated head coach. Deshaun Watson unleashed should be enough to cover this spread against a bottom-feeder like the Jaguars defense. Here's hoping Houston shines immediately after ridding themselves of their biggest albatross. 
