@@ -28,4 +28,12 @@ Unlike the Falcons, the Panthers have proven themselves winners on multiple occa
 
 Dan Quinn's squad, meanwhile, has done nothing this season to demonstrate competence. Last week's pathetic outing against Green Bay didn't convince me at all that the team has any real will to fight back and regain face. The Falcons were still committing stupid mistakes. Defensive linemen weren't winning any of their battles at the line of scrimmage. And the offense never gained any rhythm.
 
-I'll only believe in the Falcons once I see them turn the corner. Until then, I'm comfortable betting against them, especially when their opponent's led by quality coaches.  
+I'll only believe in the Falcons once I see them turn the corner. Until then, I'm comfortable betting against them, especially when their opponent's led by quality coaches.
+
+***
+
+### Jaguars @ Texans (-6)
+
+> Texans -6
+
+***
