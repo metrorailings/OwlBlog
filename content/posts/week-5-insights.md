@@ -42,7 +42,7 @@ Once again, Ruggs speed makes him a veritable threat.
 
 Mahomes cannot be given too much time to make throws. Otherwise, a successful completion is all but inevitable.
 
-Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected. Thought then again, Carr was able to convert on a critical third-down even when the the Chiefs snuffed out the tight-end screen. 
+Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected. Thought then again, Carr was able to convert on a critical third-down even when the the Chiefs snuffed out the tight-end screen.
 
 And then...Carr fails to connect to a wide open Jalen Richard on a 3rd down as the Chiefs were able to rattle him with a blitz.
 
@@ -62,9 +62,13 @@ Daniel Jones is still staring down his receivers. The only good thing is that th
 
 Dallas' defenders are not buying into this system at all. Their lack of effort is screaming apathy. Perhaps this is what happens when you impose a system that sharply contradicts the simple and aggressive form of defense that Dallas ran last year. It's clear this defense is certainly more cerebral compared to the style of defense Marinelli and Kris Richard pushed over the past few years.
 
-Cowboys offense finally makes money through a combination of Zeke (inside zone?) runs and short bootlegs. 
+Cowboys offense finally makes money through a combination of Zeke (inside zone?) runs and short bootlegs.
 
 Jaylon Smith is finally showing up here on key plays.
+
+Jaylon Smith blowing up a home-run screen.
+
+Craig Wrolstad's referee crew may be the biggest homers in the league.
 
 ***
 
@@ -77,3 +81,5 @@ Garoppalo is truly awful when playing from behind.
 The 49ers secondary is a huge liability against these teams with pass-heavy sets. What the hell made me want to pick this team again?
 
 Even great coaches like Kyle Shanahan can't work around shitty performances from their quarterbacks.
+
+Then again, Garoppalo might still be suffering hard from a high-ankle sprain he suffered just two weeks ago. Which is a reminder that when key players come back from injury, I need to assess whether they're truly healthy. People weren't actually expecting Garoppalo to come back earlier in the week, which should have been a red flag here. Could Shanahan have tried to rush Garoppalo back into action given the way the 49ers schedule dramatically ramps up over the next several weeks?
