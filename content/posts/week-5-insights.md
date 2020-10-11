@@ -29,3 +29,5 @@ Tom Brady telling his offensive line to "wake the fuck up" is something special.
 Ruggs is the real deal, catching an underthrown David Carr pass against heavily contested coverage.
 
 David Carr sucks. Two poorly thrown passes.
+
+Once again, David Carr sucks.
