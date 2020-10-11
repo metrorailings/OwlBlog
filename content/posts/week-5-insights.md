@@ -64,6 +64,8 @@ Dallas' defenders are not buying into this system at all. Their lack of effort i
 
 Cowboys offense finally makes money through a combination of Zeke (inside zone?) runs and short bootlegs. 
 
+Jaylon Smith is finally showing up here on key plays.
+
 ***
 
 ## Dolphins @ 49ers
