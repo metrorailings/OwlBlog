@@ -51,3 +51,13 @@ The Raiders are concentrating more resources in the defensive backfield, forcing
 Las Vegas has done well studying last week's Patriots tape and assessing all the ways Kansas City is vulnerable on both sides of the ball. Well done.
 
 Part of Las Vegas' success here is dependent on Josh Jacobs and Derek Carr controlling time of possession with a combination of the power ground attack and the short passing game. Las Vegas was able to do just that in the second half, in pretty sharp contrast to their first half when Carr was airing the ball out like a gunslinger.
+
+***
+
+## Giants @ Cowboys
+
+This Cowboys defense is hilarious. Their inability to stop the run is something truly remarkable. The fact that the Giants are getting some serious push should be worrying
+
+Daniel Jones is still staring down his receivers. The only good thing is that the Cowboys aren't really reacting to Daniel Jones' eyes, unlike the Rams of last week.
+
+Dallas' defenders are not buying into this system at all. Their lack of effort is screaming apathy. Perhaps this is what happens when you impose a system that sharply contradicts the simple and aggressive form of defense that Dallas ran last year. It's clear this defense is certainly more cerebral compared to the style of defense Marinelli and Kris Richard pushed over the past few years.  
