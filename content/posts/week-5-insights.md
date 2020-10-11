@@ -45,3 +45,9 @@ Mahomes cannot be given too much time to make throws. Otherwise, a successful co
 Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected. Thought then again, Carr was able to convert on a critical third-down even when the the Chiefs snuffed out the tight-end screen. 
 
 Then again, Carr failed to connect to a wide open Jalen Richard on a 3rd down as the Chiefs rattled him with a blitz.
+
+The Raiders are concentrating more resources in the defensive backfield, forcing Mahomes into throwing inadvisable passes. It's weird, but Mahomes preference for throwing passes deep is biting him in the ass hard here.
+
+Las Vegas has done well studying last week's Patriots tape and assessing all the ways Kansas City is vulnerable on both sides of the ball. Well done.
+
+Part of Las Vegas' success here is dependent on Josh Jacobs and Derek Carr controlling time of possession with the a combination of the power ground attack and the short passing game. Las Vegas was able to do just that int he second half, in pretty sharp contrast to their first half when Carr was airing the ball out like a gunslinger.
