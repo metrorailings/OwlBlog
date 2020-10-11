@@ -35,3 +35,5 @@ Once again, David Carr sucks.
 This Raiders defense is too funny at falling for the Chiefs' misdirection plays.
 
 Raiders defensive line simply not getting it done. Their defensive ends in particular playing a special brand of pathetic football.
+
+It took a quarter, but Carr has finally settled into a groove and connected on some nice throws.
