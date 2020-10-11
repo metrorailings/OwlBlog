@@ -80,4 +80,4 @@ The 49ers secondary is a huge liability against these teams with pass-heavy sets
 
 Even great coaches like Kyle Shanahan can't work around shitty performances from their quarterbacks.
 
-Then again, Garoppalo might still be suffering hard from a high-ankle sprain he suffered just two weeks ago. Which is a reminder that when key players come back from injury, I need to assess whether they're truly healthy. People weren't actually expecting Garoppalo to come back earlier in the week, which should have been a red flag here.
+Then again, Garoppalo might still be suffering hard from a high-ankle sprain he suffered just two weeks ago. Which is a reminder that when key players come back from injury, I need to assess whether they're truly healthy. People weren't actually expecting Garoppalo to come back earlier in the week, which should have been a red flag here. Could Shanahan have tried to rush Garoppalo back into action given the way the 49ers schedule dramatically ramps up over the next several weeks?
