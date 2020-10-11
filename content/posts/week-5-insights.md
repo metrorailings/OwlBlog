@@ -21,3 +21,11 @@ Allen Robinson is Nick Foles' best friend.
 Bruce Arians did not go for the riskier play on 4th and 1, instead settling for a chip shot field goal, despite the fact that the quarterback on the other side is Nick Foles.
 
 Tom Brady telling his offensive line to "wake the fuck up" is something special.
+
+***
+
+## Raiders @ Chiefs
+
+Ruggs is the real deal, catching an underthrown David Carr pass against heavily contested coverage.
+
+David Carr sucks. Two poorly thrown passes.
