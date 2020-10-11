@@ -1,6 +1,5 @@
 +++
 date = 2020-10-04T12:00:00Z
-draft = true
 headline = "Week 4 Insights"
 
 +++
@@ -57,6 +56,16 @@ New Orleans is playing with a passion here. Never bet against a solid head coach
 ***
 
 ## Ravens @ Football Team
+
+Incredibly poor blitz pick-up from Washington's offensive line ended a promising drive.
+
+Washington hitting hard against the rush to kill an early Ravens drive.
+
+Ravens forcing a fumble deep in Washington territory leading to Baltimore's first touchdown.
+
+Poor throws by Drayne Haskins killing another Washington drive.
+
+Lamar Jackson and his speed is something of legend.
 
 ***
 
