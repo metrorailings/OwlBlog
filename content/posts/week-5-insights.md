@@ -68,6 +68,8 @@ Jaylon Smith is finally showing up here on key plays.
 
 Jaylon Smith blowing up a home-run screen.
 
+Craig Wrolstad's referee crew may be the biggest homers in the league.
+
 ***
 
 ## Dolphins @ 49ers
