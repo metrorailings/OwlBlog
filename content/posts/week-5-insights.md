@@ -42,4 +42,4 @@ Once again, Ruggs speed makes him a veritable threat.
 
 Mahomes cannot be given too much time to make throws. Otherwise, a successful completion is all but inevitable.
 
-Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected.
+Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected. Thought then again, Carr was able to convert on a critical third-down even when the the Chiefs snuffed out the tight-end screen. 
