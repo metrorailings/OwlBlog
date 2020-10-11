@@ -39,3 +39,5 @@ Raiders defensive line simply not getting it done. Their defensive ends in parti
 It took a quarter, but Carr has finally settled into a groove and connected on some nice throws.
 
 Once again, Ruggs speed makes him a veritable threat.
+
+Mahomes cannot be given too much time to make throws. Otherwise, a successful completion is all but inevitable.
