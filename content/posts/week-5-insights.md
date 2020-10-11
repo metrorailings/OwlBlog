@@ -73,3 +73,7 @@ Jaylon Smith is finally showing up here on key plays.
 Miami certainly loves their five-receiver sets. I wonder if it's playing a significant role here in their thrashing of this San Francisco team.
 
 Garoppalo is truly awful when playing from behind.
+
+The 49ers secondary is a huge liability against these teams with pass-heavy sets. What the hell made me want to pick this team again?
+
+Even great coaches like Kyle Shanahan can't work around shitty performances from their quarterbacks.
