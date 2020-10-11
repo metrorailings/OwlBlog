@@ -41,3 +41,5 @@ It took a quarter, but Carr has finally settled into a groove and connected on s
 Once again, Ruggs speed makes him a veritable threat.
 
 Mahomes cannot be given too much time to make throws. Otherwise, a successful completion is all but inevitable.
+
+Carr loves to make audibles at the line of scrimmage. The problem for him becomes what happens when the play doesn't pan out as expected.
