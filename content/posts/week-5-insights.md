@@ -31,3 +31,7 @@ Ruggs is the real deal, catching an underthrown David Carr pass against heavily 
 David Carr sucks. Two poorly thrown passes.
 
 Once again, David Carr sucks.
+
+This Raiders defense is too funny at falling for the Chiefs' misdirection plays.
+
+Raiders defensive line simply not getting it done....
