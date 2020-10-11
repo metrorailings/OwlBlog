@@ -62,8 +62,12 @@ Daniel Jones is still staring down his receivers. The only good thing is that th
 
 Dallas' defenders are not buying into this system at all. Their lack of effort is screaming apathy. Perhaps this is what happens when you impose a system that sharply contradicts the simple and aggressive form of defense that Dallas ran last year. It's clear this defense is certainly more cerebral compared to the style of defense Marinelli and Kris Richard pushed over the past few years.
 
+Cowboys offense finally makes money through a combination of Zeke (inside zone?) runs and short bootlegs. 
+
 ***
 
 ## Dolphins @ 49ers
 
 Miami certainly loves their five-receiver sets. I wonder if it's playing a significant role here in their thrashing of this San Francisco team.
+
+Garoppalo is truly awful when playing from behind.
