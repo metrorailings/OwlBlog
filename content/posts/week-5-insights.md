@@ -92,8 +92,12 @@ Solid use of misdirection by Minnesota to prevent the Seahawks from keying in on
 
 The Vikings are very content playing cover-two defense against the Russell Wilson offense. And so far, it's working spectacularly.
 
+Minnesota playing with some passion.
+
 ***
 
 ## Eagles @ Steelers
 
-Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.It hasn't worked, as the Eagles have been more keen on stopping the ground game. Perhaps explains why a jet sweep on one play produced some decent yardage.
+Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.It hasn't worked, as the Eagles have been more keen on stopping the ground game. Perhaps explains why a jet sweep on a few plays produced some decent yardage.
+
+Two big penalties sustained a Steelers drive that ended in a touchdown. One a defensive pass interference and the other a personal foul. A damn shame too.
