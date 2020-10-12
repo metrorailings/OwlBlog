@@ -123,3 +123,5 @@ The Steelers signature running play is when they pull a guard and either a tackl
 Sheer mismanagement by Philly to close out the first half.
 
 Excellent series of play calls from Pittsburgh. The Steelers used a play-action with lead blockers to fool Philly's defense to shift one way so as to open up a wide lane for an end-around going the other way. Then the Steelers stacked four receivers to one side for a screen ending in a touchdown.
+
+Wentz's footwork is really questionable.
