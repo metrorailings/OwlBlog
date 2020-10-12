@@ -125,3 +125,9 @@ Sheer mismanagement by Philly to close out the first half.
 Excellent series of play calls from Pittsburgh. The Steelers used a play-action with lead blockers to fool Philly's defense to shift one way so as to open up a wide lane for an end-around going the other way. Then the Steelers stacked four receivers to one side for a screen ending in a touchdown.
 
 Wentz's footwork is really questionable.
+
+Misdirection is once again working well in the Steelers' favor here. A big play-action misdirection led to a big penalty against Philadelphia that set up the Steelers for a goal-to-go situation.
+
+Chase Claypool is the real deal for the Pittsburgh Steelers.
+
+Roethlisberger and the coaches seem to think Darius Slay is a real liability for the Philadelphia Eagles.
