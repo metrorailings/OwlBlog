@@ -94,6 +94,12 @@ The Vikings are very content playing cover-two defense against the Russell Wilso
 
 Minnesota playing with some passion.
 
+Now Seattle is playing with some heated passion in this second half, especially with how quickly they retook the lead.
+
+Seattle has made a few adjustments in the second half, namely on defense. The Seahawks are stacking the line of scrimmage and forcing the Vikings into playing a much more conventional brand of football. It's a bit of a gamble, but Seattle is essentially saying that Minnesota's offensive line won't be able to hold the damn against Seattle's defensive front consistently enough.
+
+On offense, Russell Wilson has been able to nail some big passes in the second half, though the exact reason why remains to be seen. I do notice that the Seahawks are slightly more willing to throw short, those these short passes haven't really yielded much outside of a tricky bootleg screen. Still, it feels like Seattle is more intent on staying faithful to its deep passing attack.
+
 ***
 
 ## Eagles @ Steelers
