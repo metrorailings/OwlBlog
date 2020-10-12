@@ -100,6 +100,12 @@ Seattle has made a few adjustments in the second half, namely on defense. The Se
 
 On offense, Russell Wilson has been able to nail some big passes in the second half, though the exact reason why remains to be seen. I do notice that the Seahawks are slightly more willing to throw short, those these short passes haven't really yielded much outside of a tricky bootleg screen. Still, it feels like Seattle is more intent on staying faithful to its deep passing attack.
 
+Notice Minnesota is still running the ball successfully against this Seattle defense, despite not having Dalvin Cook for an entire half.
+
+It seems Kirk Cousins' first read is almost always Adam Thielan, who's open much more often than not against this Seattle defense.
+
+KJ Wright is a special linebacker. Seattle may have the best set of linebackers in the league.
+
 ***
 
 ## Eagles @ Steelers
@@ -107,3 +113,5 @@ On offense, Russell Wilson has been able to nail some big passes in the second h
 Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.It hasn't worked, as the Eagles have been more keen on stopping the ground game. Perhaps explains why a jet sweep on a few plays produced some decent yardage.
 
 Two big penalties sustained a Steelers drive that ended in a touchdown. One a defensive pass interference and the other a personal foul. A damn shame too.
+
+The Eagles cornerbacks are serious liabilities.
