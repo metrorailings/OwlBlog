@@ -90,4 +90,10 @@ Then again, Garoppalo might still be suffering hard from a high-ankle sprain he 
 
 Solid use of misdirection by Minnesota to prevent the Seahawks from keying in on Dalvin Cook runs.
 
-Playing with the lead, the Vikings are very content playing cover-two defense against the Russell Wilson offense.
+The Vikings are very content playing cover-two defense against the Russell Wilson offense. And so far, it's working spectacularly.
+
+***
+
+## Eagles @ Steelers
+
+Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.
