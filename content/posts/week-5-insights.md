@@ -115,3 +115,5 @@ Steelers interestingly using jet sweeps and end-around to create some misdirecti
 Two big penalties sustained a Steelers drive that ended in a touchdown. One a defensive pass interference and the other a personal foul. A damn shame too.
 
 The Eagles cornerbacks are serious liabilities.
+
+Fulgham is the real thing, I dare say.
