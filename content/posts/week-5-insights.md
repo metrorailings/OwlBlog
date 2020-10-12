@@ -96,4 +96,4 @@ The Vikings are very content playing cover-two defense against the Russell Wilso
 
 ## Eagles @ Steelers
 
-Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.
+Steelers interestingly using jet sweeps and end-around to create some misdirection on running plays.It hasn't worked, as the Eagles have been more keen on stopping the ground game. Perhaps explains why a jet sweep on one play produced some decent yardage.
