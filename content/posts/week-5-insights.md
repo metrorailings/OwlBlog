@@ -116,4 +116,6 @@ Two big penalties sustained a Steelers drive that ended in a touchdown. One a de
 
 The Eagles cornerbacks are serious liabilities.
 
-Fulgham is the real thing, I dare say.
+Travis Fulgham is the real thing, I dare say.
+
+The Steelers signature running play is when they pull a guard and either a tackle or a tight end around on a lead run play.
