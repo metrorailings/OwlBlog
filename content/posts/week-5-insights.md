@@ -119,3 +119,5 @@ The Eagles cornerbacks are serious liabilities.
 Travis Fulgham is the real thing, I dare say.
 
 The Steelers signature running play is when they pull a guard and either a tackle or a tight end around on a lead run play.
+
+Sheer mismanagement by Philly to close out the first half.
