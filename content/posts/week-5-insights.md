@@ -158,3 +158,7 @@ Mayfield in shotgun is not ideal. Two shotgun plays killed a promising drive.
 Bad foot mechanics from Mayfield. Just put him under center and give up on him as a shotgun quarterback.
 
 Cleveland pass protection has been holding up well though.
+
+Their ground game, on the other hand, hasn't really taken off against this Colts front. Indianapolis is consistently winning at the point of attack.
+
+Read-option is a part of this Cleveland offense, apparently.
