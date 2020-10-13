@@ -165,6 +165,8 @@ Read-option is a part of this Cleveland offense, apparently.
 
 So far, the Colts are continuing to win at the point of attack against this zone-running scheme Cleveland is trying to run.
 
-Baker seems to favor throws over the middle...
+Baker seems to favor throws over the middle, particularly towards his tight ends.
 
 Odell seems to have bought in to this offense.
+
+Baker's composure under pressure needs to be questioned, as does his decision making from negative game script.
