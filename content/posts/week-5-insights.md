@@ -162,3 +162,9 @@ Cleveland pass protection has been holding up well though.
 Their ground game, on the other hand, hasn't really taken off against this Colts front. Indianapolis is consistently winning at the point of attack.
 
 Read-option is a part of this Cleveland offense, apparently.
+
+So far, the Colts are continuing to win at the point of attack against this zone-running scheme Cleveland is trying to run.
+
+Baker seems to favor throws over the middle...
+
+Odell seems to have bought in to this offense.
