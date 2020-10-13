@@ -130,3 +130,19 @@ Misdirection is once again working well in the Steelers' favor here. A big play-
 Chase Claypool is the real deal for the Pittsburgh Steelers.
 
 Roethlisberger and the coaches seem to think Darius Slay is a real liability for the Philadelphia Eagles.
+
+***
+
+## Chargers @ Saints
+
+Finally, Brees is building some steady rapport with Emmanuel Sanders. Easily the best game Sanders has had as a New Orleans Saint.
+
+Justin Herbert's vision is extraordinary.
+
+The Chargers offense with their conservative play-calling towards the end of the game is a little aggravating. Seems like Lynn would love nothing more than to run the ball the entire fourth quarter. Lynn is not built to run up leads, let alone close out games against tough teams.
+
+So many goddamn draw runs.
+
+Brees with some nice touch on a deep ball to Jared Cook for a touchdown.
+
+Still, the eye test doesn't lie. Brees has been mostly throwing short for the entire duration of the game.
