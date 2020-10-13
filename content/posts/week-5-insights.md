@@ -146,3 +146,15 @@ So many goddamn draw runs.
 Brees with some nice touch on a deep ball to Jared Cook for a touchdown.
 
 Still, the eye test doesn't lie. Brees has been mostly throwing short for the entire duration of the game.
+
+***
+
+## Colts @ Browns
+
+Solid use of the bootleg early from the Browns.
+
+Mayfield in shotgun is not ideal. Two shotgun plays killed a promising drive.
+
+Bad foot mechanics from Mayfield. Just put him under center and give up on him as a shotgun quarterback.
+
+Cleveland pass protection has been holding up well though.
