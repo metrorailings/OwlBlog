@@ -170,3 +170,15 @@ Baker seems to favor throws over the middle, particularly towards his tight ends
 Odell seems to have bought in to this offense.
 
 Baker's composure under pressure needs to be questioned, as does his decision making from negative game script.
+
+***
+
+## Bills @ Titans
+
+Nothing but short underneath passes from Josh Allen on the Bills' first drive in the second half.
+
+Allen tried to force an intermediate pass on an ill-timed throw leading to an interception.
+
+Just sloppy football by Buffalo. Drops, penalties, errors in judgement....it seems like Buffalo was the team that hasn't practiced in two weeks.
+
+Well done by Tennessee, orchestrating a win here despite not having practiced. Not the first time adversity has united a team away from the practice field.
