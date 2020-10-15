@@ -6,16 +6,16 @@ headline = "Week 6 SuperContest Picks"
 +++
 ### Browns @ Steelers (-3)
 
-> Steelers -3
-
 ***
 
 #### _Latest Results_
 
-Eagles (29) @ **Steelers** (38)**  
-**Colts (23) @ **Browns** (32)
+Colts (23) @ **Browns** (32)  
+Eagles (29) @ **Steelers** (38)
 
 #### _Record_
 
-Steelers (4-0)  
-Browns (4-1) 
+Browns (4-1)   
+Steelers (4-0)
+
+#### _Injuries_
