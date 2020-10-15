@@ -31,6 +31,6 @@ No relevant history here. This game will mark the first time Stefanski will play
 
 > Steelers -3
 
-Having watched Pittsburgh in action last week, I see them running a pretty crisp passing offense. Cleveland's passing offense still remains a bit of a work in progress, though Stefanski's scripted plays and the bootleg concepts have been paying serious dividends over the past few games. 
+Having watched Pittsburgh in action last week, I see them running a pretty crisp passing offense. Cleveland's passing offense still remains a bit of a work in progress, though Stefanski's scripted plays and the bootleg concepts have been paying serious dividends over the past few games. Baker still has yet to fully find his groove in this Kubiak-inspired offense.
 
-I don't expect Baker to finally find his groove in this offense against a Steelers defense almost certainly featuring the best pass rush in the league.
+I don't expect this game to be the one where Baker finally develops a rhythm. This Steelers team arguably features the best pass rush in the league. Given his past history dealing with pressure, Baker will likely struggle, especially if his ribs are still sore from the last game.
