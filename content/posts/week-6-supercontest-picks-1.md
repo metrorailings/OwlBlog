@@ -53,14 +53,20 @@ Titans (4-0)
 
 #### _Injuries_
 
-On Houston's side, the only major concern comes at quarterback, as Baker was roughed up last week with a rib shot. His ribs haven't shown any cracks on x-ray, so he'll likely play on Heinz Field this Sunday with some padding around his abdominal area.
+On Houston's side, the loss of interior linebacker Benardrick McKinney is more concerning than one would think. The Texans defense has been playing like broken turnstiles against the run this season. Opposing rushers that don't wear Jacksonville's colors have been gashing them for big yardage. Losing their single best run defender doesn't help them in this regard.
 
-On Pittsburgh's side, their offensive line is likely to take a hit with David DeCastro sidelined with an abdominal issue of his own. Center Maurkice Pouncey also remains a point of concern.
+On Tennessee's side, I don't see much concern. Yes, some players still remain sidelined with COVID infections, but it didn't really hinder them much against Buffalo last week, did it?   
 
 #### _History_
 
-No relevant history here. This game will mark the first time Stefanski will play against Tomlin's Steelers. As far as I'm aware, Pittsburgh and its coaches haven't really faced a Kubiak-style offense in the past two years.
+The last time these two teams danced in Nashville, Houston was able to pull out a win, though the box scores indicates the two played a tight game.
 
 ***
 
-> 
+> Titans -3
+
+**Tennessee covers if  
+**This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally develop a rhythm, expect an offensive explosion from Tennessee.
+
+**Houston covers if  
+**the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
