@@ -173,6 +173,10 @@ Baker's composure under pressure needs to be questioned, as does his decision ma
 
 Philip Rivers is soooo bad.
 
+Solid quick throw to Beckham from Baker against a 9-man coverage shell.
+
+Baker bootlegging to his left usually doesn't result in pretty throws.
+
 ***
 
 ## Bills @ Titans
