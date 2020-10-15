@@ -66,7 +66,9 @@ The last time these two teams danced in Nashville, Houston was able to pull out 
 > Titans -3
 
 **Tennessee covers if  
-**This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally develop a rhythm, expect an offensive explosion from Tennessee.
+**This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally rediscover his groove here, expect an offensive explosion from Tennessee.
 
 **Houston covers if  
 **the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
+
+***
