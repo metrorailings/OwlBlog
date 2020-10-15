@@ -171,6 +171,8 @@ Odell seems to have bought in to this offense.
 
 Baker's composure under pressure needs to be questioned, as does his decision making from negative game script.
 
+Philip Rivers is soooo bad.
+
 ***
 
 ## Bills @ Titans
