@@ -177,6 +177,8 @@ Solid quick throw to Beckham from Baker against a 9-man coverage shell.
 
 Baker bootlegging to his left usually doesn't result in pretty throws.
 
+Mayfield is showing a dependance on Odell Beckham, passing up an easy throw to a tight end for a difficult throw towards Beckham.
+
 ***
 
 ## Bills @ Titans
