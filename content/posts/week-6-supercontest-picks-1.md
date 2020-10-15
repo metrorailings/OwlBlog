@@ -22,4 +22,4 @@ Steelers (4-0)
 
 On Cleveland's side, the only major concern comes at quarterback, as Baker was roughed up last week with a rib shot. His ribs haven't shown any cracks on x-ray, so he'll likely play on Heinz Field this Sunday with some padding around his abdominal area.
 
-On Pittsburgh's side, their offensive line is likely to take a hit with David DeCastro sidelined with an abdominal issue of his own.
+On Pittsburgh's side, their offensive line is likely to take a hit with David DeCastro sidelined with an abdominal issue of his own. Center Maurkice Pouncey also remains a point of concern.
