@@ -72,3 +72,17 @@ This Houston defensive unit continues rolling out the red carpet for opposing ru
 the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
 
 ***
+
+### Falcons @ Vikings (-3.5)
+
+#### _Latest Results_
+
+**Panthers** (23) @ Falcons (16)  
+Vikings (26) @ **Seahawks** (27)
+
+#### _Record_
+
+Falcons (0-5)  
+Vikings (1-4)
+
+#### _Injuries_
