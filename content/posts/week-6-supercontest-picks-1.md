@@ -90,3 +90,11 @@ Vikings (1-4)
 The Vikings will be missing the services of their starting halfback in Dalvin Cook. Alexander Mattison performed well in relief duty last week, so I'm positive Minnesota won't be losing much traction in the ground game without Dalvin Cook. Offensive guard Dru Samia has also been ruled out, though this may be a case of addition by subtraction, if you ask me.
 
 Atlanta will be missing the services of their second best pass rusher in Tak McKinley.
+
+#### _History_
+
+Last year, these two teams met in the opening week of the season. Minnesota dominated that game by leaning very heavily on its ground game.
+
+Besides that, Atlanta also faced Green Bay a few weeks ago. From a high-level point of view, Green Bay and Minnesota run somewhat similar offenses. Just like last year's match with Minnesota, things didn't go well for Atlanta. Even though Green Bay ultimately won by two scores, the game was more or less a blowout from a scripting point of view.
+
+***
