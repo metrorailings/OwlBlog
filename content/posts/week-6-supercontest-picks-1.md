@@ -14,7 +14,7 @@ Eagles (29) @ **Steelers** (38)
 
 #### _Record_
 
-Browns (4-1)   
+Browns (4-1)  
 Steelers (4-0)
 
 #### _Injuries_
@@ -31,8 +31,8 @@ No relevant history here. This game will mark the first time Stefanski will play
 
 > Steelers -3
 
-**Pittsburgh covers if  
-**the defensive line manages to roughs up Baker Mayfield to the point where Cleveland's passing game is borderline dysfunctional. To this end, it would help if Pittsburgh's league-leading run defense can shut down Kareem Hunt, similar to what Indianapolis did last week.
+**Pittsburgh covers if**  
+the defensive line manages to roughs up Baker Mayfield to the point where Cleveland's passing game is borderline dysfunctional. To this end, it would help if Pittsburgh's league-leading run defense can shut down Kareem Hunt, similar to what Indianapolis did last week.
 
 **Cleveland covers if**  
 Kareem Hunt and the offensive line run roughshod over Pittsburgh's defense, giving the Browns offense another way to attack this defense without exposing their injured quarterback.
@@ -48,14 +48,14 @@ Bills (16) @ **Titans** (42)
 
 #### _Record_
 
-Texans (1-4)   
+Texans (1-4)  
 Titans (4-0)
 
 #### _Injuries_
 
 On Houston's side, the loss of interior linebacker Benardrick McKinney is more concerning than one would think. The Texans defense has been playing like broken turnstiles against the run this season. Opposing rushers that don't wear Jacksonville's colors have been gashing them for big yardage. Losing their single best run defender doesn't help them in this regard.
 
-On Tennessee's side, I don't see much concern. Yes, some players still remain sidelined with COVID infections, but it didn't really hinder them much against Buffalo last week, did it?   
+On Tennessee's side, I don't see much concern. Yes, some players still remain sidelined with COVID infections, but it didn't really hinder them much against Buffalo last week, did it?
 
 #### _History_
 
@@ -65,10 +65,10 @@ The last time these two teams danced in Nashville, Houston was able to pull out 
 
 > Titans -3
 
-**Tennessee covers if  
-**This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally rediscover his groove here, expect an offensive explosion from Tennessee.
+\**Tennessee covers if  
+\**This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally rediscover his groove here, expect an offensive explosion from Tennessee.
 
-**Houston covers if  
-**the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
+\**Houston covers if  
+\**the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
 
 ***
