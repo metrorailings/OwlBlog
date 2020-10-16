@@ -95,6 +95,14 @@ Atlanta will be missing the services of their second best pass rusher in Tak McK
 
 Last year, these two teams met in the opening week of the season. Minnesota dominated that game by leaning very heavily on its ground game.
 
-Besides that, Atlanta also faced Green Bay a few weeks ago. From a high-level point of view, Green Bay and Minnesota run somewhat similar offenses. Just like last year's match with Minnesota, things didn't go well for Atlanta. Even though Green Bay ultimately won by two scores, the game was more or less a blowout from a scripting point of view.
+Besides that, Atlanta also faced Green Bay a few weeks ago. Generally speaking, Green Bay and Minnesota run somewhat similar offenses. Just like last year's match with Minnesota, things didn't go well for Atlanta. Even though Green Bay only won by two scores, the game was more or less a blowout from a scripting point of view.
 
 ***
+
+> Vikings -3.5
+
+**Minnesota covers if**  
+Alexander Mattison can keep Minnesota's run game chugging smoothly against a middling Falcons defense. Unlike Atlanta, Minnesota has won a game this season and has been competitive in multiple games against solid competition.
+
+**Atlanta covers if**  
+the firing of Dan Quinn motivates this team to immediately turn its fortunes around. While Atlanta's problems go beyond Dan Quinn, the fact remains Quinn has been a point of failure contributing to this team's woes. Still, a sudden turnaround necessitates Matt Ryan playing much better.
