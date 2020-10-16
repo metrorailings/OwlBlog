@@ -86,3 +86,7 @@ Falcons (0-5)
 Vikings (1-4)
 
 #### _Injuries_
+
+The Vikings will be missing the services of their starting halfback in Dalvin Cook. Alexander Mattison performed well in relief duty last week, so I'm positive Minnesota won't be losing much traction in the ground game without Dalvin Cook. Offensive guard Dru Samia has also been ruled out, though this may be a case of addition by subtraction, if you ask me.
+
+Atlanta will be missing the services of their second best pass rusher in Tak McKinley.
