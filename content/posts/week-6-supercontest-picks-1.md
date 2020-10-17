@@ -135,7 +135,9 @@ New England has faced a west coast style of offense earlier in the year when the
 
 ***
 
-> Broncos +10
+Broncos +10
+
+***
 
 **Denver covers if**  
 Vic Fangio's defense can stop the Patriots from running the ball at will and Drew Lock is mostly functional coming back from a shoulder injury.
