@@ -174,3 +174,17 @@ Arizona may be missing the services of a starting guard, but more importantly, t
 #### _History_
 
 Interestingly enough, the Cardinals faced another power running team earlier in the season when they faced the Panthers. Carolina outright dominated them. But unlike Carolina, Dallas will be relying on reserve linemen to carry their rushing attack, so it remains to be fully seen whether Dallas can replicate Carolina's success in this game.
+
+The Cowboys have faced mobile quarterbacks earlier in the season against Russell Wilson and Daniel Jones. The results don't tell me anything definitive here.
+
+***
+
+Cowboys +2
+
+***
+
+**Dallas wins if**  
+the Cowboys and Ezekiel Elliott impose their will over the Cardinals and dominate time of possession through the power run game. Hopefully, the devastating injury to Dak leads them to lean more on Zeke to lead this team going forward.
+
+**Arizona wins if**  
+Kyler Murray motors all over Dallas' defense and Arizona's weapons exploit a Dallas secondary prone to giving up big plays.
