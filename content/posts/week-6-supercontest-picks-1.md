@@ -161,6 +161,8 @@ Cam Newton and the Patriot tailbacks force their will against Denver's defensive
 
 ### Cardinals @ Cowboys (+2)
 
+***
+
 #### _Latest Results_
 
 **Cardinals** (30) @ Jets (10)  
