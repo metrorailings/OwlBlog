@@ -1,5 +1,5 @@
 +++
-date = 2020-10-17T12:00:00Z
+date = 2020-10-16T12:00:00Z
 headline = "Week 6 SuperContest Picks"
 
 +++
@@ -141,4 +141,4 @@ New England has faced a west coast style of offense earlier in the year when the
 Vic Fangio's defense can stop the Patriots from running the ball at will and Drew Lock is mostly functional coming back from a shoulder injury.
 
 **New England covers if**  
-Cam Newton
+Cam Newton 
