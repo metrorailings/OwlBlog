@@ -150,3 +150,19 @@ Vic Fangio's defense can stop the Patriots from running the ball at will and Dre
 
 **New England covers if**  
 Cam Newton and the Patriot tailbacks force their will against Denver's defensive front. It would also be a tremendous help if Drew Lock's out there throwing ducks because of his bad shoulder.
+
+***
+
+### Cardinals @ Cowboys (+2)
+
+#### _Latest Results_
+
+**Cardinals** (30) @ Jets (10)  
+Giants (34) @ **Cowboys** (37)
+
+#### _Record_
+
+Cardinals (3-2)  
+Cowboys (2-3)
+
+#### _Injuries_
