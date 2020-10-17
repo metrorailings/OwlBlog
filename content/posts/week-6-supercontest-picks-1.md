@@ -141,4 +141,4 @@ New England has faced a west coast style of offense earlier in the year when the
 Vic Fangio's defense can stop the Patriots from running the ball at will and Drew Lock is mostly functional coming back from a shoulder injury.
 
 **New England covers if**  
-Cam Newton 
+Cam Newton and the Patriot tailbacks force their will against Denver's defensive front. It would also help tremendously if Drew Lock's out there throwing ducks because of his bad shoulder.
