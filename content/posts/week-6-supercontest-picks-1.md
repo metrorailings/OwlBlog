@@ -53,7 +53,7 @@ Titans (4-0)
 
 #### _Injuries_
 
-On Houston's side, the loss of interior linebacker Benardrick McKinney is more concerning than one would think. The Texans defense has been playing like broken turnstiles against the run this season. Opposing rushers that don't wear Jacksonville's colors have been gashing them for big yardage. Losing their single best run defender doesn't help them in this regard.
+On Houston's side, the loss of interior linebacker Benardrick McKinney is more concerning than one would think. The Texans defense has been playing like broken turnstiles against the run this season. Opposing rushers that don't wear Jacksonville's colors have been gashing them for big yardage. Losing their best run defender (on paper) doesn't help them in this regard.
 
 On Tennessee's side, I don't see much concern. Yes, some players still remain sidelined with COVID infections, but it didn't really hinder them much against Buffalo last week, did it?
 
@@ -69,7 +69,7 @@ The last time these two teams danced in Nashville, Houston was able to pull out 
 This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally rediscover his groove here, expect an offensive explosion from Tennessee.
 
 **Houston covers if**  
-the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien. It would help if Kelly's first change would be to abandon inside zone runs for outside zone runs instead.
+the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien. It would help if Kelly's finally abandons inside zone runs for outside zone runs.
 
 ***
 
@@ -87,7 +87,7 @@ Vikings (1-4)
 
 #### _Injuries_
 
-The Vikings will be missing the services of their starting halfback in Dalvin Cook. Alexander Mattison performed well in relief duty last week, so I'm positive Minnesota won't be losing much traction in the ground game without Dalvin Cook. Offensive guard Dru Samia has also been ruled out, though this may be a case of addition by subtraction, if you ask me.
+The Vikings will be missing the services of their starting halfback in Dalvin Cook. Alexander Mattison performed well in relief duty last week, so I'm positive Minnesota won't be losing much traction in the ground game. Offensive guard Dru Samia has also been ruled out, though this may be a case of addition by subtraction, if you ask me.
 
 Atlanta will be missing the services of their second best pass rusher in Tak McKinley.
 
@@ -106,3 +106,29 @@ Alexander Mattison can keep Minnesota's run game chugging smoothly against a mid
 
 **Atlanta covers if**  
 the firing of Dan Quinn motivates this team to immediately turn its fortunes around. While Atlanta's problems go beyond Dan Quinn, the fact remains Quinn has been a point of failure contributing to this team's woes. Still, a sudden turnaround necessitates Matt Ryan playing much better. Hard to see that happening in the span of a week.
+
+***
+
+### Broncos @ Patriots (-10)
+
+#### _Latest Results_
+
+Patriots (10) @ **Chiefs** (26)  
+**Broncos** (37) @ Jets (28)
+
+#### _Record_
+
+Broncos (1-3)  
+Patriots (2-2)
+
+#### _Injuries_
+
+While the Patriots will likely have nobody critical sidelined, certain players have been dealing with nagging injuries, namely a few offensive linemen and Julian Edelman. I wonder if these injuries will surface during the game.
+
+The Broncos have lost some key folk for the entire season, most importantly Jurrell Casey and Courtland Sutton. Their absences will be felt. For this game, the most significant question mark is Noah Fant. Fant's presence on the field would definitely help, although I suppose this offense can run through a combination of Jerry Jeudy, Tim Patrick, and Phillip Lindsay.
+
+#### _History_
+
+***
+
+> 
