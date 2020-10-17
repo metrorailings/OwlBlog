@@ -143,7 +143,7 @@ The Broncos have lost some key folk for the entire season, most importantly Jurr
 
 It's hard to find comparables here. Denver never faced an offense that prioritized the rushing attack over the passing game. Likewise, Denver never faced a defensive secondary loaded with so much talent.
 
-New England has faced a west coast style of offense earlier in the year when they played Kansas City. Even though the Patriots were ultimately blown out, New England was actually able to contain the Chiefs for nearly three quarters. The Patriots know what they're doing on offense.
+New England has faced a west coast style of offense earlier in the year when they played Kansas City. Even though the Patriots were ultimately blown out, New England was actually able to contain the Chiefs for nearly three quarters. The Patriots know what they're doing on defense.
 
 ***
 
