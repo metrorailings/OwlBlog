@@ -69,7 +69,7 @@ The last time these two teams danced in Nashville, Houston was able to pull out 
 This Houston defensive unit continues rolling out the red carpet for opposing rushers. If Derrick Henry can finally rediscover his groove here, expect an offensive explosion from Tennessee.
 
 **Houston covers if**  
-the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien.
+the Texans defense can keep Derrick Henry from blowing the doors off here and the offense finally finds an identity. So long as the defense can limit Tennessee's ground attack, Deshaun Watson and the offense should have enough opportunities to keep pace with Ryan Tannehill. Whether they'll make good on those opportunities depends on how well the offense meshes under Tim Kelly two weeks removed from the tyranny of Bill O'Brien. It would help if Kelly's first change would be to abandon inside zone runs for outside zone runs instead.
 
 ***
 
@@ -102,7 +102,7 @@ Besides that, Atlanta also faced Green Bay a few weeks ago. Generally speaking, 
 > Vikings -3.5
 
 **Minnesota covers if**  
-Alexander Mattison can keep Minnesota's run game chugging smoothly against a middling Falcons defense. Unlike Atlanta, Minnesota has won a game this season and has been competitive in multiple games against solid competition.
+Alexander Mattison can keep Minnesota's run game chugging smoothly against a middling Falcons defense. Unlike Atlanta, Minnesota has won a game this season and has been competitive in multiple games against solid teams, which tells me Minnesota has that winning mettle Atlanta so clearly lacks.
 
 **Atlanta covers if**  
 the firing of Dan Quinn motivates this team to immediately turn its fortunes around. While Atlanta's problems go beyond Dan Quinn, the fact remains Quinn has been a point of failure contributing to this team's woes. Still, a sudden turnaround necessitates Matt Ryan playing much better.
