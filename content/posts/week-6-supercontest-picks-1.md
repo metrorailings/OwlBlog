@@ -166,3 +166,7 @@ Cardinals (3-2)
 Cowboys (2-3)
 
 #### _Injuries_
+
+Even though the Cowboys active roster is expected to be mostly healthy going into this game, the real concern is that so many of their key players are out for the season. Going beyond Dak here, three of their starting offensive linemen have been placed on IR. Both of their starting cornerbacks are just returning from injury, as is their starting linebacker Leighton Vander-Esch. So Dallas is still undermanned here along multiple critical positions.
+
+Arizona may be missing the services of a starting guard, but more importantly, the team will be without its best pass rusher in Chandler Jones going forward. Without Jones, the team will rely upon Haasan Reddick amd Devon Kennard to sustain their pass rush. In other words, expect the Cardinals to quickly become one of the worst teams when it comes to pressuring opposing quarterbacks.
