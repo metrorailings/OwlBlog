@@ -43,6 +43,8 @@ Kareem Hunt and the offensive line run roughshod over Pittsburgh's defense, givi
 
 ### Texans @ Titans (-3)
 
+***
+
 #### _Latest Results_
 
 Jaguars (14) @ **Texans** (30)  
@@ -78,6 +80,8 @@ the Texans defense can keep Derrick Henry from blowing the doors off here and th
 ***
 
 ### Falcons @ Vikings (-3.5)
+
+***
 
 #### _Latest Results_
 
@@ -116,6 +120,8 @@ the firing of Dan Quinn motivates this team to immediately turn its fortunes aro
 ***
 
 ### Broncos @ Patriots (-10)
+
+***
 
 #### _Latest Results_
 
