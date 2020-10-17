@@ -131,7 +131,7 @@ Patriots (2-2)
 
 While the Patriots will likely have nobody critical sidelined, certain players have been dealing with nagging injuries, namely a few offensive linemen and Julian Edelman. I wonder if these injuries will surface during the game.
 
-The Broncos have lost some key folk for the entire season, most importantly Jurrell Casey and Courtland Sutton. Their absences will be felt. For this game, the most significant question mark is Noah Fant. Fant's presence on the field would definitely help, although I suppose this offense can run through a combination of Jerry Jeudy, Tim Patrick, and Phillip Lindsay. Then again, a lot of these injuries on offense become meaningless if Drew Lock is seriously hindered by a nagging shoulder injury.
+The Broncos have lost some key folk for the entire season, most importantly Jurrell Casey and Courtland Sutton. Their absences will be felt. For this game, the most significant question mark is Noah Fant. Fant's presence on the field would definitely help, although I suppose this offense can run through a combination of Jerry Jeudy, Tim Patrick, and Phillip Lindsay. Then again, a lot of these injuries on offense become meaningless if Drew Lock is seriously hindered by his nagging shoulder injury.
 
 #### _History_
 
