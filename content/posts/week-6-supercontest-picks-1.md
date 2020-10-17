@@ -191,8 +191,46 @@ Cowboys +2
 
 ***
 
-**Dallas wins if**  
+**Dallas covers if**  
 the Cowboys and Ezekiel Elliott impose their will over the Cardinals and dominate time of possession through the power run game. Hopefully, the devastating injury to Dak leads them to lean more on Zeke to lead this team going forward.
 
-**Arizona wins if**  
+**Arizona covers if**  
 Kyler Murray motors all over Dallas' defense and Arizona's weapons exploit a Dallas secondary prone to giving up big plays.
+
+***
+
+### Rams @ 49ers (+3)
+
+***
+
+#### _Latest Results_
+
+**Rams** (30) @ Football Team (10)  
+**Dolphins** (43) @ 49ers (17)
+
+#### _Record_
+
+Rams (4-1)  
+49ers (2-3)
+
+#### _Injuries_
+
+The 49ers are getting slightly healthier on defense with the return of Emmanuel Mosely. Still, their defensive line will always be an issue so long as Dee Ford and Nick Bosa are not playing. Kerry Hyder seems to be stepping up nicely as a complimentary piece opposite Arik Armstead though. On offense, the 49ers are officially reports as being fully healthy, though it still remains to be seen whether Jimmy Garoppalo is truly recovered from a high ankle sprain.
+
+Rams are surprisingly healthy.
+
+#### _History_
+
+The Rams played the 49ers down to the wire last week when they met in primetime in San Francisco. Keep in mind this was a Rams team trending down versus a 49ers team playing far above its pay grade.
+
+***
+
+Rams -3
+
+***
+
+**Los Angeles covers if**  
+the Rams can protect Jared Goff in the pocket from San Francisco's credible defensive line. It would also be awesome if Jimmy Garoppalo can play like a man waking up from surgery yet again.
+
+**San Francisco covers if**  
+the 49ers turn a leaf after a humiliating outing against a middling Miami team last week. In order for them to do just that though, Jimmy Garoppalo needs to be healthy and the defense would need to tap into the spiritual vein that powered them through last year. 
