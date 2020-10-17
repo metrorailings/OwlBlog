@@ -105,4 +105,4 @@ Besides that, Atlanta also faced Green Bay a few weeks ago. Generally speaking, 
 Alexander Mattison can keep Minnesota's run game chugging smoothly against a middling Falcons defense. Unlike Atlanta, Minnesota has won a game this season and has been competitive in multiple games against solid teams, which tells me Minnesota has that winning mettle Atlanta so clearly lacks.
 
 **Atlanta covers if**  
-the firing of Dan Quinn motivates this team to immediately turn its fortunes around. While Atlanta's problems go beyond Dan Quinn, the fact remains Quinn has been a point of failure contributing to this team's woes. Still, a sudden turnaround necessitates Matt Ryan playing much better.
+the firing of Dan Quinn motivates this team to immediately turn its fortunes around. While Atlanta's problems go beyond Dan Quinn, the fact remains Quinn has been a point of failure contributing to this team's woes. Still, a sudden turnaround necessitates Matt Ryan playing much better. Hard to see that happening in the span of a week.
