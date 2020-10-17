@@ -129,6 +129,16 @@ The Broncos have lost some key folk for the entire season, most importantly Jurr
 
 #### _History_
 
+It's hard to find comparables here. Denver never faced an offense that prioritized the rushing attack over the passing game. Likewise, Denver never faced a defensive secondary loaded with so much talent.
+
+New England has faced a west coast style of offense earlier in the year when they played Kansas City. Even though the Patriots were ultimately blown out, New England was actually able to contain the Chiefs for nearly three quarters. The Patriots know what they're doing on offense.
+
 ***
 
-> 
+> Broncos +10
+
+**Denver covers if**  
+Vic Fangio's defense can stop the Patriots from running the ball at will and Drew Lock is mostly functional coming back from a shoulder injury.
+
+**New England covers if**  
+Cam Newton
