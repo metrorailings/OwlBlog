@@ -24,3 +24,7 @@ Carlton Davis with a heroic play to blow up a screen where he was the only defen
 Packers may have the best offensive line in the league.
 
 Brady still has issues being in sync with his receivers.
+
+Packers love their slant routes, but Carlton Davis breaking one up leads to an interception returned for a (near) touchdown.
+
+So far, I would say the Packers are winning at the point of impact against the Buccaneers and their run offense, despite their boxes being a little light.
