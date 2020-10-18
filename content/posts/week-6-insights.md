@@ -38,3 +38,9 @@ These blitzes are throwing Rodgers off his game.
 No accepted penalties committed by Tampa Bay in the first half...wtf?
 
 Three straight passes while up 21 points against a team that purposefully stacks a light box. Interesting. Perhaps the Bucs have given up on running against a Green Bay team that's been holding up well against Ronald Jones.
+
+I don't think Green Bay has actually used the jet sweep despite running that jet sweep motion on multiple occasions.
+
+One wonders how much of a role the humidity played on the Packers morale.
+
+One also wonders whether Aaron Rodgers can operate well in negative game script or whether he's truly developed a rapport with anybody that's not Davonte Adams or Robert Tonyan. I can't forget that the Packers organization did absolutely nothing to augment the receiving weapons around Rodgers, instead opting to spend a first-round draft pick on a new quarterback.
