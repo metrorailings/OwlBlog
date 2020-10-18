@@ -28,3 +28,5 @@ Brady still has issues being in sync with his receivers.
 Packers love their slant routes, but Carlton Davis breaking one up leads to an interception returned for a (near) touchdown.
 
 So far, I would say the Packers are winning at the point of impact against the Buccaneers and their run offense, despite their boxes being a little light.
+
+Tampa Bay enjoys their receiver screens.
