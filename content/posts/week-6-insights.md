@@ -36,3 +36,5 @@ Second game in a row Gronkowski has reminded us he's still alive.
 These blitzes are throwing Rodgers off his game.
 
 No accepted penalties committed by Tampa Bay in the first half...wtf?
+
+Three straight passes while up 21 points against a team that purposefully stacks a light box. Interesting. Perhaps the Bucs have given up on running against a Green Bay team that's been holding up well against Ronald Jones.
