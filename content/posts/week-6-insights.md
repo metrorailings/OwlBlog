@@ -22,3 +22,5 @@ Credit to Ron Rivera for some gutsy calls. I actually respect Washington's effor
 Carlton Davis with a heroic play to blow up a screen where he was the only defender that needed to be blocked.
 
 Packers may have the best offensive line in the league.
+
+Brady still has issues being in sync with his receivers.
