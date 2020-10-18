@@ -32,3 +32,7 @@ So far, I would say the Packers are winning at the point of impact against the B
 Tampa Bay enjoys their receiver screens.
 
 Second game in a row Gronkowski has reminded us he's still alive.
+
+These blitzes are throwing Rodgers off his game.
+
+No accepted penalties committed by Tampa Bay in the first half...wtf?
