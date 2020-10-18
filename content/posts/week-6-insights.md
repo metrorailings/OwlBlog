@@ -30,3 +30,5 @@ Packers love their slant routes, but Carlton Davis breaking one up leads to an i
 So far, I would say the Packers are winning at the point of impact against the Buccaneers and their run offense, despite their boxes being a little light.
 
 Tampa Bay enjoys their receiver screens.
+
+Second game in a row Gronkowski has reminded us he's still alive.
