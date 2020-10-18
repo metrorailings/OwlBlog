@@ -4,3 +4,5 @@ headline = "Week 6 Insights"
 
 +++
 ## Football Team @ Giants
+
+Jones best throws might come against single-high man coverage. 
