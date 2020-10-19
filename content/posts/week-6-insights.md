@@ -100,3 +100,5 @@ Offensive line breaking down in protection led to Cam Newton being "intercepted"
 Broncos seem to be using run blitzes to cut the Patriot rushes short. So far though, New England has been executing on their exotic run packages.
 
 Anthony Chickillo with two big impact plays when rushing the passer.
+
+Crossing routes seem to be working well for Denver against New England's man coverage defenders.
