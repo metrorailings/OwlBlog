@@ -5,7 +5,7 @@ headline = "Week 6 Insights"
 +++
 ## Football Team @ Giants
 
-Jones best throws might come against single-high man coverage. 
+Jones best throws might come against single-high man coverage.
 
 Daniel Jones running might be the best offensive vector for this team.
 
@@ -67,7 +67,7 @@ It's worth mentioning Julio Jones takes this offense to another level when fully
 
 Nothing but screens, runs, and jet sweeps on the first drive for the 49ers. I really hope the Rams defense adjusts, but it worries me to see them give way so easily.
 
-Rams offensive game plan relies on Goff passing the ball with touch. I am worried. 
+Rams offensive game plan relies on Goff passing the ball with touch. I am worried.
 
 Rams seem to be concentrating so much more on pass coverage than box defense. Seems like their base defense is a nickel formation.
 
@@ -84,3 +84,5 @@ Maybe Los Angeles' defense is modeling itself as a "bend, don't break" style of 
 San Francisco's offensive line is holding up ridiculously well against the Rams defensive front.
 
 McVay genuinely believes in Jared Goff's ability here, given the way the initial set of scripted plays had him passing from shotgun. Very concerning going forward.
+
+Emmanuel Mosely and Jason Verrett are difference makers as two of the three primary cover-three defenders.
