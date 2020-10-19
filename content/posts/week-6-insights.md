@@ -70,3 +70,5 @@ Rams seem to be concentrating so much more on pass coverage than box defense. Se
 The Rams simply hate fielding players in traditional linebacker roles. How are more teams not running roughshod over this Rams defense using a combination of short passes and runs?
 
 Fred Warner has been awesome in defending against the run.
+
+Raheem Mostert is a beast.
