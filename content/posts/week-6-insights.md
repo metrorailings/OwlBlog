@@ -57,6 +57,8 @@ Falcons embracing 3rd-down runs with the hope of an easier 4th down attempt.
 
 Falcons are still a little off in their execution and their attention to detail. But a turnaround seems to be in sight here.
 
+The Falcons defense with that impressive four-down goal-line stand...maybe I was wrong. Maybe Dan Quinn was really holding this defense back from realizing its full potential.   
+
 ***
 
 ## Rams @ 49ers
@@ -76,3 +78,5 @@ Raheem Mostert is a beast.
 Rams and their lack of box defenders opening leading to some easy passes for Jimmy Garoppalo right over the middle.
 
 Maybe Los Angeles' defense is modeling itself as a "bend, don't break" style of defense....
+
+San Francisco's offensive line is holding up ridiculously well against the Rams defensive front.
