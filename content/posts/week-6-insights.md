@@ -80,3 +80,5 @@ Rams and their lack of box defenders opening leading to some easy passes for Jim
 Maybe Los Angeles' defense is modeling itself as a "bend, don't break" style of defense....
 
 San Francisco's offensive line is holding up ridiculously well against the Rams defensive front.
+
+McVay genuinely believes in Jared Goff's ability here, given the way the initial set of scripted plays had him passing from shotgun. Very concerning going forward.
