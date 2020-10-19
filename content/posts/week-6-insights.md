@@ -72,3 +72,5 @@ The Rams simply hate fielding players in traditional linebacker roles. How are m
 Fred Warner has been awesome in defending against the run.
 
 Raheem Mostert is a beast.
+
+Rams and their lack of box defenders opening leading to some easy passes for Jimmy Garoppalo right over the middle.
