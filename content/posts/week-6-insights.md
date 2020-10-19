@@ -59,6 +59,8 @@ Falcons are still a little off in their execution and their attention to detail.
 
 The Falcons defense with that impressive four-down goal-line stand...maybe I was wrong. Maybe Dan Quinn was really holding this defense back from realizing its full potential.  Either that or Raheem Morris reorganizing the defensive coaching staff has changed the way this defense exhibits intensity.
 
+It's worth mentioning Julio Jones takes this offense to another level when fully healthy.
+
 ***
 
 ## Rams @ 49ers
