@@ -94,3 +94,5 @@ Emmanuel Mosely and Jason Verrett are difference makers as two of the three prim
 Drew Lock on his first pass airs it out for huge yardage. I think his shoulder is fine.
 
 In fact, nothing, but big pass attempts from Drew Lock on the first drive. I think Denver is hoping the Patriots would be playing shorter routes given Lock's shoulder injuries. Good try by Pat Shurmur to prey upon expectations. But kudos to Bill Belichick for training his defensive backs well.
+
+Offensive line breaking down in protection led to Cam Newton being "intercepted".
