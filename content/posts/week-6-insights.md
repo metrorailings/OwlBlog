@@ -67,4 +67,4 @@ Rams offensive game plan relies on Goff passing the ball with touch. I am worrie
 
 Rams seem to be concentrating so much more on pass coverage than box defense. Seems like their base defense is a nickel formation.
 
-The Rams simply hate putting defenders in the box. How are more teams not running roughshod over thisRams defense?
+The Rams simply hate putting defenders in the box. How are more teams not running roughshod over this Rams defense?
