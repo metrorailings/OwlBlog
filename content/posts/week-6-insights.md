@@ -106,3 +106,9 @@ Crossing routes seem to be working well for Denver against New England's man cov
 The Patriots may have serious issues along their offensive line.
 
 Denver's running the ball with some serious passion.
+
+***
+
+## Chiefs @ Bills
+
+Kansas City and their man coverage is getting exposed yet again on the second straight game, this time by Stefon Diggs.
