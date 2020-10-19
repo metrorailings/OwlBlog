@@ -102,3 +102,5 @@ Broncos seem to be using run blitzes to cut the Patriot rushes short. So far tho
 Anthony Chickillo with two big impact plays when rushing the passer.
 
 Crossing routes seem to be working well for Denver against New England's man coverage defenders. Nothing else seems to work though. New England's defenders are winning bigly.
+
+The Patriots may have serious issues along their offensive line.
