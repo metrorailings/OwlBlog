@@ -60,3 +60,5 @@ AJ Terrell finally playing well, it seems.
 Nothing but screens, runs, and jet sweeps on the first drive for the 49ers. I really hope the Rams defense adjusts, but it worries me to see them give way so easily.
 
 Rams offensive game plan relies on Goff passing the ball with touch. I am worried. 
+
+Falcons embracing 3rd-down runs with the hope of an easier 4th down attempt.
