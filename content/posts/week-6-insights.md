@@ -96,3 +96,7 @@ Drew Lock on his first pass airs it out for huge yardage. I think his shoulder i
 In fact, nothing, but big pass attempts from Drew Lock on the first drive. I think Denver is hoping the Patriots would be playing shorter routes given Lock's shoulder injuries. Good try by Pat Shurmur to prey upon expectations. But kudos to Bill Belichick for training his defensive backs well.
 
 Offensive line breaking down in protection led to Cam Newton being "intercepted".
+
+Broncos seem to be using run blitzes to cut the Patriot rushes short. So far though, New England has been executing on their exotic run packages.
+
+Anthony Chickillo with two big impact plays when rushing the passer.
