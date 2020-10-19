@@ -66,3 +66,5 @@ Nothing but screens, runs, and jet sweeps on the first drive for the 49ers. I re
 Rams offensive game plan relies on Goff passing the ball with touch. I am worried. 
 
 Rams seem to be concentrating so much more on pass coverage than box defense. Seems like their base defense is a nickel formation.
+
+The Rams simply hate putting defenders in the box. How are more teams not running roughshod over thisRams defense?
