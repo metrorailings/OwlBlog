@@ -53,6 +53,10 @@ Julio Jones bailed the Falcons out on a long third down.
 
 AJ Terrell finally playing well, it seems.
 
+Falcons embracing 3rd-down runs with the hope of an easier 4th down attempt.
+
+Falcons are still a little off in their execution and their attention to detail. But a turnaround seems to be in sight here.
+
 ***
 
 ## Rams @ 49ers
@@ -61,4 +65,4 @@ Nothing but screens, runs, and jet sweeps on the first drive for the 49ers. I re
 
 Rams offensive game plan relies on Goff passing the ball with touch. I am worried. 
 
-Falcons embracing 3rd-down runs with the hope of an easier 4th down attempt.
+Rams seem to be concentrating so much more on pass coverage than box defense. Seems like their base defense is a nickel formation.
