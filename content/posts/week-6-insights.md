@@ -112,3 +112,7 @@ Denver's running the ball with some serious passion.
 ## Chiefs @ Bills
 
 Kansas City and their man coverage is getting exposed yet again on the second straight game, this time by Stefon Diggs.
+
+Kansas City running and passing the ball at will against the Bills. Probably their most impressive rushing performance so far this season, as they've made a real commitment to it.
+
+Chiefs also using screens successfully to matriculate the ball downfield.
