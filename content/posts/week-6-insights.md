@@ -74,3 +74,5 @@ Fred Warner has been awesome in defending against the run.
 Raheem Mostert is a beast.
 
 Rams and their lack of box defenders opening leading to some easy passes for Jimmy Garoppalo right over the middle.
+
+Maybe Los Angeles' defense is modeling itself as a "bend, don't break" style of defense....
