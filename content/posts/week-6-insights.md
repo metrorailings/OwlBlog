@@ -57,7 +57,7 @@ Falcons embracing 3rd-down runs with the hope of an easier 4th down attempt.
 
 Falcons are still a little off in their execution and their attention to detail. But a turnaround seems to be in sight here.
 
-The Falcons defense with that impressive four-down goal-line stand...maybe I was wrong. Maybe Dan Quinn was really holding this defense back from realizing its full potential.   
+The Falcons defense with that impressive four-down goal-line stand...maybe I was wrong. Maybe Dan Quinn was really holding this defense back from realizing its full potential.  Either that or Raheem Morris reorganizing the defensive coaching staff has changed the way this defense exhibits intensity.
 
 ***
 
