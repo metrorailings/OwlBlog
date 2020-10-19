@@ -44,3 +44,19 @@ I don't think Green Bay has actually used the jet sweep despite running that jet
 One wonders how much of a role the humidity played on the Packers morale.
 
 One also wonders whether Aaron Rodgers can operate well in negative game script or whether he's truly developed a rapport with anybody that's not Davonte Adams or Robert Tonyan. I can't forget that the Packers organization did absolutely nothing to augment the receiving weapons around Rodgers, instead opting to spend a first-round draft pick on a new quarterback.
+
+***
+
+## Falcons @ Vikings
+
+Julio Jones bailed the Falcons out on a long third down.
+
+AJ Terrell finally playing well, it seems.
+
+***
+
+## Rams @ 49ers
+
+Nothing but screens, runs, and jet sweeps on the first drive for the 49ers. I really hope the Rams defense adjusts, but it worries me to see them give way so easily.
+
+Rams offensive game plan relies on Goff passing the ball with touch. I am worried. 
