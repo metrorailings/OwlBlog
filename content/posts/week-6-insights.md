@@ -86,3 +86,9 @@ San Francisco's offensive line is holding up ridiculously well against the Rams 
 McVay genuinely believes in Jared Goff's ability here, given the way the initial set of scripted plays had him passing from shotgun. Very concerning going forward.
 
 Emmanuel Mosely and Jason Verrett are difference makers as two of the three primary cover-three defenders.
+
+***
+
+## Broncos @ Patriots
+
+Drew Lock on his first pass airs it out for huge yardage. I think his shoulder is fine.
