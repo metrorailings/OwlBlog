@@ -124,3 +124,5 @@ The Chiefs deep passing attack has been stymied. Not sure whether it's due more 
 ## Cardinals @ Cowboys
 
 Good use of motion by the Cardinals to open up a touchdown. Christian Kirk ran in the end zone for a touchdown.
+
+The Cowboys offensive line is decimated, especially with Zack Martin out with a concussion.
