@@ -132,3 +132,7 @@ Zeke has fumbled twicce on consecutive carries. Clearly, this team lost a part o
 These Cowboy wide receivers are absolute shite at run blocking, apparently.
 
 The Cardinals defense has done more to adjust for the loss of Chandler Jones than the Cowboys have done to adjust for the loss of Dak Prescott.
+
+***
+
+## Bears @ Panthers
