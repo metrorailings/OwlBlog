@@ -118,3 +118,9 @@ Kansas City running and passing the ball at will against the Bills. Probably the
 Chiefs also using screens successfully to matriculate the ball downfield.
 
 The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain is impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
+
+***
+
+## Cardinals @ Cowboys
+
+Good use of motion by the Cardinals to open up a touchdown. Christian Kirk ran in the end zone for a touchdown.
