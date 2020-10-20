@@ -130,3 +130,5 @@ The Cowboys offensive line is decimated, especially with Zack Martin out with a 
 Zeke has fumbled twicce on consecutive carries. Clearly, this team lost a part of its soul with the loss of Dak Prescott. Andy Dalton isn't ready to make plays too. All around poor coaching from the Cowboys here too.
 
 These Cowboy wide receivers are absolute shite at run blocking, apparently.
+
+The Cardinals defense has done more to adjust for the loss of Chandler Jones than the Cowboys have done to adjust for the loss of Dak Prescott.
