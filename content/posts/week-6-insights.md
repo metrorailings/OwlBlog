@@ -126,3 +126,7 @@ The Chiefs deep passing attack has been stymied. Not sure whether it's due more 
 Good use of motion by the Cardinals to open up a touchdown. Christian Kirk ran in the end zone for a touchdown.
 
 The Cowboys offensive line is decimated, especially with Zack Martin out with a concussion.
+
+Zeke has fumbled twicce on consecutive carries. Clearly, this team lost a part of its soul with the loss of Dak Prescott. Andy Dalton isn't ready to make plays too. All around poor coaching from the Cowboys here too.
+
+These Cowboy wide receivers are absolute shite at run blocking, apparently.
