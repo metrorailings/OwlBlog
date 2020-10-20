@@ -116,3 +116,5 @@ Kansas City and their man coverage is getting exposed yet again on the second st
 Kansas City running and passing the ball at will against the Bills. Probably their most impressive rushing performance so far this season, as they've made a real commitment to it.
 
 Chiefs also using screens successfully to matriculate the ball downfield.
+
+The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain is impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
