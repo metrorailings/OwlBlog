@@ -142,3 +142,7 @@ Chicago Bears playing a cover-two man underneath pass coverage scheme in order t
 Carolina still moving the ball down the field thanks in large part to Mike Davis and Teddy Bridgewater running/scrambling with the ball.
 
 Well-executed bootleg from Carolina, but even better disciplined defense from Chicago.
+
+Lots of zone blitzing from the Panthers.
+
+Odd to see so many light boxes from the Panthers.
