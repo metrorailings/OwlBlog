@@ -137,6 +137,8 @@ The Cardinals defense has done more to adjust for the loss of Chandler Jones tha
 
 ## Bears @ Panthers
 
-Chicago Bears playing a cover-two man underneath pass coverage scheme in order to cut off the Panthers on the short routes that have been money for them the past several weeks.
+Chicago Bears playing a cover-two man underneath pass coverage scheme in order to cut off the Panthers on the short routes that have been money for them the past several weeks. As a result, Teddy's either holding on to the ball longer than usual or resorting to scrambles.
 
 Carolina still moving the ball down the field thanks in large part to Mike Davis and Teddy Bridgewater running/scrambling with the ball.
+
+Well-executed bootleg from Carolina, but even better disciplined defense from Chicago.
