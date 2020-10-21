@@ -148,3 +148,5 @@ Lots of zone blitzing from the Panthers.
 Odd to see so many light boxes from the Panthers. Then again, Chicago has been struggling running the ball.
 
 Nagy's offensive system is rooted in the Shanahan system, from what I can see.
+
+Good to see the Panthers players care about their injured players the way they do.
