@@ -6,7 +6,7 @@ headline = "Week 7 Supercontest Picks"
 +++
 My picks last week were _terrible_. Just terrible. Teams I trusted turned in poor performances. Teams I didn't expect to resurge so quickly ended up proving me wrong. A team I did actually expect to resurge ended up sinking to a new low.
 
-I learned quite a bit. For one thing, trust good coaches. Another thing, don't be afraid of going with the underdog, especially those underdogs being given big spreads. Most importantly, never pick the Cowboys again. That last point can't be emphasized enough - the Cowboys are truly a special brand of awful. Both them and the Jets are teams that may need to be banished after the season ends. 
+I learned quite a bit. For one thing, trust good coaches. Another thing, don't be afraid of going with the underdog, especially those underdogs being given big spreads. Most importantly, never pick the Cowboys again. That last point can't be emphasized enough - the Cowboys are truly a special brand of awful. Both them and the Jets are teams that may need to be banished after the season ends.
 
 ***
 
@@ -40,8 +40,8 @@ Browns -3
 
 ***
 
-**Cleveland covers if  
-**Nothing much changes from their first match-up earlier in the year. In that game, Cleveland and their halfback tandem ran wild all over a Cincinnati defense missing key run stoppers along their defensive line.
+**Cleveland covers if**  
+Nothing much changes from their first match-up earlier in the year. In that game, Cleveland and their halfback tandem ran wild all over a Cincinnati defense missing key run stoppers along their defensive line.
 
 **Cincinnati covers again if**  
 the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given the Bengals are now much more intimate with Stefanski's scheme and the defense will have Geno Atkins back from injury, though at less than full strength.
