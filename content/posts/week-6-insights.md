@@ -86,3 +86,67 @@ San Francisco's offensive line is holding up ridiculously well against the Rams 
 McVay genuinely believes in Jared Goff's ability here, given the way the initial set of scripted plays had him passing from shotgun. Very concerning going forward.
 
 Emmanuel Mosely and Jason Verrett are difference makers as two of the three primary cover-three defenders.
+
+***
+
+## Broncos @ Patriots
+
+Drew Lock on his first pass airs it out for huge yardage. I think his shoulder is fine.
+
+In fact, nothing, but big pass attempts from Drew Lock on the first drive. I think Denver is hoping the Patriots would be playing shorter routes given Lock's shoulder injuries. Good try by Pat Shurmur to prey upon expectations. But kudos to Bill Belichick for training his defensive backs well.
+
+Offensive line breaking down in protection led to Cam Newton being "intercepted".
+
+Broncos seem to be using run blitzes to cut the Patriot rushes short. So far though, New England has been executing on their exotic run packages.
+
+Anthony Chickillo with two big impact plays when rushing the passer.
+
+Crossing routes seem to be working well for Denver against New England's man coverage defenders. Nothing else seems to work though. New England's defenders are winning bigly.
+
+The Patriots may have serious issues along their offensive line.
+
+Denver's running the ball with some serious passion.
+
+***
+
+## Chiefs @ Bills
+
+Kansas City and their man coverage is getting exposed yet again on the second straight game, this time by Stefon Diggs.
+
+Kansas City running and passing the ball at will against the Bills. Probably their most impressive rushing performance so far this season, as they've made a real commitment to it.
+
+Chiefs also using screens successfully to matriculate the ball downfield.
+
+The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain is impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
+
+***
+
+## Cardinals @ Cowboys
+
+Good use of motion by the Cardinals to open up a touchdown. Christian Kirk ran in the end zone for a touchdown.
+
+The Cowboys offensive line is decimated, especially with Zack Martin out with a concussion.
+
+Zeke has fumbled twicce on consecutive carries. Clearly, this team lost a part of its soul with the loss of Dak Prescott. Andy Dalton isn't ready to make plays too. All around poor coaching from the Cowboys here too.
+
+These Cowboy wide receivers are absolute shite at run blocking, apparently.
+
+The Cardinals defense has done more to adjust for the loss of Chandler Jones than the Cowboys have done to adjust for the loss of Dak Prescott.
+
+***
+
+## Bears @ Panthers
+
+Chicago Bears playing a cover-two man underneath pass coverage scheme in order to cut off the Panthers on the short routes that have been money for them the past several weeks. As a result, Teddy's either holding on to the ball longer than usual or resorting to scrambles.
+
+Carolina still moving the ball down the field thanks in large part to Mike Davis and Teddy Bridgewater running/scrambling with the ball.
+
+Well-executed bootleg from Carolina, but even better disciplined defense from Chicago.
+
+Lots of zone blitzing from the Panthers.
+
+Odd to see so many light boxes from the Panthers. Then again, Chicago has been struggling running the ball.
+
+Nagy's offensive system is rooted in the Shanahan system, from what I can see.
+
+Good to see the Panthers players care about their injured players the way they do.
