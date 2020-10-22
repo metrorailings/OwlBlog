@@ -45,3 +45,27 @@ Nothing much changes from their first match-up earlier in the year. In that game
 
 **Cincinnati covers again if**  
 the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given the Bengals are now much more intimate with Stefanski's scheme and the defense will have Geno Atkins back from injury, though at less than full strength.
+
+***
+
+### Cowboys @ Washington (PK)
+
+***
+
+#### _Latest Results_
+
+**Cardinals** (38) @ Cowboys (10)  
+Washington (19) @ **Giants** (20)
+
+#### _Record_
+
+Cowboys (2-4)  
+Washington (1-5)
+
+#### _Injuries_
+
+Multiple members of the Cowboys offensive line have been stricken by major injuries. As a result, Dallas may need to reach deep down the depth chart to put give offensive linemen on the field this Sunday.
+
+Washington has a number of injuries worth further evaluation come Friday.  
+
+#### _History_
