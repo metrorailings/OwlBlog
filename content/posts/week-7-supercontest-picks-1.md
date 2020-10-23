@@ -66,6 +66,43 @@ Washington (1-5)
 
 Multiple members of the Cowboys offensive line have been stricken by major injuries. As a result, Dallas may need to reach deep down the depth chart to put give offensive linemen on the field this Sunday.
 
-Washington has a number of injuries worth further evaluation come Friday.  
+Washington has a number of injuries worth further evaluation come Friday.
 
 #### _History_
+
+I'm not sure if history is meaningful here given the chaos in the Dallas locker room. In fact, upon further though, I'm not sure if I can assign an identity to this Dallas offense. The only word that perfectly sums up that unit is tragic.
+
+Washington's offense is trying to develop a new identity with Kyle Allen under center, so it's almost impossible to find a meaningful comparable here. 
+
+***
+
+Washington PK
+
+***
+
+**Washington covers if**  
+Dallas loses too many battles in the trenches against Washington's defensive front. If the Cowboys can't protect the quarterback or at least open up a few lanes for the tailbacks, it'll be a long day for a Cowboys offense still learning to play football at an adult level.
+
+**Dallas covers if** 
+
+***
+
+### Panthers @ Saints (-7.5)
+
+***
+
+#### _Latest Results_
+
+**Bears** (23) @ Panthers (16)  
+BYE - Chargers (27) @ **Saints** (30)
+
+#### _Record_
+
+Panthers (3-3)  
+Saints (3-2)
+
+#### _Injuries_
+
+Panthers biggest injury concern is Curtis Samuel, a real weapon in the offense.
+
+A couple Saints offensive linemen seem to be nursing injuries. Terron Armstead is the most worrisome of this group. Also worth noting - Michael Thomas tweaked his thigh in practice.
