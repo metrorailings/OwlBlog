@@ -109,13 +109,21 @@ A couple Saints offensive linemen seem to be nursing injuries. Terron Armstead i
 
 #### _History_
 
-Filler
+The last time the New Orleans defense faced an offense largely predicated on short passes, the Saints lost despite being 6-point favorites.
+
+In fact, that same team that upset the Saints faced the Panthers a week prior and barely won. Carolina played well in that game despite the fact that it was installing a new scheme under first-time head coach Matt Rhule.
 
 ***
 
 Panthers +7.5
 
 ***
+
+**The Panthers cover if**  
+Carolina continues making money on its short passing game against the Saints coverage defenders.
+
+**The Saints cover if**  
+the defense plays effective man coverage against Carolina's offensive weapons. 
 
 ***
 
