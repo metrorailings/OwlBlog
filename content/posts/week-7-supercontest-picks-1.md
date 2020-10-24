@@ -83,7 +83,8 @@ Washington PK
 **Washington covers if**  
 Dallas loses too many battles in the trenches against Washington's defensive front. If the Cowboys can't protect the quarterback or at least open up a few lanes for the tailbacks, it'll be a long day for a Cowboys offense still learning to play football at an adult level.
 
-**Dallas covers if**
+**Dallas covers if**  
+Last year's embarrassing loss becomes a rallying moment for the Cowboys this week.
 
 ***
 
