@@ -72,7 +72,7 @@ Washington has a number of injuries worth further evaluation come Friday.
 
 I'm not sure if history is meaningful here given the chaos in the Dallas locker room. In fact, upon further though, I'm not sure if I can assign an identity to this Dallas offense. The only word that perfectly sums up that unit is tragic.
 
-Washington's offense is trying to develop a new identity with Kyle Allen under center, so it's almost impossible to find a meaningful comparable here. 
+Washington's offense is trying to develop a new identity with Kyle Allen under center, so it's almost impossible to find a meaningful comparable here.
 
 ***
 
@@ -83,7 +83,7 @@ Washington PK
 **Washington covers if**  
 Dallas loses too many battles in the trenches against Washington's defensive front. If the Cowboys can't protect the quarterback or at least open up a few lanes for the tailbacks, it'll be a long day for a Cowboys offense still learning to play football at an adult level.
 
-**Dallas covers if** 
+**Dallas covers if**
 
 ***
 
@@ -103,6 +103,12 @@ Saints (3-2)
 
 #### _Injuries_
 
-Panthers biggest injury concern is Curtis Samuel, a real weapon in the offense.
+Panthers biggest injury concern comes in the secondary, as cornerbacks Donte Jackson and Eli Apple may be ruled out before the game begins.
 
-A couple Saints offensive linemen seem to be nursing injuries. Terron Armstead is the most worrisome of this group. Also worth noting - Michael Thomas tweaked his thigh in practice.
+A couple Saints offensive linemen seem to be nursing injuries. Terron Armstead is the most worrisome of this group. But perhaps more importantly, neither Michael Thomas nor Emmanuel Sanders will be playing in the game.
+
+***
+
+### Bears @ Rams (-6)
+
+***
