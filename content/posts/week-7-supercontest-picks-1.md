@@ -107,8 +107,40 @@ Panthers biggest injury concern comes in the secondary, as cornerbacks Donte Jac
 
 A couple Saints offensive linemen seem to be nursing injuries. Terron Armstead is the most worrisome of this group. But perhaps more importantly, neither Michael Thomas nor Emmanuel Sanders will be playing in the game.
 
+#### _History_
+
+Filler
+
+***
+
+Panthers +7.5
+
+***
+
 ***
 
 ### Bears @ Rams (-6)
 
 ***
+
+#### _Latest Results_
+
+**Bears** (23) @ Panthers (16)  
+Rams (16) @ **49ers** (24)
+
+#### _Record_
+
+Bears (5-1)  
+Rams (4-2)
+
+#### _Injuries_
+
+The Bears will be missing a few pieces in their secondary.
+
+A few of the Rams skill players are negotiating their way through injuries, but they'll play.
+
+#### _History_
+
+The Rams haven't faced a defense of the Bears caliber this season. The Bears haven't faced a Shanahan style of offense this season.
+
+That being said, the Rams have faced the Bears twice over the past two season. Even though the series was split, the fact remains that Goff struggles  against Chicago and their pass rushers.
