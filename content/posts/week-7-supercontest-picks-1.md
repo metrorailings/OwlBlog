@@ -144,3 +144,15 @@ A few of the Rams skill players are negotiating their way through injuries, but 
 The Rams haven't faced a defense of the Bears caliber this season. The Bears haven't faced a Shanahan style of offense this season.
 
 That being said, the Rams have faced the Bears twice over the past two season. Even though the series was split, the fact remains that Goff struggles  against Chicago and their pass rushers.
+
+***
+
+Bears +6
+
+***
+
+**The Bears cover if**  
+the defense harasses Jared Goff to the point where the Rams offense becomes non-functional.
+
+**The Rams cover if**  
+the offense can make just enough plays to net over 20 points.
