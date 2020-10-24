@@ -207,3 +207,19 @@ their pass rushers force Ryan Tannehill into playing ugly.
 **Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
 
 ***
+
+### 49ers @ Patriots (-2)
+
+***
+
+#### _Latest Results_
+
+Rams (16) @ **49ers** (24)  
+**Broncos** (18) @ Patriots (15)
+
+#### _Record_
+
+Steelers (5-0)  
+Titans (5-0)
+
+#### 
