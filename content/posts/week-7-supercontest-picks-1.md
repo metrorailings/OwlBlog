@@ -44,7 +44,7 @@ Browns -3
 Nothing much changes from their first match-up earlier in the year. In that game, Cleveland and their halfback tandem ran wild all over a Cincinnati defense missing key run stoppers along their defensive line.
 
 **Cincinnati covers again if**  
-the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given the Bengals are now much more intimate with Stefanski's scheme and the defense will have Geno Atkins back from injury, though at less than full strength.
+the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given the Bengals are now much more intimate with Stefanski's scheme.
 
 ***
 
@@ -165,3 +165,45 @@ the defense harasses Jared Goff to the point where the Rams offense becomes non-
 
 **The Rams cover if**  
 the offense can make just enough plays to net over 20 points.
+
+***
+
+### Steelers @ Titans (-1)
+
+***
+
+#### _Latest Results_
+
+Browns (7) @ **Steelers** (38)  
+Texans (36) @ **Titans** (42)
+
+#### _Record_
+
+Steelers (5-0)  
+Titans (5-0)
+
+#### _Injuries_
+
+The most notable injury among the Steelers is Mike Hilton. Hilton was critical not only in coverage, but also in blitz packages. Devin Bush being out for the season will likely weaken Pittsburgh's defense against the run.
+
+Titans are surprisingly healthy, though the loss of Taylor Lewan for the season will hurt.
+
+#### _History_
+
+It's hard to draw comparables here. Pittsburgh's defense hasn't faced an elite defense yet this season and Tennessee's offense hasn't faced a dominant pass rush yet this season.
+
+Looking at Pittsburgh's performance last year against elite quarterbacks doesn't inspire much in the way of confidence. Though then again, Pittsburgh's defense was forced to carry the entire team last season, so complimentary football wasn't something the Steelers defense could count on.
+
+***
+
+Steelers +1
+
+***
+
+**The Steelers cover if**  
+their pass rushers force Ryan Tannehill into playing ugly.
+
+**The Titans cover if  
+**Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
+
+***
