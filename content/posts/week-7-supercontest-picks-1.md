@@ -83,7 +83,7 @@ Washington PK
 Dallas loses too many battles in the trenches against Washington's defensive front. If the Cowboys can't protect the quarterback or at least open up a few lanes for the tailbacks, it'll be a long day for a Cowboys offense still learning to play football at an adult level.
 
 **Dallas covers if**  
-Last year's embarrassing loss becomes a rallying moment for the Cowboys this week.
+Last week's embarrassing loss becomes a rallying cry for the Cowboys this week.
 
 ***
 
@@ -265,7 +265,7 @@ Raiders (3-2)
 
 Tampa Bay's active roster is remarkable healthy, although Vita Vea's absence along the defensive front was certainly felt last week in the run defense.
 
-The Raiders have a serious issue along their whole offensive line potentially being exposed to covid. While it's almost certain that most of their linemen will play on Sunday, they'll be out of practice for about two weeks against a Tampa Bay defense that loves to play tricks.
+The Raiders have a serious issue with their whole offensive line potentially being exposed to covid. While it's almost certain that most of their linemen will play on Sunday, they'll be out of practice for about two weeks against a Tampa Bay defense that loves to play tricks.
 
 #### _History_
 
