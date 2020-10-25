@@ -120,10 +120,10 @@ Panthers +7.5
 
 ***
 
-**The Panthers cover if**  
+**Carolina covers if**  
 Carolina continues making money on its short passing game against the Saints coverage defenders.
 
-**The Saints cover if**  
+**New Orleans covers if**  
 the defense plays effective man coverage against Carolina's offensive weapons.
 
 ***
@@ -160,10 +160,10 @@ Bears +6
 
 ***
 
-**The Bears cover if**  
+**Chicago covers if**  
 the defense harasses Jared Goff to the point where the Rams offense becomes non-functional.
 
-**The Rams cover if**  
+**Los Angeles covers if**  
 the offense can make just enough plays to net over 20 points.
 
 ***
@@ -200,11 +200,11 @@ Steelers +1
 
 ***
 
-**The Steelers cover if**  
+**Pittsburgh covers if**  
 their pass rushers force Ryan Tannehill into playing ugly.
 
-\**The Titans cover if  
-\**Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
+**Tennessee covers if**  
+Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
 
 ***
 
@@ -240,10 +240,10 @@ Patriots -2
 
 ***
 
-**The Patriots cover if**  
+**New England covers if**  
 the team comes out hot after having a fire lit under their collective arses for their shameful performance last week. Josh McDaniels also needs to turn in a good game plan against a 49ers defense some people criticize as being too vanilla.
 
-**The 49ers cover if**  
+**San Francisco covers if**  
 New England's offense sputters yet again.
 
 ***
