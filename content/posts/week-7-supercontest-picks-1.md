@@ -40,10 +40,10 @@ Browns -3
 ***
 
 **Cleveland covers if**  
-Nothing much changes from their first match-up earlier in the year. In that game, Cleveland and their halfback tandem ran wild all over a Cincinnati defense missing key run stoppers along their defensive line.
+Nothing much changes from their first match-up earlier in the year. In that game, Cleveland's halfbacks ran wild all over a Cincinnati defense missing  talented tackles along their defensive line.
 
 **Cincinnati covers again if**  
-the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given the Bengals are now much more intimate with Stefanski's scheme.
+the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given that the Bengals are now much more intimate with Stefanski's scheme.
 
 ***
 
