@@ -272,4 +272,16 @@ The Raiders have a serious issue along their whole offensive line potentially be
 
 The only other blitz-happy team the Raiders have faced recently are the Chiefs. And Las Vegas lit up the scoreboard against their defense.
 
-For the Buccaneers, it's hard to draw relevant comparables against a Raiders offense that can change face in a week's time. I used to think the Las Vegas offense was all about short plays, but their game against Kansas City tells me that Derek Carr and Jon Gruden aren't afraid to air the ball deep should they feel they'd have an advantage doing so. Still, that Kansas City game also tells me that the Raiders defense can be exposed.  
+For the Buccaneers, it's hard to draw relevant comparables against a Raiders offense that can change face in a week's time. I used to think the Las Vegas offense was all about short plays, but their game against Kansas City tells me that Derek Carr and Jon Gruden aren't afraid to air the ball deep should they feel they'd have an advantage doing so. Still, that Kansas City game also tells me that the Raiders defense can be exposed.
+
+***
+
+Buccaneers -3.5
+
+***
+
+**Tampa Bay covers if**  
+their blitz packages hit home against Derek Carr.
+
+**Las Vegas covers if**  
+their offensive line can quickly get its act together despite not having practiced much in two weeks. 
