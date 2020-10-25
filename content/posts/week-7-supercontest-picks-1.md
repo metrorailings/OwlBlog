@@ -5,7 +5,7 @@ headline = "Week 7 Supercontest Picks"
 +++
 My picks last week were _terrible_. Just terrible. Teams I trusted turned in poor performances. Teams I didn't expect to resurge so quickly ended up proving me wrong. A team I did actually expect to resurge ended up sinking to a new low.
 
-I learned quite a bit. For one thing, trust good coaches. Another thing, don't be afraid of going with the underdog, especially those underdogs being given big spreads. Most importantly, never pick the Cowboys again. That last point can't be emphasized enough - the Cowboys are truly a special brand of awful. Both them and the Jets are teams that may need to be banished after the season ends.
+I learned quite a bit. For one thing, trust good coaches. Another thing, don't be afraid of going with the underdog, especially when those underdogs are given so many points. Most importantly, never pick the Cowboys again. That last point can't be emphasized enough - the Cowboys are truly a special brand of awful. Them and the Jets may need to be banished after the season ends.
 
 ***
 
