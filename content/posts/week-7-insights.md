@@ -30,6 +30,8 @@ I'm starting to realize Brady and Bruce Arians like their players older.
 
 Brady is so comfortable playing in this offense, it's almost beautiful. Gronkowski is starting to look more like the Gronk of old. Deep passes are being aired out with the proper amount of touch. Even aging halfbacks like Leonard Fournette are showing some spunk.
 
+This Raiders offensive line has been masterful in the second half, even with backups.
+
 ***
 
 ## 49ers @ Patriots
