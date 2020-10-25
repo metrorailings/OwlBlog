@@ -32,6 +32,10 @@ Brady is so comfortable playing in this offense, it's almost beautiful. Gronkows
 
 This Raiders offensive line has been masterful in the second half, even with backups. Tampa Bay's pass rush is neutered.
 
+Raiders have keyed in on when the Buccaneers are going to run the ball. The Bucs are so damn predictable with their runs. First downs are almost always rushing downs.
+
+Brady seems to only have deep ball rapport with Chris Godwin and Scott \~Pippen\~ Miller.
+
 ***
 
 ## 49ers @ Patriots
