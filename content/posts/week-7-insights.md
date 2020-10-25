@@ -30,7 +30,7 @@ I'm starting to realize Brady and Bruce Arians like their players older.
 
 Brady is so comfortable playing in this offense, it's almost beautiful. Gronkowski is starting to look more like the Gronk of old. Deep passes are being aired out with the proper amount of touch. Even aging halfbacks like Leonard Fournette are showing some spunk.
 
-This Raiders offensive line has been masterful in the second half, even with backups.
+This Raiders offensive line has been masterful in the second half, even with backups. Tampa Bay's pass rush is neutered.
 
 ***
 
@@ -38,4 +38,6 @@ This Raiders offensive line has been masterful in the second half, even with bac
 
 49ers still relying on a whole bunch of misdirection to matriculate the ball downfield.
 
-So many people were saying the Patriots were awful last week due to Newton not having practiced at all for a few weeks. Clearly, that's not the case. In fact, the Patriots soiling themselves today, the Raiders offensive line playing decent enough despite not practicing for two weeks, Tennessee embarrassing Buffalo after their facilities were shut down for two weeks, Buffalo upsetting the Lions years ago even though the Bills spent more time that week shoveling snow then practicing...all this tells me practice IS overrated.  
+So many people were saying the Patriots were awful last week due to Newton not having practiced at all for a few weeks. Clearly, that's not the case. In fact, the Patriots soiling themselves today, the Raiders offensive line playing decent enough despite not practicing for two weeks, Tennessee embarrassing Buffalo after their facilities were shut down for two weeks, Buffalo upsetting the Lions years ago even though the Bills spent more time that week shoveling snow then practicing...all this tells me practice IS overrated.
+
+Fans claiming Cam may be playing with an injured shoulder, which would explain his ugly **ugly** performance.
