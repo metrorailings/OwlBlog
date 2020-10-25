@@ -124,7 +124,7 @@ Panthers +7.5
 Carolina continues making money on its short passing game against the Saints coverage defenders.
 
 **The Saints cover if**  
-the defense plays effective man coverage against Carolina's offensive weapons. 
+the defense plays effective man coverage against Carolina's offensive weapons.
 
 ***
 
@@ -203,8 +203,8 @@ Steelers +1
 **The Steelers cover if**  
 their pass rushers force Ryan Tannehill into playing ugly.
 
-**The Titans cover if  
-**Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
+\**The Titans cover if  
+\**Ryan Tannehill can negotiate through the pressure and make plays against a vulnerable Pittsburgh secondary.
 
 ***
 
@@ -215,11 +215,39 @@ their pass rushers force Ryan Tannehill into playing ugly.
 #### _Latest Results_
 
 Rams (16) @ **49ers** (24)  
-**Broncos** (18) @ Patriots (15)
+**Broncos** (18) @ Patriots (12)
 
 #### _Record_
 
-Steelers (5-0)  
-Titans (5-0)
+49ers (3-3)  
+Patriots (2-3)
 
-#### 
+#### _Injuries_
+
+The 49ers will be down their two starting safeties in addition to all their other injuries. Trent Williams will also be operating at less than full speed.
+
+The Patriots will likely be down a few rotational pieces along the defensive line, though the return of David Andrews is big for an offensive line that hasn't been whole the past couple weeks.
+
+#### _History_
+
+New England faced a base cover-three defense not too long ago up in Seattle. The Patriots offense did well, though so much of their production came towards the end after Seattle ran up the score.
+
+San Francisco hasn't really faced a run-centric offense this season. Arizona is the closest comparable here. Even though the 49ers did well enough stopping runs up the middle, the defense was gashed by rushes on a few occasions. Just going back to last week alone, the defense gave up some significant yardage on runs.
+
+***
+
+Patriots -2
+
+***
+
+**The Patriots cover if**  
+the team comes out hot after having a fire lit under their collective arses for their shameful performance last week. Josh McDaniels also needs to turn in a good game plan against a 49ers defense some people criticize as being too vanilla.
+
+**The 49ers cover if**  
+New England's offense sputters yet again.
+
+***
+
+### Buccaneers @ Raiders (+3.5)
+
+***
