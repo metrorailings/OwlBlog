@@ -251,3 +251,25 @@ New England's offense sputters yet again.
 ### Buccaneers @ Raiders (+3.5)
 
 ***
+
+#### _Latest Results_
+
+Packers (10) @ **Buccaneers** (38)  
+BYE - **Raiders** (40) @ Chiefs (32)
+
+#### _Record_
+
+Buccaneers (4-2)  
+Raiders (3-2)
+
+#### _Injuries_
+
+Tampa Bay's active roster is remarkable healthy, although Vita Vea's absence along the defensive front was certainly felt last week in the run defense.
+
+The Raiders have a serious issue along their whole offensive line potentially being exposed to covid. While it's almost certain that most of their linemen will play on Sunday, they'll be out of practice for about two weeks against a Tampa Bay defense that loves to play tricks.
+
+#### _History_
+
+The only other blitz-happy team the Raiders have faced recently are the Chiefs. And Las Vegas lit up the scoreboard against their defense.
+
+For the Buccaneers, it's hard to draw relevant comparables against a Raiders offense that can change face in a week's time. I used to think the Las Vegas offense was all about short plays, but their game against Kansas City tells me that Derek Carr and Jon Gruden aren't afraid to air the ball deep should they feel they'd have an advantage doing so. Still, that Kansas City game also tells me that the Raiders defense can be exposed.  
