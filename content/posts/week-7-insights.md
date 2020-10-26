@@ -34,7 +34,7 @@ This Raiders offensive line has been masterful in the second half, even with bac
 
 Raiders have keyed in on when the Buccaneers are going to run the ball. The Bucs are so damn predictable with their runs. First downs are almost always rushing downs.
 
-Brady seems to only have deep ball rapport with Chris Godwin and Scott \~Pippen\~ Miller.
+Brady seems to only have deep ball rapport with Chris Godwin and Scottie \~Pippen\~ Miller.
 
 ***
 
@@ -45,3 +45,11 @@ Brady seems to only have deep ball rapport with Chris Godwin and Scott \~Pippen\
 So many people were saying the Patriots were awful last week due to Newton not having practiced at all for a few weeks. Clearly, that's not the case. In fact, the Patriots soiling themselves today, the Raiders offensive line playing decent enough despite not practicing for two weeks, Tennessee embarrassing Buffalo after their facilities were shut down for two weeks, Buffalo upsetting the Lions years ago even though the Bills spent more time that week shoveling snow then practicing...all this tells me practice IS overrated.
 
 Fans claiming Cam may be playing with an injured shoulder, which would explain his ugly **ugly** performance.
+
+***
+
+## Seahawks @ Cardinals
+
+Kudos to DK Metcalf for chasing down a 90-yard interception return and giving the defense a (successful) opportunity to prevent the Cardinals from scoring. This Seattle team has heart. That cannot be understated.
+
+Cardinals ran three straight run plays in the red zone in order to cash in on a long interception return. A little bizarre, though Arizona may be of the mindset that a mobile Kyler Murray is their best chance at scoring.
