@@ -150,3 +150,11 @@ Odd to see so many light boxes from the Panthers. Then again, Chicago has been s
 Nagy's offensive system is rooted in the Shanahan system, from what I can see.
 
 Good to see the Panthers players care about their injured players the way they do.
+
+Chicago's right tackle might be a point of weakness.
+
+Foles still has that ability to lead and make plays at key moments.
+
+The Bears have a great defense, and it starts with a defensive line that can handle its own in the trenches.
+
+Panthers play with power, discipline, and intelligence. Once again, Matt Rhule and Joe Brady have some phenomenal work building a team with pride.
