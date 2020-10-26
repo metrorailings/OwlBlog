@@ -10,7 +10,7 @@ Panthers are struggling to mount a pass rush on third down against the Saints an
 
 Why do the Panthers love the three-man pass rush so much? Sure, it opens up zone blitzes, but you're effectively giving an opposing quarterback too much comfort in the pocket so long as the offensive line takes care of business against the three rushers.
 
-Nobody can pick apart zone coverage quite like Drew Brees. 
+Nobody can pick apart zone coverage quite like Drew Brees.
 
 ***
 
@@ -53,3 +53,5 @@ Fans claiming Cam may be playing with an injured shoulder, which would explain h
 Kudos to DK Metcalf for chasing down a 90-yard interception return and giving the defense a (successful) opportunity to prevent the Cardinals from scoring. This Seattle team has heart. That cannot be understated.
 
 Cardinals ran three straight run plays in the red zone in order to cash in on a long interception return. A little bizarre, though Arizona may be of the mindset that a mobile Kyler Murray is their best chance at scoring.
+
+In overtime, I'm not sure what happened with Seattle's offense. It looks to be in complete disarray. Are the Hawks just too tired at this point? Did they even practice?
