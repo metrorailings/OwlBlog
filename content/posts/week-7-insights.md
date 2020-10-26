@@ -54,4 +54,6 @@ Kudos to DK Metcalf for chasing down a 90-yard interception return and giving th
 
 Cardinals ran three straight run plays in the red zone in order to cash in on a long interception return. A little bizarre, though Arizona may be of the mindset that a mobile Kyler Murray is their best chance at scoring.
 
-In overtime, I'm not sure what happened with Seattle's offense. It looks to be in complete disarray. Are the Hawks just too tired at this point? Did they even practice?
+In overtime, I'm not sure what happened with Seattle's offense. It looks to be in complete disarray. Are the Hawks just too tired at this point? Did they even practice? Receivers nowhere on the same page with Russell.
+
+Seattle's offensive line was also overwhelmed by creative blitzes. 
