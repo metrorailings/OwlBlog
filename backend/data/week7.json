@@ -174,10 +174,10 @@
             "homeTeam": "Rams" ,
             "awayTeam": "Bears" ,
             "week": 7 ,
-            "awayTeamScore": "" ,
+            "awayTeamScore": 10 ,
             "bookSpread": -6 ,
             "curve": 0 ,
-            "homeTeamScore": "" ,
+            "homeTeamScore": 24 ,
             "owlSpread": -4 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
