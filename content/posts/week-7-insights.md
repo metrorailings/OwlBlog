@@ -87,4 +87,8 @@ Cincinnati doing much better against Cleveland's rushing attacks, though the Bro
 
 Harrison Bryant emerging as a steady option in the passing game for Baker Mayfield.
 
-Baker slowly gaining confidence passing from the pocket. 
+Baker slowly gaining confidence passing from the pocket.
+
+Cleveland's passing coverage has been a sieve. Cincinnati's pass coverage isn't that much better. Lots of yardage being given up to tight ends.
+
+Cleveland sickens me sometimes with its lack of of discipline. Denzel Ward out there throwing punches for some reason.
