@@ -92,3 +92,5 @@ Baker slowly gaining confidence passing from the pocket.
 Cleveland's passing coverage has been a sieve. Cincinnati's pass coverage isn't that much better. Lots of yardage being given up to tight ends.
 
 Cleveland sickens me sometimes with its lack of of discipline. Denzel Ward out there throwing punches for some reason.
+
+Joe Burrow is something special. Surprising to see Cincinnati incorporate the read option with Burrow given all the pressure he goes through.
