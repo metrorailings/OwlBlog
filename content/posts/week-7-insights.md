@@ -84,3 +84,7 @@ Joe Woods throwing all sorts of blitzes at Cincinnati and the Bengals are failin
 Cleveland so creative with their misdirection plays. Also, good work by Cleveland's coaches in the middle of the second quarter, opting to rely less on Mayfield's pocket passing, instead going back to their bread and butter to finally get things going.
 
 Cincinnati doing much better against Cleveland's rushing attacks, though the Browns tailbacks have managed to eat on a few downs.
+
+Harrison Bryant emerging as a steady option in the passing game for Baker Mayfield.
+
+Baker slowly gaining confidence passing from the pocket. 
