@@ -66,3 +66,5 @@ Watching Chicago fail in running the ball between the tackles against these Rams
 This Bears offensive line doesn't hold up well against blitzes. I wonder about Carolina's blitz numbers against Chicago last week...
 
 Rams love their two-safety man coverage. Is this defense really any different from the type of defense Wade Phillips ran last year? Though then again, Wade loved to blitz.
+
+Rams playing with so much more emotion coming off last week's loss. Aaron Donald even said they need to make up for playing "soft" last week.
