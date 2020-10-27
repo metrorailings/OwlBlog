@@ -80,3 +80,5 @@ Zac Taylor equating short passes to runs is laughable. Hopefully, the Bengals ha
 Cleveland being hit with quite a few penalties in the first quarter, indicating a lack of discipline.
 
 Joe Woods throwing all sorts of blitzes at Cincinnati and the Bengals are failing to adequately pick them up.
+
+Cleveland so creative with their misdirection plays. Also, good work by Cleveland's coaches in the middle of the second quarter, opting to rely less on Mayfield's pocket passing, instead going back to their bread and butter to finally get things going.
