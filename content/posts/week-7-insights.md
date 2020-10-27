@@ -56,3 +56,9 @@ Cardinals ran three straight run plays in the red zone in order to cash in on a 
 In overtime, I'm not sure what happened with Seattle's offense. It looks to be in complete disarray. Are the Hawks just too tired at this point? Did they even practice? Receivers nowhere on the same page with Russell.
 
 Seattle's offensive line was also overwhelmed by creative blitzes.
+
+***
+
+## Bears @ Rams
+
+Watching Chicago fail in running the ball between the tackles against these Rams and their light boxes is laughable and pathetic. Especially when the 49ers proved last week that the Rams struggle against outside runs. Not that Nagy bothers watching game tape or anything...
