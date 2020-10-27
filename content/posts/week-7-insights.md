@@ -68,3 +68,13 @@ This Bears offensive line doesn't hold up well against blitzes. I wonder about C
 Rams love their two-safety man coverage. Is this defense really any different from the type of defense Wade Phillips ran last year? Though then again, Wade loved to blitz. The Rams new defensive coordinator seems much more controlled in that regard.
 
 Rams playing with so much more emotion coming off last week's loss. Aaron Donald even said they need to make up for playing "soft" last week.
+
+***
+
+## Browns @ Bengals
+
+Such a bad play call in the red zone led to an interception that ended a promising Bengals drive. Burrow could have played things better with his eyes, but it was still a bad play call.
+
+Zac Taylor equating short passes to runs is laughable. Hopefully, the Bengals have the good sense to fire him at the end of the season.
+
+Cleveland being hit with quite a few penalties in the first quarter, indicating a lack of discipline.
