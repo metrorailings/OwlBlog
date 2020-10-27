@@ -78,3 +78,5 @@ Such a bad play call in the red zone led to an interception that ended a promisi
 Zac Taylor equating short passes to runs is laughable. Hopefully, the Bengals have the good sense to fire him at the end of the season.
 
 Cleveland being hit with quite a few penalties in the first quarter, indicating a lack of discipline.
+
+Joe Woods throwing all sorts of blitzes at Cincinnati and the Bengals are failing to adequately pick them up.
