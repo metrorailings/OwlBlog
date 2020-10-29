@@ -45,8 +45,26 @@ Browns -3
 the Browns dominates the time of possession against an \~Oakland\~ Las Vegas defense that can't rush the passer or stop dominant rushers from motoring down the field.
 
 **Las Vegas covers if**  
-Josh Jacobs and Derek Carr can control the ball longer than their counterparts in Cleveland.
+Josh Jacobs and Derek Carr can control the ball longer than their counterparts in Cleveland. A possibility if the Raiders are particularly motivated coming off a loss and they catch the Browns slacking.
 
 ***
 
-### 
+### Saints @ Bears (+4.5)
+
+#### _Latest Results_
+
+Panthers (24) @ **Saints** (27)  
+Bears (10) @ **Rams** (24)
+
+#### _Record_
+
+Saints (4-2)  
+Bears (5-2)
+
+#### _Injuries_
+
+Half of New Orleans receivers will likely be out for this game, including their top two players on the depth chart - Michael Thomas and Emmanuel Sanders.
+
+The Bears will be missing key pieces on offense, namely receiver Allen Robinson and center Cody Whitehair.
+
+#### _History_
