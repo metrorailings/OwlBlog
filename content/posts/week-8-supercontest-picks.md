@@ -4,7 +4,11 @@ draft = true
 headline = "Week 8 Supercontest Picks"
 
 +++
-My picks last week were...better. The Panthers, Steelers, and Buccaneers all turned in strong performances against their respective performances. Still, my two losses were pretty bad, especially my loss on Monday night. Nagy and his offense were flatly clowned against the Rams. I banked on Chicago's defense preventing the Rams from scoring too many points, but what good is a top-flight defense if the offense is absolutely pathetic. Running for two yards a pop won't be winning the Bears any more games, period. 
+My picks last week were...better. The Panthers, Steelers, and Buccaneers all turned in strong performances against their respective performances. Still, my two losses were pretty bad, especially my loss on Monday night. Nagy and his offense were flatly clowned against the Rams. I banked on Chicago's defense preventing the Rams from scoring too many points, but what good is a top-flight defense if the offense is absolutely pathetic. Running for two yards a pop won't be winning the Bears any more games, period.
+
+My other loss was the New England Patriots. I never expected them to implode the way they did, but it's clear Cam Newton isn't the quarterback to lead this team to sustained success. The minute injuries surface with him, his poor mechanics and technique show themselves in the _worst_ possible way. On top of that, free agency exits and draft busts have left this Patriot team bereft of quality players. Having the best coach in the game means little if the talent isn't there, period.
+
+That being said, I'm going to continue building here until I can finally start nailing almost all my picks on any given week. So let's begin here.
 
 ***
 
