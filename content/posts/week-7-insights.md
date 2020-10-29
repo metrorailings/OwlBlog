@@ -108,3 +108,7 @@ Pittsburgh's interior defensive line has some chops.
 Roethlisberger and his love of underneath routes is worrying...
 
 Great turnaround defense from the Steelers following a Roethlisberger interception.
+
+Theoretically, play action should work well against a Steelers defense with overly aggressive linebackers. In fact, the Titans two best plays halfway through the second half have been both off play-action.
+
+Titans are finally able to get Derrick Henry going with the hurry-up offense.
