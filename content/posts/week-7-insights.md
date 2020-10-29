@@ -94,3 +94,15 @@ Cleveland's passing coverage has been a sieve. Cincinnati's pass coverage isn't 
 Cleveland sickens me sometimes with its lack of of discipline. Denzel Ward out there throwing punches for some reason.
 
 Joe Burrow is something special. Surprising to see Cincinnati incorporate the read option with Burrow given all the pressure he goes through.
+
+***
+
+## Steelers @ Titans
+
+Tennessee's play action game destroyed Pittsburgh's cover-three scheme on one play.
+
+Excellent use of a jailbreak blitz on a third and long by the Titans, knowing full well that such a blitz would likely force the ball out of Ben's hands quicker.
+
+Pittsburgh's interior defensive line has some chops.
+
+Roethlisberger and his love of underneath routes is worrying...
