@@ -12,29 +12,29 @@ That being said, I'm going to continue building here until I can finally start n
 
 ***
 
-### Browns @ Bengals (+3)
+### Raiders @ Browns (-3)
 
 ***
 
 #### _Latest Results_
 
-Browns (7) @ **Steelers** (38)  
-Bengals (27) @ **Colts** (31)
+**Buccaneers** (45) @ Raiders (20)  
+**Browns** (37) @ Bengals (34)
 
 #### _Record_
 
-Browns (4-2)  
-Bengals (1-4)
+Raiders (3-3)  
+Browns (5-2)
 
 #### _Injuries_
 
-On Cleveland's side, the major concern still remains at quarterback. Baker's sore ribs weren't helped at all last week against Pittsburgh.
+On Cleveland's side, Baker's ribs still remain a point of concern. The loss of Odell Beckham Jr will have an impact in the passing game, regardless of what some idiots on ESPN think.
 
-On Cincinnati's side, the biggest concern is Joe Mixon. If Mixon is absent, Cincinnati may be down its most dynamic playmaker.
+Las Vegas is expected to come into this game pretty healthy.
 
 #### _History_
 
-The Bengals and Browns have met just five weeks before. That match ended up being a rout in favor of the Browns, though the Bengals fought their way to a backdoor cover.
+Not much relevant history here. Cleveland has feasted in the past against bad defenses. Las Vegas defense will be stressed here, especially as they haven't faced a Kubiak-style offense since last year.
 
 ***
 
@@ -43,10 +43,10 @@ Browns -3
 ***
 
 **Cleveland covers if**  
-Nothing much changes from their first match-up earlier in the year. In that game, Cleveland's halfbacks ran wild all over a Cincinnati defense missing  talented tackles along their defensive line.
+Cleveland dominates the time of possession against an \~Oakland\~ Las Vegas defense that can't rush the passer or stop dominant rushers from motoring down the field.
 
-**Cincinnati covers again if**  
-the Bengals do a much better job keeping a lid on Cleveland's rushing attack. A possibility, given that the Bengals are now much more intimate with Stefanski's scheme.
+**Las Vegas covers if**  
+Josh Jacobs and Derek Carr can control the ball and keep Cleveland's offense sidelined for more than 30 minutes.
 
 ***
 
