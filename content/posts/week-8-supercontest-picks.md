@@ -81,6 +81,6 @@ Saints -4.5
 **Chicago's offense stalls yet again thanks in part to the Saints hitting home with their pass rush.
 
 **Chicago covers if**  
-the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense.
+the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense. It would also help if the Bears keep Alvin Kamara from racking up yards after the catch.
 
 ***
