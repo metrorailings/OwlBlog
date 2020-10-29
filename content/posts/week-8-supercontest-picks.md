@@ -68,3 +68,19 @@ Half of New Orleans receivers will likely be out for this game, including their 
 The Bears will be missing key pieces on offense, namely receiver Allen Robinson and center Cody Whitehair.
 
 #### _History_
+
+Chicago has spent much of this season beating up on bad teams. Their two losses came against teams with decent defenses. New Orleans pass defense needs a bit of work, but the rushing defense is solid. Still, red zone possessions seem to be a death sentence for this defense, as New Orleans gives up touchdowns on over 80% of opponents' red zone trips. Then again, Chicago needs to move the ball down the field for that statistic to even play much a role in this game.
+
+***
+
+Saints -4.5
+
+***
+
+**New Orleans covers if  
+**Chicago's offense stalls yet again thanks in part to the Saints hitting home with their pass rush.
+
+**Chicago covers if**  
+the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles revealing his honest thoughts on the offense to head coach Matt Nagy.
+
+***
