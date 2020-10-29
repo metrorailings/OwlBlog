@@ -1,6 +1,5 @@
 +++
 date = 2020-10-28T12:00:00Z
-draft = true
 headline = "Week 8 Supercontest Picks"
 
 +++
@@ -43,10 +42,10 @@ Browns -3
 ***
 
 **Cleveland covers if**  
-Cleveland dominates the time of possession against an \~Oakland\~ Las Vegas defense that can't rush the passer or stop dominant rushers from motoring down the field.
+the Browns dominates the time of possession against an \~Oakland\~ Las Vegas defense that can't rush the passer or stop dominant rushers from motoring down the field.
 
 **Las Vegas covers if**  
-Josh Jacobs and Derek Carr can control the ball and keep Cleveland's offense sidelined for more than 30 minutes.
+Josh Jacobs and Derek Carr can control the ball longer than their counterparts in Cleveland.
 
 ***
 
