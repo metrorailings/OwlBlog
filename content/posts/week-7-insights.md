@@ -106,3 +106,5 @@ Excellent use of a jailbreak blitz on a third and long by the Titans, knowing fu
 Pittsburgh's interior defensive line has some chops.
 
 Roethlisberger and his love of underneath routes is worrying...
+
+Great turnaround defense from the Steelers following a Roethlisberger interception.
