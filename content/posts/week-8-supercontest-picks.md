@@ -51,6 +51,8 @@ Josh Jacobs and Derek Carr can control the ball longer than their counterparts i
 
 ### Saints @ Bears (+4.5)
 
+***
+
 #### _Latest Results_
 
 Panthers (24) @ **Saints** (27)  
@@ -84,3 +86,9 @@ Saints -4.5
 the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense. It would also help if the Bears keep Alvin Kamara from racking up yards after the catch.
 
 ***
+
+### Colts @ Lions (+2.5)
+
+***
+
+#### _Latest Results_
