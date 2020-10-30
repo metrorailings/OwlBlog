@@ -174,7 +174,7 @@ Titans -5.5
 ***
 
 **Tennessee covers if**  
-the Titans defense can force Cincinnati to punt or cede the ball on the majority of their offensive possessions.
+the Titans defense can rally after a tough loss last week and make just enough plays to force Cincinnati to punt or cede the ball on the majority of their offensive possessions.
 
 **Cincinnati covers if**  
 the majority of their drives end up yielding points.
