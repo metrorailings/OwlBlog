@@ -111,10 +111,26 @@ Bills (5-2)
 
 #### _Injuries_
 
-Joe Thuney is a point of concern for the Patriots going into this game. But the bigger issue may be the absence of Edelman and N'Keal Harry. Without Edelman and Harry, the Patriots have no receivers worth a damn to field.
+Joe Thuney is a point of concern for the Patriots going into this game. Another big issue may be the absence of Edelman and N'Keal Harry. Without Edelman and Harry, the Patriots have no receivers worth a damn to field. But the biggest worry here is Cam Newton himself - last week tells me something's off with Newton, especially as the Patriots only opted to use him on a designed run just _once_ in their first three drives.
 
 For the Bills, Matt Milano's injuries doesn't help out a defense that has had issues defending against the run.
 
 #### _History_
 
 Twice, the Patriots faced the Bills last year. Twice did they win by a score. But that New England was drastically different with Tom Brady at its helm. This year's Patriots squad is depressingly worse compared to their 2019 version. The Bills (arguably) are better than they were last year.
+
+#### _Weather_
+
+43 degrees with winds right around the 20 mile per hour mark. Rain is guaranteed. In fact, it's possible that some of that rain may turn to snow.
+
+***
+
+Bills -3.5
+
+***
+
+**Buffalo covers if**  
+the Bills can stone any type of run game the Patriots try to mount.
+
+**New England covers if**  
+their halfbacks run roughshod all over Buffalo's defense. 
