@@ -91,7 +91,7 @@ Saints -4.5
 Chicago's offense stalls yet again thanks in part to the Saints hitting home with their pass rush.
 
 **Chicago covers if**  
-the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense. It would also help if the Bears keep Alvin Kamara from racking up yards after the catch.
+the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense. It would also help if the Bears prevent Alvin Kamara from racking up yards after the catch.
 
 ***
 
@@ -133,4 +133,6 @@ Bills -3.5
 the Bills can stone any type of run game the Patriots try to mount.
 
 **New England covers if**  
-their halfbacks run roughshod all over Buffalo's defense. 
+their halfbacks run roughshod all over Buffalo's defense.
+
+***
