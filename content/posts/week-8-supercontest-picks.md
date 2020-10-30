@@ -35,6 +35,10 @@ Las Vegas is expected to come into this game pretty healthy.
 
 Not much relevant history here. Cleveland has feasted in the past against bad defenses. Las Vegas defense will be stressed here, especially as they haven't faced a Kubiak-style offense since last year.
 
+#### _Weather_
+
+45 degrees with winds over 20 miles an hour. Possible chance of rain too.
+
 ***
 
 Browns -3
@@ -73,22 +77,44 @@ The Bears will be missing key pieces on offense, namely receiver Allen Robinson 
 
 Chicago has spent much of this season beating up on bad teams. Their two losses came against teams with decent defenses. New Orleans pass defense needs a bit of work, but the rushing defense is solid. Still, red zone possessions seem to be a death sentence for this defense, as New Orleans gives up touchdowns on over 80% of opponents' red zone trips. Then again, Chicago needs to move the ball down the field for that statistic to even play much a role in this game.
 
+#### _Weather_
+
+36 degrees with winds over 20 miles per hour. 
+
 ***
 
 Saints -4.5
 
 ***
 
-**New Orleans covers if  
-**Chicago's offense stalls yet again thanks in part to the Saints hitting home with their pass rush.
+**New Orleans covers if**  
+Chicago's offense stalls yet again thanks in part to the Saints hitting home with their pass rush.
 
 **Chicago covers if**  
 the Bears make major revisions to their offensive strategy following an embarrassing Monday night performance and Nick Foles finally revealing his honest thoughts on the offense. It would also help if the Bears keep Alvin Kamara from racking up yards after the catch.
 
 ***
 
-### Colts @ Lions (+2.5)
+### Patriots @ Bills (-3.5)
 
 ***
 
 #### _Latest Results_
+
+**49ers** (33) @ Patriots (6)  
+**Bills** (18) @ Jets (10)
+
+#### _Record_
+
+Patriots (2-4)  
+Bills (5-2)
+
+#### _Injuries_
+
+Joe Thuney is a point of concern for the Patriots going into this game. But the bigger issue may be the absence of Edelman and N'Keal Harry. Without Edelman and Harry, the Patriots have no receivers worth a damn to field.
+
+For the Bills, Matt Milano's injuries doesn't help out a defense that has had issues defending against the run.
+
+#### _History_
+
+Historically
