@@ -136,3 +136,45 @@ the Bills can stone any type of run game the Patriots try to mount.
 their halfbacks run roughshod all over Buffalo's defense.
 
 ***
+
+### Titans @ Bengals (+5.5)
+
+***
+
+#### _Latest Results_
+
+**Steelers** (27) @ Titans (24)  
+**Browns** (37) @ Bengals (34)
+
+#### Record
+
+Titans (5-1)  
+Bengals (1-5)
+
+#### _Injuries_
+
+Tennessee may not have Jadaveon Clowney ready for game day. Then again, that probably doesn't matter much.
+
+Cincinnati's issues are much more grave. Three of their starting offensive linemen have serious injuries. One's already been declared out. The good news is that their replacements didn't fail horribly when their cards were called last Sunday.
+
+#### _History_
+
+In a few ways, the Titans can be seen in the same light as the Browns - both are teams layering play-action concepts on top of zone-running schemes. Both organizations also feature terrible defenses.  
+
+The Bengals have faced the Browns twice and covered in both games. Though it's worth noting Ryan Tannehill is a far better quarterback than Baker Mayfield, so this comparison can only hold so much value.
+
+#### _Weather_
+
+Chilly weather at 45 degrees.
+
+***
+
+Titans -5.5
+
+***
+
+**Tennessee covers if**  
+the Titans defense can force Cincinnati to punt on at least four occasions.
+
+**Cincinnati covers if**  
+at least six of their drives ends in points.
