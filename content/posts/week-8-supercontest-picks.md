@@ -174,7 +174,9 @@ Titans -5.5
 ***
 
 **Tennessee covers if**  
-the Titans defense can force Cincinnati to punt on at least four occasions.
+the Titans defense can force Cincinnati to punt or cede the ball on the majority of their offensive possessions.
 
 **Cincinnati covers if**  
-five or six of their drives end in points.
+the majority of their drives end up yielding points.
+
+***
