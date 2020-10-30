@@ -117,7 +117,7 @@ For the Bills, Matt Milano's injuries doesn't help out a defense that has had is
 
 #### _History_
 
-Twice, the Patriots faced the Bills last year. Twice did they win by a score. But that New England was drastically different with Tom Brady at its helm. This year's Patriots squad is depressingly worse compared to their 2019 version. The Bills (arguably) are better than they were last year.
+Twice, the Patriots faced the Bills last year. Twice did they win by only one score. But that New England team was drastically different with Tom Brady at its helm. This year's Patriots squad is depressingly worse. The Bills (arguably) are better than they were last year.
 
 #### _Weather_
 
