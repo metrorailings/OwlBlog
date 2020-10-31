@@ -264,3 +264,43 @@ A motivated Russell Wilson coming off a loss cooks twice as hard against San Fra
 Jimmy Garoppalo can cook against Seattle's league-worst pass defense.
 
 ***
+
+### Steelers @ Ravens (-4)
+
+***
+
+#### _Latest Results_
+
+**Steelers** (27) @ Titans (24)  
+BYE - **Ravens** (30) @ Eagles (28)
+
+#### _Record_
+
+Steelers (6-0)  
+Ravens (5-1)
+
+#### _Injuries_
+
+On Steelers, we have a few injuries on the defensive side of the ball, the most noteworthy being the injury to Mike Hilton, who shows up in their blitz packages.
+
+The Ravens biggest issue comes in the back end with their secondary.  Given Marlon Humphrey and Jimmy Smith seem to be nursing injuries and two other corners were moved over to IR recently, Baltimore has very little depth at cornerback. Then again, Pittsburgh isn't exactly the type of team that enjoys throwing deep against opponents. In fact, Roethlisberger has been pathologically obsessed with short passes.
+
+#### _History_
+
+The last time these two teams danced in a meaningful way, Mason Rudolph was the signal caller for Pittsburgh and the game went into overtime. This year, Baltimore hasn't really faced a truly dominant run defense, not that we have many of them in the league this year. But the Steelers are the absolute best at defensing the run, and it'll be interesting to see the Ravens try and work their ground game against this Pittsburgh troupe.
+
+#### _Weather_
+
+It's expected to rain the entire game, but otherwise, the weather's actually pretty good.
+
+***
+
+Steelers +4
+
+***
+
+**Pittsburgh covers if**  
+The defense can prevent the Ravens from running wild all over with them and the offense takes command of the game script by scoring some points early. Lamar Jackson and Baltimore's offense have a rough time working back from negative game script.
+
+**Baltimore covers if**  
+the Ravens offense can strike first and their ground game doesn't grind to a halt against the Steelers defensive front. So long as Baltimore is dictating the game script, Lamar can score enough points to earn the cover. 
