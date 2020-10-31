@@ -3,7 +3,7 @@ date = 2020-10-28T12:00:00Z
 headline = "Week 8 Supercontest Picks"
 
 +++
-My picks last week were...better. The Panthers, Steelers, and Buccaneers all turned in strong performances against their respective performances. Still, my two losses were pretty bad, especially my loss on Monday night. Nagy and his offense were flatly clowned against the Rams. I banked on Chicago's defense preventing the Rams from scoring too many points, but what good is a top-flight defense if the offense is absolutely pathetic. Running for two yards a pop won't be winning the Bears any more games, period.
+My picks last week were...better. The Panthers, Steelers, and Buccaneers all turned in strong performances against their respective opponents. Still, my two losses were pretty bad, especially my loss on Monday night. Nagy and his offense looked like clowns going against the Rams. I banked on Chicago's defense preventing the Rams from scoring too many points, but what good is a top-flight defense if the offense is absolutely pathetic. A defense can only hold on for so long Running for two yards a pop won't be winning the Bears any more games, period.
 
 My other loss was the New England Patriots. I never expected them to implode the way they did, but it's clear Cam Newton isn't the quarterback to lead this team to sustained success. The minute injuries surface with him, his poor mechanics and technique show themselves in the _worst_ possible way. On top of that, free agency exits and draft busts have left this Patriot team bereft of quality players. Having the best coach in the game means little if the talent isn't there, period.
 
@@ -180,3 +180,39 @@ the Titans defense can rally after a tough loss last week and make just enough p
 the majority of their drives end up yielding points.
 
 ***
+
+### Colts @ Lions (+2.5)
+
+***
+
+#### _Latest Results_
+
+BYE - Bengals (27) @ **Colts** (31)  
+**Lions** (23) @ Falcons (22)
+
+#### _Record_
+
+Colts (4-2)  
+Lions (3-3)
+
+#### _Injuries_
+
+The Colts and the Lions will likely be missing the services of their center and left tackle, respectively. Otherwise though, both squads come into this match pretty healthy.
+
+#### _History_
+
+The Lions fared poorly this year against teams with good tailbacks. The Colts are not one of those teams.
+
+The Colts have performed poorly against teams with decent pass coverage and at least one dominant pass rusher. Detroit may be one of those teams.
+
+***
+
+Colts -2.5
+
+***
+
+**Indianapolis covers if**  
+their offensive line can give Rivers plenty of clean pockets from which to operate.
+
+**Detroit covers if**  
+Trey Flowers, Romeo Okwara, and the rest of the Lions front seven hit home on at least eight occasions.
