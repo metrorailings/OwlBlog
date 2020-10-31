@@ -237,6 +237,12 @@ Seahawks (34) @ **Cardinals** (37)
 49ers (4-3)  
 Seahawks (5-1)
 
+#### _Injuries_
+
+The Seahawks are hurting. Jamal Adams may actually end up making his debut this weekend, but Seattle will still be down two defensive backs in their secondary, including their main cornerback in Shaquill Griffin. Benson Mayowa, arguable their best pass rusher, will likely only be operating at half-speed should Carroll even activate him before the game.
+
+The 49ers are in decent shape. Though none of their longer-term injured players will be returning back to action this Sunday, safety Jimmie Ward will likely return after sitting out last week when San Francisco traveled to New England.
+
 #### _History_
 
 The Seahawks played the 49ers close in both of their matches last year, despite San Francisco going on a tear last year with a defense that suddenly emerged as the league's best.
@@ -252,7 +258,7 @@ Seahawks -3
 ***
 
 **Seattle covers if**  
-A motivated Russell Wilson coming off a loss cooks twice as hard against San Francisco's regressed defense. The Hawks linebackers also need to step up and show off their lateral speed against a 49ers offense that loves to incorporate the entire width of the field in their schemes.
+A motivated Russell Wilson coming off a loss cooks twice as hard against San Francisco's regressed defense. The Hawks linebackers also need to step up and show off their lateral speed against a 49ers offense that loves to incorporate the entire width of the field in their play concepts.
 
 **San Francisco covers if**  
 Jimmy Garoppalo can cook against Seattle's league-worst pass defense.
