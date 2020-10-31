@@ -27,7 +27,7 @@ Browns (5-2)
 
 #### _Injuries_
 
-On Cleveland's side, Baker's ribs still remain a point of concern. The loss of Odell Beckham Jr will have an impact in the passing game, regardless of what some idiots on ESPN think.
+On Cleveland's side, Baker's ribs still remain a point of concern. The loss of Odell Beckham Jr will have an impact in the passing game, regardless of what some idiots on ESPN think. Another injury worth noting here is that Myles Garrett will be playing with a bum ankle. Worrisome given he is Cleveland's best defensive player.
 
 Las Vegas is expected to come into this game pretty healthy.
 
