@@ -256,3 +256,5 @@ A motivated Russell Wilson coming off a loss cooks twice as hard against San Fra
 
 **San Francisco covers if**  
 Jimmy Garoppalo can cook against Seattle's league-worst pass defense.
+
+***
