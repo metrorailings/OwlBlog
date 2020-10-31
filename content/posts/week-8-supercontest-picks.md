@@ -220,3 +220,39 @@ their offensive line can give Rivers plenty of clean pockets from which to opera
 
 **Detroit covers if**  
 Trey Flowers, Romeo Okwara, and the rest of the Lions front seven hit home on at least eight occasions.
+
+***
+
+### 49ers @ Seahawks (-3)
+
+***
+
+#### _Latest Results_
+
+**49ers** (33) @ Patriots (6)  
+Seahawks (34) @ **Cardinals** (37)
+
+#### _Record_
+
+49ers (4-3)  
+Seahawks (5-1)
+
+#### _History_
+
+The Seahawks played the 49ers close in both of their matches last year, despite San Francisco going on a tear last year with a defense that suddenly emerged as the league's best.
+
+#### _Weather_
+
+Pretty good weather at mid-50s.
+
+***
+
+Seahawks -3
+
+***
+
+**Seattle covers if**  
+A motivated Russell Wilson coming off a loss cooks twice as hard against San Francisco's regressed defense. The Hawks linebackers also need to step up and show off their lateral speed against a 49ers offense that loves to incorporate the entire width of the field in their schemes.
+
+**San Francisco covers if**  
+Jimmy Garoppalo can cook against Seattle's league-worst pass defense.
