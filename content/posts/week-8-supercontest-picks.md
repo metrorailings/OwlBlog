@@ -205,6 +205,10 @@ The Lions fared poorly this year against teams with good tailbacks. The Colts ar
 
 The Colts have performed poorly against teams with decent pass coverage and at least one dominant pass rusher. Detroit may be one of those teams.
 
+#### _Weather_
+
+Not applicable, as the game is taking place in a dome.
+
 ***
 
 Colts -2.5
