@@ -75,7 +75,7 @@ The Bears will be missing key pieces on offense, namely receiver Allen Robinson 
 
 #### _History_
 
-Chicago has spent much of this season beating up on bad teams. Their two losses came against teams with decent defenses. New Orleans pass defense needs a bit of work, but the rushing defense is solid. Still, red zone possessions seem to be a death sentence for this defense, as New Orleans gives up touchdowns on over 80% of opponents' red zone trips. Then again, Chicago needs to move the ball down the field for that statistic to even play much a role in this game.
+Chicago has spent much of this season beating up on bad teams. Their two losses came against teams with decent defenses. New Orleans pass defense needs a bit of work, but the rushing defense is solid. Still, red zone possessions seem to be a death sentence for them, as New Orleans gives up touchdowns on over 80% of opponents' red zone trips. Then again, Chicago needs to move the ball down the field for that statistic to even play much a role in this game.
 
 #### _Weather_
 
@@ -117,7 +117,7 @@ For the Bills, Matt Milano's injuries doesn't help out a defense that has had is
 
 #### _History_
 
-Twice, the Patriots faced the Bills last year. Twice did they win by only one score. But that New England team was drastically different with Tom Brady at its helm. This year's Patriots squad is depressingly worse. The Bills (arguably) are better than they were last year.
+Twice, the Patriots faced the Bills last year. Twice did they win by only one score. But that New England team was dramatically different with Tom Brady at its helm. This year's Patriots squad is depressingly worse. The Bills (arguably) are better than they were last year.
 
 #### _Weather_
 
@@ -153,13 +153,13 @@ Bengals (1-5)
 
 #### _Injuries_
 
-Tennessee may not have Jadaveon Clowney ready for game day. Then again, that probably doesn't matter much.
+Tennessee may not have Jadaveon Clowney ready for game day. Then again, that probably doesn't matter much. 
 
-Cincinnati's issues are much more grave. Three of their starting offensive linemen have serious injuries. One's already been declared out. The good news is that their replacements didn't fail horribly when their cards were called last Sunday.
+Cincinnati's issues are much more grave. Three of their starting offensive linemen have serious injuries. All have been declared out. The good news is that their replacements didn't fail horribly when their cards were called last Sunday.
 
 #### _History_
 
-In a few ways, the Titans can be seen in the same light as the Browns - both are teams layering play-action concepts on top of zone-running schemes. Both organizations also feature terrible defenses.  
+In a few ways, the Titans can be seen in the same light as the Browns - both are teams layering play-action concepts on top of zone-running schemes. Both organizations also feature terrible defenses.
 
 The Bengals have faced the Browns twice and covered in both games. Though it's worth noting Ryan Tannehill is a far better quarterback than Baker Mayfield, so this comparison can only hold so much value.
 
