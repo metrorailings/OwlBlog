@@ -9,3 +9,23 @@ headline = "Week 8 Insights"
 Real talk - I think Teddy Bridgewater was still concussed during the Panthers last gasp drive. He wasn't right. He was taking too long to snap the ball and he was taking way too much time throwing the ball. It's like his processing time slowed incredibly after that brutal hit to his head.
 
 The Falcons winning this game doesn't mean much. Their red zone offense was just disgustingly inept. The offensive line still has issues. Not to mention the dice rolls were in their favor quite a bit tonight.
+
+***
+
+## Titans @ Bengals
+
+Cincinnati is just hilarious bad against the run.
+
+Joe Burrow is the real thing. Thanks to Tennessee's anemic pass rush, he's playing like an all-pro.
+
+***
+
+## Patriots @ Bills
+
+Patriots are a bit undermanned in the box, maybe cause of injury or lack of depth?
+
+***
+
+## Steelers @ Ravens
+
+Odd to see Ravens run the ball with some serious gusto against these Steelers. Not only is rookie tailback Dobbins impressive with his ability to break tackles and create yards after contact, but the outside zone blocking and Lamar's option runs have been money in the ground game. Kudos to Baltimore for doing what other teams couldn't against Pittsburgh.
