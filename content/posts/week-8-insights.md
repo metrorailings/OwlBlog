@@ -29,3 +29,11 @@ Patriots are a bit undermanned in the box, maybe cause of injury or lack of dept
 ## Steelers @ Ravens
 
 Odd to see Ravens run the ball with some serious gusto against these Steelers. Not only is rookie tailback Dobbins impressive with his ability to break tackles and create yards after contact, but the outside zone blocking and Lamar's option runs have been money in the ground game. Kudos to Baltimore for doing what other teams couldn't against Pittsburgh.
+
+***
+
+## Saints @ Bears
+
+Bears running the ball with more force, it seems.
+
+Foles was money on a deep throw to Darnell Mooney. Once again, it's the dig routes that the Saints cannot cover because their cornerbacks always insist on outside leverage.
