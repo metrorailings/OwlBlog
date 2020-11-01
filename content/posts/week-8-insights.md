@@ -30,6 +30,8 @@ Patriots are a bit undermanned in the box, maybe cause of injury or lack of dept
 
 Odd to see Ravens run the ball with some serious gusto against these Steelers. Not only is rookie tailback Dobbins impressive with his ability to break tackles and create yards after contact, but the outside zone blocking and Lamar's option runs have been money in the ground game. Kudos to Baltimore for doing what other teams couldn't against Pittsburgh.
 
+Hollywood Brown is not happy about his lack of touches.
+
 ***
 
 ## Saints @ Bears
@@ -37,3 +39,7 @@ Odd to see Ravens run the ball with some serious gusto against these Steelers. N
 Bears running the ball with more force, it seems.
 
 Foles was money on a deep throw to Darnell Mooney. Once again, it's the dig routes that the Saints cannot cover because their cornerbacks always insist on outside leverage. And as I write this, Foles throws another big pass to Allen Robinson.
+
+Brees got no power on his throws.
+
+Finally, it seems like the Bears are committing more to releasing the ball quicker. But the Time to Throw statistic this week will indicate whether the Bears are truly intent on getting rid of the ball quicker.
