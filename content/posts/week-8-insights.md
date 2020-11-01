@@ -36,4 +36,4 @@ Odd to see Ravens run the ball with some serious gusto against these Steelers. N
 
 Bears running the ball with more force, it seems.
 
-Foles was money on a deep throw to Darnell Mooney. Once again, it's the dig routes that the Saints cannot cover because their cornerbacks always insist on outside leverage.
+Foles was money on a deep throw to Darnell Mooney. Once again, it's the dig routes that the Saints cannot cover because their cornerbacks always insist on outside leverage. And as I write this, Foles throws another big pass to Allen Robinson.
