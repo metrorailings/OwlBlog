@@ -45,3 +45,5 @@ Brees got no power on his throws.
 Finally, it seems like the Bears are committing more to releasing the ball quicker. But the Time to Throw statistic this week will indicate whether the Bears are truly intent on getting rid of the ball quicker.
 
 Never mind, I take that back, this Bears offense still sucks dick like a $20 crack whore.
+
+***
