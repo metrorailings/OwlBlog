@@ -47,3 +47,9 @@ Finally, it seems like the Bears are committing more to releasing the ball quick
 Never mind, I take that back, this Bears offense still sucks dick like a $20 crack whore.
 
 ***
+
+## Colts @ Lions
+
+Romeo Okwara something special.
+
+Colts mixing up coverages on defense.
