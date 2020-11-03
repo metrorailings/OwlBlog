@@ -53,3 +53,7 @@ Never mind, I take that back, this Bears offense still sucks dick like a $20 cra
 Romeo Okwara something special.
 
 Colts mixing up coverages on defense. Single-high, cover-two, cover-four...
+
+Detroit doing very well against the run so far.
+
+Rivers may be smart, but his throws lack serious power and ambition.
