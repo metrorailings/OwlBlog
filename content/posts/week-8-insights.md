@@ -65,6 +65,12 @@ Good use of tempo by the Colts offense. Led to a touchdown where the Lions were 
 
 Denico Autry showing up big on one drive, singlehandedly killing a Lions drive by forcing a holding call and then following up with a sack.
 
-Naheem Hynes turning into an all-around weapon for the Colts. 
+Naheem Hynes turning into an all-around weapon for the Colts.
 
 Detroit's offensive line has serious issues, especially in pass protection.
+
+***
+
+## Vikings @ Packers
+
+Packers running their base offense against the Vikings - zone runs, bootlegs, jet motions...
