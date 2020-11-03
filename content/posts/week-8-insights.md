@@ -61,3 +61,5 @@ Rivers may be smart, but his throws lack serious power and ambition. Thankfully,
 Indy started seeing success in their ground game once they settled into their zone running.
 
 Love seeing Indy's offensive linemen sticking up for their quarterback.
+
+Good use of tempo by the Colts offense. Led to a touchdown where the Lions were caught completely off guard.
