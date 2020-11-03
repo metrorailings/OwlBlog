@@ -52,4 +52,4 @@ Never mind, I take that back, this Bears offense still sucks dick like a $20 cra
 
 Romeo Okwara something special.
 
-Colts mixing up coverages on defense.
+Colts mixing up coverages on defense. Single-high, cover-two, cover-four...
