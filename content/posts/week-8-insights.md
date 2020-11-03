@@ -57,3 +57,7 @@ Colts mixing up coverages on defense. Single-high, cover-two, cover-four...
 Detroit doing very well against the run so far.
 
 Rivers may be smart, but his throws lack serious power and ambition. Thankfully, Reich has been doing well incorporating some pretty creative concepts into the playbook to help the Colts move the ball.
+
+Indy started seeing success in their ground game once they settled into their zone running.
+
+Love seeing Indy's offensive linemen sticking up for their quarterback.
