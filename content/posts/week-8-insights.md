@@ -78,3 +78,5 @@ Packers running their base offense against the Vikings - zone runs, bootlegs, je
 Green Bay is just horrendous against the run, even when they line up in a traditional 3-4 defensive alignment.
 
 On a 3rd quarter drive, it was more the Vikings passing attack than it was Dalvin Cook that ultimately led to a touchdown.
+
+It's becoming clear to me that Green Bay wasn't as prepared in this game as the Vikings, likely in anticipation for their upcoming match against a 49er team that embarrassed them twice last year.
