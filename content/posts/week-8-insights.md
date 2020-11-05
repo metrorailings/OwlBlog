@@ -76,3 +76,5 @@ Detroit's offensive line has serious issues, especially in pass protection.
 Packers running their base offense against the Vikings - zone runs, bootlegs, jet motions...
 
 Green Bay is just horrendous against the run, even when they line up in a traditional 3-4 defensive alignment.
+
+On a 3rd quarter drive, it was more the Vikings passing attack than it was Dalvin Cook that ultimately led to a touchdown.
