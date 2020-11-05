@@ -80,3 +80,5 @@ Green Bay is just horrendous against the run, even when they line up in a tradit
 On a 3rd quarter drive, it was more the Vikings passing attack than it was Dalvin Cook that ultimately led to a touchdown.
 
 It's becoming clear to me that Green Bay wasn't as prepared in this game as the Vikings, likely in anticipation for their upcoming match against a 49er team that embarrassed them twice last year.
+
+A beautifully-timed screen pass on a 3rd-and-long from the Vikings went all the way to the end zone, as the Packers dropped most of their defense way past the sticks, anticipating Kirk Cousins would throw the ball.
