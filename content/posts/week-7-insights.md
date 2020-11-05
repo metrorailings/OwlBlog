@@ -65,6 +65,50 @@ Watching Chicago fail in running the ball between the tackles against these Rams
 
 This Bears offensive line doesn't hold up well against blitzes. I wonder about Carolina's blitz numbers against Chicago last week...
 
-Rams love their two-safety man coverage. Is this defense really any different from the type of defense Wade Phillips ran last year? Though then again, Wade loved to blitz.
+Rams love their two-safety man coverage. Is this defense really any different from the type of defense Wade Phillips ran last year? Though then again, Wade loved to blitz. The Rams new defensive coordinator seems much more controlled in that regard.
 
 Rams playing with so much more emotion coming off last week's loss. Aaron Donald even said they need to make up for playing "soft" last week.
+
+***
+
+## Browns @ Bengals
+
+Such a bad play call in the red zone led to an interception that ended a promising Bengals drive. Burrow could have played things better with his eyes, but it was still a bad play call.
+
+Zac Taylor equating short passes to runs is laughable. Hopefully, the Bengals have the good sense to fire him at the end of the season.
+
+Cleveland being hit with quite a few penalties in the first quarter, indicating a lack of discipline.
+
+Joe Woods throwing all sorts of blitzes at Cincinnati and the Bengals are failing to adequately pick them up.
+
+Cleveland so creative with their misdirection plays. Also, good work by Cleveland's coaches in the middle of the second quarter, opting to rely less on Mayfield's pocket passing, instead going back to their bread and butter to finally get things going.
+
+Cincinnati doing much better against Cleveland's rushing attacks, though the Browns tailbacks have managed to eat on a few downs.
+
+Harrison Bryant emerging as a steady option in the passing game for Baker Mayfield.
+
+Baker slowly gaining confidence passing from the pocket.
+
+Cleveland's passing coverage has been a sieve. Cincinnati's pass coverage isn't that much better. Lots of yardage being given up to tight ends.
+
+Cleveland sickens me sometimes with its lack of of discipline. Denzel Ward out there throwing punches for some reason.
+
+Joe Burrow is something special. Surprising to see Cincinnati incorporate the read option with Burrow given all the pressure he goes through.
+
+***
+
+## Steelers @ Titans
+
+Tennessee's play action game destroyed Pittsburgh's cover-three scheme on one play.
+
+Excellent use of a jailbreak blitz on a third and long by the Titans, knowing full well that such a blitz would likely force the ball out of Ben's hands quicker.
+
+Pittsburgh's interior defensive line has some chops.
+
+Roethlisberger and his love of underneath routes is worrying...
+
+Great turnaround defense from the Steelers following a Roethlisberger interception.
+
+Theoretically, play action should work well against a Steelers defense with overly aggressive linebackers. In fact, the Titans two best plays halfway through the second half have been both off play-action.
+
+Titans are finally able to get Derrick Henry going with the hurry-up offense.
