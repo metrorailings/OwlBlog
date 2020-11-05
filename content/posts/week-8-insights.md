@@ -74,3 +74,5 @@ Detroit's offensive line has serious issues, especially in pass protection.
 ## Vikings @ Packers
 
 Packers running their base offense against the Vikings - zone runs, bootlegs, jet motions...
+
+Green Bay is just horrendous against the run, even when they line up in a traditional 3-4 defensive alignment.
