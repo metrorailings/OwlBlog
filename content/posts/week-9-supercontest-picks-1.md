@@ -28,7 +28,7 @@ Buccaneers (6-2)
 
 The Saints find themselves worrying about their quarterback. Brees has been listed on the injury report this week with a right shoulder injury. That's also his throwing shoulder. Brees has been playing soft as is, refusing to throw the ball down the field. An injury won't be helping his cause.
 
-For the Bucs, a few key piece of their offense are banged up, notably Chris Godwin and Scotty Miller. It's possible Godwin will be sidelined for the game. 
+For the Bucs, a few key piece of their offense are banged up, notably Chris Godwin and Scotty Miller. It's possible Godwin will be sidelined for the game.
 
 #### _History_
 
@@ -47,7 +47,7 @@ Buccaneers -3
 ***
 
 **Tampa Bay covers if**  
-their defense can limit Kamara.
+their defense (in recognizing this game is critical towards winning the division) manages to limit Kamara's production.
 
 **New Orleans covers if**  
 Alvin Kamara goes off and Drew Brees is solid on short and intermediate passes despite his bum shoulder.
