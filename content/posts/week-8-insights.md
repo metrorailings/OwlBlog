@@ -90,3 +90,9 @@ A beautifully-timed screen pass on a 3rd-and-long from the Vikings went all the 
 Chargers running on second-and-forever midway through the 4th quarter.
 
 Los Angeles not showing enough confidence in itself in a tough road situation.
+
+Denver's rushing defense still remains one of the league's best.
+
+Once again, Chargers, runs and short routes will not cut the mustard here when you're behind the sticks by 20 yards.
+
+Drew Lock is truly a terrible quarterback. But the Chargers are just terrible in blowing leads.
