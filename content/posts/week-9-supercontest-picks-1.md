@@ -47,7 +47,7 @@ Buccaneers -3
 ***
 
 **Tampa Bay covers if**  
-their defense (in recognizing this game is critical towards winning the division) manages to limit Kamara's production.
+their defense (in recognizing this game is critical towards winning the division) manages to limit Kamara's production. It would also help if Antonio Brown's debut as a Buccaneer excites this offense into running up the score.
 
 **New Orleans covers if**  
 Alvin Kamara goes off and Drew Brees is solid on short and intermediate passes despite his bum shoulder.
