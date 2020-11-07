@@ -223,3 +223,41 @@ Indianapolis is not prepared enough to deal with the myriad of ways the Ravens l
 
 **Indianapolis covers if**  
 Lamar folds yet again, as he has a habit of doing against really good teams. 
+
+***
+
+### Dolphins @ Cardinals (-5)
+
+***
+
+#### _Latest Results_
+
+Rams (17) @ **Dolphins** (28)  
+BYE - Seahawks (34) @ **Cardinals** (37)
+
+#### _Record_
+
+Dolphins (4-3)  
+Cardinals (5-2)
+
+#### _Injuries_
+
+The Dolphins will be without their two preferred options at tailback. The disappointing Jordan Howard will be starting instead at halfback. Otherwise, the rest of the team will be present, though the defense is nicked up.
+
+Arizona's biggest injury is arguably to Budda Baker. Budda Baker went through thumb surgery just recently, so while he's still expected to play, his efficacy on the field may be limited.
+
+#### _History_
+
+Arizona hasn't faced a truly dominant passing defense. Meanwhile, Miami's history only means so much here given that it's only Tua's second start in the professional leagues.
+
+#### _Weather_
+
+Not applicable, as it's in a dome.
+
+***
+
+Cardinals -5
+
+***
+
+**Arizona covers if**
