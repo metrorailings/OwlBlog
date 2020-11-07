@@ -112,6 +112,12 @@ Jets (9) @ **Chiefs** (35)
 Panthers (3-5)  
 Chiefs (7-1)
 
+#### _Injuries_
+
+Carolina may be missing their best defensive back in rookie safety Jeremy Chinn. Not a good thing considering Carolina's secondary is generally seen as their biggest weakness.
+
+The Chiefs will likely be missing their right tackle Mitchell Schwartz.
+
 #### _History_
 
 Arguably, the Panthers have yet to face a truly explosive offense this year. Still, they've faced teams that relied on man coverage, and the results have been iffy to say the least. Chicago was able to stifle their short routes with man coverage.
