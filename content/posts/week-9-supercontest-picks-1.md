@@ -139,3 +139,27 @@ the Panthers handily win time of possession.
 
 **Kansas City covers if**  
 Time of possession is more equitably split between the two teams.
+
+***
+
+### Raiders @ Chargers (PK)
+
+***
+
+#### _Latest Results_
+
+**Raiders** (16) @ Browns (6)  
+Chargers (30) @ **Broncos** (31)
+
+#### _Record_
+
+Raiders (4-3)  
+Chargers (2-5)
+
+#### _Injuries_
+
+#### _History_
+
+#### _Weather_
+
+***
