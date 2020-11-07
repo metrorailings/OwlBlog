@@ -180,7 +180,7 @@ Raiders PK
 Time of possession is sharply in their favor yet again.
 
 **Los Angeles covers if**  
-Justin Herbert has more than enough opportunities to score against a questionable Raiders secondary.
+Justin Herbert has more than enough opportunities to score against a shoddy Raiders defense. It would also help tremendously if the Chargers played to win instead of playing not to lose.
 
 ***
 
