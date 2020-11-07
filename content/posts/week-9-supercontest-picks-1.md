@@ -91,7 +91,7 @@ Jaguars +7
 ***
 
 **Jacksonville covers if**  
-The Texans underestimate Jake Luton and allow him to connect on some deep throws. The Jaguars also need to play better defensively this time around - Josh Allen's presence in this game should be a boon in that regard given that he was absent from their first meeting. 
+The Texans underestimate Jake Luton and allow him to connect on some deep throws. The Jaguars also need to play better defensively this time around - Josh Allen's presence in this game should be a boon in that regard given that he was absent from their first meeting.
 
 **Houston covers if**  
 Jake Luton turns out to be an absolute bust in his first NFL outing.
@@ -158,8 +158,24 @@ Chargers (2-5)
 
 #### _Injuries_
 
+For the Raiders, multiple offensive linemen are banged up. Both starting tackles right now remain questionable to play. Just as worrisome, Josh Jacobs has been dealing with multiple issues this week, so his durability needs to be questioned as well.
+
+The Chargers are down their best defensive player in Joey Bosa. Casey Heyward may be out too, for reasons unknown.   
+
 #### _History_
 
 #### _Weather_
 
 ***
+
+Raiders PK
+
+***
+
+**Las Vegas covers if**
+
+**Los Angeles covers if**
+
+***
+
+### Ravens @ Colts (PK)
