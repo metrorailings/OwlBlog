@@ -168,7 +168,7 @@ The Chargers and the Raiders will be facing each other for the first time this y
 
 #### _Weather_
 
-N/A
+Not applicable, as it's a dome game
 
 ***
 
@@ -176,9 +176,11 @@ Raiders PK
 
 ***
 
-**Las Vegas covers if**
+**Las Vegas covers if**  
+Time of possession is sharply in their favor yet again.
 
-**Los Angeles covers if**
+**Los Angeles covers if**  
+Justin Herbert has more than enough opportunities to score against a questionable Raiders secondary.
 
 ***
 
