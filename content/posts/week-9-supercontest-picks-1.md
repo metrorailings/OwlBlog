@@ -114,6 +114,22 @@ Chiefs (7-1)
 
 #### _History_
 
-Arguably, the Panthers have yet to face a truly explosive offense this year. Still, they have faced teams that relied on man coverage, and the results have been iffy to say the least. Chicago was able to stifle their short routes with man coverage.
+Arguably, the Panthers have yet to face a truly explosive offense this year. Still, they've faced teams that relied on man coverage, and the results have been iffy to say the least. Chicago was able to stifle their short routes with man coverage.
 
-Kansas City hasn't fared well against teams that run the ball well either. Las Vegas handed them their only loss largely because the Raiders were able to donate time of possession with their ground game.
+Kansas City hasn't fared well against teams that run the ball well either. Las Vegas handed them their only loss largely because the Raiders were able to control time of possession with their ground game. It could be argued New England could have beaten Kansas with their ground game as well if they just featured a quarterback that hadn't been lobotomized.
+
+#### _Weather_
+
+Lovely day to play some football
+
+***
+
+Panthers +10.5
+
+***
+
+**Carolina covers if**  
+the Panthers handily win time of possession.
+
+**Kansas City covers if**  
+Time of possession is more equitably split between the two teams.
