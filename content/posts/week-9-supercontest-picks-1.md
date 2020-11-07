@@ -260,4 +260,8 @@ Cardinals -5
 
 ***
 
-**Arizona covers if**
+**Arizona covers if**  
+the Cardinals and their blitz packages gives Tua hell in his first road start.
+
+**Miami covers if**  
+the Dolphins are able to muster just enough of a rushing game with Jordan Howard and the defense plays sensationally against an offense that loves to send its quarterback out on option runs in spread formation.
