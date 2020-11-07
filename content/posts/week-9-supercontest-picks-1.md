@@ -184,7 +184,7 @@ Justin Herbert has more than enough opportunities to score against a shoddy Raid
 
 ***
 
-### Ravens @ Colts (PK)
+### Ravens @ Colts (+2.5)
 
 ***
 
@@ -214,7 +214,7 @@ Not applicable, as it's a dome game.
 
 ***
 
-Ravens PK
+Ravens -2.5
 
 ***
 
