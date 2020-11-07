@@ -164,7 +164,11 @@ The Chargers are down their best defensive player in Joey Bosa. Casey Heyward ma
 
 #### _History_
 
+The Chargers and the Raiders will be facing each other for the first time this year. Last year's games between these two only carry so much relevance, as Philip Rivers was the starting quarterback for Los Angeles. 
+
 #### _Weather_
+
+N/A
 
 ***
 
