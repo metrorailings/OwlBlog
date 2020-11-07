@@ -185,3 +185,41 @@ Justin Herbert has more than enough opportunities to score against a shoddy Raid
 ***
 
 ### Ravens @ Colts (PK)
+
+***
+
+#### _Latest Results_
+
+**Steelers** (28) @ Ravens (24)  
+**Colts** (41) @ Lions (21)
+
+#### _Record_
+
+Ravens (5-2)  
+Colts (5-2)
+
+#### _Injuries_
+
+The Ravens are dangerously thin on the secondary as long as Marlon Humphrey and Jimmy Smith are out. Not to mention their offense sustained a heavy blow with the season-ending injury to Ronnie Stanley. The mental strength of this Baltimore squad will be tested on the road.
+
+For the Colts, we have two notable injuries, Mo-Alie Cox and T.Y. Hilton. Honestly, Mo-Alie Cox is a bigger hit to this team than Hilton. Indianapolis's offense runs so much more through their tight ends and tailbacks than their wide receivers.
+
+#### _History_
+
+The Ravens have beaten up on a bunch of lightweights this season, so comparables will be hard to find. Same with Indianapolis. The Colts haven't faced a team that blitzes above 30% of their defensive snaps (besides the Jets, who don't count).
+
+#### _Weather_
+
+Not applicable, as it's a dome game.
+
+***
+
+Ravens PK
+
+***
+
+**Baltimore covers if**  
+Indianapolis is not prepared enough to deal with the myriad of ways the Ravens love to pressure the quarterback. A possibility, given Indianapolis is also preparing for another game in a few days that may determine control of the division.
+
+**Indianapolis covers if**  
+Lamar folds yet again, as he has a habit of doing against really good teams. 
