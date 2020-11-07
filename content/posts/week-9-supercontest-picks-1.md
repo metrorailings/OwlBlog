@@ -54,4 +54,46 @@ Alvin Kamara goes off and Drew Brees is solid on short and intermediate passes d
 
 ***
 
-### 
+### Texans @ Jaguars (+7)
+
+***
+
+#### _Latest Results_
+
+BYE - **Packers** (35) @ Texans (20)  
+BYE - Jaguars (29) @ **Chargers** (39)
+
+#### _Record_
+
+Texans (1-6)  
+Jaguars (1-6)
+
+#### _Injuries_
+
+With Gardner Minshew recovering from a serious thumb injury, late round rookie Jake Luton will be taking over at the helm of the offense.
+
+On the other side, Houston will be missing the services of their starting linebackers this Sunday due to possible COVID exposure. Benardrick McKinney is also out due to injury.
+
+#### _History_
+
+The Jaguars and Texans met earlier this year. Jacksonville honestly didn't play all too shabby either - Houston only covered thanks to two turnovers, one by downs and one by fumble.
+
+One note of caution though - that game featured Gardner Minshew as Jacksonville's quarterback.
+
+#### _Weather_
+
+Balmy with some considerable humidity.
+
+***
+
+Jaguars +7
+
+***
+
+**Jacksonville covers if**  
+The Texans underestimate Jake Luton and allow him to connect on some deep throws. The Jaguars also need to play better defensively this time around - Josh Allen's presence in this game should be a boon in that regard given that he was absent from their first meeting. 
+
+**Houston covers if**  
+Jake Luton turns out to be an absolute bust in his first NFL outing.
+
+***
