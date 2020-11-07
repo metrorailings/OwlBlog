@@ -97,3 +97,23 @@ The Texans underestimate Jake Luton and allow him to connect on some deep throws
 Jake Luton turns out to be an absolute bust in his first NFL outing.
 
 ***
+
+### Panthers @ Chiefs (-10.5)
+
+***
+
+#### _Latest Results_
+
+**Falcons** (25) @ Panthers (17)  
+Jets (9) @ **Chiefs** (35)
+
+#### _Record_
+
+Panthers (3-5)  
+Chiefs (7-1)
+
+#### _History_
+
+Arguably, the Panthers have yet to face a truly explosive offense this year. Still, they have faced teams that relied on man coverage, and the results have been iffy to say the least. Chicago was able to stifle their short routes with man coverage.
+
+Kansas City hasn't fared well against teams that run the ball well either. Las Vegas handed them their only loss largely because the Raiders were able to donate time of possession with their ground game.
