@@ -7,3 +7,5 @@ headline = "Week 9 Insights"
 ## Giants @ Washington
 
 For the first time this season, the Giants are running the ball with some serious passion. Alfred Morris is gashing this Washington defense between the tackles.
+
+Landon Collins understudy on the Washington defense may be a point of weakness.
