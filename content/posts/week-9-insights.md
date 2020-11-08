@@ -16,4 +16,18 @@ Landon Collins understudy on the Washington defense may be a point of weakness.
 
 Cardinals love to play up-tempo.
 
-Arizona's defensive line stupidly gifting yards to the Miami offense here, despite Tua playing pretty terribly.
+Arizona's defensive line stupidly gifting yards to the Miami offense here, despite Tua playing pretty terribly. Sloppy play may be the theme of this defense.
+
+So much for Arizona having the best red zone defense in the league.
+
+It's clear the Dolphins except the Cardinals to run on first down most of the time. And that seems to be the case too.
+
+Kyler Murray really prefers throwing deep balls over short passes too.
+
+***
+
+## Steelers @ Cowboys
+
+Goes without saying yet again, but Pollard is so much more explosive compared to Zeke Elliott.
+
+Steelers have a hard time containing runs starting from spread formations.
