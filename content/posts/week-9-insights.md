@@ -67,3 +67,7 @@ Josh Allen's grandmother passed away yesterday. He may be playing with a fury to
 Odd for Russell Wilson to throw a ball to David Moore with Tre'Davious White in coverage...
 
 Seattle likes to blitz. Those blitzes aren't really hitting home.
+
+Good discipline by the Bills defense on a critical 4th down. Also helps that Buffalo seems to be winning its battles along the middle of the trenches.
+
+Seattle playing quite a bit of nickel defense against Buffalo. Apparently, the team is respecting the Bills passing game more than its ground game. 
