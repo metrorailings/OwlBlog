@@ -57,3 +57,9 @@ Lavonte David, on more than one occasion, was caught with his pants down at the 
 You know, I suppose it's hard to sell the fighting spirit to a team when they're a decisive favorite to win the game, period. Tampa Bay needed this game badly in order to win favorable seeding and they're out there acting as if this is just a preseason outing.
 
 Trey Hendrickson and Marcus Davenport showing themselves as serious pass rushers.
+
+***
+
+## Seahawks @ Bills
+
+Josh Allen's grandmother passed away yesterday. He may be playing with a fury today.
