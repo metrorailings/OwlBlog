@@ -30,6 +30,8 @@ Tua's running ability has been absolutely critical on one drive that ended in a 
 
 Arizona's blitzing packages put quite a bit of pressure on their secondary, especially if a defensive back is the one vacating his position to try and pressure the quarterback. Arizona's second-string defensive backs are having serious issues trying to compensate on the pass coverage on these blitz attempts.
 
+These Cardinals are so damn predictable with their first-down runs. When are you going to cash in on that predictability with a surprise bootleg or something? 
+
 ***
 
 ## Steelers @ Cowboys
