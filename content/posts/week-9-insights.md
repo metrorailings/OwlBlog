@@ -47,3 +47,5 @@ Steelers have a hard time containing runs starting from spread formations.
 Saints offensive line has dominated Tampa Bay's pass rushers.
 
 Arians and his teams need to always have their heart called into question. The Buccaneers simply aren't fighting for the win here. New Orleans has been the one playing this game with more purpose. How do you let Brees distribute this ball to 8 different receivers in the first quarter?
+
+Zone defense simply doesn't get it done against Drew Brees.
