@@ -70,4 +70,6 @@ Seattle likes to blitz. Those blitzes aren't really hitting home.
 
 Good discipline by the Bills defense on a critical 4th down. Also helps that Buffalo seems to be winning its battles along the middle of the trenches.
 
-Seattle playing quite a bit of nickel defense against Buffalo. Apparently, the team is respecting the Bills passing game more than its ground game. Either that or its putting more defensive backs on the field to help its coverage on blitzes. It doesn't seem to matter much though, because Seattle's lack of pass rush is giving Allen time to find open receivers.
+Seattle playing quite a bit of nickel defense against Buffalo. Apparently, the team is respecting the Bills passing game more than its ground game. Either that or they're putting more defensive backs on the field to help its coverage on blitzes. It doesn't seem to matter much though, because Seattle's lack of pass rush is giving Allen time to find open receivers.
+
+DK Metcalf is a beast. Goes without saying.
