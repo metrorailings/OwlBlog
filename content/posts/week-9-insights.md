@@ -65,3 +65,5 @@ Trey Hendrickson and Marcus Davenport showing themselves as serious pass rushers
 Josh Allen's grandmother passed away yesterday. He may be playing with a fury today.
 
 Odd for Russell Wilson to throw a ball to David Moore with Tre'Davious White in coverage...
+
+Seattle likes to blitz. Those blitzes aren't really hitting home.
