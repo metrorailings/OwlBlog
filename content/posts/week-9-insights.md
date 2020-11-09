@@ -39,3 +39,9 @@ These Cardinals are so damn predictable with their first-down runs. When are you
 Goes without saying yet again, but Pollard is so much more explosive compared to Zeke Elliott.
 
 Steelers have a hard time containing runs starting from spread formations.
+
+***
+
+## Saints @ Buccaneers
+
+Saints offensive line has dominated Tampa Bay's pass rushers.
