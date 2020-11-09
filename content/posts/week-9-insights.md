@@ -51,3 +51,9 @@ Arians and his teams need to always have their heart called into question. The B
 Zone defense simply doesn't get it done against Drew Brees.
 
 Tampa Bay might have read way too many of their press clippings before the game.
+
+Lavonte David, on more than one occasion, was caught with his pants down at the snap because he was too busy trying to shuffle defenders into place. Something tells me this team didn't do much to prepare for this game.
+
+You know, I suppose it's hard to sell the fighting spirit to a team when they're a decisive favorite to win the game, period. Tampa Bay needed this game badly in order to win favorable seeding and they're out there acting as if this is just a preseason outing.
+
+Trey Hendrickson and Marcus Davenport showing themselves as serious pass rushers.
