@@ -24,3 +24,14 @@ Be careful picking hyped favorites.
 BYE - **Raiders** (16) @ Browns (6)
 
 #### _Record_
+
+Texans (2-6)  
+Browns (5-3)
+
+#### _Injuries_
+
+#### _History_
+
+Every time the Texans face a team that love to run the ball, it doesn't end well. Baltimore, Minnesota, and Tennessee have consistently shown this Texans defense to be nothing but frauds when it comes to stopping the run.
+
+Similarly, the Browns have their own demons when it comes to pass coverage. Cleveland hasn't really shown itself very capable of shutting down capable passers, as we saw in their contests against the Bengals. So Deshaun Watson and his ragtag band of receivers should have their moments against this shoddy Cleveland secondary. Then again, their sad outing against Jacksonville last week doesn't inspire much confidence... 
