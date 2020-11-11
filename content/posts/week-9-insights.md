@@ -92,3 +92,13 @@ Shit execution from the Raiders back-up left tackle on a 3rd down screen.
 The Chargers and their two-minute offense is predicated on dump-off passes to the halfback.
 
 How is the Chargers offensive line so bad in hurry-up situations?
+
+***
+
+## Patriots @ Jets
+
+Patriots have little in the way of serviceable defense against power rushes.
+
+Jets are winning the toughness battle, so far.
+
+JC Jackson showing some flashes of brilliance, though he has given up a few plays as well in coverage.
