@@ -29,7 +29,7 @@ Tua's running ability has been absolutely critical on one drive that ended in a 
 
 Arizona's blitzing packages put quite a bit of pressure on their secondary, especially if a defensive back is the one vacating his position to try and pressure the quarterback. Arizona's second-string defensive backs are having serious issues trying to compensate on the pass coverage on these blitz attempts.
 
-These Cardinals are so damn predictable with their first-down runs. When are you going to cash in on that predictability with a surprise bootleg or something? 
+These Cardinals are so damn predictable with their first-down runs. When are you going to cash in on that predictability with a surprise bootleg or something?
 
 ***
 
@@ -74,3 +74,15 @@ Seattle playing quite a bit of nickel defense against Buffalo. Apparently, the t
 DK Metcalf is a beast. Goes without saying.
 
 These Seahawk corners give waaaay too much space to these Bill receivers.
+
+***
+
+## Raiders @ Chargers
+
+Chargers are gashing these Raiders with their run game early in the 4th quarter.
+
+Pretty flaccid play-calling from the Chargers on a comeback drive, though the play that resulted in a touchdown was nicely set up - a throw against the grain coming out of a bootleg.
+
+Carr with a horrible decision to throw deep to Waller in tight coverage when an underneath route would have been more than enough to net a first down.
+
+Chargers playing a good bit of cover-three defense.
