@@ -88,3 +88,5 @@ Carr with a horrible decision to throw deep to Waller in tight coverage when an 
 Chargers playing a good bit of cover-three defense.
 
 Shit execution from the Raiders back-up left tackle on a 3rd down screen.
+
+The Chargers and their two-minute offense is predicated on dump-off passes to the halfback.
