@@ -86,3 +86,5 @@ Pretty flaccid play-calling from the Chargers on a comeback drive, though the pl
 Carr with a horrible decision to throw deep to Waller in tight coverage when an underneath route would have been more than enough to net a first down.
 
 Chargers playing a good bit of cover-three defense.
+
+Shit execution from the Raiders back-up left tackle on a 3rd down screen.
