@@ -3,6 +3,12 @@ date = 2020-11-08T12:00:00Z
 headline = "Week 9 Insights"
 
 +++
+## Packers @ 49ers
+
+Nick Mullens showing some potential on a touchdown drive.
+
+***
+
 ## Giants @ Washington
 
 For the first time this season, the Giants are running the ball with some serious passion. Alfred Morris is gashing this Washington defense between the tackles.
@@ -102,3 +108,5 @@ Patriots have little in the way of serviceable defense against power rushes.
 Jets are winning the toughness battle, so far.
 
 JC Jackson showing some flashes of brilliance, though he has given up a few plays as well in coverage.
+
+The Patriots have all sorts of runs in their playbook, but the ground game still seems like a shell of itself without Cam playing an integral role.
