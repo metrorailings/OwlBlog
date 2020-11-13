@@ -7,6 +7,8 @@ headline = "Week 9 Insights"
 
 Nick Mullens showing some potential on a touchdown drive.
 
+Worth noting - the 49ers are moving the ball early on this Packers defense. It was some intense pressure that led to Nick Mullens throwing a duck towards a defender that killed a potentially rewarding drive.
+
 ***
 
 ## Giants @ Washington
