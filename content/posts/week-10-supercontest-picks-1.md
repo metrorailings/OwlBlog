@@ -30,8 +30,30 @@ Browns (5-3)
 
 #### _Injuries_
 
+For the Texans, their starting left guard has been ruled out. Concerning for a team that struggles enough as is protecting their quarterback.
+
+The Browns are in better shape, though a few pieces of their offensive line remain beat up. Nick Chubb may quite possibly make his return this week after being sidelined the past couple weeks. Should he be activated, his snaps will likely be heavily limited, so his impact on the game will likely be minimal.
+
 #### _History_
 
 Every time the Texans face a team that love to run the ball, it doesn't end well. Baltimore, Minnesota, and Tennessee have consistently shown this Texans defense to be nothing but frauds when it comes to stopping the run.
 
-Similarly, the Browns have their own demons when it comes to pass coverage. Cleveland hasn't really shown itself very capable of shutting down capable passers, as we saw in their contests against the Bengals. So Deshaun Watson and his ragtag band of receivers should have their moments against this shoddy Cleveland secondary. Then again, their sad outing against Jacksonville last week doesn't inspire much confidence - the Texans as a whole are an organization in serious need of outside intervention. 
+Similarly, the Browns have their own demons when it comes to pass coverage. Cleveland hasn't really shown itself very capable of shutting down capable passers, as we saw in their two contests against the Bengals. So Deshaun Watson and his ragtag band of receivers should have their moments against this shoddy Cleveland secondary. Then again, their sad outing against Jacksonville last week doesn't inspire much confidence - the Texans as a whole are an organization in serious need of outside intervention.
+
+#### _Weather_
+
+Cool 50-degree weather, but dangerous winds will be ripping across Cleveland on game day.
+
+***
+
+Browns -3
+
+***
+
+**Cleveland covers if**  
+The Browns run roughshod all over Houston's demoralized defense.
+
+**Houston covers if**  
+Deshaun Watson and his receivers play at a high level in spite of the wind. To this end, Duke Johnson starting at tailback instead of David Johnson should help.
+
+***
