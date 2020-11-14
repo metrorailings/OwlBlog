@@ -136,7 +136,7 @@ Giants +3.5
 ***
 
 **New York covers if**  
-the Giants can run the ball with some efficiency and Daniel Jones doesn't turn over the ball more than once.
+the Giants can run the ball with some efficiency and Daniel Jones doesn't turn the ball over more than once.
 
 **Philadelphia covers if**  
 the combination of Alshon Jeffery, Miles Sanders, Jalen Reagor, and Dallas Goedert gives this offense some much-needed life.  
@@ -209,7 +209,7 @@ The Chargers are fairly healthy, but they will be missing their best player on d
 
 #### _History_
 
-It's hard to draw comparisons between these two teams. Miami is just starting their third game with Tua as their quarterback. And it's hard to ascribe any definitive identity to their defensive unit, as its been built more as a hybrid defense capable of shifting identities from week to week. Still,  the Chargers did face a similarly complex defense not too long ago in Denver, and it looks like Herbert fared pretty well.
+It's hard to draw comparisons between these two teams. Miami is just starting their third game with Tua as their quarterback. And it's hard to ascribe any definitive identity to their defensive unit, as its been built more as a hybrid defense capable of shifting identities on a weekly basis. Still, the Chargers did face a similarly complex defense not too long ago in Denver, and it looks like Herbert fared pretty well.
 
 #### _Weather_
 
@@ -222,10 +222,10 @@ Dolphins -2
 ***
 
 **Miami covers if**  
-the inside corners and the safeties of the Dolphins hold up serviceable against Justin Herbert and the team can channel that winning spirit to close out this game should Herbert try to make a last-minute comeback.
+the inside corners and the safeties of the Dolphins perform serviceably against Justin Herbert and the team can channel that winning spirit to close out this game should Herbert try to stage a last-minute comeback.
 
 **Los Angeles covers if**  
-the team can finally shirk the losing mentality that's been plaguing them the past several weeks.
+the team can finally shirk that losing mentality that's been plaguing them the past several weeks.
 
 ***
 
