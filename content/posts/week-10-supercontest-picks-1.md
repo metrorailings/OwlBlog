@@ -206,3 +206,9 @@ Dolphins (5-3)
 Miami loses two starters along their defensive front seven to the COVID-19 bug this week.
 
 The Chargers are fairly healthy, but they will be missing their best player on defense yet again. Without Bosa on the field, the pass rush really suffers.
+
+#### _History_
+
+It's hard to draw comparisons between these two teams. Miami is just starting their third game with Tua as their quarterback. Their defense can best best described as a hybrid defense rooted in complexity. The last time the Chargers faced a complex defense.
+
+***
