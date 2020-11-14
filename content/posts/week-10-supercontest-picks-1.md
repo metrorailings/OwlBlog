@@ -178,9 +178,31 @@ Broncos +5
 ***
 
 **Denver covers if**  
-Drew Lock hits on a few deep balls while Philip Lindsay keeps the ground game humming against a soft Raiders defensive front.   
+Drew Lock hits on a few deep balls while Philip Lindsay keeps the ground game humming against a soft Raiders defensive front.  
 \- OR -  
 the offense stages yet another furious comeback in the fourth quarter in a bid to try and win the game.
 
 **Las Vegas covers if**  
-the Raiders can still play at an emotionally high level after a succession of wins against significant opponents. The ground game also needs to get going here, as Josh Jacobs will be called upon to close out this game and prevent the Broncos from racking up garbage-time points. 
+the Raiders can still play at an emotionally high level after a succession of wins against significant opponents. The ground game also needs to get going here, as Josh Jacobs will be called upon to close out this game and prevent the Broncos from racking up garbage-time points.
+
+***
+
+### Chargers @ Dolphins (-2)
+
+***
+
+#### _Latest Results_
+
+**Raiders** (31) @ Chargers (26)
+
+**Dolphins** (34) @ Cardinals (31)
+
+#### _Record_
+
+Chargers (2-6)
+
+Dolphins (5-3)
+
+#### _Injuries_
+
+Miami loses two auxiliary elements to their pass rush to the COVID-19 bug this week.
