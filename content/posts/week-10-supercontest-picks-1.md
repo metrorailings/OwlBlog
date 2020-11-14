@@ -245,10 +245,24 @@ Rams (5-3)
 
 #### _Injuries_
 
-The Seahawks are down both of their starting cornerbacks and their center. Not good for a team that runs a cover-three look as their base defense.
+The Seahawks are down both of their starting cornerbacks and their center. Not good for a team that runs a cover-three look as their base defense. Judging from last week though, it's likely Carroll will have enough sense to employ a nickel package as his base defense against the Rams. 
 
 Rams are pretty healthy coming off the bye.
 
 #### _History_
 
 These two teams met up twice last year, and the results weren't that great for Seattle. Seattle barely edged out the Rams in their first meeting. Los Angeles returned the favor with a blowout in their second match.
+
+One thing worth noting is that it seems Seattle has a hard time harassing Jared Goff last year - the defense notched only four hits on him last year in that second game. The Dolphins, on the other hand, posted nine hits on the schmuck in their rout over Los Angeles two weeks ago.
+
+***
+
+Rams -2
+
+***
+
+**Los Angeles covers if**  
+Jared Goff is given enough time in the pocket to check the runners on first and third.
+
+**Seattle covers if**  
+Jarred Reed, Carlos Dunlap, and Jamal Adams step up big and harangue Goff to the point where the Rams offense becomes dysfunctional. Certainly possible if Pete Carroll took a few pointers from the Dolphins and the way they dismantled Los Angeles just a few weeks earlier.  
