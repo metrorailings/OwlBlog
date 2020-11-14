@@ -228,3 +228,17 @@ the inside corners and the safeties of the Dolphins hold up serviceable against 
 the team can finally shirk the losing mentality that's been plaguing them the past several weeks.
 
 ***
+
+### Seahawks @ Rams (-1.5)
+
+***
+
+#### _Latest Results_
+
+Seahawks (34) @ **Bills** (34)  
+BYE - Rams (17) @ **Dolphins** (28)
+
+#### _Record_
+
+Seahawks (6-2)  
+Rams (5-3)
