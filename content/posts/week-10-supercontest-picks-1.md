@@ -144,3 +144,43 @@ the combination of Alshon Jeffery, Miles Sanders, Jalen Reagor, and Dallas Goede
 their defensive line can force ugly turnovers from Daniel Jones.
 
 ***
+
+### Broncos @ Raiders (-5)
+
+***
+
+#### _Latest Results_
+
+Broncos (27) @ **Falcons** (34)  
+**Raiders** (31) @ Chargers (26)
+
+#### _Record_
+
+Broncos (3-5)  
+Raiders (5-3)
+
+#### _Injuries_
+
+The Broncos can expect both of their starting cornerbacks to return this Sunday, a very positive development given all the receiving weapons the Raiders are expected to field. Their lackluster offensive line is banged up though. More troubling, so is Jerry Jeudy.
+
+Las Vegas may need to reconstruct the left part of the offensive line come game day. Left tackle Kolton Miller is definitively out and left guard Gabe Jackson may be joining him as well if whatever's ailing him still has him in its grips on Sunday morning.
+
+#### _History_
+
+These two quarterbacks faced off against one another in the last week of the regular season last year. Not sure how much information can be gleaned from that showing, as both teams were essentially dead in the water going into that match.
+
+One thing that's clear to me is that Las Vegas seems to struggle with offenses capable of airing the ball out deep. It's possible the situation there has changed a little over the past couple of weeks, but I honestly doubt the pass coverage unit has improved enough to no longer be considered a liability.
+
+***
+
+Broncos +5
+
+***
+
+**Denver covers if**  
+Drew Lock hits on a few deep balls while Philip Lindsay keeps the ground game humming against a soft Raiders defensive front.   
+\- OR -  
+the offense stages yet another furious comeback in the fourth quarter in a bid to try and win the game.
+
+**Las Vegas covers if**  
+the Raiders can still play at an emotionally high level after a succession of wins against significant opponents. The ground game also needs to get going here, as Josh Jacobs will be called upon to close out this game and prevent the Broncos from racking up garbage-time points. 
