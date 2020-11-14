@@ -242,3 +242,13 @@ BYE - Rams (17) @ **Dolphins** (28)
 
 Seahawks (6-2)  
 Rams (5-3)
+
+#### _Injuries_
+
+The Seahawks are down both of their starting cornerbacks and their center. Not good for a team that runs a cover-three look as their base defense.
+
+Rams are pretty healthy coming off the bye.
+
+#### _History_
+
+These two teams met up twice last year, and the results weren't that great for Seattle. Seattle barely edged out the Rams in their first meeting. Los Angeles returned the favor with a blowout in their second match.
