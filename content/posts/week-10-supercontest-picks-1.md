@@ -1,6 +1,5 @@
 +++
 date = 2020-11-14T12:00:00Z
-draft = true
 headline = "Week 10 Supercontest Picks"
 
 +++
@@ -143,3 +142,5 @@ the Giants can run the ball with some efficiency and Daniel Jones doesn't turn o
 the combination of Alshon Jeffery, Miles Sanders, Jalen Reagor, and Dallas Goedert gives this offense some much-needed life.  
 \- OR -  
 their defensive line can force ugly turnovers from Daniel Jones.
+
+***
