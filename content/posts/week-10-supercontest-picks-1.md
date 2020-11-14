@@ -209,6 +209,22 @@ The Chargers are fairly healthy, but they will be missing their best player on d
 
 #### _History_
 
-It's hard to draw comparisons between these two teams. Miami is just starting their third game with Tua as their quarterback. Their defense can best best described as a hybrid defense rooted in complexity. The last time the Chargers faced a complex defense.
+It's hard to draw comparisons between these two teams. Miami is just starting their third game with Tua as their quarterback. And it's hard to ascribe any definitive identity to their defensive unit, as its been built more as a hybrid defense capable of shifting identities from week to week. Still,  the Chargers did face a similarly complex defense not too long ago in Denver, and it looks like Herbert fared pretty well.
+
+#### _Weather_
+
+Hot and moderately humid
+
+***
+
+Dolphins -2
+
+***
+
+**Miami covers if**  
+the inside corners and the safeties of the Dolphins hold up serviceable against Justin Herbert and the team can channel that winning spirit to close out this game should Herbert try to make a last-minute comeback.
+
+**Los Angeles covers if**  
+the team can finally shirk the losing mentality that's been plaguing them the past several weeks.
 
 ***
