@@ -41,10 +41,16 @@ I guess we'll have to wait until the second half to see if the Cardinals start t
 
 Arizona not shy about using the hurry-up offense early and intermittently.
 
-Tyler Bass coming through with two huge field goals to keep Buffalo a full score ahead of the Cardinals through the first half.  
+Tyler Bass coming through with two huge field goals to keep Buffalo a full score ahead of the Cardinals through the first half.
+
+Arizona is legitimately unprepared. Kliff Kingsbury isn't a details type of guy, apparently. The offense out there looking at the sideline in bewilderment.
+
+Murray's short stature working against him here, as his balls have been batted down twice on successive plays.
 
 ***
 
 ## 49ers @ Saints
 
 Saints defense very aggressive in opening drive.
+
+I'm thinking Jordan Reed is an adequate replacement for their beloved tight end George Kittle. He's been instrumental on a few plays and made a sick catch on a third down.
