@@ -22,3 +22,5 @@ The Giants may have issues containing runs with just their defensive front line.
 ## Texans @ Browns
 
 Houston moving the ball with short plays and misdirection run plays.
+
+Deshaun Watson can be a magician in the pocket sometimes with his ability to navigate around pressure and throw balls.
