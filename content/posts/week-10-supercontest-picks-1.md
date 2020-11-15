@@ -291,11 +291,11 @@ The Patriots have been a goddamn mess this season when it comes to injuries, and
 
 #### _History_
 
-The Patriots have been terrible defensing the run. And the Ravens want to do nothing more than to run the ball down the length of the field. The ground game has been their biggest strength 
+The Patriots have been terrible defensing the run. And the Ravens want to do nothing more than run the ball to kingdom come. The ground game has been the heart and soul of their offense too.
 
 #### _Weather_
 
-A cool night with some winds
+A cool night with some wind
 
 ***
 
@@ -306,7 +306,7 @@ Patriots +7
 **New England covers if**  
 the Patriots can stop the Ravens from running wild. New England's defense will need to dictate the terms of engagement to the Baltimore offense.  
 \- OR -  
-New England can dominate time of possession by running forcefully against a Baltimore front down its best run stuffer.
+New England can dominate time of possession by running forcefully against a Baltimore front without its best run stuffer.
 
 **Baltimore covers if**  
 the Ravens are mostly successful rushing the ball against the Patriots defense.
