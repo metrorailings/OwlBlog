@@ -35,6 +35,8 @@ Deshaun Watson can be a magician in the pocket sometimes with his ability to nav
 
 Shit preparation and play-calling on the Cardinals second drive. Starting to question Kliff Kingsbury.
 
+Cardinals are still sloppy with penalties. The penalties are what killed them last week.
+
 ***
 
 ## 49ers @ Saints
