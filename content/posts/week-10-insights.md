@@ -11,4 +11,4 @@ Bradberry may be a pretty good corner after all.
 
 The Giants seem to now be relying on shorter passes and quicker plays. It's working - the Eagles defense don't have the speed to defend the short game.
 
-Brandon Graham may truly be the best defensive player on the Eagles.
+Brandon Graham is truly be the best defensive player on the Eagles.
