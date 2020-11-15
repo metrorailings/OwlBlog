@@ -8,3 +8,5 @@ headline = "Week 10 Insights"
 Miles Sanders is truly a difference maker for this offense. His runs are somehow more explosive. Maybe it's his vision that gives the Eagles life in their ground game.
 
 Bradberry may be a pretty good corner after all.
+
+The Giants seem to now be relying on shorter passes and quicker plays. It's working - the Eagles defense don't have the speed to defend the short game.
