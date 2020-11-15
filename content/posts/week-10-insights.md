@@ -47,6 +47,12 @@ Arizona is legitimately unprepared. Kliff Kingsbury isn't a details type of guy,
 
 Murray's short stature working against him here, as his balls have been batted down twice on successive plays.
 
+Buffalo adjusted in the second half with quick throws. Quick throws pretty much render defensive back blitzes impotent.
+
+Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball. 
+
+Josh Allen throws the ball with such velocity that it's hard to intercept his passes.
+
 ***
 
 ## 49ers @ Saints
@@ -54,3 +60,9 @@ Murray's short stature working against him here, as his balls have been batted d
 Saints defense very aggressive in opening drive.
 
 I'm thinking Jordan Reed is an adequate replacement for their beloved tight end George Kittle. He's been instrumental on a few plays and made a sick catch on a third down.
+
+Big stop by the Saints defensive front on a critical fourth down. Onyemata busted through the offensive line to cut short a power run.
+
+Alvin Kamara still the best halfback in the league, bar none. Dalvin Cook and Nick Chubb are distant runner-ups.
+
+The defensive line of the Saints are making the key plays needed to kill these 49er drives.
