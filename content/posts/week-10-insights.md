@@ -17,6 +17,10 @@ Sloppy penalties from Philadelphia.
 
 The Giants may have issues containing runs with just their defensive front line. That or they have trouble handlings outside runs, something that may well be an indictment on their outside linebackers.
 
+Daniel Jones did not turn over the ball once. Easily the most impressive stat of the game.
+
+Jalen Reagor and Alshon Jeffery contributed nothing to the Eagles offense. Fascinating.
+
 ***
 
 ## Texans @ Browns
