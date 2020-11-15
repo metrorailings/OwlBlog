@@ -51,7 +51,7 @@ Buffalo adjusted in the second half with quick throws. Quick throws pretty much 
 
 Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball. 
 
-Josh Allen throws the ball with such velocity that it's hard to intercept his passes.
+Josh Allen throws the ball with such velocity some times that it's hard to intercept his passes.
 
 ***
 
