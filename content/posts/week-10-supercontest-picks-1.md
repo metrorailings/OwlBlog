@@ -317,8 +317,38 @@ the Ravens are mostly successful rushing the ball against the Patriots defense.
 
 ***
 
+#### _Latest Results_
+
+Seahawks (34) @ **Bills** (44)  
+**Dolphins** (34) @ Cardinals (31)
+
+#### _Record_
+
+Bills (7-2)  
+Cardinals (5-3)
+
 #### _Injuries_
 
 Buffalo's secondary will be stripped of three key pieces after a COVID flare-up. Add on top of that the very likely possibility Micah Hyde may be sidelined and Buffalo is coming into the game with a barebones secondary. Best of luck covering Larry Fitzgerald, DeAndre Hopkins, Andy Isabella, and Christian Kirk.
 
-Arizona is in better shape. Their offensive line should see some improvement with the return of J.R. Sweezy.
+Arizona is in better shape. Their offensive line should see some improvement with the return of J.R. Sweezy. Budda Baker is questionable.
+
+#### _History_
+
+Neither of these two teams know one another well. Buffalo runs a 4-3 defense outfitted with quite a few coverage wrinkles. Arizona literally just faced a similarly complex defense when Miami came to town last week. The Cardinals did well enough, using Kyler's mobility to matriculate the ball on a regular basis.
+
+But Buffalo has a history this season of not faring well against the running game. Kansas City and New England both covered by rushing the ball at will against Buffalo's defense. Thanks to the viable threat of designed quarterback runs, Arizona actually has one of the league's better ground games.
+
+Josh Allen's performance against teams that love to blitz has been a mixed bag.
+
+***
+
+Cardinals -1.5
+
+***
+
+**Arizona covers if**  
+the Cardinals bounce back from a rough loss last week and exploit a Buffalo defense missing some pieces/talent at all three levels.
+
+**Buffalo covers if**  
+their defensive front flusters Kyler Murray, keeping him from passing or running the ball effectively.
