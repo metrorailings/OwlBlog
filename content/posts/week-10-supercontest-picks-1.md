@@ -245,7 +245,7 @@ Rams (5-3)
 
 #### _Injuries_
 
-The Seahawks are down both of their starting cornerbacks and their center. Not good for a team that runs a cover-three look as their base defense. Judging from last week though, it's likely Carroll will have enough sense to employ a nickel package as his base defense against the Rams. 
+The Seahawks are down both of their starting cornerbacks and their center. Not good for a team that runs a cover-three look as their base defense. Judging from last week though, it's likely Carroll will have enough sense to employ a nickel package as his base defense against the Rams.
 
 Rams are pretty healthy coming off the bye.
 
@@ -265,4 +265,52 @@ Rams -2
 Jared Goff is given enough time in the pocket to check the runners on first and third.
 
 **Seattle covers if**  
-Jarred Reed, Carlos Dunlap, and Jamal Adams step up big and harangue Goff to the point where the Rams offense becomes dysfunctional. Certainly possible if Pete Carroll took a few pointers from the Dolphins and the way they dismantled Los Angeles just a few weeks earlier.  
+Jarred Reed, Carlos Dunlap, and Jamal Adams step up big and harangue Goff to the point where the Rams offense becomes dysfunctional. Certainly possible if Pete Carroll took a few pointers from the Dolphins and the way they dismantled Los Angeles just a few weeks earlier.
+
+***
+
+### Ravens @ Patriots (+7)
+
+***
+
+#### _Latest Results_
+
+**Ravens** (24) @ Colts (10)  
+**Patriots** (30) @ Jets (27)
+
+#### _Record_
+
+Ravens (6-2)  
+Patriots (3-5)
+
+#### _Injuries_
+
+Ravens will not have Calais Campbell or Jimmy Smith on the field come Sunday night. The loss of Smith hurts a secondary worryingly thin on cornerbacks. Marcus Peters and Marlon Humphries will start as the team's main cornerbacks, but an injury to either one would be devastating.
+
+The Patriots have been a goddamn mess this season when it comes to injuries, and this week is no different. The biggest loss is at cornerback, as Stephon Gilmore won't be around for this game. On a positive note, the offensive line seems pretty healthy. Big news for a team that loves running the ball.
+
+#### _History_
+
+The Patriots have been terrible defensing the run. And the Ravens want to do nothing more than to run the ball down the length of the field. The ground game has been their biggest strength 
+
+#### _Weather_
+
+A cool night with some winds
+
+***
+
+Patriots +7
+
+***
+
+**New England covers if**  
+the Patriots can stop the Ravens from running wild. New England's defense will need to dictate the terms of engagement to the Baltimore offense.  
+\- OR -  
+New England can dominate time of possession by running forcefully against a Baltimore front down its best run stuffer.
+
+**Baltimore covers if**  
+the Ravens are mostly successful rushing the ball against the Patriots defense.
+
+***
+
+#### Bills @ Cardinals (-1.5)
