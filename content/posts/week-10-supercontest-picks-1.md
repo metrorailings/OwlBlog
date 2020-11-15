@@ -314,3 +314,9 @@ the Ravens are mostly successful rushing the ball against the Patriots defense.
 ***
 
 #### Bills @ Cardinals (-1.5)
+
+***
+
+#### _Injuries_
+
+Buffalo's secondary will be stripped of three key pieces after a COVID flare-up. Add on top of the very likely possibility Micah Hyde may be sidelined and Buffalo is coming into the game with a barebones secondary.
