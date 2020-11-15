@@ -352,3 +352,9 @@ the Cardinals bounce back from a rough loss last week and exploit a Buffalo defe
 
 **Buffalo covers if**  
 their defensive front flusters Kyler Murray, keeping him from passing or running the ball effectively.
+
+***
+
+### Vikings @ Bears (+2.5)
+
+***
