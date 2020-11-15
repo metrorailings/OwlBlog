@@ -37,6 +37,12 @@ Shit preparation and play-calling on the Cardinals second drive. Starting to que
 
 Cardinals are still sloppy with penalties. The penalties are what killed them last week.
 
+I guess we'll have to wait until the second half to see if the Cardinals start throwing deep balls against the Bills and their second-string corners.
+
+Arizona not shy about using the hurry-up offense early and intermittently.
+
+Tyler Bass coming through with two huge field goals to keep Buffalo a full score ahead of the Cardinals through the first half.  
+
 ***
 
 ## 49ers @ Saints
