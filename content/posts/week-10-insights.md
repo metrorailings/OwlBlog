@@ -33,4 +33,10 @@ Deshaun Watson can be a magician in the pocket sometimes with his ability to nav
 
 ## Bills @ Cardinals
 
-Shit preparation and play-calling on the Cardinals second drive. Starting to question Kliff Kingsbury. 
+Shit preparation and play-calling on the Cardinals second drive. Starting to question Kliff Kingsbury.
+
+***
+
+## 49ers @ Saints
+
+Saints defense very aggressive in opening drive.
