@@ -319,4 +319,4 @@ the Ravens are mostly successful rushing the ball against the Patriots defense.
 
 #### _Injuries_
 
-Buffalo's secondary will be stripped of three key pieces after a COVID flare-up. Add on top of the very likely possibility Micah Hyde may be sidelined and Buffalo is coming into the game with a barebones secondary.
+Buffalo's secondary will be stripped of three key pieces after a COVID flare-up. Add on top of that the very likely possibility Micah Hyde may be sidelined and Buffalo is coming into the game with a barebones secondary.
