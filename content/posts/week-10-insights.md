@@ -15,4 +15,4 @@ Brandon Graham is truly be the best defensive player on the Eagles.
 
 Sloppy penalties from Philadelphia.
 
-The Giants may have issues containing runs with just their defensive front line.
+The Giants may have issues containing runs with just their defensive front line. That or they have trouble handlings outside runs, something that may well be an indictment on their outside linebackers.
