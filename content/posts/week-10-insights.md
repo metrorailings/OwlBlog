@@ -14,3 +14,5 @@ The Giants seem to now be relying on shorter passes and quicker plays. It's work
 Brandon Graham is truly be the best defensive player on the Eagles.
 
 Sloppy penalties from Philadelphia.
+
+The Giants may have issues containing runs with just their defensive front line.
