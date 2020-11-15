@@ -28,3 +28,9 @@ Jalen Reagor and Alshon Jeffery contributed nothing to the Eagles offense. Fasci
 Houston moving the ball with short plays and misdirection run plays.
 
 Deshaun Watson can be a magician in the pocket sometimes with his ability to navigate around pressure and throw balls.
+
+***
+
+## Bills @ Cardinals
+
+Shit preparation and play-calling on the Cardinals second drive. Starting to question Kliff Kingsbury. 
