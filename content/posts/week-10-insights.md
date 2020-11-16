@@ -79,8 +79,14 @@ New England now running the ball more with Cam on purpose.
 
 JC Jackson is an interception machine.
 
+The Patriots are mastering the power rushing attack against a Ravens rush defense that was supposedly the best at defensing the run (according to Football Outsiders).
+
 ***
 
 ## Broncos @ Raiders
 
 Judging that Vegas started things off with a pooch kick forcing a special teams return...it seems Vegas did their homework and keyed in on some of the Broncos weaknesses, particularly on special teams.
+
+Denver running quite a few scripted bootlegs.
+
+Raiders running quite a bit of man coverage. Not sure if this is their defensive identity or just a mode of defense they decided to adopt for this game.
