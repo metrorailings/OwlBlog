@@ -78,3 +78,9 @@ The Saints and their nickel blitzes have been absolute money against the 49ers.
 New England now running the ball more with Cam on purpose.
 
 JC Jackson is an interception machine.
+
+***
+
+## Broncos @ Raiders
+
+Judging that Vegas started things off with a pooch kick forcing a special teams return...it seems Vegas did their homework and keyed in on some of the Broncos weaknesses, particularly on special teams.
