@@ -76,3 +76,5 @@ The Saints and their nickel blitzes have been absolute money against the 49ers.
 ## Ravens @ Patriots
 
 New England now running the ball more with Cam on purpose.
+
+JC Jackson is an interception machine.
