@@ -81,6 +81,10 @@ JC Jackson is an interception machine.
 
 The Patriots are mastering the power rushing attack against a Ravens rush defense that was supposedly the best at defensing the run (according to Football Outsiders).
 
+Once again, when game script turns negative for these Ravens, their morale quickly goes south.
+
+Ravens are loading the box now in the second half against these Patriots. Against loaded boxes and run blitzes, the Patriots power running has been stopped.
+
 ***
 
 ## Broncos @ Raiders
@@ -90,3 +94,9 @@ Judging that Vegas started things off with a pooch kick forcing a special teams 
 Denver running quite a few scripted bootlegs.
 
 Raiders running quite a bit of man coverage. Not sure if this is their defensive identity or just a mode of defense they decided to adopt for this game.
+
+Bad passes from Drew Lock.
+
+Either Denver's offensive line is truly horrendous or the Raiders boast some considerable talent through their defensive line.
+
+Zone blitzes are working spectacularly against Drew Lock and his offensive line.
