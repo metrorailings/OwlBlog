@@ -53,6 +53,8 @@ Arizona is such a sloppy team. Lack of discipline, no commitment to securing the
 
 Josh Allen throws the ball with such velocity some times that it's hard to intercept his passes.
 
+Let it be known that Kliff Kingsbury is a bad coach. Never trust Kliff against good coaches like Brian Flores and Sean McDermott.
+
 ***
 
 ## 49ers @ Saints
@@ -66,3 +68,5 @@ Big stop by the Saints defensive front on a critical fourth down. Onyemata buste
 Alvin Kamara still the best halfback in the league, bar none. Dalvin Cook and Nick Chubb are distant runner-ups.
 
 The defensive line of the Saints are making the key plays needed to kill these 49er drives.
+
+The Saints and their nickel blitzes have been absolute money against the 49ers.
