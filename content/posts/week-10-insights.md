@@ -67,6 +67,12 @@ Big stop by the Saints defensive front on a critical fourth down. Onyemata buste
 
 Alvin Kamara still the best halfback in the league, bar none. Dalvin Cook and Nick Chubb are distant runner-ups.
 
-The defensive line of the Saints are making the key plays needed to kill these 49er drives.
+The defensive line of the Saints making some of the key plays needed to kill these 49er drives.
 
 The Saints and their nickel blitzes have been absolute money against the 49ers.
+
+***
+
+## Ravens @ Patriots
+
+New England now running the ball more with Cam on purpose.
