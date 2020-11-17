@@ -49,7 +49,7 @@ Murray's short stature working against him here, as his balls have been batted d
 
 Buffalo adjusted in the second half with quick throws. Quick throws pretty much render defensive back blitzes impotent.
 
-Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball. 
+Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball.
 
 Josh Allen throws the ball with such velocity some times that it's hard to intercept his passes.
 
@@ -70,6 +70,12 @@ Alvin Kamara still the best halfback in the league, bar none. Dalvin Cook and Ni
 The defensive line of the Saints making some of the key plays needed to kill these 49er drives.
 
 The Saints and their nickel blitzes have been absolute money against the 49ers.
+
+Forget Marshon Lattimore. CJ Gardner Johnson is far more important to this defense.
+
+I'm seeing flashes of elite play from the 49ers defensive line. Javon Kinlaw and Kerry Hyder are the new Deforest Buckner and Nick Bosa this season. Seeing Hyder win on multiple occasions against Ryan Ramcyk is quite impressive.
+
+Jameis Winston started out well, but later threw some ducks once the pressure started getting to him. Still, no turnovers...
 
 ***
 
