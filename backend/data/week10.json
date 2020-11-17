@@ -1,30 +1,16 @@
 {
     "games": [
         {
-            "_id": 347,
-            "date": "2020-11-22T16:05:00.000Z",
-            "homeTeam": "Chargers",
-            "awayTeam": "Jets",
-            "week": 10,
-            "awayTeamScore": "",
-            "bookSpread": -8,
-            "curve": 0,
-            "homeTeamScore": "",
-            "owlSpread": -4,
-            "pickAwayTeam": true,
-            "pickHomeTeam": false
-        },
-        {
             "_id": 355,
             "date": "2020-11-15T16:05:00.000Z",
             "homeTeam": "Dolphins",
             "awayTeam": "Chargers",
             "week": 10,
-            "awayTeamScore": "",
+            "awayTeamScore": 21,
             "bookSpread": -2.5,
             "curve": 0,
-            "homeTeamScore": "",
-            "owlSpread": -4.5,
+            "homeTeamScore": 29,
+            "owlSpread": -6.5,
             "pickAwayTeam": false,
             "pickHomeTeam": true
         },
@@ -34,13 +20,13 @@
             "homeTeam": "Titans",
             "awayTeam": "Colts",
             "week": 10,
+            "awayTeamScore": 34,
             "bookSpread": -1.5,
             "curve": 0,
+            "homeTeamScore": 17,
             "owlSpread": 0,
-            "pickHomeTeam": false,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 393,
@@ -48,13 +34,13 @@
             "homeTeam": "Panthers",
             "awayTeam": "Buccaneers",
             "week": 10,
+            "awayTeamScore": 46,
             "bookSpread": 4.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 23,
+            "owlSpread": 4.5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 394,
@@ -62,13 +48,13 @@
             "homeTeam": "Browns",
             "awayTeam": "Texans",
             "week": 10,
+            "awayTeamScore": 7,
             "bookSpread": -3,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 10,
+            "owlSpread": -5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 395,
@@ -76,13 +62,13 @@
             "homeTeam": "Lions",
             "awayTeam": "Football Team",
             "week": 10,
+            "awayTeamScore": 27,
             "bookSpread": 0,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 30,
+            "owlSpread": -4.5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": true
         },
         {
             "_id": 396,
@@ -90,13 +76,13 @@
             "homeTeam": "Packers",
             "awayTeam": "Jaguars",
             "week": 10,
+            "awayTeamScore": 20,
             "bookSpread": -12.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 24,
+            "owlSpread": -11.5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 397,
@@ -104,13 +90,13 @@
             "homeTeam": "Giants",
             "awayTeam": "Eagles",
             "week": 10,
+            "awayTeamScore": 17,
             "bookSpread": 3.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 27,
+            "owlSpread": 2.5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 398,
@@ -118,13 +104,13 @@
             "homeTeam": "Steelers",
             "awayTeam": "Bengals",
             "week": 10,
+            "awayTeamScore": 10,
             "bookSpread": -6.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 36,
+            "owlSpread": -10,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": true
         },
         {
             "_id": 399,
@@ -132,13 +118,13 @@
             "homeTeam": "Cardinals",
             "awayTeam": "Bills",
             "week": 10,
+            "awayTeamScore": 30,
             "bookSpread": -2,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 26,
+            "owlSpread": -1,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 401,
@@ -146,13 +132,13 @@
             "homeTeam": "Raiders",
             "awayTeam": "Broncos",
             "week": 10,
+            "awayTeamScore": 12,
             "bookSpread": -5.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 37,
+            "owlSpread": -3.5,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         },
         {
             "_id": 402,
@@ -160,13 +146,13 @@
             "homeTeam": "Saints",
             "awayTeam": "49ers",
             "week": 10,
+            "awayTeamScore": 13,
             "bookSpread": -9.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
-            "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "homeTeamScore": 27,
+            "owlSpread": -5,
+            "pickAwayTeam": true,
+            "pickHomeTeam": false
         },
         {
             "_id": 403,
@@ -174,13 +160,13 @@
             "homeTeam": "Rams",
             "awayTeam": "Seahawks",
             "week": 10,
+            "awayTeamScore": 16,
             "bookSpread": -2,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
-            "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "homeTeamScore": 23,
+            "owlSpread": 1,
+            "pickAwayTeam": true,
+            "pickHomeTeam": false
         },
         {
             "_id": 404,
@@ -188,13 +174,13 @@
             "homeTeam": "Patriots",
             "awayTeam": "Ravens",
             "week": 10,
+            "awayTeamScore": 17,
             "bookSpread": 7,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 23,
+            "owlSpread": 4,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": true
         },
         {
             "_id": 405,
@@ -202,13 +188,13 @@
             "homeTeam": "Bears",
             "awayTeam": "Vikings",
             "week": 10,
+            "awayTeamScore": 19,
             "bookSpread": 2.5,
             "curve": 0,
-            "owlSpread": 0,
-            "pickHomeTeam": false,
+            "homeTeamScore": 13,
+            "owlSpread": 1,
             "pickAwayTeam": false,
-            "awayTeamScore": "",
-            "homeTeamScore": ""
+            "pickHomeTeam": false
         }
     ]
 }
