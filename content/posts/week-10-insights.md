@@ -106,3 +106,7 @@ Bad passes from Drew Lock.
 Either Denver's offensive line is truly horrendous or the Raiders boast some considerable talent through their defensive line.
 
 Zone blitzes are working spectacularly against Drew Lock and his offensive line.
+
+***
+
+## Seahawks @ Rams
