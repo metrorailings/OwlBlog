@@ -122,3 +122,5 @@ Goff has 180 yards midway through the second quarter. Fair to say Sean McVay won
 Panthers have some serious swagger to them, especially Teddy Bridgewater.
 
 Carolina playing quite a bit of nitro and dime coverage against Tampa.
+
+What a beautiful misdirection screen from the Panthers. That play resulted in their second touchdown.
