@@ -113,4 +113,12 @@ Zone blitzes are working spectacularly against Drew Lock and his offensive line.
 
 Seattle is still going with its nickel package and it's not working. Jared Goff is finding creases and holes when he needs to.
 
-Goff has 180 yards midway through the second quarter. Fair to say Sean McVay won the coaching battle decisively here. Pete Carroll's coaching ability needs to be called into question - his team (especially his defense) isn't improving. 
+Goff has 180 yards midway through the second quarter. Fair to say Sean McVay won the coaching battle decisively here. Pete Carroll's coaching ability needs to be called into question - his team (especially his defense) isn't improving.
+
+***
+
+## Buccaneers @ Panthers
+
+Panthers have some serious swagger to them, especially Teddy Bridgewater.
+
+Carolina playing quite a bit of dime coverage against Tampa.
