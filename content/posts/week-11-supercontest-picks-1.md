@@ -1,6 +1,5 @@
 +++
 date = 2020-11-20T12:00:00Z
-draft = true
 headline = "Week 11 Supercontest Picks"
 
 +++
@@ -49,7 +48,9 @@ Browns -3.5
 ***
 
 **Cleveland covers if**  
-the Browns can possess the ball for more than 33 minutes.
+the Browns can possess the ball for more than 33 minutes. Carson Wentz and Miles Sanders need their touches kept to a minimum.
 
 **Philadelphia covers if**  
-the Eagles can retain possession of the ball for more than 27 minutes.
+the Eagles can retain possession of the ball for more than 27 minutes. Without Myles Garrett, Cleveland's pass rush fades from existence. Despite their commitment to failure, Philadelphia will have no choice but to score on some of their drives. Therefore, the key factor here becomes time - the Eagles simply need enough time to post a realistic shot at the cover, let alone win the game.
+
+***
