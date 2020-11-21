@@ -203,6 +203,8 @@ Ravens (6-3)
 
 #### _Injuries_
 
-Titans are in shoddy shape entering this contest. Not only is their best cornerback sidelined, but two of their better offensive linemen have also been ruled out. Center Ben Jones may join that list as well.
+Titans are in shoddy shape entering this contest. Not only is their best cornerback sidelined, but two of their better offensive linemen have also been ruled out. Center Ben Jones may join them as well.
 
-Ravens are in slightly better health, but they'll be down their two best run defenders in Calais Campbell and Brandon Williams. Tennessee's second-string offensive line against Baltimore's weakened defensive front may be the battle that decides this game.
+Ravens are in slightly better health, but they'll be down their two best run defenders in Calais Campbell and Brandon Williams. So funnily enough, Tennessee's second-string offensive line versus Baltimore's weakened defensive front may be the battle that decides this game.
+
+#### _History_
