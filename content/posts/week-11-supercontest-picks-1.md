@@ -160,3 +160,49 @@ Panthers (3-7)
 Lions will be without their two most explosive receivers in Danny Amendola and Kenny Golladay. Still, I suppose Detroit will make do with T.J. Hockenson, Marvin Jones, and D'Andre Swift.
 
 Carolina has quite a few injury issues across their roster, the biggest one being Teddy Bridgewater. Seems like there's a real chance Bridgewater might not play, which means Will Grier is going to be the guy leading this offense.
+
+#### _History_
+
+Not sure what I can do to draw comparisons here. Detroit's defense is very slow and averse to blitzing, something that should bode well for Carolina and their quick passing game. Alex Smith almost led a heroic comeback against the Lions last week with a short passing game. 
+
+At the same time though, injuries will play a significant role here. Two of Carolina's offensive linemen will be out, and the Panthers are banged up at all three levels of their defense. The Lions are in better shape, despite being down two key weapons.
+
+#### _Weather_
+
+Lovely day for some football
+
+***
+
+Panthers -2.5
+
+***
+
+**Carolina covers if**  
+Teddy Bridgewater can play and remain healthy through the game. Bridgewater's propensity to sacrifice his body to sustain drives worry me.  
+\- OR -  
+Will Grier can keep this offense humming along at a serviceable pace, should Teddy not be able to play. Much of that will depend on whether Matt Rhule and Joe Brady prep the kid adequately.
+
+**Detroit covers if**  
+Teddy cannot play and WIll Grier makes an ass of himself out there.
+
+***
+
+### Titans @ Ravens (-6.5)
+
+***
+
+#### _Latest Results_
+
+**Colts** (34) @ Titans (17)  
+Ravens (17) @ **Patriots** (23)
+
+#### _Record_
+
+Titans (6-3)  
+Ravens (6-3)
+
+#### _Injuries_
+
+Titans are in shoddy shape entering this contest. Not only is their best cornerback sidelined, but two of their better offensive linemen have also been ruled out. Center Ben Jones may join that list as well.
+
+Ravens are in slightly better health, but they'll be down their two best run defenders in Calais Campbell and Brandon Williams. Tennessee's second-string offensive line against Baltimore's weakened defensive front may be the battle that decides this game.
