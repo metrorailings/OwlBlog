@@ -117,6 +117,24 @@ Saints (7-2)
 
 Falcons will be missing the services of their second best pass-rushing defensive lineman in Dante Fowler, as he'll be kept out due to COVID concerns.
 
-The Saints will be starting Taysom Hill at quarterback after Drew Brees is sidelined for several weeks as he suffers from multiple rib fractures. A little worrying, as Taysom never has quite shown any chops for passing the ball. Also a bit of a damning indictment on Jameis Winston. Unless, of course...Sean Payton's just playing games here to try and throw Atlanta into a bit of a frenzy as they prepare for the game.
+The Saints will be starting Taysom Hill at quarterback after Drew Brees is sidelined for several weeks as he suffers from multiple rib fractures. A little worrying, as Taysom never has quite shown any chops for passing the ball. Also a bit of a damning indictment on Jameis Winston. Unless maybe...Sean Payton's just playing games here to try and throw Atlanta into a bit of a frenzy as they continue preparing.
 
 #### _History_
+
+At first glance, last year's games don't seem to tell me much. The Falcons stunningly upset the Saints as 14-point underdogs in their first dogfight last year, thanks to some hard-nosed running and timely sacks. Their later meeting lived only slightly more up to expectations. While the Saints did win and barely cover, Atlanta held the ball for a ludicrous 35+ minutes. Teams that hold the ball over that long usually win. The Falcons tragically proved to be an exception to that rule.
+
+Last year's games can only shed so much insight though. Taysom Hill being the starting quarterback for the Saints and Raheem Morris being the head coach for the Falcons changes the whole dynamic between these two teams.  It also introduces a whole bunch of unknowns.
+
+***
+
+N/A
+
+***
+
+**Atlanta covers if**  
+the Falcons can establish their ground game here. A run game would ease Matt Ryan's workload and keep the Saints pass rushers from developing a rhythm.
+
+**New Orleans covers if**  
+Atlanta's ground game falters and Matt Ryan finds himself regularly harassed by the Saints defensive linemen.  
+\- OR -  
+Sean Payton and Taysom Hill actually end up engineering something spectacular on offense.
