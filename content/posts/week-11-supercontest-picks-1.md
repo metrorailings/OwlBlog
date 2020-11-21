@@ -49,7 +49,7 @@ Browns -3.5
 ***
 
 **Cleveland covers if**  
-the Browns can possess the ball for more than 35 minutes.
+the Browns can possess the ball for more than 33 minutes.
 
 **Philadelphia covers if**  
-the Eagles can retain possession of the ball for more than 25 minutes.
+the Eagles can retain possession of the ball for more than 27 minutes.
