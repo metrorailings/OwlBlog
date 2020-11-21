@@ -252,3 +252,29 @@ Broncos (3-6)
 The Broncos are missing Bryce Callahan and possibly even Drew Lock. Callahan's absence is hard to swallow, as this team doesn't really have any quality depth behind their starting defensive backs. Drew Lock's absence would probably help this team greatly.
 
 Dolphins could possibly miss team captain Kyle Van Noy when the game begins. Nothing debilitating, but significant nonetheless given the leadership he provides.
+
+#### _History_
+
+Last week proved that Drew Lock doesn't fare well at all against overload blitzes. That failure to handle the blitz with any sort of grace led to one of the worst showings from any quarterback this year.
+
+Will Drew Lock learn from that experience? Safer to say no - bad quarterbacks rarely see the light and change their ways. Pat Shurmur seems hopeless as well - his refusal to run the ball more often with Phillip Lindsay smacks of foolishness. 
+
+This is an offense without direction, drive, or moxie. Their only consistent success came against prevent defenses. Unfortunately for Denver, Miami isn't the type of team to play things safe.
+
+#### _Weather_
+
+Chilly
+
+***
+
+Dolphins -3.5
+
+***
+
+**Miami covers if**  
+their cover-zero blitzes wipe out any credibility Drew Lock still holds as a starting quarterback. It would also help if Fangio refuses to finally pull the trigger on Brett Rypien until Miami is up by at least two scores.
+
+**Denver covers if**  
+the coaches put their faith in Philip Lindsay instead of the quarterbacks. For every pass play called, Pat Shurmur should call at least two running plays.  
+\- OR -  
+Brett Rypien comes in early to replace Drew Lock and he actually shows some of that promise fans were expecting to see from Lock. 
