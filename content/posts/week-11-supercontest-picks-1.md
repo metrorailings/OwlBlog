@@ -321,6 +321,4 @@ Rams +4
 their defense borrows heavily from the Saints defensive game plan. Sean McVay also needs to make sure Jared Goff isn't exposed to too much pressure. The poor boy can only handle so much violence.
 
 **Tampa Bay covers if**  
-their offense can actually set the tone by not starting slow for once in a primetime game.  
-\- OR -  
-their blitz packages gives Jared Goof the shakes.
+their blitz packages gives Jared Goof the shakes. Certainly possible as that offensive line is missing its heart and soul in Andrew Whitworth.
