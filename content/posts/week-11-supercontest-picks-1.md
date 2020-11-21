@@ -208,3 +208,43 @@ Titans are in shoddy shape entering this contest. Not only is their best cornerb
 Ravens are in slightly better health, but they'll be down their two best run defenders in Calais Campbell and Brandon Williams. So funnily enough, Tennessee's second-string offensive line versus Baltimore's weakened defensive front may be the battle that decides this game.
 
 #### _History_
+
+Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that really led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove. 
+
+It seems safe to say the Titans fortunes rest upon whether they can rattle off points faster than Baltimore here. And that's anything but certain given Tennessee has been _disgustingly incompetent_ defensing the run.
+
+#### _Weather_
+
+A little chilly, but otherwise decent.
+
+***
+
+Titans +6.5
+
+***
+
+**Tennessee covers if**  
+the Titans offense can ball out and run up the score in the first two quarters.  The Ravens seem to have a habit of abandoning their rushing game plan once it becomes clear they're playing from behind.
+
+**Baltimore covers if**  
+the Ravens dominate time of possession by at least 6 minutes.  
+\- OR -  
+Baltimore can keep Tennessee's offense under their thumb. Certainly possible given the Titans will be fielding a patchwork offensive line.
+
+***
+
+### Dolphins @ Broncos (+3.5)
+
+***
+
+#### _Latest Results_
+
+Chargers (21) @ **Dolphins** (29)  
+Broncos (12) @ **Raiders** (37)
+
+#### _Record_
+
+Dolphins (6-3)  
+Broncos (3-6)
+
+#### _Injuries_
