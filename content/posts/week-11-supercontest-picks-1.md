@@ -224,7 +224,7 @@ Titans +6.5
 ***
 
 **Tennessee covers if**  
-the Titans offense can ball out and run up the score in the first two quarters.  The Ravens seem to have a habit of abandoning their rushing game plan once it becomes clear they're playing from behind.
+the Titans offense can ball out and run up the score in the first two quarters.  The Ravens seem to have a habit of abandoning their rushing game plan once it becomes all too clear they're playing from behind.
 
 **Baltimore covers if**  
 the Ravens dominate time of possession by at least 6 minutes.  
