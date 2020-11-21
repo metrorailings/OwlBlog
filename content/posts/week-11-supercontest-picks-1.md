@@ -36,4 +36,20 @@ COVID is also throwing Cleveland off its game here. Not only is Myles Garrett ou
 
 Last meeting was four years ago. Still, something worth noting is that the Eagles have been terrible limiting opposing rushers the past few weeks. Perhaps it's something unique to division opponents, but it's worrying to see the Giants run hard against Philadelphia in both their matches this year.
 
-The two times the Eagles have faced offenses that love their outside zone runs and bootlegs, results have been somewhat negative. The Rams blew them out early in the season. Philadelphia fared better against the 49ers, but the 49ers that week were missing so many critical playmakers on both sides of the ball. 
+The two times the Eagles have faced offenses that love their outside zone runs and bootlegs, results have been somewhat negative. The Rams blew them out early in the season. Philadelphia fared better against the 49ers, but the 49ers were missing so many critical playmakers on both sides of the ball, including their starting quarterback.
+
+#### _Weather_
+
+Cold and wet, but not that windy.
+
+***
+
+Browns -3.5
+
+***
+
+**Cleveland covers if**  
+the Browns can possess the ball for more than 35 minutes.
+
+**Philadelphia covers if**  
+the Eagles can retain possession of the ball for more than 25 minutes.
