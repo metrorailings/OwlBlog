@@ -114,3 +114,9 @@ Falcons (3-6)
 Saints (7-2)
 
 #### _Injuries_
+
+Falcons will be missing the services of their second best pass-rushing defensive lineman in Dante Fowler, as he'll be kept out due to COVID concerns.
+
+The Saints will be starting Taysom Hill at quarterback after Drew Brees is sidelined for several weeks as he suffers from multiple rib fractures. A little worrying, as Taysom never has quite shown any chops for passing the ball. Also a bit of a damning indictment on Jameis Winston. Unless, of course...Sean Payton's just playing games here to try and throw Atlanta into a bit of a frenzy as they prepare for the game.
+
+#### _History_
