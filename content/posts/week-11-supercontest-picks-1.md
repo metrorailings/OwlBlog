@@ -73,7 +73,7 @@ Texans (2-7)
 
 In true Patriot fashion, a bunch of their starters are listed on the injury report. Three starting offensive linemen, two defensive tackles, their starting tight end, a special teams ace, and a promising rookie halfback are all listed as questionable. While everybody is expected to play, it remains to be seen whether all of them can contribute at a high level. Stephon Gilmore also remains questionable to play, something particularly concerning given Deshaun Watson loves airing out the ball when the opportunity avails itself.
 
-The Texans are so sad that few sources are bothering to even report on their injuries this week. I was forced to resort to using the Texans official injury report, which provides no context whatsoever. Even though a report can only tell me so much, it seems Laremy Tunsil is a real point of concern - he's been kept off the practice field all week with an "illness." In the COVID era, an illness designation is enough to keep a player out of the game 
+The Texans are so sad that few sources are bothering to even report on their injuries this week. I was forced to resort to using the Texans official injury report, which provides no context whatsoever. Even though a report can only tell me so much, it seems Laremy Tunsil is a real point of concern - he's been kept off the practice field all week with an "illness." In the COVID era, an illness designation is enough to keep a player out of the game
 
 #### _History_
 
@@ -163,7 +163,7 @@ Carolina has quite a few injury issues across their roster, the biggest one bein
 
 #### _History_
 
-Not sure what I can do to draw comparisons here. Detroit's defense is very slow and averse to blitzing, something that should bode well for Carolina and their quick passing game. Alex Smith almost led a heroic comeback against the Lions last week with a short passing game. 
+Not sure what I can do to draw comparisons here. Detroit's defense is very slow and averse to blitzing, something that should bode well for Carolina and their quick passing game. Alex Smith almost led a heroic comeback against the Lions last week with a short passing game.
 
 At the same time though, injuries will play a significant role here. Two of Carolina's offensive linemen will be out, and the Panthers are banged up at all three levels of their defense. The Lions are in better shape, despite being down two key weapons.
 
@@ -209,7 +209,7 @@ Ravens are in slightly better health, but they'll be down their two best run def
 
 #### _History_
 
-Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that really led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove. 
+Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that really led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove.
 
 It seems safe to say the Titans fortunes rest upon whether they can rattle off points faster than Baltimore here. And that's anything but certain given Tennessee has been _disgustingly incompetent_ defensing the run.
 
@@ -248,3 +248,7 @@ Dolphins (6-3)
 Broncos (3-6)
 
 #### _Injuries_
+
+The Broncos are missing Bryce Callahan and possibly even Drew Lock. Callahan's absence is hard to swallow, as this team doesn't really have any quality depth behind their starting defensive backs. Drew Lock's absence would probably help this team greatly.
+
+Dolphins could possibly miss team captain Kyle Van Noy when the game begins. Nothing debilitating, but significant nonetheless given the leadership he provides.
