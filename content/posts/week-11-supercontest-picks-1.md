@@ -229,7 +229,7 @@ the Titans offense can ball out and run up the score in the first two quarters. 
 **Baltimore covers if**  
 the Ravens dominate time of possession by at least 6 minutes.  
 \- OR -  
-Baltimore can keep Tennessee's offense under their thumb. Certainly possible given the Titans will be fielding a patchwork offensive line.
+Baltimore can keep Tennessee's offense under their thumb. Certainly possible given that the Titans will be fielding a patchwork offensive line.
 
 ***
 
