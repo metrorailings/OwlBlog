@@ -209,7 +209,7 @@ Ravens are in slightly better health, but they'll be down their two best run def
 
 #### _History_
 
-Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove.
+Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers killing drives early by playing like a geriatric in the second half. You give Lamar enough chances, eventually he'll find his groove.
 
 It seems safe to say the Titans fortunes rest upon whether they can rattle off points faster than Baltimore here. And that's anything but certain given Tennessee has been _disgustingly incompetent_ defensing the run.
 
@@ -277,4 +277,50 @@ their cover-zero blitzes wipe out any credibility Drew Lock still holds as a sta
 **Denver covers if**  
 the coaches put their faith in Philip Lindsay instead of the quarterbacks. For every pass play called, Pat Shurmur should call at least two running plays.  
 \- OR -  
-Brett Rypien comes in early to replace Drew Lock and he actually shows some of that promise fans were expecting to see from Lock. 
+Brett Rypien comes in early to replace Drew Lock and he actually shows some of that promise fans were expecting to see from Lock.
+
+***
+
+### Rams @ Buccaneers (-4)
+
+***
+
+#### _Latest Results_
+
+Seahawks (16) @ **Rams** (23)  
+**Buccaneers** (46) @ Panthers (23)
+
+#### _Record_
+
+Rams (6-3)  
+Buccaneers (7-3)
+
+#### _Injuries_
+
+Los Angeles will start testing their depth starting this week. With Taylor Rapp, Andrew Whitworth, and Kai Forbath going to IR, the Rams will need to rely on their understudies to keep the team humming in all three phases.
+
+Tampa Bay will possibly miss left guard Ali Marpet, as he's still dealing with a concussion.
+
+#### _History_
+
+Brady and this offense was dismantled only a few weeks ago by the Saints who came in with a fantastic game plan - disguise coverage so that Brady has to hold the ball a tick longer than normal. That extra time was all their pass rushers needed to harass Brady. It's a strategy the Rams defense should be able to copy with ease given the way they're built.
+
+Still, this season has once again shown that the Rams are vulnerable themselves to any sort of pressure. And Tampa's defense prides itself on the variety of ways it can manufacture pressure through blitzes.   
+
+#### _Weather_
+
+Cool and moderately humid
+
+***
+
+Rams +4
+
+***
+
+**Los Angeles covers if**  
+their defense borrows heavily from the Saints defensive game plan. Sean McVay also needs to make sure Jared Goff isn't exposed to too much pressure. The poor boy can only handle so much violence.
+
+**Tampa Bay covers if**  
+their offense can actually set the tone by not starting slow for once in a primetime game.  
+\- OR -  
+their blitz packages gives Jared Goof the shakes.
