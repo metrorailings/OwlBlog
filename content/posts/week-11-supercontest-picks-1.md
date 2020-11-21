@@ -31,3 +31,9 @@ Browns (3-5)
 Eagles are fairly healthy, though COVID will force Vinny Curry to be left home when Philadelphia travels to Cleveland.
 
 COVID is also throwing Cleveland off its game here. Not only is Myles Garrett out, but starting tackle Jack Conklin may be ruled out should any of his COVID tests return back positive. Not good considering guard Wyatt Teller is injured as well.
+
+#### _History_
+
+Last meeting was four years ago. Still, something worth noting is that the Eagles have been terrible limiting opposing rushers the past few weeks. Perhaps it's something unique to division opponents, but it's worrying to see the Giants run hard against Philadelphia in both their matches this year.
+
+The two times the Eagles have faced offenses that love their outside zone runs and bootlegs, results have been somewhat negative. The Rams blew them out early in the season. Philadelphia fared better against the 49ers, but the 49ers that week were missing so many critical playmakers on both sides of the ball. 
