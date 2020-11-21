@@ -138,3 +138,25 @@ the Falcons can establish their ground game here. A run game would ease Matt Rya
 Atlanta's ground game falters and Matt Ryan finds himself regularly harassed by the Saints defensive linemen.  
 \- OR -  
 Sean Payton and Taysom Hill actually end up engineering something spectacular on offense.
+
+***
+
+### Lions @ Panthers (-2.5)
+
+***
+
+#### _Latest Results_
+
+Washington (27) @ **Lions** (30)  
+**Buccaneers** (46) @ Panthers (23)
+
+#### _Record_
+
+Lions (4-5)  
+Panthers (3-7)
+
+#### _Injuries_
+
+Lions will be without their two most explosive receivers in Danny Amendola and Kenny Golladay. Still, I suppose Detroit will make do with T.J. Hockenson, Marvin Jones, and D'Andre Swift.
+
+Carolina has quite a few injury issues across their roster, the biggest one being Teddy Bridgewater. Seems like there's a real chance Bridgewater might not play, which means Will Grier is going to be the guy leading this offense.
