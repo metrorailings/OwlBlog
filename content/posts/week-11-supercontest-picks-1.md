@@ -209,7 +209,7 @@ Ravens are in slightly better health, but they'll be down their two best run def
 
 #### _History_
 
-Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that really led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove.
+Tennessee ended Baltimore's Super Bowls hopes last year, thanks in part to  a monstrous rushing performance from Derrick Henry. But really, it's the fact that Tennessee sunk Baltimore into a hole early in the game that led to the latter's unraveling. The Ravens have serious issues playing from negative game script. Sure, Lamar Jackson was able to mount a comeback against the Colts, but that was more thanks to Philip Rivers playing so impotently in the second half. You give Lamar enough chances, eventually he'll find his groove.
 
 It seems safe to say the Titans fortunes rest upon whether they can rattle off points faster than Baltimore here. And that's anything but certain given Tennessee has been _disgustingly incompetent_ defensing the run.
 
