@@ -124,3 +124,7 @@ Panthers have some serious swagger to them, especially Teddy Bridgewater.
 Carolina playing quite a bit of nitro and dime coverage against Tampa.
 
 What a beautiful misdirection screen from the Panthers. That play resulted in their second touchdown.
+
+Tom Brady is off. He's been inaccurate on deep throws and throws in the red zone, where opportunity windows tighten considerably and the margin of error goes way down as a result. The intelligence is still there, but the touch and the confidence is missing. His decline will need to be monitored, especially when he's throwing against capable secondaries.
+
+Tampa's ground game hasn't really bore much fruit. A few good runs and a 98-yard touchdown run will pad their stats, but the reality is that the Panthers have done fantastic work stonewalling Tampa's runners with an undersized defense. That 98-yard run came when the linebackers gambled that Ronald Jones would run in one direction instead of cutting back the other way. In retrospect, it was a gamble worth taking considering Brady and his offense were backed up on their own 2-yard line.
