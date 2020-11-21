@@ -322,3 +322,41 @@ their defense borrows heavily from the Saints defensive game plan. Sean McVay al
 
 **Tampa Bay covers if**  
 their blitz packages gives Jared Goof the shakes. Certainly possible as that offensive line is missing its heart and soul in Andrew Whitworth.
+
+***
+
+### Chiefs @ Raiders (+7.5)
+
+***
+
+#### _Latest Results_
+
+BYE - Panthers (31) @ **Chiefs** (33)  
+Broncos (12) @ **Raiders** (37)
+
+#### _Results_
+
+Chiefs (8-1)  
+Raiders (6-3)
+
+#### _Injuries_
+
+The Chiefs are mostly healthy coming off the bye, though they'll be missing their best tackle in Mitchell Schwartz.
+
+The Raiders are remarkably healthy, but the bigger concern is the fact that the most of the starters on defense have not adequately practiced throughout the week, due to COVID concerns. Then again, is practice really necessary against an opponent the organization knows all too well?
+
+#### _History_
+
+The Raiders embarrassed the Chiefs as double-digit underdogs earlier in the season. Deep passes to Henry Ruggs and ball control through the ground game proved to be the winning formula for Las Vegas that week. Can they repeat the same strategy again this week? Not sure. One thing history tells me though - you don't fuck with Andy Reid coming off a bye.
+
+***
+
+Chiefs -7.5
+
+***
+
+**Kansas City covers if**  
+Andy Reid crafted a master game plan during the bye week against a rival who was all too happy gloating about their win earlier in the season.
+
+**Las Vegas covers if**  
+they can execute yet again on the same strategy that won them the game in Kansas City.
