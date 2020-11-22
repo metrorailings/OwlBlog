@@ -54,3 +54,11 @@ Negative game script doomed the next Colts drive.
 Indianapolis defense stopped Green Bay's offense with their base cover-two defense on 3rd down.
 
 Green Bay scored on a wide receiver where 3 receivers were paired up against 2 defensive backs. I wonder if these Colts are particular vulnerable against formations involving 3 wide receivers on one side of the field...
+
+***
+
+## Vikings @ Cowboys
+
+Minnesota's cornerbacks may not be ready to defend against the run. I'm sure Mike Zimmer will correct that.
+
+Dallas let up a touchdown in cover-two formation against Justin Jefferson running a route from the slot. Shameful.
