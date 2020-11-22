@@ -8,3 +8,5 @@ headline = "Week 11 Insights"
 Eagles defense standing tall against the Browns and their rushing attack so far. Cleveland was able to chew off a few notable runs, but nothing game-changing.
 
 Late decision by Wentz gave Cleveland enough time to hit home on a delayed blitz that ultimately resulted in a pick-six.
+
+How are outside runs giving the Browns so much trouble?
