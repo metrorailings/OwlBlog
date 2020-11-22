@@ -22,3 +22,5 @@ Jim Schwartz and his gap blitzes have ruined this Cleveland ground game. Why cou
 Defensive lines have been the story of this game, not the tailbacks. Impressive. I wasn't expecting that. Most of the biggest plays of this game came courtesy of defensive linemen setting offenses back.
 
 Poor Carson Wentz. He'll be hurting tomorrow.
+
+So the Eagles offense were so very limited in the second half, mostly because the Browns were so much better stopping the run. Something tells me Cleveland made a decision to play the rushing game more aggressively, no matter what. Arguably their best play in the half for the Eagles (while the game was still within reach) came on a bootleg that nobody on the Browns saw coming.
