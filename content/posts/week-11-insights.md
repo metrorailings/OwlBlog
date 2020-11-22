@@ -13,7 +13,7 @@ How are outside runs giving the Browns so much trouble? Don't they see this shit
 
 Cleveland using quite a few defensive back blitzes.
 
-I wonder if Miles Sanders fumble on the first drive killed any faith Doug Pederson had in the running game... 
+I wonder if Miles Sanders fumble on the first drive killed any faith Doug Pederson had in the running game...
 
 Cleveland's deensive front is actually winning _without_ Myles Garrett! Philadelphia's tackles are just losing their battles against Olivier Vernon and Adrian Clayborn.
 
@@ -24,3 +24,9 @@ Defensive lines have been the story of this game, not the tailbacks. Impressive.
 Poor Carson Wentz. He'll be hurting tomorrow.
 
 So the Eagles offense were so very limited in the second half, mostly because the Browns were so much better stopping the run. Something tells me Cleveland made a decision to play the rushing game more aggressively, no matter what. Arguably their best play in the half for the Eagles (while the game was still within reach) came on a bootleg that nobody on the Browns saw coming.
+
+***
+
+## Dolphins @ Broncos
+
+The Dolphins trying to throw a fade in the red zone. It worked, but it's a disappointing play call.
