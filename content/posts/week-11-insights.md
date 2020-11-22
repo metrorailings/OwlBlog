@@ -39,6 +39,8 @@ Are these Dolphins struggling against the low altitude or are they just terrible
 
 Denver's defensive line is clowning this Miami offensive line. Props to Malik Reed for stepping up big and destroying the right side of Miami's offensive line.
 
+Bootlegs and play actions throws down the middle seem to be bringing the best out of Lock.
+
 ***
 
 ## Packers @ Colts
@@ -48,3 +50,5 @@ Seems like Green Bay is selling out against the power run. Indianapolis made som
 Negative game script doomed the next Colts drive.
 
 Indianapolis defense stopped Green Bay's offense with their base cover-two defense on 3rd down.
+
+Green Bay scored on a wide receiver where 3 receivers were paired up against 2 defensive backs. I wonder if these Colts are particular vulnerable against formations involving 3 wide receivers on one side of the field...
