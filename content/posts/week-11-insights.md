@@ -35,8 +35,14 @@ Lock running to his left when the Dolphins ran a jailbreak blitz.
 
 Broncos making more of a commitment to the pass in their scripted plays, unsurprisingly, even though their tailbacks are gashing the Dolphins on the ground. Still, some of these passes have been smartly in the form of quick throws and bootlegs.
 
-Are these Dolphins struggling against the low altitude or are they just terrible at defensing the run.
+Are these Dolphins struggling against the low altitude or are they just terrible at defensing the run?
+
+Denver's defensive line is clowning this Miami offensive line. Props to Malik Reed for stepping up big and destroying the right side of Miami's offensive line.
 
 ***
 
 ## Packers @ Colts
+
+Seems like Green Bay is selling out against the power run. Indianapolis made some hay on one drive with an end-around run followed up by a throw to a wide open Michael Pittman on a dagger route that caught Green Bay's coverage defenders _completely_ by surprise.
+
+Indianapolis defense stopped Green Bay's offense with their base cover-two defense on 3rd down.
