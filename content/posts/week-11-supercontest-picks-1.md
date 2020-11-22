@@ -251,7 +251,7 @@ Broncos (3-6)
 
 The Broncos are missing Bryce Callahan and possibly even Drew Lock. Callahan's absence is hard to swallow, as this team doesn't really have any quality depth behind their starting defensive backs. Drew Lock's absence would probably help this team greatly.
 
-Dolphins could possibly miss team captain Kyle Van Noy when the game begins. Nothing debilitating, but significant nonetheless given the leadership he provides.
+Dolphins could possibly miss team captain Kyle Van Noy when the game begins. Not the biggest blow to their defense, but significant nonetheless given the leadership he provides.
 
 #### _History_
 
