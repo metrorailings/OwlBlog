@@ -30,3 +30,13 @@ So the Eagles offense were so very limited in the second half, mostly because th
 ## Dolphins @ Broncos
 
 The Dolphins trying to throw a fade in the red zone. It worked, but it's a disappointing play call.
+
+Lock running to his left when the Dolphins ran a jailbreak blitz.
+
+Broncos making more of a commitment to the pass in their scripted plays, unsurprisingly, even though their tailbacks are gashing the Dolphins on the ground. Still, some of these passes have been smartly in the form of quick throws and bootlegs.
+
+Are these Dolphins struggling against the low altitude or are they just terrible at defensing the run.
+
+***
+
+## Packers @ Colts
