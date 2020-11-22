@@ -9,4 +9,8 @@ Eagles defense standing tall against the Browns and their rushing attack so far.
 
 Late decision by Wentz gave Cleveland enough time to hit home on a delayed blitz that ultimately resulted in a pick-six.
 
-How are outside runs giving the Browns so much trouble?
+How are outside runs giving the Browns so much trouble? Don't they see this shit every day in practice?
+
+Cleveland using quite a few defensive back blitzes.
+
+I wonder if Miles Sanders fumble on the first drive killed any faith Doug Pederson had in the running game... 
