@@ -41,6 +41,8 @@ Denver's defensive line is clowning this Miami offensive line. Props to Malik Re
 
 Bootlegs and play actions throws down the middle seem to be bringing the best out of Lock.
 
+T-E twists seem to bedevil Miami's offensive line.  
+
 ***
 
 ## Packers @ Colts
