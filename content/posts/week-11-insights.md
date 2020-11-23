@@ -77,4 +77,4 @@ Some motion in the backfield opened up a touchdown pass from Andy Dalton to Dalt
 
 Kansas City's defense is just spreading their legs open for the Raiders here. No coverage in the flat. Jumping offsides.
 
-Robinson as the Chiefs' third receiver is just horrible. Sammy Watkins needs to come back.
+Robinson as the Chiefs' third receiver is just horrible. Cost his team on two drives. Sammy Watkins needs to come back.
