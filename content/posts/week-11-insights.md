@@ -64,3 +64,13 @@ Green Bay scored on a wide receiver where 3 receivers were paired up against 2 d
 Minnesota's cornerbacks may not be ready to defend against the run. I'm sure Mike Zimmer will correct that.
 
 Dallas let up a touchdown in cover-two formation against Justin Jefferson running a route from the slot. Shameful.
+
+Kirk Cousins may have a perfect passer rating here, but his failure to complete passes on two successive plays gave Dallas a legitimate shot to steal this game away from Minnesota. Kudos to Dallas defense for finally stepping up though at a critical moment.
+
+Dallas showing some winning mettle to try and put this game in the win column.
+
+Some motion in the backfield opened up a touchdown pass from Andy Dalton to Dalton Schultz, but Dallas did a terrible job managing the clock. Vikings still have a timeout in their pocket.
+
+***
+
+## Chiefs @ Raiders
