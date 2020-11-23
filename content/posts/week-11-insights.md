@@ -82,3 +82,5 @@ Robinson as the Chiefs' third receiver is just horrible. Cost his team on two dr
 Raiders defensive linemen are cutting inside hard against Kansas offensive line. It works every now and then - I notice Mahomes backpedaling quite a bit. 
 
 Maxx Crosby is easily the Raiders best defensive lineman.
+
+Vegas pass protection has been phenomenal.
