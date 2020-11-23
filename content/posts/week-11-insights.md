@@ -80,3 +80,5 @@ Kansas City's defense is just spreading their legs open for the Raiders here. No
 Robinson as the Chiefs' third receiver is just horrible. Cost his team on two drives. Sammy Watkins needs to come back.
 
 Raiders defensive linemen are cutting inside hard against Kansas offensive line. It works every now and then - I notice Mahomes backpedaling quite a bit. 
+
+Maxx Crosby is easily the Raiders best defensive lineman.
