@@ -84,3 +84,5 @@ Raiders defensive linemen are cutting inside hard against Kansas offensive line.
 Maxx Crosby is easily the Raiders best defensive lineman.
 
 Vegas pass protection has been phenomenal.
+
+Defensive backs for the Raiders have been somewhat decent, though asking them to cover both Tyreek Hill and Travis Kelce may be a bit much. 
