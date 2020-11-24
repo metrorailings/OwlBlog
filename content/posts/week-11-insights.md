@@ -79,10 +79,22 @@ Kansas City's defense is just spreading their legs open for the Raiders here. No
 
 Robinson as the Chiefs' third receiver is just horrible. Cost his team on two drives. Sammy Watkins needs to come back.
 
-Raiders defensive linemen are cutting inside hard against Kansas offensive line. It works every now and then - I notice Mahomes backpedaling quite a bit. 
+Raiders defensive linemen are cutting inside hard against Kansas offensive line. It works every now and then - I notice Mahomes backpedaling quite a bit.
 
 Maxx Crosby is easily the Raiders best defensive lineman.
 
 Vegas pass protection has been phenomenal.
 
-Defensive backs for the Raiders have been somewhat decent, though asking them to cover both Tyreek Hill and Travis Kelce may be a bit much. 
+Defensive backs for the Raiders have been somewhat decent, though asking them to cover both Tyreek Hill and Travis Kelce may be a bit much.
+
+***
+
+## Rams @ Buccaneers
+
+One thing that became clear to me through the game was that Tampa's defense was ready for the Rams and their outside zone runs as well as their bootlegs. Los Angeles wasn't able to execute much running its base offense.
+
+Jared Goff was absolute money though on short passes. Tampa's defensive strategy of playing soft zone along the flat didn't work. I suppose Bowles was anticipating that Los Angeles would run a lot more slants and crossing routes downfield. Instead, Goff threw his passes short throughout much of the game, perhaps as a way to negate any pressure from all the different ways Tampa's defense rushes the passer. His aDOT was likely below 5 yards.
+
+Tampa's offense was actually prolific in the fist half, but completely emasculated in the second. Seems Los Angeles got more creative in their pass rushing and that forced some _ugly_ throws from Brady. Jalen Ramsey also held up much better in the second half after Mike Evans played him like a fiddle in the first.
+
+The run game remains a major issue. It's so heavily based on power, but the Bucs offensive line don't have any juice. You need dogs along that offensive line if you expect to maul your way to a productive ground game.
