@@ -98,3 +98,9 @@ Jared Goff was absolute money though on short passes. Tampa's defensive strategy
 Tampa's offense was actually prolific in the fist half, but completely emasculated in the second. Seems Los Angeles got more creative in their pass rushing and that forced some _ugly_ throws from Brady. Jalen Ramsey also held up much better in the second half after Mike Evans played him like a fiddle in the first.
 
 The run game remains a major issue. It's so heavily based on power, but the Bucs offensive line don't have any juice. You need dogs along that offensive line if you expect to maul your way to a productive ground game.
+
+***
+
+## Titans @ Ravens
+
+While the Ravens may be too predictable with their run plays, they were just money on a big play to Mark Andrews that came from 22 formation.
