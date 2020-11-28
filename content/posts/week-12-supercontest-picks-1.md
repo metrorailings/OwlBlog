@@ -3,9 +3,11 @@ date = 2020-11-28T12:00:00Z
 headline = "Week 12 Supercontest Picks"
 
 +++
-Last week was a much better outing. A return to form, almost.
+Last week was a much better outing. A return to form, almost. The only two picks that really soured on me were Miami and New England last week. It was a tough lesson I had to learn - never bet on flawed road favorites going up against home underdogs there were just embarrassed the week prior.  
 
-The only two picks that soured on me 
+As I noted in last week's analysis, Houston and Denver could win their matches so long as the former could throw the ball against a slow Patriots defense and the latter could run the ball all over a soft Miami front. That was _exactly_ what happened. Deshaun Watson stunted all over the Patriots defense, racking up 239 yards in the first half on 26 passes, only 5 of which went incomplete. Denver went ham all over Miami's defensive front, with Philip Lindsay and Melvin Gordon averaging more than 5 rushing yards on 31 carries. 
+
+Road favorites with clear weaknesses provide good betting value here, and that'll be the main theme this week given that I'm going with 3 road underdogs. Let's get on to the picks.
 
 ***
 
