@@ -85,6 +85,8 @@ Buccaneers (7-4)
 
 Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones. 
 
+Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. 
+
 #### _Weather_
 
 True summer weather.
