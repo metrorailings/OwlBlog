@@ -101,9 +101,22 @@ The Chargers will be without their starting cornerback in Casey Heyward and argu
 
 Buffalo will not have John Brown on the field for at least the next three weeks. Brown is critical as he and Diggs do well together opening up that deep ball.
 
+#### _History_
+
+Honestly, Buffalo has gone against two really impressive quarterbacks the two weeks before their bye. Both times, Buffalo has managed to impress me. Especially against Kyler Murray, as his throws were limited throughout the entire game.
+
 #### _Weather_
 
 Cool with a bit of wind.
+
+***
+
+Bills -5.5
+
+***
+
+**Buffalo covers if**  
+their secondary and defensive front really limit the 
 
 ***
 
