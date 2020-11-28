@@ -59,6 +59,22 @@ Cloudy and a bit wet, but otherwise good weather.
 
 ***
 
+Giants -6
+
+***
+
+**New York covers if**  
+Brandon Allen and Giovani Bernard fail to give any spark to a demoralized offense.  
+\- OR -  
+the Giants ground game explodes against a Bengals defensive front letting up nearly 5 yards a carry.
+
+**Cincinnati covers if**  
+Brandon Allen and Giovani Bernard somehow stumble into a few touchdowns.  
+\- OR -  
+Most of the Giants show up hungover to the game.
+
+***
+
 ### Chargers @ Bills (-5.5)
 
 ***
