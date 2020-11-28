@@ -53,6 +53,12 @@ Giants are mostly healthy off the bye, though starter Devonta Freeman has been l
 
 Bengals will be forced to start Brandon Allen now that Joe Burrow is done this season (and likely next season too). Giovani Bernard has been activated, but what good is a stud tailback if the head coach adamantly refuses to run the ball much? Then again, Brandon Allen being the quarterback will probably force him to call more rushing plays to compensate for the fact that his quarterback is absolute ass at the game of football.
 
+#### History / Analysis
+
+Cincinnati and New York are two very hard teams to compare here, especially given that the Bengals offense will look dramatically different without Joe Burrow.
+
+Still, matches between motivated teams and demoralized franchises usually  go well for the motivated team, no? 
+
 #### _Weather_
 
 Cloudy and a bit wet, but otherwise good weather.
@@ -71,7 +77,7 @@ the Giants ground game explodes against a Bengals defensive front letting up nea
 **Cincinnati covers if**  
 Brandon Allen and Giovani Bernard somehow stumble into a few touchdowns.  
 \- OR -  
-Most of the Giants show up hungover to the game.
+Most of the Giants show up hungover to the game. Hard to see happening, given that Joe Judge has these Giants buying into his message wholesale.
 
 ***
 
