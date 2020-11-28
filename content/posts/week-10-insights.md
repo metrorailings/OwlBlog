@@ -49,7 +49,7 @@ Murray's short stature working against him here, as his balls have been batted d
 
 Buffalo adjusted in the second half with quick throws. Quick throws pretty much render defensive back blitzes impotent.
 
-Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball. 
+Arizona is such a sloppy team. Lack of discipline, no commitment to securing the ball.
 
 Josh Allen throws the ball with such velocity some times that it's hard to intercept his passes.
 
@@ -70,6 +70,12 @@ Alvin Kamara still the best halfback in the league, bar none. Dalvin Cook and Ni
 The defensive line of the Saints making some of the key plays needed to kill these 49er drives.
 
 The Saints and their nickel blitzes have been absolute money against the 49ers.
+
+Forget Marshon Lattimore. CJ Gardner Johnson is far more important to this defense.
+
+I'm seeing flashes of elite play from the 49ers defensive line. Javon Kinlaw and Kerry Hyder are the new Deforest Buckner and Nick Bosa this season. Seeing Hyder win on multiple occasions against Ryan Ramcyk is quite impressive.
+
+Jameis Winston started out well, but later threw some ducks once the pressure started getting to him. Still, no turnovers...
 
 ***
 
@@ -100,3 +106,25 @@ Bad passes from Drew Lock.
 Either Denver's offensive line is truly horrendous or the Raiders boast some considerable talent through their defensive line.
 
 Zone blitzes are working spectacularly against Drew Lock and his offensive line.
+
+***
+
+## Seahawks @ Rams
+
+Seattle is still going with its nickel package and it's not working. Jared Goff is finding creases and holes when he needs to.
+
+Goff has 180 yards midway through the second quarter. Fair to say Sean McVay won the coaching battle decisively here. Pete Carroll's coaching ability needs to be called into question - his team (especially his defense) isn't improving.
+
+***
+
+## Buccaneers @ Panthers
+
+Panthers have some serious swagger to them, especially Teddy Bridgewater.
+
+Carolina playing quite a bit of nitro and dime coverage against Tampa.
+
+What a beautiful misdirection screen from the Panthers. That play resulted in their second touchdown.
+
+Tom Brady is off. He's been inaccurate on deep throws and throws in the red zone, where opportunity windows tighten considerably and the margin of error goes way down as a result. The intelligence is still there, but the touch and the confidence is missing. His decline will need to be monitored, especially when he's throwing against capable secondaries.
+
+Tampa's ground game hasn't really bore much fruit. A few good runs and a 98-yard touchdown run will pad their stats, but the reality is that the Panthers have done fantastic work stonewalling Tampa's runners with an undersized defense. That 98-yard run came when the linebackers gambled that Ronald Jones would run in one direction instead of cutting back the other way. In retrospect, it was a gamble worth taking considering Brady and his offense were backed up on their own 2-yard line.
