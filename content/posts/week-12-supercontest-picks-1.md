@@ -35,8 +35,8 @@ Bengals (9) @ **Washington** (20)
 
 #### _Record_
 
-abcd (0-0)  
-abcd (0-0)
+Giants (3-7)  
+Bengals (2-7-1)
 
 #### _Injuries_
 
@@ -53,8 +53,8 @@ BYE - Bills (30) @ **Cardinals** (32)
 
 #### _Record_
 
-abcd (0-0)  
-abcd (0-0)
+Chargers (3-7)  
+Bills (7-3)
 
 #### _Injuries_
 
@@ -71,8 +71,8 @@ abcd (0-0)
 
 #### _Record_
 
-abcd (0-0)  
-abcd (0-0)
+Chiefs (9-1)  
+Buccaneers (7-4)
 
 #### _Injuries_
 
@@ -89,7 +89,7 @@ Eagles (17) @ **Browns** (22)
 
 #### _Record_
 
-abcd (0-0)  
-abcd (0-0)
+Seahawks (7-3)  
+Eagles (3-6-1)
 
 #### _Injuries_
