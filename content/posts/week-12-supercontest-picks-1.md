@@ -61,6 +61,10 @@ Bills (7-3)
 
 #### _Injuries_
 
+The Chargers will be without their starting cornerback in Casey Heyward and arguably their second best defensive lineman in Melvin Ingram. The good news is that Nick Bosa will be starting for the second game in a row here, a boon for a defense lack pass rushing prowess.
+
+Buffalo will not have John Brown on the field for at least the next three weeks. Brown is critical as he and Diggs do well together opening up that deep ball.
+
 #### _Weather_
 
 Cool with a bit of wind.
