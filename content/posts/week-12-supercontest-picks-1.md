@@ -109,6 +109,8 @@ Eagles (3-6-1)
 
 The Eagles offensive line will once again be shuffled around now that Lane Johnson is out for the season and Jason Peters may not be suiting up for the game. Even worse, the offensive line is missing some depth as well with Sua Opeta being ruled out.
 
+Seattle will be missing their starting right tackle, so the offensive line injuries stretch across both teams here.
+
 #### _Weather_
 
 Cool weather with some drizzle.
