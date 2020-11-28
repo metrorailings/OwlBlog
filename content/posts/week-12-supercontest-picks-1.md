@@ -3,6 +3,10 @@ date = 2020-11-28T12:00:00Z
 headline = "Week 12 Supercontest Picks"
 
 +++
+Last week was a much better outing. A return to form, almost.
+
+The only two picks that soured on me 
+
 ***
 
 ### Raiders @ Falcons (+3)
@@ -97,7 +101,7 @@ Buccaneers (7-4)
 
 Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones. 
 
-Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. 
+Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. Still, the return of Sammy Watkins is so very badly needed - that Robinson kid isn't cutting it as the third option at receiver. 
 
 #### _Weather_
 
