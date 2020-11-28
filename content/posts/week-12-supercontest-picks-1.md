@@ -4,3 +4,10 @@ draft = true
 headline = "Week 12 Supercontest Picks"
 
 +++
+***
+
+### Raiders @ Falcons (+3)
+
+***
+
+***
