@@ -1,6 +1,5 @@
 +++
 date = 2020-11-28T12:00:00Z
-draft = true
 headline = "Week 12 Supercontest Picks"
 
 +++
@@ -22,6 +21,8 @@ Falcons (3-7)
 
 #### _Injuries_
 
+#### _Weather_
+
 ***
 
 ### Giants @ Bengals (+6)
@@ -39,6 +40,10 @@ Giants (3-7)
 Bengals (2-7-1)
 
 #### _Injuries_
+
+#### _Weather_
+
+Cloudy and a bit wet, but otherwise good weather.
 
 ***
 
