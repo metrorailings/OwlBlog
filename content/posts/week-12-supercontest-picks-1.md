@@ -45,7 +45,7 @@ Bengals (2-7-1)
 
 Giants are mostly healthy off the bye, though starter Devonta Freeman has been lost to IR for the season.
 
-Bengals will be forced to start Brandon Allen now that Joe Burrow is done this season (and likely next season too). Giovani Bernard has been activated, but what good is a stud tailback if the head coach refuses to run the ball much? Then again, Brandon Allen being the quarterback may force Zac Taylor into calling more rushing plays.
+Bengals will be forced to start Brandon Allen now that Joe Burrow is done this season (and likely next season too). Giovani Bernard has been activated, but what good is a stud tailback if the head coach adamantly refuses to run the ball much? Then again, Brandon Allen being the quarterback will probably force him to call more rushing plays to compensate for the fact that his quarterback is absolute ass at the game of football.
 
 #### _Weather_
 
