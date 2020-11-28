@@ -13,11 +13,11 @@ headline = "Week 12 Supercontest Picks"
 #### _Latest Results_
 
 **Chiefs** (35) @ Raiders (31)  
-abcd () @ abcd ()
+Falcons (9) @ **Saints** (24)
 
 #### _Record_
 
-abcd (0-0)  
+Raiders (6-4)  
 abcd (0-0)
 
 #### _Injuries_
@@ -30,8 +30,8 @@ abcd (0-0)
 
 #### _Latest Results_
 
-abcd () @ abcd ()  
-abcd () @ abcd ()
+BYE - Eagles (17) @ **Giants** (27)  
+Bengals (9) @ **Washington** (20)
 
 #### _Record_
 
@@ -48,8 +48,8 @@ abcd (0-0)
 
 #### _Latest Results_
 
-abcd () @ abcd ()  
-abcd () @ abcd ()
+Jets (28) @ **Chargers** (34)  
+BYE - Bills (30) @ **Cardinals** (32)
 
 #### _Record_
 
@@ -66,8 +66,8 @@ abcd (0-0)
 
 #### _Latest Results_
 
-abcd () @ abcd ()  
-abcd () @ abcd ()
+**Chiefs** (35) @ Buccaneers (31)  
+**Rams** (27) @ Buccaneers (24)
 
 #### _Record_
 
@@ -84,7 +84,7 @@ abcd (0-0)
 
 #### _Latest Results_
 
-abcd () @ abcd ()  
+Cardinals (21) @ **Seahawks** (28)  
 abcd () @ abcd ()
 
 #### _Record_
