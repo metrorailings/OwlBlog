@@ -85,7 +85,7 @@ abcd (0-0)
 #### _Latest Results_
 
 Cardinals (21) @ **Seahawks** (28)  
-abcd () @ abcd ()
+Eagles (17) @ **Browns** (22)
 
 #### _Record_
 
