@@ -21,8 +21,6 @@ Falcons (3-7)
 
 #### _Injuries_
 
-#### _Weather_
-
 ***
 
 ### Giants @ Bengals (+6)
@@ -63,6 +61,10 @@ Bills (7-3)
 
 #### _Injuries_
 
+#### _Weather_
+
+Cool with a bit of wind.
+
 ***
 
 ### Chiefs @ Buccaneers (+3.5)
@@ -81,6 +83,10 @@ Buccaneers (7-4)
 
 #### _Injuries_
 
+#### _Weather_
+
+True summer weather.
+
 ***
 
 ### Seahawks @ Eagles (+4.5)
@@ -98,3 +104,7 @@ Seahawks (7-3)
 Eagles (3-6-1)
 
 #### _Injuries_
+
+#### _Weather_
+
+Cool weather with some drizzle.
