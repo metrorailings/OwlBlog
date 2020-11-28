@@ -21,6 +21,10 @@ Falcons (3-7)
 
 #### _Injuries_
 
+Raiders are mostly healthy. Clelin Ferrell's return should boost a pass rush that ranks as one of the worst in the league, though Rod Marinelli has made some remarkable strides with the unit over the past couple weeks.
+
+The injury bug has been ripping through the Falcons offensive weaponry as of late. Julio Jones is legitimately questionable to play, as are Hayden Hurst. Todd Gurley has been blissfully ruled out though, so tailback duties will likely be split by his more promising back-ups. 
+
 ***
 
 ### Giants @ Bengals (+6)
@@ -38,6 +42,10 @@ Giants (3-7)
 Bengals (2-7-1)
 
 #### _Injuries_
+
+Giants are mostly healthy off the bye, though starter Devonta Freeman has been lost to IR for the season.
+
+Bengals will be forced to start Brandon Allen now that Joe Burrow is done this season (and likely next season too). Giovani Bernard has been activated, but what good is a stud tailback if the head coach refuses to run the ball much? Then again, Brandon Allen being the quarterback may force Zac Taylor into calling more rushing plays.
 
 #### _Weather_
 
