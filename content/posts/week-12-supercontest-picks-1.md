@@ -83,6 +83,8 @@ Buccaneers (7-4)
 
 #### _Injuries_
 
+Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones. 
+
 #### _Weather_
 
 True summer weather.
@@ -104,6 +106,8 @@ Seahawks (7-3)
 Eagles (3-6-1)
 
 #### _Injuries_
+
+The Eagles offensive line will once again be shuffled around now that Lane Johnson is out for the season and Jason Peters may not be suiting up for the game. Even worse, the offensive line is missing some depth as well with Sua Opeta being ruled out.
 
 #### _Weather_
 
