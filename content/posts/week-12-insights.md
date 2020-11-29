@@ -19,6 +19,10 @@ Is Zac Taylor finally calling more max protect formations here? Amazing.
 
 The Giants have to get rid of Evan Engram, no question. His big play potential doesn't make up for all his mistakes and his (seemingly) poor run-blocking.
 
+Impressive that the Bengals have not committed many penalties today outside of a few offensive holds that actually ended some drives or negated some productive plays. In fact, I'm sort of impressed to see the Bengals still fighting for a win here, despite losing the heart and soul of their team and the schism between the locker room and the head coach. 
+
+Meanwhile Cameron Fleming has three penalties against him alone. Wasn't Fleming a reject Jason Garrett brought along with him from Dallas.
+
 ***
 
 ## Chargers @ Bills
