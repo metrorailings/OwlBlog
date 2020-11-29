@@ -8,6 +8,8 @@ headline = "Week 12 Insights"
 
 Daniel Jones playing genuinely better.
 
+Giants trying their hardest to establish the ground game against these Bengals. 
+
 ***
 
 ## Chargers @ Bills
