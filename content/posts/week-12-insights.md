@@ -37,6 +37,6 @@ Brady has a love affair with Mike Evans.
 
 Tampa Bay's passing game is a touch too slow. Brady making too many decisions after the snap, according to Tony Romo. More activity needs to take place before the snap so that Brady can see some things prior to the snap and react quicker.
 
-Tampa Bay left a cornerback in single coverage against Tyreek Hill. Yikes. 
+Tampa Bay left a cornerback in single coverage against Tyreek Hill. Yikes.  Safeties are not playing assignments against these explosive Chiefs.
 
 On an important series of downs following a Kansas City touchdown, Bruce Arians opts to run once and pass twice out of empty formation. No motion before the snap, no misdirection, and some of the receivers aren't even fully aware of the type of play they're running.
