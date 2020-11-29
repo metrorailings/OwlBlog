@@ -39,6 +39,18 @@ Both teams faced the Broncos, one week apart from one another. Both teams were a
 
 ***
 
+Falcons +3
+
+***
+
+**Atlanta covers if**  
+most of their talented weapons on offense are able to play and the team actually ends up rushing the ball with some juice now that Todd Gurley isn't there blowing chunks.
+
+**Las Vegas covers if**  
+the players take their fighting spirit on the road this week.
+
+***
+
 ### Giants @ Bengals (+6)
 
 ***
