@@ -31,6 +31,12 @@ Raiders are mostly healthy. Clelin Ferrell's return should boost a pass rush tha
 
 The injury bug has been ripping through the Falcons offensive weaponry as of late. Julio Jones is legitimately questionable to play, as are Hayden Hurst. Todd Gurley has been blissfully ruled out though, so tailback duties will likely be split by his more promising back-ups.
 
+#### _History_
+
+The transitive property doesn't really apply well at predicting football games, but given that it's hard to compare these two teams as is, I have to resort to transitive comparisons here. 
+
+Both teams faced the Broncos, one week apart from one another. Both teams were able to dominate Denver, though Atlanta's defense played so soft in the fourth quarter that the Broncos were able to rally within one score before the final whistle blew. Still, put the fourth quarters of both games aside for a moment here and it seemed to me Las Vegas did a better job schooling Denver - the Raiders defensive game plan led to Drew Lock's worst ever game as a starter in this league. So from this perspective, Las Vegas has a slight edge. 
+
 ***
 
 ### Giants @ Bengals (+6)
