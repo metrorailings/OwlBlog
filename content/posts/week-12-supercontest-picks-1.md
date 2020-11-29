@@ -151,11 +151,23 @@ Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being 
 
 The Raiders showed us that this Chiefs defense can be pushed around, especially on the ground. Derek Carr and company arguably played their best game of the season in their _second_ outing against the Chiefs. Likewise, multiple teams have demonstrated that Kansas is poor at defending against the run, something that should be music to a Tampa team that desperately needs a successful rushing attack to jump start its flagging offense.
 
-Still, Tom Brady can be easily rattled by pressure nowadays. Kansas City is capable of levering that pressure through Chris Jones and Frank Clark.
+Still, Tom Brady can be easily rattled by pressure nowadays. Kansas City is capable of levering that pressure through Chris Jones and Frank Clark, though their performance last week left so much to be desired.
 
 #### _Weather_
 
 True summer weather.
+
+***
+
+Buccaneers +3.5
+
+***
+
+**Tampa Bay covers if**  
+their ground game is productive and whatever offensive linemen they end up trotting out there can hold up well enough in pass protection on a majority of snaps.
+
+**Kansas City covers if**  
+Chris Jones and Frank Clark blow through an offensive line missing up to three starters. Seriously, Tampa Bay may be missing quite a few bodies along their offensive front. I wouldn't be surprised to see a traffic cone out there playing left tackle for the Bucs. 
 
 ***
 
