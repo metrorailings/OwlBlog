@@ -28,3 +28,11 @@ Meanwhile Cameron Fleming has three penalties against him alone. Wasn't Fleming 
 ## Chargers @ Bills
 
 Chargers going a little ham with the blitz on a drive. It cost them dearly on a third-and-long.
+
+***
+
+## Chiefs @ Buccaneers
+
+Brady has a love affair with Mike Evans.
+
+Tampa Bay's passing game is a touch too slow. Brady making too many decisions after the snap, according to Tony Romo. More activity needs to take place before the snap so that Brady can see some things before the snap and react quicker.
