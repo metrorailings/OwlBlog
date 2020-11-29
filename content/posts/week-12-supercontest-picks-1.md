@@ -53,7 +53,7 @@ Giants are mostly healthy off the bye, though starter Devonta Freeman has been l
 
 Bengals will be forced to start Brandon Allen now that Joe Burrow is done this season (and likely next season too). Giovani Bernard has been activated, but what good is a stud tailback if the head coach adamantly refuses to run the ball much? Then again, Brandon Allen being the quarterback will probably force him to call more rushing plays to compensate for the fact that his quarterback is absolute ass at the game of football.
 
-#### History / Analysis
+#### _History / Analysis_
 
 Cincinnati and New York are two very hard teams to compare here, especially given that the Bengals offense will look dramatically different without Joe Burrow.
 
@@ -101,7 +101,7 @@ The Chargers will be without their starting cornerback in Casey Heyward and argu
 
 Buffalo will not have John Brown on the field for at least the next three weeks. Brown is critical as he and Diggs do well together opening up that deep ball.
 
-#### _History_
+#### _History / Analysis_
 
 Buffalo has gone up against two really impressive quarterbacks the two weeks before their bye. Both times, Buffalo managed to impress me, especially in their game versus Kyler Murray and the Cardinals - despite being undermanned in the secondary, the Bills kept Arizona's air game in check through four quarters. 
 
@@ -146,6 +146,12 @@ Buccaneers (7-4)
 Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones.
 
 Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. Still, the return of Sammy Watkins is so very badly needed - that Robinson kid isn't cutting it as the third option at receiver.
+
+#### _History / Analysis_
+
+The Raiders showed us that this Chiefs defense can be pushed around, especially on the ground. Derek Carr and company arguably played their best game of the season in their _second_ outing against the Chiefs. Likewise, multiple teams have demonstrated that Kansas is poor at defending against the run, something that should be music to a Tampa team that desperately needs a successful rushing attack to jump start its flagging offense.
+
+Still, Tom Brady can be easily rattled by pressure nowadays. Kansas City is capable of levering that pressure through Chris Jones and Frank Clark.
 
 #### _Weather_
 
