@@ -3,9 +3,9 @@ date = 2020-11-28T12:00:00Z
 headline = "Week 12 Supercontest Picks"
 
 +++
-Last week was a much better outing. A return to form, almost. The only two picks that really soured on me were Miami and New England last week. It was a tough lesson I had to learn - never bet on flawed road favorites going up against home underdogs there were just embarrassed the week prior.  
+Last week was a much better outing. A return to form, almost. The only two picks that really soured on me were Miami and New England last week. It was a tough lesson I had to learn - never bet on flawed road favorites going up against home underdogs there were just embarrassed the week prior.
 
-As I noted in last week's analysis, Houston and Denver could win their matches so long as the former could throw the ball against a slow Patriots defense and the latter could run the ball all over a soft Miami front. That was _exactly_ what happened. Deshaun Watson stunted all over the Patriots defense, racking up 239 yards in the first half on 26 passes, only 5 of which went incomplete. Denver went ham all over Miami's defensive front, with Philip Lindsay and Melvin Gordon averaging more than 5 rushing yards on 31 carries. 
+As I noted in last week's analysis, Houston and Denver could win their matches so long as the former could throw the ball against a slow Patriots defense and the latter could run the ball all over a soft Miami front. That was _exactly_ what happened. Deshaun Watson stunted all over the Patriots defense, racking up 239 yards in the first half on 26 passes, only 5 of which went incomplete. Denver went ham all over Miami's defensive front, with Philip Lindsay and Melvin Gordon averaging more than 5 rushing yards on 31 carries.
 
 Road favorites with clear weaknesses provide good betting value here, and that'll be the main theme this week given that I'm going with 3 road underdogs. Let's get on to the picks.
 
@@ -29,7 +29,7 @@ Falcons (3-7)
 
 Raiders are mostly healthy. Clelin Ferrell's return should boost a pass rush that ranks as one of the worst in the league, though Rod Marinelli has made some remarkable strides with the unit over the past couple weeks.
 
-The injury bug has been ripping through the Falcons offensive weaponry as of late. Julio Jones is legitimately questionable to play, as are Hayden Hurst. Todd Gurley has been blissfully ruled out though, so tailback duties will likely be split by his more promising back-ups. 
+The injury bug has been ripping through the Falcons offensive weaponry as of late. Julio Jones is legitimately questionable to play, as are Hayden Hurst. Todd Gurley has been blissfully ruled out though, so tailback duties will likely be split by his more promising back-ups.
 
 ***
 
@@ -57,7 +57,7 @@ Bengals will be forced to start Brandon Allen now that Joe Burrow is done this s
 
 Cincinnati and New York are two very hard teams to compare here, especially given that the Bengals offense will look dramatically different without Joe Burrow.
 
-Still, matches between motivated teams and demoralized franchises usually  go well for the motivated team, no? 
+Still, matches between motivated teams and demoralized franchises usually  go well for the motivated team, no?
 
 #### _Weather_
 
@@ -103,7 +103,9 @@ Buffalo will not have John Brown on the field for at least the next three weeks.
 
 #### _History_
 
-Honestly, Buffalo has gone against two really impressive quarterbacks the two weeks before their bye. Both times, Buffalo has managed to impress me. Especially against Kyler Murray, as his throws were limited throughout the entire game.
+Buffalo has gone up against two really impressive quarterbacks the two weeks before their bye. Both times, Buffalo managed to impress me, especially in their game versus Kyler Murray and the Cardinals - despite being undermanned in the secondary, the Bills kept Arizona's air game in check through four quarters. 
+
+Los Angeles is yet another team defined by a top-flight quarterback and not much else. So recent history bodes well for Buffalo here.
 
 #### _Weather_
 
@@ -116,7 +118,12 @@ Bills -5.5
 ***
 
 **Buffalo covers if**  
-their secondary and defensive front really limit the 
+their secondary and defensive front really limits Justin Herbert's explosive plays. Josh Allen also needs to continue playing at a high level, even without John Brown. All this is certainly possible if Buffalo wishes to make a statement to make up for their heartbreaking defeat in Arizona two weeks ago.
+
+**Los Angeles covers if**  
+Justin Herbert manages to play well enough against Buffalo's exotic man coverage formations  
+\- OR -  
+the Bills play soft defense after going up by multiple scores, allowing the Chargers to slide into a back-door cover.
 
 ***
 
@@ -136,9 +143,9 @@ Buccaneers (7-4)
 
 #### _Injuries_
 
-Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones. 
+Tampa's offensive line is in shambles. Not only is center A.Q. Shipley gone permanently, guard Ali Marpet and tackle Donovan Smith will likely be out as well. The Buccaneers will be testing the full depth of the offensive line against a Kansas defensive front headlined by Chris Jones.
 
-Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. Still, the return of Sammy Watkins is so very badly needed - that Robinson kid isn't cutting it as the third option at receiver. 
+Chiefs are almost entirely healthy, though right tackle Mitchell Schwartz being on IR doesn't help an offensive line missing some depth. Still, the return of Sammy Watkins is so very badly needed - that Robinson kid isn't cutting it as the third option at receiver.
 
 #### _Weather_
 
