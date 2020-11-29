@@ -6,6 +6,8 @@ headline = "Week 12 Insights"
 +++
 ## Giants @ Bengals
 
+Daniel Jones playing genuinely better.
+
 ***
 
 ## Chargers @ Bills
