@@ -61,4 +61,8 @@ Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today
 
 Richard Sherman already making a difference in the running game, let alone the passing game.
 
-The 49ers offense must live and die by its ground game. Nick Mullens isn't a quarterback built for dropbacks.
+The 49ers offense must live and die by its ground game. Nick Mullens isn't a quarterback built for dropbacks. Negative game scripts has killed 49er drives twice, precisely because Mullins cannot operate in obvious passing situations.
+
+Goff once again wilts under pressure, choking up a fumble on a critical drive to end the first half.
+
+The left guard of the Rams offensive line lost two battles successively in the trenches. The second time was particular devastating, as pressure on Jared Goff led to a pick six.
