@@ -68,3 +68,5 @@ Goff once again wilts under pressure, choking up a fumble on a critical drive to
 The left guard of the Rams offensive line lost two battles successively in the trenches. The second time was particular devastating, as pressure on Jared Goff led to a pick six.
 
 The 49ers defensive front are constantly winning battles at the line of scrimmage. It's been the difference maker in this game. Not only is Goff getting rattled, but the Rams ground game has been neutered all game. Simply put, the Rams offense isn't productive at all.
+
+Deebo Samuel is a gamer.
