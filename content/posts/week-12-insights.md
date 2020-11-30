@@ -74,3 +74,5 @@ Deebo Samuel is a gamer.
 Up-tempo offense forces the 49ers to play base defense, it seems.
 
 The right tackle of the 49ers has given up some big plays, including a tackle that led to a fumble-six.
+
+The 49ers likely messed up on a blitz, leaving a huge lane Cam Akers was able to exploit for a huge gain. Either that or they were so convinced that Los Angeles would be passing the ball that gap integrity was the least of their concerns on that play. 
