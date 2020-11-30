@@ -31,6 +31,14 @@ Chargers going a little ham with the blitz on a drive. It cost them dearly on a 
 
 ***
 
+## Bears @ Packers
+
+Without Akiem Hicks, Chicago's run defense really suffers. The Packers are effectively rushing the ball a bunch of different ways. 
+
+Rodgers with some great improvisation on a misdirection play that was breaking down.
+
+***
+
 ## Chiefs @ Buccaneers
 
 Brady has a love affair with Mike Evans.
