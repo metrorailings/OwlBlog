@@ -40,3 +40,5 @@ Tampa Bay's passing game is a touch too slow. Brady making too many decisions af
 Tampa Bay left a cornerback in single coverage against Tyreek Hill. Yikes.  Safeties are not playing assignments against these explosive Chiefs.
 
 On an important series of downs following a Kansas City touchdown, Bruce Arians opts to run once and pass twice out of empty formation. No motion before the snap, no misdirection, and some of the receivers aren't even fully aware of the type of play they're running.
+
+Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today was predicated on whether they'd choose to run the ball more. Clearly...Bruce Arians felt different. Will Arians finally learn his lesson here and opt to run the ball more often now? Probably not.
