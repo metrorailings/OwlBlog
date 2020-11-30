@@ -72,3 +72,5 @@ The 49ers defensive front are constantly winning battles at the line of scrimmag
 Deebo Samuel is a gamer.
 
 Up-tempo offense forces the 49ers to play base defense, it seems.
+
+The right tackle of the 49ers has given up some big plays, including a tackle that led to a fumble-six.
