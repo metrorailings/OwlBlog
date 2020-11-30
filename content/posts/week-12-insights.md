@@ -37,6 +37,8 @@ Without Akiem Hicks, Chicago's run defense really suffers. The Packers are effec
 
 Rodgers with some great improvisation on a misdirection play that was breaking down.
 
+Mitch Trubisky failing as expected.
+
 ***
 
 ## Chiefs @ Buccaneers
@@ -50,3 +52,9 @@ Tampa Bay left a cornerback in single coverage against Tyreek Hill. Yikes.  Safe
 On an important series of downs following a Kansas City touchdown, Bruce Arians opts to run once and pass twice out of empty formation. No motion before the snap, no misdirection, and some of the receivers aren't even fully aware of the type of play they're running.
 
 Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today was predicated on whether they'd choose to run the ball more. Clearly...Bruce Arians felt different. Will Arians finally learn his lesson here and opt to run the ball more often now? Probably not.
+
+***
+
+## 49ers @ Rams
+
+Richard Sherman already making a difference in the running game, let alone the passing game.
