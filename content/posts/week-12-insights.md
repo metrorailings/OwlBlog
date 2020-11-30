@@ -39,6 +39,8 @@ Rodgers with some great improvisation on a misdirection play that was breaking d
 
 Mitch Trubisky failing as expected.
 
+Green Bay understands Chicago's playbook as well as Chicago does.
+
 ***
 
 ## Chiefs @ Buccaneers
@@ -58,3 +60,5 @@ Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today
 ## 49ers @ Rams
 
 Richard Sherman already making a difference in the running game, let alone the passing game.
+
+The 49ers offense must live and die by its ground game. Nick Mullens isn't a quarterback built for dropbacks.
