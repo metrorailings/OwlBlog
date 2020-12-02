@@ -82,3 +82,5 @@ The 49ers likely messed up on a blitz, leaving a huge lane Cam Akers was able to
 ## Chargers @ Bills
 
 Brilliant red zone play for a touchdown by the Bills.
+
+The Bills defense seems to work off assuming whether a plan will be a run or a pass. Also, this defense seems to have a pronounced weakness against the running game.
