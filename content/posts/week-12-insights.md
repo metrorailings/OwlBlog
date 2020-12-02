@@ -7,7 +7,7 @@ headline = "Week 12 Insights"
 
 Daniel Jones playing genuinely better.
 
-Giants trying their hardest to establish the ground game against these Bengals. 
+Giants trying their hardest to establish the ground game against these Bengals.
 
 Giants alternating between base 3-4 defense and a bland nickel package.
 
@@ -19,7 +19,7 @@ Is Zac Taylor finally calling more max protect formations here? Amazing.
 
 The Giants have to get rid of Evan Engram, no question. His big play potential doesn't make up for all his mistakes and his (seemingly) poor run-blocking.
 
-Impressive that the Bengals have not committed many penalties today outside of a few offensive holds that actually ended some drives or negated some productive plays. In fact, I'm sort of impressed to see the Bengals still fighting for a win here, despite losing the heart and soul of their team and the schism between the locker room and the head coach. 
+Impressive that the Bengals have not committed many penalties today outside of a few offensive holds that actually ended some drives or negated some productive plays. In fact, I'm sort of impressed to see the Bengals still fighting for a win here, despite losing the heart and soul of their team and the schism between the locker room and the head coach.
 
 Meanwhile Cameron Fleming has three penalties against him alone. Wasn't Fleming a reject Jason Garrett brought along with him from Dallas.
 
@@ -33,7 +33,7 @@ Chargers going a little ham with the blitz on a drive. It cost them dearly on a 
 
 ## Bears @ Packers
 
-Without Akiem Hicks, Chicago's run defense really suffers. The Packers are effectively rushing the ball a bunch of different ways. 
+Without Akiem Hicks, Chicago's run defense really suffers. The Packers are effectively rushing the ball a bunch of different ways.
 
 Rodgers with some great improvisation on a misdirection play that was breaking down.
 
@@ -75,4 +75,10 @@ Up-tempo offense forces the 49ers to play base defense, it seems.
 
 The right tackle of the 49ers has given up some big plays, including a tackle that led to a fumble-six.
 
-The 49ers likely messed up on a blitz, leaving a huge lane Cam Akers was able to exploit for a huge gain. Either that or they were so convinced that Los Angeles would be passing the ball that gap integrity was the least of their concerns on that play. 
+The 49ers likely messed up on a blitz, leaving a huge lane Cam Akers was able to exploit for a huge gain. Either that or they were so convinced that Los Angeles would be passing the ball that gap integrity was the least of their concerns on that play.
+
+***
+
+## Chargers @ Bills
+
+Brilliant red zone play for a touchdown by the Bills.
