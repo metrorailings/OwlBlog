@@ -38,9 +38,9 @@
             "bookSpread": -3.5,
             "curve": 4,
             "homeTeamScore": 19,
-            "owlSpread": -4.5,
+            "owlSpread": -9.5,
             "pickAwayTeam": false,
-            "pickHomeTeam": false
+            "pickHomeTeam": true
         },
         {
             "_id": 422,
@@ -162,11 +162,11 @@
             "week": 12,
             "awayTeamScore": 31,
             "bookSpread": 6,
-            "curve": 5,
+            "curve": -5,
             "homeTeamScore": 3,
-            "owlSpread": 7,
+            "owlSpread": -1,
             "pickAwayTeam": false,
-            "pickHomeTeam": false
+            "pickHomeTeam": true
         },
         {
             "_id": 431,
