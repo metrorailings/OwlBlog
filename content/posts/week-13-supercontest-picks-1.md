@@ -14,19 +14,15 @@ Last week was a much better outing. A return to form, almost. The only two picks
 
 #### _Latest Results_
 
-**Football Team** (41) @ Cowboys (16)  
-Ravens (12) @ **Steelers** (19)
+**Washington** (41) @ Cowboys (16)  
+Ravens (14) @ **Steelers** (19)
 
 #### _Record_
 
-Raiders (6-4)  
-Falcons (3-7)
+Washington (4-7)  
+Steelers (11-0)
 
 #### _Injuries_
-
-Raiders are mostly healthy. Clelin Ferrell's return should boost a pass rush that ranks as one of the worst in the league, though Rod Marinelli has made some remarkable strides with the unit over the past couple weeks.
-
-The injury bug has been ripping through the Falcons offensive weaponry as of late. Julio Jones is legitimately questionable to play, as are Hayden Hurst. Todd Gurley has been blissfully ruled out though, so tailback duties will likely be split by his more promising back-ups.
 
 #### _History_
 
