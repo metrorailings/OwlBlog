@@ -90,3 +90,5 @@ Some clever plays from the Chargers on their first touchdown drive, a few of whi
 Bills offensive line letting up some major pressure on a series of downs that ended in a punt.
 
 Josh Allen doing well getting rid of the ball quick and thinking on his feet. I'm genuinely impressed.
+
+Buffalo Bills gave up a huge run on a gamble blitz.
