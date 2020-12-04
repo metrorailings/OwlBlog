@@ -93,4 +93,6 @@ Josh Allen doing well getting rid of the ball quick and thinking on his feet. I'
 
 Buffalo gave up a huge run on a gamble blitz. Other than that, the Bills have been fairly stout against the Chargers ground game.
 
+The Chargers offensive line have been pretty bad. No speed, no strength.
+
 Los Angeles and their offensive playbook leaves me uninspired.
