@@ -88,3 +88,5 @@ The Bills defense seems to work off assuming whether a plan will be a run or a p
 Some clever plays from the Chargers on their first touchdown drive, a few of which exploited the formations Buffalo presented.
 
 Bills offensive line letting up some major pressure on a series of downs that ended in a punt.
+
+Josh Allen doing well getting rid of the ball quick and thinking on his feet. I'm genuinely impressed.
