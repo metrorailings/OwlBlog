@@ -92,3 +92,5 @@ Bills offensive line letting up some major pressure on a series of downs that en
 Josh Allen doing well getting rid of the ball quick and thinking on his feet. I'm genuinely impressed.
 
 Buffalo Bills gave up a huge run on a gamble blitz.
+
+Los Angeles and their offensive playbook leaves me uninspired.
