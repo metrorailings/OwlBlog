@@ -24,7 +24,13 @@ Steelers (11-0)
 
 #### _Injuries_
 
+The Football Team is coming into this game as healthy as can be.
+
+The Steelers on the other hand may have a few issues. Starting cornerback Steven Nelson is hamstrung. Two of their depth offensive linemen may also be ruled out after being exposed to COVID. Throw James Conner on that COVID list as well. Most important of all though, Bud Dupree will no longer be present on the field given his season-ending ACL injury. Not good at all for a Steelers defense that prided itself on its beastly pass rush.
+
 #### _History_
+
+Alex Smith was hit on upwards of 60% of his passing attempts last week against the Cowboys last week. Enter the Steelers with their league-leading pass rush. Washington catches a little break here now that the Steelers will be down one of their best pass rushers without Dupree, but Pittsburgh still has three other players who can steadily harass opposing quarterbacks.
 
 ***
 
