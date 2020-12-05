@@ -264,7 +264,7 @@ Colts -3.5
 ***
 
 **Indianapolis covers if**  
-Houston's secondary and slow linebackers give up first downs to Indy's skill position players.
+Houston's secondary and slow linebackers give up quite a few first downs to Phillip Rivers and his skill position players.
 
 **Houston covers if**  
 Deshaun Watson can somehow make magic with what little weaponry he has available to him. Houston's defense will need to find a way to gift their offense with additional possessions if they want to give Watson and company a shot at winning here.  
