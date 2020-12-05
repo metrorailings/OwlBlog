@@ -121,7 +121,7 @@ Arizona is a bit of a different story. Biggest injury is still Kyler Murray with
 
 Another fun match-up here. This Los Angeles defense purposefully lightens their presence in the box in order to throw more resources into pass coverage. Ideally, this should work in Arizona's favor, but Kyler's shoulder injury really limits the versatility of their ground game.
 
-On the other side, Arizona's defense manufactures quarterback pressure through a variety of blitzes. Ideally, this should work well against quarterbacks who've shown a propensity to get easily flustered in years past like Jared Goff, but Goff has actually been navigating blitzes pretty well this year. Credit to Sean McVay for 
+On the other side, Arizona's defense manufactures quarterback pressure through a variety of blitzes. Ideally, this should work well against quarterbacks who've shown a propensity to get easily flustered in years past like Jared Goff, but Goff has actually been navigating blitzes pretty well this year. Credit to Sean McVay for finding ways to work around his quarterback's shortcomings.
 
 ***
 
