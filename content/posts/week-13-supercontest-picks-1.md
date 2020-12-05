@@ -5,6 +5,8 @@ headline = "Week 13 Supercontest Picks"
 +++
 Last week was another solid week. My losses were both bad beats. The Giants would have covered if Daniel Jones didn't tweak his hamstring or the referees didn't gift the Bengals with so many free yards on a **bullshit** pass interference call on their last scoring drive. Likewise, the Seahawks were just _begging _the Eagles to back into the cover. Seattle was literally out there just waving Philadelphia into their end zone. But the Eagles are on a mission this year to achieves levels of incompetence never before achieved in mankind's history. And true to this aim, Philadelphia failed to book the cover. 
 
+Anyway, let's keep at it and keep cashing in these tickets.
+
 ***
 
 ### Football Team @ Steelers (-7.5)
