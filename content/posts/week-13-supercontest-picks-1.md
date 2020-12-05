@@ -155,6 +155,34 @@ Chiefs (10-1)
 
 #### _Injuries_
 
+The Broncos have a major issue in their secondary. Bryce Callahan going down with a foot injury is a major blow to a dangerously inexperienced cornerback group.
+
+Kansas City will likely need to rely upon Leveon Bell in the run game given it's very possible Clyde Edwards-Helaire will be sidelined this week after not practicing at all.
+
+#### _History / Analysis_
+
+The last time these two squared off, the Chiefs forced four turnovers against Denver en route to a 27-point smashing. It's hard to imagine this game unfolding much differently. Then again, if there's one thing Denver did right that game, it was their ability to run the ball against a soft Kansas defensive front.
+
+If the Broncos relied on the ground game instead of Drew Lock's manic arm, Denver could actually have a tiny shot at an upset here.
+
+#### _Weather_
+
+Cold and clear
+
+***
+
+Broncos +14
+
+***
+
+**Denver covers if**  
+Pat Shurmur pulls his head out of his ass and lets Phillip LIndsay take the reins of this offense.
+
+**Kansas City wins if**  
+Denver remains as predictable as ever in their offense  
+\- OR -  
+Mahomes balls out against whatever rookie cornerback is taking Bryce Callahan's place.
+
 ***
 
 ### Bills @ 49ers (+2.5)
