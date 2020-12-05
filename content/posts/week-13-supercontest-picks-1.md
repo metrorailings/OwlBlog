@@ -48,4 +48,6 @@ Alex Smith balls out against the Steelers defense using mostly short passes. Als
 
 ***
 
-### 
+### Browns @ Titans (-5.5)
+
+***
