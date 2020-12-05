@@ -224,3 +224,47 @@ Buffalo isn't fully committed to this game mentally because they're looking ahea
 
 **Buffalo covers if**  
 they're fully driven to win this game and their defense can limit San Francisco's outside zone rushes and other pseudo-run plays.
+
+***
+
+### Colts @ Texans (+3.5)
+
+***
+
+#### _Latest Results_
+
+**Titans** (45) @ Colts (26)  
+**Texans** (41) @ Lions (25)
+
+#### _Record_
+
+Colts (7-4)  
+Texans (4-7)
+
+#### _Injuries_
+
+The Texans have injury and suspension problems. With Will Fuller suspended, Kenny Stills released, and Randall Cobb injured, their wide receiver corps has been reduced to Brandin Cooks and two bums. On top of that, the secondary is down its best player (and tone setter) in Bradley Roby.
+
+The Colts may be in better shape. Three key players missing from last week's game will be back this week, two of them critical players along that defensive front. Indianapolis will be missing left tackle Anthony Castonzo, though it remains to be seen whether that matters much here as Houston really has a hard time rushing the passer, exotic blitzes aside.
+
+#### _History / Analysis_
+
+Last year's matches between these two teams really don't tell us much about this year, given all the things that's changed for these two since then. What I can tell you is that the Colts have one of the best defenses in the league. Houston, not even close. The Texans really struggle against opposing rushers, though that won't matter much as Indianapolis seems to have lost any swagger they've had in their ground game ever since Marlon Mack went to IR.
+
+What will matter more here is the passing game, and the Texans should be worried here as Bradley Roby is no longer around to set the tone in that secondary. While Philip Rivers is nowhere near as great a quarterback as he once was, the man can still make good decisions and throw the ball so long as he's given enough time in the pocket. 
+
+#### _Weather_
+
+Beautiful day for some football.
+
+***
+
+Colts -3.5
+
+***
+
+**Indianapolis covers if**  
+Houston's secondary and slow linebackers give up first downs to Indy's skill position players.
+
+**Houston covers if**  
+Deshaun Watson can somehow make magic with what little weaponry he has available to him. Houston's defense will need to find a way to gift their offense with additional possessions if they want to give Watson and company a shot at winning here.  
