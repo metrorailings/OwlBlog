@@ -44,7 +44,7 @@ Steelers -7.5
 **Pittsburgh covers if**  
 Coming off a poor performance against a wrecked Baltimore team, the Steelers overcompensate against a Washington organization lacking talent across the board.  
 \- OR -  
-Defensive pressure forces Alex Smith into way too many ugly moments.  
+Defensive pressure forces Alex Smith into way too many ugly moments.
 
 **Washington covers if**  
 Alex Smith balls out against the Steelers defense using mostly short passes. Also, their defense needs to force Ben Roethlisberger to hold on to the ball a tick longer than normal so that their front has enough time to harangue him.
@@ -88,7 +88,9 @@ Browns +5.5
 ***
 
 **Cleveland covers if**  
-Kevin Stefanski can throw enough wrinkles into the offense to fool a Tennessee defense that may be slacking after a big win against Indianapolis last week.
+Kevin Stefanski can throw enough wrinkles into the offense to fool this Tennessee defense
+
+the Titans are caught slacking after a big win against Indianapolis last week.
 
 **Tennessee covers if**  
 the Titans can carry over that same energy that propelled them to a statement win over the Colts last week.
@@ -113,7 +115,7 @@ Cardinals (6-5)
 
 Los Angeles continues its lucky streak into the 13th week of the regular season here, showing up to another game in good health. The only significant injuries come to players at depth positions.
 
-Arizona is a bit of a different story.
+Arizona is a bit of a different story. Biggest injury is still Kyler Murray with a bum shoulder. While Murray will play, his injury does change up Arizona's strategy here, as they can no longer rely upon quarterback runs to jump-start this offense.
 
 ***
 
