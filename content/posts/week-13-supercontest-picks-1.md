@@ -218,9 +218,9 @@ Defensively, the Bills have one of the better pass coverage units in the league.
 ***
 
 **San Francisco covers if**  
-the 49ers, fueled by raw emotion after being forcefully isolated the past week, come out and repeatedly win their battles in the trenches.  
+the 49ers, fueled by raw emotion after being forcefully isolated the past week, come out and dominate the trenches.  
 \- OR -  
 Buffalo isn't fully committed to this game mentally because they're looking ahead next week to their primetime showdown with the Steelers.
 
 **Buffalo covers if**  
-they're fully driven to win this game and their defense can limit San Francisco's outside zone rushes, end-arounds, jet sweeps, and other pseudo-run plays.
+they're fully driven to win this game and their defense can limit San Francisco's outside zone rushes and other pseudo-run plays.
