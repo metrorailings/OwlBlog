@@ -117,7 +117,9 @@ Los Angeles continues its lucky streak into the 13th week of the regular season 
 
 Arizona is a bit of a different story. Biggest injury is still Kyler Murray with a bum shoulder. While Murray will play, his injury does change up Arizona's strategy here, as they can no longer rely upon quarterback runs to jump-start this offense.
 
-#### _History /_
+#### _History / Analysis_
+
+Another fun match-up here. This Los Angeles defense purposefully lightens their presence in the box in order to throw more resources into pass coverage. 
 
 ***
 
