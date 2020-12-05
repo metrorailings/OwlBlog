@@ -75,11 +75,23 @@ For the Titans, starting tight end Jonnu Smith and left guard Roger Saffold will
 
 Tennessee and Cleveland are similar in that both teams run offenses that are essentially derivatives of the Shanahan system. Both teams also harbor quite a few liabilities among their defensive ranks, though their defenses have been slowly improving over the past few weeks.
 
-It'll be fascinating watching these two teams essentially play against themselves here. Whichever team adds more wrinkles to their offense to throw the other off will likely win the contest.  
+It'll be fascinating watching these two teams essentially play against themselves here. Whichever team adds more wrinkles to their offense to throw the other off will likely win the contest.
 
 #### _Weather_
 
 A little chilly
+
+***
+
+Browns +5.5
+
+***
+
+**Cleveland covers if**  
+Kevin Stefanski can throw enough wrinkles into the offense to fool a Tennessee defense that may be slacking after a big win against Indianapolis last week.
+
+**Tennessee covers if**  
+the Titans can carry over that same energy that propelled them to a statement win over the Colts last week.
 
 ***
 
