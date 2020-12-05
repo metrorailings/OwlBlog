@@ -34,15 +34,17 @@ Alex Smith was hit on upwards of 60% of his passing attempts last week against t
 
 ***
 
-Falcons +3
+Steelers -7.5
 
 ***
 
-**Atlanta covers if**  
-most of their talented weapons on offense are able to play and the team actually ends up rushing the ball with some juice now that Todd Gurley isn't there blowing chunks.
+**Pittsburgh covers if**  
+Coming off a poor performance against a wrecked Baltimore team, the Steelers overcompensate against a Washington organization lacking talent across the board.  
+\- OR -  
+Defensive pressure forces Alex Smith into way too many ugly moments.  
 
-**Las Vegas covers if**  
-the players take their fighting spirit on the road this week.
+**Washington covers if**  
+Alex Smith balls out against the Steelers defense using mostly short passes. Also, their defense needs to force Ben Roethlisberger to hold on to the ball a tick longer than normal so that their front has enough time to harangue him.
 
 ***
 
