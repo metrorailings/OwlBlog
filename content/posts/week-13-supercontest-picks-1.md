@@ -249,7 +249,7 @@ The Colts may be in better shape. Three key players missing from last week's gam
 
 #### _History / Analysis_
 
-Last year's matches between these two teams really don't tell us much about this year, given all the things that's changed for these two since then. What I can tell you is that the Colts have one of the best defenses in the league. Houston, not even close. The Texans really struggle against opposing rushers, though that won't matter much as Indianapolis seems to have lost any swagger they've had in their ground game ever since Marlon Mack went to IR.
+Last year's matches between these teams really don't tell us much about this year, given all the things that's changed for these two organizations since then. What I can tell you is that the Colts have one of the best defenses in the league. Houston, not even close. The Texans really struggle against opposing rushers, though that won't matter much as Indianapolis seems to have lost any swagger they've had in their ground game ever since Marlon Mack went to IR.
 
 What will matter more here is the passing game, and the Texans should be worried here as Bradley Roby is no longer around to set the tone in that secondary. While Philip Rivers is nowhere near as great a quarterback as he once was, the man can still make good decisions and throw the ball so long as he's given enough time in the pocket. 
 
