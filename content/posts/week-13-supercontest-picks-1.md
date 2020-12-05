@@ -101,9 +101,19 @@ the Titans can carry over that same energy that propelled them to a statement wi
 
 #### _Latest Results_
 
+49ers (20) @ **Rams** (23)  
+Cardinals (17) @ **Patriots** (20)
+
 #### _Record_
 
+Rams (7-4)  
+Cardinals (6-5)
+
 #### _Injuries_
+
+Los Angeles continues its lucky streak into the 13th week of the regular season here, showing up to another game in good health. The only significant injuries come to players at depth positions.
+
+Arizona is a bit of a different story.
 
 ***
 
