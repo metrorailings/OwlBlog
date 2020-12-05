@@ -145,7 +145,13 @@ their ground game pops off.
 
 #### _Latest Results_
 
+**Saints** (31) @ Broncos (3)  
+**Chiefs** (27) @ Buccaneers (24)
+
 #### _Record_
+
+Broncos (4-7)  
+Chiefs (10-1)
 
 #### _Injuries_
 
