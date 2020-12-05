@@ -1,6 +1,5 @@
 +++
 date = 2020-12-04T12:00:00Z
-draft = true
 headline = "Week 13 Supercontest Picks"
 
 +++
@@ -28,9 +27,13 @@ The Football Team is coming into this game as healthy as can be.
 
 The Steelers on the other hand may have a few issues. Starting cornerback Steven Nelson is hamstrung. Two of their depth offensive linemen may also be ruled out after being exposed to COVID. Throw James Conner on that COVID list as well. Most important of all though, Bud Dupree will no longer be present on the field given his season-ending ACL injury. Not good at all for a Steelers defense that prided itself on its beastly pass rush.
 
-#### _History_
+#### _History / Analysis_
 
 Alex Smith was hit on upwards of 60% of his passing attempts last week against the Cowboys last week. Enter the Steelers with their league-leading pass rush. Washington catches a little break here now that the Steelers will be down one of their best pass rushers without Dupree, but Pittsburgh still has three other players who can steadily harass opposing quarterbacks.
+
+#### _Weather_
+
+Clear and cold
 
 ***
 
@@ -51,3 +54,51 @@ Alex Smith balls out against the Steelers defense using mostly short passes. Als
 ### Browns @ Titans (-5.5)
 
 ***
+
+#### _Latest Results_
+
+**Browns** (27) @ Jaguars (25)  
+**Titans** (45) @ Colts (26)
+
+#### _Record_
+
+Browns (8-3)  
+Titans (8-3)
+
+#### _Injuries_
+
+Cleveland is fairly healthy, though they'll be missing the services of first cornerback Denzel Ward. They're also missing some depth among their wide receiver corps.
+
+For the Titans, starting tight end Jonnu Smith and left guard Roger Saffold will likely not play in this game. Same with starting cornerback Adoree Jackson.
+
+#### _History / Analysis_
+
+Tennessee and Cleveland are similar in that both teams run offenses that are essentially derivatives of the Shanahan system. Both teams also harbor quite a few liabilities among their defensive ranks, though their defenses have been slowly improving over the past few weeks. 
+
+***
+
+### Rams @ Cardinals (+3)
+
+***
+
+#### _Latest Results_
+
+#### _Record_
+
+#### _Injuries_
+
+***
+
+### Broncos @ Chiefs (-14)
+
+***
+
+#### _Latest Results_
+
+#### _Record_
+
+#### _Injuries_
+
+***
+
+### Bills @ 49ers (+2.5)
