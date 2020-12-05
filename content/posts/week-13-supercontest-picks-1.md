@@ -223,4 +223,4 @@ the 49ers, fueled by raw emotion after being forcefully isolated the past week, 
 Buffalo isn't fully committed to this game mentally because they're looking ahead next week to their primetime showdown with the Steelers.
 
 **Buffalo covers if**  
-the team is fully driven to win this game and their defense actually limits San Francisco's outside zone runs, end-arounds, and jet sweeps.
+they're fully driven to win this game and their defense can limit San Francisco's outside zone rushes, end-arounds, jet sweeps, and other pseudo-run plays.
