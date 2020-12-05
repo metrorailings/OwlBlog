@@ -207,6 +207,20 @@ The 49ers will be a bit thin at cornerback. Their starting nickel back has been 
 
 #### _History / Analysis_
 
-Both of these teams have some great coaches on their staff. Both of their offenses are thematically similar as well, in that both use misdirection and pre-snap motion to fool defenses. The Bills love throwing the ball deep though, whereas the 49ers opt to begin more plays behind the line of scrimmage and take advantage of the full width of the field.
+Both of these teams have some great coaches on their staff. Both of their offenses are thematically similar as well, in that both use misdirection and pre-snap motion to fool defenses. The Bills love throwing the ball deep though, whereas the 49ers prefer to run more plays behind the line of scrimmage.
 
-Defensively, the Bills have one of the better pass coverage units in the league. Their defensive front and linebackers do give up quite a few yards on the ground though, something that should bode well for San Francisco's offense. Josh Allen's proclivity to hold on to the ball waiting for the deeper routes to open up. 
+Defensively, the Bills have one of the better pass coverage units in the league. I do expect Nick Mullin to get tripped up a few times by all the different ways Buffalo's secondary can morph coverage. But Buffalo's defensive front and linebackers do give up quite a few yards on the ground though, so the 49ers should be able to lean on their base offense. Josh Allen's proclivity to hold on to the ball may bite him in the ass here if Kerry Hyder, Javon Kinlaw, and Arik Armstead can find it within themselves to mount some sort of pass rush.
+
+***
+
+49ers +2.5
+
+***
+
+**San Francisco covers if**  
+the 49ers, fueled by raw emotion after being forcefully isolated the past week, come out and repeatedly win their battles in the trenches.  
+\- OR -  
+Buffalo isn't fully committed to this game mentally because they're looking ahead next week to their primetime showdown with the Steelers.
+
+**Buffalo covers if**  
+the team is driven to win this game and their defense can actually limit San Francisco's outside zone runs, end-arounds, and jet sweeps.
