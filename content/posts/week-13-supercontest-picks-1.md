@@ -186,3 +186,27 @@ Mahomes balls out against whatever rookie cornerback is taking Bryce Callahan's 
 ***
 
 ### Bills @ 49ers (+2.5)
+
+***
+
+#### _Latest Results_
+
+Chargers (17) @ **Bills** (27)  
+**49ers** (23) @ Rams (20)
+
+#### _Record_
+
+Bills (8-3)  
+49ers (5-6)
+
+#### _Injuries_
+
+Buffalo is mostly healthy across the board, though the loss of John Brown for the season will always hurt them in their deep passing game.
+
+The 49ers will be a bit thin at cornerback. Their starting nickel back has been ruled out and it's possible his replacement may be sidelined as well.
+
+#### _History / Analysis_
+
+Both of these teams have some great coaches on their staff. Both of their offenses are thematically similar as well, in that both use misdirection and pre-snap motion to fool defenses. The Bills love throwing the ball deep though, whereas the 49ers opt to begin more plays behind the line of scrimmage and take advantage of the full width of the field.
+
+Defensively, the Bills have one of the better pass coverage units in the league. Their defensive front and linebackers do give up quite a few yards on the ground though, something that should bode well for San Francisco's offense. Josh Allen's proclivity to hold on to the ball waiting for the deeper routes to open up. 
