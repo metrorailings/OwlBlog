@@ -73,7 +73,9 @@ For the Titans, starting tight end Jonnu Smith and left guard Roger Saffold will
 
 #### _History / Analysis_
 
-Tennessee and Cleveland are similar in that both teams run offenses that are essentially derivatives of the Shanahan system. Both teams also harbor quite a few liabilities among their defensive ranks, though their defenses have been slowly improving over the past few weeks. 
+Tennessee and Cleveland are similar in that both teams run offenses that are essentially derivatives of the Shanahan system. Both teams also harbor quite a few liabilities among their defensive ranks, though their defenses have been slowly improving over the past few weeks.
+
+It'll be fascinating watching these two teams essentially play against themselves here. Whichever team adds more wrinkles to their offense to throw the other off will likely win the contest.  
 
 #### _Weather_
 
