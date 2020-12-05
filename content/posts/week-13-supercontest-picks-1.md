@@ -117,6 +117,8 @@ Los Angeles continues its lucky streak into the 13th week of the regular season 
 
 Arizona is a bit of a different story. Biggest injury is still Kyler Murray with a bum shoulder. While Murray will play, his injury does change up Arizona's strategy here, as they can no longer rely upon quarterback runs to jump-start this offense.
 
+#### _History /_
+
 ***
 
 ### Broncos @ Chiefs (-14)
