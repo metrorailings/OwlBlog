@@ -75,6 +75,10 @@ For the Titans, starting tight end Jonnu Smith and left guard Roger Saffold will
 
 Tennessee and Cleveland are similar in that both teams run offenses that are essentially derivatives of the Shanahan system. Both teams also harbor quite a few liabilities among their defensive ranks, though their defenses have been slowly improving over the past few weeks. 
 
+#### _Weather_
+
+A little chilly
+
 ***
 
 ### Rams @ Cardinals (+3)
