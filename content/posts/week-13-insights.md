@@ -12,3 +12,5 @@ Once again, Cleveland's coaches entrust their red zone offense to Baker Mayfield
 The Browns aren't shy about pulling out all the tricks today. I love it. The Browns truly want this game more than the Titans.
 
 Cleveland's insistence on passing the ball in the red zone may be that critical wrinkle they added to their offense this week to catch Tenneessee off-guard.
+
+Tannehill money on two big play-action throws, the second of which led to a touchdown.
