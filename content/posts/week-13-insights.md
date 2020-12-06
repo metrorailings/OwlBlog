@@ -52,3 +52,5 @@ Evan Engram doing just Evan Engram things. But kudos to Colt McCoy for at least 
 Giants defense has been doing some fantastic work keeping this team in there on multiple drives without any help from the offense. The complexity of their blitz packages, the decisiveness of their linebackers, their ability to guard the edge against the ground game, the shutdown ability James Bradberry provides....all these things matter.
 
 Finally...the Giants mount a scoring drive here off nothing but the ground game. Three huge power runs from 12 formation was all New York needed to punch the ball into the end zone. Both Wayne Gallman and Alfred Morris were chewing off huge yardage here. The Giants offensive front deserve some real credit for their phenomenal run blocking here.
+
+Right tackle Chad Wheeler is a delicious liability. These Seahawks are hopeless with him in there as right tackle. Really, the offensive line is bad enough as is, but him at right tackle sinks this line to a new low.
