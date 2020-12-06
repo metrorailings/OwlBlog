@@ -41,7 +41,7 @@ The one time Watson was finally sacked, the Colts managed to close the gaps on t
 
 The Colts have finally established their ground game in the fourth quarter. Took a little while, but Houston needed to be worn down.
 
-Rivers is an old man. An old, old man. That being said, good work by the Texans defense forcing Rivers to hold the ball longer. His immediate reads were taken away, it seems. Compare the second half passing numbers to the first half numbers. 
+Rivers is an old man. An old, old man. That being said, good work by the Texans defense forcing Rivers to hold the ball longer. His immediate reads were taken away, it seems. Compare the second half passing numbers to the first half numbers.  Not to mention T.Y. Hilton was blanked in the second half.
 
 ***
 
