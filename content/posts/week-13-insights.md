@@ -4,3 +4,5 @@ headline = "Week 13 Insights"
 
 +++
 ## Browns @ Titans
+
+Interesting to see Baker drop back and pass quite a bit in Cleveland's first drive...
