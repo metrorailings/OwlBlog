@@ -9,7 +9,7 @@ Interesting to see Baker drop back and pass quite a bit in Cleveland's first dri
 
 Once again, Cleveland's coaches entrust their red zone offense to Baker Mayfield as a drop-back quarterback. And Baker almost disappoints, to be frank.
 
-The Browns aren't shy about pulling out all the tricks today. I love it. The Browns truly want this game more than the Titans.
+The Browns aren't shy about pulling out all the tricks today. I love it. The Browns truly want this game more than the Titans. Just the fact that Cleveland forced Derrick Henry's first fumble this year speaks volumes.
 
 Cleveland's insistence on passing the ball in the red zone may be that critical wrinkle they added to their offense this week to catch Tenneessee off-guard.
 
