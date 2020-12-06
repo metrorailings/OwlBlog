@@ -5,4 +5,8 @@ headline = "Week 13 Insights"
 +++
 ## Browns @ Titans
 
-Interesting to see Baker drop back and pass quite a bit in Cleveland's first drive...
+Interesting to see Baker drop back and pass quite a bit in Cleveland's first drive....
+
+Once again, Cleveland's coaches entrust their red zone offense to Baker Mayfield as a drop-back quarterback. And Baker almost disappoints, to be frank.
+
+The Browns aren't shy about pulling out all the tricks today. I love it. The Browns truly want this game more than the Titans.
