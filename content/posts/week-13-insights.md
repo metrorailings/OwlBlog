@@ -48,3 +48,7 @@ Rivers is an old man. An old, old man. That being said, good work by the Texans 
 ## Giants @ Seahawks
 
 Evan Engram doing just Evan Engram things. But kudos to Colt McCoy for at least moving the ball against this defense.
+
+Giants defense has been doing some fantastic work keeping this team in there on multiple drives without any help from the offense. The complexity of their blitz packages, the decisiveness of their linebackers, their ability to guard the edge against the ground game, the shutdown ability James Bradberry provides....all these things matter.
+
+Finally...the Giants mount a scoring drive here off nothing but the ground game. Three huge power runs from 12 formation was all New York needed to punch the ball into the end zone. Both Wayne Gallman and Alfred Morris were chewing off huge yardage here. The Giants offensive front deserve some real credit for their phenomenal run blocking here.
