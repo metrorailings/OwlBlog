@@ -14,3 +14,11 @@ The Browns aren't shy about pulling out all the tricks today. I love it. The Bro
 Cleveland's insistence on passing the ball in the red zone may be that critical wrinkle they added to their offense this week to catch Tenneessee off-guard.
 
 Tannehill money on two big play-action throws, the second of which led to a touchdown.
+
+***
+
+## Bengals @ Dolphins
+
+Chris Hubbard may be the best run defender on the Bengals.
+
+Tua Tagovailoa making a very wrong decision on a read-pass option. Shame.
