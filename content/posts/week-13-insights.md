@@ -29,7 +29,7 @@ Two pedestrian rushes followed by a failed fade throw summed up the final series
 
 ## Colts @ Texans
 
-Deshaun Watson just exposing this Indy cover-two defense with intermediate throws over the middle.
+Deshaun Watson just exposing this Indy cover-two defense with intermediate throws over the middle. Predictability is a bad thing when the talent isn't living up to its full potential.
 
 Chaz Green let up a drive-killing sack.
 
