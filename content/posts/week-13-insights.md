@@ -40,3 +40,5 @@ Chaz Green giving up yet another drive-killing sack, this time against all-decad
 The one time Watson was finally sacked, the Colts managed to close the gaps on the pocket. I wonder if they've been attempting far too many stunts and finesse plays here. If so, that would go a long way to explaining why Watson has been so elusive.
 
 The Colts have finally established their ground game in the fourth quarter. Took a little while, but Houston needed to be worn down.
+
+Rivers is an old man. An old, old man.
