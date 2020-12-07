@@ -66,3 +66,9 @@ Tyreek Hill is a goddamn cheat code.
 Denver successively abusing play action on their first drive in the second half.
 
 Kansas doesn't even care to run the ball at all. Is this a coaching decision or simply Mahomes deciding to put the team on his back? Either way, it seems the Chiefs honestly don't care about time of possession. I wonder if this will be something that bites them in the ass later in the postseason.
+
+***
+
+## Football Team @ Steelers
+
+Steelers have a pretty rudimentary offense. Not much finesse or talent on display so far. I thought Claypool and Juju were supposed to carry this offense to the next level.
