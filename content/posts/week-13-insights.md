@@ -58,3 +58,7 @@ Right tackle Chad Wheeler is a delicious liability. These Seahawks are hopeless 
 ***
 
 ## Broncos @ Chiefs
+
+Finally, Denver is showing a willingness to run the ball as often as they pass the ball.
+
+Tyreek Hill is a goddamn cheat code.
