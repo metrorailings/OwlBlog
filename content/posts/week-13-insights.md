@@ -79,4 +79,4 @@ Nothing but short passes from this anemic Steelers offense.
 
 Mike Hilton failed to tackle a runner on one play, only to make a huge play on the next down to return the ball back to the Steelers on downs.
 
-Washington's defensive front is no joke.
+Washington's defensive front is no joke. Then again, maybe the Steelers offensive line has lost some of its run-blocking prowess, not sure what exactly...
