@@ -72,3 +72,11 @@ Kansas doesn't even care to run the ball at all. Is this a coaching decision or 
 ## Football Team @ Steelers
 
 Steelers have a pretty rudimentary offense. Not much finesse or talent on display so far. I thought Claypool and Juju were supposed to carry this offense to the next level.
+
+Washington's offense can be summed up as an abortion too, though it has shown hints of promise.
+
+Nothing but short passes from this anemic Steelers offense. 
+
+Mike Hilton failed to tackle a runner on one play, only to make a huge play on the next down to return the ball back to the Steelers on downs.
+
+Washington's defensive front is no joke.
