@@ -62,3 +62,7 @@ Right tackle Chad Wheeler is a delicious liability. These Seahawks are hopeless 
 Finally, Denver is showing a willingness to run the ball as often as they pass the ball.
 
 Tyreek Hill is a goddamn cheat code.
+
+Denver successively abusing play action on their first drive in the second half.
+
+Kansas doesn't even care to run the ball at all. Is this a coaching decision or simply Mahomes deciding to put the team on his back?
