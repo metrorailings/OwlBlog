@@ -98,3 +98,7 @@ San Francisco playing nothing but cover-two on one drive. Doesn't seem to matter
 Buffalo's blitzes is making Nick Mullins nervous.
 
 The 49ers defensive front can't chase down Josh Allen. They're a little too slow. Starting to make sense why San Francisco has been so successful against Jared Goff this year whereas Russell Wilson dealt them a pretty serious loss.
+
+Devin Singletary may be something special.
+
+San Francisco's zone defense is just too easy. Not to mention the 49ers aren't even attempting to mask coverage here.
