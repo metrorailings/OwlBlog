@@ -75,7 +75,7 @@ Steelers have a pretty rudimentary offense. Not much finesse or talent on displa
 
 Washington's offense can be summed up as an abortion too, though it has shown hints of promise.
 
-Nothing but short passes from this anemic Steelers offense. 
+Nothing but short passes from this anemic Steelers offense.
 
 Mike Hilton failed to tackle a runner on one play, only to make a huge play on the next down to return the ball back to the Steelers on downs.
 
@@ -83,4 +83,14 @@ Washington's defensive front is no joke. Then again, maybe the Steelers offensiv
 
 Washington's defensive backs don't tackle well at all.
 
-Washington's offense has promise, they just don't have that fighting spirit to make clutch plays under pressure.
+Washington's offense has promise.
+
+***
+
+## Bills vs. 49ers
+
+Whenever Josh Allen drops back to pass and the play starts to linger, Buffalo still has receivers that eventually loop back to the quarterback to give him an escape outlet. 
+
+The 49ers haven't mounted much of a pass rush. Josh Allen with time in the pocket has been almost perfect.
+
+San Francisco playing a good amount of cover-two. Doesn't seem to matter much though, Buffalo is having too easy a time matriculating the ball with short passes and the occasional running play. Perhaps this is the 49ers overreacting at the last drive, where Josh Allen led a scoring drive off two big passes.
