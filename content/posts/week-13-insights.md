@@ -96,3 +96,5 @@ The 49ers haven't mounted much of a pass rush. Josh Allen with time in the pocke
 San Francisco playing nothing but cover-two on one drive. Doesn't seem to matter much though, Buffalo is having too easy a time matriculating the ball with short passes and the occasional running play. Perhaps this is the 49ers overreacting to the last drive, where Josh Allen led a scoring drive off two big passes. The biggest problem for the 49ers isn't coverage, but it's their lack of a pass rush, period.
 
 Buffalo's blitzes is making Nick Mullins nervous.
+
+The 49ers defensive front can't chase down Josh Allen. They're a little too slow. Starting to make sense why San Francisco has been so successful against Jared Goff this year whereas Russell Wilson dealt them a pretty serious loss.
