@@ -93,4 +93,4 @@ Whenever Josh Allen drops back to pass and the play starts to linger, Buffalo st
 
 The 49ers haven't mounted much of a pass rush. Josh Allen with time in the pocket has been almost perfect.
 
-San Francisco playing a good amount of cover-two. Doesn't seem to matter much though, Buffalo is having too easy a time matriculating the ball with short passes and the occasional running play. Perhaps this is the 49ers overreacting at the last drive, where Josh Allen led a scoring drive off two big passes.
+San Francisco playing a good amount of cover-two. Doesn't seem to matter much though, Buffalo is having too easy a time matriculating the ball with short passes and the occasional running play. Perhaps this is the 49ers overreacting at the last drive, where Josh Allen led a scoring drive off two big passes. The biggest problem for the 49ers isn't coverage, but it's their lack of a pass rush, period.
