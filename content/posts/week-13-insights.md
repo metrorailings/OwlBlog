@@ -120,3 +120,5 @@ Lamar sloppy with his passes.
 Bears are actually running the ball for once against this Lions defense. I think that says quite a bit more about the Lions than it does about Chicago.
 
 I agree with Michael Lombardi here - Detroit's defense is slow.
+
+Detroit's offense finally showed juice on a short drive by hurrying Chicago's defense unexpectedly. The Lions took advantage of confusion among Chicago's coverage personnel.
