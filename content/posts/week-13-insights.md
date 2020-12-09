@@ -112,3 +112,9 @@ The Cowboys had 12 days to prepare for this game. 12 days. Yet, linebackers are 
 Dallas is getting gashed by Baltimore's rushing game. Didn't every other team in the league allegedly figure out Greg Raven's scheme yet?
 
 Lamar sloppy with his passes.
+
+***
+
+## Lions @ Bears
+
+Bears are actually running the ball for once against this Lions defense.
