@@ -89,7 +89,7 @@ Washington's offense has promise.
 
 ## Bills vs. 49ers
 
-Whenever Josh Allen drops back to pass and the play starts to linger, Buffalo still has receivers that eventually loop back to the quarterback to give him an escape outlet. 
+Whenever Josh Allen drops back to pass and the play starts to linger, Buffalo still has receivers that eventually loop back to the quarterback to give him an escape outlet.
 
 The 49ers haven't mounted much of a pass rush. Josh Allen with time in the pocket has been almost perfect.
 
@@ -102,3 +102,13 @@ The 49ers defensive front can't chase down Josh Allen. They're a little too slow
 Devin Singletary may be something special.
 
 San Francisco's zone defense is just too easy. Not to mention the 49ers aren't even attempting to mask coverage here.
+
+***
+
+## Ravens @ Cowboys
+
+The Cowboys had 12 days to prepare for this game. 12 days. Yet, linebackers are getting clowned by some of Baltimore's inside rushes. Andy Dalton isn't necessarily on the same page as some of his receivers. A delay of game is called on a field-goal attempt that ended in a miss.
+
+Dallas is getting gashed by Baltimore's rushing game. Didn't every other team in the league allegedly figure out Greg Raven's scheme yet?
+
+Lamar sloppy with his passes.
