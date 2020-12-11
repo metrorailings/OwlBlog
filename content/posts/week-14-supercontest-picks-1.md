@@ -24,6 +24,9 @@ Eagles (16) @ **Packers** (30)
 
 #### _Record_
 
+Saints (10-2)  
+Eagles (3-8-1)
+
 #### _Weather_
 
 Good, solid weather.
@@ -41,6 +44,9 @@ Good, solid weather.
 
 #### _Record_
 
+Cardinals (6-6)  
+Giants (5-7)
+
 #### _Weather_
 
 It's a beautiful day for football.
@@ -57,6 +63,9 @@ It's a beautiful day for football.
 **Lions** (34) @ Bears (30)
 
 #### _Record_
+
+Texans (4-8)  
+Bears (5-7)
 
 #### _Weather_
 
