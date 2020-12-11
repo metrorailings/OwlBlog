@@ -91,6 +91,8 @@ Stunning weather, but the field might be a bit wet from some rain the night befo
 
 #### _Weather_
 
+Hot by December's standards
+
 ***
 
 ### Steelers @ Bills (-2.5)
@@ -102,6 +104,8 @@ Stunning weather, but the field might be a bit wet from some rain the night befo
 #### _Record_
 
 #### _Weather_
+
+Cold and maybe even a little wet. The field could possibly be slippery if rain comes down overnight. Throw some wind in there too.
 
 ***
 
