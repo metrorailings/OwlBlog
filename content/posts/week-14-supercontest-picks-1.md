@@ -104,6 +104,9 @@ Bengals (7) @ **Dolphins** (19)
 
 #### _Record_
 
+Chiefs (11-1)  
+Dolphins (8-4)
+
 #### _Weather_
 
 Hot by December's standards.
@@ -121,6 +124,9 @@ Hot by December's standards.
 
 #### _Record_
 
+Steelers (11-1)  
+Bills (9-3)
+
 #### _Weather_
 
 Cold and maybe even a little wet. The field could possibly be slippery if rain comes down overnight. Throw some wind in there too.
@@ -137,6 +143,9 @@ Cowboys (17) @ **Ravens** (34)
 **Browns** (41) @ Titans (35)
 
 #### _Record_
+
+Ravens (7-5)  
+Browns (9-3)
 
 #### _Weather_
 
