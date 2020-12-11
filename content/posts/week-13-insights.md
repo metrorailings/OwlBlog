@@ -131,4 +131,6 @@ Excellent start from Jalen Hurts on his first throw.
 
 The minute pressure shows its ugly face, Hurts wants to take off with the ball. In a clean pocket, he is giving his reads time to develop their routes.
 
-Packers adapted their pass rush going against Jalen Hurts. Nothing but bull rushes now. And it's a tactic that seems to have worked, as it staved off a potential comeback drive that Philadelphia desperately needed to tie up the game late in the fourth.
+Packers adapted their pass rush going against Jalen Hurts. Nothing but bull rushes now. And it's a tactic that seems to have worked, as it staved off a potential comeback drive that Philadelphia desperately needed to tie up the game late in the fourth. Jalen Hurts was money on a couple throws, but it's clear that under pressure, his mentality quickly becomes all about running the ball.
+
+Jalen is young, so he can be molded, but it'll take time and (much more importantly) willingness on his part.
