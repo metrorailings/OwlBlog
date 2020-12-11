@@ -118,3 +118,5 @@ Cold and maybe even a little wet. The field could possibly be slippery if rain c
 #### _Record_
 
 #### _Weather_
+
+Seasonally cold
