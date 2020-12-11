@@ -140,3 +140,5 @@ Jalen is young, so he can be molded, but it'll take time and (much more importan
 ## Rams @ Cardinals
 
 Rams with a major coverage bust on Arizona's first drive, with too many defenders chasing around DeAndre Hopkins.
+
+Josh Hill has been playing pretty well as the Rams second cornerback.
