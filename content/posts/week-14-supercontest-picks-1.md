@@ -35,6 +35,8 @@ Good weather
 
 ### Cardinals @ Giants (+1.5)
 
+***
+
 #### _Latest Results_
 
 **Saints** (21) @ Falcons (16)  
@@ -55,7 +57,27 @@ Beautiful
 
 ***
 
+#### _Latest Results_
+
+#### _Record_
+
+#### _Weather_
+
+It's a cold one.
+
+***
+
 ### Broncos @ Panthers (-3)
+
+***
+
+#### _Latest Results_
+
+#### _Record_
+
+#### _Weather_
+
+Stunning weather, but the field might be a bit wet from some rain the night before.
 
 ***
 
@@ -63,8 +85,32 @@ Beautiful
 
 ***
 
+#### _Latest Results_
+
+#### _Record_
+
+#### _Weather_
+
+***
+
 ### Steelers @ Bills (-2.5)
 
 ***
 
+#### _Latest Results_
+
+#### _Record_
+
+#### _Weather_
+
+***
+
 ### Ravens @ Browns (+1)
+
+***
+
+#### _Latest Results_
+
+#### _Record_
+
+#### _Weather_
