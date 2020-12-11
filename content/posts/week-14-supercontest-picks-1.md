@@ -24,9 +24,6 @@ Eagles (16) @ **Packers** (30)
 
 #### _Record_
 
-Washington (4-7)  
-Steelers (11-0)
-
 #### _Weather_
 
 Good, solid weather.
@@ -39,13 +36,10 @@ Good, solid weather.
 
 #### _Latest Results_
 
-**Saints** (21) @ Falcons (16)  
-Eagles (16) @ **Packers** (30)
+**Rams** (38) @ Cardinals (28)  
+**Giants** (17) @ Seahawks (12)
 
 #### _Record_
-
-Washington (4-7)  
-Steelers (11-0)
 
 #### _Weather_
 
