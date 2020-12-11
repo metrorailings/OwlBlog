@@ -29,7 +29,7 @@ Steelers (11-0)
 
 #### _Weather_
 
-Good weather
+Good, solid weather.
 
 ***
 
@@ -49,7 +49,7 @@ Steelers (11-0)
 
 #### _Weather_
 
-Beautiful
+It's a beautiful day for football.
 
 ***
 
@@ -91,7 +91,7 @@ Stunning weather, but the field might be a bit wet from some rain the night befo
 
 #### _Weather_
 
-Hot by December's standards
+Hot by December's standards.
 
 ***
 
@@ -119,4 +119,4 @@ Cold and maybe even a little wet. The field could possibly be slippery if rain c
 
 #### _Weather_
 
-Seasonally cold
+Seasonally cold.
