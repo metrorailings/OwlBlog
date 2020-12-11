@@ -35,6 +35,20 @@ Good weather
 
 ### Cardinals @ Giants (+1.5)
 
+#### _Latest Results_
+
+**Saints** (21) @ Falcons (16)  
+Eagles (16) @ **Packers** (30)
+
+#### _Record_
+
+Washington (4-7)  
+Steelers (11-0)
+
+#### _Weather_
+
+Beautiful
+
 ***
 
 ### Texans @ Bears (+1)
