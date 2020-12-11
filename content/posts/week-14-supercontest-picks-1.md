@@ -84,6 +84,9 @@ BYE - Panthers (27) @ **Vikings** (28)
 
 #### _Record_
 
+Broncos (4-8)  
+Panthers (4-8)
+
 #### _Weather_
 
 Stunning weather, but the field might be a bit wet from some rain the night before.
