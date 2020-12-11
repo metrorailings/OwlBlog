@@ -122,3 +122,13 @@ Bears are actually running the ball for once against this Lions defense. I think
 I agree with Michael Lombardi here - Detroit's defense is slow.
 
 Detroit's offense finally showed juice on a short drive by hurrying Chicago's defense unexpectedly. The Lions took advantage of confusion among Chicago's coverage personnel.
+
+***
+
+## Eagles @ Packers
+
+Excellent start from Jalen Hurts on his first throw.
+
+The minute pressure shows its ugly face, Hurts wants to take off with the ball. In a clean pocket, he is giving his reads time to develop their routes.
+
+Packers adapted their pass rush going against Jalen Hurts. Nothing but bull rushes now. And it's a tactic that seems to have worked, as it staved off a potential comeback drive that Philadelphia desperately needed to tie up the game late in the fourth.
