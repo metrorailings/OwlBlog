@@ -87,6 +87,9 @@ Stunning weather, but the field might be a bit wet from some rain the night befo
 
 #### _Latest Results_
 
+Broncos (16) @ **Chiefs** (22)  
+Bengals (7) @ **Dolphins** (19)
+
 #### _Record_
 
 #### _Weather_
@@ -101,6 +104,9 @@ Hot by December's standards.
 
 #### _Latest Results_
 
+**Football Team** (23) @ Steelers (17)  
+**Bills** (34) vs. 49ers (24)
+
 #### _Record_
 
 #### _Weather_
@@ -114,6 +120,9 @@ Cold and maybe even a little wet. The field could possibly be slippery if rain c
 ***
 
 #### _Latest Results_
+
+Cowboys (17) @ **Ravens** (34)  
+**Browns** (41) @ Titans (35)
 
 #### _Record_
 
