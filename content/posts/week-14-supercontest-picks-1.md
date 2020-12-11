@@ -33,6 +33,15 @@ Good, solid weather.
 
 ***
 
+Saints -7
+
+***
+
+**New Orleans covers if**  
+their pass rushers can keep Jalen Hurts hemmed in the pocket. The Saints defensive linemen need to mount pressure mostly through bull rushes. It wouldn't be the first time this season New Orleans sustained a pass rush solely off bull rushes.
+
+***
+
 ### Cardinals @ Giants (+1.5)
 
 ***
