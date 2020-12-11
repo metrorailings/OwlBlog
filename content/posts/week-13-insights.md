@@ -142,3 +142,5 @@ Jalen is young, so he can be molded, but it'll take time and (much more importan
 Rams with a major coverage bust on Arizona's first drive, with too many defenders chasing around DeAndre Hopkins.
 
 Josh Hill has been playing pretty well as the Rams second cornerback.
+
+To their credit, the Rams have some fast defenders along their front. It's been key to keeping Kyler from popping off with his scrambles and designed runs.
