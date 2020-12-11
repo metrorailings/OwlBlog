@@ -53,6 +53,9 @@ It's a beautiful day for football.
 
 #### _Latest Results_
 
+**Colts** (26) @ Texans (20)  
+**Lions** (34) @ Bears (30)
+
 #### _Record_
 
 #### _Weather_
@@ -66,6 +69,9 @@ It's a cold one.
 ***
 
 #### _Latest Results_
+
+Broncos (16) @ **Chiefs** (22)  
+BYE - Panthers (27) @ **Vikings** (28)
 
 #### _Record_
 
