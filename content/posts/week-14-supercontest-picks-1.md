@@ -4,9 +4,11 @@ draft = true
 headline = "Week 14 Supercontest Picks"
 
 +++
-Last week was another solid week. My losses were both bad beats. The Giants would have covered if Daniel Jones didn't tweak his hamstring or the referees didn't gift the Bengals with so many free yards on a **bullshit** pass interference call on their last scoring drive. Likewise, the Seahawks were just _begging _the Eagles to back into the cover. Seattle was literally out there just waving Philadelphia into their end zone. But the Eagles are on a mission this year to achieves levels of incompetence never before achieved in mankind's history. And true to this aim, Philadelphia failed to book the cover.
+I still have a ways to go in my gambling journey. My Sunday was beyond phenomenal. All my picks were on point. It was amazing.
 
-Anyway, let's keep at it and keep cashing in these tickets.
+Then Monday came and threw me into a depression. Not only did the Steelers fail to cover, but they outright lost against Washington. Then San Francisco crashed and burned in what was supposed to be an emotional outing against the Bills.
+
+As much as I hate saying this, both of those games were terrible picks on my part. The reality is that the Steelers haven't been good offensively for several weeks now. On top of that, their players been exhausted for the last couple weeks. Against a solid defense like Washington's, the team fell apart. As for the second game, Brian Daboll and Josh Allen have been too good this season. I suppose I was banking on Allen regressing back to the mean this game, but I was proven wrong. If anything, his performance convinced me that Allen has truly elevated his quarterbacking this year. It's no fluke.
 
 ***
 
