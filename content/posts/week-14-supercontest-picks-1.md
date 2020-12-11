@@ -89,6 +89,8 @@ Bears (5-7)
 
 It's a cold one.
 
+#### _Injuries_
+
 ***
 
 ### Broncos @ Panthers (-3)
