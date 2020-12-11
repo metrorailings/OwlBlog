@@ -33,6 +33,10 @@ Good, solid weather.
 
 #### _History / Analysis_
 
+The Eagles are a bloody mess. Jalen Hurts may give this offense some desperately needed spark. But the issue with the Eagles runs deeper than quarterback. The offensive line is a mess. Doug Pederson insists on a running a pass-heavy offense despite Miles Sanders being his most productive player. All their receivers have taken a step back, especially Alshon Jeffery. 
+
+The only point of strength for Philadelphia is their defensive line - the team still features one of the best set of pass rushers in the league. Not sure if that'll be enough though given the Saints arguable have the best offensive line in the league. Not to mention Taysom Hill is built to shake pass rushers with his size and speed.
+
 ***
 
 Saints -7
