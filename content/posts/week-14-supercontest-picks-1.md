@@ -1,6 +1,5 @@
 +++
 date = 2020-12-11T12:00:00Z
-draft = true
 headline = "Week 14 Supercontest Picks"
 
 +++
@@ -28,7 +27,9 @@ Eagles (16) @ **Packers** (30)
 Washington (4-7)  
 Steelers (11-0)
 
-#### _Injuries_
+#### _Weather_
+
+Good weather
 
 ***
 
