@@ -14,14 +14,14 @@ Once again, a key rule of thumb here is to try and not go against good coaches u
 
 ***
 
-### Football Team @ Steelers (-7.5)
+### Saints @ Eagles (+7)
 
 ***
 
 #### _Latest Results_
 
-**Washington** (41) @ Cowboys (16)  
-Ravens (14) @ **Steelers** (19)
+**Saints** (21) @ Falcons (16)  
+Eagles (16) @ **Packers** (30)
 
 #### _Record_
 
