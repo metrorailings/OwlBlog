@@ -10,6 +10,8 @@ Then Monday came and threw me into a depression. Not only did the Steelers fail 
 
 As much as I hate saying this, both of those games were terrible picks on my part. The reality is that the Steelers haven't been good offensively for several weeks now. On top of that, their players been exhausted for the last couple weeks. Against a solid defense like Washington's, the team fell apart. As for the second game, Brian Daboll and Josh Allen have been too good this season. I suppose I was banking on Allen regressing back to the mean this game, but I was proven wrong. If anything, his performance convinced me that Allen has truly elevated his quarterbacking this year. It's no fluke.
 
+Once again, a key rule of thumb here is to try and not go against good coaches unless the line gives you some serious flexibility. Good coaches usually dictate which side of the line will end up being correct.
+
 ***
 
 ### Football Team @ Steelers (-7.5)
