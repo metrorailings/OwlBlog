@@ -179,6 +179,8 @@ Hot by December's standards.
 
 Chiefs are remarkably healthy, though they may be down the heart and soul of their defense in Tyrann Matthieu. Matthieu is the one defender in that backfield that can serve the swiss knife role a Spagnuolo defense needs to be truly effective.
 
+Miami is in slightly shittier shape. The Dolphins will be down starting guard Ereck Flowers. More importantly, both Elandon Roberts and Kyle Van Noy may be ruled out Sunday. Both are important in keeping this Belichick-style defense functioning at a high level. Not to mention Van Noy is a significant presence in the pass rush.
+
 ***
 
 ### Steelers @ Bills (-2.5)
