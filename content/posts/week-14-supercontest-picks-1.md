@@ -98,6 +98,9 @@ Daniel Jones is healthy enough to start the game
 \- OR -  
 their defensive front can corral Kyler Murray and his tailbacks.
 
+**Arizona covers if**  
+the Cardinals can establish a ground game and Daniel Jones is not healthy enough to play.
+
 ***
 
 ### Texans @ Bears (+1)
