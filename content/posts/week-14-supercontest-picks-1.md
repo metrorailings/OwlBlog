@@ -121,6 +121,8 @@ Bears (5-7)
 
 It's a cold one.
 
+#### _Injuries_
+
 #### _History / Analysis_
 
 ***
