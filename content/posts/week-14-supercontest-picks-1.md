@@ -35,7 +35,7 @@ Good, solid weather.
 
 Saints will be missing a couple pieces along their defense, but will otherwise show to this game fully healthy. Brees remains on injured reserve with his rib issues.
 
-The Eagles were a bit thin along their defensive backfield, but injuries seem to be a consistent theme for Philadelphia this season.
+The Eagles were a bit thin along their defensive backfield, but injuries seem to be a consistent theme for Philadelphia this season. None of the injuries this week really hurt this team much more than it's already been hurting.
 
 #### _History / Analysis_
 
