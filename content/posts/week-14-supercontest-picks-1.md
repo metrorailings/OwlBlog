@@ -201,6 +201,12 @@ Bills (9-3)
 
 Cold and maybe even a little wet. The field could possibly be slippery if rain comes down overnight. Throw some wind in there too.
 
+#### _Injuries_
+
+Pittsburgh's defense will be down some key pieces along their back seven. First corner Joe Haden will be out with a concussion. The more scary situation comes along their linebacking corps - Bud Dupree's replacement Robert Spillane has been ruled out. On top of that, Vince Williams remains sidelined with COVID. Therefore, Pittsburgh will be scraping the bottom of their depth chart to find bodies to play linebacker for them.
+
+Buffalo is almost fully healthy coming into this match.
+
 ***
 
 ### Ravens @ Browns (+1)
