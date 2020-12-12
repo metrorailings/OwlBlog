@@ -33,7 +33,7 @@ Good, solid weather.
 
 #### _History / Analysis_
 
-The Eagles are a bloody mess. Jalen Hurts may give this offense some desperately needed spark. But the issue with the Eagles runs deeper than quarterback. The offensive line is a mess. Doug Pederson insists on a running a pass-heavy offense despite Miles Sanders being his most productive player. All their receivers have taken a step back, especially Alshon Jeffery. 
+The Eagles are a bloody mess. Jalen Hurts may give this offense some desperately needed spark. But the issue with the Eagles runs deeper than quarterback. The offensive line is a mess. Doug Pederson insists on a running a pass-heavy offense despite Miles Sanders being his most productive player. All their receivers have taken a step back, especially Alshon Jeffery.
 
 The only point of strength for Philadelphia is their defensive line - the team still features one of the best set of pass rushers in the league. Not sure if that'll be enough though given the Saints arguable have the best offensive line in the league. Not to mention Taysom Hill is built to shake pass rushers with his size and speed.
 
@@ -68,6 +68,12 @@ Giants (5-7)
 #### _Weather_
 
 It's a beautiful day for football.
+
+#### _History / Analysis_
+
+The Cardinals spent the better part of last month flopping around with their bellies exposed to the sun. To me, the past couple weeks confirmed suspicions I've held for a while now - Kliff Kingsbury is so mediocre at play calling. As a result, the Cardinals are forced to live and die by Kyler's legs.
+
+New York proved last week that it can contain a mobile quarterback for an entire game. And now we have another mobile quarterback coming into town, one who's slightly faster but not quite that nuanced with his throws.
 
 ***
 
