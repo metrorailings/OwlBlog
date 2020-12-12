@@ -73,7 +73,7 @@ It's a beautiful day for football.
 
 The Cardinals spent the better part of last month flopping around with their bellies exposed to the sun. To me, the past couple weeks confirmed suspicions I've held for a while now - Kliff Kingsbury is so mediocre at play calling. As a result, the Cardinals are forced to live and die by Kyler's legs.
 
-New York proved last week that it can contain a mobile quarterback for an entire game. And now we have another mobile quarterback coming into town, one who's slightly faster but not quite that nuanced with his throws.
+New York proved last week that it can contain a mobile quarterback for an entire game. And now we have another mobile quarterback coming into town, one who's slightly faster but not quite that nuanced with his throws. Things seem to be pointing towards the Giants direction here.
 
 ***
 
