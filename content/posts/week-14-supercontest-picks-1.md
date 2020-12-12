@@ -69,11 +69,25 @@ Giants (5-7)
 
 It's a beautiful day for football.
 
+#### _Injuries_
+
+Arizona has some players on the mend, but most players are expected to play. Only starting inside linebacker De'Vondre Campbell may be ruled out come Sunday.
+
+The Giants seem ready to welcome Daniel Jones back into the fold. Blake Martinez's game status is iffy though, given the nature of his injury and his lack of practice this week. 
+
 #### _History / Analysis_
 
 The Cardinals spent the better part of last month flopping around with their bellies exposed to the sun. To me, the past couple weeks confirmed suspicions I've held for a while now - Kliff Kingsbury is so mediocre at play calling. As a result, the Cardinals are forced to live and die by Kyler's legs.
 
 New York proved last week that it can contain a mobile quarterback for an entire game. And now we have another mobile quarterback coming into town, one who's slightly faster but not quite that nuanced with his throws. Things seem to be pointing towards the Giants direction here.
+
+***
+
+Giants +2.5
+
+***
+
+Testing
 
 ***
 
