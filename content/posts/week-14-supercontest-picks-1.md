@@ -226,3 +226,9 @@ Browns (9-3)
 #### _Weather_
 
 Seasonably cold.
+
+#### _Injuries_
+
+Browns could be missing the services of their main tight end in Austin Hooper. It's possible David Njoku could take over his production though for this game.
+
+Ravens are in fairly decent shape, though it's possible Calais Campbell won't be suiting up for the game, as he hasn't practiced at all this week.
