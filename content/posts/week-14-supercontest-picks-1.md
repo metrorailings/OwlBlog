@@ -93,7 +93,10 @@ Giants +2.5
 
 ***
 
-**PLACEHOLDER**
+**New York covers if**  
+Daniel Jones is healthy enough to start the game  
+\- OR -  
+their defensive front can corral Kyler Murray and his tailbacks.
 
 ***
 
