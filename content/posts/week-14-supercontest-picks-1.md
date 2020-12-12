@@ -33,6 +33,10 @@ Good, solid weather.
 
 #### _Injuries_
 
+Saints will be missing a couple pieces along their defense, but will otherwise show to this game fully healthy. Brees remains on injured reserve with his rib issues.
+
+The Eagles were a bit thin along their defensive backfield, but injuries seem to be a consistent theme for Philadelphia this season.
+
 #### _History / Analysis_
 
 The Eagles are a bloody mess. Jalen Hurts may give this offense some desperately needed spark. But the issue with the Eagles runs deeper than quarterback. The offensive line is a mess. Doug Pederson insists on a running a pass-heavy offense despite Miles Sanders being his most productive player. All their receivers have taken a step back, especially Alshon Jeffery.
