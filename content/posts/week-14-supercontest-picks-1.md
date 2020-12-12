@@ -123,6 +123,10 @@ It's a cold one.
 
 #### _Injuries_
 
+Phillip Gaines is out for the Texans, leaving them dangerously thin at cornerback against hall of famer Mitch Trubisky.
+
+The Bears have similar problems at cornerback with Buster Skrine out, though their depth chart should be able to fill in admirably.
+
 #### _History / Analysis_
 
 ***
@@ -145,6 +149,12 @@ Panthers (4-8)
 
 Stunning weather, but the field might be a bit wet from some rain the night before.
 
+#### _Injuries_
+
+Denver is a mess in their secondary. Both of their starting cornerbacks are out, as is  rookie understudy Essang Bassey. Their inexperienced depth will be tested here. On top of that, starting guard Graham Glasgow is also out.
+
+Carolina is in better shape. Honestly, their biggest injury concerns are Christian McCaffrey and DJ Moore, both weapons that could be really productive against a green Denver passing coverage unit. Still, all their other weapons are expected to take the field this Sunday.
+
 ***
 
 ### Chiefs @ Dolphins (+7)
@@ -164,6 +174,10 @@ Dolphins (8-4)
 #### _Weather_
 
 Hot by December's standards.
+
+#### _Injuries_
+
+Chiefs are remarkably healthy, though they may be down the heart and soul of their defense in Tyrann Matthieu. Matthieu is the one defender in that backfield that can serve the swiss knife role a Spagnuolo defense needs to be truly effective.
 
 ***
 
