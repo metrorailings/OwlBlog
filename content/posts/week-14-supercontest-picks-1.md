@@ -31,6 +31,8 @@ Eagles (3-8-1)
 
 Good, solid weather.
 
+#### _Injuries_
+
 #### _History / Analysis_
 
 The Eagles are a bloody mess. Jalen Hurts may give this offense some desperately needed spark. But the issue with the Eagles runs deeper than quarterback. The offensive line is a mess. Doug Pederson insists on a running a pass-heavy offense despite Miles Sanders being his most productive player. All their receivers have taken a step back, especially Alshon Jeffery.
