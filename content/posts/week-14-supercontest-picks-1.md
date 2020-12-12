@@ -129,6 +129,24 @@ The Bears have similar problems at cornerback with Buster Skrine out, though the
 
 #### _History / Analysis_
 
+It's almost too easy to bag this Chicago offense, even after their sterling showing against Detroit last week. But the reality is this Houston offense would be just as dismal without the theatrics of Deshaun Watson.
+
+It's worth noting these two teams faced off against Detroit in back-to-back weeks recently. Normally, I'd use those games to draw comparisons here, but it's hard to put any faith in any such comparison. For one thing, Will Fuller was very healthy when the Texans played the Lions. Also, Matt Patricia was still coaching the Lions when Houston dropped 40 on them. The Lions did win against the Bears, but perhaps that victory was fueled by newfound energy following Matt Patricia's firing, I'm not too sure. So it's hard to contrast these two teams.
+
+***
+
+Texans -1
+
+***
+
+**Houston covers if**  
+Deshaun Watson uses last week's crushing loss against the Colts to play the Bears with added intensity. Houston will also need to limit any juice Chicago can squeeze from their ground game.
+
+**Chicago covers if**  
+their defensive front stifles Deshaun Watson for the better part of the game.  
+\- OR -  
+their running game from last week carries over this week against a Houston team that's been known to struggle against opposing rushers.
+
 ***
 
 ### Broncos @ Panthers (-3)
@@ -154,6 +172,8 @@ Stunning weather, but the field might be a bit wet from some rain the night befo
 Denver is a mess in their secondary. Both of their starting cornerbacks are out, as is  rookie understudy Essang Bassey. Their inexperienced depth will be tested here. On top of that, starting guard Graham Glasgow is also out.
 
 Carolina is in better shape. Honestly, their biggest injury concerns are Christian McCaffrey and DJ Moore, both weapons that could be really productive against a green Denver passing coverage unit. Still, all their other weapons are expected to take the field this Sunday.
+
+#### _History / Analysis_
 
 ***
 
