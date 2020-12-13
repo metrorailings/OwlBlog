@@ -175,7 +175,23 @@ Carolina is in better shape. Honestly, their biggest injury concerns are Christi
 
 #### _History / Analysis_
 
-Denver actually made more of a commitment to the running game last week, finally.
+Denver actually made more of a commitment to the running game last week, finally. As a result, the Broncos were actually competitive last week, albeit against a Kansas team playing at less than 100%. A renewed focus on the ground game would serve the team well, considering the offense didn't show any real promise when Drew Lock's arm was its main vehicle.
+
+The only common team these two organizations recently contested is Kansas City. Both fared better than expected, though Carolina was so much more impressive in its campaign to upset the reigning Super Bowl champs, as indicated by their time of possession.
+
+***
+
+Panthers -3
+
+***
+
+**Carolina covers if**  
+Teddy Bridgewater and his weapons can wreck Denver's inexperienced secondary.  
+\- OR -  
+Denver's rushing attack never really develops, either because it's been stemmed by the Panthers or it's been abandoned by Pat Shurmur.
+
+**Denver covers if  
+**their defense can force at least 3 turnovers in this game. Denver also needs to try to win time of possession by committing more to their ground game. The run/pass ratio should be fairly close to 1, if not greater.
 
 ***
 
