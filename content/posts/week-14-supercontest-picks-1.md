@@ -229,6 +229,15 @@ The problem here for the Dolphins is that I wonder whether Tua Tagovailoa can ac
 
 ***
 
+Dolphins +7
+
+***
+
+**Miami covers if**  
+their defense can prevent the Chiefs from posting points on a fair number of their drives and 
+
+***
+
 ### Steelers @ Bills (-2.5)
 
 ***
