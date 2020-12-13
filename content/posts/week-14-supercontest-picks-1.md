@@ -221,7 +221,11 @@ Miami is in slightly shittier shape. The Dolphins will be down starting guard Er
 
 #### _History / Analysis_
 
-Brian Flores was on Belichick's coaching staff when him and his crew upset the Chiefs for an invite to the Super Bowl two years ago.
+Brian Flores was on Belichick's coaching staff when him and his crew upset the Chiefs for an invite to the Super Bowl two years ago. Patrick Mahomes still racked up a bunch of points that game, but the fact remains he was nearly shut out the first half thanks to a combination of solid coverage and crafty blitzes. Ever since, Mahomes has struggled against Belichick's defensive schemes, even going back just a couple months ago when New England played the Chiefs in primetime.
+
+Flores runs a very similar scheme with some of the same personnel from the Patriots championship run two years ago. Mahomes and Andy Reid have yet to fully counter that style of defense, though they do enough to notch the win.
+
+The problem here for the Dolphins is that I wonder whether Tua Tagovailoa can actually carry the team in a big spot against one of the league's best organizations. Three weeks ago, the boy was completely exposed against Vic Fangio's defense. Spags may not have a defense as complex as Fangio's, but his unit features a package of blitzes known to frustrate young and unprepared quarterbacks. On top of that, Chris Jones is one of those players capable of wrecking quarterbacks like Tua with immediate pressure up the middle. Given that Denver practically neutered Tua with interior pressure, this should be another point of concern for the Dolphins.
 
 ***
 
