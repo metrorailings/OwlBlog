@@ -175,6 +175,8 @@ Carolina is in better shape. Honestly, their biggest injury concerns are Christi
 
 #### _History / Analysis_
 
+Denver actually made more of a commitment to the running game last week, finally.
+
 ***
 
 ### Chiefs @ Dolphins (+7)
