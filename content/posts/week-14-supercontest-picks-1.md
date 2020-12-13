@@ -221,6 +221,8 @@ Miami is in slightly shittier shape. The Dolphins will be down starting guard Er
 
 #### _History / Analysis_
 
+Brian Flores was on Belichick's coaching staff when him and his crew upset the Chiefs for an invite to the Super Bowl two years ago.
+
 ***
 
 ### Steelers @ Bills (-2.5)
