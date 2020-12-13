@@ -269,9 +269,20 @@ Buffalo is almost fully healthy coming into this match.
 
 Buffalo has continually impressed through the season, winning decisively in spots that shouldn't necessarily favor them. Pittsburgh on the other hand has been trending downward the past month, reaching a low point last week when Washington dealt them their first loss of the season.
 
-The reality is that Pittsburgh's offense is horribly limited to short passes. Good defenses should have an easy enough time countering one-dimension offenses, especially if those defenses are led by people that truly understand that side of the ball. I don't think Sean McDermott will spend much time formulating a game plan against a deflated Steelers team.
+The reality is that Pittsburgh's offense is horribly limited to short passes. Good defenses should have an easy enough time countering one-dimension offenses, especially if those defenses are led by people that truly understand that side of the ball. I don't think Sean McDermott will be spending too much time formulating a game plan against a deflated Steelers offense.
 
-That being said, Buffalo's defense isn't exactly dominant. The Bills harbor a few liabilities along their defensive ranks, namely their inside linebackers and tackles - several of their opponents this year have had field days running the ball against them. Pittsburgh should have an easier time pounding the rock, but the problem here is that the Steelers quite possibly have the league's worst rushing attack. So bizarre that a franchise that prides itself on physicality can't move the ball through the ground, but in a year marked by surprises and sudden shifts, I suppose it only makes sense that this year's Steelers are deviating pretty wildly from their historical counterparts. So it remains to be seen whether Pittsburgh can actually exploit this vulnerability in the Bills defense.
+That being said, Buffalo's defense isn't exactly dominant. The Bills harbor a few liabilities along their defensive ranks, namely their inside linebackers and tackles - several of their opponents this year have had field days running the ball against them. Theoretically, Pittsburgh should have an easier time pounding the rock then...but the caveat here is that the Steelers quite possibly have the league's worst rushing attack. So bizarre that a franchise that prides itself on physicality can't move the ball through the ground, but in a year marked by surprises and strange happenings, I suppose it only makes sense that this year's Steelers are deviating pretty wildly from their historical counterparts. So it remains to be seen whether Pittsburgh can actually exploit this vulnerability in the Bills defense.
+
+***
+
+Bills -2.5
+
+***
+
+**Buffalo covers if**  
+their defense can force Pittsburgh's offense to play off schedule.  
+\- OR -  
+Josh Allen and his halfbacks rack up yardage against the second and third-string linebackers Pittsburgh will be forced to start.  
 
 ***
 
