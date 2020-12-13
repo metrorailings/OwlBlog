@@ -33,3 +33,7 @@ Disappointing start for the Saints. Already gave up a few significant runs to Ja
 Big touchdown pass from Jalen Hurts under duress on fourth down. Well done. Props to Alshon Jeffery for the reception.
 
 Taysom Hill not playing with any sort of gusto.
+
+Failed quarterback draw on third down. Not a good omen for the Saints.
+
+Taysom came out firing in the seoncd half, even reading a few of the blitzes and making good throws. Nothing but solid passes so far.
