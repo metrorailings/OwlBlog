@@ -28,4 +28,8 @@ The deep ball seems to work all too well against this Carolina secondary. I don'
 
 ## Saints @ Eagles
 
-Disappointing start for the Saints. Already gave up a significant run to Jalen Hurts.
+Disappointing start for the Saints. Already gave up a few significant runs to Jalen Hurts. It's the one thing that can't be done.
+
+Big touchdown pass from Jalen Hurts under duress on fourth down. Well done. Props to Alshon Jeffery for the reception.
+
+Taysom Hill not playing with any sort of gusto.
