@@ -10,6 +10,8 @@ Giants suck on special teams. Little worrying given Joe Judge is supposed to be 
 
 Seems like the Cardinals defensive front have keyed in on the weaknesses of the Giants offensive line. Either that or the Giants simply struggle handling the blitz.
 
+Nothing but man coverage against New York's defenders. Seems to be working though, none of the Giants receivers are really shaking free. Is that more because of scheme or more because Daniel Jones is just not reading the open routes first?
+
 ***
 
 ## Broncos @ Panthers
