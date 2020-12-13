@@ -234,7 +234,7 @@ Dolphins +7
 ***
 
 **Miami covers if**  
-their defense can prevent the Chiefs from posting points on a fair number of their drives and their offense is able to matriculate the ball on a majority of drives. In order for this offense to be productive, Miami needs to establish the ground game behind Myles Gaskin or work in some creative passing concepts that wouldn't leave Tua exposed to Kansas City's pass rush. An early switch to Ryan Fitzpatrick would also be advisable.
+their defense can prevent the Chiefs from posting points on a fair number of their drives and their offense is able to matriculate the ball on a majority of drives. In order for this offense to be productive, Miami needs to establish the ground game behind Myles Gaskin or work in some creative passing concepts that won't leave Tua exposed to Kansas City's pass rush. An early switch to Ryan Fitzpatrick would also be advisable.
 
 **Kansas City covers if**  
 their defense can fluster Tua in the same manner as Denver's defense. Should Ryan Fitzpatrick come into action here, the Kansas defense will need to find ways to force him into some ugly turnovers.
