@@ -23,3 +23,9 @@ Andrew Thomas once again exposed as a liability in pass protection. Disappointin
 Panthers defense playing with very little discipline, gifting two first downs to Denver on unnecessary penalties on a drive that led to a touchdown.
 
 The deep ball seems to work all too well against this Carolina secondary. I don't get it. Do they not understand the Broncos love throwing the ball deep?
+
+***
+
+## Saints @ Eagles
+
+Disappointing start for the Saints. Already gave up a significant run to Jalen Hurts.
