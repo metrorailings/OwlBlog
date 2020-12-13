@@ -17,3 +17,5 @@ Nothing but man coverage against New York's defenders. Seems to be working thoug
 ## Broncos @ Panthers
 
 Panthers defense playing with very little discipline, gifting two first downs to Denver on unnecessary penalties on a drive that led to a touchdown.
+
+The deep ball seems to work all too well against this Carolina secondary. I don't get it. Do they not understand the Broncos love throwing the ball deep?
