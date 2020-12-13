@@ -282,7 +282,10 @@ Bills -2.5
 **Buffalo covers if**  
 their defense can force Pittsburgh's offense to play off schedule.  
 \- OR -  
-Josh Allen and his halfbacks rack up yardage against the second and third-string linebackers Pittsburgh will be forced to start.  
+Josh Allen and his halfbacks rack up yardage against the second and third-string linebackers Pittsburgh will be forced to start.
+
+**Pittsburgh covers if**  
+their offense goes through a sort of miraculous transformation following a crushing loss last week. Quite simply put, Pittsburgh will need to develop at least one more dimension on offense, be it gadget elements, a running game, or an intermediate passing game. The Steelers will also need to constantly harass Josh Allen, something that's certainly possible given how long Allen tends to hold on to the ball. 
 
 ***
 
