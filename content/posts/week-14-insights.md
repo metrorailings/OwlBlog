@@ -8,6 +8,8 @@ headline = "Week 14 Insights"
 
 Giants suck on special teams. Little worrying given Joe Judge is supposed to be a special teams maven.
 
+Seems like the Cardinals defensive front have keyed in on the weaknesses of the Giants offensive line. Either that or the Giants simply struggle handling the blitz.
+
 ***
 
 ## Broncos @ Panthers
