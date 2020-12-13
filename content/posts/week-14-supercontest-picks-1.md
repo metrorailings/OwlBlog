@@ -219,6 +219,8 @@ Chiefs are remarkably healthy, though they may be down the heart and soul of the
 
 Miami is in slightly shittier shape. The Dolphins will be down starting guard Ereck Flowers. More importantly, both Elandon Roberts and Kyle Van Noy may be ruled out Sunday. Both are important in keeping this Belichick-style defense functioning at a high level. Not to mention Van Noy is a significant presence in the pass rush.
 
+#### _History / Analysis_
+
 ***
 
 ### Steelers @ Bills (-2.5)
