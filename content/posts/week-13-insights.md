@@ -149,4 +149,4 @@ Cardinals finally making some hay with wide receiver screens. Los Angeles' light
 
 On short yardage plays, the Cardinals found some success with their rushes.
 
-You keep Kyler Murray in a compressed pocket, there's a solid chance his pass will be batted down.
+You keep Kyler Murray in a compressed pocket, there's a solid chance his pass will be batted down. The misery of being a short quarterback in the NFL.
