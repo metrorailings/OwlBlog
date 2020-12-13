@@ -148,3 +148,5 @@ To their credit, the Rams have some fast defenders along their front. It's been 
 Cardinals finally making some hay with wide receiver screens. Los Angeles' light boxes are exposed against these screens.
 
 On short yardage plays, the Cardinals found some success with their rushes.
+
+You keep Kyler Murray in a compressed pocket, there's a solid chance his pass will be batted down.
