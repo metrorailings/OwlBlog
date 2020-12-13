@@ -12,6 +12,10 @@ Seems like the Cardinals defensive front have keyed in on the weaknesses of the 
 
 Nothing but man coverage against New York's defenders. Seems to be working though, none of the Giants receivers are really shaking free. Is that more because of scheme or more because Daniel Jones is just not reading the open routes first?
 
+Once again, the Giants haven't adjusted on offense in the second half. No quick routes or mesh routes to ward off Arizona's underneath man coverage. Jones insisting on holding the ball in the pocket. Pretty damning indictment on Jason Garrett and Daniel Jones.
+
+Andrew Thomas once again exposed as a liability in pass protection. Disappointing.
+
 ***
 
 ## Broncos @ Panthers
