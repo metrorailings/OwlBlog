@@ -265,6 +265,8 @@ Pittsburgh's defense will be down some key pieces along their back seven. First 
 
 Buffalo is almost fully healthy coming into this match.
 
+#### _History / Analysis_
+
 ***
 
 ### Ravens @ Browns (+1)
