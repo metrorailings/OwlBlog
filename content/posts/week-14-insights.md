@@ -25,6 +25,8 @@ Duke Dawson left the game pretty early. And with that, Denver is scraping the ve
 
 Teddy Bridgewater and the rest of the Panthers are playing slightly sloppy. Makes me realize that teams coming off the bye are probably more likely to playing at half-speed instead of full strength. Never trust another team coming off the bye unless the moment is too juicy.
 
+Denver nailed a touchdown in 4 plays to open the second-half. Sad, but I think this Carolina team is a bit rudderless coming out of the bye. It's becoming clear to me that teams coming off byes need time to rev up.
+
 ***
 
 ## Saints @ Eagles
