@@ -36,4 +36,8 @@ Taysom Hill not playing with any sort of gusto.
 
 Failed quarterback draw on third down. Not a good omen for the Saints.
 
-Taysom came out firing in the seoncd half, even reading a few of the blitzes and making good throws. Nothing but solid passes so far.
+Taysom came out firing in the second half, even reading a few of the blitzes and making good throws. Nothing but solid passes so far. It helps that the Eagles two starting cornerbacks are out.
+
+This offense is different once Jalen Hurts settles into a rhythm. Hurts and his mobility add a much needed element to an offense built more for rushing than passing.
+
+The Saints lost this game because of their inability to contain Jalen Hurts. As simple as that. New Orleans played their base nickel defense when they really should have stacked the box and forced Hurts to beat them with his shoddy arm.
