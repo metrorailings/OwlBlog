@@ -22,7 +22,9 @@ Andrew Thomas once again exposed as a liability in pass protection. Disappointin
 
 Panthers defense playing with very little discipline, gifting two first downs to Denver on unnecessary penalties on a drive that led to a touchdown.
 
-The deep ball seems to work all too well against this Carolina secondary. I don't get it. Do they not understand the Broncos love throwing the ball deep?
+Duke Dawson left the game pretty early. And with that, Denver is scraping the very bottom of their secondary depth. So how did Carolina blow this game? We'll find out.
+
+Teddy Bridgewater and the rest of the Panthers are playing slightly sloppy. Makes me realize that teams coming off the bye are probably more likely to playing at half-speed instead of full strength.
 
 ***
 
