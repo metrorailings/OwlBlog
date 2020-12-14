@@ -19,7 +19,7 @@ Andrew Thomas once again exposed as a liability in pass protection. Disappointin
 
 ## Broncos @ Panthers
 
-Panthers defense playing with very little discipline, gifting two first downs to Denver on unnecessary penalties on a drive that led to a touchdown.
+Panthers defense playing with very little discipline, gifting **three** first downs to Denver on unnecessary penalties on a drive that led to a touchdown.
 
 Duke Dawson left the game pretty early. And with that, Denver is scraping the very bottom of their secondary depth. So how did Carolina blow this game? We'll find out.
 
@@ -47,7 +47,7 @@ The Saints lost this game because of their inability to contain Jalen Hurts. As 
 
 ## Steelers @ Bills
 
-Pittsburgh's man coverage defenders have been doing some outstanding work. It helps that the Steelers have been truly committed to the pass rush though. With five to six defenders crashing through the offensive line (up to three of whom can be considered elite), Josh Allen doesn't have much time to stand around before pulling the trigger. 
+Pittsburgh's man coverage defenders have been doing some outstanding work. It helps that the Steelers have been truly committed to the pass rush though. With five to six defenders crashing through the offensive line (up to three of whom can be considered elite), Josh Allen doesn't have much time to stand around before pulling the trigger.
 
 Seems like Bills are running more curl routes in the second half to avail Josh Allen of more quicker routes. It's about time. What made the Bills actually think holding the ball waiting for deeper routes to develop would be a strategy for success? It baffles me that some teams absolute refuse to adjust their identity based on the opponent.
 
