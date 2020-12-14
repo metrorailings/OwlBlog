@@ -41,3 +41,13 @@ Taysom came out firing in the second half, even reading a few of the blitzes and
 This offense is different once Jalen Hurts settles into a rhythm. Hurts and his mobility add a much needed element to an offense built more for rushing than passing.
 
 The Saints lost this game because of their inability to contain Jalen Hurts. As simple as that. New Orleans played their base nickel defense when they really should have stacked the box and forced Hurts to beat them with his shoddy arm. Pretty surprised to see the Saints defensive braintrust disappoint me today the way they did.
+
+***
+
+## Steelers @ Bills
+
+Pittsburgh's man coverage defenders have been doing some outstanding work. It helps that the Steelers have been truly committed to the pass rush though. With five to six defenders crashing through the offensive line (up to three of whom can be considered elite), Josh Allen doesn't have much time to stand around before pulling the trigger. 
+
+Seems like Bills are running more curl routes in the second half to avail Josh Allen of more quicker routes. It's about time. What made the Bills actually think holding the ball waiting for deeper routes to develop would be a strategy for success? It baffles me that some teams absolute refuse to adjust their identity based on the opponent.
+
+Steelers are absolutely convinced pressure is the only way to win this game, not effective man coverage.
