@@ -40,4 +40,4 @@ Taysom came out firing in the second half, even reading a few of the blitzes and
 
 This offense is different once Jalen Hurts settles into a rhythm. Hurts and his mobility add a much needed element to an offense built more for rushing than passing.
 
-The Saints lost this game because of their inability to contain Jalen Hurts. As simple as that. New Orleans played their base nickel defense when they really should have stacked the box and forced Hurts to beat them with his shoddy arm.
+The Saints lost this game because of their inability to contain Jalen Hurts. As simple as that. New Orleans played their base nickel defense when they really should have stacked the box and forced Hurts to beat them with his shoddy arm. Pretty surprised to see the Saints defensive braintrust disappoint me today the way they did.
