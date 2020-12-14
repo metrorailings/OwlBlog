@@ -1,6 +1,5 @@
 +++
 date = 2020-12-13T12:00:00Z
-draft = true
 headline = "Week 14 Insights"
 
 +++
@@ -24,7 +23,7 @@ Panthers defense playing with very little discipline, gifting two first downs to
 
 Duke Dawson left the game pretty early. And with that, Denver is scraping the very bottom of their secondary depth. So how did Carolina blow this game? We'll find out.
 
-Teddy Bridgewater and the rest of the Panthers are playing slightly sloppy. Makes me realize that teams coming off the bye are probably more likely to playing at half-speed instead of full strength.
+Teddy Bridgewater and the rest of the Panthers are playing slightly sloppy. Makes me realize that teams coming off the bye are probably more likely to playing at half-speed instead of full strength. Never trust another team coming off the bye unless the moment is too juicy.
 
 ***
 
