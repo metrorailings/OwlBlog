@@ -56,3 +56,9 @@ Seems like Bills are running more curl routes in the second half to avail Josh A
 Steelers are absolutely convinced pressure is the only way to win this game, not effective man coverage. It makes sense given how long Josh Allen typically holds the ball.
 
 ***
+
+## Ravens @ Browns
+
+What a slop fest on defense. Kudos to both offenses for being so productive, but neither defense bothered to show up this game.
+
+Joe Woods in particular disappointed me the most. The Ravens are so very limited in that Lamar Jackson hasn't been passing effectively at all the past several weeks. The only way Lamar would regain any confidence is if he can matriculate the ball with his best asset - his feet. And the Browns did just that - their insistence on man coverage and the lack of discipline along their defensive front seven literally paved the way for Baltimore. Not only did Baltimore rediscover its groove in the ground game, but they were literally able to build drives off nothing but runs.   
