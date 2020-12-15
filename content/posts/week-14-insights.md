@@ -53,4 +53,6 @@ Pittsburgh's man coverage defenders have been doing some outstanding work. It he
 
 Seems like Bills are running more curl routes in the second half to avail Josh Allen of more quicker routes. It's about time. What made the Bills actually think holding the ball waiting for deeper routes to develop would be a strategy for success? It baffles me that some teams absolute refuse to adjust their identity based on the opponent.
 
-Steelers are absolutely convinced pressure is the only way to win this game, not effective man coverage.
+Steelers are absolutely convinced pressure is the only way to win this game, not effective man coverage. It makes sense given how long Josh Allen typically holds the ball.
+
+***
