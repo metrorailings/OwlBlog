@@ -12,9 +12,9 @@ Lastly (and perhaps the most brutal lesson I took from the week), coaches can't 
 
 Really, identity and drive are key to banking on whether a team can plan properly for their next opponent. Some teams are built in such a way that they can't help but expose the weaknesses of some of their opponents. These teams are usually a good bet. Just as well, if the team has any real drive or motivation to do well against an opponent, a good game plan is so much more likely to be drafted.
 
-***
+Anyway, time for more laughable picks.
 
-   
+***
 
 ### Bills @ Broncos (+6)
 
