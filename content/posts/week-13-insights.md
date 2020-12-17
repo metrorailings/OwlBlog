@@ -112,3 +112,41 @@ The Cowboys had 12 days to prepare for this game. 12 days. Yet, linebackers are 
 Dallas is getting gashed by Baltimore's rushing game. Didn't every other team in the league allegedly figure out Greg Raven's scheme yet?
 
 Lamar sloppy with his passes.
+
+***
+
+## Lions @ Bears
+
+Bears are actually running the ball for once against this Lions defense. I think that says quite a bit more about the Lions than it does about Chicago.
+
+I agree with Michael Lombardi here - Detroit's defense is slow.
+
+Detroit's offense finally showed juice on a short drive by hurrying Chicago's defense unexpectedly. The Lions took advantage of confusion among Chicago's coverage personnel.
+
+***
+
+## Eagles @ Packers
+
+Excellent start from Jalen Hurts on his first throw.
+
+The minute pressure shows its ugly face, Hurts wants to take off with the ball. In a clean pocket, he is giving his reads time to develop their routes.
+
+Packers adapted their pass rush going against Jalen Hurts. Nothing but bull rushes now. And it's a tactic that seems to have worked, as it staved off a potential comeback drive that Philadelphia desperately needed to tie up the game late in the fourth. Jalen Hurts was money on a couple throws, but it's clear that under pressure, his mentality quickly becomes all about running the ball.
+
+Jalen is young, so he can be molded, but it'll take time and (much more importantly) willingness on his part.
+
+***
+
+## Rams @ Cardinals
+
+Rams with a major coverage bust on Arizona's first drive, with too many defenders chasing around DeAndre Hopkins.
+
+Josh Hill has been playing pretty well as the Rams second cornerback.
+
+To their credit, the Rams have some fast defenders along their front. It's been key to keeping Kyler from popping off with his scrambles and designed runs.
+
+Cardinals finally making some hay with wide receiver screens. Los Angeles' light boxes are exposed against these screens.
+
+On short yardage plays, the Cardinals found some success with their rushes.
+
+You keep Kyler Murray in a compressed pocket, there's a solid chance his pass will be batted down. The misery of being a short quarterback in the NFL.
