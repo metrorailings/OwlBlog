@@ -9,3 +9,7 @@ headline = "Week 15 General Picks"
 ***
 
 ### Panthers @ Packers (-8)
+
+***
+
+### Buccaneers @ Falcons (+6)
