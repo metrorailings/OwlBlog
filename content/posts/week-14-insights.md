@@ -75,4 +75,6 @@ Atlanta playing pretty solid man coverage against the Chargers. Not to mention t
 
 Once again, Matt Ryan's throws continue to be off.
 
-Falcons are constantly breaking through the line of scrimmage against the Chargers on short runs and designed runs. 
+Falcons are constantly breaking through the line of scrimmage against the Chargers on short runs and designed runs.
+
+The Chargers and their soft zones are truly special in the worst sense of the word.
