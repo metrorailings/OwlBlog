@@ -78,3 +78,5 @@ Once again, Matt Ryan's throws continue to be off.
 Falcons are constantly breaking through the line of scrimmage against the Chargers on short runs and designed runs.
 
 The Chargers and their soft zones are truly special in the worst sense of the word.
+
+Keenan Allen is a security blanket for Justin Herbert.
