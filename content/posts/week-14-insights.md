@@ -80,3 +80,5 @@ Falcons are constantly breaking through the line of scrimmage against the Charge
 The Chargers and their soft zones are truly special in the worst sense of the word.
 
 Keenan Allen is a security blanket for Justin Herbert.
+
+It honestly seems Justin Herbert and the offense function better on improvised than on designed plays (namely screens). Then again, maybe these screens weren't expected to succeed given the way the secondary was organized on the two screens that failed late in the third quarter.
