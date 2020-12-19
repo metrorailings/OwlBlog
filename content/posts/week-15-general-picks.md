@@ -95,4 +95,18 @@ Still, Rodgers and company should be able to eat against a soft Panthers defense
 
 ***
 
+Panthers +8
+
+***
+
+**Carolina covers if  
+**the Panthers show their sad outing last week was an outlier. So long as Teddy Bridgewater and his cohorts on offense can minimize the silly mistakes and play with some passion, the cover is definitely within reach.  
+\- OR -  
+the Packers take a dominant lead early enough in the game and take their foot off the gas pedal going into the fourth quarter, allowing the Panthers to tally up enough points in garbage time to beat the spread.
+
+**Green Bay covers if**  
+Carolina's mistakes carry over from last week. The Packers also need to run up the score against a pretty pathetic Panthers pass coverage unit.
+
+***
+
 ### Buccaneers @ Falcons (+6)
