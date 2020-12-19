@@ -110,3 +110,17 @@ Carolina's mistakes carry over from last week. The Packers also need to run up t
 ***
 
 ### Buccaneers @ Falcons (+6)
+
+***
+
+#### _Latest Results_
+
+Vikings (14) @ **Buccaneers** (26)  
+Falcons (17) @ **Chargers** (20)
+
+#### _Results_
+
+Buccaneers (8-5)  
+Falcons (4-9)
+
+#### _Injuries_
