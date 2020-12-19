@@ -47,6 +47,20 @@ But not all is off for the Broncos here. Buffalo's defense has struggled to mana
 
 ***
 
+Bills -6
+
+***
+
+**Buffalo will cover if**  
+their passing game pops off going against an incredibly weakened Denver secondary.
+
+**Denver will cover if**  
+the offense can dominate time of possession by establishing the ground game.  
+\- OR -  
+Drew Lock rallies in garbage time for the backdoor cover.
+
+***
+
 ### Panthers @ Packers (-8)
 
 ***
