@@ -41,7 +41,9 @@ Buffalo's pretty damn healthy coming into the game.
 
 #### _History / Analysis_
 
-Not sure if history will have much to say here. Denver's defense has been pretty good this year, but their situation at cornerback leaves them with a major vulnerability. The Panthers weren't able to expose the Broncos as much as I expected last week, mostly because Carolina was still waking up after a restful bye. But Josh Allen and his weapons should ideally have a field day going up against a barebones secondary.
+Not sure if history has much to say here given the circumstances. Denver's defense has been solid this year, but their situation at cornerback leaves them with a festering wound. The Panthers weren't able to expose their gashed backfield as much as I expected last week, mostly because Carolina was still waking up after a restful bye. But Josh Allen and his weapons should ideally have a field day going up against a barebones secondary.
+
+But not all is off for the Broncos here. Buffalo's defense has struggled to manage opposing rushers this season. Denver's shown more of a willingness to run the ball the past couple games, so if they stick with their ground game here, the Broncos could keep this game in contention by winning time of possession.
 
 ***
 
