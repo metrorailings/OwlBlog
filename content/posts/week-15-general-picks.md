@@ -130,3 +130,15 @@ Tampa Bay is likely going to take the field without starting corner Jamel Dean, 
 Atlanta will be missing the services of their best wide receiver in Julio Jones. On top of that, two of the starters in the defensive backfield will be sidelined as well.
 
 #### _History / Analysis_
+
+It's the first meeting between these two this season. So while we don't have any past contest to draw some conclusions from here, the reality is that we have quite a bit of tape on Tampa Bay's offense in its first year with Brady at the helm. First thing of note, Brady remains as susceptible as ever to pressure, especially in his old age. Given the state of the Buccaneers offensive line, throws under duress has been a common theme for Tampa Bay's passing attack this season. But more importantly of note, Brady and Arians have yet to fully mesh on offense. Their philosophies and tendencies are way too different. Brady prefers surgical throws down the middle of the field. Arians wants to go out with guns blazing.
+
+On the other hand, Atlanta has actually been getting better under Raheem Morris as interim coach. Their pass rush has taken a step up, thanks in part to an increased willingness to blitz quarterbacks with their speedier backfield players. Their coverage defenders have also played better, notably in man coverage. The offense has shown flashes of quality play, though Matt Ryan can be as erratic as ever sometimes. And that's where Tampa Bay could seize the advantage here...
+
+***
+
+Falcons +6
+
+***
+
+  
