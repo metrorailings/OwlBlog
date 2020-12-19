@@ -124,3 +124,7 @@ Buccaneers (8-5)
 Falcons (4-9)
 
 #### _Injuries_
+
+Tampa Bay is likely going to take the field without starting corner Jamel Dean, left tackle Donovan Smith, and starting tailback Ronald Jones. Neither player will likely impact the team much on-field.
+
+Atlanta will be missing the services of their best wide receiver in Julio Jones. On top of that, two of the starters in the defensive backfield will be sidelined as well.
