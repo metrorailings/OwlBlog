@@ -79,6 +79,10 @@ Packers (10-3)
 
 Quite cold
 
+#### _Injuries_
+
+Panthers will likely down their starting left tackle in Russell Okung.
+
 ***
 
 ### Buccaneers @ Falcons (+6)
