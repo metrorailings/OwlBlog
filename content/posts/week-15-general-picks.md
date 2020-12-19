@@ -29,11 +29,17 @@ Steelers (15) @ **Bills** (26)
 Bills (10-3)  
 Broncos (5-8)
 
+#### _Weather_
+
+Little chilly
+
 #### _Injuries_
 
 Broncos are even a bigger disaster in the secondary this week compared to last. Three starting cornerbacks are essentially out for the season and two more were lost over the last week. Denver is now just working with three cornerbacks on their roster. Things may not work out so well against a Bills passing attack that's among one of the best in the league. Also worth noting, the Broncos will be without their kicker, Brandon McManus.
 
-Buffalo 
+Buffalo's pretty damn healthy coming into the game.
+
+#### _History / Analysis_
 
 ***
 
@@ -50,6 +56,10 @@ Buffalo
 
 Panthers (4-9)  
 Packers (10-3)
+
+#### _Weather_
+
+Quite cold
 
 ***
 
