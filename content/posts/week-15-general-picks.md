@@ -83,6 +83,8 @@ Quite cold
 
 Panthers will likely down their starting left tackle in Russell Okung.
 
+Packers will be relatively healthy going into the third week of December.
+
 ***
 
 ### Buccaneers @ Falcons (+6)
