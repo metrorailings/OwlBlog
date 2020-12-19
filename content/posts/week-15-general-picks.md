@@ -41,6 +41,8 @@ Buffalo's pretty damn healthy coming into the game.
 
 #### _History / Analysis_
 
+Not sure if history will have much to say here. Denver's defense has been pretty good this year, but their situation at cornerback leaves them with a major vulnerability. The Panthers weren't able to expose the Broncos as much as I expected last week, mostly because Carolina was still waking up after a restful bye. But Josh Allen and his weapons should ideally have a field day going up against a barebones secondary.
+
 ***
 
 ### Panthers @ Packers (-8)
