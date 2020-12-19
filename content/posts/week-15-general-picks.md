@@ -85,6 +85,14 @@ Panthers will likely down their starting left tackle in Russell Okung.
 
 Packers will be relatively healthy going into the third week of December.
 
+#### _History / Analysis_
+
+The most recent common opponent these two teams have faced has been Detroit - the Panthers looked more impressive in their win over the Lions. Only so much stock can be put into this line of reasoning though given the Panthers were starting a back-up quarterback.
+
+Really, Green Bay's success this season has come courtesy of its offense. Rodgers and LaFleur have found a happy point in the middle with their  approach on offense, resulting in one of the league's most productive units this year on that side of the ball. The defense hasn't improved at all though - it still remains notably weak against the run and the short passing game. And unfortunately for the Packers, both of those things are points of pride for the Panthers.
+
+Still, Rodgers and company should be able to eat against a soft Panthers defense known for giving up boatloads of yardage to good passing offenses.
+
 ***
 
 ### Buccaneers @ Falcons (+6)
