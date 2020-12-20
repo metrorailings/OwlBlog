@@ -186,3 +186,9 @@ The problem with Washington is their offense. Their offense was horrid enough as
 Washington +5
 
 ***
+
+**Washington covers if**  
+their defense can snuff out Seattle's offense from start to finish and their offense can record at least one touchdown and two field goals.
+
+**Seattle covers if**  
+Dwayne Haskins does what he does best - disappoint us.
