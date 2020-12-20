@@ -147,4 +147,4 @@ the intensity with which they'e been playing football as of late carries over an
 their pass rush can stymie any momentum Tampa Bay develops in the passing game.
 
 **Tampa Bay covers if**  
-their blitz packages and pass rushers can force Matt Ryan to play like a man a few weeks away from retiring. 
+their blitz packages and pass rushers can force Matt Ryan to play like a man a few weeks away from retiring.
