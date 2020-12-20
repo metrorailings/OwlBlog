@@ -7,4 +7,4 @@ headline = "Week 15 Insights"
 
 Brees playing awful so far, but a quick snap completely threw the Chiefs defense off and set up a big play for a goal-to-go series.
 
-Kansas is actually running the football with some gusto.
+Kansas is actually running the football with some gusto. Not sure what happened to New Orleans and their vaunted run defense.
