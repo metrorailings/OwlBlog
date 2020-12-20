@@ -99,8 +99,8 @@ Panthers +8
 
 ***
 
-**Carolina covers if  
-**the Panthers show their sad outing last week was an outlier. So long as Teddy Bridgewater and his cohorts on offense can minimize the silly mistakes and play with some passion, the cover is definitely within reach.  
+**Carolina covers if**  
+the Panthers show their sad outing last week was an outlier. So long as Teddy Bridgewater and his cohorts on offense can minimize the silly mistakes and play with some passion, the cover is definitely within reach.  
 \- OR -  
 the Packers take a dominant lead early enough in the game and take their foot off the gas pedal going into the fourth quarter, allowing the Panthers to tally up enough points in garbage time to beat the spread.
 
@@ -141,4 +141,10 @@ Falcons +6
 
 ***
 
-  
+**Atlanta covers if**  
+the intensity with which they'e been playing football as of late carries over and frustrates a Tampa Bay team lacking identity on offense.  
+\- OR -  
+their pass rush can stymie any momentum Tampa Bay develops in the passing game.
+
+**Tampa Bay covers if**  
+their blitz packages and pass rushers can force Matt Ryan to play like a man a few weeks away from retiring. 
