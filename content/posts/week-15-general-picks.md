@@ -179,4 +179,10 @@ Washington will be unfortunately forced to field Dwayne Haskins as their starter
 
 History doesn't favor either team going into this match-up. The Rams and the Giants have proven that solid defenses can keep Seattle's offense in chains. Washington's defense should be able to follow suit. 
 
-The problem with Washington is their offense. Their offense was horrid enough as is with Alex Smith at the helm. But things go even further south with Dwayne Haskins directing that unit now that Alex Smith is sidelined.
+The problem with Washington is their offense. Their offense was horrid enough as is with Alex Smith at the helm. But things go even further south with Dwayne Haskins directing that unit now that Alex Smith is sidelined. If Washington is to decisively take control of this game, the defense will need to put the entire team on its back.
+
+***
+
+Washington +5
+
+***
