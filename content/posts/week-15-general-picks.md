@@ -148,3 +148,25 @@ their pass rush can stymie any momentum Tampa Bay develops in the passing game.
 
 **Tampa Bay covers if**  
 their blitz packages and pass rushers can force Matt Ryan to play like a man a few weeks away from retiring.
+
+***
+
+### Seahawks @ Washington (+5)
+
+***
+
+#### _Latest Results_
+
+Jets (3) @ **Seahawks** (40)  
+**Washington** (23) @ 49ers (15)
+
+#### _Record_
+
+Seahawks (9-4)  
+Washington (6-7)
+
+#### _Weather_
+
+Cold weather. Possibly wet field from some light rain earlier in the morning.
+
+#### _Injuries_
