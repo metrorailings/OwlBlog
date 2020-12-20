@@ -170,3 +170,13 @@ Washington (6-7)
 Cold weather. Possibly wet field from some light rain earlier in the morning.
 
 #### _Injuries_
+
+The right side of Seattle's offensive line still remains problematic, as two pieces of the offense that normally work the right tackle position may be out.
+
+Washington will be unfortunately forced to field Dwayne Haskins as their starter at quarterback. It'll be a painful game.
+
+#### _History / Analysis_
+
+History doesn't favor either team going into this match-up. The Rams and the Giants have proven that solid defenses can keep Seattle's offense in chains. Washington's defense should be able to follow suit. 
+
+The problem with Washington is their offense. Their offense was horrid enough as is with Alex Smith at the helm. But things go even further south with Dwayne Haskins directing that unit now that Alex Smith is sidelined.
