@@ -47,7 +47,7 @@ But not all is off for the Broncos here. Buffalo's defense has struggled to mana
 
 ***
 
-Bills -6
+N/A
 
 ***
 
