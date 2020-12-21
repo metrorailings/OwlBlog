@@ -18,3 +18,5 @@ Drew Brees is way off. Sure, his receivers situation isn't ideal, but his throws
 ***
 
 ## Browns @ Giants
+
+Got to love how short Mayfield is. He always has one or two passes batted down a game.
