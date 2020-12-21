@@ -14,3 +14,7 @@ New Orleans had a productive drive based off play action and solid pass protecti
 It seems like Kansas City's defenders are actually holding up well in man coverage. 
 
 Drew Brees is way off. Sure, his receivers situation isn't ideal, but his throws aren't impressive at all. He's not even giving his receivers a chance for a contested catch.
+
+***
+
+## Browns @ Giants
