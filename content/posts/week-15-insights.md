@@ -12,3 +12,5 @@ Kansas is actually running the football with some gusto. Not sure what happened 
 New Orleans had a productive drive based off play action and solid pass protection giving Brees plenty of time in the pocket. Also some luck, as Brees was off on a few throws that could have been picked.
 
 It seems like Kansas City's defenders are actually holding up well in man coverage. 
+
+Drew Brees is way off. Sure, his receivers situation isn't ideal, but his throws aren't impressive at all. He's not even giving his receivers a chance for a contested catch.
