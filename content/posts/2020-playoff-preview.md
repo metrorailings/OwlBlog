@@ -25,5 +25,3 @@ It's not exactly hard to figure out why either. The Steelers offense is truly on
 So the Steelers come into the playoffs ass-backwards. Could they win a game? Sure. Will they advance to the Super Bowl? No chance. Dominant defenses can't carry teams alone to the promised land, especially without home field advantage. Still, as with all other playoff teams, we owe them a fair assessment here, if only to try and predict when they'll exit the postseason.
 
 ***
-
- 
