@@ -28,3 +28,5 @@ Got to love how short Mayfield is. He always has one or two passes batted down a
 Pittsburgh is about to muster a comeback after being down 17 points. Not bad.
 
 Steelers are really trying hard to work Diontae Johnson into their offense. Diontae can be a successor to Antonio Brown if he's able to overcome his severe anxiety.
+
+Quarterback runs have bedeviled the Steelers defense.
