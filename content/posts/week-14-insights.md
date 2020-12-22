@@ -64,3 +64,21 @@ What a slop fest on defense. Kudos to both offenses for being so productive, but
 Joe Woods in particular disappointed me the most. The Ravens are so very limited in that Lamar Jackson hasn't been passing effectively at all the past several weeks. The only way Lamar would regain any confidence is if he can matriculate the ball with his best asset - his feet. And the Browns did just that - their insistence on man coverage and the lack of discipline along their defensive front seven literally paved the way for Baltimore. Not only did Baltimore rediscover its groove in the ground game, but they were literally able to build drives off nothing but runs.
 
 Baltimore's style of offense has been featured prominently on tape now for the past year and a half. But Cleveland's defensive coaches weren't ready for the myriad of ways Lamar and crew run the ball. That signifies to me that Cleveland has a real liability at defensive planning.
+
+***
+
+## Falcons @ Chargers
+
+Matt Ryan's throws are off.
+
+Atlanta playing pretty solid man coverage against the Chargers. Not to mention their pass rush has been on point.
+
+Once again, Matt Ryan's throws continue to be off.
+
+Falcons are constantly breaking through the line of scrimmage against the Chargers on short runs and designed runs.
+
+The Chargers and their soft zones are truly special in the worst sense of the word.
+
+Keenan Allen is a security blanket for Justin Herbert.
+
+It honestly seems Justin Herbert and the offense function better on improvised than on designed plays (namely screens). Then again, maybe these screens weren't expected to succeed given the way the secondary was organized on the two screens that failed late in the third quarter.
