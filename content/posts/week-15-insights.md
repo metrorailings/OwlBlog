@@ -11,7 +11,7 @@ Kansas is actually running the football with some gusto. Not sure what happened 
 
 New Orleans had a productive drive based off play action and solid pass protection giving Brees plenty of time in the pocket. Also some luck, as Brees was off on a few throws that could have been picked.
 
-It seems like Kansas City's defenders are actually holding up well in man coverage. 
+It seems like Kansas City's defenders are actually holding up well in man coverage.
 
 Drew Brees is way off. Sure, his receivers situation isn't ideal, but his throws aren't impressive at all. He's not even giving his receivers a chance for a contested catch.
 
@@ -20,3 +20,11 @@ Drew Brees is way off. Sure, his receivers situation isn't ideal, but his throws
 ## Browns @ Giants
 
 Got to love how short Mayfield is. He always has one or two passes batted down a game.
+
+***
+
+## Steelers @ Bengals
+
+Pittsburgh is about to muster a comeback after being down 17 points. Not bad.
+
+Steelers are really trying hard to work Diontae Johnson into their offense. Diontae can be a successor to Antonio Brown if he's able to overcome his severe anxiety.
