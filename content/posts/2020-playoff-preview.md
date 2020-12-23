@@ -26,4 +26,4 @@ So the Steelers come into the playoffs ass-backwards. Could they win a game? Sur
 
 ***
 
-{{% playoffTeamChart team="steelers" %}}
+{{< playoffTeamChart team="steelers" >}}
