@@ -240,3 +240,8 @@ $FONTS:
 	text-decoration: none;
 	letter-spacing: 0.05em;
 }
+
+%capitalizedWhiteFont
+{
+	@include basicFontSettings($size: regularPlusFontSize, $family: Cardo, $weight: 700, $color: whiteTheme);
+}

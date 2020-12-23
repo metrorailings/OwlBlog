@@ -1,0 +1,88 @@
+/* ----------------------- IMPORTS ----------------------------- */
+
+@import '../foundation/colors';
+@import '../foundation/fonts';
+
+/* ----------------------- GENERAL STYLES ----------------------------- */
+
+.playoffTeamChart
+{
+	margin:
+	{
+		top: 25px;
+		bottom: 25px;
+		left: auto;
+		right: auto;
+	}
+
+	border:
+	{
+		style: solid;
+		width: 0.5px;
+		color: map-get($COLORS, grayTheme);
+	}
+
+	width: 80%;
+
+	& > tr
+	{
+		background-color: map-get($COLORS, whiteTheme);
+	}
+
+	& > tr:nth-child(even)
+	{
+		background-color: map-get($COLORS, smokeWhiteTheme);
+	}
+
+	& > tr.scoreRow
+	{
+		background-color: map-get($COLORS, blueTheme);
+	}
+}
+
+.chartHeader
+{
+	@extend %capitalizedWhiteFont;
+
+	background-color: map-get($COLORS, blackTheme);
+
+	width: 100%;
+	text-align: center;
+}
+
+.categoryCell
+{
+	@extend %smallDecorativeText;
+
+	flex: 1;
+	text-align: left;
+}
+
+.answerCell
+{
+	@extend %smallNumberText;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	flex: 1;
+	text-align: left;
+}
+
+.scoreCell
+{
+	@extend %decorativeText;
+
+	flex: 1;
+	text-align: left;
+}
+
+.scoreAnswerCell
+{
+	@extend %numberText;
+
+	flex: 1;
+	text-align: left;
+}

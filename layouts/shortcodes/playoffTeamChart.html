@@ -1,0 +1,55 @@
+<table class='playoffTeamChart'>
+	<tr>
+		<th class='chartHeader'>{{ .Get "team" }}</th>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Elite Quarterback</td>
+		<td class='answerCell'>
+			<!-- Only if an elite quarterback is specified do we list his name -->
+			{{ if isset .Params "qb" }}{{ .Get "qb" }}{{ else }} - {{ end }}
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Premiere Offensive Weapons</td>
+		<td class='answerCell'>
+			<!-- All names will be given as part of a list -->
+			{{ range .Get "weapons" }}
+				<div>{{ . }}</div>
+			{{ end }}
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Elite Pass Rushers</td>
+		<td class='answerCell'>
+			<!-- All names will be given as part of a list -->
+			{{ range .Get "passRushers" }}
+				<div>{{ . }}</div>
+			{{ end }}
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Quality Offensive Coaching</td>
+		<td class='answerCell'>
+			<!-- Only if the team has a capable offensive mind either as head coach or offensive coordinator do we list a name here -->
+			{{ if isset .Params "oc" }}{{ .Get "oc" }}{{ else }} - {{ end }}
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Quality Defensive Coaching</td>
+		<td class='answerCell'>
+			<!-- Only if the team has a capable offensive mind either as head coach or defensive coordinator do we list a name here -->
+			{{ if isset .Params "dc" }}{{ .Get "dc" }}{{ else }} - {{ end }}
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>Postseason Experience</td>
+		<td class='answerCell'>
+			<!-- We're only looking for the presence of a flag here -->
+			{{ if isset .Params "experience" }} Yes {{ else }} No {{ end }}
+		</td>
+	</tr>
+	<tr class='scoreRow'>
+		<td class='scoreCell'>Score</td>
+		<td class='scoreAnswerCell'>{{ $.Scratch.Get "score" }}</td>
+	</tr>
+</table>
