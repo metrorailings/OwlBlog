@@ -50,12 +50,17 @@
 	text-align: center;
 }
 
-.categoryCell
+.categoryCell, .answerCell, .scoreCell, .scoreAnswerCell
 {
-	@extend %smallDecorativeText;
+	padding: 20px;
 
 	flex: 1;
 	text-align: left;
+}
+
+.categoryCell
+{
+	@extend %smallDecorativeText;
 }
 
 .answerCell
@@ -66,23 +71,14 @@
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-
-	flex: 1;
-	text-align: left;
 }
 
 .scoreCell
 {
 	@extend %decorativeText;
-
-	flex: 1;
-	text-align: left;
 }
 
 .scoreAnswerCell
 {
 	@extend %numberText;
-
-	flex: 1;
-	text-align: left;
 }
