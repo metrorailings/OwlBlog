@@ -31,6 +31,6 @@ The Steelers are an interesting bunch to me. The best defense in the league by f
 
 Teams led by great defenses have won championships in this league before, but home field advantage and a moderately functional offense are necessary as secondary elements - Pittsburgh has neither.
 
-On top of that, their mental toughness needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue, that lack of fortitude combined with that dud offense will likely result in this team making an early exit from the playoffs.
+On top of that, their mental toughness needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue across the last two weeks of the regular season, that lack of fortitude combined with that dud offense will likely result in this team making an early exit from the playoffs.
 
 ***
