@@ -1,6 +1,5 @@
 +++
 date = 2020-12-21T12:00:00Z
-draft = false
 headline = "2020 Playoff Preview"
 
 +++
@@ -27,3 +26,9 @@ So the Steelers come into the playoffs ass-backwards. Could they win a game? Sur
 ***
 
 {{< playoffTeamChart team="steelers" >}}
+
+The Steelers are an interesting bunch to me. The best defense in the league by far, but the rest of their team is just so frustratingly insipid. The offense can best be summed up as a zombie unit, devoid of any talent that can consistently produce under the offensive paradigm.
+
+Teams led by great defenses have won championships in this league before, but home field advantage and a moderately functional offense are necessary as secondary elements - Pittsburgh has neither.
+
+On top of that, their mental toughness needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue, that lack of fortitude combined with that dud offense will likely result in this team making an early exit from the playoffs.
