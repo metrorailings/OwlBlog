@@ -23,7 +23,7 @@ It's not exactly hard to figure out why either. The Steelers offense is truly on
 
 Dominant defenses can't carry teams alone to the promised land, especially when these teams lack home field advantage or mental toughness. Speaking of which...their conviction needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue across the last two weeks of the regular season, that lack of fortitude combined with that dud offense will likely result in this team making an early exit from the playoffs.
 
- Still, as with all other playoff teams, we owe them a fair assessment here, if only to try and predict when they'll exit the postseason.
+Still, as with all other playoff teams, we owe them a fair assessment here, if only to try and predict when they'll exit the postseason.
 
 ***
 
@@ -34,3 +34,7 @@ Dominant defenses can't carry teams alone to the promised land, especially when 
 ## New Orleans Saints
 
 **_NFC 2nd/3rd/5th Seed_**
+
+New Orleans has some respectable talent across their team, though much of it is concentrated on the defensive side of the ball. The offense has been trending down the last couple of years, especially in their recent playoff appearances. The biggest reason why is their franchise quarterback - it's been all too clear the past couple seasons that Drew Brees is navigating through the tail end of his career. His arm strength, accuracy, and decisiveness have all declined considerably. His aging issues are likely to be exacerbated going into January given the state of his ribs. Ultimately, this offense hasn't been anywhere near as sharp as one'd expect out of a Saints team coached by Sean Payton.
+
+Still, it's not like the offense is as putrid as what we see in Pittsburgh. Payton's offensive concepts and their offensive line have kept this offense producing most of the year. 
