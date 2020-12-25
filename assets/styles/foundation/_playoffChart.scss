@@ -2,6 +2,7 @@
 
 @import '../foundation/colors';
 @import '../foundation/fonts';
+@import '../foundation/responsive';
 
 /* ----------------------- GENERAL STYLES ----------------------------- */
 
@@ -20,23 +21,46 @@
 		style: solid;
 		width: 0.5px;
 		color: map-get($COLORS, grayTheme);
+
+		spacing: 0px;
+		collapse: collapse;
 	}
 
-	width: 80%;
-
-	& > tr
+	tr
 	{
 		background-color: map-get($COLORS, whiteTheme);
 	}
 
-	& > tr:nth-child(even)
+	tr:nth-child(odd)
 	{
-		background-color: map-get($COLORS, smokeWhiteTheme);
+		background-color: map-get($COLORS, lighterGrayTheme);
 	}
 
-	& > tr.scoreRow
+	tr.scoreRow
 	{
-		background-color: map-get($COLORS, blueTheme);
+		border-top:
+		{
+			width: 1.5px;
+			style: solid;
+			color: map-get($COLORS, blackTheme);
+		}
+
+		background-color: map-get($COLORS, lightBlueTheme);
+	}
+
+	@include desktopOnly()
+	{
+		min-width: 40%;
+	}
+
+	@include tabletOnly()
+	{
+		min-width: 60%;
+	}
+
+	@include phoneOnly()
+	{
+		min-width: 75%;
 	}
 }
 
@@ -44,7 +68,9 @@
 {
 	@extend %capitalizedWhiteFont;
 
-	background-color: map-get($COLORS, blackTheme);
+	padding: 30px;
+
+	background-color: map-get($COLORS, slateGrayTheme);
 
 	width: 100%;
 	text-align: center;
@@ -81,4 +107,9 @@
 .scoreAnswerCell
 {
 	@extend %numberText;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }

@@ -1,0 +1,106 @@
+<!-- Pull the team data that we'll be using to generate this chart -->
+{{ with (index .Site.Data.playoffs (.Get "team") ) }}
+
+	<!-- 
+		Set up a running score on the scratchpad so that we can calculate the score after considering all the factors 
+		in the table 
+	-->
+	{{ $.Scratch.Set "score" 0 }}
+
+	<table class='playoffTeamChart'>
+		<tr>
+			<th class='chartHeader' colspan='2'>{{ .name }}</th>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Elite Quarterback</td>
+			<td class='answerCell'>
+				<!-- Only if an elite quarterback is specified do we list his name -->
+				{{ if .qb }}
+					{{ $.Scratch.Add "score" 6 }}
+					<div>{{ .qb }}</div>
+				{{ else }}
+					<div>--</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Premiere Offensive Weapons</td>
+			<td class='answerCell'>
+				<!-- All names will be given as part of a list -->
+				{{ range .weapons }}
+					{{ $.Scratch.Add "score" 2 }}
+					<div>{{ . }}</div>
+				{{ end }}
+				{{ if (eq (len .weapons) 0) }}
+					<div>--</div>	
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Elite Pass Rushers</td>
+			<td class='answerCell'>
+				<!-- All names will be given as part of a list -->
+				{{ range .passRushers }}
+					{{ $.Scratch.Add "score" 3 }}
+					<div>{{ . }}</div>
+				{{ end }}
+				{{ if (eq (len .passRushers) 0) }}
+					<div>--</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Quality Offensive Coaching</td>
+			<td class='answerCell'>
+				<!-- Only if the team has a capable offensive mind either as head coach or offensive coordinator do we list a name here -->
+				{{ if .oc }}
+					{{ $.Scratch.Add "score" 6 }}
+					<div>{{ .oc }}</div>
+				{{ else }}
+					<div>--</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Quality Defensive Coaching</td>
+			<td class='answerCell'>
+				<!-- Only if the team has a capable offensive mind either as head coach or defensive coordinator do we list a name here -->
+				{{ if .dc }}
+					{{ $.Scratch.Add "score" 6 }}
+					<div>{{ .dc }}</div>
+				{{ else }}
+					<div>--</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Mental Fortitude</td>
+			<td class='answerCell'>
+				<!-- We're only looking for the presence of a flag here -->
+				{{ if .mf }}
+					{{ $.Scratch.Add "score" 10 }}
+					<div>Yes</div>
+				{{ else }}
+					<div>No / Undetermined</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr>
+			<td class='categoryCell'>Postseason Experience</td>
+			<td class='answerCell'>
+				<!-- We're only looking for the presence of a flag here -->
+				{{ if .experience }}
+					{{ $.Scratch.Add "score" 3 }}
+					<div>Yes</div>
+				{{ else }}
+					<div>No</div>
+				{{ end }}
+			</td>
+		</tr>
+		<tr class='scoreRow'>
+			<td class='scoreCell'>Score</td>
+			<td class='scoreAnswerCell'>{{ $.Scratch.Get "score" }}</td>
+		</tr>
+	</table>
+
+{{ end }}

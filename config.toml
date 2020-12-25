@@ -2,3 +2,7 @@ baseURL = "https://www.owlpicks.com"
 languageCode = "en-us"
 title = "Owl Picks"
 paginate = 25
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

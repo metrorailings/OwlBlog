@@ -1,6 +1,6 @@
 +++
 date = 2020-12-21T12:00:00Z
-draft = true
+draft = false
 headline = "2020 Playoff Preview"
 
 +++
@@ -26,4 +26,4 @@ So the Steelers come into the playoffs ass-backwards. Could they win a game? Sur
 
 ***
 
-{{% playoffTeamChart team="steelers" %}}
+{{< playoffTeamChart team="steelers" >}}
