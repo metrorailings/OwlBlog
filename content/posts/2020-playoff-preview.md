@@ -33,7 +33,7 @@ Still, as with all other playoff teams, we owe them a fair assessment here, if o
 
 ## New Orleans Saints
 
-**_NFC 2nd/3rd/5th Seed_**
+**_NFC 2nd/3rd Seed_**
 
 New Orleans has some respectable talent across their team, though much of it is concentrated on the defensive side of the ball. The offense has been trending down the last couple of years, especially in their recent playoff appearances. The biggest reason why is their franchise quarterback - it's been all too clear the past couple seasons that Drew Brees is navigating through the tail end of his career. His arm strength, accuracy, and decisiveness have all declined considerably. His aging issues are likely to be exacerbated going into January given the state of his ribs. Ultimately, this offense hasn't been anywhere near as sharp as one'd expect out of a Saints team coached by Sean Payton.
 
