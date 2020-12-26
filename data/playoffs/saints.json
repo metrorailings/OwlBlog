@@ -1,0 +1,10 @@
+{
+    "name" : "New Orleans Saints",
+    "qb" : "",
+    "weapons" : ["Alvin Kamara", "Taysom Hill"],
+    "passRushers" : ["Trey Hendrickson", "Cameron Jordan"],
+    "oc" : "Sean Payton",
+    "dc" : "",
+    "mf" : "Y",
+    "experience" : "Y"
+}
