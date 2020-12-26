@@ -77,16 +77,16 @@
 			<td class='categoryCell'>Mental Fortitude</td>
 			<td class='answerCell'>
 				<!-- We're only looking for the presence of a flag here -->
-				{{ if (eq .mf 2) }}
+				{{ if (eq .mf "D") }}
 					{{ $.Scratch.Add "score" 10 }}
-					<div>Yes</div>
+					<div>Definitive</div>
 				{{ end }}
-				{{ if (eq .mf 1) }}
+				{{ if (eq .mf "M") }}
 					{{ $.Scratch.Add "score" 5 }}
-					<div>Perhaps</div>
+					<div>Moderate</div>
 				{{ end }}
-				{{ if (eq .mf 0) }}
-					<div>No</div>
+				{{ if (eq .mf "I") }}
+					<div>Insufficient</div>
 				{{ end }}
 			</td>
 		</tr>
