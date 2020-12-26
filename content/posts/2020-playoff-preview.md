@@ -51,4 +51,4 @@ Still, a few things need to be said concretely if this team is to finally realiz
 
 **_NFC 5th/6th Seed_**
 
-The Buccaneers have been been riding some serious ebbs and flows through the season.  
+The Buccaneers have been been riding some serious ebbs and flows through the season. Analyzing this team won't be easy.
