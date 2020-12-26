@@ -16,4 +16,4 @@ Jared Cook not running a hard enough slant to keep his defender from undercuttin
 
 ## 49ers @ Cardinals
 
-Murray not straight effective as a passer from the pocket.
+Murray not completely effective as a passer from the pocket, though Kliff is trying to get him into rhythm with uptempo short passes.
