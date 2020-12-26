@@ -46,3 +46,9 @@ Still, a few things need to be said concretely if this team is to finally realiz
 {{< playoffTeamChart team="saints" >}}
 
 ***
+
+## Tampa Bay Buccaneers
+
+**_NFC 5th/6th Seed_**
+
+The Buccaneers have been been riding up and down ebbs and flows through the season. 
