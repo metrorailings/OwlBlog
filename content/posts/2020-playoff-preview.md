@@ -37,4 +37,10 @@ Still, as with all other playoff teams, we owe them a fair assessment here, if o
 
 New Orleans has some respectable talent across their team, though much of it is concentrated on the defensive side of the ball. The offense has been trending down the last couple of years, especially in their recent playoff appearances. The biggest reason why is their franchise quarterback - it's been all too clear the past couple seasons that Drew Brees is navigating through the tail end of his career. His arm strength, accuracy, and decisiveness have all declined considerably. His aging issues are likely to be exacerbated going into January given the state of his ribs. Ultimately, this offense hasn't been anywhere near as sharp as one'd expect out of a Saints team coached by Sean Payton.
 
-Still, it's not like the offense is as putrid as what we see in Pittsburgh. Payton's offensive concepts and their offensive line have kept this offense producing most of the year. The question is if that's enough. So let's assess using the model.
+Still, it's not like the offense is as putrid as what we see in Pittsburgh. Payton's offensive concepts and their offensive line have kept this offense producing most of the year. The question is if that's enough. Assessing the organization using the model reveals them to be legitimate contenders for the Super Bowl, so long as they can mentally steel themselves against the rougher waves they'll encounter in the playoffs.
+
+***
+
+{{< playoffTeamChart team="steelers" >}}
+
+***
