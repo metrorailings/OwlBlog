@@ -26,8 +26,26 @@ Nobody for the Cardinals stood out on offense outside of DeAndre Hopkins. On def
 
 Andrew Van Ginkel is a gamer for the Dolphins. Might be the best pass rusher on the team.
 
-Might be better off putting the game on Gaskin's shoulders instead of Tua's soft hands. Gaskin has easily been the best offensive player for the Dolphins. 
+Might be better off putting the game on Gaskin's shoulders instead of Tua's soft hands. Gaskin has easily been the best offensive player for the Dolphins.
 
 Tua can't really play drop-back football. He's a rhythm passer.
 
 ***
+
+## Colts @ Steelers
+
+Ben Roethlisberger needs to think about retirement.
+
+Jonathan Taylor is a gamer. He's the tailback Indianapolis so desperately needs after losing Marlon Mack so early in the season.
+
+Pittsburgh is finally sustaining success on offense using the hurry-up offense.
+
+And naturally, when they start abandoning the hurry-up offense, their offense loses some of its momentum.
+
+Still, nonetheless, solid comeback win for a Steelers team that hasn't shown much at all the past four or so weeks.
+
+***
+
+## Rams @ Seahawks
+
+Wilson missing a wide-open receiver. Then he runs right into a very creative blitz by the Rams.
