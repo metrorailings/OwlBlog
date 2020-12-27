@@ -97,4 +97,6 @@ Titans +3.5
 they can take advantage of the bad weather to run roughshod all over this soft Packers defensive front.
 
 **Green Bay will cover if**  
-they can keep Derrick Henry under wraps.
+they can keep Derrick Henry under wraps.  
+\- OR -  
+the Packers overwhelmingly dominate time of possession.
