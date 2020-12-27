@@ -38,12 +38,20 @@ Seattle's pretty healthy, though some of their offensive linemen may still be nu
 
 #### _History / Analysis_
 
+The first time these two teams met, the Rams defense won the game singlehandedly, turning over Russell Wilson multiple times. Ever since then, Seattle's pass rush has upped its level of play - the arrival of Carlos Dunlap and Jamal Adams returning to form has been key in the resurgence there. Their performance this Sunday will largely dictate who wins.
+
+One thing to note though, the Rams have had Seattle's number going back to last year. And I suppose that makes sense, as the Seahawks defense hasn't been impressive at all this season. They've been getting fat the past month against soft offenses. A bitter Rams team coming off a horrendous loss should be a real test  
+
 ***
 
-No pick
+Rams +1.5
 
 ***
 
-**Los Angeles will cover if**
+**Los Angeles will cover if**  
+the Rams can play with some passion coming off a bad loss to the formerly winless Jets. Their defense also needs to commit wholeheartedly to containing Russell Wilson in the pocket. Wilson's mobility gives Seattle a reliable vector of offense should DK Metcalf not be a viable option in the passing game. If Seattle is to win, it's because Wilson nailed them on some big plays. 
 
-**Seattle will cover if**
+**Seattle will cover if**  
+their pass rushers can harangue Jared Goff consistently. Goff falls apart whenever pressure is constantly blasted in his face.  
+\- OR -  
+Seattle chews off significant yardage on the ground against the Rams defense and their light boxes.
