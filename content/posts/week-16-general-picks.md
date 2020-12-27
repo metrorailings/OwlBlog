@@ -83,4 +83,4 @@ Packers are pretty much fully healthy too.
 
 #### _History / Analysis_
 
-Not common for these two to meet, given that this is an inter-conference match.
+Not common for these two to meet, given that this is an inter-conference match. Still, it's been proven demonstrably this season the Packers struggle against teams that can effectively run the ball. And Tennessee, more than most other teams, love to run the ball behind their hard-nosed tailback.
