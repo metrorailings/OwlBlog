@@ -17,3 +17,11 @@ Jared Cook not running a hard enough slant to keep his defender from undercuttin
 ## 49ers @ Cardinals
 
 Murray not completely effective as a passer from the pocket, though Kliff is trying to get him into rhythm with uptempo short passes.
+
+Nobody for the Cardinals stood out on offense outside of DeAndre Hopkins. On defense, Budda Baker, Hassan Reddick, and possibly Markus Golden stood out to me.
+
+***
+
+## Dolphins @ Raiders
+
+Andrew Van Ginkel is a gamer for the Dolphins. Might be the best pass rusher on the team.
