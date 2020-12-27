@@ -25,3 +25,5 @@ Nobody for the Cardinals stood out on offense outside of DeAndre Hopkins. On def
 ## Dolphins @ Raiders
 
 Andrew Van Ginkel is a gamer for the Dolphins. Might be the best pass rusher on the team.
+
+Might be better off putting the game on Gaskin's shoulders instead of Tua's soft hands. Gaskin has easily been the best offensive players for the Dolphins. Tua cannot really play drop-back football.
