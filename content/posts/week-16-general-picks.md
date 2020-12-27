@@ -7,7 +7,7 @@ Another week, another set of picks. Note that I won't be as intense these last c
 
 More importantly, I'll be devoting much less time to my weekly picks as I'm doing some research for the playoffs. Predicting the postseason remains yet another major goal of mine, one that I know is within reach this year. 
 
-That being said, I have two major plays this week, both involving playoff-bound teams. So let's go.
+That being said, I have two major games to analyze this week, both involving playoff-bound teams. So let's go.
 
 ***
 
@@ -43,7 +43,7 @@ One thing to note though, the Rams have had Seattle's number going back to last 
 
 ***
 
-Rams +1.5
+No pick
 
 ***
 
@@ -54,3 +54,9 @@ the Rams can play with some passion coming off a bad loss to the formerly winles
 their pass rushers can harangue Jared Goff consistently. Goff falls apart whenever pressure is constantly blasted in his face.  
 \- OR -  
 Seattle chews off significant yardage on the ground against the Rams defense and their light boxes.
+
+***
+
+### Titans @ Packers (-3.5)
+
+***
