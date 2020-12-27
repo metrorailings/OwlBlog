@@ -60,3 +60,27 @@ Seattle chews off significant yardage on the ground against the Rams defense and
 ### Titans @ Packers (-3.5)
 
 ***
+
+#### _Latest Results_
+
+Lions (25) @ **Titans** (46)  
+Panthers (16) @ **Packers** (24)
+
+#### _Record_
+
+Titans (10-4)  
+Packers (11-3)
+
+#### _Weather_
+
+Freezing with some snow expected. Also a bit windy. It's not good football weather, that's for sure.
+
+#### _Injuries_
+
+Titans are remarkably healthy. Only one of their starting linebackers will be out for the game.
+
+Packers are pretty much fully healthy too.
+
+#### _History / Analysis_
+
+Not common for these two to meet, given that this is an inter-conference match.
