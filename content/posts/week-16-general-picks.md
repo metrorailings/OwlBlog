@@ -79,8 +79,22 @@ Freezing with some snow expected. Also a bit windy. It's not good football weath
 
 Titans are remarkably healthy. Only one of their starting linebackers will be out for the game.
 
-Packers are pretty much fully healthy too.
+Packers are pretty much fully healthy too, though one of their best players in Jamaal Adams is expected to be out.
 
 #### _History / Analysis_
 
-Not common for these two to meet, given that this is an inter-conference match. Still, it's been proven demonstrably this season the Packers struggle against teams that can effectively run the ball. And Tennessee, more than most other teams, love to run the ball behind their hard-nosed tailback.
+Not common for these two to meet, given that this is an inter-conference match. Still, it's been proven demonstrably this season the Packers struggle against teams that can effectively run the ball. And Tennessee, more than most other teams, love to run the ball behind their hard-nosed tailback. Add in the bad weather and you have the recipe for an upset.
+
+Still, Tennessee has one of the worst defenses in the league. It's been getting a tad better over the past couple weeks, but it still has issues, notably along its defensive front. The Titans winning formula involves dominating time of possession, chiefly through its rushing attack. Green Bay is one of the most productive offenses in the league though, so it won't be easy winning wrist control over an offense that knows how to move the sticks.
+
+***
+
+Titans +3.5
+
+***
+
+**Tennessee will cover if**  
+they can take advantage of the bad weather to run roughshod all over this soft Packers defensive front.
+
+**Green Bay will cover if**  
+they can keep Derrick Henry under wraps.
