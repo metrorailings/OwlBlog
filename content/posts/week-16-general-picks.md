@@ -1,6 +1,5 @@
 +++
 date = 2020-12-27T12:00:00Z
-draft = true
 headline = "Week 16 General Picks"
 
 +++
