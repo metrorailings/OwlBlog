@@ -56,3 +56,15 @@ Four-down stand by Seattle on a short goal-to-go series. Nicely done.
 Both of these teams are trash. Rams are the better team, but Jared Goff is a huge liability. He doesn't quite have the hopeless optimism Russell Wilson has.
 
 Jarran Reed and Benson Mayowa stepping up big to close out this game by keeping Jared Goff flustered.
+
+***
+
+## Titans @ Packers
+
+The Green Bay Packers have thoroughly dominated here. It helps that Tennessee seems to struggle running around there in the snow. Derrick Henry especially isn't a fan of the snow.
+
+Preston Smith has had several moments tonight, his most notable being a hit on Ryan Tannehill that led to the Titans passer throwing a pick.
+
+Rashan Gary has also shown some promise tonight, though I need more time to watch tape on him. His numbers so far don't necessarily certify him as an elite defensive lineman.
+
+The Packers made a concerted effort to keep Derrick Henry from running wild in the first half. It worked. Without Henry establishing the ground game, the entire Titans offense fell out of rhythm. By the time Tennessee was able to get going, Green Bay had a three score lead on them.
