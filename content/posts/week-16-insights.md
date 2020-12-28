@@ -1,6 +1,5 @@
 +++
 date = 2020-12-25T12:00:00Z
-draft = true
 headline = "Week 16 Insights"
 
 +++
@@ -16,4 +15,56 @@ Jared Cook not running a hard enough slant to keep his defender from undercuttin
 
 ## 49ers @ Cardinals
 
-Murray not straight effective as a passer from the pocket.
+Murray not completely effective as a passer from the pocket, though Kliff is trying to get him into rhythm with uptempo short passes.
+
+Nobody for the Cardinals stood out on offense outside of DeAndre Hopkins. On defense, Budda Baker, Hassan Reddick, and possibly Markus Golden stood out to me.
+
+***
+
+## Dolphins @ Raiders
+
+Andrew Van Ginkel is a gamer for the Dolphins. Might be the best pass rusher on the team.
+
+Might be better off putting the game on Gaskin's shoulders instead of Tua's soft hands. Gaskin has easily been the best offensive player for the Dolphins.
+
+Tua can't really play drop-back football. He's a rhythm passer.
+
+***
+
+## Colts @ Steelers
+
+Ben Roethlisberger needs to think about retirement.
+
+Jonathan Taylor is a gamer. He's the tailback Indianapolis so desperately needs after losing Marlon Mack so early in the season.
+
+Pittsburgh is finally sustaining success on offense using the hurry-up offense.
+
+And naturally, when they start abandoning the hurry-up offense, their offense loses some of its momentum.
+
+Still, nonetheless, solid comeback win for a Steelers team that hasn't shown much at all the past four or so weeks.
+
+***
+
+## Rams @ Seahawks
+
+Wilson missing a wide-open receiver. Then he runs right into a very creative blitz by the Rams.
+
+I see Jared Goff playing scared. Though he's been better in the second half, it's clear Goff's mood dictates the amount of success the Rams see on offense. I'm not sure why Goff is so scared either. None of Seattle's defensive players have been able to mount pressure consistently. Benson Mayowa has been arguably the best rusher, if only because he dislocated Goff's thumb.
+
+Four-down stand by Seattle on a short goal-to-go series. Nicely done.
+
+Both of these teams are trash. Rams are the better team, but Jared Goff is a huge liability. He doesn't quite have the hopeless optimism Russell Wilson has.
+
+Jarran Reed and Benson Mayowa stepping up big to close out this game by keeping Jared Goff flustered.
+
+***
+
+## Titans @ Packers
+
+The Green Bay Packers have thoroughly dominated here. It helps that Tennessee seems to struggle running around there in the snow. Derrick Henry especially isn't a fan of the snow.
+
+Preston Smith has had several moments tonight, his most notable being a hit on Ryan Tannehill that led to the Titans passer throwing a pick.
+
+Rashan Gary has also shown some promise tonight, though I need more time to watch tape on him. His numbers so far don't necessarily certify him as an elite defensive lineman.
+
+The Packers made a concerted effort to keep Derrick Henry from running wild in the first half. It worked. Without Henry establishing the ground game, the entire Titans offense fell out of rhythm. By the time Tennessee was able to get going, Green Bay had a three score lead on them. Solid coaching by the Packers. It also helped that Tennessee felt awkward playing in snow.
