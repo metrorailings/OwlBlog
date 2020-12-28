@@ -55,9 +55,11 @@ On an important series of downs following a Kansas City touchdown, Bruce Arians 
 
 Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today was predicated on whether they'd choose to run the ball more. Clearly...Bruce Arians felt different. Will Arians finally learn his lesson here and opt to run the ball more often now? Probably not.
 
-Rewatching the game...all comments below this are from the rewatch.
+**Rewatching the game...all comments below this are from the rewatch.**
 
-So far, multiple linemen have stood out on Tampa Bay's side, notably Jason Pierre-Paul and Shaq Barrett. Donkey Kong Suh also made his ugly mug known on a couple run plays.  
+So far, multiple linemen have stood out on Tampa Bay's side, notably Jason Pierre-Paul and Shaq Barrett. Donkey Kong Suh also made his ugly mug known on a couple run plays. 
+
+Rob Gronkowski was key on the first promising drive that the Buccaneers were actually able to engineer. Starting to rethink his role on this offense...
 
 ***
 
