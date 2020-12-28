@@ -67,4 +67,4 @@ Preston Smith has had several moments tonight, his most notable being a hit on R
 
 Rashan Gary has also shown some promise tonight, though I need more time to watch tape on him. His numbers so far don't necessarily certify him as an elite defensive lineman.
 
-The Packers made a concerted effort to keep Derrick Henry from running wild in the first half. It worked. Without Henry establishing the ground game, the entire Titans offense fell out of rhythm. By the time Tennessee was able to get going, Green Bay had a three score lead on them.
+The Packers made a concerted effort to keep Derrick Henry from running wild in the first half. It worked. Without Henry establishing the ground game, the entire Titans offense fell out of rhythm. By the time Tennessee was able to get going, Green Bay had a three score lead on them. Solid coaching by the Packers.
