@@ -92,7 +92,7 @@
             "week": 16 ,
             "awayTeamScore": 16 ,
             "bookSpread": 9.5 ,
-            "curve": -4 ,
+            "curve": 4 ,
             "homeTeamScore": 23 ,
             "owlSpread": 0 ,
             "pickAwayTeam": false ,
