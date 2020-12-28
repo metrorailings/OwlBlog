@@ -55,3 +55,5 @@ I see Jared Goff playing scared. Though he's been better in the second half, it'
 Four-down stand by Seattle on a short goal-to-go series. Nicely done.
 
 Both of these teams are trash. Rams are the better team, but Jared Goff is a huge liability. He doesn't quite have the hopeless optimism Russell Wilson has.
+
+Jarran Reed and Benson Mayowa stepping up big to close out this game by keeping Jared Goff flustered.
