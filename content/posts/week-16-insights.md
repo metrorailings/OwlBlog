@@ -49,3 +49,9 @@ Still, nonetheless, solid comeback win for a Steelers team that hasn't shown muc
 ## Rams @ Seahawks
 
 Wilson missing a wide-open receiver. Then he runs right into a very creative blitz by the Rams.
+
+I see Jared Goff playing scared. Though he's been better in the second half, it's clear Goff's mood dictates the amount of success the Rams see on offense. I'm not sure why Goff is so scared either. None of Seattle's defensive players have been able to mount pressure consistently. Benson Mayowa has been arguably the best rusher, if only because he dislocated Goff's thumb.
+
+Four-down stand by Seattle on a short goal-to-go series. Nicely done.
+
+Both of these teams are trash. Rams are the better team, but Jared Goff is a huge liability. He doesn't quite have the hopeless optimism Russell Wilson has.
