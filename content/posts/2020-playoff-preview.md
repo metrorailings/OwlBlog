@@ -52,4 +52,12 @@ Still, a few things need to be said concretely if this team is to finally realiz
 
 **_NFC 5th/6th Seed_**
 
-The Buccaneers have been been riding some serious ebbs and flows through the season. Analyzing this team won't be easy.
+The Buccaneers have been been riding some serious ebbs and flows through the season. Luckily, that turbulence actually gives us quite a bit of insight into the team, especially when it comes to their mental fortitude.
+
+Let's start with the positives here - the talent. Barely anybody doubted the talent on this team before the season even started for good reason - the team was pluck full of talent before Brady graced Tampa with his almighty presence. A few more big names were added to the roster after the Brady signing, but it's been the existing athletes that kept the Buccaneers functioning at a high level - Mike Evans, Chris Godwin, Jason Pierre-Paul, William Gholston, Shaquil Barrett, Devin White, etc.
+
+The Buccaneers also demonstrated mental toughness, coming back from significant deficits against the likes of the Chargers, the Packers, the Giants, and the Falcons. Not much of a surprise that this team exhibits mental fortitude, considering Brady and Bruce Arians are the two faces of the organization.
+
+Where this team ultimately falls short is the coaching and the quarterbacking. Sorry to say it, but Tom Brady's no elite quarterback. He's been pretty good, but he's made way too many wack throws and bad decisions this year to be considered great. Not to mention it seems that his composure deteriorates too much under pressure. On top of that, the coaching acumen isn't quite there either. Neither Arians nor Todd Bowles have shown me they can adequately adjust on the fly. If anything, both of them cling a little too tightly to their philosophies of football. Normally, that's not a bad thing when the players can consistently execute on those philosophies...but their roster isn't loaded with enough talent to adopt a simpler brand of football. Conceptual complexity and scheme flexibility needs to be incorporated into this team's playbooks so that the players could use the element of surprise to throw opposing teams off their game. Unfortunately, that's not the case, from what I've seen.
+
+A very good team loaded with talent, but their deficiencies at quarterback and coaching will probably be the death of them in the postseason.   
