@@ -63,7 +63,7 @@ Rob Gronkowski was key on the first promising drive that the Buccaneers were act
 
 Spags and his blitzes are absolutely frustrating Brady. Two of those blitzes literally led to Brady throwing picks.
 
-In the second half, Jason Pierre-Paul is standing out more than before.
+In the second half, Jason Pierre-Paul is standing out more than before. William Gholston is also showing up more, especially on stunts.
 
 ***
 
