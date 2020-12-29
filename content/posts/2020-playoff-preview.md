@@ -22,9 +22,7 @@ The Steelers can best be summed up as a ticking time bomb. Even though it took o
 
 It's not exactly hard to figure out why either. The Steelers offense is truly one dimensional. Pittsburgh doesn't run the ball with any sort of efficacy, nor do they really employ any gadgetry to try and deceive opposing defenses. On top of that, the passing game is neutered - Ben Roethlisberger and his weapons have been largely limiting themselves to short (and uninspiring) passes.  It's these quick throws that have been the one defining feature of their offense. And an offense limited to only one vector of attack can be deciphered very easily, as we've seen the past several weeks.
 
-Dominant defenses can't carry teams alone to the promised land, especially when these teams lack home field advantage or mental toughness. Speaking of which...their conviction needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue across the last two weeks of the regular season, that lack of fortitude combined with that dud offense will likely result in this team making an early exit from the playoffs.
-
-Still, as with all other playoff teams, we owe them a fair assessment here, if only to try and predict when they'll exit the postseason.
+Dominant defenses can't carry teams alone to the promised land, especially when these teams lack home field advantage or mental toughness. Speaking of which...their conviction needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue across the last two weeks of the regular season, that lack of fortitude combined with a dud offense will likely result in this team making an early exit from the playoffs.
 
 ***
 
@@ -58,6 +56,12 @@ Let's start with the positives here - the talent. Barely anybody doubted the tal
 
 The Buccaneers also demonstrated mental toughness, coming back from significant deficits against the likes of the Chargers, the Packers, the Giants, and the Falcons. Not much of a surprise that this team exhibits mental fortitude, considering Brady and Bruce Arians are the two faces of the organization.
 
-Where this team ultimately falls short is the coaching and the quarterbacking. Sorry to say it, but Tom Brady's no elite quarterback. He's been pretty good, but he's made way too many wack throws and bad decisions this year to be considered great. Not to mention it seems that his composure deteriorates too much under pressure. On top of that, the coaching acumen isn't quite there either. Neither Arians nor Todd Bowles have shown me they can adequately adjust on the fly. If anything, both of them cling a little too tightly to their philosophies of football. Normally, that's not a bad thing when the players can consistently execute on those philosophies...but their roster isn't loaded with enough talent to adopt a simpler brand of football. Conceptual complexity and scheme flexibility needs to be incorporated into this team's playbooks so that the players could use the element of surprise to throw opposing teams off their game. Unfortunately, that's not the case, from what I've seen.
+Where this team ultimately falls short is the coaching and the quarterbacking. Sorry to say it, but Tom Brady's no elite quarterback. He's been pretty good, but he's made way too many wack throws and bad decisions this year to be considered great. Not to mention that his composure deteriorates way too much under pressure. On top of that, the coaching acumen isn't quite there either. Neither Arians nor Todd Bowles have shown me they can adequately adjust on the fly. If anything, both of them cling a little too tightly to their philosophies of football. Normally, that's not a bad thing when the players can consistently execute on those philosophies...but their roster isn't loaded with enough talent to adopt a simpler brand of football. Conceptual complexity and scheme flexibility needs to be incorporated into this team's playbooks so that the players could use the element of surprise to throw opposing teams off their game. Unfortunately, that's not the case, from what I've seen.
 
-A very good team loaded with talent, but their deficiencies at quarterback and coaching will probably be the death of them in the postseason.   
+A very good team loaded with talent, but their deficiencies at quarterback and coaching will probably be the death of them in the postseason. 
+
+***
+
+{{< playoffTeamChart team="buccaneers" >}}
+
+***
