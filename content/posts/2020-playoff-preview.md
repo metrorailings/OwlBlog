@@ -70,4 +70,4 @@ A very good team loaded with talent, but their deficiencies at quarterback and c
 
 ***
 
-The Titans aren't a team to be feared in the playoffs.
+The Titans aren't a team to be feared in the playoffs. Their defense has quite possibly the league's worst pass rush. 
