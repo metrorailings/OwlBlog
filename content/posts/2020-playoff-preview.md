@@ -65,3 +65,9 @@ A very good team loaded with talent, but their deficiencies at quarterback and c
 {{< playoffTeamChart team="buccaneers" >}}
 
 ***
+
+## Tennessee Titans
+
+***
+
+The Titans aren't a team to be feared in the playoffs.
