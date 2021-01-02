@@ -115,4 +115,6 @@ Bobby Wagner has some pass rushing chops.
 
 Tyler Lockett making a case for himself as a major talent on Seattle's offense.
 
-Solid red-zone play by Arizona to nail their first touchdown of the second half.
+Solid red-zone play by Arizona to nail their first touchdown of the second half using the guise of a four-man wide receiver screen to deliver a touchdown pass to a tight end.
+
+Seattle's pass rush gambles almost always fail. Three-man pass rushes and seven-man pass rushes have failed spectacularly so far. 
