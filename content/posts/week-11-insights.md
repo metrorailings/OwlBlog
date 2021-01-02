@@ -118,3 +118,5 @@ Tyler Lockett making a case for himself as a major talent on Seattle's offense.
 Solid red-zone play by Arizona to nail their first touchdown of the second half using the guise of a four-man wide receiver screen to deliver a touchdown pass to a tight end.
 
 Seattle's pass rush gambles almost always fail. Three-man pass rushes and seven-man pass rushes have failed spectacularly so far. 
+
+In the second half, pass protection has stepped up considerably on both fronts. Honestly, L.J. Collier has been the only defensive lineman I've seen make multiple impact plays. Though his biggest play of the game came courtesy of Jamal Adams forcing a skittish Kyler Murray into intentionally grounding the ball.
