@@ -112,3 +112,5 @@ While the Ravens may be too predictable with their run plays, they were just mon
 One play seemed to sum things up well - Russell Wilson had all the time in the pocket on a third-and-long, yet he couldn't find himself an outlet he liked. He threw a futile heave up for Carlos Hyde right before getting tackled by Haason Reddick. 
 
 Bobby Wagner has some pass rushing chops.
+
+Tyler Lockett making a case for himself as a major talent on offense.
