@@ -113,4 +113,4 @@ One play seemed to sum things up well - Russell Wilson had all the time in the p
 
 Bobby Wagner has some pass rushing chops.
 
-Tyler Lockett making a case for himself as a major talent on offense.
+Tyler Lockett making a case for himself as a major talent on Seattle's offense.
