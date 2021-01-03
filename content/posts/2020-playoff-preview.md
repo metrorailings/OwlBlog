@@ -94,3 +94,5 @@ So we have a Seattle squad stocked with talent. It's the combination of Russell 
 ## Kansas City Chiefs
 
 ***
+
+Kansas City is the league's best team.
