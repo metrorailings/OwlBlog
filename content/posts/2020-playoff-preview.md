@@ -66,8 +66,10 @@ A very good team loaded with talent, but their deficiencies at quarterback and c
 
 ***
 
-## Tennessee Titans
+## Seattle Seahawks
 
 ***
 
-The Titans aren't a team to be feared in the playoffs. Their defense has quite possibly the league's worst pass rush. 
+It's hard to develop a beat on these Seahawks. It really is hard. Namely, it's the fact that the Seahawks waxed and waned through the season. Seattle has turned things up lately with solid performances against poor teams and homely wins over good teams. 
+
+The most confusing part of this team is the defense. An argument can be made that their defense has fared much better the past several games, but none of those performances came against truly quality offenses. On top of that, it remains to be seen whether we have truly dominant trench defenders on this team - things are pretty damning when the best pass rusher on your team is a defensive back that's missed four games. In all fairness, the defensive line has multiple players who have stepped up on several occasions, but no one player has shown consistent dominance through the season. Arguably the most reliable pass rusher has been Jarren Reed, a defensive tackle. Carlos Dunlap has been a bit of a boon to the pass rush since his arrival, but I'm still not fully sold on him being considered an elite defensive lineman.
