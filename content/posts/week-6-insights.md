@@ -121,6 +121,8 @@ The Chiefs deep passing attack has been stymied. Not sure whether it's due more 
 
 **All notes made after this statement come from a rewatch.**
 
+Blitzes quickly throw Josh Allen off his game, it seems.
+
 ***
 
 ## Cardinals @ Cowboys
