@@ -123,6 +123,8 @@ The Chiefs deep passing attack has been stymied. Not sure whether it's due more 
 
 Blitzes quickly throw Josh Allen off his game, it seems. Makes sense given how long he holds on to the ball.
 
+The Chiefs and their discipline are remarkable. It's hard to fool this Kansas defense.
+
 ***
 
 ## Cardinals @ Cowboys
