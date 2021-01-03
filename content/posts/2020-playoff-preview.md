@@ -79,4 +79,4 @@ It's not just Russell that's giving me fits in reading this offense. It's the we
 
 Lastly, there's the question of mental toughness. And things are so very hazy here. Seattle has only came back from a stressful deficit once in the season. That one comeback was later followed one week later by them ceding a lead to an upstart Arizona squad. I'm not sure if there's any other adverse situations for me to seriously consider here. The only other thing that could signify some mental fortitude here is the team's ability to manage penalties. Seattle's been far from egregious in that respect. Still, it's honestly not enough for me to give them any credit here when it comes to mental strength.
 
- 
+So we have a Seattle squad stocked with talent. It's the combination of Russell Wilson trending negatively and the lack of any evidence demonstrating mental toughness that has me a little wary of this team. I would have really liked this team as a dark horse contender, as it stands out, Seattle is just yet another team with considerable talent and not much else.  
