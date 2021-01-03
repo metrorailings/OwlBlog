@@ -23,6 +23,10 @@ It's not exactly hard to figure out why either. The Steelers offense is truly on
 
 Dominant defenses can't carry teams alone to the promised land, especially when these teams lack home field advantage or mental toughness. Speaking of which...their conviction needs to be questioned. The team has fallen apart the past several weeks. Should this trend continue across the last two weeks of the regular season, that lack of fortitude combined with a dud offense will likely result in this team making an early exit from the playoffs.
 
+EDIT: So Pittsburgh staged a huge comeback against the Colts in their second to last week. It was a much-needed win. Not only did that win give the Steelers some semblance of confidence heading into the postseason, but it also gave them the division crown, giving them a chance to rest some of their wearier members of their roster before playoffs begin.
+
+On top of that, that game proved to me Diontae Johnson's deserving of premiere status. Pittsburgh's comeback was sparked by Ben making a long throw to him in tight coverage. On top of that, the last few weeks has also shed some light on his role in the offense - it's clear Pittsburgh has gone out of its way to gin up his share of targets, despite all his drops. So long as Diontae can shake off his bad dropping habit, he can actually add considerable value to this offense as a deep threat.   
+
 ***
 
 {{< playoffTeamChart team="steelers" >}}
