@@ -90,3 +90,7 @@ So we have a Seattle squad stocked with talent. It's the combination of Russell 
 {{< playoffTeamChart team="seahawks" >}}
 
 ***
+
+## Kansas City Chiefs
+
+***
