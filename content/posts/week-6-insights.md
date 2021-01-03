@@ -119,6 +119,8 @@ Chiefs also using screens successfully to matriculate the ball downfield.
 
 The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
 
+**All notes made after this statement come from a rewatch.**
+
 ***
 
 ## Cardinals @ Cowboys
