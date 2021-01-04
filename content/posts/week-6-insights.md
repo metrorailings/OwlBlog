@@ -125,6 +125,8 @@ Blitzes quickly throw Josh Allen off his game, it seems. Makes sense given how l
 
 The Chiefs and their discipline are remarkable. It's hard to fool this Kansas defense. Not to mention these guys don't really commit too many penalties despite the man coverage.
 
+Never mind, I take that back. Bills were able to sustain a drive thanks to a few timely penalties in coverage. 
+
 ***
 
 ## Cardinals @ Cowboys
