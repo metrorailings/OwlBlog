@@ -1,5 +1,5 @@
 +++
-date = 2020-12-21T12:00:00Z
+date = 2021-01-08T12:00:00Z
 headline = "2020 Playoff Preview"
 
 +++
@@ -101,4 +101,4 @@ If only Buffalo's defense could match their talent level on offense. Don't get m
 
 On a slightly more positive note, the team has some mental fortitude worth noting. Buffalo made two fourth-quarter comebacks against the the Dolphins and the Rams and recovered from a double-digit deficit against the Jets. Now they did cede a fourth-quarter lead last minute against the Cardinals, but that was on a prayer throw. Special teams remains a point of concern given Tyler Bass missed several plausible field goals in the first half of the season.
 
-So with all that said, Buffalo is a true
+So with all that said, Buffalo is a true contender for the Super Bowl this year. Hail Buffalo.
