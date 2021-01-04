@@ -112,3 +112,7 @@ So with all that said, Buffalo is a true contender for the Super Bowl this year.
 ## Indianapolis Colts
 
 ***
+
+Indianapolis was such a promising team entering 2020. In recruiting Philip Rivers, the hope was that the Colts had that final piece they so desperately needed to wage a championship run. Unfortunately, Rivers ended up being this team's biggest point of failure. Philip's last couple years was spent aging in dog years, considering his accuracy, decisiveness, and composure all dropped off a cliff. As a result, this offense is nowhere near as productive as I'd expect from a squad coached by Frank Reich.
+
+The team's mental fortitude also needs to be questioned. Sure, the Colts bounced back from double-digit deficits against the Bengals and Packers (both teams featuring productive offenses), but then they went and blew a huge lead only a week ago against a Steelers offense missing its mojo. Another adversity worth mentioning is the loss of their talented tailback Marlon Mack early in the season. It took a bit of time, but the Colts finally developed a suitable replacement in Jonathan Taylor. Consider that a testament to Reich's ability to compensate for critical injuries, something he surely picked up from his time over in Philly.
