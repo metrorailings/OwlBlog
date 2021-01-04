@@ -119,4 +119,10 @@ The team's mental fortitude also needs to be questioned. Sure, the Colts bounced
 
 On defense, the team is solidly coached, if a bit too predictable. On top of that, the defensive front has at least one elite player in DeForest Buckner. His stats alone justify his elite designation. Justin Houston is another name worth mentioning, given his name cache and the fact that by raw stats alone, his numbers bill him as the team's second best pass rusher. That being said, I'm still not sure if he can be included. Has he been able to maintain a high level of play through the season? Not too sure...
 
-All things said, the Colts are a damn good team, but with an albatross at quarterback and being a bit short on the requisite amount of talent at select spots on the roster, a Super Bowl is out of the question. Expect them to give the Bills some hell though. 
+All things said, the Colts are a damn good team, but with an albatross at quarterback and being a bit short on the requisite amount of talent at select spots on the roster, a Super Bowl is out of the question. Expect them to give the Bills some hell though.
+
+***
+
+{{< playoffTeamChart team="colts" >}}
+
+***
