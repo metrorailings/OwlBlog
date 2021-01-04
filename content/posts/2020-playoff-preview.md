@@ -108,3 +108,7 @@ So with all that said, Buffalo is a true contender for the Super Bowl this year.
 {{< playoffTeamChart team="bills" >}}
 
 ***
+
+## Indianapolis Colts
+
+***
