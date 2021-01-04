@@ -25,7 +25,7 @@ Dominant defenses can't carry teams alone to the promised land, especially when 
 
 EDIT: So Pittsburgh staged a huge comeback against the Colts in their second to last week. It was a much-needed win. Not only did that win give the Steelers some semblance of confidence heading into the postseason, but it also gave them the division crown, giving them a chance to rest some of their wearier members of their roster before playoffs begin.
 
-On top of that, that game proved to me Diontae Johnson's deserving of premiere status. Pittsburgh's comeback was sparked by Ben making a long throw to him in tight coverage. On top of that, the last few weeks has also shed some light on his role in the offense - it's clear Pittsburgh has gone out of its way to gin up his share of targets, despite all his drops. So long as Diontae can shake off his bad dropping habit, he can actually add considerable value to this offense as a deep threat.   
+On top of that, that game proved to me Diontae Johnson's deserving of premiere status. Pittsburgh's comeback was sparked by Ben making a long throw to him in tight coverage. On top of that, the last few weeks has also shed some light on his role in the offense - it's clear Pittsburgh has gone out of its way to gin up his share of targets, despite all his drops. So long as Diontae can shake off his bad dropping habit, he can actually add considerable value to this offense as a deep threat.
 
 ***
 
@@ -73,7 +73,7 @@ A very good team loaded with talent, but their deficiencies at quarterback and c
 
 ***
 
-It's hard to develop a beat on these Seahawks. It really is hard. Namely, it's the fact that the Seahawks waxed and waned through the season. Seattle has turned things up lately with solid performances against poor teams and homely wins over good teams. 
+It's hard to develop a beat on these Seahawks. It really is hard. Namely, it's the fact that the Seahawks waxed and waned through the season. Seattle has turned things up lately with solid performances against poor teams and homely wins over good teams.
 
 The most confusing part of this team is the defense. An argument can be made that their defense has fared much better the past several games, but none of those performances came against truly quality offenses. On top of that, it remains to be seen whether we have truly dominant trench defenders on this team - things are pretty damning when the best pass rusher on your team is a defensive back that's missed four games. In all fairness, the defensive line has multiple players who have stepped up on several occasions, but no one player has shown consistent dominance through the season. Arguably the most reliable pass rushing lineman has been Jarren Reed, a defensive tackle. Carlos Dunlap has been a bit of a boon to the pass rush since his arrival, but I'm still not fully sold on him being considered elite yet.
 
@@ -91,8 +91,10 @@ So we have a Seattle squad stocked with talent. It's the combination of Russell 
 
 ***
 
-## Kansas City Chiefs
+## Buffalo Bills
 
 ***
 
-Kansas City is the league's best team.
+Buffalo is _probably_ the league's hottest offense, thanks in part to their elite quarterback. Josh Allen is likely to finish the year as the runner-up MVP, something that damn near nobody predicted before the season even started. His renaissance this year came due to two things - an appreciable improvement in his accuracy and Brian Daboll and Sean McDermott working together to install an offense truly catering to Josh Allen's skill set. Buffalo's offense is schematically designed to allow for easy passes over the middle to shifty receivers while keeping open the option for deep lobs to receivers with large catch radiuses. It's a style of football conceived for a passer who won't necessarily awe you with his accuracy, to put it kindly. In that respect, this offense was going to see a a major boost now that Stefon Diggs was brought into the fold to act as that one wide receiver could serve as the core players needed to realize this offensive system's full potential. Josh Allen's unexpected jump up in accuracy though took this offense to a whole new level. 
+
+***
