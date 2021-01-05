@@ -144,3 +144,5 @@ Despite the quality coaching and the considerable talent along their defensive l
 ***
 
 ## Washington Football Team
+
+Some sorry team was bound to win the NFC East. That shame went to Washington.
