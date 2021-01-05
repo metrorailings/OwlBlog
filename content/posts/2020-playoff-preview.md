@@ -135,4 +135,12 @@ Ah, the Rams. Not too long ago, they were the cream of the crop when it came to 
 
 And that's the other thing about these Rams - they haven't demonstrated any real mental toughness this year. Sure, they had one game-winning drive against the Buccaneers in Tampa Bay, but nothing else they've done this season signifies to me that the team can overcome adversity. Trying to win an elimination-style game against a decent Arizona squad in the last week of the regular season could have possibly been a triumphant moment for them given the magnitude of the moment and the fact that Jared Goff wouldn't be playing. But Kyler Murray leaving the game early due to injury effectively put an end to that contest - it didn't take much for the Rams to coast their way into the postseason. 
 
-Despite the quality coaching and the considerable talent along their defensive line, Los Angeles is destined for an early exit in the playoffs. Damn shame too - the Rams are one of the few playoff teams with solid coaching. Until their situation improves at quarterback and their offense features a bit more talent, the organization will never be a Super Bowl contender. 
+Despite the quality coaching and the considerable talent along their defensive line, Los Angeles is destined for an early exit in the playoffs. Damn shame too - the Rams are one of the few playoff teams with solid coaching. Until their situation improves at quarterback and their offense features a bit more talent, the organization will never be a Super Bowl contender.
+
+***
+
+{{< playoffTeamChart team="rams" >}}
+
+***
+
+## Washington Football Team
