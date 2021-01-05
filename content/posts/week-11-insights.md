@@ -57,6 +57,12 @@ Indianapolis defense stopped Green Bay's offense with their base cover-two defen
 
 Green Bay scored on a wide receiver where 3 receivers were paired up against 2 defensive backs. I wonder if these Colts are particular vulnerable against formations involving 3 wide receivers on one side of the field...
 
+**All notes after this come from a rewatch.  
+  
+**Colts rarely blitz, interestingly. Aside from occasional man coverage, this defense largely plays zone coverage schemes. It's a fairly predictable defense. Indianapolis excels on defense because they harbor talent at every level. Their speed on defense is something else. 
+
+Rashan Gary might be the real thing for the Packers.
+
 ***
 
 ## Vikings @ Cowboys
@@ -109,7 +115,7 @@ While the Ravens may be too predictable with their run plays, they were just mon
 
 ## Cardinals @ Seahawks
 
-One play seemed to sum things up well - Russell Wilson had all the time in the pocket on a third-and-long, yet he couldn't find himself an outlet he liked. He threw a futile heave up for Carlos Hyde right before getting tackled by Haason Reddick. 
+One play seemed to sum things up well - Russell Wilson had all the time in the pocket on a third-and-long, yet he couldn't find himself an outlet he liked. He threw a futile heave up for Carlos Hyde right before getting tackled by Haason Reddick.
 
 Bobby Wagner has some pass rushing chops.
 
@@ -117,6 +123,6 @@ Tyler Lockett making a case for himself as a major talent on Seattle's offense.
 
 Solid red-zone play by Arizona to nail their first touchdown of the second half using the guise of a four-man wide receiver screen to deliver a touchdown pass to a tight end.
 
-Seattle's pass rush gambles almost always fail. Three-man pass rushes and seven-man pass rushes have failed spectacularly so far. 
+Seattle's pass rush gambles almost always fail. Three-man pass rushes and seven-man pass rushes have failed spectacularly so far.
 
 In the second half, pass protection has stepped up considerably on both fronts. Honestly, L.J. Collier has been the only defensive lineman I've seen make multiple impact plays. Though his biggest play of the game came courtesy of Jamal Adams forcing a skittish Kyler Murray into intentionally grounding the ball.
