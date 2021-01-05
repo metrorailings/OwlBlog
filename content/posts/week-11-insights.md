@@ -57,8 +57,8 @@ Indianapolis defense stopped Green Bay's offense with their base cover-two defen
 
 Green Bay scored on a wide receiver where 3 receivers were paired up against 2 defensive backs. I wonder if these Colts are particular vulnerable against formations involving 3 wide receivers on one side of the field...
 
-**All notes after this come from a rewatch.  
-  
+**All notes after this come from a rewatch.**  
+**  
 **Colts rarely blitz, interestingly. Aside from occasional man coverage, this defense largely plays zone coverage schemes. It's a fairly predictable defense. Indianapolis excels on defense because they harbor talent at every level. Their speed on defense is something else. 
 
 Rashan Gary might be the real thing for the Packers.
