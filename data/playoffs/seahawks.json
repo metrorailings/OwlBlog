@@ -1,0 +1,10 @@
+{
+    "name" : "Seattle Seahawks",
+    "qb" : "",
+    "weapons" : ["Russell Wilson (Mobile QB)", "DK Metcalf", "Chris Carson"],
+    "passRushers" : ["Jamal Adams", "Jarren Reed"],
+    "oc" : "",
+    "dc" : "Pete Carroll",
+    "mf" : "D", // DMI
+    "experience" : "Y"
+}

@@ -1,10 +1,10 @@
 {
     "name" : "Tampa Bay Buccaneers",
     "qb" : "",
-    "weapons" : ["Mike Evans", "Chris Godwin"],
-    "passRushers" : [""],
+    "weapons" : ["Mike Evans", "Chris Godwin", "Rob Gronkowski"],
+    "passRushers" : ["Jason Pierre-Paul", "Shaquil Barrett"],
     "oc" : "",
     "dc" : "",
-    "mf" : "",
+    "mf" : "D", // DMI
     "experience" : ""
 }

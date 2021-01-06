@@ -1,10 +1,10 @@
 {
     "name" : "Pittsburgh Steelers",
     "qb" : "",
-    "weapons" : [],
+    "weapons" : ["Diontae Johnson"],
     "passRushers" : ["TJ Watt", "Stephon Tuitt", "Cameron Heyward"],
     "oc" : "",
     "dc" : "Keith Butler",
-    "mf" : "I",
+    "mf" : "M", // DMI
     "experience" : ""
 }
