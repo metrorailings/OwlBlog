@@ -1,0 +1,114 @@
+[{
+  "_id": "5ff5836e6700c807e189e2f5",
+  "name": "Bears",
+  "elo": 1499,
+  "change": 0,
+  "wins": 8,
+  "losses": 8,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e2f6",
+  "name": "Packers",
+  "elo": 1648,
+  "change": 0,
+  "wins": 13,
+  "losses": 3,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e2f8",
+  "name": "Football Team",
+  "elo": 1466,
+  "change": 0,
+  "wins": 7,
+  "losses": 9,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e2fa",
+  "name": "Seahawks",
+  "elo": 1648,
+  "change": 0,
+  "wins": 12,
+  "losses": 4,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e2fb",
+  "name": "Buccaneers",
+  "elo": 1618,
+  "change": 0,
+  "wins": 11,
+  "losses": 5,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e2fd",
+  "name": "Bills",
+  "elo": 1706,
+  "change": 0,
+  "wins": 14,
+  "losses": 2,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e300",
+  "name": "Saints",
+  "elo": 1674,
+  "change": 0,
+  "wins": 12,
+  "losses": 4,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e304",
+  "name": "Titans",
+  "elo": 1577,
+  "change": 0,
+  "wins": 11,
+  "losses": 5,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e305",
+  "name": "Rams",
+  "elo": 1598,
+  "change": 0,
+  "wins": 10,
+  "losses": 5,
+  "week": 18,
+  "draws": 1
+},{
+  "_id": "5ff5836e6700c807e189e307",
+  "name": "Colts",
+  "elo": 1617,
+  "change": 0,
+  "wins": 11,
+  "losses": 5,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e30b",
+  "name": "Chiefs",
+  "elo": 1742,
+  "change": 0,
+  "wins": 14,
+  "losses": 2,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e30e",
+  "name": "Ravens",
+  "elo": 1657,
+  "change": 0,
+  "wins": 11,
+  "losses": 5,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e30f",
+  "name": "Browns",
+  "elo": 1545,
+  "change": 0,
+  "wins": 11,
+  "losses": 5,
+  "week": 18
+},{
+  "_id": "5ff5836e6700c807e189e310",
+  "name": "Steelers",
+  "elo": 1623,
+  "change": 0,
+  "wins": 12,
+  "losses": 4,
+  "week": 18
+}]
