@@ -10,7 +10,7 @@
             "bookSpread": -7 ,
             "curve": 0 ,
             "homeTeamScore": 52 ,
-            "owlSpread": 0 ,
+            "owlSpread": -7 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -24,7 +24,7 @@
             "bookSpread": -5 ,
             "curve": 0 ,
             "homeTeamScore": 12 ,
-            "owlSpread": 0 ,
+            "owlSpread": -4.5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -38,9 +38,9 @@
             "bookSpread": 9.5 ,
             "curve": 0 ,
             "homeTeamScore": 9 ,
-            "owlSpread": 0 ,
+            "owlSpread": 5.5 ,
             "pickAwayTeam": false ,
-            "pickHomeTeam": false
+            "pickHomeTeam": true
         } ,
         {
             "_id": 485 ,
@@ -52,8 +52,8 @@
             "bookSpread": -8 ,
             "curve": 0 ,
             "homeTeamScore": 31 ,
-            "owlSpread": 0 ,
-            "pickAwayTeam": false ,
+            "owlSpread": -3 ,
+            "pickAwayTeam": true ,
             "pickHomeTeam": false
         } ,
         {
@@ -66,7 +66,7 @@
             "bookSpread": 7.5 ,
             "curve": 0 ,
             "homeTeamScore": 17 ,
-            "owlSpread": 0 ,
+            "owlSpread": 6 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -80,7 +80,7 @@
             "bookSpread": -11 ,
             "curve": 0 ,
             "homeTeamScore": 17 ,
-            "owlSpread": 0 ,
+            "owlSpread": -11 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -94,9 +94,9 @@
             "bookSpread": 9.5 ,
             "curve": 4 ,
             "homeTeamScore": 23 ,
-            "owlSpread": 0 ,
+            "owlSpread": 3 ,
             "pickAwayTeam": false ,
-            "pickHomeTeam": false
+            "pickHomeTeam": true
         } ,
         {
             "_id": 489 ,
@@ -122,7 +122,7 @@
             "bookSpread": 3 ,
             "curve": 0 ,
             "homeTeamScore": 25 ,
-            "owlSpread": 0 ,
+            "owlSpread": 3 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -136,7 +136,7 @@
             "bookSpread": -10.5 ,
             "curve": 0 ,
             "homeTeamScore": 27 ,
-            "owlSpread": 0 ,
+            "owlSpread": -9.5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -150,7 +150,7 @@
             "bookSpread": -3 ,
             "curve": 0 ,
             "homeTeamScore": 19 ,
-            "owlSpread": 0 ,
+            "owlSpread": -1 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -164,7 +164,7 @@
             "bookSpread": -2.5 ,
             "curve": 0 ,
             "homeTeamScore": 13 ,
-            "owlSpread": 0 ,
+            "owlSpread": -5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -176,9 +176,9 @@
             "week": 16 ,
             "awayTeamScore": 9 ,
             "bookSpread": -1.5 ,
-            "curve": 0 ,
+            "curve": -1 ,
             "homeTeamScore": 20 ,
-            "owlSpread": 0 ,
+            "owlSpread": -1.5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -192,9 +192,9 @@
             "bookSpread": 2.5 ,
             "curve": 0 ,
             "homeTeamScore": 37 ,
-            "owlSpread": 0 ,
+            "owlSpread": -2.5 ,
             "pickAwayTeam": false ,
-            "pickHomeTeam": false
+            "pickHomeTeam": true
         } ,
         {
             "_id": 496 ,
@@ -204,9 +204,9 @@
             "week": 16 ,
             "awayTeamScore": 14 ,
             "bookSpread": -3 ,
-            "curve": 0 ,
+            "curve": -2 ,
             "homeTeamScore": 40 ,
-            "owlSpread": 0 ,
+            "owlSpread": -1.5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         } ,
@@ -216,11 +216,11 @@
             "homeTeam": "Patriots" ,
             "awayTeam": "Bills" ,
             "week": 16 ,
-            "awayTeamScore": "" ,
+            "awayTeamScore": 38 ,
             "bookSpread": 7 ,
             "curve": 0 ,
-            "homeTeamScore": "" ,
-            "owlSpread": 0 ,
+            "homeTeamScore": 9 ,
+            "owlSpread": 4.5 ,
             "pickAwayTeam": false ,
             "pickHomeTeam": false
         }
