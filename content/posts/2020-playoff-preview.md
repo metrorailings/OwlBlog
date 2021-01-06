@@ -1,5 +1,5 @@
 +++
-date = 2021-01-08T12:00:00Z
+date = 2021-01-06T12:00:00Z
 headline = "2020 Playoff Preview"
 
 +++
