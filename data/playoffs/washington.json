@@ -1,10 +1,10 @@
 {
-    "name" : "Tennessee Titans",
+    "name" : "Washington Football Team",
     "qb" : "",
     "weapons" : ["Terry McLaurin"],
     "passRushers" : ["Chase Young", "Montez Sweat", "Jonathan Allen"],
     "oc" : "",
     "dc" : "Ron Rivera",
-    "mf" : "D", // DMI
+    "mf" : "D",
     "experience" : ""
 }
