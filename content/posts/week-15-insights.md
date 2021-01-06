@@ -30,3 +30,17 @@ Pittsburgh is about to muster a comeback after being down 17 points. Not bad.
 Steelers are really trying hard to work Diontae Johnson into their offense. Diontae can be a successor to Antonio Brown if he's able to overcome his severe anxiety.
 
 Quarterback runs have bedeviled the Steelers defense.
+
+***
+
+## Seahawks @ Washington
+
+Washington has a fantastic defensive line, but only decent pass coverage. I notice too many lapses in pass coverage, either among the linebackers or the secondary. Cover-three in particular can really expose this team.
+
+Outside runs also seem to frustrate Washington's defensive front.
+
+The secondary failed horribly on one play - two defensive backs made the wrong moves in giving up a touchdown run.
+
+Washington emphasized so much more on pass defense in the second half, committing more defensive backs into the formation and playing a loose form of man coverage pre-snap. As a result, they're giving up yards in the ground game.
+
+Now Washington has reverted back to a five-man defensive line in order to stem Seattle's rushing attack.

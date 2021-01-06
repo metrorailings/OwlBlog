@@ -55,6 +55,16 @@ On an important series of downs following a Kansas City touchdown, Bruce Arians 
 
 Only 12 rushes by Tampa Bay halfway through the 4th quarter. Their success today was predicated on whether they'd choose to run the ball more. Clearly...Bruce Arians felt different. Will Arians finally learn his lesson here and opt to run the ball more often now? Probably not.
 
+**Rewatching the game...all comments below this are from the rewatch.**
+
+So far, multiple defensive linemen have stood out on Tampa Bay's side, notably Jason Pierre-Paul and Shaq Barrett. Donkey Kong Suh also made his ugly mug known on a couple run plays.
+
+Rob Gronkowski was key on the first promising drive that the Buccaneers were actually able to engineer. Starting to rethink his role on this offense...
+
+Spags and his blitzes are absolutely frustrating Brady. Two of those blitzes literally led to Brady throwing picks.
+
+In the second half, Jason Pierre-Paul is standing out more than before. William Gholston is also showing up more, especially on stunts.
+
 ***
 
 ## 49ers @ Rams

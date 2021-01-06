@@ -117,7 +117,15 @@ Kansas City running and passing the ball at will against the Bills. Probably the
 
 Chiefs also using screens successfully to matriculate the ball downfield.
 
-The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain is impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
+The Chiefs deep passing attack has been stymied. Not sure whether it's due more to the Bills elaborate pass coverage or the rain impacting things. Generally, I think the former is more credible given Patrick Mahomes and his penchant for ridiculous throws.
+
+**All notes made after this statement come from a rewatch.**
+
+Blitzes quickly throw Josh Allen off his game, it seems. Makes sense given how long he holds on to the ball.
+
+The Chiefs and their discipline are remarkable. It's hard to fool this Kansas defense. Not to mention these guys don't really commit too many penalties despite the man coverage.
+
+Never mind, I take that back. Bills were able to sustain a drive thanks to a few timely penalties in coverage. 
 
 ***
 
