@@ -152,3 +152,13 @@ Still, it's not like Washington is completely undeserving. The team arguably boa
 Washington's weaknesses can be found in its offense. Alex Smith is nowhere near an elite passer. And outside of Terry McLaurin, the offense probably doesn't have any other players who can be unquestionably deemed premiere weapons. Cam Sims and J.D. McKissic were names I thought were worthy of consideration for that honor, but neither of them have really popped off on tape to me. Their numbers don't inspire too much confidence either.  A valid argument can be made that both players (let alone others) can't be fairly judged given the chaotic situation at quarterback. Ultimately though, I'm bound to make a judgement based on what I see, so until I see truly definitive evidence otherwise, Washington only has one truly elite skill player among its offensive ranks.
 
 Still, kudos to Washington's coaching squad for getting this team in line for a postseason appearance. Even more kudos should be awarded to their defensive braintrust for their willingness to adjust things schematically as the game progresses. All that said, Washington holds so much upset potential entering the playoffs. It's very plausible that Washington could end Tampa's season in the wild card round and even go as far as to make a splash in the division round.
+
+***
+
+{{< playoffTeamChart team="washington" >}}
+
+***
+
+## Tennessee Titans
+
+***
