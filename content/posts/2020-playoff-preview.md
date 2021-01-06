@@ -162,3 +162,5 @@ Still, kudos to Washington's coaching squad for getting this team in line for a 
 ## Tennessee Titans
 
 ***
+
+The Titans are a bit of a fascinating bunch. A team with absolutely no defense, bu everything else is just aces. The offense is beyond stacked - an elite quarterback, an all-pro tailback, two incredible wide receivers, and a dependable tight end to boot.
