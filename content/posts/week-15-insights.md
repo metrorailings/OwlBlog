@@ -41,4 +41,6 @@ Outside runs also seem to frustrate Washington's defensive front.
 
 The secondary failed horribly on one play - two defensive backs made the wrong moves in giving up a touchdown run.
 
-Washington emphasized so much more on pass defense in the second half, committing more defensive backs into the formation and playing a loose form of man coverage pre-snap.
+Washington emphasized so much more on pass defense in the second half, committing more defensive backs into the formation and playing a loose form of man coverage pre-snap. As a result, they're giving up yards in the ground game.
+
+Now Washington has reverted back to a five-man defensive line in order to stem Seattle's rushing attack.
