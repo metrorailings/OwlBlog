@@ -38,3 +38,5 @@ Quarterback runs have bedeviled the Steelers defense.
 Washington has a fantastic defensive line, but only decent pass coverage. I notice too many lapses in pass coverage, either among the linebackers or the secondary. Cover-three in particular can really expose this team.
 
 Outside runs also seem to frustrate Washington's defensive front.
+
+The secondary failed horribly on one play - two defensive backs made the wrong moves in giving up a touchdown run.
