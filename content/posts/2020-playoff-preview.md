@@ -188,3 +188,7 @@ Honestly, a happy Ravens team is one free to rush the ball as it pleases while b
 {{< playoffTeamChart team="ravens" >}}
 
 ***
+
+## Cleveland Browns
+
+***
