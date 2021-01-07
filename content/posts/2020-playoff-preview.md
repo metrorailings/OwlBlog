@@ -166,3 +166,21 @@ Still, kudos to Washington's coaching squad for getting this team in line for a 
 The Titans are a bit of a fascinating bunch. A team with absolutely no defense, but everything else is just aces. The offense is beyond stacked - an elite quarterback, an all-pro tailback, two incredible wide receivers, and a dependable tight end to boot. Their mental cojones can't be questioned either - staging five comeback victories and weathering a massive COVID outbreak this year attests to the organization's mental fortitude.
 
 If only Tennessee had a serviceable defense...although Harold Landry holds some potential. If Landry actually shapes up and Tennessee's defense can finally develop something resembling a backbone, the Titans could be bound for the Super Bowl.
+
+That being said, I can't give Tennessee any credence here regarding their defense. All of their playoff potential comes from everything else except defense. The Titans stand as a fascinating case study of whether a team could go far into the playoffs even if their defense is absolutely pathetic. We shall see.
+
+***
+
+{{< playoffTeamChart team="titans" >}}
+
+***
+
+## Baltimore Ravens
+
+***
+
+It's weird analyzing these Ravens and seeing so many of the same problems they've suffered from last year. Last year's Ravens left the playoffs prematurely because the team never developed the mental toughness to mount comebacks from negative game script. I see the same issue this year.  This year's Baltimore squad has only one comeback victory. Meanwhile, two of their losses came from ceding fourth quarter leads. Not a good sign. On top of that, I noticed Lamar Jackson had a nasty habit of passing more than expected in his losses this season. It's not good considering Lamar is specifically built to thrive in an offense centralized around exotic rushing concepts. His skills as a passer are a little lacking, to say the least.  So anytime he attempts more than 25 passes, thing don't typically end well.
+
+A happy Ravens team is one free to rush the ball as it pleases, as it's in control of game script. But when forced to play from behind, the Ravens are anything but cheerful. Baltimore is not a team built to mount comebacks. The organizations predicates its success on starting fast and building an insurmountable lead.
+
+In the playoffs though, I'm not sure that'll be enough, especially considering the Ravens clawed their way into the postseason as wild-card contenders. Without the benefit of home field advantage or an elite quarterback, it's virtually inevitable that Baltimore will find themselves sunk into a hole at least once this postseason. Once in this hole, escape is incredibly unlikely given the weak mental state of the organization.  
