@@ -182,3 +182,9 @@ That being said, I can't give Tennessee any credence here regarding their defens
 It's weird analyzing these Ravens and seeing so many of the same problems they've suffered from last year. Last year's Ravens left the playoffs prematurely because the team never developed that mental toughness to mount comebacks from negative game script. I see the same issue this year.  This year's Baltimore squad only has one comeback victory. Contrast that with two losses in which fourth quarter leads were lost and you have a team potentially lacking resilience. On top of that, I noticed Lamar Jackson has a nasty habit of passing more than expected in losing games this season. It's a worrisome trend considering Lamar is specifically built to thrive through exotic rushing concepts. His skills as a passer are a little lacking, to say the least.  So anytime he attempts more than 25 passes, thing don't typically end well, yet even more testament to the team's inability to adapt accordingly.
 
 Honestly, a happy Ravens team is one free to rush the ball as it pleases while being in control of game script. But when forced to play from behind, the Ravens are no longer full of smiles - frankly, Baltimore isn't a team built to mount comebacks. The organization predicates its success on starting fast and building an insurmountable lead. It's a strategy I'm not sure the team can really leverage against a chain of quality opponents, especially considering the Ravens only clawed their way into the postseason as wild-card contenders. Without the benefit of home field advantage or an elite quarterback, it's virtually inevitable that Baltimore will find themselves sunk into a hole at least once this postseason. Without the requisite mental fortitude to climb out of these holes, the Ravens will be victim yet again to failed expectations.
+
+***
+
+{{< playoffTeamChart team="ravens" >}}
+
+***
