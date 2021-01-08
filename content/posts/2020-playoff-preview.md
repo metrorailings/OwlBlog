@@ -199,4 +199,12 @@ The problem for the Browns are manyfold. For one thing, Baker is definitely not 
 
 Furthermore, Cleveland hasn't really demonstrated any mental fortitude through the season. As explosive as its offense has been recently, the reality is that the organization only managed to stage **one** fourth-quarter comeback this season, against the lowly Bengals. And really, that sole comeback is negated by their heartbreaking loss against Baltimore, where they ceded the lead late in the fourth quarter.
 
-So given their questionable mental strength, it's not good that these Browns found themselves struck yet again with COVID. Making matters even worse, Stefansky caught the bug alongside a few of his players. The team's been forced to shutter their training facility this week and practice virtually. None of this bodes well considering so much of their roster will be playing in their first-ever postseason game. Not having the architect of your offense there on the sidelines (as well a few key trench players) will not help this team when Pittsburgh starts twisting its arm.
+So given their questionable mental strength, it's not good that these Browns found themselves struck yet again with COVID. In response, the organization's been forced to close its training facilities and conduct practices virtually. Making matters worse, Stefansky caught the bug alongside a few of his players. Given so much of this roster will be playing in their first-ever postseason game, it's bad enough not being able to fully prepare, but not having the architect of your offense there to call plays is just rubbing salt in the wound at this point.
+
+A few days ago, two of the Browns younger players were cited for drag racing. Maybe the charge was overblown...but at the same time, it's also pretty telling of where this team finds itself mentally. With all the recent adversity, the team needs to completely dialed in the moment just to stand a chance against an inveterate Pittsburgh outfit. I don't feel those vibes with these Cleveland squad. A wild-card loss is all but assured here.
+
+***
+
+{{< playoffTeamChart team="browns" >}}
+
+***
