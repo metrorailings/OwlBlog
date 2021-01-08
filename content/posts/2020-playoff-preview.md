@@ -208,3 +208,7 @@ A few days ago, two of the Browns younger players were cited for drag racing. Ma
 {{< playoffTeamChart team="browns" >}}
 
 ***
+
+## Chicago Bears
+
+***
