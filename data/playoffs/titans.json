@@ -1,10 +1,10 @@
 {
     "name" : "Tennessee Titans",
-    "qb" : "",
-    "weapons" : [],
+    "qb" : "Ryan Tannehill",
+    "weapons" : ["Derrick Henry", "A.J. Brown", "Corey Davis", "Jonnu Smith"],
     "passRushers" : [],
-    "oc" : "",
+    "oc" : "Arthur Smith",
     "dc" : "",
-    "mf" : "",
-    "experience" : ""
+    "mf" : "D",
+    "experience" : "Y"
 }

@@ -2,7 +2,7 @@
     "name" : "Buffalo Bills",
     "qb" : "Josh Allen",
     "weapons" : ["Stefon Diggs", "Cole Beasley", "Josh Allen (Mobile QB)"],
-    "passRushers" : [""],
+    "passRushers" : [],
     "oc" : "Brian Daboll",
     "dc" : "Sean McDermott",
     "mf" : "D",
