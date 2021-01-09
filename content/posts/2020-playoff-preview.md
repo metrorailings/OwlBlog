@@ -25,6 +25,8 @@ Dominant defenses can't carry teams alone to the promised land, especially when 
 
 EDIT: So Pittsburgh staged a huge comeback against the Colts in their second to last week. It was a much-needed win. Not only did that win give the Steelers some semblance of confidence heading into the postseason, but it also gave them the division crown, giving them a chance to rest some of their wearier members of their roster before playoffs begin.
 
+I've also reassessed their mental fortitude and I do think this team actually has some serious mental strength. On four different occasions this season have they staged comebacks. In the midst of all that, the team's had to deal with some brutal scheduling spots given COVID impacting a few of their opponents. Yet, the Steelers have managed to weather the storm and secure the entry into the postseason as the third seed. So give them some credit here when it comes to mental strength.
+
 On top of that, that game proved to me Diontae Johnson's deserving of premiere status. Pittsburgh's comeback was sparked by Ben making a long throw to him in tight coverage. On top of that, the last few weeks has also shed some light on his role in the offense - it's clear Pittsburgh has gone out of its way to gin up his share of targets, despite all his drops. So long as Diontae can shake off his bad dropping habit, he can actually add considerable value to this offense as a deep threat.
 
 ***
@@ -39,9 +41,9 @@ On top of that, that game proved to me Diontae Johnson's deserving of premiere s
 
 New Orleans has some respectable athletes across the roster, though many of their better players are concentrated on the defensive side of the ball. The offense has been trending down the last couple of years, especially in their recent playoff appearances. The biggest reason why is their franchise quarterback - it's been all too clear the past couple seasons that Drew Brees is navigating through the tail end of his career. His arm strength, accuracy, and decisiveness have all declined considerably. His aging issues are likely to be exacerbated going into January given the state of his ribs. Ultimately, this offense isn't anywhere near as sharp as one'd expect out of a Saints team coached by Sean Payton. That being said, it's not like the offense is anywhere close to being horrendous either. Payton's offensive concepts combined with the sheer talent of Taysom Hill, Alvin Kamara, and their offensive linemen have kept the Saints offense humming most of the year.
 
-However, a few things need to be said if this team is to finally realize its dreams for a second Super Bowl invitation. One, they need to definitively prove they can mentally steel themselves against the rough waves they're bound to see in the postseason. As things stand right now, I only have a moderate level of confidence in the team's mental fortitude. Sure, the Saints have overcome double-digit deficits and produced game-winning drives on four occasions this season, but they also let up a double-digit point advantage against the Raiders and failed to manufacture a go-ahead drive in the fourth-quarter in a critical game against the Packers. Also worth mentioning is their shaky win over the Bears - even though New Orleans ultimately triumphed in overtime, it wasn't a pretty victory given the Bears were down by ten points midway through the fourth quarter. Their greatest moment overcoming adversity this year came when Taysom Hill played respectably in relief of Drew Brees, who was sidelined multiple weeks with cracked ribs. 
+However, a few things need to be said if this team is to finally realize its dreams for a second Super Bowl invitation. One, they need to definitively prove they can mentally steel themselves against the rough waves they're bound to see in the postseason. As things stand right now, I can only have a moderate level of confidence in the organization's mental fortitude. A little surprising given the Saints have a reputation for grit, but their record this year isn't quite as definitive as I'd like. Yes, the Saints have overcome double-digit deficits and produced game-winning drives on four occasions this season, but they also let up a double-digit point advantage against the Raiders and failed to manufacture a go-ahead drive in the fourth-quarter in a critical game against the Packers. Also worth mentioning is their shaky win over the Bears - even though New Orleans ultimately triumphed in overtime, it wasn't a pretty victory given the Bears were down by ten points midway through the fourth quarter. Their greatest moment overcoming adversity this year came when Taysom Hill played respectably in relief of Drew Brees, who was sidelined multiple weeks with cracked ribs.
 
-And speaking of which, that leads to the other thing I want to state about this team - Drew Brees needs to heal up quick and minimize his erratic plays in order to keep the Saints championship hopes alive. Easier said than done, I know. The offensive line can help him by giving him a pocket with plenty of cushion, but even the best linemen will give up pressure every now and then, especially against some of the league's best defenses. So it's important Drew somehow manages the offense well and lets his skill players take charge, similar to what Peyton did the year he won the Super Bowl with the Broncos.
+And speaking of which, that leads to the other thing I want to state about this team - Drew Brees needs to heal up quick and minimize his erratic plays in order for this organization to realize their championship hopes. Easier said than done, I know. The offensive line can help him by giving him a pocket with plenty of cushion, but even the best linemen will give up pressure every now and then, especially against some of the league's best defenses. So it's important Drew somehow manages the offense well and lets his skill players take charge, similar to what Peyton did the year he won the Super Bowl with the Broncos.
 
 ***
 
@@ -145,6 +147,8 @@ Despite the quality coaching and the considerable talent along their defensive l
 
 ## Washington Football Team
 
+***
+
 Some sorry team was bound to win the NFC East. That shame went to Washington.
 
 Still, it's not like Washington is completely undeserving. The team arguably boasts the best defensive line in the league. On top of that, Washington may be one of the mentally toughest organizations playing in the postseason. All the major adversities Washington faced this year would normally doom a team to absolute mediocrity - a head coach undergoing cancer treatment, a diva quarterback corrupting the organization, at least four different quarterbacks having to lead the team at various points in the season...all these things took a major toll on this team. Yet, they were able to will themselves to seven wins, literally just enough to win most garbage division in the league.
@@ -212,3 +216,27 @@ A few days ago, two of the Browns younger players were cited for drag racing. Ma
 ## Chicago Bears
 
 ***
+
+It's easy to rag on these Bears and MVP Mitch. Way too easy. Some even expect the Bears to be the worst team in the postseason - Chicago being slotted as ten-point underdogs against the Saints is testament alone to that.
+
+In truth, the Bears are nowhere near as awful as I initially expected. Yes, Mitch is an awful quarterback. Truly awful. Chicago can still sustain a few drives with their two premiere weapons - tailback David Montgomery and wide receiver Allen Robinson. That being said, Chicago didn't build its resume this season off sensational offensive performances. No, the offense almost always played second fiddle to the real heart and soul of this team - the defense. I still remember that primetime showing against the Vikings where the Bear defense kept the team in contention through the whole game even though the offense was playing like it just woke up from a coma. For Chicago's defense to play at such a high level consistently despite their comrades on offense playing a style of football that can best be described as illegal....it's something special.
+
+In fact, one can say that's a sign of a team with mental fortitude. I wouldn't definitively state this team is mentally tough, but Chicago has demonstrated resilience at tense moments through the season. On three different occasions has this team staged fourth-quarter comebacks. Contrast that with only one time the team ceded a fourth-quarter lead. And we can't forget that this team was gripped by a quarterback controversy  for the better part of the season, yet still did just enough to be invited into the postseason.
+
+Don't get me wrong...I'm not saying Chicago is good enough to win matches in the playoffs. But to expect them to play like trash is a little far-fetched. Expect them to put up a decent fight against a Saints team still trying to find itself.
+
+***
+
+{{< playoffTeamChart team="bears" >}}
+
+***
+
+## Kansas City Chiefs
+
+***
+
+I'm personally biased against the Chiefs, as I'd rather not see a repeat champion this year. That being said, I try to be as objective as possible when evaluating teams in the context of my model. And according to my model, the Chiefs are truly something special. Arguably their only weak point is the lack of elite defensive linemen. It's a weakness that can be very much mitigated should Frank Clark could jump to the next level in the postseason, similar to what happened last year.
+
+One could argue the team hasn't had their mettle tested as much this year compared to last, but I'd argue otherwise. Twice, they overcame double-digit deficits (with ease too). And twice, they've staged fourth-quarter comebacks against adequate competition. That comeback number goes up by one if you include the early-season meeting with the Chargers, but I'm not factoring that in here given Los Angeles had to literally start an unprepared rookie at quarterback last minute.  
+
+Combine the complete nature of their team with the fact that they've automatically been advanced to the division round and you have a team likely bound for the Super Bowl. 
