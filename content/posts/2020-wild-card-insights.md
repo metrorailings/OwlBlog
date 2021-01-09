@@ -10,3 +10,5 @@ Halfway through the game, it's clear Frank Reich is outcoaching Sean McDermott h
 Both teams and their top defensive linemen are showing up prominently in the run game.
 
 Excellent sideline throws by Josh Allen to Gabriel Davis. It's why Josh Allen is an elite quarterback.
+
+Buffalo making serious hay with read-option runs with Josh Allen.
