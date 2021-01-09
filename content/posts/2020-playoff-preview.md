@@ -248,3 +248,19 @@ Combine the complete nature of their team with the fact that they've automatical
 ***
 
 ## Green Bay Packers
+
+And we've arrived at the end. It's trite to say I've saved the best for last, but I think I might have with the Packers.
+
+Green Bay has several things going for it. First, they have a truly phenomenal quarterback at the helm playing some of the best football of his life. They also have a healthy number of weapons at their disposal to matriculate the ball on offense. Most important of all though, the Packers **may** be one of those few postseason teams coming into the fray with a truly loaded defense. Notice I bolded "may" though in that last statement -  credible arguments can be honestly made to the contrary. 
+
+I've designated three players as elite defensive linemen. Nobody questions Za'Darius Smith's place on this list.  But the case can be made to doubt the other two players I've listed alongside him, Preston Smith and Rashan Gary.  All one has to do to argue against their inclusion in the chart is to reference their admittedly unimpressive stats. But go past the raw numbers and watch the tape. Both of them aren't necessarily out there racking up the sacks, hits, and tackles, but their impact is so palpable. The number of times they're out there making plays at key moments, rushing quarterbacks into ugly throws, forcing opposing tailbacks to cut back against the grain...the tape says it all. While their impact isn't quite obvious through metrics alone, it's there nonetheless through through their intangible influence. It's a bit of a risk, but I've seen enough tape to assert both players as elite.
+
+So with three elite defensive linemen, a smart defensive coach in Mike Pettine, and a stacked offense, the team is almost fully complete. The other big way Green Bay falls short is their mental toughness. I've seen bits and pieces of their mental resolve this season, but I haven't quite seen enough evidence for me to declare them confidently as mentally strong. Erasing a big deficit against the Lions and coming back in the fourth quarter against the Jaguars are nice and all, but I need more than that. I guess we can also throw in that win against the Saints in a game that was tied going into the fourth quarter, but I still need one or two more moments like that to definitively assert them as mentally tough.
+
+ 
+
+***
+
+{{< playoffTeamChart team="packers" >}}
+
+***
