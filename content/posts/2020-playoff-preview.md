@@ -103,7 +103,7 @@ If only Buffalo's defense could match their talent level on offense. Don't get m
 
 On a slightly more positive note, the team possesses some noteworthy mental fortitude. Buffalo made two fourth-quarter comebacks against the Dolphins and the Rams and recovered from a double-digit deficit against the Jets. Now they did cede a fourth-quarter lead last minute against the Cardinals, but that was on a prayer throw.
 
-So with all that said, Buffalo is a true contender for the Super Bowl this year. Vegas seems to recognize that as well, given their championship odds are only 7 to 1.
+So with all that said, Buffalo is a true contender for the Super Bowl this year. Vegas seems to recognize that as well, given their championship odds are only 8 to 1.
 
 ***
 
