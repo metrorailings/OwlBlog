@@ -169,7 +169,7 @@ Still, kudos to Washington's coaching squad for getting this team in line for a 
 
 The Titans are a bit of a fascinating bunch. A team with absolutely no defense, but everything else is just aces. The offense is beyond stacked - an elite quarterback, an all-pro tailback, two incredible wide receivers, and a dependable tight end to boot. Their mental cojones can't be questioned either - staging five comeback victories and weathering a massive COVID outbreak this year attests to the organization's mental fortitude.
 
-If only Tennessee had a serviceable defense...although Harold Landry holds some potential. If Landry actually shapes up and Tennessee's defense can finally develop something resembling a backbone, the Titans could be bound for the Super Bowl.
+If only Tennessee had a serviceable defense...although Harold Landry holds some potential. If Landry actually shapes up and the defense can finally develop something resembling a backbone, the Titans could be bound for the Super Bowl.
 
 That being said, I can't give Tennessee any credence here regarding their defense. All of their playoff potential comes from everything else except defense. The Titans stand as a fascinating case study of whether a team could go far into the playoffs even if their defense is absolutely pathetic. We shall see.
 
