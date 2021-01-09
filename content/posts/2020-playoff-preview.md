@@ -237,6 +237,14 @@ Don't get me wrong...I'm not saying Chicago is good enough to win matches in the
 
 I'm personally biased against the Chiefs, as I'd rather not see a repeat champion this year. That being said, I try to be as objective as possible when evaluating teams in the context of my model. And according to my model, the Chiefs are truly something special. Arguably their only weak point is the lack of elite defensive linemen. It's a weakness that can be very much mitigated should Frank Clark could jump to the next level in the postseason, similar to what happened last year.
 
-One could argue the team hasn't had their mettle tested as much this year compared to last, but I'd argue otherwise. Twice, they overcame double-digit deficits (with ease too). And twice, they've staged fourth-quarter comebacks against adequate competition. That comeback number goes up by one if you include the early-season meeting with the Chargers, but I'm not factoring that in here given Los Angeles had to literally start an unprepared rookie at quarterback last minute.  
+One could argue the team hasn't had their mettle tested as much this year compared to last, but I'd argue otherwise. Twice, they overcame double-digit deficits (with ease too). And twice, they've staged fourth-quarter comebacks against adequate competition. That comeback number goes up by one if you include the early-season meeting with the Chargers, but I'm not factoring that in here given Los Angeles had to literally start an unprepared rookie at quarterback last minute.
 
-Combine the complete nature of their team with the fact that they've automatically been advanced to the division round and you have a team likely bound for the Super Bowl. 
+Combine the complete nature of their team with the fact that they've automatically been advanced to the division round and you have a team likely bound for the Super Bowl.
+
+***
+
+{{< playoffTeamChart team="chiefs" >}}
+
+***
+
+## Green Bay Packers
