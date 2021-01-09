@@ -257,7 +257,7 @@ I've designated three players as elite defensive linemen. Nobody questions Za'Da
 
 So with three elite defensive linemen, a smart defensive coach in Mike Pettine, and a stacked offense, the team is almost fully complete. The other big way Green Bay falls short is their mental toughness. I've seen bits and pieces of their mental resolve this season, but I haven't quite seen enough evidence for me to declare them confidently as mentally strong. Erasing a big deficit against the Lions and coming back in the fourth quarter against the Jaguars are nice and all, but I need more than that. I guess we can also throw in that win against the Saints in a game that was tied going into the fourth quarter, but I still need one or two more moments like that to definitively assert them as mentally tough.
 
- 
+But with all that said, the key in them winning the Super Bowl is the emergence of Rashan Gary and Preston Smith as dominant linemen alongside Za'Darius Smith. If that's to happen, Green Bay is the favorite to take home the Lombardi in February. 
 
 ***
 
