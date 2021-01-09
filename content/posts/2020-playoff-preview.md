@@ -171,7 +171,7 @@ The Titans are a bit of a fascinating bunch. A team with absolutely no defense, 
 
 If only Tennessee had a serviceable defense...although Harold Landry holds some potential. If Landry actually shapes up and the defense can finally develop something resembling a backbone, these Titans could be bound for the Super Bowl.
 
-That being said, I can't give those folks in Nashville any credence here regarding their defense. All of their playoff potential comes from everything else except defense. The Titans stand as a fascinating case study of whether a team could go far into the playoffs even if their defense is absolutely pathetic. We shall see.
+That being said, I can't give those folks in Nashville any credence here regarding their defense. All of their playoff potential comes from everything else except defense. The Titans stand as a fascinating case study of whether a team could go far into the playoffs even if their defense is absolutely pathetic entering the postseason. We shall see.
 
 ***
 
