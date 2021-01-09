@@ -12,3 +12,5 @@ Both teams and their top defensive linemen are showing up prominently in the run
 Excellent sideline throws by Josh Allen to Gabriel Davis. It's why Josh Allen is an elite quarterback.
 
 Buffalo making serious hay with read-option runs with Josh Allen.
+
+Indianapolis rookies made some silly mistakes, effectively ending a promising Colts drive without posting any points on the scoreboard.
