@@ -18,6 +18,7 @@ fields:
     export_format: YYYY-MM-DD h:mm:ss
 pages:
 - content/posts/2020-playoff-preview.md
+- content/posts/2020-wild-card-insights.md
 - content/posts/afc-conference-championship-titans-chiefs.md
 - content/posts/analyzing-conference-rematches.md
 - content/posts/bears-playoff-analysis.md
