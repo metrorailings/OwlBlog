@@ -101,9 +101,9 @@ Buffalo is _probably_ the league's hottest offense, thanks in part to their elit
 
 If only Buffalo's defense could match their talent level on offense. Don't get me wrong, their secondary has some solid players, but it's the defensive front that's really missing juice. Not a single lineman or edge rusher have stood out this season. The raw statistics alone back up that disappointing fact. On top of that, watching tape hasn't really illuminated any elite talent flying under the radar. I see trench players popping up occasionally, but never with any sort of consistency.
 
-On a slightly more positive note, the team possesses some noteworthy mental fortitude. Buffalo made two fourth-quarter comebacks against the the Dolphins and the Rams and recovered from a double-digit deficit against the Jets. Now they did cede a fourth-quarter lead last minute against the Cardinals, but that was on a prayer throw. Special teams remains a point of concern given Tyler Bass missed several plausible field goals in the first half of the season.
+On a slightly more positive note, the team possesses some noteworthy mental fortitude. Buffalo made two fourth-quarter comebacks against the Dolphins and the Rams and recovered from a double-digit deficit against the Jets. Now they did cede a fourth-quarter lead last minute against the Cardinals, but that was on a prayer throw.
 
-So with all that said, Buffalo is a true contender for the Super Bowl this year. Vegas seems to recognize that as well, given their championship odds are only +700.
+So with all that said, Buffalo is a true contender for the Super Bowl this year. Vegas seems to recognize that as well, given their championship odds are only 7 to 1.
 
 ***
 
