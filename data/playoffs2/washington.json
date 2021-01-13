@@ -1,0 +1,8 @@
+{
+    "name" : "Washington Football Team",
+    "qb" : "",
+    "weapons" : ["Terry McLaurin"],
+    "passRushers" : ["Chase Young", "Montez Sweat", "Jonathan Allen"],
+    "coaches" : ["Ron Rivera"],
+    "momentum" : 0
+}

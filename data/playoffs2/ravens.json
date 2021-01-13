@@ -1,0 +1,8 @@
+{
+    "name" : "Baltimore Ravens",
+    "qb" : "",
+    "weapons" : ["Mark Andrews", "Lamar Jackson (Mobile QB)", "J.K. Dobbins"],
+    "passRushers" : ["Matthew Judon", "Pernell McPhee"],
+    "coaches" : ["Wink Martindale"],
+    "momentum" : 1
+}

@@ -1,0 +1,95 @@
+<!-- Pull the team data that we'll be using to generate this chart -->
+{{ with (index .Site.Data.playoffs (.Get "team") ) }}
+
+<!-- 
+Set up a running score on the scratchpad so that we can calculate the score after considering all the factors 
+in the table 
+-->
+{{ $.Scratch.Set "score" 0 }}
+{{ $.Scratch.Set "wScore" 1 }}
+
+<table class='playoffTeamChart'>
+<tr>
+<th class='chartHeader' colspan='2'>{{ .name }}</th>
+</tr>
+<tr>
+<td class='categoryCell'>Elite Quarterback</td>
+<td class='answerCell'>
+<!-- Only if an elite quarterback is specified do we list his name -->
+{{ if .qb }}
+{{ $.Scratch.Add "score" 6 }}
+<div>{{ .qb }}</div>
+{{ else }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>Premiere Offensive Weapons</td>
+<td class='answerCell'>
+<!-- All names will be given as part of a list -->
+{{ range .weapons }}
+<div>{{ . }}</div>
+{{ $.Scratch.Add "score" ($.Scratch.Get "wScore") }}
+<!-- Adjust the weapon scoring as we add more names to the list -->
+{{ if (eq ($.Scratch.Get "wScore") 2 ) }}
+{{ $.Scratch.Set "wScore" 4 }}
+{{ end }}
+{{ if (eq ($.Scratch.Get "wScore") 1 ) }}
+{{ $.Scratch.Set "wScore" 2 }}
+{{ end }}
+{{ end }}
+{{ if (eq (len .weapons) 0 ) }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>Elite Pass Rushers</td>
+<td class='answerCell'>
+<!-- All names will be given as part of a list -->
+{{ range .passRushers }}
+{{ $.Scratch.Add "score" 4 }}
+<div>{{ . }}</div>
+{{ end }}
+{{ if (eq (len .passRushers) 0 ) }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>Quality Coaches</td>
+<td class='answerCell'>
+<!-- Only if the team have any capable coaches do we list a name(s) here -->
+{{ range .coaches }}
+<div>{{ . }}</div>
+{{ end }}
+{{ if (eq (len .coaches) 0 ) }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>Momentum</td>
+<td class='answerCell'>
+<!-- Momentum only comes in three enumerated values -->
+{{ if (eq .momentum 1) }}
+{{ $.Scratch.Add "score" 12 }}
+<div>Hot</div>
+{{ end }}
+{{ if (eq .momentum 0) }}
+{{ $.Scratch.Add "score" 6 }}
+<div>None</div>
+{{ end }}
+{{ if (eq .momentum -1) }}
+<div>Cold</div>
+{{ end }}
+</td>
+</tr>
+<tr class='scoreRow'>
+<td class='scoreCell'>Score</td>
+<td class='scoreAnswerCell'>{{ $.Scratch.Get "score" }}</td>
+</tr>
+</table>
+
+{{ end }}

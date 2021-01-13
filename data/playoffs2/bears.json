@@ -1,0 +1,8 @@
+{
+    "name" : "Chicago Bears",
+    "qb" : "",
+    "weapons" : ["Allen Robinson", "David Montgomery"],
+    "passRushers" : ["Akiem Hicks", "Khalil Mack"],
+    "coaches" : ["Chuck Pagano"],
+    "momentum" : 1
+}

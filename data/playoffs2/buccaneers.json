@@ -1,0 +1,8 @@
+{
+    "name" : "Tampa Bay Buccaneers",
+    "qb" : "",
+    "weapons" : ["Mike Evans", "Chris Godwin", "Rob Gronkowski", "Antonio Brown"],
+    "passRushers" : ["Jason Pierre-Paul", "Shaquil Barrett"],
+    "coaches" : [],
+    "momentum" : 0
+}

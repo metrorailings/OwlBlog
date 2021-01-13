@@ -1,0 +1,8 @@
+{
+    "name" : "Los Angeles Rams",
+    "qb" : "",
+    "weapons" : ["Cooper Kupp"],
+    "passRushers" : ["Aaron Donald", "Leonard Floyd"],
+    "coaches" : ["Sean McVay", "Brandon Staley"],
+    "momentum" : -1
+}

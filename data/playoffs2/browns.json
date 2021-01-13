@@ -1,0 +1,8 @@
+{
+    "name" : "Cleveland Browns",
+    "qb" : "",
+    "weapons" : ["Nick Chubb", "Kareem Hunt", "Jarvis Landry", "Rashard Higgins"],
+    "passRushers" : ["Myles Garrett"],
+    "coaches" : ["Kevin Stefansky"],
+    "momentum" : 1
+}

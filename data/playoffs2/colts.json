@@ -1,0 +1,8 @@
+{
+    "name" : "Indianapolis Colts",
+    "qb" : "",
+    "weapons" : ["TY Hilton", "Jonathan Taylor"],
+    "passRushers" : ["DeForest Buckner"],
+    "coaches" : ["Frank Reich", "Matt Eberflus"],
+    "momentum" : 0
+}

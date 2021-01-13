@@ -1,0 +1,8 @@
+{
+    "name" : "Pittsburgh Steelers",
+    "qb" : "",
+    "weapons" : ["Diontae Johnson"],
+    "passRushers" : ["TJ Watt", "Stephon Tuitt", "Cameron Heyward"],
+    "coaches" : ["Keith Butler"],
+    "momentum" : -1
+}

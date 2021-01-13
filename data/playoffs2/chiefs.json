@@ -1,0 +1,8 @@
+{
+    "name" : "Kansas City Chiefs",
+    "qb" : "Patrick Mahomes",
+    "weapons" : ["Tyreek Hill", "Travis Kelce", "Patrick Mahomes (Mobile QB)"],
+    "passRushers" : ["Chris Jones"],
+    "coaches" : ["Andy Reid", "Steve Spagnuolo"],
+    "momentum" : 0
+}

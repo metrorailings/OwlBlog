@@ -1,0 +1,8 @@
+{
+    "name" : "Seattle Seahawks",
+    "qb" : "",
+    "weapons" : ["Russell Wilson (Mobile QB)", "DK Metcalf", "Chris Carson"],
+    "passRushers" : ["Jamal Adams", "Jarren Reed"],
+    "coaches" : ["Pete Carroll"],
+    "momentum" : 0
+}
