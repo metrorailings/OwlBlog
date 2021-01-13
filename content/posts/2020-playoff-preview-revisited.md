@@ -14,3 +14,33 @@ This is far from a perfect metric. It's flawed, as is any other defined or impli
 Therefore, this model isn't useful for predicting specific games in the playoffs. It'll never do that. We must tread lightly should we attempt to leverage this model to predict individual games. It's solely useful for trying to highlight the postseason teams that have a legitimate shot at winning the Super Bowl. With that being said, let's proceed.
 
 ***
+
+{{< playoffTeamChart2 team="packers" >}}
+
+{{< playoffTeamChart2 team="saints" >}}
+
+{{< playoffTeamChart2 team="seahawks" >}}
+
+{{< playoffTeamChart2 team="washington" >}}
+
+{{< playoffTeamChart2 team="buccaneers" >}}
+
+{{< playoffTeamChart2 team="rams" >}}
+
+{{< playoffTeamChart2 team="bears" >}}
+
+***
+
+{{< playoffTeamChart2 team="chiefs" >}}
+
+{{< playoffTeamChart2 team="bills" >}}
+
+{{< playoffTeamChart2 team="steelers" >}}
+
+{{< playoffTeamChart2 team="titans" >}}
+
+{{< playoffTeamChart2 team="ravens" >}}
+
+{{< playoffTeamChart2 team="browns" >}}
+
+{{< playoffTeamChart2 team="colts" >}}
