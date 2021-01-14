@@ -2,7 +2,9 @@
     "name" : "Los Angeles Rams",
     "qb" : "",
     "weapons" : ["Cooper Kupp"],
+    "mWeapons" : ["Robert Woods"],
     "passRushers" : ["Aaron Donald", "Leonard Floyd"],
+    "mPassRushers" : [],
     "coaches" : ["Sean McVay", "Brandon Staley"],
     "momentum" : -1
 }

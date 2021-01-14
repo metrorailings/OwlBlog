@@ -1,8 +1,10 @@
 {
     "name" : "Buffalo Bills",
     "qb" : "Josh Allen",
-    "weapons" : ["Stefon Diggs", "Cole Beasley", "Josh Allen (Mobile QB)"],
+    "weapons" : ["Stefon Diggs", "Josh Allen (Mobile QB)"],
+    "mWeapons" : ["Cole Beasley"],
     "passRushers" : [],
+    "mPassRushers" : ["Mario Addison", "Ed Oliver"],
     "coaches" : ["Sean McDermott","Brian Daboll"],
     "momentum" : 1
 }

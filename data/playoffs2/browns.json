@@ -2,7 +2,9 @@
     "name" : "Cleveland Browns",
     "qb" : "",
     "weapons" : ["Nick Chubb", "Kareem Hunt", "Jarvis Landry", "Rashard Higgins"],
+    "mWeapons" : [],
     "passRushers" : ["Myles Garrett"],
+    "mPassRushers" : ["Sheldon Richardson"],
     "coaches" : ["Kevin Stefansky"],
     "momentum" : 1
 }

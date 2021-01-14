@@ -50,17 +50,17 @@
 
 	@include desktopOnly()
 	{
-		min-width: 40%;
+		width: 55%;
 	}
 
 	@include tabletOnly()
 	{
-		min-width: 60%;
+		width: 70%;
 	}
 
 	@include phoneOnly()
 	{
-		min-width: 75%;
+		width: 85%;
 	}
 }
 
@@ -97,6 +97,20 @@
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+
+	width: 100px;
+
+	& > div
+	{
+		margin:
+		{
+			top: 3px;
+			bottom: 3px;
+		}
+
+		width: 100%;
+		text-align: center;
+	}
 }
 
 .scoreCell
@@ -112,4 +126,47 @@
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+
+	width: 100px;
+	text-align: center;
+
+	& > div
+	{
+		margin:
+		{
+			top: 10px;
+			bottom: 10px;
+		}
+
+		width: 100%;
+		text-align: center;
+	}
+}
+
+.maybePlayer
+{
+	padding:
+	{
+		top: 3px;
+		bottom: 3px;
+		left: 5px;
+		right: 5px;
+	}
+
+	border:
+	{
+		style: solid;
+		width: 1px;
+		color: map-get($COLORS, slateGrayTheme);
+		radius: 10px;
+	}
+
+	background-color: map-get($COLORS, lightRedTheme);
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	width: 100px;
 }

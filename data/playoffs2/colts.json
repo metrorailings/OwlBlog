@@ -2,7 +2,9 @@
     "name" : "Indianapolis Colts",
     "qb" : "",
     "weapons" : ["TY Hilton", "Jonathan Taylor"],
+    "mWeapons" : ["Zach Pascal"],
     "passRushers" : ["DeForest Buckner"],
+    "mPassRushers" : ["Justin Houston", "Denico Autry"],
     "coaches" : ["Frank Reich", "Matt Eberflus"],
     "momentum" : 0
 }

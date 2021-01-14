@@ -2,7 +2,9 @@
     "name" : "Chicago Bears",
     "qb" : "",
     "weapons" : ["Allen Robinson", "David Montgomery"],
+    "mWeapons" : [],
     "passRushers" : ["Akiem Hicks", "Khalil Mack"],
+    "mPassRushers" : [],
     "coaches" : ["Chuck Pagano"],
     "momentum" : 1
 }

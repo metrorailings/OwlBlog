@@ -2,7 +2,9 @@
     "name" : "Kansas City Chiefs",
     "qb" : "Patrick Mahomes",
     "weapons" : ["Tyreek Hill", "Travis Kelce", "Patrick Mahomes (Mobile QB)"],
+    "mWeapons" : ["Sammy Watkins"],
     "passRushers" : ["Chris Jones"],
+    "mPassRushers" : ["Frank Clark"],
     "coaches" : ["Andy Reid", "Steve Spagnuolo"],
     "momentum" : 0
 }

@@ -1,8 +1,10 @@
 {
     "name" : "Green Bay Packers",
     "qb" : "Aaron Rodgers",
-    "weapons" : ["Davonte Adams", "Aaron Jones", "Aaron Rodgers (Mobile QB)", "Robert Tonyan"],
-    "passRushers" : ["Za'Darius Smith", "Preston Smith", "Rashan Gary"],
+    "weapons" : ["Davonte Adams", "Aaron Jones", "Aaron Rodgers (Mobile QB)"],
+    "mWeapons" : ["Robert Tonyan"],
+    "passRushers" : ["Za'Darius Smith"],
+    "mPassRushers" : ["Preston Smith", "Rashan Gary"],
     "coaches" : ["Mike Pettine"],
     "momentum" : 0
 }

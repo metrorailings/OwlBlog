@@ -1,11 +1,12 @@
 <!-- Pull the team data that we'll be using to generate this chart -->
-{{ with (index .Site.Data.playoffs (.Get "team") ) }}
+{{ with (index .Site.Data.playoffs2 (.Get "team") ) }}
 
 <!-- 
 Set up a running score on the scratchpad so that we can calculate the score after considering all the factors 
 in the table 
 -->
 {{ $.Scratch.Set "score" 0 }}
+{{ $.Scratch.Set "highScore" 0 }}
 {{ $.Scratch.Set "wScore" 1 }}
 
 <table class='playoffTeamChart'>
@@ -39,8 +40,23 @@ in the table
 {{ $.Scratch.Set "wScore" 2 }}
 {{ end }}
 {{ end }}
+
+<!-- Adjust the scoring ceiling if we have players on the cusp of being premiere weapons -->
+{{ range .mWeapons }}
+<div class='maybePlayer'>{{ . }}</div>
+{{ $.Scratch.Add "highScore" ($.Scratch.Get "wScore") }}
+{{ if (eq ($.Scratch.Get "wScore") 2 ) }}
+{{ $.Scratch.Set "wScore" 4 }}
+{{ end }}
+{{ if (eq ($.Scratch.Get "wScore") 1 ) }}
+{{ $.Scratch.Set "wScore" 2 }}
+{{ end }}
+{{ end }}
+
 {{ if (eq (len .weapons) 0 ) }}
+{{ if (eq (len .pWeapons) 0 ) }}
 <div>--</div>
+{{ end }}
 {{ end }}
 </td>
 </tr>
@@ -52,15 +68,24 @@ in the table
 {{ $.Scratch.Add "score" 4 }}
 <div>{{ . }}</div>
 {{ end }}
+
+<!-- Adjust the scoring ceiling if we have pass rushers who could potentially round into elite form -->
+{{ range .mPassRushers }}
+{{ $.Scratch.Add "highScore" 4 }}
+<div class='maybePlayer'>{{ . }}</div>
+{{ end }}
+
 {{ if (eq (len .passRushers) 0 ) }}
+{{ if (eq (len .mPassRushers) 0 ) }}
 <div>--</div>
+{{ end }}
 {{ end }}
 </td>
 </tr>
 <tr>
 <td class='categoryCell'>Quality Coaches</td>
 <td class='answerCell'>
-<!-- Only if the team have any capable coaches do we list a name(s) here -->
+<!-- Only if the team has any capable coaches do we list a name(s) here -->
 {{ range .coaches }}
 <div>{{ . }}</div>
 {{ end }}
@@ -73,22 +98,26 @@ in the table
 <td class='categoryCell'>Momentum</td>
 <td class='answerCell'>
 <!-- Momentum only comes in three enumerated values -->
-{{ if (eq .momentum 1) }}
-{{ $.Scratch.Add "score" 12 }}
+{{ if (eq (int .momentum) 1) }}
+{{ $.Scratch.Add "score" 10 }}
 <div>Hot</div>
 {{ end }}
-{{ if (eq .momentum 0) }}
-{{ $.Scratch.Add "score" 6 }}
+{{ if (eq (int .momentum) 0) }}
+{{ $.Scratch.Add "score" 5 }}
 <div>None</div>
 {{ end }}
-{{ if (eq .momentum -1) }}
+{{ if (eq (int .momentum) -1) }}
 <div>Cold</div>
 {{ end }}
 </td>
 </tr>
+
+{{ $.Scratch.Add "highScore" ($.Scratch.Get "score") }}
 <tr class='scoreRow'>
-<td class='scoreCell'>Score</td>
-<td class='scoreAnswerCell'>{{ $.Scratch.Get "score" }}</td>
+<td class='scoreCell'>Score Range</td>
+<td class='scoreAnswerCell'>
+<div>{{ $.Scratch.Get "score" }} - {{ $.Scratch.Get "highScore" }}</div>
+</td>
 </tr>
 </table>
 

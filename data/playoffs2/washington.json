@@ -2,7 +2,9 @@
     "name" : "Washington Football Team",
     "qb" : "",
     "weapons" : ["Terry McLaurin"],
+    "mWeapons" : ["Cam Sims", "J.D. McKissic"],
     "passRushers" : ["Chase Young", "Montez Sweat", "Jonathan Allen"],
+    "mPassRushers" : [],
     "coaches" : ["Ron Rivera"],
     "momentum" : 0
 }

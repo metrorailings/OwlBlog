@@ -1,8 +1,10 @@
 {
     "name" : "Tennessee Titans",
     "qb" : "Ryan Tannehill",
-    "weapons" : ["Derrick Henry", "A.J. Brown", "Corey Davis", "Jonnu Smith"],
+    "weapons" : ["Derrick Henry", "A.J. Brown", "Corey Davis"],
+    "mWeapons" : ["Jonnu Smith"],
     "passRushers" : [],
+    "mPassRushers" : ["Harold Landry III"],
     "coaches" : ["Arthur Smith"],
     "momentum" : -1
 }

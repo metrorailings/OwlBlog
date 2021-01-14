@@ -2,7 +2,9 @@
     "name" : "Seattle Seahawks",
     "qb" : "",
     "weapons" : ["Russell Wilson (Mobile QB)", "DK Metcalf", "Chris Carson"],
-    "passRushers" : ["Jamal Adams", "Jarren Reed"],
+    "mWeapons" : ["Tyler Lockett"],
+    "passRushers" : ["Jarren Reed"],
+    "mPassRushers" : [],
     "coaches" : ["Pete Carroll"],
     "momentum" : 0
 }

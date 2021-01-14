@@ -2,7 +2,9 @@
     "name" : "New Orleans Saints",
     "qb" : "",
     "weapons" : ["Alvin Kamara", "Taysom Hill"],
+    "mWeapons" : ["Michael Thomas", "Deonte Harris"],
     "passRushers" : ["Trey Hendrickson", "Cameron Jordan"],
+    "mPassRushers" : ["David Onyemata"],
     "coaches" : ["Sean Payton"],
     "momentum" : 0
 }
