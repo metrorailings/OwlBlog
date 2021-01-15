@@ -43,4 +43,4 @@ Browns have been housing these Steelers since the first quarter. Not sure entire
 
 Washington is pressuring Tom, but it's not enough. Brady is still productive.
 
-Seems like Tampa has way too many weapons for Washington's secondary to cover adequately.  Not that it matters much, because the key to stopping Brady is simple - constant pressure. New Orleans was able to achieve this, but not Washington so far in the first half.
+Seems like Tampa has way too many weapons for Washington's secondary to cover adequately.  Not that it matters much, because the key to stopping Brady is simple - constant pressure. New Orleans was able to achieve this, but not Washington so far. Maybe the second half will tell a different story...
