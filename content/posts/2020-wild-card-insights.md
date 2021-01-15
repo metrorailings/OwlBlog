@@ -36,3 +36,9 @@ It's hard to side with teams in a rematch against opponents they've beaten earli
 ## Browns @ Steelers
 
 Browns have been housing these Steelers since the first quarter. Not sure entirely why. It seems the Browns read the Steelers all too well though. Jarvis Landry motioning around different parts of the formation seem to throw Pittsburgh's defense off its game.
+
+***
+
+## Buccaneers @ Washington
+
+Washington is pressuring Tom, but it's not enough. Brady is still productive.
