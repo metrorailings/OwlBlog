@@ -15,3 +15,7 @@ The Bills won the game largely because Sean McDermott and his defensive coaches 
 Coaching matters. Never forget.
 
 ***
+
+## Rams @ Packers
+
+Kudos to Sean McVay for jump-starting his team on multiple occasions using the hurry-up offense. It wasn't enough considering the Packers were harassing Jared Goff regularly. The defense did surrender some significant rushing yardage against Cam Akers. Even though the Packers defense has improved considerably from last year, the team still has issues keeping opposing rushers under wraps.
