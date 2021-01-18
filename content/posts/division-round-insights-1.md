@@ -1,6 +1,5 @@
 +++
 date = 2021-01-16T12:00:00Z
-draft = true
 headline = "Division Round Insights"
 
 +++
@@ -20,4 +19,16 @@ Coaching matters. Never forget.
 
 Kudos to Sean McVay for jump-starting his team on multiple occasions using the hurry-up offense. It wasn't enough considering the Packers were harassing Jared Goff regularly. The defense did surrender some significant rushing yardage against Cam Akers. Even though the Packers defense has improved considerably from last year, the team still has issues keeping opposing rushers under wraps.
 
-Jury is still out on whether Matt LaFuck is a good offensive coach. His offense put up ridiculous numbers today against one of the NFL's top defenses today, but it remains to be seen whether that performance is more attributable to their talent.  
+Jury is still out on whether Matt LaFuck is a good offensive coach. His offense put up ridiculous numbers today against one of the NFL's top defenses today, but it remains to be seen whether that performance is more attributable to their talent.
+
+***
+
+## Buccaneers @ Saints
+
+Not having Taysom Hill and losing Dionte Harris early meant the Saints were wickedly undermanned on offense. Alvin Kamara was their only real player worthy of note. Michael Thomas was blanked tonight and Emmanuel Sanders wasn't really anything special. On top of that, Drew Brees isn't really right coming back from rib injury at his current age. His noodle arm was bad enough as is, but add a torso injury on top and it's impossible for Brees to put this offense on his back. It was a recipe for failure on offense, and it largely showed in all the turnovers that the Buccaneers forced from Drew and company.
+
+Bruce Arians didn't make many coaching adjustments starting the game. Brady was still pretty damn hopeless in the first half. He was much better in the second half, in part because the team made a decisive commitment to the ground game. Ronald Jones and Leonardo Fournette took advantage of the light boxes the Saints defense purposefully presented before them through much of the game.
+
+And just for note here, New Orleans consciously made the decision to station only six defenders in the box and leave two safeties high. Dennis Allen was more worried about deep passes than rushes.
+
+Kudos to Todd Bowles for at least playing more man coverage. Constant zone coverage would have been too easy for Drew Brees to pick apart.
