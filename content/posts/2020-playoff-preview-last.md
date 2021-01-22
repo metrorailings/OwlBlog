@@ -39,4 +39,4 @@ On top of that, I decided coaches will get factored into the scoring as well. Li
 
 {{< playoffTeamChart3 team="browns" >}}
 
-{{< playoffTeamChart2 team="colts" >}}
+{{< playoffTeamChart3 team="colts" >}}
