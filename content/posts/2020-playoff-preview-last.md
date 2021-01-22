@@ -7,6 +7,8 @@ After the division round concluded, things are becoming clearer to me. I was won
 
 Therefore, I'll be using the number of times a team has successfully come back against an opponent in the fourth quarter or from a double-digit deficit as an imperfect measure of mental strength. The more successful campaigns a team can stage from a disadvantageous position during the regular season, the more likely they are to be a confident bunch heading into the playoffs. Combine that with this fluid notion of momentum and I think we have a fairly accurate gauge for a team's overall mental fortitude.
 
+On top of that, I decided coaches will get factored into the scoring as well. Little risky, sure, but good coaches have been following through and planning well in these games. Just like players, quality coaches generally succeed more often than not.
+
 ***
 
 {{< playoffTeamChart3 team="packers" >}}
