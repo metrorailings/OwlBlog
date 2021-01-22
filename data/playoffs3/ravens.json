@@ -1,0 +1,12 @@
+{
+    "name" : "Baltimore Ravens",
+    "qb" : "",
+    "weapons" : ["Mark Andrews", "Lamar Jackson (Mobile QB)", "J.K. Dobbins"],
+    "mWeapons" : ["Hollywood Brown"],
+    "passRushers" : ["Matthew Judon", "Pernell McPhee"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "dc" : "Wink Martindale",
+    "momentum" : 1,
+    "comebacks" : 1
+}

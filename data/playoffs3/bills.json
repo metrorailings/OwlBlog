@@ -1,0 +1,12 @@
+{
+    "name" : "Buffalo Bills",
+    "qb" : "Josh Allen",
+    "weapons" : ["Stefon Diggs", "Josh Allen (Mobile QB)"],
+    "mWeapons" : ["Cole Beasley"],
+    "passRushers" : [],
+    "mPassRushers" : ["Mario Addison", "Ed Oliver", "Jerry Hughes"],
+    "oc" : "Brian Daboll",
+    "dc" : "Sean McDermott",
+    "momentum" : 1,
+    "comebacks" : 4
+}

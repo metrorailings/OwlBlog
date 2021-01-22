@@ -1,0 +1,12 @@
+{
+    "name" : "Pittsburgh Steelers",
+    "qb" : "",
+    "weapons" : ["Diontae Johnson"],
+    "mWeapons" : [],
+    "passRushers" : ["TJ Watt", "Stephon Tuitt", "Cameron Heyward"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "dc" : "Keith Butler",
+    "momentum" : -1,
+    "comebacks" : 4
+}

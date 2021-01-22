@@ -1,0 +1,12 @@
+{
+    "name" : "Washington Football Team",
+    "qb" : "",
+    "weapons" : ["Terry McLaurin"],
+    "mWeapons" : ["Cam Sims", "J.D. McKissic"],
+    "passRushers" : ["Chase Young", "Montez Sweat", "Jonathan Allen"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "dc" : "",
+    "momentum" : 0,
+    "comebacks" : 2
+}

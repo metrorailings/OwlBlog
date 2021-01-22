@@ -1,0 +1,12 @@
+{
+    "name" : "New Orleans Saints",
+    "qb" : "",
+    "weapons" : ["Alvin Kamara", "Taysom Hill"],
+    "mWeapons" : ["Michael Thomas", "Deonte Harris"],
+    "passRushers" : ["Trey Hendrickson", "Cameron Jordan"],
+    "mPassRushers" : ["David Onyemata"],
+    "oc" : "Sean Payton",
+    "dc" : "",
+    "momentum" : 0,
+    "comebacks" : 4
+}

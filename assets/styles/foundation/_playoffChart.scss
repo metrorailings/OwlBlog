@@ -87,6 +87,30 @@
 .categoryCell
 {
 	@extend %smallDecorativeText;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.scoreSubtitle
+{
+	@extend %tinyDecorativeText;
+
+	margin:
+	{
+		top: 5px;
+		bottom: 10px;
+	}
+
+	&:before
+	{
+		content: '(';
+	}
+
+	&:after
+	{
+		content: ')';
+	}
 }
 
 .answerCell

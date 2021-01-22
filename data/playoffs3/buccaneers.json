@@ -1,0 +1,12 @@
+{
+    "name" : "Tampa Bay Buccaneers",
+    "qb" : "",
+    "weapons" : ["Mike Evans", "Chris Godwin", "Rob Gronkowski", "Antonio Brown"],
+    "mWeapons" : [],
+    "passRushers" : ["Jason Pierre-Paul"],
+    "mPassRushers" : ["Shaquil Barrett"],
+    "oc" : "",
+    "dc" : "",
+    "momentum" : 0,
+    "comebacks" : 4
+}

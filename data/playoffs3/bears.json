@@ -1,0 +1,12 @@
+{
+    "name" : "Chicago Bears",
+    "qb" : "",
+    "weapons" : ["Allen Robinson", "David Montgomery"],
+    "mWeapons" : [],
+    "passRushers" : ["Akiem Hicks", "Khalil Mack"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "dc" : "Chuck Pagano",
+    "momentum" : 1,
+    "comebacks" : 3
+}

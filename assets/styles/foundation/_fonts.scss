@@ -152,6 +152,13 @@ $FONTS:
 	letter-spacing: 0.1em;
 }
 
+%tinyDecorativeText
+{
+	@include basicFontSettings($size: tinyFontSize, $family: Raleway, $weight: 300);
+
+	letter-spacing: 0.20px;
+}
+
 %smallDecorativeText
 {
 	@include basicFontSettings($size: smallFontSize, $family: Raleway, $weight: 300);

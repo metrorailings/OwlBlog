@@ -1,0 +1,12 @@
+{
+    "name" : "Kansas City Chiefs",
+    "qb" : "Patrick Mahomes",
+    "weapons" : ["Tyreek Hill", "Travis Kelce", "Patrick Mahomes (Mobile QB)"],
+    "mWeapons" : ["Sammy Watkins"],
+    "passRushers" : ["Chris Jones"],
+    "mPassRushers" : ["Frank Clark"],
+    "oc" : "Andy Reid",
+    "dc" : "Steve Spagnuolo",
+    "momentum" : 0,
+    "comebacks" : 4
+}

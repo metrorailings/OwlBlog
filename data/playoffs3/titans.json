@@ -1,0 +1,12 @@
+{
+    "name" : "Tennessee Titans",
+    "qb" : "Ryan Tannehill",
+    "weapons" : ["Derrick Henry", "A.J. Brown", "Corey Davis"],
+    "mWeapons" : ["Jonnu Smith"],
+    "passRushers" : [],
+    "mPassRushers" : ["Harold Landry III"],
+    "oc" : "Arthur Smith",
+    "dc" : "",
+    "momentum" : -1,
+    "comebacks" : 5
+}

@@ -1,0 +1,12 @@
+{
+    "name" : "Indianapolis Colts",
+    "qb" : "",
+    "weapons" : ["TY Hilton", "Jonathan Taylor"],
+    "mWeapons" : ["Zach Pascal"],
+    "passRushers" : ["DeForest Buckner"],
+    "mPassRushers" : ["Justin Houston", "Denico Autry"],
+    "oc" : "Frank Reich",
+    "dc" : "Matt Eberflus",
+    "momentum" : 0,
+    "comebacks" : 2
+}
