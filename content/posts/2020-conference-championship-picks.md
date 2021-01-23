@@ -30,13 +30,14 @@ Buccaneers will be missing the services of a key weapon in Antonio Brown. His pr
 
 #### _History / Analysis_
 
-Packers and Buccaneers faced each other once before during the regular season, but it's a game that doesn't hold much meaning here. It's been argued that Green Bay wasn't simply prepared for the litany of blitzes Todd Bowles would be throwing at the offense. Not to mention they weren't prepared at all for Tampa's ground game, given Ronald Jones had his best rushing performance of the season against these Packers.
+Packers and Buccaneers faced each other once before during the regular season, but it's a game that doesn't hold much meaning here. It's been argued that Green Bay wasn't prepared at all for the litany of blitzes Todd Bowles would throw against their offense. Not to mention they weren't ready for Tampa's ground game, given Ronald Jones had his best rushing performance of the season against these Packers.
 
-This week's game will clearly be different for a number of reasons, not least of which being that these are the conference championships. Both organizations will be taking this game very seriously. In that respect, I expect the Packers to bounce off to a fast start, as
+This week's game will clearly be different for a number of reasons, not least of which being that these are the conference championships. Both organizations will be taking this game very seriously. In that respect, the Packers have so much more going in their favor - home field advantage, weather
 
 ***
 
-Saints -7
+Packers -0.5 (1Q)  
+Packers ML
 
 ***
 
