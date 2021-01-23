@@ -26,7 +26,7 @@ Cold, cloudy, and slightly windy with a thin blanket of snow expected to cover t
 
 Packers are mostly healthy. Starting cornerback Kevin King may not be in the game. Even if he starts, his presence on defense may be limited. Let's also not forget that David Bakhtiari will no longer be playing for Green Bay this postseason due to injury. It's a past injury worth noting considering he's been considered one of the NFL's best left tackles.
 
-Buccaneers will be missing the services of a key weapon in Antonio Brown. His presence on the team will be missed, though it's certain Tampa will find ways to compensate for his absence through skill players like Scottie Miller and Cameron Brate. On a more positive note though, Vita Vea will be coming back for the first time in months.
+Buccaneers will be missing the services of a key weapon in Antonio Brown. His presence on the team will be missed, though it's certain Tampa will find ways to compensate for his absence through skill players like Scottie Miller and Cameron Brate. On a more positive note, Vita Vea will be coming back for the first time in months.
 
 #### _History / Analysis_
 
@@ -44,9 +44,10 @@ Packers ML
 ***
 
 **Green Bay covers if**  
-the Packers work out to a quick lead and ward off any comebacks the Buccaneers might try to stage. In order for the Packers to win this game comfortably, the Smith brothers and Rashan Gary will need to dominate the trenches and keep Tom Brady sweating in the pocket. The more heat Brady feels, the more the offense will fail.
+the Packers work out to a quick lead and ward off any comebacks the Buccaneers might try to stage. In order for the Packers to win this game comfortably, the Smith brothers and Rashan Gary will need to dominate the trenches and keep Tom Brady sweating in the pocket. The more heat Brady feels, the more the offense stalls.
 
-**Tampa Bay covers if**
+**Tampa Bay covers if**  
+their offensive line can keep Brady fairly comfortable and Ronald Jones chews off some big rushing yardage against a Green Bay defense known to struggle against opposing rushers. 
 
 ***
 
