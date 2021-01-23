@@ -17,6 +17,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD h:mm:ss
 pages:
+- content/posts/2020-conference-championship-picks.md
 - content/posts/2020-playoff-preview-last.md
 - content/posts/2020-playoff-preview-revisited.md
 - content/posts/2020-playoff-preview.md
