@@ -41,11 +41,9 @@ Packers ML
 
 ***
 
-**New Orleans covers if**  
-their pass rushers can keep Jalen Hurts hemmed in the pocket. The Saints defensive linemen need to mount pressure mostly through bull rushes. It wouldn't be the first time this season New Orleans sustained a pass rush solely off bull rushes.
+**Green Bay covers if**
 
-**Philadelphia covers if**  
-Jalen Hurts actually ends up impressing against one of the league's best defenses. It's remotely possible if he's allowed to break from the pocket and run at will.
+**Tampa Bay covers if**
 
 ***
 
