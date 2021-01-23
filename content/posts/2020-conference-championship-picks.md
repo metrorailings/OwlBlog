@@ -47,7 +47,13 @@ Packers ML
 the Packers work out to a quick lead and ward off any comebacks the Buccaneers might try to stage. In order for the Packers to win this game comfortably, the Smith brothers and Rashan Gary will need to dominate the trenches and keep Tom Brady sweating in the pocket. The more heat Brady feels, the more his offense stalls, as simple as that.
 
 **Tampa Bay covers if**  
-their offensive line can keep Brady fairly comfortable in the pocket and Ronald Jones can chew off some big yardage against a Green Bay defense not known at all for muzzling opposing rushers. 
+their offensive line can keep Brady fairly comfortable in the pocket and Ronald Jones can chew off some big yardage against a Green Bay defense not known at all for muzzling opposing rushers.
+
+***
+
+### Bills @ Chiefs
+
+***
 
 ***
 
