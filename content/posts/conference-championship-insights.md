@@ -9,3 +9,5 @@ headline = "Conference Championship Insights"
 Jaire Alexander not traveling with Mike Evans. As a result, Evans was able to get free on multiple third downs en route to a Buccaneers touchdown. What's wrong with you, Pettine?
 
 Meanwhile, Tampa Bay's coverage corners are holding up ridiculously well against Green Bay's receivers.
+
+Brady playing very well. Offensive line giving him so much protection too.
