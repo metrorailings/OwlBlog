@@ -1,0 +1,170 @@
+<!-- Pull the team data that we'll be using to generate this chart -->
+{{ with (index .Site.Data.playoffs3 (.Get "team") ) }}
+
+<!-- 
+Set up a running score on the scratchpad so that we can calculate the score after considering all the factors 
+in the table 
+-->
+{{ $.Scratch.Set "score" 0 }}
+{{ $.Scratch.Set "highScore" 0 }}
+{{ $.Scratch.Set "wScore" 1 }}
+
+<table class='playoffTeamChart'>
+<tr>
+<th class='chartHeader' colspan='2'>{{ .name }}</th>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Elite Quarterback</div>
+<div class='scoreSubtitle'>6 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if an elite quarterback is specified do we list his name -->
+{{ if .qb }}
+{{ $.Scratch.Add "score" 6 }}
+<div>{{ .qb }}</div>
+{{ else }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Premiere Offensive Weapons</div>
+<div class='scoreSubtitle'>
+1 point for the first player<br />2 points for the second player<br />4 points for
+every player listed thereafter
+</div>
+</td>
+<td class='answerCell'>
+<!-- All names will be given as part of a list -->
+{{ range .weapons }}
+<div>{{ . }}</div>
+{{ $.Scratch.Add "score" ($.Scratch.Get "wScore") }}
+<!-- Adjust the weapon scoring as we add more names to the list -->
+{{ if (eq ($.Scratch.Get "wScore") 2 ) }}
+{{ $.Scratch.Set "wScore" 4 }}
+{{ end }}
+{{ if (eq ($.Scratch.Get "wScore") 1 ) }}
+{{ $.Scratch.Set "wScore" 2 }}
+{{ end }}
+{{ end }}
+
+<!-- Adjust the scoring ceiling if we have players on the cusp of being premiere weapons -->
+{{ range .mWeapons }}
+<div class='maybePlayer'>{{ . }}</div>
+{{ $.Scratch.Add "highScore" ($.Scratch.Get "wScore") }}
+{{ if (eq ($.Scratch.Get "wScore") 2 ) }}
+{{ $.Scratch.Set "wScore" 4 }}
+{{ end }}
+{{ if (eq ($.Scratch.Get "wScore") 1 ) }}
+{{ $.Scratch.Set "wScore" 2 }}
+{{ end }}
+{{ end }}
+
+{{ if (eq (len .weapons) 0 ) }}
+{{ if (eq (len .pWeapons) 0 ) }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Elite Pass Rushers</div>
+<div class='scoreSubtitle'>4 points per player</div>
+</td>
+<td class='answerCell'>
+
+<!-- All names will be given as part of a list -->
+{{ range .passRushers }}
+{{ $.Scratch.Add "score" 4 }}
+<div>{{ . }}</div>
+{{ end }}
+
+<!-- Adjust the scoring ceiling if we have pass rushers who could potentially round into elite form -->
+{{ range .mPassRushers }}
+{{ $.Scratch.Add "highScore" 4 }}
+<div class='maybePlayer'>{{ . }}</div>
+{{ end }}
+
+{{ if (eq (len .passRushers) 0 ) }}
+{{ if (eq (len .mPassRushers) 0 ) }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Quality Offensive Coaching</div>
+<div class='scoreSubtitle'>6 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if the team has a capable offensive mind either as head coach or offensive coordinator do we list a name here -->
+{{ if .oc }}
+{{ $.Scratch.Add "score" 6 }}
+<div>{{ .oc }}</div>
+{{ else }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Quality Defensive Coaching</div>
+<div class='scoreSubtitle'>6 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if the team has a capable defensive mind either as head coach or defensive coordinator do we list a name here -->
+{{ if .dc }}
+{{ $.Scratch.Add "score" 6 }}
+<div>{{ .dc }}</div>
+{{ else }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Momentum</div>
+<div class='scoreSubtitle'>
+10 points if a team is hot or 5 points if a team is neither hot nor cold
+</div>
+</td>
+<td class='answerCell'>
+<!-- Momentum only comes in three enumerated values -->
+{{ if (eq (int .momentum) 1) }}
+{{ $.Scratch.Add "score" 10 }}
+<div>Hot</div>
+{{ end }}
+{{ if (eq (int .momentum) 0) }}
+{{ $.Scratch.Add "score" 5 }}
+<div>None</div>
+{{ end }}
+{{ if (eq (int .momentum) -1) }}
+<div>Cold</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Number of Successful Comebacks</div>
+<div class='scoreSubtitle'>2 points per comeback</div>
+</td>
+<td class='answerCell'>
+{{ $.Scratch.Add "score" (mul 2 .comebacks) }}
+<div>{{ .comebacks }}</div>
+</td>
+</tr>
+
+{{ $.Scratch.Add "highScore" ($.Scratch.Get "score") }}
+<tr class='scoreRow'>
+<td class='scoreCell'>Score Range</td>
+<td class='scoreAnswerCell'>
+<div>{{ $.Scratch.Get "score" }} - {{ $.Scratch.Get "highScore" }}</div>
+</td>
+</tr>
+</table>
+
+{{ end }}

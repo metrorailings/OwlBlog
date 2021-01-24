@@ -80,16 +80,13 @@
 {
 	padding: 20px;
 
-	flex: 1;
-	text-align: left;
+	width: 50%;
+	text-align: center;
 }
 
 .categoryCell
 {
 	@extend %smallDecorativeText;
-
-	display: flex;
-	flex-direction: column;
 }
 
 .scoreSubtitle
@@ -98,18 +95,8 @@
 
 	margin:
 	{
-		top: 5px;
+		top: 10px;
 		bottom: 10px;
-	}
-
-	&:before
-	{
-		content: '(';
-	}
-
-	&:after
-	{
-		content: ')';
 	}
 }
 
@@ -117,23 +104,13 @@
 {
 	@extend %smallNumberText;
 
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-
-	width: 100px;
-
 	& > div
 	{
 		margin:
 		{
-			top: 3px;
-			bottom: 3px;
+			top: 5px;
+			bottom: 5px;
 		}
-
-		width: 100%;
-		text-align: center;
 	}
 }
 
@@ -145,26 +122,6 @@
 .scoreAnswerCell
 {
 	@extend %numberText;
-
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-
-	width: 100px;
-	text-align: center;
-
-	& > div
-	{
-		margin:
-		{
-			top: 10px;
-			bottom: 10px;
-		}
-
-		width: 100%;
-		text-align: center;
-	}
 }
 
 .maybePlayer
@@ -186,11 +143,4 @@
 	}
 
 	background-color: map-get($COLORS, lightRedTheme);
-
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-
-	width: 100px;
 }

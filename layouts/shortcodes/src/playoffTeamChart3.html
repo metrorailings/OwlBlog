@@ -32,7 +32,7 @@
 		<td class='categoryCell'>
 			<div>Premiere Offensive Weapons</div>
 			<div class='scoreSubtitle'>
-				1 point for the first player, 2 points for the second player, and 4 points for
+				1 point for the first player<br />2 points for the second player<br />4 points for
 				every player listed thereafter
 			</div>
 		</td>
@@ -129,7 +129,7 @@
 		<td class='categoryCell'>
 			<div>Momentum</div>
 			<div class='scoreSubtitle'>
-				10 points if a team is hot or 5 points if a team is neither hot or cold
+				10 points if a team is hot or 5 points if a team is neither hot nor cold
 			</div>
 		</td>
 		<td class='answerCell'>
@@ -154,7 +154,7 @@
 		</td>
 		<td class='answerCell'>
 			{{ $.Scratch.Add "score" (mul 2 .comebacks) }}
-			{{ .comebacks }}
+			<div>{{ .comebacks }}</div>
 		</td>
 	</tr>
 
