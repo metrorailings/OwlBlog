@@ -55,6 +55,22 @@ their offensive line can keep Brady fairly comfortable in the pocket and Ronald 
 
 ***
 
+#### _Latest Results_
+
+Ravens (3) @ **Bills** (17)  
+Browns (17) @ **Chiefs** (22)
+
+#### _Conference Rank_
+
+Buccaneers (5)  
+Packers (1)
+
+#### _Weather_
+
+Cold, cloudy, and slightly windy with a thin blanket of snow expected to cover the field in the morning. Not good for a Tampa team used to warm, humid weather.
+
+#### 
+
 ***
 
 ### 
