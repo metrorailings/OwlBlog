@@ -11,3 +11,5 @@ Jaire Alexander not traveling with Mike Evans. As a result, Evans was able to ge
 Meanwhile, Tampa Bay's coverage corners are holding up ridiculously well against Green Bay's receivers.
 
 Brady playing very well. Offensive line giving him so much protection too.
+
+Packers defense is getting clapped early. I think I made a mistake calling Pettine a quality coach here. Reality is that his defense is getting absolutely played by Tampa Bay and the sheer number of weapons they have.
