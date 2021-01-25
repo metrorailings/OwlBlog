@@ -16,4 +16,6 @@ Buccaneers love their screens - both wide receiver and conventional tailback scr
 
 Blitzes seem to be very effective against Brady. A whiff of pressure is enough to throw him off his game. On multiple occasions, the Falcons killed Tampa's drives with smartly-designed blitzes.
 
-Leonard Fournette is for real.
+Leonard Fournette is for real. Him being a viable tailback has taken Atlanta by surprise.
+
+Tampa Bay has been bailed out a few times by incredible catches or lucky penalties. 
