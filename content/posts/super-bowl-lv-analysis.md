@@ -15,3 +15,5 @@ Mahomes vs Brady. I didn't want this Super Bowl, but this is the one I got, unfo
 Buccaneers love their screens - both wide receiver and conventional tailback screens.
 
 Blitzes seem to be very effective against Brady. A whiff of pressure is enough to throw him off his game. On multiple occasions, the Falcons killed Tampa's drives with smartly-designed blitzes.
+
+Leonard Fournette is for real.
