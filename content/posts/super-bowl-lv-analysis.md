@@ -28,4 +28,6 @@ Lots of two tailback sets with these Chiefs. Atlanta is doing a good job playing
 
 Atlanta's defense seeing quite a bit of success using five and six-man defensive fronts. Their blitz packages have thrown Mahomes off his game too on a number of occasions.
 
-Grady Jarrett has forced his way into the pocket on multiple occasions. 
+Grady Jarrett has forced his way into the pocket on multiple occasions. Very talented player.
+
+Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and most of them seem to be working.
