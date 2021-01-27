@@ -18,4 +18,8 @@ Blitzes seem to be very effective against Brady. A whiff of pressure is enough t
 
 Leonard Fournette is for real. Him being a viable tailback has taken Atlanta by surprise.
 
-Tampa Bay has been bailed out a few times by incredible catches or lucky penalties. 
+Tampa Bay has been bailed out a few times by incredible catches or lucky penalties.
+
+***
+
+### Falcons @ Chiefs (Week 16)
