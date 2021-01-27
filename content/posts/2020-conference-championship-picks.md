@@ -1,6 +1,5 @@
 +++
 date = 2021-01-23T12:00:00Z
-draft = true
 headline = "2020 Conference Championship Analysis"
 
 +++
@@ -50,27 +49,3 @@ the Packers work out to a quick lead and ward off any comebacks the Buccaneers m
 their offensive line can keep Brady fairly comfortable in the pocket and Ronald Jones can chew off some big yardage against a Green Bay defense not known at all for muzzling opposing rushers.
 
 ***
-
-### Bills @ Chiefs
-
-***
-
-#### _Latest Results_
-
-Ravens (3) @ **Bills** (17)  
-Browns (17) @ **Chiefs** (22)
-
-#### _Conference Rank_
-
-Buccaneers (5)  
-Packers (1)
-
-#### _Weather_
-
-Cold, cloudy, and slightly windy with a thin blanket of snow expected to cover the field in the morning. Not good for a Tampa team used to warm, humid weather.
-
-#### 
-
-***
-
-### 
