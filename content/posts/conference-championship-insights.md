@@ -1,6 +1,5 @@
 +++
 date = 2021-01-24T12:00:00Z
-draft = true
 headline = "Conference Championship Insights"
 
 +++

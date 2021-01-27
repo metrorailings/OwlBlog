@@ -1,6 +1,5 @@
 +++
 date = 2021-02-03T12:00:00Z
-draft = true
 headline = "Lessons from This Year's Playoffs"
 
 +++
