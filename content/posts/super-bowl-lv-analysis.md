@@ -27,3 +27,5 @@ Tampa Bay has been bailed out a few times by incredible catches or lucky penalti
 Lots of two tailback sets with these Chiefs. Atlanta is doing a good job playing assignment football though.
 
 Atlanta's defense seeing quite a bit of success using five and six-man defensive fronts. Their blitz packages have thrown Mahomes off his game too on a number of occasions.
+
+Grady Jarrett has forced his way into the pocket on multiple occasions. 
