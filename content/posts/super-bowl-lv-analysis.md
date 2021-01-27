@@ -23,3 +23,5 @@ Tampa Bay has been bailed out a few times by incredible catches or lucky penalti
 ***
 
 ### Falcons @ Chiefs (Week 16)
+
+Lots of two tailback sets with these Chiefs. Atlanta is doing a good job playing assignment football though.
