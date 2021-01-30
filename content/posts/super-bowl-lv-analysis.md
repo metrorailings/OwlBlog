@@ -38,7 +38,7 @@ Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and
 
 The Ravens were pretty awful in coverage on the Chiefs first drive. Zone coverage is not something Baltimore runs gracefully.
 
-It's clear the Ravens weren't ready for all the tricks the Chiefs love to run, especially with the players they line up at tight end. That and Tyreek Hill being able to play at different points in formation puts even more stress on any opposing defense, not just the Ravens.
+It's clear the Ravens weren't ready for all the tricks the Chiefs love to run, especially with the skill players they were lining up at tight end. That and Tyreek Hill being able to play at different points in formation put too much stress on Baltimore's defensive unit.
 
 Marcus Peters may be a point of weakness in man coverage. Wouldn't be surprised to see Kansas pick on Jemel Dean in the same manner.
 
