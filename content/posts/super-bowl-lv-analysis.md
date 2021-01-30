@@ -54,8 +54,10 @@ Brady has a pathological dependance on Mike Evans.
 
 Jason Pierre-Paul has been a beast so far.
 
+Brady seems to select his targets before the flop.
+
 **KC Pass Rush**:  
-Hits: 0  
+Hits: 1  
 Hurries: 0
 
 **TB Pass Rush**  
