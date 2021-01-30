@@ -40,7 +40,7 @@ The Ravens were pretty awful in coverage on the Chiefs first drive. Zone coverag
 
 It's clear the Ravens weren't ready for all the tricks the Chiefs love to run, especially with the skill players they were lining up at tight end. That and Tyreek Hill being able to play at different points in formation put too much stress on Baltimore's defensive unit.
 
-Marcus Peters may be a point of weakness in man coverage. Wouldn't be surprised to see Kansas pick on Jemel Dean in the same manner.
+Marcus Peters is a definite point of weakness in man coverage. Wouldn't be surprised to see Kansas pick on Jemel Dean in the same manner.
 
 I'm not a fan of the Ravens running these replacement blitzes. These blitzes rely solely on confusion to hit home instead of numerical advantage or strategic strikes.
 
