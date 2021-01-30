@@ -43,3 +43,5 @@ It's clear the Ravens weren't ready for all the tricks the Chiefs love to run, e
 Marcus Peters may be a point of weakness in man coverage. Wouldn't be surprised to see Kansas pick on Jemel Dean in the same manner.
 
 I'm not a fan of the Ravens running these replacement blitzes. These are blitzes relying on confusion to hit home instead of numerical advantage.
+
+Tyreek Hill is such a difference maker even when he's used as a decoy. Baltimore's defense has gone out of its way to watch him, to the detriment of the rest of their coverage.
