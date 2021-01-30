@@ -51,3 +51,13 @@ Tyreek Hill is such a difference maker even when he's used as a decoy. Baltimore
 ### Chiefs @ Buccaneers (Week 12)
 
 Brady has a pathological dependance on Mike Evans.
+
+Jason Pierre-Paul has been a beast so far.
+
+**KC Pass Rush**:  
+Hits: 0  
+Hurries: 0
+
+**TB Pass Rush**  
+Hits: 0  
+Hurries: 0
