@@ -45,3 +45,9 @@ Marcus Peters is a definite point of weakness in man coverage. Wouldn't be surpr
 I'm not a fan of the Ravens running these replacement blitzes. These blitzes rely solely on confusion to hit home instead of numerical advantage or strategic strikes.
 
 Tyreek Hill is such a difference maker even when he's used as a decoy. Baltimore's defense has gone out of its way to watch him, to the detriment of the rest of their coverage.
+
+***
+
+### Chiefs @ Buccaneers (Week 12)
+
+Brady has a pathological dependance on Mike Evans.
