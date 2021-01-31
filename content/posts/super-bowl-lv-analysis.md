@@ -60,10 +60,12 @@ Tampa Bay's zone coverage is pretty hopeless against Kansas. In fact, the Buccan
 
 Buccaneers love to stack their receivers two at a time at the line of scrimmage.
 
+Tampa's zone coverage near the end of the first half was absolutely phenomenal.
+
 **KC Pass Rush**:  
 Hits: 3  
 Hurries: 0
 
 **TB Pass Rush**  
-Hits: 5  
-Hurries: 1
+Hits: 7  
+Hurries: 3
