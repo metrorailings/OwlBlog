@@ -63,5 +63,5 @@ Hits: 2
 Hurries: 0
 
 **TB Pass Rush**  
-Hits: 3  
+Hits: 4  
 Hurries: 0
