@@ -62,7 +62,7 @@ Buccaneers love to stack their receivers two at a time at the line of scrimmage.
 
 Tampa's zone coverage near the end of the first half was absolutely phenomenal.
 
-The Buccaneers letting up two big end rushes against the Chiefs on a critical series. 
+The Buccaneers letting up two big end rushes against the Chiefs on a critical series.  A little worrying considering they forced Kansas into some serious negative game script. Even worse, the drive ended with a Tyreek Hill touchdown coming against single-safety coverage. Why the Buccaneers are insisting on running this traditional single-high look even in the second half is beyond me. 
 
 **KC Pass Rush**:  
 Hits: 3  
