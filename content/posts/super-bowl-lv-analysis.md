@@ -58,6 +58,8 @@ Brady seems to select his targets before the flop.
 
 Tampa Bay's zone coverage is pretty hopeless against Kansas.
 
+Buccaneers love to stack their receivers by pairs at the line of scrimmage.
+
 **KC Pass Rush**:  
 Hits: 2  
 Hurries: 0
