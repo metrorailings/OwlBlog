@@ -62,6 +62,8 @@ Buccaneers love to stack their receivers two at a time at the line of scrimmage.
 
 Tampa's zone coverage near the end of the first half was absolutely phenomenal.
 
+The Buccaneers letting up two big end rushes against the Chiefs on a critical series. 
+
 **KC Pass Rush**:  
 Hits: 3  
 Hurries: 0
