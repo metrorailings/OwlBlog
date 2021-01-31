@@ -66,7 +66,7 @@ The Buccaneers letting up two big end rushes against the Chiefs on a critical se
 
 **KC Pass Rush**:  
 Hits: 4  
-Hurries: 1  
+Hurries: 2  
 Holding: 1
 
 **TB Pass Rush**  
