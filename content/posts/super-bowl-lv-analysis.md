@@ -56,12 +56,12 @@ Jason Pierre-Paul has been a beast so far.
 
 Brady seems to select his targets before the flop.
 
-Tampa Bay's zone coverage is pretty hopeless against Kansas.
+Tampa Bay's zone coverage is pretty hopeless against Kansas. In fact, the Buccaneers are suspiciously playing a fair amount of zone coverage against the Chiefs.
 
-Buccaneers love to stack their receivers by pairs at the line of scrimmage.
+Buccaneers love to stack their receivers two at a time at the line of scrimmage.
 
 **KC Pass Rush**:  
-Hits: 2  
+Hits: 3  
 Hurries: 0
 
 **TB Pass Rush**  
