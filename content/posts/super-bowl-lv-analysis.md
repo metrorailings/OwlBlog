@@ -22,7 +22,8 @@ Tampa Bay has been bailed out a few times by incredible catches or lucky penalti
 **TB Pass Rush**  
 Hits: 0  
 Hurries: 0  
-Holding: 0
+Holding: 0  
+Attempts: 0
 
 ***
 
