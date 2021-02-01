@@ -1,6 +1,5 @@
 +++
 date = 2021-01-24T12:00:00Z
-draft = true
 headline = "Super Bowl LV Analysis"
 
 +++
@@ -19,6 +18,11 @@ Blitzes seem to be very effective against Brady. A whiff of pressure is enough t
 Leonard Fournette is for real. Him being a viable tailback has taken Atlanta by surprise.
 
 Tampa Bay has been bailed out a few times by incredible catches or lucky penalties.
+
+**TB Pass Rush**  
+Hits: 8  
+Hurries: 7  
+Holding: 5
 
 ***
 
@@ -70,6 +74,6 @@ Hurries: 2
 Holding: 1
 
 **TB Pass Rush**  
-Hits: 7  
-Hurries: 4  
-Holding: 1
+Hits: 8  
+Hurries: 7  
+Holding: 5
