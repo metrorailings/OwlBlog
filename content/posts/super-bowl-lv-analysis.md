@@ -20,9 +20,9 @@ Leonard Fournette is for real. Him being a viable tailback has taken Atlanta by 
 Tampa Bay has been bailed out a few times by incredible catches or lucky penalties.
 
 **TB Pass Rush**  
-Hits: 8  
-Hurries: 7  
-Holding: 5
+Hits: 0  
+Hurries: 0  
+Holding: 0
 
 ***
 
