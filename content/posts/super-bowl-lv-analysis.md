@@ -44,10 +44,10 @@ Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and
 
 **KC Pass Rush**  
 Hits: 0  
-Hurries: 0  
+Hurries: 1  
 Holding: 0  
-Bats: 0  
-Attempts: 0
+Bats: 1  
+Attempts: 3
 
 ***
 
