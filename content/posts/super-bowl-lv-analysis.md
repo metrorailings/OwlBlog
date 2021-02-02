@@ -44,12 +44,14 @@ Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and
 
 Interestingly enough, Atlanta borrowing quite a few offensive concepts from Kansas City in this game. Wide motioning, the shovel pass, etc. 
 
+The Chiefs are pretty good in preventing Atlanta's skill players from breaking tackles. Very necessary given how much man coverage they run 
+
 **KC Pass Rush**  
-Hits: 3  
+Hits: 9  
 Hurries: 1  
 Holding: 0  
 Bats: 1  
-Attempts: 14
+Attempts: 21
 
 ***
 
