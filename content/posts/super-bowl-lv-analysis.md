@@ -26,7 +26,7 @@ Hits: 9
 Hurries: 12  
 Holding: 0  
 Bats: 2  
-Attempts: 46
+Attempts: 53
 
 ***
 
