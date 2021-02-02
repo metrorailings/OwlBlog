@@ -42,8 +42,10 @@ Grady Jarrett has forced his way into the pocket on multiple occasions. Very tal
 
 Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and most of them seem to be working.
 
+Interestingly enough, Atlanta borrowing quite a few offensive concepts from Kansas City in this game. Wide motioning, the shovel pass, etc. 
+
 **KC Pass Rush**  
-Hits: 2  
+Hits: 3  
 Hurries: 1  
 Holding: 0  
 Bats: 1  
