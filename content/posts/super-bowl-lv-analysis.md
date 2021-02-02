@@ -28,6 +28,8 @@ Holding: 0
 Bats: 2  
 Attempts: 53
 
+_Score:_ 33/53 \~ 0.62
+
 ***
 
 ### Falcons @ Chiefs (Week 16)
