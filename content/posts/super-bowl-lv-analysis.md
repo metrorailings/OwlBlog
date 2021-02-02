@@ -40,6 +40,13 @@ Grady Jarrett has forced his way into the pocket on multiple occasions. Very tal
 
 Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and most of them seem to be working.
 
+**KC Pass Rush**  
+Hits: 0  
+Hurries: 0  
+Holding: 0  
+Bats: 0  
+Attempts: 0
+
 ***
 
 ### Chiefs @ Ravens (Week 3)
