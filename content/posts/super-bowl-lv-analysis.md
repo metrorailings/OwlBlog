@@ -22,11 +22,11 @@ Tampa Bay has been bailed out a few times by incredible catches or lucky penalti
 Sean Murphy-Bunting is a serious point of weakness in this secondary.
 
 **TB Pass Rush**  
-Hits: 5  
-Hurries: 7  
+Hits: 9  
+Hurries: 12  
 Holding: 0  
 Bats: 2  
-Attempts: 37
+Attempts: 46
 
 ***
 
