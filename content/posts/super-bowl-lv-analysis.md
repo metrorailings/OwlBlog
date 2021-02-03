@@ -108,4 +108,4 @@ Holding: 5
 Hurries: 0  
 Holding: 0  
 Bats: 0  
-Attempts: 0
+Attempts: 3
