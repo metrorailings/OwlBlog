@@ -105,7 +105,7 @@ Holding: 5
 
 **TB Pass Rush  
 **Hits: 0  
-Hurries: 0  
+Hurries: 1  
 Holding: 0  
 Bats: 0  
 Attempts: 3
