@@ -103,9 +103,13 @@ Holding: 5
 
 ### Buccaneers @ Saints (Divisional Round)
 
+Devin White has been highly effective as the fifth pass rusher on Tampa Bay's blitzing packages.
+
+Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has made it a point to target the man in coverage and the kid has held up so far.
+
 **TB Pass Rush  
 **Hits: 1  
-Hurries: 1  
+Hurries: 2  
 Holding: 0  
 Bats: 1  
-Attempts: 3
+Attempts: 10
