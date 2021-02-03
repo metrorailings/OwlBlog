@@ -55,6 +55,8 @@ Holding: 0
 Bats: 1  
 Attempts: 42
 
+Score: 31/42 \~ 0.74
+
 ***
 
 ### Chiefs @ Ravens (Week 3)
