@@ -49,11 +49,11 @@ The Chiefs are pretty good in preventing Atlanta's skill players from breaking t
 Tershawn Wharton may be a key player for the Chiefs along their defensive line.
 
 **KC Pass Rush**  
-Hits: 9  
-Hurries: 1  
+Hits: 13  
+Hurries: 4  
 Holding: 0  
 Bats: 1  
-Attempts: 21
+Attempts: 42
 
 ***
 
