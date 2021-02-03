@@ -112,4 +112,4 @@ Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has
 Hurries: 3  
 Holding: 0  
 Bats: 1  
-Attempts: 14
+Attempts: 22
