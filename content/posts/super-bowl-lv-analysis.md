@@ -105,7 +105,7 @@ Holding: 5
 
 Devin White has been highly effective as the fifth pass rusher on Tampa Bay's blitzing packages.
 
-Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has made it a point to target the man in coverage and the kid has held up so far.
+Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has made it a point to target the man in coverage and the kid has held up so far. He's also made a few impact plays.
 
 **TB Pass Rush  
 **Hits: 2  
