@@ -104,8 +104,8 @@ Holding: 5
 ### Buccaneers @ Saints (Divisional Round)
 
 **TB Pass Rush  
-**Hits: 0  
+**Hits: 1  
 Hurries: 1  
 Holding: 0  
-Bats: 0  
+Bats: 1  
 Attempts: 3
