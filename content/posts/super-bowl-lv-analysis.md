@@ -125,8 +125,8 @@ Score: 15/37 \~ 0.4
 What a heads-up play by Frank Clark, peeling off his pass rush to chase after Alvin Kamara on a wheel route. In fact, it's only been one quarter, but the Chiefs defense have read the Saints pretty damn well so far. Whether it's dropping coverage assignments at the right moments or undercutting the routes their receivers are running, Kansas City has demonstrated to me an understanding of the New Orleans offense.
 
 **KC Pass Rush**  
-Hits: 0  
+Hits: 1  
 Hurries: 2  
 Holding: 0  
 Bats: 0  
-Attempts: 5
+Attempts: 11
