@@ -128,7 +128,7 @@ Kansas City's sticky man coverage is a thing of beauty.
 
 **KC Pass Rush**  
 Hits: 4  
-Hurries: 2  
+Hurries: 3  
 Holding: 1  
 Bats: 0  
-Attempts: 17
+Attempts: 22
