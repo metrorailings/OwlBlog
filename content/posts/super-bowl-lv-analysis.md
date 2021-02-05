@@ -128,6 +128,8 @@ Kansas City's sticky man coverage is a thing of beauty.
 
 Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down. It's working though.
 
+Once again, Kansas City running quite a few option plays coming out of the gate.
+
 **KC Pass Rush**  
 Hits: 7  
 Hurries: 6  
