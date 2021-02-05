@@ -42,7 +42,7 @@ Grady Jarrett has forced his way into the pocket on multiple occasions. Very tal
 
 Once again, the Falcons are throwing all sorts of blitzes against the Chiefs and most of them seem to be working.
 
-Interestingly enough, Atlanta borrowing quite a few offensive concepts from Kansas City in this game. Wide motioning, the shovel pass, etc. 
+Interestingly enough, Atlanta borrowing quite a few offensive concepts from Kansas City in this game. Wide motioning, the shovel pass, etc.
 
 The Chiefs are pretty good in preventing Atlanta's skill players from breaking tackles. Very necessary given how much man coverage they run.
 
@@ -107,10 +107,10 @@ Devin White has been highly effective as the fifth pass rusher on Tampa Bay's bl
 
 Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has made it a point to target the man in coverage and the kid has held up so far. He's also made a few impact plays.
 
-...Then again, he's usually followed up those impact plays with boneheaded plays, so things have somewhat evened out with him. Still, better play than what I saw before in his game against the Falcons. 
+...Then again, he's usually followed up those impact plays with boneheaded plays, so things have somewhat evened out with him. Still, better play than what I saw before in his game against the Falcons.
 
-**TB Pass Rush  
-**Hits: 2  
+**TB Pass Rush**  
+Hits: 2  
 Hurries: 3  
 Holding: 0  
 Bats: 1  
