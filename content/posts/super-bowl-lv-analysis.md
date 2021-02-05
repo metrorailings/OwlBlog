@@ -127,8 +127,8 @@ What a heads-up play by Frank Clark, peeling off his pass rush to chase after Al
 Kansas City's sticky man coverage is a thing of beauty.
 
 **KC Pass Rush**  
-Hits: 4  
-Hurries: 3  
+Hits: 5  
+Hurries: 4  
 Holding: 1  
 Bats: 0  
-Attempts: 22
+Attempts: 24
