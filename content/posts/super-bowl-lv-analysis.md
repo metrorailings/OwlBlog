@@ -124,7 +124,7 @@ Score: 15/37 \~ 0.4
 
 **KC Pass Rush**  
 Hits: 0  
-Hurries: 0  
+Hurries: 1  
 Holding: 0  
 Bats: 0  
-Attempts: 0
+Attempts: 2
