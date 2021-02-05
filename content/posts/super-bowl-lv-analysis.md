@@ -128,7 +128,7 @@ Kansas City's sticky man coverage is a thing of beauty.
 
 Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down. It's working though.
 
-Once again, Kansas City running quite a few option plays coming out of the gate. Still, the Saints managed to stifle the Chiefs on their first two drives, mostly thanks to constant pressure.
+Once again, Kansas City running quite a few option plays coming out of the gate. Still, the Saints managed to stifle the Chiefs on their first two drives, mostly thanks to steady pressure and two safeties staying deep to prevent Kansas from making any of their signature big pass plays.
 
 **KC Pass Rush**  
 Hits: 7  
