@@ -134,3 +134,5 @@ Hurries: 6
 Holding: 1  
 Bats: 0  
 Attempts: 37
+
+Score: 22/37 \~ 0.6
