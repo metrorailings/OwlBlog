@@ -126,7 +126,7 @@ What a heads-up play by Frank Clark, peeling off his pass rush to chase after Al
 
 **KC Pass Rush**  
 Hits: 0  
-Hurries: 1  
+Hurries: 2  
 Holding: 0  
 Bats: 0  
-Attempts: 2
+Attempts: 4
