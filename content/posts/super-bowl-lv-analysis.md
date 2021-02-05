@@ -126,7 +126,7 @@ What a heads-up play by Frank Clark, peeling off his pass rush to chase after Al
 
 Kansas City's sticky man coverage is a thing of beauty.
 
-Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down.
+Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down. It's working though.
 
 **KC Pass Rush**  
 Hits: 7  
