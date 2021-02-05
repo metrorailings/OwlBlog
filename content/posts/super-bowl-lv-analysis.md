@@ -110,8 +110,8 @@ Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has
 ...Then again, he's usually followed up those impact plays with boneheaded plays, so things have somewhat evened out with him. Still, better play than what I saw before in his game against the Falcons.
 
 **TB Pass Rush**  
-Hits: 2  
+Hits: 4  
 Hurries: 3  
 Holding: 0  
 Bats: 1  
-Attempts: 22
+Attempts: 32
