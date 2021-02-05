@@ -130,7 +130,7 @@ Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down.
 
 **KC Pass Rush**  
 Hits: 7  
-Hurries: 4  
+Hurries: 6  
 Holding: 1  
 Bats: 0  
-Attempts: 26
+Attempts: 37
