@@ -111,7 +111,9 @@ Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has
 
 **TB Pass Rush**  
 Hits: 4  
-Hurries: 4  
+Hurries: 5  
 Holding: 0  
 Bats: 1  
-Attempts: 34
+Attempts: 37
+
+Score: 15/37 \~ 0.4
