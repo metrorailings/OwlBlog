@@ -113,6 +113,10 @@ First drive, and the Bucs record a three-and-out simply because they didn't have
 
 Saints still holding strong to cover-two formation here....which makes sense, given Brady loves to throw inside the numbers.
 
+How is it that Redditors are still bitching about Alex Anzalone? He's been doing well so far...
+
+Dennis Allen loves his obvious zone blitzes. There's a reason why I have a hard time considering him to be a good defensive coach.
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
