@@ -111,6 +111,8 @@ Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has
 
 First drive, and the Bucs record a three-and-out simply because they didn't have enough easy yardage outlets on third down. Bruce Arians loves his deep threats, doesn't he?
 
+Saints still holding strong to cover-two formation here....which makes sense, given Brady loves to throw inside the numbers.
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
