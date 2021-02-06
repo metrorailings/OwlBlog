@@ -138,6 +138,8 @@ It took over one quarter, but Kansas City has finally adjusted to the Saints pla
 
 You have to love the Chiefs and all their deceptive motions, even on running plays.
 
+Chiefs have further adjusted in the third quarter by running routes meant to beat man coverage.
+
 **KC Pass Rush**  
 Hits: 7  
 Hurries: 6  
