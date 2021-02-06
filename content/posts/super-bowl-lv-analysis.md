@@ -130,7 +130,9 @@ Steve Spagnuolo gambling quite a bit with his jailbreak blitzes on third down. I
 
 Once again, Kansas City running quite a few option plays coming out of the gate. Still, the Saints managed to stifle the Chiefs on their first two drives, mostly thanks to steady pressure and two safeties staying deep to prevent Kansas from making any of their signature big pass plays. Also, New Orleans is doing a pretty good job jamming Kelce and Tyreek Hill at the line of scrimmage.
 
-New Orleans defense is playing about as well as it can. The Saints are mustering regular pressure on Patrick Mahomes, mostly up the middle. And yet Mahomes is doing _just enough_ to keep the chains moving. It has to be pretty disheartening for the Saints to be playing so well, all for nothing though.   
+New Orleans defense is playing about as well as it can. The Saints are mustering regular pressure on Patrick Mahomes, mostly up the middle. And yet Mahomes is doing _just enough_ to keep the chains moving. It has to be pretty disheartening for the Saints to be playing so well, all for nothing though.
+
+It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl instead.
 
 **KC Pass Rush**  
 Hits: 7  
