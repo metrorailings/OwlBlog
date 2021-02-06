@@ -132,7 +132,7 @@ Once again, Kansas City running quite a few option plays coming out of the gate.
 
 New Orleans defense is playing about as well as it can. The Saints are mustering regular pressure on Patrick Mahomes, mostly up the middle. And yet Mahomes is doing _just enough_ to keep the chains moving. It has to be pretty disheartening for the Saints to be playing so well, all for nothing though.
 
-It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl instead.
+It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl instead. New Orleans defense is playing really well, despite the Chiefs still finding ways to move the ball on them.
 
 **KC Pass Rush**  
 Hits: 7  
