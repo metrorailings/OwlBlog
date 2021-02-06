@@ -136,6 +136,8 @@ It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl
 
 It took over one quarter, but Kansas City has finally adjusted to the Saints playing cover-two formations relentlessly - they're now embracing the ground game in response. 
 
+You have to love the Chiefs and all their deceptive motions, even on running plays.
+
 **KC Pass Rush**  
 Hits: 7  
 Hurries: 6  
