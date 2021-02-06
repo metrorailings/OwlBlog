@@ -109,6 +109,8 @@ Sean Murphy-Bunting is now adding serious value to the Bucs secondary. Brees has
 
 ...Then again, he's usually followed up those impact plays with boneheaded acts, so things have somewhat evened out with him. Still, better play than what I saw before in his game against the Falcons.
 
+First drive, and the Bucs record a three-and-out simply because they didn't have enough easy yardage outlets on third down. Bruce Arians loves his deep threats, doesn't he?
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
@@ -134,7 +136,7 @@ New Orleans defense is playing about as well as it can. The Saints are mustering
 
 It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl instead. New Orleans defense is playing really well, despite the Chiefs still finding ways to move the ball on them.
 
-It took over one quarter, but Kansas City has finally adjusted to the Saints playing cover-two formations relentlessly - they're now embracing the ground game in response. 
+It took over one quarter, but Kansas City has finally adjusted to the Saints playing cover-two formations relentlessly - they're now embracing the ground game in response.
 
 You have to love the Chiefs and all their deceptive motions, even on running plays.
 
