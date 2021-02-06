@@ -134,6 +134,8 @@ New Orleans defense is playing about as well as it can. The Saints are mustering
 
 It's a damn shame the Saints aren't the ones facing the Chiefs in the Super Bowl instead. New Orleans defense is playing really well, despite the Chiefs still finding ways to move the ball on them.
 
+It took over one quarter, but Kansas City has finally adjusted to the Saints playing cover-two formations relentlessly - they're now embracing the ground game in response. 
+
 **KC Pass Rush**  
 Hits: 7  
 Hurries: 6  
