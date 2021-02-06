@@ -117,6 +117,8 @@ How is it that Redditors are still bitching about Alex Anzalone? He's been doing
 
 Dennis Allen loves his obvious zone blitzes. There's a reason why I have a hard time considering him to be a good defensive coach.
 
+Tom Brady finally made hay at the end of the second quarter, in part thanks to a two-minute offense in which Tom found Leonard Fournette on multiple occasions on flat routes. 
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
