@@ -119,7 +119,7 @@ Dennis Allen loves his obvious zone blitzes. There's a reason why I have a hard 
 
 Tom Brady finally made hay at the end of the second quarter, in part thanks to a two-minute offense in which Tom found Leonard Fournette on multiple occasions on flat routes. 
 
-Tampa Bay's adjustments in the second half mainly came in the form of running the ball more. It's working though. Ronald Jones is breaking tackles.
+Tampa Bay's adjustments in the second half mainly came in the form of running the ball more. It's working though. Ronald Jones is breaking tackles. Saints are having a harder time cleaning up against the Buccaneer tailbacks as the game drags on.
 
 Malcolm Jenkins has been a force for this Saints defense, especially against the ground game. Something to keep in mind for next year.
 
