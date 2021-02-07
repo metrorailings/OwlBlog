@@ -119,9 +119,11 @@ Dennis Allen loves his obvious zone blitzes. There's a reason why I have a hard 
 
 Tom Brady finally made hay at the end of the second quarter, in part thanks to a two-minute offense in which Tom found Leonard Fournette on multiple occasions on flat routes. 
 
-Tampa Bay's adjustments in the second half mainly came in the form of running the ball more. It's working though.
+Tampa Bay's adjustments in the second half mainly came in the form of running the ball more. It's working though. Ronald Jones is breaking tackles.
 
-Malcolm Jenkins has been a force against the ground game. Something to keep in mind for next year.
+Malcolm Jenkins has been a force for this Saints defense, especially against the ground game. Something to keep in mind for next year.
+
+Never mind, I take back my kind words about Alex Anzalone. He's being exploited in pass coverage.
 
 **TB Pass Rush**  
 Hits: 4  
