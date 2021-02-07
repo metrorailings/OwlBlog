@@ -125,6 +125,8 @@ Malcolm Jenkins has been a force for this Saints defense, especially against the
 
 Never mind, I take back my kind words about Alex Anzalone. He's being exploited in pass coverage.
 
+Gronkowski is truly key to Tampa Bay's offense, both as a receiver and as a run-blocker.
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
