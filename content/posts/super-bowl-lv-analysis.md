@@ -121,6 +121,8 @@ Tom Brady finally made hay at the end of the second quarter, in part thanks to a
 
 Tampa Bay's adjustments in the second half mainly came in the form of running the ball more. It's working though.
 
+Malcolm Jenkins has been a force against the ground game. Something to keep in mind for next year.
+
 **TB Pass Rush**  
 Hits: 4  
 Hurries: 5  
