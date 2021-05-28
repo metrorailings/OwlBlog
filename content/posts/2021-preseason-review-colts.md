@@ -12,13 +12,13 @@ headline = "2021 Preseason Review: Indianapolis Colts"
 _Carson Wentz_
 
 **KNOWN VECTORS**  
-_T.Y. Hilton (WR), Marlon Mack (RB)_
+_T.Y. Hilton (WR), Marlon Mack (RB), Jack Doyle_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _DeForest Buckner (DT), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
 
 **MANAGERS**  
-_Chris Ballard (GM), Frank Reich (HC), Nick Sirianni (OC), Matt Eberflus (DC)_
+_Chris Ballard (GM), Frank Reich (HC), Marcus Brady (New OC), Matt Eberflus (DC)_
 
 **VEGAS OVER/UNDER**  
 8\.5
