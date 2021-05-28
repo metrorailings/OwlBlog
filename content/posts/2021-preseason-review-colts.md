@@ -1,6 +1,5 @@
 +++
 date = 2021-05-27T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Indianapolis Colts"
 
 +++
@@ -12,7 +11,7 @@ headline = "2021 Preseason Review: Indianapolis Colts"
 _Carson Wentz_
 
 **KNOWN VECTORS**  
-_T.Y. Hilton (WR), Marlon Mack (RB), Jack Doyle_
+_T.Y. Hilton (WR), Marlon Mack (RB), Jack Doyle (TE), Nyheim Hines (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _DeForest Buckner (DT), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (CB)_
@@ -21,10 +20,10 @@ _DeForest Buckner (DT), Darius Leonard (OLB), Xavier Rhodes (CB), Rock Ya-Sin (C
 _Chris Ballard (GM), Frank Reich (HC), Marcus Brady (New OC), Matt Eberflus (DC)_
 
 **VEGAS OVER/UNDER**  
-8\.5
+9\.5
 
 **STAFF TURNOVER**  
-The Colts lost Nick Sirianni over to the Eagles. Not much of a big loss though - head coach Frank Reich is the architect of this offense. Still, we do see some shuffling along the coaching ranks as a result of Marcus Brady being promoted to offensive coordinator. Some assistant offensive coaches from last year have been replaced or reassigned elsewhere.
+The Colts lost offensive coordinator Nick Sirianni over to the Eagles. Not much of a big loss though - head coach Frank Reich was always the architect of this offense. Still, we do see some shuffling along the coaching ranks as a result of Marcus Brady being promoted to Sirianni's old role. Some assistant offensive coaches from last year have been replaced or reassigned elsewhere.
 
 ***
 
