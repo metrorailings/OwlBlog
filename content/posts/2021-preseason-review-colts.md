@@ -3,7 +3,7 @@ date = 2021-05-27T12:00:00Z
 headline = "2021 Preseason Review: Indianapolis Colts"
 
 +++
-## **_Tier 4_**
+## **_Tier 3_**
 
 ***
 
