@@ -32,4 +32,4 @@ Vegas wasn't quite the bottom feeder I expected last year. It helped that their 
 
 I don't see much changing this year though. The biggest issues on offense still persist - namely Jon Gruden and Derek Carr. As the season develops, expect opposing coaches to tear down Gruden's tactics and strategies. Once that happens, Gruden will likely fail to adjust, if history is any guide. Pair that with a quarterback unable to improvise in adverse situations and you have the recipe for an offense that'll stall way too much for its own good.
 
-Defensively,
+Defensively, I'd be shocked if Gus Bradley can turn things around in his first year under Gruden and Mike Mayock. His credentials after leaving Seattle have not been impressive in the least. On top of that, the defensive line still remains a shitshow. Mayock signed Yannick Ngakoue in a bid to address that, but it remains to be seen whether Yannick can actually have much of a positive impact here. Minnesota and Baltimore seemed all too content booting him out last year.
