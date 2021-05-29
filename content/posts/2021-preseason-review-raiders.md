@@ -1,6 +1,5 @@
 +++
 date = 2021-05-29T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Las Vegas Raiders"
 
 +++
@@ -34,4 +33,4 @@ I don't see much changing this year though. The biggest issues on offense still 
 
 Defensively, I'd be shocked if Gus Bradley can turn things around in his first year with the organization. His credentials after leaving Seattle have not been impressive in the least. On top of that, the defensive line still remains a shitshow. Mayock signed Yannick Ngakoue to address that issue, but it remains to be seen whether Yannick can actually have much of a positive impact here. Minnesota and Baltimore seemed all too content booting him out last year, which suggests something's off with the young man.
 
-I see inertia being the defining theme of the Raiders this season. Nothing much will change this year compared to last.
+I see inertia being the defining theme of the Raiders this season - nothing much will change this year compared to last.
