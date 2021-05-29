@@ -4,7 +4,7 @@ draft = true
 headline = "2021 Preseason Review: Las Vegas Raiders"
 
 +++
-## **_Tier 6_**
+## **_Tier 5_**
 
 ***
 
@@ -32,4 +32,4 @@ Vegas wasn't quite the bottom feeder I expected last year. It helped that their 
 
 I don't see much changing this year though. The biggest issues on offense still persist - namely Jon Gruden and Derek Carr. As the season develops, expect opposing coaches to tear down Gruden's tactics and strategies. Once that happens, Gruden will likely fail to adjust, if history is any guide. Pair that with a quarterback unable to improvise in adverse situations and you have the recipe for an offense that'll stall way too much for its own good.
 
-Defensively, 
+Defensively,
