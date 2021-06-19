@@ -9,19 +9,19 @@ headline = "2021 Preseason Review: Chicago Bears"
 ***
 
 **QB**  
-_Mitch Trubisky, Nick Foles_
+_Andy Dalton / Justin Fields_
 
 **KNOWN VECTORS**  
-_Allen Robinson (WR)_
+_Allen Robinson (WR), David Montgomery (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Akeem Hicks (DT), Khalil Mack (DE), Robert Quinn (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
+_Akeem Hicks (DT), Khalil Mack (DE), Kyle Fuller (CB), Roquan Smith (LB), Danny Trevathan (LB)_
 
 **MANAGERS**  
-_Ryan Pace (GM), Matt Nagy (HC), Bill Lazor (New OC), Chuck Pagano (DC)_
+_Ryan Pace (GM), Matt Nagy (HC), Bill Lazor (OC), Sean Desai (New DC)_
 
 **VEGAS OVER/UNDER**  
-8
+7\.5
 
 **COACHING TURNOVER**  
 After a disastrous season last year, the Bears fired so many of their offensive coaches, including their coordinator. And yet, Matt Nagy is the mastermind of the offense and he still remains gainfully employed, which suggests to me that Nagy organized these firings in order to salvage his career in Chicago. Whatever the case though, Chicago has new coaches in place to lead their offense and train their quarterbacks, offensive linemen, and tight ends. One thing worth noting here is that some assistant coaches were hired before Bill Lazor was even formally brought into the fold as the new offensive coordinator. Either Nagy and Lazor were working together before the latter was officially hired or Nagy doesn't care much what his coordinator thinks cause it's his offense.
