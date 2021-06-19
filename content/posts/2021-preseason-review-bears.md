@@ -24,9 +24,7 @@ _Ryan Pace (GM), Matt Nagy (HC), Bill Lazor (OC), Sean Desai (New DC)_
 7\.5
 
 **COACHING TURNOVER**  
-After a disastrous season last year, the Bears fired so many of their offensive coaches, including their coordinator. And yet, Matt Nagy is the mastermind of the offense and he still remains gainfully employed, which suggests to me that Nagy organized these firings in order to salvage his career in Chicago. Whatever the case though, Chicago has new coaches in place to lead their offense and train their quarterbacks, offensive linemen, and tight ends. One thing worth noting here is that some assistant coaches were hired before Bill Lazor was even formally brought into the fold as the new offensive coordinator. Either Nagy and Lazor were working together before the latter was officially hired or Nagy doesn't care much what his coordinator thinks cause it's his offense.
-
-On defense, things look mostly the same. Technically, the Bears lost a defensive assistant coach to the offense - Chris Jackson switched sides and is now assisting Mike Furrey with the receiving corps.
+On offense, the team lost their....ahem..."passing game coordinator" to Atlanta. On defense, we do see some turnover now that Sean Desai (last year's safeties coach) was promoted to coordinator after Chuck Pagano retired. The three assistant coaches overseeing the front seven were outright replaced. Maybe Sean felt change was desperately needed after the pass rush underwhelmed relative to their own expectations? Maybe those coaches were much better fits under Pagano's leadership? No matter the reason, the Bears now have three new assistants coaching their linebackers and defensive linemen.
 
 ***
 
