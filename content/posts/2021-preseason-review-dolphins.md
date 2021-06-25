@@ -12,22 +12,22 @@ headline = "2021 Preseason Review: Miami Dolphins"
 _Tua Tagovailoa_
 
 **KNOWN VECTORS**  
-_DeVante Parker (WR), Jaylen Waddle (WR),_ 
+_DeVante Parker (WR), Jaylen Waddle (WR), Will Fuller (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Christian Wilkins (DT), Shaq Lawson (DE), Kyle Van Noy (LB), Xavien Howard (CB), Byron Jones (CB)_
+_Emmanuel Ogbah (DE)_, _Benardrick McKinney (ILB), Xavien Howard (CB)_
 
 **MANAGERS**  
-_Chris Grier (GM), Brian Flores (New HC), Chan Gailey (New OC), Josh Boyer (New DC)_
+_Chris Grier (GM), Brian Flores (New HC), Eric Studesville/George Godsey (New OC), Josh Boyer (DC)_
 
 **VEGAS OVER/UNDER**  
-6
+9
 
 **COACHING TURNOVER**  
-Even though Chan Gailey retired, most of the offensive coaching staff has returned. The only major new addition is Charlie Frye as quarterbacks coach. Pretty noteworthy too considering he has some history with Tua. 
+Even though Chan Gailey retired, most of his assistant coaches have been retained, with two of them collaborating as joint coordinators following his retirement. The only major new addition is Charlie Frye as quarterbacks coach. Pretty noteworthy too considering he has some history with Tua.
 
 The same can be said of the defensive staff as well, though instead of an addition, we have some reshuffling going on now that defensive line coach Marion Hobby was let go.
 
 ***
 
-Good to see these Dolphins keep their coaching staff intact over the offseason.
+Good to see these Dolphins keeping their coaching staff intact over the offseason. Also lovely to know that the organization is trying to breathe more life back into the offense by supplying it with more weaponry. None of these actions resolve the single biggest issue plaguing this team - Tua Tagavailoa.
