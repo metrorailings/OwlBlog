@@ -3,7 +3,7 @@ date = 2021-06-24T12:00:00Z
 headline = "2021 Preseason Review: Miami Dolphins"
 
 +++
-## **_Tier 6_**
+## **_Tier 4_**
 
 ***
 
