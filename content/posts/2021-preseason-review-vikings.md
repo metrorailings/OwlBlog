@@ -29,3 +29,7 @@ On offense, Klint Kubiak's now assumed coordinator duties over the offense in th
 On defense, Paul Guenther has been brought on-board as a senior assistant. Hopefully, he can still offer some value to a veteran like Mike Zimmer. 
 
 ***
+
+How did I miss on these Vikings so bad last year? I considered them dark horse championship contenders, especially after their acquisition of Yannick Ngakoue. Instead, Minnesota couldn't even sniff the postseason last year.
+
+While I don't have the will or the patience to sit through all of Minnesota's losing performances from last season, one theme that I noticed popping up again and again was Kirk Cousins being a liability. Despite all the considerable weaponry at his disposal, Cousins always found a way to keep the other team in the game in most of their losing efforts. And I think that points to an even bigger issue - a stale playbook. Go back one year before when Cousins and Kubiak found success orchestrating deep passes off bootlegs and other play-action concepts. Defenses tend to take their sweet time to adjust, but they eventually adjust. And I think that's what happened here - opposing defenses decoded the Vikings schemes on offense. Without a reliable dropback passing game, Minnesota's offense stalled out way too much, especially in the first half of the season when the team posted a record of 1-5 before their bye. 
