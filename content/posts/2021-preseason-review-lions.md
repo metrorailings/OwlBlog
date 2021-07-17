@@ -15,7 +15,7 @@ _Jared Goff_
 _D'Andre Swift (RB), T.J. Hockenson (TE)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Romeo Okwara (OLB), Trey Flowers (DE), Jeff Okudah (CB)_
+_Romeo Okwara (OLB), Trey Flowers (DE), Jamie Collins (ILB), Jeff Okudah (CB)_
 
 **MANAGERS**  
 _Bob Quinn (GM), Matt Patricia (HC/DC), Darell Bevell (OC)_
