@@ -1,6 +1,5 @@
 +++
 date = 2021-07-17T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Minnesota Vikings"
 
 +++
@@ -36,4 +35,6 @@ While I don't have the will or the patience to sit through all of Minnesota's lo
 
 Is that going to change this year? I'd hope so - Klint Kubiak as offensive coordinator is likely the single most important determinant as to whether the Vikings can stake themselves as a top-tier team. For their sake, Klint needs to find novel ways to make Kirk Cousins productive.
 
-On defense, Minnesota underperformed last year, primarily due to an awful pass rush as well as a lack of experience among their cornerbacks ranks. This year should result in a marked change, if only because Danielle Hunter is returning from injured reserve and their starting cornerbacks from last year have a full season of experience under their belt. Patrick Peterson's veteran experience should also help that unit mature even quicker.
+On defense, Minnesota underperformed last year, primarily due to an awful pass rush as well as a lack of experience among their cornerbacks ranks. This year should result in a marked change, if only because Danielle Hunter is returning from injured reserve and their starting cornerbacks from last year have a full season of experience under their belt. Patrick Peterson's veteran experience should also help that unit mature even quicker. Perhaps best of all, the team scooped up one of the most underrated defensive tackles in the league in Dalvin Tomlinson. Once New York idiotically refused to sign him back, Minnesota seized upon the opportunity to fortify the middle of their defensive front with a proven player. No, he's not as solid a pass-rushing threat as a Chris Jones or an Akiem Hicks, but I have little doubt Dalvin will cement himself as one of the team's best pass rushers.
+
+So is Minnesota likely to see a turnaround? I'm not too sure. It's incredibly difficult to forecast their prospects this season. That being said, I have faith in Mike Zimmer to turn things around here, so if I had to bet on an outcome here, I'd bet on the Vikings making at least one postseason appearance this year. 
