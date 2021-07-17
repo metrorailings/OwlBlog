@@ -17,7 +17,7 @@ _DeVante Parker (WR), Jaylen Waddle (WR), Will Fuller (WR)_
 _Emmanuel Ogbah (DE)_, _Benardrick McKinney (ILB), Xavien Howard (CB)_
 
 **MANAGERS**  
-_Chris Grier (GM), Brian Flores (New HC), Eric Studesville/George Godsey (New OC), Josh Boyer (DC)_
+_Chris Grier (GM), Brian Flores (HC), Eric Studesville/George Godsey (New OC), Josh Boyer (DC)_
 
 **VEGAS OVER/UNDER**  
 9
