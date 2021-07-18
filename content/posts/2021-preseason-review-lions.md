@@ -18,11 +18,12 @@ _D'Andre Swift (RB), T.J. Hockenson (TE)_
 _Romeo Okwara (OLB), Trey Flowers (DE), Jamie Collins (ILB), Jeff Okudah (CB)_
 
 **MANAGERS**  
-_Bob Quinn (GM), Matt Patricia (HC/DC), Darell Bevell (OC)_
+_Brad Holmes (New GM), Dan Campbell (New HC), Anthony Lynn (New OC), Aaron Glenn (New DC)_
 
 **VEGAS OVER/UNDER**  
 5
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+On offense, we see an overhaul. Aside from a few position coaches, everybody on the offensive staff is completely new.
 
 ***
