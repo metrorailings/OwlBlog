@@ -3,7 +3,7 @@ date = 2021-07-20T12:00:00Z
 headline = "2021 Preseason Review: Dallas Cowboys"
 
 +++
-## Tier 6
+## Tier 7
 
 ***
 
