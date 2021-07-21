@@ -15,7 +15,7 @@ _Dak Prescott_
 _Ezekiel Elliott (RB), Amari Cooper (WR), CeeDee Lamb (WR), Dak Prescott (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Demarcus Laurence (DE), Everson Griffen (DE), Gerald McCoy (DT), Jaylon Smith (MLB)_
+_Demarcus Laurence (DE), Jaylon Smith (OLB), Leighton Vander Esch (MLB)_
 
 **MANAGERS**  
 _Jerry Jones (Owner/GM), Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (New DC)_
@@ -34,4 +34,4 @@ How did I screw the pooch so badly last year when I was forecasting this team? O
 
 Will things be different this season? Well, let's see, their defensive coordinator is....oh lord...Dan Quinn. Not good.
 
-It's worth noting Atlanta's defense last year was decisively better **after** Quinn was fired. If anything, people were questioning whether Quinn's presence was doing more harm than good for the Falcons. It's been alleged that Quinn hasn't really adapted his base style of defense to today's NFl. The Cover-3 may have been all the rage back in the early 2010s, but in 2021, that mode of defense hasn't seen much success. Even its biggest evangelist in Pete Carroll is struggling over there in Seattle. 
+It's worth noting Atlanta's defense last year was decisively better **after** Quinn was fired. People were rightfully questioning whether Quinn's presence was doing more harm than good for the Falcons. It's been alleged that Quinn hasn't really adapted his base style of defense to today's NFL. The Cover-3 mode of defense may have been all the rage back in the early 2010s, but in 2021, that mode of defense hasn't seen much success. Even its biggest evangelist in Pete Carroll is struggling over in Seattle. Regardless, Quinn has a glorious ace card in his favor here - Mike Nolan set the bar so abysmally low that it's damn near impossible for this defense not to bounce back. You could have hired a bag of sand as the defensive coordinator and the defense would still improve, if only because the law of regression would prohibit this defense from playing like wet dung two years in a row.
