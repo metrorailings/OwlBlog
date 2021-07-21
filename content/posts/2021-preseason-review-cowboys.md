@@ -18,7 +18,7 @@ _Ezekiel Elliott (RB), Amari Cooper (WR), CeeDee Lamb (WR), Dak Prescott (Mobile
 _Demarcus Laurence (DE), Everson Griffen (DE), Gerald McCoy (DT), Jaylon Smith (MLB)_
 
 **MANAGERS**  
-_Jerry Jones (Owner/GM), Mike McCarthy (HC), Kellen Moore (OC), Mike Nolan (New DC)_
+_Jerry Jones (Owner/GM), Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (New DC)_
 
 **VEGAS OVER/UNDER**  
 9\.5
