@@ -4,12 +4,12 @@ draft = true
 headline = "2021 Preseason Review: San Francisco 49ers"
 
 +++
-## _Tier 1_
+## _Tier 4_
 
 ***
 
 **QB**  
-_Jimmy Garoppolo_
+_Jimmy Garoppolo / Trey Lance_
 
 **KNOWN VECTORS**  
 _Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_
