@@ -1,6 +1,5 @@
 +++
 date = 2021-07-21T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Tampa Bay Buccaneers"
 
 +++
@@ -34,4 +33,6 @@ First off, let me repeat that consistency is king. Retaining coaches and players
 
 Barring catastrophic injuries, Tampa Bay will be in the postseason again. Another Super Bowl berth may even be possible. But a repeat championship? Unlikely. It's incredibly difficult to win two Super Bowls in a row in the NFL. The same drive and energy that propels a team to a championship just isn't there the year after - think of that drive as a fire that burns so brightly that it can only stay stoked for so long.
 
-On top of that, Tom Brady is in his mid-40s. Age is catching up to him, albeit very slowly. What helped Tom last year was that his offensive line kept him protected, surprisingly. It needs to hold up again in the worst way possible if Brady is to survive one more season in decent shape. 
+On top of that, Tom Brady is in his mid-40s. Age is catching up to him, albeit very slowly. What helped Tom immensely last year was that his offensive line kept him well protected, surprisingly. It needs to hold up again in the worst way possible if Brady is to survive one more season in one piece.
+
+Tampa will be a scary team this season. But I'm not feeling another championship in the works for them. 
