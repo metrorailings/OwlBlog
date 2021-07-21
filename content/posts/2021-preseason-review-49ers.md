@@ -15,10 +15,10 @@ _Jimmy Garoppolo / Trey Lance_
 _Matt Breida/Tevin Coleman/Raheem Mostert (RB), Kyle Juszcyzk (FB), George Kittle (TE), Deebo Samuel (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Kwon Alexander (LB), Richard Sherman (CB), Jimmie Ward (FS)_
+_Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Kwon Alexander (LB), Jimmie Ward (FS), Emmanuel Mosely (CB)_
 
 **MANAGERS**  
-_John Lynch (GM), Kyle Shanahan (HC/OC), Robert Saleh (DC)_
+_John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
 
 **VEGAS OVER/UNDER**  
 10\.5
