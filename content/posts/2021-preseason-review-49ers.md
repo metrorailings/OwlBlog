@@ -21,12 +21,9 @@ _Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Kwon Alexa
 _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
 
 **VEGAS OVER/UNDER**  
-10\.5
+8
 
-**COACHING TURNOVER**  
-On offense, the only major change comes with the addition of Chris Foerster, a former assistant coach with the Dolphins who was fired after being caught snorting coke on camera. Apparently, the cokehead has some coaching left in him.
-
-On defense, the 49ers lost a few assistants to Cleveland. New faces have been brought in to oversee the secondary and the pass rush.
+**COACHING TURNOVER**
 
 ***
 
