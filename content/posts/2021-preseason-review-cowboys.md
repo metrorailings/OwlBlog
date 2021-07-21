@@ -23,10 +23,13 @@ _Jerry Jones (Owner/GM), Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (New D
 **VEGAS OVER/UNDER**  
 9\.5
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+Every offensive coach from last year kept his job, despite the offense being hot garbage for much of the season. I suppose Jerry took some pity on them given Dak's injury essentially left the team crippled.
+
+On defense, Dan Quinn has been hired as the new coordinator replacing Mike Nolan. Oddly enough, some of Nolan's assistants have been retained by the organization. I'm not sure if that was Quinn's doing or the Jones family once again arranging marriages regardless of compatability   
 
 ***
 
 How did I screw the pooch so badly last year when I was forecasting this team? One thing's clear - Mike McCarthy cannot coach. For one thing, it's become alarmingly clear he has so little input over the direction of the defense. To be fair, that's not always a bad thing when you have somebody capable overseeing that unit as coordinator. Mike Nolan isn't that special somebody you want having unilateral control over your defense. Nolan was simply awful - not only was his unit routinely underprepared, but it looked like his men weren't even playing with much heart. So many Cowboy defenders were caught on tape visibly giving up on plays. Whatever morale the team may have had at the beginning of the season quickly dissipated once Dak suffered a season-ending injury. 
 
-Will things be different this season? Well, let's see, their defensive coordinator is....oh lord...Dan Quinn.
+Will things be different this season? Well, let's see, their defensive coordinator is....oh lord...Dan Quinn. It's worth noting Atlanta's defense last year was decisively better **after** Quinn was fired. If anything, people were questioning whether Quinn's presence was actually hampering his defense.
