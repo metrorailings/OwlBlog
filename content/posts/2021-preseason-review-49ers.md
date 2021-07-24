@@ -12,10 +12,10 @@ headline = "2021 Preseason Review: San Francisco 49ers"
 _Jimmy Garoppolo / Trey Lance_
 
 **KNOWN VECTORS**  
-_Jeff Wilson (RB), Kyle Juszcyzk (FB), George Kittle (TE), Brandon Aiyuk (WR)_
+_Jeff Wilson / Raheem Mostert / Wayne Gallman (RB), Kyle Juszcyzk (FB), George Kittle (TE), Brandon Aiyuk (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Nick Bosa (DE), Arik Armstead (DT), Dee Ford (DE), Fred Warner (LB), Emmanuel Mosely (CB)_
+_Nick Bosa (DE), Arik Armstead (DT), Fred Warner (LB), Emmanuel Mosely (CB)_
 
 **MANAGERS**  
 _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
