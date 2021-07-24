@@ -15,7 +15,7 @@ _Jimmy Garoppolo / Trey Lance_
 _Jeff Wilson / Raheem Mostert / Wayne Gallman (RB), Kyle Juszcyzk (FB), George Kittle (TE), Brandon Aiyuk (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Nick Bosa (DE), Arik Armstead (DT), Fred Warner (LB), Emmanuel Mosely (CB)_
+_Nick Bosa (DE), Arik Armstead (DE), Javon Kinlaw (DT), Fred Warner (MLB), Emmanuel Mosely (CB)_
 
 **MANAGERS**  
 _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
