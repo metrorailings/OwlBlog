@@ -15,7 +15,7 @@ _Jimmy Garoppolo / Trey Lance_
 _Jeff Wilson / Raheem Mostert / Wayne Gallman (RB), Kyle Juszcyzk (FB), George Kittle (TE), Brandon Aiyuk (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Nick Bosa (DE), Arik Armstead (DE), Javon Kinlaw (DT), Fred Warner (MLB), Emmanuel Mosely (CB)_
+_Nick Bosa (DE), Arik Armstead (DE), Javon Kinlaw (DT), Fred Warner (MLB), Jimmie Ward (FS), Emmanuel Mosely (CB)_
 
 **MANAGERS**  
 _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
@@ -30,4 +30,10 @@ On defense, DeMeco Ryans now takes up the mantle as coordinator of the unit. Asi
 
 ***
 
-On defense, DeMeco Ryans should introduce some new wrinkles into a unit sporting talent at all three levels. In the only major interview he's given to the press, Ryans indicates that he wants this defense to be so much more aggressive. That would serve their stacked defensive front pretty well if they're given more rope to rush opposing quarterbacks. So long as Fred Warner remains healthy, the 49ers have enough talent in their linebackers corps to give their defensive linemen the freedom to pursue opposing passers recklessly with no mind towards gap control. On top of that, the defense will be helped tremendously by the return of the two cornerstones to their pass rush, Nick Bosa and Arik Armstead. Season-ending injuries to both players left the defense virtually crippled last year. So long as the injury bug doesn't rear its ugly head again, the 49ers will be returning to their 2019 form this year.  
+Last year, injuries to critical players rendered this team impotent. Jimmy Garoppolo suffered a high ankle sprain early in the year that never properly healed during the season. Without a fully healthy Jimmy G, San Francisco was forced to rely on a combination of Nick Mullins and CJ Beathard to carry them through more than ten games worth of play time. Needless to say, it wasn't pretty.
+
+Things should be better going into this season, if only because the injury bug crippling the team the way it did was a rare event almost certain not to repeat again this year.  On top of that, Garoppolo now has more motivation than ever to play beyond his ceiling given he has a highly-prized prospect sitting behind him in rookie Trey Lance. If Jimmy G goes through a funk at any point during the season, Lance will likely be given time to play and assert himself as the starter. In other words, Garoppolo can't afford bad games - otherwise, he becomes the league's highest-paid backup quarterback.
+
+On defense, DeMeco Ryans should introduce some new wrinkles into a unit sporting talent at all three levels. In the only major interview he's given to the press, Ryans indicates that he wants this defense to be so much more aggressive. That would serve their stacked defensive front pretty well if they're given more rope to rush opposing quarterbacks. So long as Fred Warner remains healthy, the 49ers have enough talent in their linebackers corps to give their defensive linemen the freedom to pursue opposing passers recklessly with no mind towards gap control. On top of that, the defense will be helped tremendously by the return of the two cornerstones to their pass rush, Nick Bosa and Arik Armstead. Season-ending injuries to both players left the defense virtually crippled last year. So long as the injury bug doesn't rear its ugly head again, the 49ers will be returning to their 2019 form this year.
+
+San Francisco will probably find their way into the postseason again. But any success beyond that is really dependent on whatever identity the offense assumes under a (possibly) motivated Jimmy G and Trey Lance. Shanahan needs this offense to find its 2019 groove again. 
