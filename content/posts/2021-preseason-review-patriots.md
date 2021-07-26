@@ -9,19 +9,19 @@ headline = "2021 Preseason Review: New England Patriots"
 ***
 
 **QB**  
-_Cam Newton, Jarrett Stidham_
+_Cam Newton / Mac Jones_
 
 **KNOWN VECTORS**  
-_Cam Newton (Mobile QB), Julian Edelman (WR), James White (RB), Sony Michel/Lamar Miller (RB)_
+_Cam Newton (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Stephon Gilmore (CB), Devin McCourty (FS)_
+_Devin McCourty (FS)_
 
 **MANAGERS**  
-_Bill Belichick (GM/HC/DC), Josh McDaniels (OC)_
+_Bill Belichick (GM/HC), Josh McDaniels (OC), Matt Patricia (DC)_
 
 **VEGAS OVER/UNDER**  
-9\.5
+10
 
 **COACHING TURNOVER**  
 The offense is a bit of a strange mess. All the coaches from last year are returning except for the retired Dante Scarnecchia. It seems like most of those coaches have been reassigned to other position groups. Not sure if this is an intentional move by Belichick to cross-train his assistants. Or perhaps Bill simply reorganized his staff in order to better accommodate his new hires. Whatever the reason, we now have three new coaches in place on the offensive staff.
