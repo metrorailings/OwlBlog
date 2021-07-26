@@ -18,7 +18,7 @@ _Cam Newton (Mobile QB), Hunter Henry (TE), Jonnu Smith (TE), Nelson Agholor (WR
 _Matthew Judon (OLB),_ _Kyle Van Noy (OLB), Dont'a Hightower (ILB), Devin McCourty (FS), Stephon Gilmore (CB), J.C. Jackson (CB)_
 
 **MANAGERS**  
-_Bill Belichick (GM/HC), Josh McDaniels (OC), Matt Patricia (DC)_
+_Bill Belichick (GM/HC/DC), Josh McDaniels (OC)_
 
 **VEGAS OVER/UNDER**  
 9 to 9.5
