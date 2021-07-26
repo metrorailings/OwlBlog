@@ -23,7 +23,8 @@ _Bill Belichick (GM/HC/DC), Josh McDaniels (OC)_
 **VEGAS OVER/UNDER**  
 9 to 9.5
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+Aside from losing their quarterbacks coach to the University of Arizona, New England has retained all their position coachs and assistants from last year. The only major new addition is Matt Patricia. Even though Patricia is absolutely worthless as a head coach, the man can still serve Belichick well as a defensive assistant.
 
 ***
 
