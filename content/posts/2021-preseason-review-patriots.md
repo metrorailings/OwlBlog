@@ -12,7 +12,7 @@ headline = "2021 Preseason Review: New England Patriots"
 _Cam Newton / Mac Jones_
 
 **KNOWN VECTORS**  
-_Cam Newton (Mobile QB), Hunter Henry (TE), Nelson Agholor (WR)_
+_Cam Newton (Mobile QB), Hunter Henry (TE), Jonnu Smith (TE), Nelson Agholor (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Matthew Judon (OLB),_ _Devin McCourty (FS), Stephon Gilmore (CB)_
