@@ -25,7 +25,7 @@ _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
 **COACHING TURNOVER**  
 On offense, the 49ers promoted Mike McDaniel to coordinator once Mike LaFleur was poached by the Jets. The other major change comes with Rich Scangarello returning to the organization as quarterbacks coach. The old quarterbacks coach was let go to make room for Scangarello.
 
-On defense, DeMeco Ryans now takes up the mantle as coordinator of the unit. Aside from a few new assistants, the coaching staff on that side of the ball hasn't changed much.
+On defense, DeMeco Ryans now takes up the mantle as coordinator of the unit. Besides that and a few new assistants, the coaching staff on that side of the ball hasn't changed much.
 
 ***
 
