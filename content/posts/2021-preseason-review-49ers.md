@@ -29,7 +29,7 @@ On defense, DeMeco Ryans now takes up the mantle as coordinator of the unit. Bes
 
 ***
 
-Last year, injuries to critical players rendered this team impotent. Jimmy Garoppolo suffered a high ankle sprain early in the year that never properly healed during the season. Without a fully healthy Jimmy G, San Francisco was forced to rely on a combination of Nick Mullins and CJ Beathard to carry them through more than ten games worth of plays. Needless to say, it wasn't pretty.
+Last year, injuries to critical players rendered this team impotent. Jimmy Garoppolo suffered a high ankle sprain early in the year that never properly healed during the season. Without a fully healthy Jimmy G, San Francisco was forced to rely on a combination of Nick Mullins and CJ Beathard to carry them through most of the season. Needless to say, it wasn't pretty.
 
 Things should be better going into this season, if only because the injury bug crippling the team the way it did last year was a rare event almost certain not to repeat again this year.  On top of that, Garoppolo now has more motivation than ever to play beyond his ceiling given he has a highly-prized prospect sitting behind him in rookie Trey Lance. If Jimmy G goes through a funk at any point during the season, Lance will likely be given time to play and assert himself as the starter. In other words, Garoppolo can't afford bad games - otherwise, he becomes the league's highest-paid backup quarterback.
 
