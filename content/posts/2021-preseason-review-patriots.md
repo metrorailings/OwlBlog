@@ -28,4 +28,4 @@ Aside from losing their quarterbacks coach to the University of Arizona, New Eng
 
 ***
 
-Much like the 49ers, a nagging injury to their star quarterback left the Patriots crippled for much of last year.
+Much like the 49ers, a nagging injury to their star quarterback left the Patriots crippled most of last year.
