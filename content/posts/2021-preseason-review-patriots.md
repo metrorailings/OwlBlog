@@ -4,7 +4,7 @@ draft = true
 headline = "2021 Preseason Review: New England Patriots"
 
 +++
-## _Tier 1_
+## _Tier 2_
 
 ***
 
