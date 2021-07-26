@@ -15,7 +15,7 @@ _Cam Newton / Mac Jones_
 _Cam Newton (Mobile QB), Hunter Henry (TE), Jonnu Smith (TE), Nelson Agholor (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Matthew Judon (OLB),_ _Kyle Van Noy (OLB), Dont'a Hightower (ILB), Devin McCourty (FS), Stephon Gilmore (CB)_
+_Matthew Judon (OLB),_ _Kyle Van Noy (OLB), Dont'a Hightower (ILB), Devin McCourty (FS), Stephon Gilmore (CB), J.C. Jackson (CB)_
 
 **MANAGERS**  
 _Bill Belichick (GM/HC), Josh McDaniels (OC), Matt Patricia (DC)_
