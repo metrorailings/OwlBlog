@@ -22,8 +22,8 @@ _John Lynch (GM), Kyle Shanahan (HC/OC), DeMeco Ryans (New DC)_
 **VEGAS OVER/UNDER**  
 10\.5
 
-**COACHING TURNOVER  
-**On offense, the 49ers promoted Mike McDaniel to coordinator once Mike LaFleur was poached by the Jets. The other major change comes with Rich Scangarello returning to the organization as quarterbacks coach. The old quarterbacks coach was let go to make room for Scangarello.
+**COACHING TURNOVER**  
+On offense, the 49ers promoted Mike McDaniel to coordinator once Mike LaFleur was poached by the Jets. The other major change comes with Rich Scangarello returning to the organization as quarterbacks coach. The old quarterbacks coach was let go to make room for Scangarello.
 
 On defense, DeMeco Ryans now takes up the mantle as coordinator of the unit. Aside from a few new assistants, the coaching staff on that side of the ball hasn't changed much.
 
@@ -35,4 +35,4 @@ Things should be better going into this season, if only because the injury bug c
 
 On defense, DeMeco Ryans should introduce some new wrinkles into a unit sporting talent at all three levels. In the only major interview he's given to the press, Ryans indicated that he wants this defense to be so much more aggressive. I'm sure that's music to the ears of their defensive linemen, to be given more rope to rush opposing quarterbacks. So long as Fred Warner remains healthy, the 49ers have enough talent in their linebackers corps to give their defensive front the freedom to pursue opposing passers recklessly with no mind towards gap control. On top of that, the defense will be helped tremendously by the return of the two cornerstones to their pass rush, Nick Bosa and Arik Armstead. Season-ending injuries to both players left the unit virtually crippled last year. So long as the injury bug doesn't rear its ugly head again, the 49ers will be returning to their 2019 form soon enough.
 
-San Francisco will probably find their way into the postseason again. But any success beyond that is really dependent on whatever identity the offense assumes under a (possibly) motivated Jimmy G and Trey Lance. Shanahan needs this offense to find its 2019 groove again. 
+San Francisco will probably find their way into the postseason again. But any success beyond that is really dependent on whatever identity the offense assumes under a (possibly) motivated Jimmy G and Trey Lance. Shanahan needs this offense to find its 2019 groove again.
