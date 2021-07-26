@@ -23,10 +23,7 @@ _Bill Belichick (GM/HC), Josh McDaniels (OC), Matt Patricia (DC)_
 **VEGAS OVER/UNDER**  
 9 to 9.5
 
-**COACHING TURNOVER**  
-The offense is a bit of a strange mess. All the coaches from last year are returning except for the retired Dante Scarnecchia. It seems like most of those coaches have been reassigned to other position groups. Not sure if this is an intentional move by Belichick to cross-train his assistants. Or perhaps Bill simply reorganized his staff in order to better accommodate his new hires. Whatever the reason, we now have three new coaches in place on the offensive staff.
-
-The defense went through the same reorganization as well. All the coaches from last year have been retained, save for the defensive line coach Bret Bielema. Bielema skipped over to the Giants in order to judge former Patriot coordinator Joe Judge. Staff assistants from last year were reassigned to different positions this year, perhaps for cross-training purposes. Belichick also added another of his sons to oversee the safeties.
+**COACHING TURNOVER**
 
 ***
 
