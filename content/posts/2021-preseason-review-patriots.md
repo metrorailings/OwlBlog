@@ -15,7 +15,7 @@ _Cam Newton / Mac Jones_
 _Cam Newton (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Devin McCourty (FS)_
+_Devin McCourty (FS), Stephon Gilmore (CB)_
 
 **MANAGERS**  
 _Bill Belichick (GM/HC), Josh McDaniels (OC), Matt Patricia (DC)_
