@@ -3,7 +3,7 @@ date = 2021-07-26T12:00:00Z
 headline = "2021 Preseason Review: New England Patriots"
 
 +++
-## _Tier 2_
+## _Tier 1_
 
 ***
 
