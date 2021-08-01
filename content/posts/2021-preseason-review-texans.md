@@ -12,10 +12,10 @@ headline = "2021 Preseason Review: Houston Texans"
 _Deshaun Watson / Tyrod Taylor_
 
 **KNOWN VECTORS**  
-_Deshaun Watson (Mobile QB)_
+_Deshaun Watson (Mobile QB), Phillip Lindsay (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_J.J. Watt (DE), Bradley Roby (CB), Benardrick McKinney (LB)_
+_Bradley Roby (CB)_
 
 **MANAGERS**  
 _Bill O'Brien (GM/HC/OC), Anthony Weaver (DC)_
