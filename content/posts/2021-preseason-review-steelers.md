@@ -12,13 +12,13 @@ headline = "2021 Preseason Review: Pittsburgh Steelers"
 _Ben Roethlisberger_
 
 **KNOWN VECTORS**  
-_Juju Smith-Schuster (WR), Chase Claypool (WR)_
+_Juju Smith-Schuster (WR), Chase Claypool (WR), Najee Harris (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Cameron Heyward (DE), T.J. Watt (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
+_Cameron Heyward (DE), Stephon Tuitt (DE), T.J. Watt (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
 
 **MANAGERS**  
-Kevin Colbert (GM), Mike Tomlin (HC), Randy Fichtner (OC), Keith Butler (DC)
+_Kevin Colbert (GM), Mike Tomlin (HC), Matt Canada (New OC), Keith Butler (DC)_
 
 **VEGAS OVER/UNDER**  
 9
