@@ -15,7 +15,7 @@ _Ben Roethlisberger_
 _Juju Smith-Schuster (WR), Chase Claypool (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Cameron Heyward (DE), T.J. Watt (OLB), Bud Dupree (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
+_Cameron Heyward (DE), T.J. Watt (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
 
 **MANAGERS**  
 Kevin Colbert (GM), Mike Tomlin (HC), Randy Fichtner (OC), Keith Butler (DC)
