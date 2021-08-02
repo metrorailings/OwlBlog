@@ -29,3 +29,5 @@ Coaching consistency has been the hallmark of these Pittsburgh Steelers going ba
 ***
 
 So much talent, but it all matters little so long as they're carrying dead weight at the quarterback situation. Nobody in that quarterback room can really perform at a serviceable level, especially Roethlisberger. Last season, _Philip Rivers_ actually threw the ball deeper than Big Ben, according to Next Gen Stats. Rivers, being a man with two eyes, smartly retired after the season ended. But for reasons I'm sure no rational mind can fathom, Roethlisberger decided to give football another go this year.
+
+Perhaps Matt Canada can spice things up with some wrinkles, but it remains to be seen how much the Steeler offense can change given Ben's an old dog set in his ways.
