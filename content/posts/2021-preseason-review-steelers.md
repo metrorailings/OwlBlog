@@ -1,6 +1,5 @@
 +++
 date = 2021-08-01T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Pittsburgh Steelers"
 
 +++
@@ -32,4 +31,4 @@ So much talent, but it all matters little so long as they're carrying dead weigh
 
 Perhaps Matt Canada can spice things up with some wrinkles, but it remains to be seen how much the Steeler offense can change given Ben's an old dog set in his ways. If Canada really wants this offense to be more effective, more space should be given to exotic run formations and creative rushing plays leveraging the skill sets of their halfbacks, led by rookie first rounder Najee Harris. Even though the rushing game can only take an offense so far it would be a welcome change of pace from a passing game I expect to be flaccid. If Matt Canada really wants to go a little nuts, I'd recommend he bench Roethlisberger in favor of Mason Rudolph or Joshua Dobbs - at least those two would be willing to chuck the ball deep every now ad then.
 
-Pittsburgh is a good team. Their wins this season will likely come off the backs of their defense and their skill players. Is another postseason visit likely? I can't say. As I said, Ben Roethlisberger isn't just a poor quarterback, but an outright liability weighing this entire team by the neck. Entrusting your offense to a passer playing way past his better years is a recipe for disaster, no matter how talents the rest of the offense may be. It seems Vegas agrees as well - Roethlisberger is expected to cost his team as many games as they'll be winning. Their schedule isn't easy to stomach too, as I only see them playing three easy opponents - the rest of the schedule's packed with teams that have the potential to be above average.
+Pittsburgh is a good team. Their wins this season will likely come off the backs of their defense and their skill players. Is another postseason visit likely? I can't say. As I said, Ben Roethlisberger isn't just a poor quarterback, but an outright liability weighing this entire team by the neck. Entrusting your offense to a passer playing way past his better years is a recipe for disaster, no matter how talents the rest of the offense may be. It seems Vegas agrees as well - Roethlisberger is expected to cost his team as many games as they'll be winning. Their schedule isn't easy to stomach too, as I only see them playing three easy opponents - the rest of the schedule's packed with teams that have the potential to be above average. Don't be surprised if the Steelers miss the playoffs.
