@@ -23,7 +23,7 @@ _Kevin Colbert (GM), Mike Tomlin (HC), Matt Canada (New OC), Keith Butler (DC)_
 8\.5
 
 **COACHING TURNOVER**  
-Coaching consistency has been the hallmark of these Pittsburgh Steelers going back the last couple decades. This year is no different - outside of a few assistant coaches, Pittsburgh has kept most of their coaching staff. Last year's offensive coordinator, Randy Fichtner, was let go following a disappointing year for the Steelers offense. His quarterbacks coach was promoted to coordinator, but I'm skeptical anything will seriously change so long as Big Ben remains quarterback.  
+Coaching consistency has been the hallmark of these Pittsburgh Steelers going back the last couple decades. This year is no different - outside of a few assistant coaches, Pittsburgh has kept most of their coaching staff from last season. Offensive coordinator Randy Fichtner was let go following a disappointing year for the Steelers offense. His quarterbacks coach was promoted to coordinator, but I'm skeptical anything will seriously change so long as Big Ben remains quarterback.  
 
 ***
 
