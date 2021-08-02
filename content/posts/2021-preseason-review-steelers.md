@@ -12,7 +12,7 @@ headline = "2021 Preseason Review: Pittsburgh Steelers"
 _Ben Roethlisberger_
 
 **KNOWN VECTORS**  
-_Juju Smith-Schuster (WR), Eric Ebron (TE)_
+_Juju Smith-Schuster (WR), Chase Claypool (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Cameron Heyward (DE), T.J. Watt (OLB), Bud Dupree (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
