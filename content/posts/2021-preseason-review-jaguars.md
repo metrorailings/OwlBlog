@@ -21,12 +21,9 @@ _Josh Allen (LB), Myles Jack (LB), Joe Schobert (LB)_
 _Trent Baalke (New GM), Urban Meyer (New HC), Darrell Bevell (New OC), Joe Cullen (New DC)_
 
 **VEGAS OVER/UNDER**  
-6
+6 to 6.5
 
-**COACHING TURNOVER**  
-Obviously, the biggest change at offense comes at the coordinator position. With the sun setting on the Nick Foles era in Jacksonville, John DeFillippo has been let go in favor of Washington's former head coach Jay Gruden. Interestingly enough, the vast majority of offensive assistant coaches from last year have been held over during this transition. Only last year's quarterbacks coach Scott Milanovich managed to bail after securing a head coaching position in the Canadian Football League, so he's been replaced with Ben McAdoo, arguably the worst coach in Giants history.
-
-On defense, the only significant change came with the team replacing the junior linebackers coach.
+**COACHING TURNOVER**
 
 ***
 
