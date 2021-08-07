@@ -29,3 +29,5 @@ Aside from a few defensive assistant coaches, the entire coaching staff will be 
 ***
 
 This year will be interesting for the Jaguars. Through some good fortune, Jacksonville was able to secure the top draft pick and used that position to draft Trevor Lawrence, the most promising quarterback prospect from this year's draft. On top of that, Jacksonville signed Urban Meyer into the organization as its new head coach and standard bearer for the franchise.
+
+And that's what makes it so difficult to forecast Jacksonville's record this season - Urban Meyer is a major unknown factor here. The man has a checkered history when it comes to coaching teams in college. Even though he's won multiple championships 
