@@ -4,24 +4,24 @@ draft = true
 headline = "2021 Preseason Review: Jacksonville Jaguars"
 
 +++
-## _Tier 8_
+## _Tier 6_
 
 ***
 
 **QB**  
-_Gardner Minshew_
+_Trevor Lawrence_
 
 **KNOWN VECTORS**  
-_DJ Chark (WR)_
+_Travis Etienne (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Josh Allen (LB), Myles Jack (LB), Joe Schobert (LB)_
 
 **MANAGERS**  
-_David Caldwell (GM), Doug Marrone (HC), Jay Gruden (New OC), Todd Wash (DC)_
+_Trent Baalke (New GM), Urban Meyer (New HC), Darrell Bevell (New OC), Joe Cullen (New DC)_
 
 **VEGAS OVER/UNDER**  
-4\.5
+6
 
 **COACHING TURNOVER**  
 Obviously, the biggest change at offense comes at the coordinator position. With the sun setting on the Nick Foles era in Jacksonville, John DeFillippo has been let go in favor of Washington's former head coach Jay Gruden. Interestingly enough, the vast majority of offensive assistant coaches from last year have been held over during this transition. Only last year's quarterbacks coach Scott Milanovich managed to bail after securing a head coaching position in the Canadian Football League, so he's been replaced with Ben McAdoo, arguably the worst coach in Giants history.
