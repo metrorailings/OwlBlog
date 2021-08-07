@@ -24,7 +24,7 @@ _Trent Baalke (New GM), Urban Meyer (New HC), Darrell Bevell (New OC), Joe Culle
 6 to 6.5
 
 **COACHING TURNOVER**  
-Aside from a few defensive assistant coaches, the entire coaching staff will be beginning their tenure with the Jaguars under new head coach Urban Meyer.
+Aside from a few defensive assistant coaches, the entire coaching staff will be starting fresh with the Jaguars under new head coach Urban Meyer.
 
 ***
 
