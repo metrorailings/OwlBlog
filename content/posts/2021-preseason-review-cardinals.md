@@ -21,12 +21,12 @@ _J.J. Watt (DE), Markus Golden (OLB), Chandler Jones (OLB), Devon Kennard (OLB),
 _Steve Keim (GM), Kliff Kingsbury (HC/OC), Vance Joseph (DC)_
 
 **VEGAS OVER/UNDER**  
-7\.5
+8
 
 **COACHING TURNOVER**  
-On offense, nothing significant has changed. Almost everybody from last year's staff has been retained.
+On offense, we see a bit of reshuffling with the retirement of last year's passing game coordinator in Tom Clements - few of the offensive assistants were replaced with fresh faces.
 
-On defense, the only major change comes with the defensive line coach from last year being replaced with Brentson Buckner. Buckner's last stint in Oakland didn't end well, but I do respect his blunt acceptance of his tenure there - he openly admits to getting fired from there. None of that "it wasn't the right fit for me" bullshit.
+All defensive coaches from last year have been retained, with no new faces.
 
 ***
 
