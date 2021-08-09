@@ -3,7 +3,7 @@ date = 2021-08-08T12:00:00Z
 headline = "2021 Preseason Review: Cleveland Browns"
 
 +++
-## Tier 4
+## Tier 3
 
 ***
 
