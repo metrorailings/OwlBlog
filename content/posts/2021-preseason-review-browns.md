@@ -12,21 +12,19 @@ headline = "2021 Preseason Review: Cleveland Browns"
 _Baker Mayfield_
 
 **KNOWN VECTORS**  
-_Nick Chubb (RB), Odell Beckham (WR), Jarvis Landry (WR), David Njoku (TE), Austin Hooper (TE)_
+_Nick Chubb (RB), Kareem Hunt (RB), Odell Beckham (WR), Jarvis Landry (WR), Donovan Peoples-Jones (WR), Austin Hooper (TE)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Myles Garrett (DE), Sheldon Richardson (DT), Denzel Ward (CB)_
+_Myles Garrett (DE), Denzel Ward (CB)_
 
 **MANAGERS**  
-_Andrew Berry (New GM), Kevin Stefansky (New HC/OC), Joe Woods (New DC)_
+_Andrew Berry (GM), Kevin Stefansky (HC/OC), Joe Woods (DC)_
 
 **VEGAS OVER/UNDER**  
 8\.5
 
 **COACHING TURNOVER**  
-On offense, only the running game coordinator managed to survive the regime change. It makes sense, given Nick Chubb's fantastic season last year.
-
-On defense, all the assistants from last year have been replaced, following the arrival of Joe Woods as the team's new defensive coordinator.
+Cleveland has become the picture for coaching consistency this season. Not a single coach from last year was lost or let go. All major position coaches have retained their original role from a season ago.
 
 ***
 
