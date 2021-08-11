@@ -33,4 +33,4 @@ Yet, I can't help but think Vic Fangio's efforts to build a sustainable culture 
 
 Teddy Bridgewater can be that signal caller Denver so hungrily needs though. Drew Lock was such an albatross for this team, costing them several wins. Bridgewater is not an elite talent by any means, but he isn't out there actively losing games. So long as the rest of the team can play above replacement level, Bridgewater can actually lead this organization to a non-losing record. And it'd be a remarkable feat for a head coach so desperately looking for validation.
 
-So long as Bridgewater lives up to expectations and the team can depend on three quality pass rushers to headline their defense, Denver can be a sleeper nod for the playoffs this year. Maybe even more than that...
+So long as Bridgewater lives up to expectations, the team can depend on three quality pass rushers to headline their defense, and Mike Munchak can continue doing some good work coaching up that offensive line...Denver can be a sleeper nod for the playoffs this year. Maybe even more than that.
