@@ -32,4 +32,4 @@ As I suspected, the Broncos had a down year last season, mostly due to Drew Lock
 
 Yet, I can't help but think Vic Fangio's efforts to build a sustainable culture can only bear so much fruit. Maybe I'm overthinking this age disparity between the head coach and his roster, but generational differences are a very real thing impacting organizational unity. It's hard for members of an organization to bond with one another if they're personally incompatible. Commanding one of the youngest rosters in the league can't be easy for a man in his sixties. Then again, Fangio is genuinely helped by the fact that head coaches and players have a relationship dynamic that prevents the both of them from getting too close to one another.
 
- 
+Teddy Bridgewater can be that signal caller Denver so desperately needs though.
