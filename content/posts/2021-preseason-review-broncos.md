@@ -21,7 +21,7 @@ _Von Miller (OLB), Bradley Chubb (OLB), Malik Reed (OLB), Justin Simmons (FS), K
 _George Paton (New GM), Vic Fangio (HC/DC), Pat Shurmur (OC)_
 
 **VEGAS OVER/UNDER**  
-7\.5
+8\.5
 
 **COACHING TURNOVER**  
 Outside of losing their defensive backs coach last year to the Chargers, the Broncos are returning with their entire coaching staff intact.
