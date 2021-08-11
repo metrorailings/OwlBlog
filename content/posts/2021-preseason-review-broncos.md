@@ -3,7 +3,7 @@ date = 2021-08-10T12:00:00Z
 headline = "2021 Preseason Review: Denver Broncos"
 
 +++
-## _Tier 3_
+## _Tier 4_
 
 ***
 
