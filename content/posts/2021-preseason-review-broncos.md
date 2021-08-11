@@ -12,7 +12,7 @@ headline = "2021 Preseason Review: Denver Broncos"
 _Drew Lock_
 
 **KNOWN VECTORS**  
-_Courtland Sutton (WR), Phillip Lindsay (RB), Noah Fant (TE), Jerry Jeudy (WR)_
+_Courtland Sutton (WR), Melvin Gordon (RB), Noah Fant (TE), Jerry Jeudy (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**_  
 _Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS)_
