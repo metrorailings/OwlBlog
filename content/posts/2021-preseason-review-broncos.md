@@ -15,18 +15,16 @@ _Teddy Bridgewater_
 _Courtland Sutton (WR), Melvin Gordon (RB), Noah Fant (TE), Jerry Jeudy (WR), Tim Patrick (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**_  
-_Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS), Kyle Fuller (CB), Ronald Darby (CB)_
+_Von Miller (OLB), Bradley Chubb (OLB), Malik Reed (OLB), Justin Simmons (FS), Kyle Fuller (CB), Ronald Darby (CB), Patrick Surtain (CB)_
 
 **MANAGERS**  
-_John Elway (GM), Vic Fangio (HC/DC), Pat Shurmur (New OC)_
+_George Paton (New GM), Vic Fangio (HC/DC), Pat Shurmur (OC)_
 
 **VEGAS OVER/UNDER**  
 7\.5
 
 **COACHING TURNOVER**  
-Rich Scangarello was quickly ousted as offensive coordinator following a pretty sad showing from his offensive unit last year. Former Giants head coach Pat Shurmur has been brought in to replace him. Shurmur also brought along his former offensive coordinator in Mike Shula to take over as quarterbacks coach.
-
-The defense lost a linebackers coach to the Los Angeles Rams. In his place is John Pagano, recently fired from Houston after a disappointing season from his outside linebackers over there.
+Outside of losing their defensive backs coach last year to the Chargers, the Broncos are returning with their entire coaching staff intact.
 
 ***
 
