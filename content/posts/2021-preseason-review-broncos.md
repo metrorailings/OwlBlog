@@ -15,7 +15,7 @@ _Teddy Bridgewater_
 _Courtland Sutton (WR), Melvin Gordon (RB), Noah Fant (TE), Jerry Jeudy (WR), Tim Patrick (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**_  
-_Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS)_
+_Jurrell Casey (DE), Von Miller (OLB), Bradley Chubb (OLB), AJ Bouye (CB), Justin Simmons (FS), Kyle Fuller (CB), Ronald Darby (CB)_
 
 **MANAGERS**  
 _John Elway (GM), Vic Fangio (HC/DC), Pat Shurmur (New OC)_
