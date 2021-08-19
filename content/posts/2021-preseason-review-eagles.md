@@ -4,7 +4,7 @@ draft = true
 headline = "2021 Preseason Review: Philadelphia Eagles"
 
 +++
-## _Tier 5_
+## _Tier 6_
 
 ***
 
@@ -37,3 +37,5 @@ That can change this year. A new regime can provide that motivational force this
 Not too surprisingly though, It still remains very uncertain what this new offense will look like, especially with a sophomore quarterback making his debut as the face of the team. Jalen Hurts has some upside, but much like Lamar Jackson and Kyler Murray, his mobility may have actually limited his development as a pocket passer. It remains to be seen whether Hurts can grasp all the different concepts and schemes he'll need to learn to become a productive passer - his mobile talents will only take him so far in a league where defenders love to tee off on opposing quarterbacks. That being said, Hurts is young enough to be molded, especially from a coach that understands the game.
 
 Let's briefly talk about the defensive side of things. Philadelphia was never lacking on that side of the ball, but things will change as the entire coaching staff has been upended this year under Sirianni and new coordinator Jonathan Gannon. Gannon comes into the fold here as a coach experienced in training up defensive backs. Not much of a known commodity to be honest, and it seems his hiring may have been based predominantly on good fortune instead of merit, having known Sirianni from their years together in Indianapolis.
+
+Too many unknown factors makes any sort of prediction incredibly difficult here. It'll be fun seeing this team evolve and discover their identity,
