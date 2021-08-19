@@ -18,15 +18,15 @@ _Zach Ertz (TE), Dallas Goedert (TE), Miles Sanders (RB), Jalen Hurts (Mobile QB
 _Brandon Graham (DE), Fletcher Cox (DT), Darius Slay (CB), Jalen Mills (CB)_
 
 **MANAGERS**  
-_Howie Roseman (GM)_,  _(HC/OC),  (DC)_
+_Howie Roseman (GM)_, _Nick Sirianni_ _(New HC/OC), Jonathan Gannon (New DC)_
 
 **VEGAS OVER/UNDER**  
-9\.5
+6\.5 to 7
 
 **COACHING TURNOVER**  
-After a rather flaccid season last year, Mike Groh and his wide receivers coach was fired. While a replacement was found to train up the wide receivers, it seems Doug Pederson decided to assume coordinator duties himself, though he'll have quite a bit of help from his quarterbacks coach. Aside from those changes, the team added a few noteworthy names as assistants/consultants - Rich Scangarello and Marty Mornhinweg. My hunch tells me both men will have significant input over the playbook.
+Despite a new offensive-minded head coach, things weren't completely shaken up on the offensive coaching staff - the wide receivers coach and offensive line coaches from last year were retained. Most importantly though, the staff isn't anywhere nearly as bloated as it was last year.
 
-On defense, we see a bit of reorganization as well as a new face in Marquand Manuel. Manuel was brought in to coach the defensive backs after last year's coach left the team to go become a coordinator in Detroit. Also worth noting, an assistant from last year was promoted to replace last year's defensive line coach after the latter mutually parted ways with the team.
+On defense, we see complete turnover. Every defensive coach from last year has been replaced. And just like on offense, the staff has been sized down from last year.
 
 ***
 
