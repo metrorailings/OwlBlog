@@ -1,6 +1,5 @@
 +++
 date = 2021-08-15T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Philadelphia Eagles"
 
 +++
@@ -38,4 +37,4 @@ Not too surprisingly though, It still remains very uncertain what this new offen
 
 Let's briefly talk about the defensive side of things. Philadelphia was never lacking on that side of the ball, but things will change as the entire coaching staff has been upended this year under Sirianni and new coordinator Jonathan Gannon. Gannon comes into the fold here as a coach experienced in training up defensive backs. Not much of a known commodity to be honest, and it seems his hiring may have been based predominantly on good fortune instead of merit, having known Sirianni from their years together in Indianapolis.
 
-Too many unknown factors makes any sort of prediction incredibly difficult here. It'll be fun seeing this team evolve and discover their identity,
+Too many unknown factors makes any sort of prediction incredibly difficult here. It'll be fun seeing this team evolve and discover their identity under a new head coach and young quarterback. 
