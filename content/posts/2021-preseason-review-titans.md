@@ -23,7 +23,10 @@ _Jon Robinson (GM)_, _Mike Vrabel (HC), Todd Downing (New OC), Shane Bowen (New 
 **VEGAS OVER/UNDER**  
 9 to 9.5
 
-**COACHING TURNOVER**
+**COACHING TURNOVER**  
+With Arthur Smith leaving for Atlanta, last year's tight ends coach was promoted to take over as offensive coordinator. Besides the addition of a few new assistants, nothing else changed on offense.
+
+On defense, Shane Bowen was promoted from linebackers coach to defensive coordinator after last year's experiment with Mike Vrabel as the defensive coordinator didn't pan out. Jim Schwartz was also brought on board in what is likely a consulting role. Aside from that, not much else changed.
 
 ***
 
