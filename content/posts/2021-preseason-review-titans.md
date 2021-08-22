@@ -4,7 +4,7 @@ draft = true
 headline = "2021 Preseason Review: Tennessee Titans"
 
 +++
-## _Tier 4_
+## _Tier 3_
 
 ***
 
@@ -12,21 +12,18 @@ headline = "2021 Preseason Review: Tennessee Titans"
 _Ryan Tannehill_
 
 **KNOWN VECTORS**  
-_Derrick Henry (RB), A.J. Brown (WR)_
+_Derrick Henry (RB), A.J. Brown (WR), Ryan Tannehill (Mobile QB), Julio Jones (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Harold Landry (OLB), Vic Beasley (OLB), Jeffery Simmons (DT), Kevin Byard (FS)_
+_Bud Dupree (OLB), Harold Landry (OLB), Janoris Jenkins (CB)_
 
 **MANAGERS**  
-_Jon Robinson (GM)_, _Mike Vrabel (HC/New DC), Arthur Smith (OC)_
+_Jon Robinson (GM)_, _Mike Vrabel (HC), Todd Downing (New OC), Shane Bowen (New DC)_
 
 **VEGAS OVER/UNDER**  
-8\.5
+9 to 9.5
 
-**COACHING TURNOVER**  
-After some surprising performances from Ryan Tannehill and Derrick Henry, the entire offensive coaching staff has been retained from last year.
-
-On defense though, we do see some changes. The biggest change comes with Dean Pees retiring yet again, leaving defensive play-calling duties up in the air for the time being. Aside from that, the team lost two of their assistants last year, so new coaches have been introduced to replace them - Jim Haslett for the outside linebackers and Anthony Midget for the secondary.
+**COACHING TURNOVER**
 
 ***
 
