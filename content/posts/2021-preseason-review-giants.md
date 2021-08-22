@@ -1,6 +1,5 @@
 +++
 date = 2021-08-21T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: New York Giants"
 
 +++
@@ -36,4 +35,6 @@ That being said, it was still another lost season ultimately. New York posted a 
 
 Focusing back on Daniel Jones for a minute, this is his make-or-break year. Jones was drafted by the Giants likely because of his physical similarities to Eli. I'll be honest, I want this boy to succeed simple because of that alone. But he needs to stop with the turnovers. All those fumbles and careless decisions leading to interceptions are really killing any mojo the franchise is trying to whip up on offense. Even though Eli was all too prone to throwing interceptions, he kept the ball secure whenever he was sacked. If Jones can't even do that, it may be time to concede his tenure with the organization as a failed venture.
 
-Defensively, Patrick Graham has done some fantastic work training a unit far greater than the sum of its parts. New York's defense was so good that it was able to compensate for the pathetic offense. In fact, the defense won a few games singlehandedly last year, the most notably being the victory against the Seahawks. That being said, I am concerned about the team still not having a viable pass rush. Leonard Williams is a force on his own, but nobody else on this team can compliment him. The Giants signed Ifeadi Odenigbo in the offseason, but Odenigbo has yet to prove himself. His numbers in his past stint in Minnesota have been pedestrian. 
+Defensively, Patrick Graham has done some fantastic work training a unit far greater than the sum of its parts. New York's defense was so good that it was able to compensate for the pathetic offense. In fact, the defense won a few games singlehandedly last year, the most notable victory coming against the Seahawks. That being said, I am concerned about the team still not having a viable pass rush outside Leonard Williams. Williams is a beast in his own right, but nobody else on this team can compliment him. The Giants signed Ifeadi Odenigbo in the offseason, but Odenigbo has yet to prove himself - his numbers in his past stint in Minnesota have been pedestrian. Here's hoping somebody else comes along this season to give New York the one-two punch needed for a legitimate pass rush.
+
+Overall, the Giants success this season hinges on three things happening - Daniel Jones stepping up, Jason Garrett actually adding some color to his playbook, and the offensive line finally showing some mettle. If all three of those things are actualized, expect Big Blue to be a surprise contender in the playoffs. 
