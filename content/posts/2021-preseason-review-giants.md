@@ -11,7 +11,7 @@ headline = "2021 Preseason Review: New York Giants"
 _Daniel Jones_
 
 **KNOWN VECTORS**  
-_Saquon Barkley (RB), Sterling Shepard (WR), Kenny Golladay (WR), Daniel Jones (Mobile QB), Darius Slayton (WR)_
+_Saquon Barkley (RB), Sterling Shepard (WR), Kenny Golladay (WR), Daniel Jones (Mobile QB), Darius Slayton (WR), Evan Engram (TE)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Leonard Williams (DE), Blake Martinez (ILB), James Bradberry (CB), Jabrill Peppers (SS)_
