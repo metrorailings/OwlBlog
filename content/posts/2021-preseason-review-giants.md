@@ -30,4 +30,4 @@ On defense, no substantial changes were made.
 
 ***
 
-The Giants fared much better last year than I originally predicted. Joe Judge and 
+The Giants fared much better last year than I originally predicted. Joe Judge and Patrick Graham impressed me, posting all those wins despite Daniel Jones, Evan Engram, and Colt McCoy doing their best to snatch defeat from the jaws of victory. 
