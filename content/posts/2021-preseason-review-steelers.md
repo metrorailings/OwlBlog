@@ -14,7 +14,7 @@ _Ben Roethlisberger_
 _Juju Smith-Schuster (WR), Chase Claypool (WR), Najee Harris (RB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Cameron Heyward (DE), Stephon Tuitt (DE), T.J. Watt (OLB), Devin Bush (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
+_Cameron Heyward (DE), Stephon Tuitt (DE), T.J. Watt (OLB), Devin Bush (ILB), Joe Schobert (ILB), Minkah Fitzpatrick (FS), Joe Haden (CB)_
 
 **MANAGERS**  
 _Kevin Colbert (GM), Mike Tomlin (HC), Matt Canada (New OC), Keith Butler (DC)_
@@ -23,7 +23,7 @@ _Kevin Colbert (GM), Mike Tomlin (HC), Matt Canada (New OC), Keith Butler (DC)_
 8\.5
 
 **COACHING TURNOVER**  
-Coaching consistency has been the hallmark of these Pittsburgh Steelers going back the last couple decades. This year is no different - outside of a few assistant coaches, Pittsburgh has kept most of their coaching staff from last season. Offensive coordinator Randy Fichtner was let go following a disappointing year for the Steelers offense. His quarterbacks coach was promoted to coordinator, but I'm skeptical anything will seriously change so long as Big Ben remains quarterback.  
+Coaching consistency has been the hallmark of these Pittsburgh Steelers going back the last couple decades. This year is no different - outside of a few assistant coaches, Pittsburgh has kept most of their coaching staff from last season. Offensive coordinator Randy Fichtner was let go following a disappointing year for the Steelers offense. His quarterbacks coach was promoted to coordinator, but I'm skeptical anything will seriously change so long as Big Ben remains quarterback.
 
 ***
 
