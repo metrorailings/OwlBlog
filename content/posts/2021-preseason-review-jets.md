@@ -27,3 +27,7 @@ _Joe Douglas (GM), Robert Saleh (New HC), Mike LaFleur (New OC), Jeff Ulbrich (N
 A new regime brings a whole new set of coaches. Not a single position coach survived the transition from the Gase era to the new Saleh era.
 
 ***
+
+Finally, Adam Gase has been ousted after a depressingly wretched season where the Jets finished with the worst record in the league. Not quite the easiest achievement out there, but Gase can now count himself as one of the few who can boast that accomplishment.
+
+Robert Saleh brings with him a new energy, a fervor for physical football. It's an infectious attitude so critically needed in a locker room that's been listless the past few years. Don't get me wrong though - that spirit won't be enough to compensate for a roster missing true talent in several areas. But that fighting spirit is needed if Saleh is to lay the foundation for a culture priding itself on winning football games.
