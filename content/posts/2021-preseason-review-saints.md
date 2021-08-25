@@ -11,7 +11,7 @@ headline = "2021 Preseason Review: New Orleans Saints"
 _Jameis Winston / Taysom Hill_
 
 **KNOWN VECTORS**  
-_Alvin Kamara (RB), Taysom Hill (Mobile QB)_
+_Alvin Kamara (RB), Taysom Hill (Mobile QB), Deonte Harris (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Cameron Jordan (DE), David Onyamata (DT), Demario Davis (MLB), Malcolm Jenkins (SS), Marcus Williams (FS), Marshon Lattimore (CB)_
@@ -39,4 +39,4 @@ Add on top of that the fiasco concerning Michael Thomas. For reasons not entirel
 
 On defense, things shouldn't change much. Losing Trey Hendrickson to free agency hurts, but if Onyemata can continue his playing well, the Saints have a one-two punch at pass rush. It doesn't help that he's been suspended for six games, but New Orleans can survive without him. If anything, that might serve them well, as the man should be in better health going into the postseason...assuming they qualify for the postseason in the first place.
 
-And that's the thing - I can't make any bold assertions about this team given the uncertainties around its offense. Sean Payton has been heralded as an offensive genius, and it'll take every bit of that genius to keep that unit productive through the season. If Payton can pull off a bit of his magic here, expect a postseason nod and possibly so much more.  
+And that's the thing - I can't make any bold assertions about this team given the uncertainties around its offense. Sean Payton has been heralded as an offensive genius, and it'll take every bit of that genius to keep that unit productive through the season. If Payton can pull off a bit of his magic here, expect a postseason nod and possibly so much more.
