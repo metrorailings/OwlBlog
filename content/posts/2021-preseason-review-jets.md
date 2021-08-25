@@ -30,4 +30,6 @@ A new regime brings a whole new set of coaches. Not a single position coach surv
 
 Finally, Adam Gase has been ousted after a depressingly wretched season where the Jets finished with the worst record in the league. Not quite the easiest achievement out there, but Gase can now count himself as one of the few who can boast that accomplishment.
 
-Robert Saleh brings with him a new energy, a fervor for physical football. It's an infectious attitude so critically needed in a locker room that's been listless the past few years. Don't get me wrong though - that spirit won't be enough to compensate for a roster missing true talent in several areas. But that fighting spirit is needed if Saleh is to lay the foundation for a culture priding itself on winning football games.
+Robert Saleh brings with him a new energy, a fervor for physical football. It's an infectious attitude needed in a locker room that's been listless the past few years. Don't get me wrong though...the roster's riddled with holes all over the place - no force of personality is ever enough to overcome that problem. But that fighting spirit is needed if Saleh is to lay the foundation for a culture priding itself on winning football games.
+
+Combine a franchise rebuilding its roster with a whole new set of coaches learning their respective positions for the first time and you have a team trapped in a turbulent adolescent phase.
