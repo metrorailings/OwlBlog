@@ -15,7 +15,7 @@ _Zach Wilson_
 _Corey Davis (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Carl Lawson (DE), Quinnen Williams (DT), Marcus Maye (FS)_
+_Carl Lawson (DE), Quinnen Williams (DT), C.J. Mosley (LB), Marcus Maye (FS)_
 
 **MANAGERS**  
 _Joe Douglas (GM), Robert Saleh (New HC), Mike LaFleur (New OC), Jeff Ulbrich (New DC)_
