@@ -1,6 +1,5 @@
 +++
 date = 2021-08-25T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: New York Jets"
 
 +++
@@ -32,4 +31,4 @@ Finally, Adam Gase has been ousted after a depressingly wretched season where th
 
 Robert Saleh brings with him a new energy, a fervor for physical football. It's an infectious attitude needed in a locker room that's been listless the past few years. Don't get me wrong though...the roster's riddled with holes all over the place - no force of personality is ever enough to overcome that problem. But that fighting spirit is needed if Saleh is to lay the foundation for a culture priding itself on winning football games.
 
-Combine a franchise rebuilding its roster with a whole new set of coaches learning their respective positions for the first time and you have a team trapped in a turbulent adolescent phase.
+Combine a franchise rebuilding its roster with a whole new set of coaches learning their respective positions for the first time and you have a team trapped in a turbulent adolescent phase. A few games might be won here and there, but expect these Jets to be a team that constantly finds itself in an underdog role week after week after week.
