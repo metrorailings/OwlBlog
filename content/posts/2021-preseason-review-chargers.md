@@ -1,6 +1,5 @@
 +++
 date = 2021-08-31T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Los Angeles Chargers"
 
 +++
@@ -35,3 +34,5 @@ Those defensive credentials will be put to the test though considering the defen
 The hiring of Joe Lombardi as the new offensive coordinator strikes me as interesting. His past stint as an offensive coordinator ended in ignominious fashion via midseason firing. Maybe things will be different this time around, but Lombardi's built his reputation as the quarterbacks coach of Drew Brees. Is this another Adam Gase situation where a coach finds himself swept into a management role after riding the coattails of a generational quarterback? Maybe. I can't definitively say until I see the man at work. That being said, he can consider himself pretty lucky to be working with another phenomenal quarterback in Justin Herbert. Herbert can mosey along just fine without much of a strategy. Still...it'd be better for the young man to have a talented offensive mind mentoring him. Whether Lombardi is that person capable of mentoring him will be determined this year.
 
 Losing tight end Hunter Henry hurts. Jared Cook is a stopgap solution to try and replace him, bought on the cheap after a down year with New Orleans. It seems like Cook lost a step, but then again, Brees was out there playing pretty flaccidly, so I'm not sure if Cook can be fully blamed for his lack of production.
+
+All things said, Los Angeles has a high ceiling this year. It's a team with real promise. Brandon Staley may be the right man for this organization, especially if Herbert finally rounds into form as a truly elite quarterback. A playoff invite is virtually guaranteed. How long they survive in the postseason is hard to say, but expect some fun moments for this franchise this year and going forward.
