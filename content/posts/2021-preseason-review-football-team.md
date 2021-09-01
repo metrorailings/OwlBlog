@@ -9,9 +9,10 @@ headline = "2021 Preseason Review: Washington Football Team"
 ***
 
 **QB**  
-_Ryan Fitzpatrick_
+_Ryan Fitzpatrick / Taylor Heinecke_
 
-**KNOWN VECTORS**
+**KNOWN VECTORS  
+**_Terry McLaurin (WR),_ 
 
 **NOTABLE DEFENSIVE PLAYERS**
 
