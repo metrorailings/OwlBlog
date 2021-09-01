@@ -15,7 +15,8 @@ _Ryan Fitzpatrick_
 
 **NOTABLE DEFENSIVE PLAYERS**
 
-**MANAGERS**
+**MANAGERS  
+**_Martin Mayhew (New GM), Ron Rivera (HC), Scott Turner (OC), Jack Del Rio (DC)_
 
 **VEGAS OVER/UNDER**
 
