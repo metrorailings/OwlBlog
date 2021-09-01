@@ -10,8 +10,8 @@ headline = "2021 Preseason Review: Washington Football Team"
 **QB**  
 _Ryan Fitzpatrick / Taylor Heinecke_
 
-**KNOWN VECTORS  
-**_Terry McLaurin (WR), Cam Sims (WR), Curtis Samuel (WR)_
+**KNOWN VECTORS**  
+_Terry McLaurin (WR), Cam Sims (WR), Curtis Samuel (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Chase Young (DE), Montez Sweat (DE), Jonathan Allen (DT), Ronald Darby (CB), William Jackson (CB)_
