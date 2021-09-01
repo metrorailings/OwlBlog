@@ -27,3 +27,5 @@ _Ryan Fitzpatrick / Taylor Heinecke_
 On offense, we see no major turnover aside from assistants. On defense, the entire coaching staff from last year has been retained.
 
 ***
+
+Washington may have won the division last year with a losing record, but it's not as if the team was undeserving. Winning seven games despite being weighed down by Dwayne Haskins and Alex Smith was no easy feat, but Ron Rivera and his personnel pulled it off. Chase Young, Montez Sweat, and Jonathan Allen were all key components of a defensive line that won so many of its battles in its trenches. So much of their defensive success was built off the backs of those three men.
