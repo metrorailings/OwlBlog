@@ -18,7 +18,8 @@ _Ryan Fitzpatrick_
 **MANAGERS  
 **_Martin Mayhew (New GM), Ron Rivera (HC), Scott Turner (OC), Jack Del Rio (DC)_
 
-**VEGAS OVER/UNDER**
+**VEGAS OVER/UNDER  
+**8.5
 
 **COACHING TURNOVER**
 
