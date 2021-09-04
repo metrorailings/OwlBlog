@@ -9,10 +9,10 @@ headline = "2021 Preseason Review: Buffalo Bills"
 ***
 
 **QB**  
-_Ryan Fitzpatrick / Taylor Heinecke_
+_Josh Allen_
 
 **KNOWN VECTORS**  
-_Terry McLaurin (WR), Cam Sims (WR), Curtis Samuel (WR)_
+_Stefon Diggs (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Chase Young (DE), Montez Sweat (DE), Jonathan Allen (DT), Ronald Darby (CB), William Jackson (CB)_
@@ -21,7 +21,7 @@ _Chase Young (DE), Montez Sweat (DE), Jonathan Allen (DT), Ronald Darby (CB), Wi
 _Martin Mayhew (New GM), Ron Rivera (HC), Scott Turner (OC), Jack Del Rio (DC)_
 
 **VEGAS OVER/UNDER**  
-8\.5
+11
 
 **COACHING TURNOVER**  
 On offense, we see no major turnover aside from assistants. On defense, the entire coaching staff from last year has been retained.
