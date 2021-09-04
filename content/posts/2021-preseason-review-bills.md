@@ -15,8 +15,9 @@ _Josh Allen_
 _Stefon Diggs (WR), Cole Beasley (WR), Emmanuel Sanders (WR), Josh Allen (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Chase Young (DE), Montez Sweat (DE), Jonathan Allen (DT), Ronald Darby (CB), William Jackson (CB)_
+_Matt Milano (MLB), Tre'Davious White (CB)_
 
+  
 **MANAGERS**  
 _Brandon Beane (GM), Sean McDermott (HC/DC), Brian Daboll (OC)_
 
