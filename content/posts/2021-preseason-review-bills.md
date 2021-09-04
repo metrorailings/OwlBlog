@@ -12,18 +12,18 @@ headline = "2021 Preseason Review: Buffalo Bills"
 _Josh Allen_
 
 **KNOWN VECTORS**  
-_Stefon Diggs (WR)_
+_Stefon Diggs (WR), Cole Beasley (WR), Emmanuel Sanders (WR), Josh Allen (Mobile QB)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
 _Chase Young (DE), Montez Sweat (DE), Jonathan Allen (DT), Ronald Darby (CB), William Jackson (CB)_
 
 **MANAGERS**  
-_Martin Mayhew (New GM), Ron Rivera (HC), Scott Turner (OC), Jack Del Rio (DC)_
+_Brandon Beane (GM), Sean McDermott (HC/DC), Brian Daboll (OC)_
 
 **VEGAS OVER/UNDER**  
 11
 
 **COACHING TURNOVER**  
-On offense, we see no major turnover aside from assistants. On defense, the entire coaching staff from last year has been retained.
+No turnover whatsoever. Pretty remarkable considering Brian Daboll coached an incredibly offense despite very few people expecting much output from that unit before the season started.
 
 ***
