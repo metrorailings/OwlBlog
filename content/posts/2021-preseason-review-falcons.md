@@ -12,13 +12,13 @@ headline = "2021 Preseason Review: Atlanta Falcons"
 _Matt Ryan_
 
 **KNOWN VECTORS**  
-_Calvin Ridley (WR), Hayden Hurst (TE), Kyle Pitts (TE)_
+_Calvin Ridley (WR), Kyle Pitts (TE)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Grady Jarrett (DT), Dante Fowler Jr (DE), De'Vondre Campbell (LB), Deion Jones (LB), A.J. Terrell (CB)_
+_Grady Jarrett (DT), Deion Jones (LB)_
 
 **MANAGERS**  
-_Thomas Dimitroff (GM), Dan Quinn (HC/DC), Dirk Koetter (OC)_
+_Terry Fontenot (New GM), Arthur Smith (New HC/New OC), Dean Pees (New DC)_
 
 **VEGAS OVER/UNDER**  
 7\.5
