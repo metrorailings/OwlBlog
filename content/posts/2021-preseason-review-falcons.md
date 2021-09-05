@@ -18,7 +18,7 @@ _Calvin Ridley (WR), Kyle Pitts (TE)_
 _Grady Jarrett (DT), Deion Jones (LB)_
 
 **MANAGERS**  
-_Terry Fontenot (New GM), Arthur Smith (New HC/New OC), Dean Pees (New DC)_
+_Terry Fontenot (New GM), Arthur Smith (New HC), Dave Ragone (New OC), Dean Pees (New DC)_
 
 **VEGAS OVER/UNDER**  
 7\.5
