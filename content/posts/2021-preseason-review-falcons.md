@@ -24,9 +24,7 @@ _Terry Fontenot (New GM), Arthur Smith (New HC), Dave Ragone (New OC), Dean Pees
 7\.5
 
 **COACHING TURNOVER**  
-On offense, the only major change was a new tight ends coach coming into the organization after Mike Mularkey retired.
-
-On defense, just about the whole staff has been shaken up from last year. Some assistants have been retained, but reassigned into different (usually more specific) roles. Other assistants have been replaced by new faces or junior assistants from last year. Clearly, Dan Quinn was convinced another set of changes were due this offseason. One more thing worth noting is that Bob Sutton was brought on as an advisor.
+Outside of wide receivers coach Dave Brock, nobody survived the coaching transition from last year. Arthur Smith's coaching staff will be spending their first year together acclimating themselves to the organization.
 
 ***
 
