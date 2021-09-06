@@ -12,10 +12,10 @@ headline = "2021 Preseason Review: Green Bay Packers"
 _Aaron Rodgers_
 
 **KNOWN VECTORS**  
-_Davante Adams (WR), Aaron Jones (RB)_
+_Davante Adams (WR), Aaron Jones (RB), Randall Cobb (WR)_
 
 **NOTABLE DEFENSIVE PLAYERS**  
-_Za'Darius Smith (OLB), Preston Smith (OLB), Kenny Clark (NT), Jaire Alexander (CB)_
+_Za'Darius Smith (OLB), Preston Smith (OLB), Rashan Gary (OLB), Jaire Alexander (CB)_
 
 **MANAGERS**  
 _Brian Gutekunst (GM), Matt LaFleur (HC/OC), Joe Barry (New DC),_ 
