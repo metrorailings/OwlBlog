@@ -3,7 +3,7 @@ date = 2021-09-06T12:00:00Z
 headline = "2021 Preseason Review: Green Bay Packers"
 
 +++
-## _Tier 4_
+## _Tier 3_
 
 ***
 
