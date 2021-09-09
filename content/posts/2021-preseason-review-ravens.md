@@ -32,4 +32,4 @@ On defense, we see some surprising turnover. A little shocking at first look, co
 
 ***
 
-Baltimore's a strange team. It's a franchise loaded with so much talent and capable coaches. But their situation at quarterback isn't anywhere as rosy as some of the team's fans may believe.
+Baltimore's a strange team. It's a franchise harboring some serious talent along every part of its roster. The head coach and defensive coordinator seem to know what they're doing. The offensive coordinator managed to transform their starting quarterback into an MVP-caliber talent. But their situation at quarterback isn't anywhere as rosy as some of the team's fans may believe.
