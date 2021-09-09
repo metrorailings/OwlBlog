@@ -31,3 +31,5 @@ On offense, the team was compelled to find a new wide receivers coach after losi
 On defense, we see some surprising turnover. A little shocking at first look, considering quality defenses tend not to entertain much turnover the next year. But the reality is that Baltimore's defensive assistants were poached by other organizations in the professional and collegiate realms. The Ravens needed to hire replacements to fill those vacancies. Anthony Weaver is now brought into the fold as the lead coach training up the defensive line. Martindale's old friend (and disheveled firebrand) Rob Ryan is now inside the organization as the man overseeing the inside linebacker unit. Lastly, the secondary will now be managed by a new face in D'Anton Lynn.
 
 ***
+
+Baltimore's a strange team. It's a franchise loaded with so much talent and capable coaches. But their situation at quarterback isn't anywhere as rosy as some of the team's fans may believe.
