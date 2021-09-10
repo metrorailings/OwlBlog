@@ -13,3 +13,5 @@ Amari Cooper a weapon.
 Gronk is a weapon.
 
 DeMarcus Lawrence with a game-changing forced fumble.
+
+Both Brady and Prescott looking good, making some throws under pressure.
