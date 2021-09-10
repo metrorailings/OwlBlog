@@ -15,3 +15,7 @@ Gronk is a weapon.
 DeMarcus Lawrence with a game-changing forced fumble.
 
 Both Brady and Prescott looking good, making some throws under pressure.
+
+Dan Quinn experimenting - cover zero blitz, two man pass rushes, etc.
+
+CeeDee Lamb is a weapon.
