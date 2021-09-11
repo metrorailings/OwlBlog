@@ -1,6 +1,5 @@
 +++
 date = 2021-09-09T12:00:00Z
-draft = true
 headline = "2021 Preseason Review: Baltimore Ravens"
 
 +++
@@ -38,4 +37,4 @@ So much of that failure has to be borne on the shoulders of Lamar Jackson as wel
 
 On top of that, the team's missing quite a few key players from last year, either through injury, offseason transactions, or free agency. The vacancies on defense may hurt all the more given the new position coaches on that side of the ball. The defensive line coach especially has his work cut out for him, what with the team losing its only marquis pass rusher in Matthew Judon to New England. Pernell McPhee can still play well, but his production has been in free fall since his glory days in Chicago. Somebody else needs to step up to make this defense truly viable in the postseason.
 
-That is, if Baltimore can even wriggle their way into the playoffs. On top of all the deficits discussed above, their division is stacked with some top-tier competition. It won't be easy for these Ravens to score enough victories to earn the division crown, let alone a wild-card nod. I'm actually thinking Baltimore is one of the AFC teams missing the playoffs this year.
+That is, if Baltimore can even wriggle their way into the playoffs. On top of all the deficits discussed above, their division is stacked with some top-tier competition. It won't be easy for these Ravens to score enough victories to earn the division crown, let alone a wild-card nod. I'm actually thinking Baltimore is one of the AFC teams missing the playoffs this year. If that happens, Greg Roman is officially a dead man.
