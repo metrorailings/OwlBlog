@@ -3,7 +3,7 @@ date = 2021-09-09T12:00:00Z
 headline = "2021 Preseason Review: Baltimore Ravens"
 
 +++
-## _Tier 4_
+## _Tier 6_
 
 ***
 
