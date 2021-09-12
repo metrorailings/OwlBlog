@@ -68,6 +68,12 @@ Kadarius Toby being thrown in motion in all sorts of ways here by the Giants.
 
 Giants are having trouble running the ball, but pass protection is looking better. It helps to have Barkley out there chipping the edge rushers. Giants were able to cash in on one drive with a deep pass to Sterling Shepard after the offensive line was able to hold up long enough against Denver's venerable pass rush.
 
+Excellent call by Pat Shurmur on a third down, calling on Jerry Jeudy to run a dagger route against a zero-day blitz.
+
+Teddy Bridgewater has been nearly perfect against this Giants defense. It's worrisome. This Giants pass coverage is just pathetic. Teddy is way too cool throwing the ball all over the field. Maybe the poor pass coverage is a consequence of not practicing enough in the summer?
+
 ***
 
 #### Browns @ Chiefs
+
+The Chiefs defense has been absolutely gutless against Cleveland's creativity.  
