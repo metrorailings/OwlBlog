@@ -19,3 +19,13 @@ Both Brady and Prescott looking good, making some throws under pressure. Dak in 
 Dan Quinn experimenting with different concepts - cover zero blitz, two man pass rushes, etc. I wonder if he's finally evolved past a relentless focus on the cover-three defense.
 
 CeeDee Lamb is a weapon.
+
+***
+
+#### Jets @ Panthers
+
+New York expectedly making mistakes in its first drive.
+
+***
+
+#### Eagles @ Falcons
