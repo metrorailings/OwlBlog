@@ -81,3 +81,5 @@ The Chiefs defense has been absolutely gutless against Cleveland's creativity.
 Kansas' offensive line isn't ready for gametime.
 
 Cleveland literally running at will. Backed up at the 2-yard line, it was obvious Cleveland was going to run the ball. Kansas still gave up 5 precious yards.
+
+Cleveland's last drive of the first half stalled when Baker was asked to thow the ball four times consecutively. The Browns should have peppered in more exotic plays instead of calling on Mayfield to drop back and pass the ball.
