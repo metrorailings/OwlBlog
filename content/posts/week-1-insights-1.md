@@ -26,8 +26,18 @@ CeeDee Lamb is a weapon.
 
 New York expectedly making mistakes in its first drive.
 
+Zach Wilson can run. And honestly, he's not afraid to throw deep.
+
+Brian Burns and Carolina's defensive line is making mincemeat out of the offensive line.
+
 ***
 
 #### Eagles @ Falcons
 
 Falcons seem more inclined towards zone coverage.
+
+Jalen Hurts rushing ability and a rub route from Devonta Smith were critical towards a touchdown.
+
+Creative play design from Arthur Smith to convert a fourth down with one yard to go. Setting up play-action from a heavy formation and passing the ball to a tight end sliding off a block. 
+
+Nick Sirianni looking intense on the sidelines.
