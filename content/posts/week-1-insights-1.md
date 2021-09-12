@@ -50,4 +50,8 @@ Nick Sirianni looking intense on the sidelines.
 
 Derek Barnett is a real gamer.
 
-Finally, the Falcons seem to have gained a beat on this Eagles offense, playing tight against the line of scrimmage. I love that Pees isn't afraid to fire off a blitz on long downs.
+For one drive, the Falcons seem to have gained a beat on this Eagles offense, playing tight against the line of scrimmage. I love that Pees isn't afraid to fire off a blitz on long downs.
+
+The Eagles are running the ball fairly effectively, especially in the hurry-up. This read-option threat with Hurts at quarterback is frustrating Atlanta.
+
+On top of their run game, add in the screen game with Miles Sanders. Worth seeing if Dean Pees and his third down defense can be gutted with screen passes - on one third down, Pees completely vacated the flat, sending everybody in the box up against the blitz. It wasn't hard for an offensive line as talented as Philly's to guide Miles Sanders towards a first down.
