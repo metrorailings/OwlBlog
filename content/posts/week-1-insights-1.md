@@ -87,3 +87,5 @@ Cleveland literally running at will. Backed up at the 2-yard line, it was obviou
 Cleveland's last drive of the first half stalled when Baker was asked to thow the ball four times consecutively. The Browns should have peppered in more exotic plays instead of calling on Mayfield to drop back and pass the ball.
 
 Just like that, the Chiefs mount a comeback in the fourth quarter, ignited by a 75-yard bomb to Tyreek Hill. Never count the Chiefs out at Arrowhead!
+
+Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this game. It took a heroic comeback in the fourth quarter to nail a win against a team you've previously dominated. Not good.
