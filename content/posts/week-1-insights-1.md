@@ -36,6 +36,8 @@ I can't reiterate enough - Darnold is looking mad sloppy. Just inaccurate with h
 
 Beautiful play by Joe Brady, running a quarterback draw with Darnold from a 5-wide formation.
 
+Punting from the Jets 33 in the first quarter. What a cowardly punt. It's clear Rhule wants to do everything in his power to make sure the Jets get no momentum, but punting from deep within opponent territory? Come on...
+
 ***
 
 #### Eagles @ Falcons
