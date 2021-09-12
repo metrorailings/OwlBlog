@@ -85,3 +85,5 @@ Kansas' offensive line isn't ready for gametime. It's honestly going to take tim
 Cleveland literally running at will. Backed up at the 2-yard line, it was obvious Cleveland was going to run the ball. Kansas still gave up 5 precious yards.
 
 Cleveland's last drive of the first half stalled when Baker was asked to thow the ball four times consecutively. The Browns should have peppered in more exotic plays instead of calling on Mayfield to drop back and pass the ball.
+
+Just like that, the Chiefs mount a comeback in the fourth quarter, ignited by a 75-yard bomb to Tyreek Hill. Never count the Chiefs out at Arrowhead!
