@@ -72,6 +72,8 @@ Excellent call by Pat Shurmur on a third down, calling on Jerry Jeudy to run a d
 
 Teddy Bridgewater has been nearly perfect against this Giants defense. It's worrisome. This Giants pass coverage is just pathetic. Teddy is way too cool throwing the ball all over the field. Maybe the poor pass coverage is a consequence of not practicing enough in the summer?
 
+This Giants pass rush is just....non-existant. Especially as their defense becomes more and more exhausted.
+
 ***
 
 #### Browns @ Chiefs
