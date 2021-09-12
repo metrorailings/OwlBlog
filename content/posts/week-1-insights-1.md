@@ -77,3 +77,7 @@ Teddy Bridgewater has been nearly perfect against this Giants defense. It's worr
 #### Browns @ Chiefs
 
 The Chiefs defense has been absolutely gutless against Cleveland's creativity.  
+
+Kansas' offensive line isn't ready for gametime.
+
+Cleveland literally running at will. Backed up at the 2-yard line, it was obvious Cleveland was going to run the ball. Kansas still gave up 5 precious yards.
