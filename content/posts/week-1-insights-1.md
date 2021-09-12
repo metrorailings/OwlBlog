@@ -30,6 +30,8 @@ Zach Wilson can run. And honestly, he's not afraid to throw deep.
 
 Brian Burns and Carolina's defensive line is making mincemeat out of the offensive line.
 
+Darnold is sloppy. I'd say Wilson is so far outperforming him. Shame.
+
 ***
 
 #### Eagles @ Falcons
@@ -41,3 +43,5 @@ Jalen Hurts rushing ability and a rub route from Devonta Smith were critical tow
 Creative play design from Arthur Smith to convert a fourth down with one yard to go. Setting up play-action from a heavy formation and passing the ball to a tight end sliding off a block. 
 
 Nick Sirianni looking intense on the sidelines.
+
+Derek Barnett is a real gamer.
