@@ -29,3 +29,5 @@ New York expectedly making mistakes in its first drive.
 ***
 
 #### Eagles @ Falcons
+
+Falcons seem more inclined towards zone coverage.
