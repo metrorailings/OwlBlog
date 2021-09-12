@@ -67,3 +67,7 @@ On top of their run game, add in the screen game with Miles Sanders. Worth seein
 Kadarius Toby being thrown in motion in all sorts of ways here by the Giants.
 
 Giants are having trouble running the ball, but pass protection is looking better. It helps to have Barkley out there chipping the edge rushers. Giants were able to cash in on one drive with a deep pass to Sterling Shepard after the offensive line was able to hold up long enough against Denver's venerable pass rush.
+
+***
+
+#### Browns @ Chiefs
