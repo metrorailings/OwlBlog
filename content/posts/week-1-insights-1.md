@@ -38,6 +38,8 @@ Beautiful play by Joe Brady, running a quarterback draw with Darnold from a 5-wi
 
 Punting from the Jets 33 in the first quarter. What a cowardly punt. It's clear Rhule wants to do everything in his power to make sure the Jets get no momentum, but punting from deep within opponent territory? Come on...
 
+It seems Rhule was all too comfortable playing this game conservatively. Insisting on running the ball with McCaffrey into heavily-manned boxes, punting from the opponent 33-yard line, etc. Carolina nailed six sacks on first-time quarterback Zach Wilson and still only came away with a one-score margin win here.
+
 ***
 
 #### Eagles @ Falcons
@@ -57,3 +59,5 @@ For one drive, the Falcons seem to have gained a beat on this Eagles offense, pl
 The Eagles are running the ball fairly effectively, especially in the hurry-up. This read-option threat with Hurts at quarterback is frustrating Atlanta.
 
 On top of their run game, add in the screen game with Miles Sanders. Worth seeing if Dean Pees and his third down defense can be gutted with screen passes - on one third down, Pees completely vacated the flat, sending everybody in the box up against the blitz. It wasn't hard for an offensive line as talented as Philly's to guide Miles Sanders towards a first down.
+
+***
