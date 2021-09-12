@@ -80,7 +80,7 @@ This Giants pass rush is just....non-existant. Especially as their defense becom
 
 The Chiefs defense has been absolutely gutless against Cleveland's creativity.  
 
-Kansas' offensive line isn't ready for gametime.
+Kansas' offensive line isn't ready for gametime. It's honestly going to take time for these players to find their groove. Until then, Patrick Mahomes will have to work harder than ever to keep the unit productive as the line in front of him cuts its teeth. 
 
 Cleveland literally running at will. Backed up at the 2-yard line, it was obvious Cleveland was going to run the ball. Kansas still gave up 5 precious yards.
 
