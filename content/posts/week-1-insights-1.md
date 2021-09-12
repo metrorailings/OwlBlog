@@ -32,6 +32,8 @@ Brian Burns and Carolina's defensive line is making mincemeat out of the offensi
 
 Darnold is sloppy. I'd say Wilson is so far outperforming him. Shame.
 
+I can't reiterate enough - Darnold is looking mad sloppy. Just inaccurate with the passes.
+
 ***
 
 #### Eagles @ Falcons
