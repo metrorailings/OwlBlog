@@ -47,3 +47,5 @@ Creative play design from Arthur Smith to convert a fourth down with one yard to
 Nick Sirianni looking intense on the sidelines.
 
 Derek Barnett is a real gamer.
+
+Finally, the Falcons seem to have gained a beat on this Eagles offense, playing tight against the line of scrimmage. I love that Pees isn't afraid to fire off a blitz on long downs.
