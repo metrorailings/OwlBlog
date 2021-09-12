@@ -61,3 +61,5 @@ The Eagles are running the ball fairly effectively, especially in the hurry-up. 
 On top of their run game, add in the screen game with Miles Sanders. Worth seeing if Dean Pees and his third down defense can be gutted with screen passes - on one third down, Pees completely vacated the flat, sending everybody in the box up against the blitz. It wasn't hard for an offensive line as talented as Philly's to guide Miles Sanders towards a first down.
 
 ***
+
+#### Broncos @ Giants
