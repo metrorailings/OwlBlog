@@ -102,6 +102,8 @@ Kudos to Justin Herbert for his accurate passing.
 
 These Chargers receivers are running some crisp routes. Mike Williams and Keenan Allen are impressing in particular. 
 
+I wonder if this referee crew even flags pass interference. Back-to-back plays with some arguable pass interference from Washington. Alex Kemp and his crew kept their yellow flags dry on both plays.
+
 ***
 
 #### Bears @ Rams
