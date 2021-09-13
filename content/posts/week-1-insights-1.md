@@ -89,3 +89,7 @@ Cleveland's last drive of the first half stalled when Baker was asked to thow th
 Just like that, the Chiefs mount a comeback in the fourth quarter, ignited by a 75-yard bomb to Tyreek Hill. Never count the Chiefs out at Arrowhead!
 
 Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this game. It took a heroic comeback in the fourth quarter to nail a win against a team you've previously dominated. Not good.
+
+***
+
+#### Chargers @ Football Team
