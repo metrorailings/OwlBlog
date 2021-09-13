@@ -93,3 +93,11 @@ Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this
 ***
 
 #### Chargers @ Football Team
+
+***
+
+#### Bears @ Rams
+
+Seems like Matthew Buttford will be just fine.
+
+Jalen Ramsey is a real force on defense. More than happy making plays all over the field.
