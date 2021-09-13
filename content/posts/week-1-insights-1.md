@@ -117,3 +117,9 @@ Chicago is quickly letting people know that it's possible to run the ball effect
 Chicago's throwing linebacker blitzes at Matthew Stafford, but Stafford is doing well reading them and adjusting accordingly.
 
 Cooper Kupp and Robert Woods do some good work producing yards after the catch.
+
+***
+
+#### Packers vs Saints (Jacksonville)
+
+Maurice Jones-Drew has a strong hunch Aaron Rodgers isn't a fan of the humid environment in Jacksonville, let alone the rest of Florida. It makes sense, especially considering how these same Packers were humiliated last year against Tampa Bay. 
