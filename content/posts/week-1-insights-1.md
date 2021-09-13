@@ -94,7 +94,9 @@ Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this
 
 #### Chargers @ Football Team
 
-Washington clearly prefer running the ball over throwing it.
+Washington clearly prefer running the ball over throwing it. Makes sense, given their air game so far has been pretty pathetic.
+
+To be fair to Washington, Joey Bosa has been giving them fits.
 
 ***
 
@@ -103,3 +105,5 @@ Washington clearly prefer running the ball over throwing it.
 Seems like Matthew Buttford will be just fine.
 
 Jalen Ramsey is a real force on defense. More than happy making plays all over the field.
+
+Chicago is quickly letting people know that it's possible to run the ball on these Rams.
