@@ -94,11 +94,11 @@ Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this
 
 #### Chargers @ Football Team
 
-Washington clearly prefer running the ball over throwing it. Makes sense, given their air game so far has been pretty pathetic.
+Washington clearly prefer running the ball over throwing it. Makes sense, given their air game with Ryan Fitzpatrick so far has been pretty pathetic.
 
-To be fair to Washington, Joey Bosa has been giving them fits.
+To be fair to Washington though, Joey Bosa and his comrades have been giving them fits.
 
-Kudos to Justin Herbert for his accurate passing.
+Kudos to Justin Herbert for his accurate passing. Some of his passes are things of beauty. It's been the key differentiator in this match.
 
 These Chargers receivers are running some crisp routes. Mike Williams and Keenan Allen are impressing in particular. 
 
