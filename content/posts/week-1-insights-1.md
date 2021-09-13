@@ -104,6 +104,8 @@ These Chargers receivers are running some crisp routes. Mike Williams and Keenan
 
 I wonder if this referee crew even flags pass interference. Back-to-back plays with some arguable pass interference from Washington. Alex Kemp and his crew kept their yellow flags dry on both plays.
 
+Taylor Heinecke and his ability to improvise really impresses me. Arguably Washington's best play on offense in the second half came when Heinecke flipped the ball to his receiver after drawing the attention of a defender by faking a scramble outside the pocket.
+
 ***
 
 #### Bears @ Rams
