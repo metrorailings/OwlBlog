@@ -94,6 +94,8 @@ Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this
 
 #### Chargers @ Football Team
 
+Washington clearly prefer running the ball over throwing it.
+
 ***
 
 #### Bears @ Rams
