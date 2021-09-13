@@ -106,6 +106,6 @@ Seems like Matthew Buttford will be just fine.
 
 Jalen Ramsey is a real force on defense. More than happy making plays all over the field.
 
-Chicago is quickly letting people know that it's possible to run the ball effectively on these Rams.
+Chicago is quickly letting people know that it's possible to run the ball effectively on these Rams. What fascinates me about these Rams is that even though Brandon Staley is no longer with this team, his style of defense still guides this team's approach on that side of the ball. Raheem Morris is either content adopting that philosophy on defense or Sean McVay is mandating his defense keep Staley's ideology intact. 
 
 Chicago's throwing linebacker blitzes at Matthew Stafford, but Stafford is doing well reading them and adjusting accordingly.
