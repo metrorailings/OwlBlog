@@ -98,6 +98,10 @@ Washington clearly prefer running the ball over throwing it. Makes sense, given 
 
 To be fair to Washington, Joey Bosa has been giving them fits.
 
+Kudos to Justin Herbert for his accurate passing.
+
+These Chargers receivers are running some crisp routes. Mike Williams and Keenan Allen are impressing in particular. 
+
 ***
 
 #### Bears @ Rams
