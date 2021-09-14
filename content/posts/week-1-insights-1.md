@@ -131,3 +131,13 @@ Maurice Jones-Drew has a strong hunch Aaron Rodgers isn't a fan of the humid env
 #### Ravens @ Raiders
 
 Lamar's passes are still on and off. Still throwing his best balls over the middle of the field. A smart defense should know how to counteract this and keep the ground game lidded.
+
+Darren Waller _easily_ the best player for the Raiders.
+
+Lamar hasn't really evolved much as a passer.
+
+***
+
+#### Dolphins @ Patriots
+
+JC Jackson being picked on by Miami's offense.
