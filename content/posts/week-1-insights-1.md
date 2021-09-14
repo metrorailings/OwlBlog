@@ -136,8 +136,12 @@ Darren Waller _easily_ the best player for the Raiders.
 
 Lamar hasn't really evolved much as a passer.
 
+Things were going the Raiders way until Lamar saw a linebacker covering a slot receiver deep, an unfortunate assignment given Gus Bradley's cover-three scheme. A big pass and a few plays later, the Ravens are now in control.
+
 ***
 
 #### Dolphins @ Patriots
 
 JC Jackson being picked on by Miami's offense.
+
+Miami still running the wing T offense. Interesting. It's working spectacularly on Miami's first drive.
