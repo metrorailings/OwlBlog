@@ -48,7 +48,7 @@ Falcons seem more inclined towards zone coverage.
 
 Jalen Hurts rushing ability and a rub route from Devonta Smith were critical towards a touchdown.
 
-Creative play design from Arthur Smith to convert a fourth down with one yard to go. Setting up play-action from a heavy formation and passing the ball to a tight end sliding off a block. 
+Creative play design from Arthur Smith to convert a fourth down with one yard to go. Setting up play-action from a heavy formation and passing the ball to a tight end sliding off a block.
 
 Nick Sirianni looking intense on the sidelines.
 
@@ -78,9 +78,9 @@ This Giants pass rush is just....non-existant. Especially as their defense becom
 
 #### Browns @ Chiefs
 
-The Chiefs defense has been absolutely gutless against Cleveland's creativity.  
+The Chiefs defense has been absolutely gutless against Cleveland's creativity.
 
-Kansas' offensive line isn't ready for gametime. It's honestly going to take time for these players to find their groove. Until then, Patrick Mahomes will have to work harder than ever to keep the unit productive as the line in front of him cuts its teeth. 
+Kansas' offensive line isn't ready for gametime. It's honestly going to take time for these players to find their groove. Until then, Patrick Mahomes will have to work harder than ever to keep the unit productive as the line in front of him cuts its teeth.
 
 Cleveland literally running at will. Backed up at the 2-yard line, it was obvious Cleveland was going to run the ball. Kansas still gave up 5 precious yards.
 
@@ -100,7 +100,7 @@ To be fair to Washington though, Joey Bosa and his comrades have been giving the
 
 Kudos to Justin Herbert for his accurate passing. Some of his passes are things of beauty. It's been the key differentiator in this match.
 
-These Chargers receivers are running some crisp routes. Mike Williams and Keenan Allen are impressing in particular. 
+These Chargers receivers are running some crisp routes. Mike Williams and Keenan Allen are impressing in particular.
 
 I wonder if this referee crew even flags pass interference. Back-to-back plays with some arguable pass interference from Washington. Alex Kemp and his crew kept their yellow flags dry on both plays.
 
@@ -114,7 +114,7 @@ Seems like Matthew Buttford will be just fine.
 
 Jalen Ramsey is a real force on defense. More than happy making plays all over the field.
 
-Chicago is quickly letting people know that it's possible to run the ball effectively on these Rams. What fascinates me about these Rams is that even though Brandon Staley is no longer with this team, his style of defense still guides this team's approach on that side of the ball. Raheem Morris is either content adopting that philosophy on defense or Sean McVay is mandating his defense keep Staley's ideology intact. 
+Chicago is quickly letting people know that it's possible to run the ball effectively on these Rams. What fascinates me about these Rams is that even though Brandon Staley is no longer with this team, his style of defense still guides this team's approach on that side of the ball. Raheem Morris is either content adopting that philosophy on defense or Sean McVay is mandating his defense keep Staley's ideology intact.
 
 Chicago's throwing linebacker blitzes at Matthew Stafford, but Stafford is doing well reading them and adjusting accordingly.
 
@@ -124,4 +124,10 @@ Cooper Kupp and Robert Woods do some good work producing yards after the catch.
 
 #### Packers vs Saints (Jacksonville)
 
-Maurice Jones-Drew has a strong hunch Aaron Rodgers isn't a fan of the humid environment in Jacksonville, let alone the rest of Florida. It makes sense, especially considering how these same Packers were humiliated last year against Tampa Bay. 
+Maurice Jones-Drew has a strong hunch Aaron Rodgers isn't a fan of the humid environment in Jacksonville, let alone the rest of Florida. It makes sense, especially considering how these same Packers were humiliated last year against Tampa Bay.
+
+***
+
+#### Ravens @ Raiders
+
+Lamar's passes are still on and off. Still throwing his best balls over the middle of the field. A smart defense should know how to counteract this and keep the ground game lidded.
