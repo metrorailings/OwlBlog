@@ -140,6 +140,8 @@ Things were going the Raiders way until Lamar saw a linebacker covering a slot r
 
 Maxx Crosby might be something special. Finally that one pass rusher Vegas can hang its hat on.
 
+Lamar is prone to fumbles. His arms are getting noodly. Not good for a man that makes his bread by running the ball.
+
 ***
 
 #### Dolphins @ Patriots
