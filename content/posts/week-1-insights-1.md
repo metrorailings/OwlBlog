@@ -138,6 +138,8 @@ Lamar hasn't really evolved much as a passer.
 
 Things were going the Raiders way until Lamar saw a linebacker covering a slot receiver deep, an unfortunate assignment given Gus Bradley's cover-three scheme. A big pass and a few plays later, the Ravens are now in control.
 
+Maxx Crosby might be something special. Finally that one pass rusher Vegas can hang its hat on.
+
 ***
 
 #### Dolphins @ Patriots
