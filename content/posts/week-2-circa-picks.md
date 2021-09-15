@@ -58,4 +58,10 @@ These teams regularly meet twice a year. Last season, the Bills won both of thei
 
 #### _Weather_
 
-Dome game, doesn't matter.
+Hot and humid, as is typical in Florida in September.
+
+***
+
+Dolphins +3.5
+
+***
