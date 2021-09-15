@@ -40,3 +40,22 @@ they dominate time of possession by running the ball effectively and preventing 
 they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as last year's match between these two teams, Kansas will be scratching one more tick in the win column come Sunday night.
 
 ***
+
+### Bills @ Dolphins (+3.5)
+
+***
+
+#### _Latest Results_
+
+**Steelers** @ Bills  
+**Dolphins** @ Patriots
+
+#### _Key Injuries_
+
+#### _History_
+
+These teams regularly meet twice a year. Last season, the Bills won both of their contests, though the second game arguably didn't mean much considering Buffalo's seeding in the postseason was cemented at that point.
+
+#### _Weather_
+
+Dome game, doesn't matter.
