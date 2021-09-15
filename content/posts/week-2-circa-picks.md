@@ -21,7 +21,7 @@ Ravens @ **Browns** (MNF)
 
 #### _History_
 
-TBA
+Both these teams met last year, although Baltimore was the team favored in that match. Kansas routed the Ravens in this game though - Patrick Mahomes had no trouble dissecting Wink Martindale's blitzes and pass coverage schemes. It was almost beautiful seeing these Chiefs move the ball against the Ravens with such surgical precision. Baltimore was forced to abandon the ground game early in an effort to keep pace with the Chiefs offense. As expected, that didn't pan out.  
 
 #### _Weather_
 
@@ -37,6 +37,6 @@ Ravens +4
 they dominate time of possession by running the ball effectively and preventing the Chiefs offense from getting into any sort of rhythm early. It helps that the team should be seething coming off an emotional loss against the Raiders. On top of that, playing their homecoming game in primetime against a team that embarrassed them last year should only hype up the Ravens further.
 
 **Kansas City covers if**  
-they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as last year's match between these two teams, Kansas will be scratching one more tick in the win column come Sunday night. 
+they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as last year's match between these two teams, Kansas will be scratching one more tick in the win column come Sunday night.
 
 ***
