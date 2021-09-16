@@ -89,7 +89,7 @@ the additions of Jaylen Waddle and Will Fuller on offense in tandem with the eme
 
 #### _Key Injuries_
 
-No major issues as of yet with either team. A few players on both sides are banged up, but all key personnel are expected to play. San Francisco will be down a starting cornerback in Jason Verrett for the rest of the season. 
+No major issues as of yet with either team. A few players on both sides are banged up, but all key personnel are expected to play. San Francisco will be down a starting cornerback in Jason Verrett for the rest of the season.
 
 #### _History_
 
@@ -111,7 +111,7 @@ Eagles +3.5
 their newly renovated (and markedly healthier) offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan. If the 49ers are forced to play more reactionary defense this early in the season, missteps and bad decisions are likely to follow.
 
 **San Francisco covers if**  
-the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. 
+the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought.
 
 ***
 
@@ -147,5 +147,5 @@ Chargers -3.5
 **Los Angeles covers if**  
 Justin Herbert stays insulated from pressure. It helps that Dallas is down their two best pass rushers this week. Also, seeing the offensive line hold up admirably last week in pass protection against Washington's venerable defensive front is reassuring.
 
-**Dallas covers if  
-**their offense can dominate time of possession by emphasizing the ground game. Very possible given Brandon Staley seems more committed to pass coverage than rushing defense. His lightly-manned defensive fronts worry me here - it's not easy bringing down Ezekiel Elliott with just five or six men stationed in the box.  
+**Dallas covers if**  
+their offense can dominate time of possession by emphasizing the ground game. Very possible given Brandon Staley seems more committed to pass coverage than rushing defense. His lightly-manned defensive fronts worry me here - it's not easy bringing down Ezekiel Elliott with just five or six men stationed in the box.
