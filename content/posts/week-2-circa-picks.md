@@ -134,6 +134,10 @@ As for the Chargers, we need to keep an eye on their injury report come Friday. 
 
 These two teams don't face one another all too often, being in different conferences. No easy comparables can be safely drawn here too.
 
+#### _Weather_
+
+Dome game, doesn't matter.
+
 ***
 
 Chargers -3.5
