@@ -104,7 +104,7 @@ Eagles +3.5
 ***
 
 **Philadelphia covers if**  
-their newly renovated offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan.
+their newly renovated (and markedly healthier) offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan. If the 49ers are forced to play more reactionary defense this early in the season, missteps and bad decisions are likely to follow.
 
 **San Francisco covers if**  
 the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. 
