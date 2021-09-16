@@ -64,7 +64,7 @@ Hot and humid, as is typical in Florida in September.
 
 ***
 
-TBA
+(Leaning) Dolphins +3.5
 
 ***
 
@@ -137,7 +137,7 @@ Chargers -3.5
 ***
 
 **Los Angeles covers if**  
-the offensive line can insulate Justin Herbert from pressure. It helps that Dallas is down their two best pass rushers this week.
+Justin Herbert stays insulated from pressure. It helps that Dallas is down their two best pass rushers this week. Also, seeing the offensive line hold up admirably last week in pass protection against Washington's venerable defensive front is reassuring.
 
 **Dallas covers if  
 **their offense can dominate time of possession by emphasizing the ground game with Ezekiel Elliott. 
