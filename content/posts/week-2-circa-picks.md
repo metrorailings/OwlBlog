@@ -68,8 +68,10 @@ Bills -3.5
 
 ***
 
-**Miami covers if**  
-they can force some ugly throws out of Josh Allen. Allen may be regressing, given his horrid outing against the Steelers last week.
-
 **Buffalo covers if**  
-they can 
+Josh Allen hasn't regressed much from last year. All other variables being equal from last year (more or less), the Bills have shown themselves superior to Miami.
+
+**Miami covers if**  
+Josh Allen reverts back to his older pathetic form  
+\- OR -  
+the additions of Jaylen Waddle and Will Fuller on offense in tandem with the emergence of Sam Eguavoen as a viable pass rusher are the requisite elements giving Miami enough juice to finally pull one over Buffalo.
