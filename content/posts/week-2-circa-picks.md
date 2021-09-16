@@ -19,6 +19,8 @@ Ravens @ **Browns** (MNF)
 
 #### _Key Injuries_
 
+Ravens may be down a key offensive lineman in Ronnie Stanley. If this is the case, Alejandro Villanueva will be sliding over to left tackle in his stead.
+
 #### _History_
 
 Both these teams met last year, although Baltimore was the team favored in that match. Kansas routed the Ravens in this game though - Patrick Mahomes had no trouble dissecting Wink Martindale's blitzes and pass coverage schemes. It was almost beautiful seeing these Chiefs move the ball against the Ravens with such surgical precision. Baltimore was forced to abandon the ground game early in an effort to keep pace with the Chiefs offense. As expected, that didn't pan out.
