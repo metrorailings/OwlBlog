@@ -21,7 +21,7 @@ Ravens @ **Browns** (MNF)
 
 #### _History_
 
-Both these teams met last year, although Baltimore was the team favored in that match. Kansas routed the Ravens in this game though - Patrick Mahomes had no trouble dissecting Wink Martindale's blitzes and pass coverage schemes. It was almost beautiful seeing these Chiefs move the ball against the Ravens with such surgical precision. Baltimore was forced to abandon the ground game early in an effort to keep pace with the Chiefs offense. As expected, that didn't pan out.  
+Both these teams met last year, although Baltimore was the team favored in that match. Kansas routed the Ravens in this game though - Patrick Mahomes had no trouble dissecting Wink Martindale's blitzes and pass coverage schemes. It was almost beautiful seeing these Chiefs move the ball against the Ravens with such surgical precision. Baltimore was forced to abandon the ground game early in an effort to keep pace with the Chiefs offense. As expected, that didn't pan out.
 
 #### _Weather_
 
@@ -52,9 +52,11 @@ they force the Ravens into a hole early, compelling Baltimore to call fewer rush
 
 #### _Key Injuries_
 
+Nothing major as of the time of this writing.
+
 #### _History_
 
-These teams regularly meet twice a year. Last season, the Bills won both of their contests, though the second game arguably didn't mean much considering Buffalo's seeding in the postseason was cemented at that point.
+These teams regularly meet twice a year. Last season, the Bills won both of their contests, though the the first game doesn't mean much either given Ryan Fitzpatrick was helming the Dolphin offense. It's worth noting that the Bills managed to drop over fifty points in their second outing, despite the game ultimately being a meaningless rout in the grand scheme of things - Josh Allen sat out the second half as Buffalo's playoff seeding was cemented by then.
 
 #### _Weather_
 
@@ -62,6 +64,12 @@ Hot and humid, as is typical in Florida in September.
 
 ***
 
-Dolphins +3.5
+Bills -3.5
 
 ***
+
+**Miami covers if**  
+they can force some ugly throws out of Josh Allen. Allen may be regressing, given his horrid outing against the Steelers last week.
+
+**Buffalo covers if**  
+they can 
