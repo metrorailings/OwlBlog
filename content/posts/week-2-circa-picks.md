@@ -97,6 +97,10 @@ Both of these teams met last year in California. San Francisco was coping with s
 
 Philadelphia was able to pull out the win at eight-point underdogs. Pretty impressive considering Doug Pederson was committed to sabotaging his team.
 
+#### _Weather_
+
+Unseasonably warm, with a good bit of humidity.
+
 ***
 
 Eagles +3.5
