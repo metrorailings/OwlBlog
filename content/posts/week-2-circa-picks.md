@@ -75,3 +75,36 @@ Josh Allen hasn't regressed much from last year. All other variables being equal
 Josh Allen reverts back to his older pathetic form  
 \- OR -  
 the additions of Jaylen Waddle and Will Fuller on offense in tandem with the emergence of pass rusher Sam Eguavoen prove to be the requisite elements giving Miami enough juice to finally pull one over Buffalo.
+
+***
+
+### 49ers @ Eagles (+3.5)
+
+***
+
+#### _Latest Results_
+
+**49ers** @ Lions  
+**Eagles** @ Falcons
+
+#### _Key Injuries_
+
+No major issues as of yet with either team. A few players on both sides are banged up, but all key personnel are expected to play. San Francisco will be down a starting cornerback in Jason Verrett for the rest of the season. 
+
+#### _History_
+
+Both of these teams met last year in California. San Francisco was coping with season-ending injuries to leaders on both offense and defense. Philadelphia wasn't faring much better themselves on the health front either, though their injuries were concentrated more on offense.
+
+Philadelphia was able to pull out the win at eight-point underdogs. Pretty impressive considering Doug Pederson was committed to sabotaging his team.
+
+***
+
+Eagles +3.5
+
+***
+
+**Philadelphia covers if**  
+their newly renovated offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan.
+
+**San Francisco covers if**  
+the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. 
