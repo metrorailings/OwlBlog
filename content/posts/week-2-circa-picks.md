@@ -108,3 +108,36 @@ their newly renovated (and markedly healthier) offense under Hurts/Sirianni surp
 
 **San Francisco covers if**  
 the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. 
+
+***
+
+### Cowboys @ Chargers (-3.5)
+
+***
+
+#### _Latest Results_
+
+Cowboys @ **Buccaneers**  
+**Chargers** @ Washington
+
+#### _Key Injuries_
+
+DeMarcus Lawrence is expected to be sidelined several weeks as he recovers from a broken foot. Randy Gregory is currently on the COVID list. Without those two, the Cowboys best pass rusher might be rookie Micah Parsons. Not a great situation for the Chargers going against one of the NFL's better quarterbacks.
+
+As for the Chargers, we need to keep an eye on their injury report come Friday. Some key veterans were sitting out Wednesday's practice.
+
+#### _History_
+
+These two teams don't face one another all too often, being in different conferences. No easy comparables can be safely drawn here too.
+
+***
+
+Chargers -3.5
+
+***
+
+**Los Angeles covers if**  
+the offensive line can insulate Justin Herbert from pressure. It helps that Dallas is down their two best pass rushers this week.
+
+**Dallas covers if  
+**their offense can dominate time of possession by emphasizing the ground game with Ezekiel Elliott. 
