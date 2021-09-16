@@ -64,7 +64,7 @@ Hot and humid, as is typical in Florida in September.
 
 ***
 
-Bills -3.5
+TBA
 
 ***
 
