@@ -151,3 +151,24 @@ Justin Herbert stays insulated from pressure. It helps that Dallas is down their
 
 **Dallas covers if**  
 their offense can dominate time of possession by emphasizing the ground game. Very possible given Brandon Staley seems more committed to pass coverage than rushing defense. His lightly-manned defensive fronts worry me here - it's not easy bringing down Ezekiel Elliott with just five or six men stationed in the box.
+
+***
+
+### Raiders @ Steelers (-6)
+
+***
+
+#### _Latest Results_
+
+Ravens @ **Ravens** (MNF)  
+**Steelers** @ Bills
+
+#### _Key Injuries_
+
+Josh Jacobs may not suit up on game day due to lingering injuries. Kenyan Drake should be able to step up in relief duty, though it's unlikely he'll completely make up for Jacobs lost production.
+
+#### _History_
+
+These two teams haven't met in a while. But the last couple times the Raiders danced with a truly top-tier defense, those affairs didn't end well. The Buccaneers, for example, dropped over 40 points on them last year. Likewise, Indianapolis left track marks all over the Raiders en route to a decisive victory. In fairness though, Derek Carr and company actually exceeded my expectations in their match against Tampa, given their entire offensive line was slammed by COVID regulations. 
+
+#### 
