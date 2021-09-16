@@ -74,4 +74,4 @@ Josh Allen hasn't regressed much from last year. All other variables being equal
 **Miami covers if**  
 Josh Allen reverts back to his older pathetic form  
 \- OR -  
-the additions of Jaylen Waddle and Will Fuller on offense in tandem with the emergence of Sam Eguavoen as a viable pass rusher are the requisite elements giving Miami enough juice to finally pull one over Buffalo.
+the additions of Jaylen Waddle and Will Fuller on offense in tandem with the emergence of pass rusher Sam Eguavoen prove to be the requisite elements giving Miami enough juice to finally pull one over Buffalo.
