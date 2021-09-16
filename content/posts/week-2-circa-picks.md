@@ -140,4 +140,4 @@ Chargers -3.5
 Justin Herbert stays insulated from pressure. It helps that Dallas is down their two best pass rushers this week. Also, seeing the offensive line hold up admirably last week in pass protection against Washington's venerable defensive front is reassuring.
 
 **Dallas covers if  
-**their offense can dominate time of possession by emphasizing the ground game with Ezekiel Elliott. 
+**their offense can dominate time of possession by emphasizing the ground game. Very possible given Brandon Staley seems more committed to pass coverage than rushing defense. His lightly-manned defensive fronts worry me here - it's not easy bringing down Ezekiel Elliott with just five or six men stationed in the box.  
