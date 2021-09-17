@@ -80,7 +80,7 @@ the additions of Jaylen Waddle and Will Fuller on offense in tandem with the eme
 
 ***
 
-### 49ers @ Eagles (+3.5)
+### 49ers @ Eagles (+3)
 
 ***
 
@@ -105,7 +105,7 @@ Unseasonably warm, with a good bit of humidity.
 
 ***
 
-Eagles +3.5
+Eagles +3
 
 ***
 
@@ -186,3 +186,24 @@ their beastly defensive front bullies Derek Carr into committing mistake after m
 
 **Las Vegas wins if**  
 their offense makes just enough hay on a few drives and their defense completely stifles Roethlisberger and company. A few turnovers would help, if only because Pittsburgh will likely force turnovers of their own.
+
+***
+
+### Patriots @ Jets (+5.5)
+
+#### _Latest Results_
+
+**Dolphins** @ Patriots  
+Jets @ **Panthers**
+
+#### _Key Injuries_
+
+Some good and bad news for the Jets - good news is that Jamison Crowder is expected back in action. The bad news is that Mekhi Becton will be out for the next several weeks, further imperiling a terrible offensive line. 
+
+#### _History_
+
+#### _Weather_
+
+Dome game, doesn't matter.
+
+***
