@@ -10,6 +10,8 @@ I'd say Heinecke is developing a near-crippling addiction to Terry McLaurin. It'
 
 Giants are playing quite a bit of cover-four in the secondary. Not to mention they're keeping their cornerbacks pretty distanced from Washington's receivers pre-snap.
 
-Daniel Jones and Saquon Barkley playing so much better after their pathetic showing last Sunday. I'm liking what I'm seeing.
+Daniel Jones and Saquon Barkley playing so much better after their pathetic showing last Sunday. I'm liking what I'm seeing. Saquon's actually cutting again! The appetite for yards is there.
 
-Giants offensive line playing much better as well, holding up against Washington's blitzes as well as their best pass rushers. Doesn't mean they've won every battle, but they're winning a decent number of them. It's hard to win every battle against the likes of Chase Young, Montez Sweat, and Jonathan Allen. 
+Giants offensive line playing much better as well, holding up against Washington's blitzes as well as their best pass rushers. Doesn't mean they've won every battle, but they're winning a decent number of them. It's hard to win every battle against the likes of Chase Young, Montez Sweat, and Jonathan Allen.
+
+Washington's offensive line is proficient at run-blocking.
