@@ -169,8 +169,20 @@ Josh Jacobs may not suit up on game day due to lingering injuries. Kenyan Drake 
 
 #### _History_
 
-These two teams haven't met in a while. But the last couple times the Raiders danced with a truly top-tier defense, those affairs didn't end well. The Buccaneers, for example, dropped over 40 points on them last year. Likewise, Indianapolis left track marks all over the Raiders en route to a decisive victory. In fairness though, Derek Carr and company actually exceeded my expectations in their match against Tampa, given their entire offensive line was slammed by COVID regulations.
+These two teams haven't met in a while. But the last couple times the Raiders danced with a truly top-tier defense, those affairs didn't end well. The Buccaneers, for example, dropped over 40 points on them last year. Likewise, Indianapolis left the Raiders covered in track routes in an authoritative win. But in the name of fairness, Derek Carr and company actually exceeded my expectations in their match against Tampa, given their entire offensive line was benched because of COVID regulations.
 
 #### _Weather_
 
 A beautiful day to play football.
+
+***
+
+Steelers -6
+
+***
+
+**Pittsburgh wins if**  
+their beastly defensive front bullies Derek Carr into committing mistake after mistake after mistake.
+
+**Las Vegas wins if**  
+their offense makes just enough hay on a few drives and their defense completely stifles Roethlisberger and company. A few turnovers would help, if only because Pittsburgh will likely force turnovers of their own.
