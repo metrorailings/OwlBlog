@@ -97,7 +97,7 @@ No major issues as of yet with either team. A few players on both sides are bang
 
 Both of these teams met last year in California. San Francisco was coping with season-ending injuries to leaders on both offense and defense. Philadelphia wasn't faring much better themselves on the health front either, though their injuries were concentrated more on offense.
 
-Philadelphia was able to pull out the win at eight-point underdogs. Pretty impressive considering Doug Pederson was committed to sabotaging his team.
+Philadelphia was able to pull out a win despite being eight-point underdogs. Pretty impressive considering Doug Pederson was committed to sabotaging his team.
 
 #### _Weather_
 
@@ -110,10 +110,10 @@ Eagles +3
 ***
 
 **Philadelphia covers if**  
-their newly renovated (and markedly healthier) offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan. If the 49ers are forced to play more reactionary defense this early in the season, missteps and bad decisions are likely to follow.
+their newly renovated (and markedly healthier) offense under Hurts/Sirianni surprises and throws the 49ers off their defensive game plan. If the 49ers are forced to play more reactionary defense this early in the season, missteps and bad decisions are likely to be made.
 
 **San Francisco covers if**  
-the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. That and Nick Sirianni's inexperience at head coach showing itself in this game should be enough to give the 49ers a decisive victory.
+the return of Jimmy Garoppolo, Nick Bosa, and Dee Ford end up making a bigger difference than I thought. That and Nick Sirianni being an inexperienced head coach could lend the 49ers a decisive victory here.
 
 ***
 
@@ -169,7 +169,7 @@ Josh Jacobs may not suit up on game day due to lingering injuries. Kenyan Drake 
 
 #### _History_
 
-These two teams haven't met in a while. But the last couple times the Raiders danced with a truly top-tier defense, those affairs didn't end well. The Buccaneers, for example, dropped over 40 points on them last year. Likewise, Indianapolis left the Raiders covered in track routes in an authoritative win. But in the name of fairness, Derek Carr and company actually exceeded my expectations in their match against Tampa, given their entire offensive line was benched because of COVID regulations.
+These two teams haven't met in a while. But the last couple times the Raiders danced with truly top-tier defenses, those affairs didn't end well. The Buccaneers, for example, dropped over 40 points on them last year. Likewise, Indianapolis left the Raiders covered in track routes in an authoritative win. But in all fairness, Derek Carr and company actually surpassed my expectations in their match against Tampa, given their entire offensive line was benched because of COVID regulations.
 
 #### _Weather_
 
@@ -198,12 +198,26 @@ Jets @ **Panthers**
 
 #### _Key Injuries_
 
-Some good and bad news for the Jets - good news is that Jamison Crowder is expected back in action. The bad news is that Mekhi Becton will be out for the next several weeks, further imperiling a terrible offensive line. 
+Some good and bad news for the Jets - good news is that Jamison Crowder is expected back in action. The bad news - Mekhi Becton will be out for the next several weeks. If Mike LaFleur doesn't adjust quickly, Zach Wilson will be closing out the season inside a coffin.
 
 #### _History_
 
+As division rivals, these two teams meet at least twice a year. Last year, the Patriots swept the Jets, though their first game was surprisingly close. It's possible Belichick and his coaches were taken by surprise at Joe Flacco suddenly starting at quarterback.
+
+One thing worth noting is that Belichick has been phenomenal at outwitting rookie quarterbacks in the past.
+
 #### _Weather_
 
-Dome game, doesn't matter.
+Warm sunny day
 
 ***
+
+Patriots -5.5
+
+***
+
+**New England covers if**  
+Bill Belichick demonstrates yet again why he's one of the best at deconstructing rookie quarterbacks.
+
+**New York covers if**  
+Zach Wilson can somehow ball out against New England's amoeba defense. One thing to be said about the young man is that he has moxie - despite the Panthers laying an ass whooping on him, he was still out there throwing balls deep and willing his team into fighting to the very end. I doubt New England will be scaring this man into seeing ghosts.
