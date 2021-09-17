@@ -3,7 +3,7 @@ date = 2021-09-09T12:00:00Z
 headline = "Week 1 Insights"
 
 +++
-#### Cowboys @ Buccaneers
+### Cowboys @ Buccaneers
 
 Kudos to Kellen Moore for shelving the ground game against this historically great Tampa Bay defense. Its clear by Dak's stats alone that the Cowboys will be leaning almost entirely on the air game.
 
@@ -21,7 +21,7 @@ CeeDee Lamb is a weapon.
 
 ***
 
-#### Jets @ Panthers
+### Jets @ Panthers
 
 New York expectedly making mistakes in its first drive.
 
@@ -41,7 +41,7 @@ It seems Rhule was all too comfortable playing this game conservatively. Insisti
 
 ***
 
-#### Eagles @ Falcons
+### Eagles @ Falcons
 
 Falcons seem more inclined towards zone coverage.
 
@@ -61,7 +61,7 @@ On top of their run game, add in the screen game with Miles Sanders. Worth seein
 
 ***
 
-#### Broncos @ Giants
+### Broncos @ Giants
 
 Kadarius Toby being thrown in motion in all sorts of ways here by the Giants.
 
@@ -75,7 +75,7 @@ This Giants pass rush is just....non-existant. Especially as their defense becom
 
 ***
 
-#### Browns @ Chiefs
+### Browns @ Chiefs
 
 The Chiefs defense has been absolutely gutless against Cleveland's creativity.
 
@@ -91,7 +91,7 @@ Contrary to what Lombardi says, it's clear the Chiefs were not prepared for this
 
 ***
 
-#### Chargers @ Football Team
+### Chargers @ Football Team
 
 Washington clearly prefer running the ball over throwing it. Makes sense, given their air game with Ryan Fitzpatrick so far has been pretty pathetic.
 
@@ -107,7 +107,7 @@ Taylor Heinecke and his ability to improvise really impresses me. Arguably Washi
 
 ***
 
-#### Bears @ Rams
+### Bears @ Rams
 
 Seems like Matthew Buttford will be just fine.
 
@@ -121,13 +121,13 @@ Cooper Kupp and Robert Woods do some good work producing yards after the catch.
 
 ***
 
-#### Packers vs Saints (Jacksonville)
+### Packers vs Saints (Jacksonville)
 
 Maurice Jones-Drew has a strong hunch Aaron Rodgers isn't a fan of the humid environment in Jacksonville, let alone the rest of Florida. It makes sense, especially considering how these same Packers were humiliated last year against Tampa Bay.
 
 ***
 
-#### Ravens @ Raiders
+### Ravens @ Raiders
 
 Lamar's passes are still on and off. Still throwing his best balls over the middle of the field. A smart defense should know how to counteract this and keep the ground game lidded.
 
@@ -143,7 +143,7 @@ Lamar is prone to fumbles. His arms are getting noodly. Not good for a man that 
 
 ***
 
-#### Dolphins @ Patriots
+### Dolphins @ Patriots
 
 JC Jackson being picked on by Miami's offense.
 
