@@ -1,5 +1,5 @@
 +++
-date = 2021-09-09T12:00:00Z
+date = 2021-09-14T12:00:00Z
 headline = "Week 1 Insights"
 
 +++
