@@ -128,7 +128,7 @@ Cowboys @ **Buccaneers**
 
 #### _Key Injuries_
 
-DeMarcus Lawrence is expected to be sidelined several weeks as he recovers from a broken foot. Randy Gregory is currently on the COVID list. Without those two, the Cowboys best pass rusher might be rookie Micah Parsons. Not a great situation for the Chargers going against one of the NFL's better quarterbacks.
+DeMarcus Lawrence is expected to be sidelined several weeks as he recovers from a broken foot. Randy Gregory is currently on the COVID list. Without those two, the Cowboys best pass rusher might be rookie Micah Parsons. Not a great situation for the Cowboys going against one of the league's better quarterbacks.
 
 As for the Chargers, we need to keep an eye on their injury report come Friday. Some key veterans were sitting out Wednesday's practice.
 
