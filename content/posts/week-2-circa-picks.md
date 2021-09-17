@@ -36,10 +36,10 @@ Ravens +4
 ***
 
 **Baltimore covers if**  
-they dominate time of possession by running the ball effectively and preventing the Chiefs offense from getting into any sort of rhythm early. It helps that the team should be seething coming off an emotional loss against the Raiders. On top of that, playing their homecoming game in primetime against a team that embarrassed them last year should only hype up the Ravens further.
+they dominate time of possession by running the ball effectively and preventing the Chiefs offense from getting into any sort of rhythm early. It helps that the team should be seething coming off an emotional loss against the Raiders. On top of that, playing their homecoming game in primetime against a team that embarrassed them last year should only hype the Ravens up even more.
 
 **Kansas City covers if**  
-they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as last year's match between these two teams, Kansas will be scratching one more tick in the win column come Sunday night.
+they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as last year's contest between these two teams, Kansas will be scratching one more tick in the win column come Sunday night.
 
 ***
 
@@ -58,7 +58,7 @@ Nothing major as of the time of this writing.
 
 #### _History_
 
-These teams regularly meet twice a year. Last season, the Bills won both of their contests, though the the first game doesn't mean much either given Ryan Fitzpatrick was helming the Dolphin offense. It's worth noting that the Bills managed to drop over fifty points in their second outing, despite the game ultimately being a meaningless rout in the grand scheme of things - Josh Allen sat out the second half as Buffalo's playoff seeding was cemented by then.
+These teams regularly meet twice a year. Last season, the Bills won both of their contests, though the the first game doesn't mean much either given Ryan Fitzpatrick was helming the Dolphin offense. It's worth noting that the Bills managed to drop over fifty points in their second outing, despite the game ultimately being meaningless to them - Josh Allen sat out the second half as Buffalo's playoff seeding was cemented by then.
 
 #### _Weather_
 
@@ -220,4 +220,4 @@ Patriots -5.5
 Bill Belichick demonstrates yet again why he's one of the best at deconstructing rookie quarterbacks.
 
 **New York covers if**  
-Zach Wilson can somehow ball out against New England's amoeba defense. One thing to be said about the young man is that he has moxie - despite the Panthers laying an ass whooping on him, he was still out there throwing balls deep and willing his team into fighting to the very end. I doubt New England will be scaring this man into seeing ghosts.
+Zach Wilson can somehow ball out against New England's amoeba defense. One thing to be said about the young man is that he has moxie - despite the Panthers laying an ass whooping on him, he was still out there throwing balls deep and willing his team into fighting to the very end. I doubt Wilson will be seeing many ghosts in his first contest against Belichick.
