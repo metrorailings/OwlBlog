@@ -40,6 +40,8 @@ Jimmy G looking sloppy on a few throws. That and I think he's making the wrong d
 
 Kudos to Kyle Shanahan for keeping his team out east over the past week, helping them acclimate not only to the time zone, but also against the stifling humidity.
 
+Jimmie Ward playing well for the 49ers, breaking up the deep passes. Speaking of which, I notice Hurts isn't afraid to lob the ball deep. An admirable quality for a quarterback still cutting his teeth.
+
 ***
 
 ## Rams @ Colts
