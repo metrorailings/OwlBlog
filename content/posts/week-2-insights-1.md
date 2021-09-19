@@ -69,3 +69,5 @@ Impressive defensive trickery from the Chargers. Herbert was convinced Dallas is
 As predicted, the Cowboys are gashing these Chargers with rushing plays and pseudo-run concepts.
 
 Storm Norton isn't a good replacement at all for Brian Bulaga.
+
+Dallas moving Micah Parsons in as defensive end given Randy Gregory or DeMarcus Lawrence aren't playing.
