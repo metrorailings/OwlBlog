@@ -81,3 +81,9 @@ Second half, offensive coordinator Lombardi refuses to help out his beleaguered 
 Dallas is winning this game in the trenches. As simple as that. Both the offensive line and defensive line are outclassing their counterparts. Chargers are only contesting because of Justin Herbert.
 
 Dak is not playing well today. His fault as well as a function of poor scheme. It doesn't help that Kellen Moore is calling zone runs right up into the heart of the defense. Against a Staley defense, outside runs and sweeps are the key to success as Kyle Shanahan so aptly demonstrated last year. 
+
+***
+
+## Bills vs Dolphins
+
+So far, Jacoby Brissett is negotiating pressure well and throwing some decent balls.
