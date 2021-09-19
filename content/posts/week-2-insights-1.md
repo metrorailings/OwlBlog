@@ -37,3 +37,15 @@ Philadelphia's defensive line is very aggressive. Screens can exploit this aggre
 Jimmy G looking sloppy on a few throws. That and I think he's making the wrong decisions on some play. He chose to run the ball on a third down and eight instead of pitching the shovel pass forward.
 
 49ers defense holding up well on four downs at the goal line. Sirianni tried to run the Philly special on fourth down, but the 49ers was too disciplined in coverage.
+
+***
+
+## Rams @ Colts
+
+Carson Wentz is still holding on to the ball for too long.
+
+***
+
+## Raiders @ Steelers
+
+Is Jon Gruden honestly outcoaching Keith Butler?
