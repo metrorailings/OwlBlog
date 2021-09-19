@@ -65,3 +65,5 @@ Is Jon Gruden honestly outcoaching Keith Butler?
 ## Cowboys @ Chargers
 
 Impressive defensive trickery from the Chargers. Herbert was convinced Dallas is running man coverage, but the Cowboys shuffle out to a zone look at the last second.
+
+As predicted, the Cowboys are gashing these Chargers with rushing plays and pseudo-run concepts.
