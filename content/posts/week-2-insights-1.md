@@ -22,6 +22,8 @@ Washington's offensive line is proficient at run-blocking.
 
 Jets defense have been reacting well to the Patriots and their offensive scheming.
 
+Mac Jones is looking more and more like a professional quarterback. His pocket presence, his composure, his passing form, it's all looking better.
+
 ***
 
 ## 49ers @ Eagles
