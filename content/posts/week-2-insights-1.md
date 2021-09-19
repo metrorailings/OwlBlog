@@ -71,3 +71,5 @@ As predicted, the Cowboys are gashing these Chargers with rushing plays and pseu
 Storm Norton isn't a good replacement at all for Brian Bulaga.
 
 Dallas moving Micah Parsons in as defensive end given Randy Gregory or DeMarcus Lawrence aren't playing.
+
+I say this again, Storm Norton is a major liability. This offense needs to give him help or swap him out.
