@@ -191,6 +191,8 @@ their offense makes just enough hay on a few drives and their defense completely
 
 ### Patriots @ Jets (+5.5)
 
+***
+
 #### _Latest Results_
 
 **Dolphins** @ Patriots  
@@ -221,3 +223,24 @@ Bill Belichick demonstrates yet again why he's one of the best at deconstructing
 
 **New York covers if**  
 Zach Wilson can somehow ball out against New England's amoeba defense. One thing to be said about the young man is that he has moxie - despite the Panthers laying an ass whooping on him, he was still out there throwing balls deep and willing his team into fighting to the very end. I doubt Wilson will be seeing many ghosts in his first contest against Belichick.
+
+***
+
+### Rams @ Colts (+3.5)
+
+***
+
+#### _Latest Results_
+
+Bears @ **Rams**  
+**Seahawks** @ Colts
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
+
+Warm sunny day
+
+***
