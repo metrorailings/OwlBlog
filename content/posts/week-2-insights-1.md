@@ -73,3 +73,5 @@ Storm Norton isn't a good replacement at all for Brian Bulaga.
 Dallas moving Micah Parsons in as defensive end given Randy Gregory or DeMarcus Lawrence aren't playing.
 
 I say this again, Storm Norton is a major liability. This Charger offense needs to give him help or swap him out.
+
+Just so many sloppy mistakes being made by the Chargers in terms of penalties. Consider this a symptom of the head coach being completely green.
