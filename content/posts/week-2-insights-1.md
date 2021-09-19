@@ -38,6 +38,8 @@ Jimmy G looking sloppy on a few throws. That and I think he's making the wrong d
 
 49ers defense holding up well on four downs at the goal line. Sirianni tried to run the Philly special on fourth down, but the 49ers was too disciplined in coverage.
 
+Kudos to Kyle Shanahan for keeping his team out east over the past week, helping them acclimate not only to the time zone, but also against the stifling humidity.
+
 ***
 
 ## Rams @ Colts
