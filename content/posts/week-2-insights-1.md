@@ -27,3 +27,5 @@ Jets defense have been reacting well to the Patriots and their offensive schemin
 ## 49ers @ Eagles
 
 Eagles defensive line dominating at the line of scrimmage. It's a thing of beauty.
+
+Jalen Reagor could be something special.
