@@ -75,3 +75,9 @@ Dallas moving Micah Parsons in as defensive end given Randy Gregory or DeMarcus 
 I say this again, Storm Norton is a major liability. This Charger offense needs to give him help or swap him out.
 
 Just so many sloppy mistakes being made by the Chargers in terms of penalties. Consider this a symptom of the head coach being completely green.
+
+Second half, offensive coordinator Lombardi refuses to help out his beleaguered right tackle much.
+
+Dallas is winning this game in the trenches. As simple as that. Both the offensive line and defensive line are outclassing their counterparts. Chargers are only contesting because of Justin Herbert.
+
+Dak is not playing well today. His fault as well as a function of poor scheme. It doesn't help that Kellen Moore is calling zone runs right up into the heart of the defense. Against a Staley defense, outside runs are the key to success as Kyle Shanahan so aptly demonstrated last year. 
