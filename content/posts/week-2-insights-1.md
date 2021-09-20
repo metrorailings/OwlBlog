@@ -101,3 +101,5 @@ On a positive note, the Ravens ground game has been spectacular. These Chiefs ar
 Lamar Jackson is a moron.
 
 Travis Kelce can read defenses about as well as Mahomes. Keep that in mind against blitz-happy teams like the Ravens.
+
+When Baltimore attempts the blitz, things don't end well. Byron Pringle took down a touchdown off a linebacker blitz.
