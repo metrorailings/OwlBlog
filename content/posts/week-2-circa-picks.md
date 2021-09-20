@@ -237,10 +237,24 @@ Bears @ **Rams**
 
 #### _Key Injuries_
 
+Indianapolis is down a cornerback and a tackle. Rams are mostly healthy
+
 #### _History_
+
+Rams and Colts don't face each other two often, as both teams belong in different conferences.
 
 #### _Weather_
 
-Warm sunny day
+Doesn't matter, game is in a dome.
 
 ***
+
+Colts +3.5
+
+***
+
+**Indianapolis covers if**  
+they bounce back after a humiliating outing against the Seahawks last week and they can establish the ground game against a defense known for its lightweight boxes.
+
+**Los Angeles covers if  
+**they can prevent the Colts from getting into a groove with their rushing attack. Matthew Stafford and company also need to do a better job maintaining wrist control of the game throughout the entire match.
