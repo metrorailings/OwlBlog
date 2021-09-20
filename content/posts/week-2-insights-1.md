@@ -99,3 +99,5 @@ Problem with trying to copy Tampa Bay's style of defense is that Tampa has multi
 On a positive note, the Ravens ground game has been spectacular. These Chiefs are so helpless against Baltimore's halfbacks.
 
 Lamar Jackson is a moron.
+
+Travis Kelce can read defenses about as well as Mahomes. Keep that in mind against blitz-happy teams like the Ravens.
