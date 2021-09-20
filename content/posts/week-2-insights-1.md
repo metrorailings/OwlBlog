@@ -97,3 +97,5 @@ As predicted, the Ravens defense is playing very safely, trying to mimic the sam
 Problem with trying to copy Tampa Bay's style of defense is that Tampa has multiple pass rushers worth a damn. It remains to be seen if Baltimore has even _just one_ pass rusher worthy of note.
 
 On a positive note, the Ravens ground game has been spectacular. These Chiefs are so helpless against Baltimore's halfbacks.
+
+Lamar Jackson is a moron.
