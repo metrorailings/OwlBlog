@@ -95,3 +95,5 @@ So far, Jacoby Brissett is negotiating pressure well and throwing some decent ba
 As predicted, the Ravens defense is playing very safely, trying to mimic the same style of defense used by Tampa in the Super Bowl to try and keep this Kansas offense contained. Two deep safeties, little to no blitzing.
 
 Problem with trying to copy Tampa Bay's style of defense is that Tampa has multiple pass rushers worth a damn. It remains to be seen if Baltimore has even _just one_ pass rusher worthy of note.
+
+On a positive note, the Ravens ground game has been spectacular. These Chiefs are so helpless against Baltimore's halfbacks.
