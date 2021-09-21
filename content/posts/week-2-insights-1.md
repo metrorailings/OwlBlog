@@ -114,3 +114,5 @@ Rodgers is still fantastic, no question. Green Bay's defense, on the other hand.
 Detroit's not short on fight.
 
 Robert Tonyan may be a legitimate vector on offense.
+
+Detroit's linebackers are unquestionably liabilities. I don't see much speed from them at all. 
