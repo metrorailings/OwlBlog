@@ -1,6 +1,5 @@
 +++
 date = 2021-09-16T12:00:00Z
-draft = true
 headline = "Week 2 Insights"
 
 +++
@@ -80,7 +79,7 @@ Second half, offensive coordinator Lombardi refuses to help out his beleaguered 
 
 Dallas is winning this game in the trenches. As simple as that. Both the offensive line and defensive line are outclassing their counterparts. Chargers are only contesting because of Justin Herbert.
 
-Dak is not playing well today. His fault as well as a function of poor scheme. It doesn't help that Kellen Moore is calling zone runs right up into the heart of the defense. Against a Staley defense, outside runs and sweeps are the key to success as Kyle Shanahan so aptly demonstrated last year. 
+Dak is not playing well today. His fault as well as a function of poor scheme. It doesn't help that Kellen Moore is calling zone runs right up into the heart of the defense. Against a Staley defense, outside runs and sweeps are the key to success as Kyle Shanahan so aptly demonstrated last year.
 
 ***
 
@@ -103,3 +102,13 @@ Lamar Jackson is a moron.
 Travis Kelce can read defenses about as well as Mahomes. Keep that in mind against blitz-happy teams like the Ravens.
 
 When Baltimore attempts the blitz, things don't end well. Byron Pringle took down a touchdown off a linebacker blitz.
+
+***
+
+## Lions @ Packers
+
+Aaron Rodgers and his ability to quickly initiate plays at a moment's whim is something beautiful. 
+
+Rodgers is still fantastic, no question. Green Bay's defense, on the other hand...is pretty shit, especially without Za'Darius Smith.
+
+Detroit's not short on fight.
