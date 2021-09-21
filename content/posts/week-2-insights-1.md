@@ -112,3 +112,5 @@ Aaron Rodgers and his ability to quickly initiate plays at a moment's whim is so
 Rodgers is still fantastic, no question. Green Bay's defense, on the other hand...is pretty shit, especially without Za'Darius Smith.
 
 Detroit's not short on fight.
+
+Robert Tonyan may be a legitimate vector on offense.
