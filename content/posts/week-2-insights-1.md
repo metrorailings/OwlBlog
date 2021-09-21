@@ -122,3 +122,5 @@ Detroit's linebackers are unquestionably liabilities. I don't see much speed fro
 ***
 
 ## Vikings @ Cardinals
+
+Busted pass coverage on the opening drive leading to a touchdown on the second play.
