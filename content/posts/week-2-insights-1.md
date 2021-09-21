@@ -128,3 +128,5 @@ Busted pass coverage by the Cardinals on the opening drive leading to a touchdow
 Kyler Murray's speed is transcending the entire offense to another level. Having a receiver like DeAndre Hopkins work with Kyler on his scrambles really gives this offense its magic touch.
 
 Dalvin Cook is an absolute beast.
+
+Captain Kirk can run.
