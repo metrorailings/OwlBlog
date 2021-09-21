@@ -124,3 +124,5 @@ Detroit's linebackers are unquestionably liabilities. I don't see much speed fro
 ## Vikings @ Cardinals
 
 Busted pass coverage by the Cardinals on the opening drive leading to a touchdown on the second play for the Vikings.
+
+Kyler Murray's speed is transcending the entire offense to another level. Having a receiver like DeAndre Hopkins work with Kyler on his scrambles really gives this offense its magic touch.
