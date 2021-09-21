@@ -53,6 +53,8 @@ Carson Wentz is still holding on to the ball for too long.
 
 I cannot for the life of me fathom why Indianapolis' defense is playing so few men in the box. Eberflus has to be completely spooked by this Rams passing offense.
 
+Michael Lombardi credibly slamming Carson Wentz for playing poorly. Pretty clear Wentz is no longer a serviceable quarterback.
+
 ***
 
 ## Raiders @ Steelers
@@ -107,7 +109,7 @@ When Baltimore attempts the blitz, things don't end well. Byron Pringle took dow
 
 ## Lions @ Packers
 
-Aaron Rodgers and his ability to quickly initiate plays at a moment's whim is something beautiful. 
+Aaron Rodgers and his ability to quickly initiate plays at a moment's whim is something beautiful.
 
 Rodgers is still fantastic, no question. Green Bay's defense, on the other hand...is pretty shit, especially without Za'Darius Smith.
 
@@ -115,4 +117,4 @@ Detroit's not short on fight.
 
 Robert Tonyan may be a legitimate vector on offense.
 
-Detroit's linebackers are unquestionably liabilities. I don't see much speed from them at all. 
+Detroit's linebackers are unquestionably liabilities. I don't see much speed from them at all.
