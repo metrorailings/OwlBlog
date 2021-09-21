@@ -10,22 +10,22 @@ Anyway, let's go at it.
 
 ***
 
-### Chiefs @ Ravens (+4)
+### Seahawks @ Vikings (+2)
 
 ***
 
 #### _Latest Results_
 
-Browns @ **Chiefs**  
-Ravens @ **Browns** (MNF)
+**Titans** @ Seahawks  
+Vikings @ **Cardinals**
 
 #### _Key Injuries_
 
-Ravens may be down a key offensive lineman in Ronnie Stanley. If this is the case, Alejandro Villanueva will be sliding over to left tackle in his stead.
+TBD
 
-#### _History_
+#### History
 
-Both these teams met last year, although Baltimore was the team favored in that match. Kansas routed the Ravens in this game though - Patrick Mahomes had no trouble dissecting Wink Martindale's blitzes and pass coverage schemes. It was almost beautiful seeing these Chiefs move the ball against the Ravens with such surgical precision. Baltimore was forced to abandon the ground game early in an effort to keep pace with the Chiefs offense. As expected, that didn't pan out.
+Both these teams met last year in a close-fought match.
 
 #### _Weather_
 
@@ -33,15 +33,15 @@ Dome game, doesn't matter.
 
 ***
 
-Ravens +4
+Uncertain
 
 ***
 
-**Baltimore covers if**  
-they dominate time of possession by running the ball effectively and preventing the Chiefs offense from getting into any sort of rhythm early. It helps that the team should be seething coming off an emotional loss against the Raiders. On top of that, playing their homecoming game in primetime against a team that embarrassed them last year should only hype the Ravens up even more.
+**Minnesota covers if**  
+they own time of possession through a ground game led by Dalvin Cook.
 
-**Kansas City covers if**  
-they force the Ravens into a hole early, compelling Baltimore to call fewer rushing plays in favor of passes. Lamar isn't built to mount comebacks through the air. If this game scripts out roughly the same way as their prior match, Kansas will be comfortably scratching one more tick in the win column come Sunday night.
+**Seattle covers if**  
+they can regroup after a disastrous outing against Derrick Henry and keep Cook in check through their base cover-three defense. The Seahawks need to put the onus of production on Kirk Cousin's shoulders. If they do that, Russell Wilson will have enough opportunities to score himself. And if Wilson can run his scrambles as effectively as Kyler Murray last week, Seattle should be able to net enough points on offense to win this game.
 
 ***
 
