@@ -130,3 +130,5 @@ Kyler Murray's speed is transcending the entire offense to another level. Having
 Dalvin Cook is an absolute beast.
 
 Captain Kirk can run.
+
+This Moore kid on Arizona can be a real weapon.
