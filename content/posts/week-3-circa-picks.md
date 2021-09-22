@@ -45,4 +45,25 @@ they can regroup after a disastrous outing against Derrick Henry and keep Cook i
 
 ***
 
-### 
+### Chargers @ Chiefs (-6.5)
+
+***
+
+#### _Latest Results_
+
+**Cowboys** @ Chargers  
+Chiefs @ **Ravens**
+
+#### _Key Injuries_
+
+TBD
+
+#### History
+
+Both these teams met last year in a close-fought match.
+
+#### _Weather_
+
+Dome game, doesn't matter.
+
+***
