@@ -62,10 +62,20 @@ TBD
 
 As divisional opponents, these two teams meet regularly. But this will be the first year head coach Brandon Staley actually faces off against an opponent. I'm not sure if past games matter here, especially because the Chiefs faced off against the Chargers in games that can't be evaluated in the same context as this game.
 
-That being said, this will be the first time this season Kansas City's defense faces off against an opposing offense not primarily defined by its ground game. While that unit has been historically disappointing so far this season, it's not fair to hold the past two games against it given the nature of those offenses it faced off against.
+That being said, this will be the first time this season Kansas City's defense faces off against an opposing offense not primarily defined by its ground game. While the Chiefs' defensive outfit has been historically disappointing these past two weeks, it's not fair to condemn the unit to futility given the nature of those offenses against which it faced off.
 
 #### _Weather_
 
 A lovely day for some football.
 
 ***
+
+Chiefs -6.5
+
+***
+
+**Kansas City covers if**  
+their defense can regularly harangue Justin Herbert by exploiting the right side of the Chargers offensive line through blitzes and strategic pass rushing. It would also help if the Chiefs play with more emotion coming off an embarrassing defeat in primetime.
+
+**Los Angeles covers if**  
+Justin Herbert is allowed to manage the offense without Kansas City's pass rushers harassing him much.
