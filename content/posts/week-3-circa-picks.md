@@ -60,10 +60,12 @@ TBD
 
 #### History
 
-Both these teams met last year in a close-fought match.
+As divisional opponents, these two teams meet regularly. But this will be the first year head coach Brandon Staley actually faces off against an opponent. I'm not sure if past games matter here, especially because the Chiefs faced off against the Chargers in games that can't be evaluated in the same context as this game.
+
+That being said, this will be the first time this season Kansas City's defense faces off against an opposing offense not primarily defined by its ground game. While that unit has been historically disappointing so far this season, it's not fair to hold the past two games against it given the nature of those offenses it faced off against.
 
 #### _Weather_
 
-Dome game, doesn't matter.
+A lovely day for some football.
 
 ***
