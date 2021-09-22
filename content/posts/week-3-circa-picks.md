@@ -79,3 +79,5 @@ their defense can regularly harangue Justin Herbert by exploiting the right side
 
 **Los Angeles covers if**  
 Justin Herbert is allowed to manage the offense without Kansas City's pass rushers harassing him much.
+
+***
