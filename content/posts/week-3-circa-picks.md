@@ -107,6 +107,16 @@ All things said, San Francisco's performance wasn't so horrid last year. Green B
 
 #### _Weather_
 
-A lovely day for some football.
+Easy California weather.
 
 ***
+
+49ers -3.5
+
+***
+
+**San Francisco covers if**  
+they can establish their ground game against a Green Bay defense known surrendering yards against opposing rushers.
+
+**Green Bay covers if**  
+they can keep the 49ers from popping off on early downs with their ground game. The Packers need to put the onus of production on Jimmy Garoppalo's shoulders. Unlike Mike Pettine, Joe Barry needs to prioritize the run defense first, even if it means risking some big pass plays. It remains to be seen whether Barry's capable of pulling off that shift in focus though.
