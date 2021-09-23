@@ -126,3 +126,20 @@ they can keep the 49ers from popping off on early downs with their ground game. 
 ### Buccaneers @ Rams (-1)
 
 ***
+
+#### _Latest Results_
+
+Falcons @ **Buccaneers**  
+**Rams** @ Colts
+
+#### _Key Injuries_
+
+TBD
+
+#### History
+
+#### _Weather_
+
+Dome game
+
+***
