@@ -99,7 +99,11 @@ TBD
 
 Two years ago, San Francisco hammered Green Bay twice, once in the regular season and once in the conference championships. The Packers were clearly the inferior team, unable to cope with San Francisco's complex rushing game and its suffocating pass rush.
 
-Last year, the tables were turned - Green Bay dominated in their rematch against a 49ers team plagued by injuries. George Kittle, Dee Ford, Jimmy Garoppalo, Nick Bosa, Brandon Aiyuk, Raheem Mostert...so many of their stars were sidelined. 
+Last year, tables were turned - Green Bay dominated in their rematch against a 49ers team plagued by injuries. George Kittle, Dee Ford, Jimmy Garoppalo, Nick Bosa, Brandon Aiyuk, Raheem Mostert...so many of their stars were unable to play. On top of that, not having fans negated San Francisco's lovely home field advantage. 
+
+Rewatching that game though...I noticed something odd - San Francisco last year ran far fewer rushing plays against the Packers than the year before. Its a strategy made all the more bizarre considering Nick Mullens was forced to starting quarterback. In the first half, only 9 rushes were attempted. Compare that to the first half of the 2019 NFC conference championship, where Shanahan called 22 rushes.
+
+All things said, San Francisco's performance wasn't so horrid last year. Green Bay still won in a landslide, but it wasn't as easy a win as was expected beforehand.  
 
 #### _Weather_
 
