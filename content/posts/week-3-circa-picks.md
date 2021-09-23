@@ -138,8 +138,20 @@ TBD
 
 #### History
 
+These two teams have faced off last year. Even though Los Angeles only won by three points, the team had no problems maintaining wrist control through the whole match. Brady's attempts to stage a second-half comeback were constantly quashed by the Rams pass rush.
+
 #### _Weather_
 
 Dome game
 
 ***
+
+Rams -1
+
+***
+
+**Los Angeles covers if**  
+they execute the same offensive game plan against the Bucs. It was a plan so sound that Jared Goff had no issue keeping the offense humming in Tampa Bay. Imagine what a seasoned quarterback like Stafford could do with that blueprint, especially on home field.
+
+**Tampa Bay covers if**  
+McVay and the Rams coaches decide to be cute with the game plan. Last year's game plan was so successful for the Rams mainly because Jared Goff was getting rid of the ball way too quickly for the pass rush to impact him. Given the Buccaneer secondary isn't an elite group by any means, it was all too easy to keep the chains moving so long as Tampa's pass rushers didn't have enough time to compress the pocket. 
