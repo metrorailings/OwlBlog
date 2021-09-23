@@ -99,7 +99,7 @@ TBD
 
 Two years ago, San Francisco hammered Green Bay twice, once in the regular season and once in the conference championships. The Packers were clearly the inferior team, unable to cope with San Francisco's complex rushing game and its suffocating pass rush.
 
-Last year, the tables were turned - Green Bay dominated in their rematch against a wounded 49er team.
+Last year, the tables were turned - Green Bay dominated in their rematch against a 49ers team plagued by injuries. George Kittle, Dee Ford, Jimmy Garoppalo, Nick Bosa, Brandon Aiyuk, Raheem Mostert...so many of their stars were sidelined. 
 
 #### _Weather_
 
