@@ -81,3 +81,28 @@ their defense can regularly harangue Justin Herbert by exploiting the right side
 Justin Herbert is allowed to manage the offense without Kansas City's pass rushers harassing him much.
 
 ***
+
+### Packers @ 49ers (-3.5)
+
+***
+
+#### _Latest Results_
+
+Lions @ **Packers**  
+**49ers** @ Eagles
+
+#### _Key Injuries_
+
+TBD
+
+#### History
+
+Two years ago, San Francisco hammered Green Bay twice, once in the regular season and once in the conference championships. The Packers were clearly the inferior team, unable to cope with San Francisco's complex rushing game and its suffocating pass rush.
+
+Last year, the tables were turned - Green Bay dominated in their rematch against a wounded 49er team.
+
+#### _Weather_
+
+A lovely day for some football.
+
+***
