@@ -116,7 +116,13 @@ Easy California weather.
 ***
 
 **San Francisco covers if**  
-they can establish their ground game against a Green Bay defense known surrendering yards against opposing rushers.
+they can establish their ground game against a Green Bay defense known surrendering yards against opposing rushers. To more specifically quantify this, the 49ers need to call more runs than passes in the first half.
 
 **Green Bay covers if**  
 they can keep the 49ers from popping off on early downs with their ground game. The Packers need to put the onus of production on Jimmy Garoppalo's shoulders. Unlike Mike Pettine, Joe Barry needs to prioritize the run defense first, even if it means risking some big pass plays. It remains to be seen whether Barry's capable of pulling off that shift in focus though.
+
+***
+
+### Buccaneers @ Rams (-1)
+
+***
