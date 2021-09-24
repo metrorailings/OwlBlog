@@ -99,11 +99,11 @@ TBD
 
 Two years ago, San Francisco hammered Green Bay twice, once in the regular season and once in the conference championships. The Packers were clearly the inferior team, unable to cope with San Francisco's complex ground game and its suffocating pass rush.
 
-Last year, tables were turned - Green Bay dominated in their rematch against a 49ers team plagued by injuries. George Kittle, Dee Ford, Jimmy Garoppalo, Nick Bosa, Brandon Aiyuk, Raheem Mostert...so many of their stars were unable to play. On top of that, not having fans negated San Francisco's lovely home field advantage. 
+Last year, tables were turned - Green Bay dominated in their rematch against a 49ers team plagued by injuries. George Kittle, Dee Ford, Jimmy Garoppalo, Nick Bosa, Brandon Aiyuk, Raheem Mostert...so many of their stars were unable to play. On top of that, not having fans negated San Francisco's lovely home field advantage.
 
 Rewatching that game though...I noticed something odd - San Francisco last year ran far fewer rushing plays against the Packers than the year before. Its a strategy made all the more bizarre considering Nick Mullens was forced to starting quarterback. In the first half, only 9 rushes were attempted. Compare that to the first half of the 2019 NFC conference championship, where Shanahan called 22 rushes.
 
-All things said, San Francisco's performance wasn't so horrid last year. Green Bay still won in a landslide, but it wasn't as easy a win as was expected beforehand.  
+All things said, San Francisco's performance wasn't so horrid last year. Green Bay still won in a landslide, but it wasn't as easy a win as was expected beforehand.
 
 #### _Weather_
 
@@ -154,4 +154,29 @@ Rams -1
 they execute the same offensive game plan against the Bucs. It was a plan so sound that Jared Goff had no issue keeping the offense humming in Tampa Bay. Imagine what a seasoned quarterback like Stafford could do with that blueprint, especially on home field.
 
 **Tampa Bay covers if**  
-McVay and the Rams coaches decide to be cute with the game plan. Last year's game plan was so successful for the Rams mainly because Jared Goff was getting rid of the ball way too quickly for the pass rush to impact him. Given the Buccaneer secondary isn't an elite group by any means, it was all too easy to keep the chains moving so long as Tampa's pass rushers didn't have enough time to compress the pocket. 
+McVay and the Rams coaches decide to be cute with the game plan. Last year's game plan was so successful for the Rams mainly because Jared Goff was getting rid of the ball way too quickly for the pass rush to impact him. Given the Buccaneer secondary isn't an elite group by any means, it was all too easy to keep the chains moving so long as Tampa's pass rushers didn't have enough time to compress the pocket.
+
+***
+
+### Dolphins @ Raiders (-4)
+
+***
+
+#### _Latest Results_
+
+Falcons @ **Buccaneers**  
+**Rams** @ Colts
+
+#### _Key Injuries_
+
+TBD
+
+#### History
+
+These two teams have faced off last year. Even though Los Angeles only won by three points, the team had no problems maintaining wrist control through the whole match. Brady's attempts to stage a second-half comeback were constantly quashed by the Rams pass rush.
+
+#### _Weather_
+
+Dome game, don't matter.
+
+***
