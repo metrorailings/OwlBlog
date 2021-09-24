@@ -93,7 +93,7 @@ Lions @ **Packers**
 
 #### _Key Injuries_
 
-San Francisco will be coming into this game without the services of their main tailbacks, that's for sure. More concerning though is that Arik Armstead hasn't been practicing at all this week. The 49ers need all their top defensive linemen suited up when Aaron Rodgers comes into town.
+San Francisco will be coming into this game without the services of their main tailbacks, that's for sure. More worrying though is that Arik Armstead hasn't been practicing at all this week. The 49ers need all their top defensive linemen suited up when Aaron Rodgers comes into town.
 
 #### History
 
