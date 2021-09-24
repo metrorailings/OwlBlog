@@ -182,3 +182,7 @@ Both of these teams faced off last year. Miami and Las Vegas spent most of the g
 Dome game, don't matter.
 
 ***
+
+Dolphins +4
+
+***
