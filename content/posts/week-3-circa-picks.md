@@ -134,7 +134,9 @@ Falcons @ **Buccaneers**
 
 #### _Key Injuries_
 
-TBD
+Leonard Floyd not practicing so far this week is a point of concern for a Rams team lacking talent at the bookends of its defensive line.
+
+The Bucs find themselves in a similar predicament with Jason Pierre-Paul. It is highly likely he won't play this week to rest his injured shoulder. Unfortunately, Tampa was already managing a spate of injuries in its secondary, so the last thing it needs is a critical piece missing along that defensive front.
 
 #### History
 
