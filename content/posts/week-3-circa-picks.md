@@ -21,7 +21,7 @@ Vikings @ **Cardinals**
 
 #### _Key Injuries_
 
-TBD
+Dalvin Cook isn't practicing for the Vikings. Not good to see their best offensive player unable to even practice on a limited basis by Thursday.
 
 #### History
 
