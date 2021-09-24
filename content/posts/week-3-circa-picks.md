@@ -186,3 +186,9 @@ Dome game, don't matter.
 Dolphins +4
 
 ***
+
+**Miami covers if**  
+they can rally behind Jacoby Brissett and field a more aggressive offense willing to attack the Raiders middling secondary. Miami especially needs to come heavy here after being blanked by Buffalo last week
+
+**Las Vegas covers if**  
+Derek Carr can continue playing at an elite level. History suggests otherwise, but Josh Allen's upsurge last year showed me miracles can happen in the National Football League. Even if Carr disappoints here, the Raiders can make up ground here through a defense led by a pass-rushing beast in Maxx Crosby. 
