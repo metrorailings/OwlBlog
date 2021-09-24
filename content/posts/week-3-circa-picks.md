@@ -206,6 +206,20 @@ Derek Carr can continue playing at an elite level. History suggests otherwise, b
 
 #### _Key Injuries_
 
+Jets might miss Jamison Crowder for yet another week.
+
 #### History
 
+These Broncos and Jets met each other in primetime last year, but circumstances were way different then. Denver was forced to start something named Brett Rypien at quarterback. The Jets were being managed by an entirely different coaching regime and captained by Sam Darnold.
+
+For all intents and purposes, that game bears no relation to this upcoming contest.
+
 #### _Weather_
+
+A hot day, but otherwise good weather for football
+
+***
+
+Jets +10
+
+***
