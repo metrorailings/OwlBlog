@@ -56,7 +56,7 @@ Chiefs @ **Ravens**
 
 #### _Key Injuries_
 
-Two key cogs in the Chargers defense aren't practicing - Joey Bosa and Chris Harris.
+Two key cogs in the Chargers defense aren't practicing - Joey Bosa and Chris Harris. Even worse though going forward is the fact that Bryan Bulaga will be out for the foreseeable future.
 
 #### History
 
