@@ -123,7 +123,7 @@ they can keep the 49ers from popping off on early downs with their ground game. 
 
 ***
 
-### Buccaneers @ Rams (-1)
+### Buccaneers @ Rams (-1.5)
 
 ***
 
@@ -164,8 +164,8 @@ McVay and the Rams coaches decide to be cute with the game plan. Last year's gam
 
 #### _Latest Results_
 
-Falcons @ **Buccaneers**  
-**Rams** @ Colts
+**Bills** @ Dolphins  
+**Raiders** @ Steelers
 
 #### _Key Injuries_
 
