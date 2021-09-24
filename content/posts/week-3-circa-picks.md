@@ -175,7 +175,7 @@ Josh Jacobs has yet to practice at all this week, putting his availability in se
 
 #### History
 
-These two teams have faced off last year. Even though Los Angeles only won by three points, the team had no problems maintaining wrist control through the whole match. Brady's attempts to stage a second-half comeback were constantly quashed by the Rams pass rush.
+Both of these teams faced off last year. Miami and Las Vegas spent most of the game flopping around like dead fish up until Brian Flores was forced to throw Ryan Fitzpatrick to jolt some life back into the offense. Oddly enough, that seemed to have woke up the Vegas offense too, but Fitzpatrick gave Miami just enough oomph to pull out a razor-thin victory in enemy territory.
 
 #### _Weather_
 
