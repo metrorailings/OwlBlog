@@ -25,11 +25,11 @@ Dalvin Cook isn't practicing for the Vikings. Not good to see their best offensi
 
 #### History
 
-Both these teams met last year in a close-fought match.
+Both these teams met last year in a close-fought match. Dalvin Cook was balling out and led Minnesota to an early lead, but the Seahawks were able to rally in the second half, edging the Vikings out in a one point victory.
 
 #### _Weather_
 
-Dome game, doesn't matter.
+Dome game, it doesn't matter.
 
 ***
 
