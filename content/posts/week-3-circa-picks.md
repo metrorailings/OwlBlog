@@ -56,7 +56,7 @@ Chiefs @ **Ravens**
 
 #### _Key Injuries_
 
-TBD
+Two key cogs in the Chargers defense aren't practicing - Joey Bosa and Chris Harris.
 
 #### History
 
