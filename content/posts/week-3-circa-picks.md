@@ -223,3 +223,9 @@ A hot day, but otherwise good weather for football
 Jets +10
 
 ***
+
+**New York covers if**  
+their offense isn't nearly as pathetic as it looked the past two weeks. It's worth noting the Jets went up against the Panthers and Bill Belichick the last two weeks.  The former may have the best defensive unit in the league and the latter is known for flaying rookie quarterbacks alive. This may be the first time the Jets are going up against a defensive outfit more in line with the league average.
+
+**Denver covers if**  
+their defense is motivated enough to band together and show the league that New England is not the only one in town capable of smothering young quarterbacks cutting their teeth in the professional leagues. 
