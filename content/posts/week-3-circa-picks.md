@@ -38,7 +38,9 @@ Uncertain
 ***
 
 **Minnesota covers if**  
-they own time of possession through a ground game led by Dalvin Cook. Russell can't cook if he only has so much time in the kitchen.
+they own time of possession through a ground game led by Dalvin Cook. Russell can't cook if he only has so much time in the kitchen.  
+OR  
+Mike Zimmer scares his men into outperforming in order to avoid a three-game hole.
 
 **Seattle covers if**  
 they can regroup after a disastrous outing against Derrick Henry and keep Cook in check through their base cover-three defense. The Seahawks need to put the onus of production on Kirk Cousin's shoulders. If they do that, Russell Wilson will have enough opportunities to score himself. And if Wilson can run his scrambles as effectively as Kyler Murray did last week against these Minnesota boys, Seattle should be able to net enough points on offense to win this game.
