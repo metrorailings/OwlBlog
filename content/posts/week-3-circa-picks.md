@@ -10,7 +10,7 @@ Anyway, let's go at it.
 
 ***
 
-### Seahawks @ Vikings (+2)
+### Seahawks @ Vikings (+1.5)
 
 ***
 
