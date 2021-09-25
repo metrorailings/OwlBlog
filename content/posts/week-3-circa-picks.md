@@ -171,7 +171,7 @@ McVay and the Rams coaches decide to be cute with the game plan. Last year's gam
 
 #### _Key Injuries_
 
-Josh Jacobs has yet to practice at all this week, putting his availability in serious doubt. He and Darren Waller form the foundation of this offense, so it's seriously alarming if we see him in street clothes when this game starts. 
+Josh Jacobs has yet to practice at all this week, putting his availability in serious doubt. He and Darren Waller form the foundation of this offense, so it's seriously alarming if we see him in street clothes when this game starts.
 
 #### History
 
@@ -206,7 +206,7 @@ Derek Carr can continue playing at an elite level. History suggests otherwise, b
 
 #### _Key Injuries_
 
-Jets might miss Jamison Crowder for yet another week.
+Jets might miss Jamison Crowder for yet another week, though Robert Saleh seems to offer some hope that the man might finally make his debut this year.
 
 #### History
 
