@@ -17,3 +17,11 @@ David Culley has been too cowardly at times, opting to punt the ball in opponent
 ## Falcons @ Giants
 
 A two-man pass rush, Giants? What the fuck...? How is that even possible?
+
+On a drive when momentum was railing hard against the Falcons, Atlanta still managed to convert four 3rd downs en route to a touchdown. Well done, New York.
+
+***
+
+## Buccaneers @ Rams
+
+The Rams offensive line being beaten hard at the line of scrimmage so far...
