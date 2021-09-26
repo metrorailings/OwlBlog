@@ -39,3 +39,5 @@ Wilson truly needs to get rid of the ball quicker given the shoddy state of the 
 Zack Wilson impressing me on an improvised pass despite the pass ultimately not connecting with his targeted receiver.
 
 I'm honestly not sure what this Jets team is doing on offense. Mike LaFleur is playing some weak cards on offense and isn't even doing much to dress them up. On top of that, the ground game is virtually nonexistent, something that simply can't be happening if you're running a modified version of the Shanahan offense.
+
+The Jets may have the worst offensive line in the league. Not an easy accomplishment too, given the state of the Giants offensive line. But it's a truly shit offensive line.  Against solid defensive fronts, the offense is damn near hopeless.
