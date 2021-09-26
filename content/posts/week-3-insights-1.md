@@ -11,3 +11,9 @@ I notice the Panthers run quite a few hard play-action fakes from under center. 
 Brandin Cooks is a real gamer for the Texans. He and Davis Mills are building a special bond.
 
 David Culley has been too cowardly at times, opting to punt the ball in opponent territory on multiple occasions.
+
+***
+
+## Falcons @ Giants
+
+A two-man pass rush, Giants? What the fuck...? How is that even possible?
