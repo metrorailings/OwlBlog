@@ -30,6 +30,10 @@ Finally, the Rams incorporating the hurry-up to their offense to keep Tampa's pa
 
 I'll tell you this - Tampa's screen game has been on point. Some of their best plays on offense have come courtesy of well-executed screens. It helps that the Rams aren't a team big on racking the box with defenders.
 
+Needless to say, the relationship between Cooper Kupp and Matthew Stafford is truly special. 
+
+On top of that, Desean Jackson has emerged as a viable weapon for these Rams, especially in the hurry-up offense.
+
 ***
 
 ## Jets @ Broncos
