@@ -32,7 +32,9 @@ I'll tell you this - Tampa's screen game has been on point. Some of their best p
 
 Needless to say, the relationship between Cooper Kupp and Matthew Stafford is truly special. 
 
-On top of that, Desean Jackson has emerged as a viable weapon for these Rams, especially in the hurry-up offense.
+On top of that, DeSean Jackson has emerged as a viable weapon for these Rams, especially in the hurry-up offense.
+
+Tom Brady may be an elite quarterback. His pocket presence, ability to navigate through pressure, and the crisp accuracy of his throws are making a great case for his eliteness.
 
 ***
 
