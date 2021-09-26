@@ -28,6 +28,8 @@ The Rams offensive line being beaten hard at the line of scrimmage so far...why 
 
 Finally, the Rams incorporating the hurry-up to their offense to keep Tampa's pass rush at bay. Solid adjustment.
 
+I'll tell you this - Tampa's screen game has been on point. Some of their best plays on offense have come courtesy of well-executed screens. It helps that the Rams aren't a team big on racking the box with defenders.
+
 ***
 
 ## Jets @ Broncos
