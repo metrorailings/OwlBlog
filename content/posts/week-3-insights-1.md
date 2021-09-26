@@ -34,4 +34,8 @@ Finally, the Rams incorporating the hurry-up to their offense to keep Tampa's pa
 
 Denver's rookie halfback is impressing so far, but credit is also due to the team's run blocking.
 
+Wilson truly needs to get rid of the ball quicker given the shoddy state of the offensive line.
+
 Zack Wilson impressing me on an improvised pass despite the pass ultimately not connecting with his targeted receiver.
+
+I'm honestly not sure what this Jets team is doing on offense. Mike LaFleur is playing some weak cards on offense and isn't even doing much to dress them up. On top of that, the ground game is virtually nonexistent, something that simply can't be happening if you're running a modified version of the Shanahan offense.
