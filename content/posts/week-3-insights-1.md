@@ -24,4 +24,4 @@ On a drive when momentum was railing hard against the Falcons, Atlanta still man
 
 ## Buccaneers @ Rams
 
-The Rams offensive line being beaten hard at the line of scrimmage so far...
+The Rams offensive line being beaten hard at the line of scrimmage so far...why they're not hurrying up, I don't know why.
