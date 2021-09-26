@@ -25,3 +25,9 @@ On a drive when momentum was railing hard against the Falcons, Atlanta still man
 ## Buccaneers @ Rams
 
 The Rams offensive line being beaten hard at the line of scrimmage so far...why they're not hurrying up, I don't know why.
+
+***
+
+## Jets @ Broncos
+
+Denver's rookie halfback is impressing so far, but credit is also due to the team's run blocking.
