@@ -26,8 +26,12 @@ On a drive when momentum was railing hard against the Falcons, Atlanta still man
 
 The Rams offensive line being beaten hard at the line of scrimmage so far...why they're not hurrying up, I don't know why.
 
+Finally, the Rams incorporating the hurry-up to their offense to keep Tampa's pass rush at bay. Solid adjustment.
+
 ***
 
 ## Jets @ Broncos
 
 Denver's rookie halfback is impressing so far, but credit is also due to the team's run blocking.
+
+Zack Wilson impressing me on an improvised pass despite the pass ultimately not connecting with his targeted receiver.
