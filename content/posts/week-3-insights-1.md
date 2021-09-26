@@ -36,6 +36,8 @@ On top of that, DeSean Jackson has emerged as a viable weapon for these Rams, es
 
 Tom Brady may be an elite quarterback. His pocket presence, ability to navigate through pressure, and the crisp accuracy of his throws are making a great case for his eliteness.
 
+Have to love Tampa Bay's penchant for penalties.
+
 ***
 
 ## Jets @ Broncos
