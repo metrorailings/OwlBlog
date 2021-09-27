@@ -69,3 +69,9 @@ The 49ers not running the ball from the 1-yard line is worrying. Granted, only a
 ## Chargers @ Chiefs
 
 The Chargers were fortunate to catch their first turnover off a ricocheted pass.
+
+The Chiefs seem far more concerned about nailing big plays than on simple offensive fundamentals meant to keep the ball secure. Reckless throws, sloppy ball handling, etc.
+
+Honestly, these Chiefs cornerbacks can't handle the size of these Charger receivers. Their slant routes and curls seem to be too much.
+
+Chiefs aren't getting much pressure from anyone not named Chris Jones. 
