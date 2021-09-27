@@ -55,3 +55,7 @@ The Jets may have the worst offensive line in the league. Not an easy accomplish
 ***
 
 ## Packers @ 49ers
+
+Shanahan isn't running the ball as much as I expected. Neither is he running the same type of rushing plays that were so much money about a year and a half ago. If I had to take a guess why...it's because Shanahan doesn't trust his tailbacks. Contrary to my initial expectations, tailbacks cannot simply be plugged into this system. They need to be adjusted into place.
+
+It's because of that limitation in the ground game that the 49ers are struggling. Jimmy Garropalo can't be trusted to carry the game on his shoulders.
