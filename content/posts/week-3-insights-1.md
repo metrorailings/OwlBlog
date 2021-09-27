@@ -63,3 +63,7 @@ It's because of that limitation in the ground game that the 49ers are struggling
 The 49ers not running the ball from the 1-yard line is worrying. Granted, only about 11 seconds were left on the clock, but San Francisco used to pride itself on its ground game being able to create positive yardage. No more.
 
 49ers defense now playing very conservatively. I understand the secondary depth is thin, but San Francisco is all too happy giving everything up underneath, be it rush or pass.
+
+***
+
+## Football Team @ Bills
