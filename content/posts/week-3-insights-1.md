@@ -81,3 +81,5 @@ These Chiefs offensive line is getting manhandled by the Chargers and their defe
 ***
 
 ## Seahawks @ Vikings
+
+DK Metcalf a difference maker on offense.
