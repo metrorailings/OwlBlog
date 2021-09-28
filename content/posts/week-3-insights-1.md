@@ -74,6 +74,10 @@ The Chiefs seem far more concerned about nailing big plays than on simple offens
 
 Honestly, these Chiefs cornerbacks can't handle the size of these Charger receivers. Their slant routes and curls seem to be too much.
 
-Chiefs aren't getting much pressure from anyone not named Chris Jones. 
+Chiefs aren't getting much pressure from anyone not named Chris Jones.
 
 These Chiefs offensive line is getting manhandled by the Chargers and their defensive front. Even worse, the offensive line is failing on well-timed screens.
+
+***
+
+## Seahawks @ Vikings
