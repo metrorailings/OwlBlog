@@ -85,3 +85,5 @@ These Chiefs offensive line is getting manhandled by the Chargers and their defe
 DK Metcalf a difference maker on offense. Seattle's deep passes have come courtesy of DK Metcalf.
 
 Good scheming by Seahawks going into the second quarter, using a combination of runs and screen concepts to matriculate the ball downfield.
+
+This Seahawks defense acts incredibly idiotic going into the end of a half. Playing prevent defense against Kirk Cousins and the Kubiak offense isn't necessary, especially when Kirk has done nothing but throw the ball short all day.
