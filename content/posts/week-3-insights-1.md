@@ -82,4 +82,6 @@ These Chiefs offensive line is getting manhandled by the Chargers and their defe
 
 ## Seahawks @ Vikings
 
-DK Metcalf a difference maker on offense.
+DK Metcalf a difference maker on offense. Seattle's deep passes have come courtesy of DK Metcalf.
+
+Good scheming by Seahawks going into the second quarter, using a combination of runs and screen concepts to matriculate the ball downfield.
