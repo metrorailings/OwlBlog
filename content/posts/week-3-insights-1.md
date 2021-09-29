@@ -89,3 +89,11 @@ Good scheming by Seahawks going into the second quarter, using a combination of 
 This Seahawks defense acts incredibly idiotic going into the end of a half. Playing prevent defense against Kirk Cousins and the Kubiak offense isn't necessary, especially when Kirk has done nothing but throw the ball short all day.
 
 This Seattle defense hasn't been good all day. The biggest positive is that the Seahawks have hit home multiple times on blitzes, though those blitzes have been risky given that their defense has had to resort to man coverage then.
+
+***
+
+## Bengals vs Steelers
+
+The Bengals are actually pretty good at defensing the run. I'll need to see more in their next match-up against the inept Jaguars, but it's possible Cincinnati may actually feature one of the league's best fronts when it comes to stopping the run.
+
+Ben Roethlisberger is completely hopeless. Some of his interceptions were simply pitiful. Not sure how somebody could zip-line a ball straight to a linebacker after evading a three-man pass rush, but Ben managed to pull that off.
