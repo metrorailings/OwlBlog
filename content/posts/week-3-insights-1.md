@@ -99,4 +99,4 @@ Ben Roethlisberger is completely hopeless. Some of his interceptions were simply
 
 The best part of the Steelers offense may be rookie tailback Najee Harris. 
 
-Pittsburgh's defenders aren't as stout, especially up front. The defensive line is missing some serious juice. I'm not sure why, unless TJ Watt and Tyson Alualu were instrumental to the line performing as well as it did in the past. Melvin Ingram and Cameron Hayward aren't holding things down in their absence though.
+Pittsburgh's defenders aren't as stout, especially up front. The defensive line is missing some serious juice. I'm not sure why either - maybe TJ Watt and Tyson Alualu were instrumental to the line performing as well as it did in the past? Whatever the case, Melvin Ingram and Cameron Hayward aren't doing nearly enough holding things down in their absence.
