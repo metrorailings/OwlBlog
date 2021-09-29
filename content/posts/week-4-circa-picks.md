@@ -46,9 +46,9 @@ Seahawks +2.5
 ***
 
 **Seattle covers if**  
-the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It seems Shanahan doesn't quite trust Trey Sermon with his zone-running concepts, so if the Seahawks can bottle up the 49ers power run game, it'll be up to Jimmy G to once again matriculate the ball downfield. 49er miscues and Seattle's blitzing should give Russell Wilson enough opportunities to marshal scoring drives
+the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It seems Shanahan doesn't quite trust Trey Sermon with his zone-running concepts, so if the Seahawks can bottle up the 49ers power run game, it'll be up to Jimmy G to once again matriculate the ball downfield. 49er miscues and Seattle's blitzing should give Russell Wilson enough opportunities to marshal scoring drives.
 
 **San Francisco** **covers if**  
-their ground game magically comes to life  
+their ground game magically comes to life.  
 OR  
-the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra edge needed to win one over Seattle.
+the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra defensive edge needed to win one over Seattle. Not an easy ask considering Seattle's offense has been unusually productive this season, given their yards per play so far.
