@@ -52,3 +52,5 @@ the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It s
 their ground game magically comes to life.  
 OR  
 the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra defensive edge needed to win one over Seattle. Not an easy ask considering Seattle's offense has been unusually productive this season, given their yards per play so far.
+
+***
