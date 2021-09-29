@@ -27,26 +27,12 @@ Seahawks @ **Vikings**
 
 #### _Key Injuries_
 
-Dalvin Cook isn't practicing for the Vikings. Not good to see their best offensive player unable to even practice on a limited basis by Thursday.
-
 #### History
 
-Both these teams met last year in a close-fought match. Dalvin Cook was balling out and led Minnesota to an early lead, but the Seahawks were able to rally in the second half, edging the Vikings out in a one point victory.
-
 #### _Weather_
-
-Dome game, it doesn't matter.
 
 ***
 
 Uncertain
 
 ***
-
-**Minnesota covers if**  
-they own time of possession through a ground game led by Dalvin Cook. Russell can't cook if he only has so much time in the kitchen.  
-OR  
-Mike Zimmer scares his men into outperforming in order to avoid a three-game hole.
-
-**Seattle covers if**  
-they can regroup after a disastrous outing against Derrick Henry and keep Cook in check through their base cover-three defense. The Seahawks need to put the onus of production on Kirk Cousin's shoulders. If they do that, Russell Wilson will have enough opportunities to score himself. And if Wilson can run his scrambles as effectively as Kyler Murray did last week against these Minnesota boys, Seattle should be able to net enough points on offense to win this game.
