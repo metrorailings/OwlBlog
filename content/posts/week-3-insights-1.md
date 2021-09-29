@@ -95,4 +95,8 @@ This Seattle defense hasn't been good all day. The biggest positive is that the 
 
 The Bengals are actually pretty good at defensing the run. I'll need to see more in their next match-up against the inept Jaguars, but it's possible Cincinnati may actually feature one of the league's best fronts when it comes to stopping the run.
 
-Ben Roethlisberger is completely hopeless. Some of his interceptions were simply pitiful. Not sure how somebody could zip-line a ball straight to a linebacker after evading a three-man pass rush, but Ben managed to pull that off.
+Ben Roethlisberger is completely hopeless. Some of his interceptions were simply pitiful. Not sure how somebody could zip-line a ball straight to a linebacker after navigating through a three-man pass rush, but Ben managed to pull that off.
+
+The best part of the Steelers offense may be rookie tailback Najee Harris. 
+
+Pittsburgh's defenders aren't as stout, especially up front. The defensive line is missing some serious juice. I'm not sure why, unless TJ Watt and Tyson Alualu were instrumental to the line performing as well as it did in the past. Melvin Ingram and Cameron Hayward aren't holding things down in their absence though.
