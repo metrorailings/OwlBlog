@@ -31,7 +31,7 @@ TBD
 
 #### History
 
-The Seahawks faced off against the 49ers twice every year as division opponents. Both times last year, Seattle notched the victory. The second match last year is more relevant for discussion here, given its recency and the fact that it took place in San Francisco. Sure, so many of the 49ers key players weren't present due to injury, but as we saw last week against the Packers, it's questionable whether those injuries truly mattered much in the grand scheme of things. 
+The Seahawks faced off against the 49ers twice every year as division opponents. Both times last year, Seattle notched the victory. The second match last year is more relevant for discussion here, given its recency and the fact that it took place in San Francisco. Sure, so many of the 49ers key players weren't present due to injury, but as we saw last week against the Packers, it's questionable whether those injuries truly mattered much in the grand scheme of things.
 
 Here's the thing - Seattle has no serious pass rush. Then again, Seattle didn't have much last year as well. Only when they blitz can they consistently mount pressure. Good quarterbacks can dissect blitzes, but thankfully the 49ers have none. It's likely a major reason why the Seahawks swept these Niners last year.
 
@@ -70,7 +70,7 @@ TBD
 
 #### History
 
-No relevant history to dive into here. It's probably more instructive to look into instances where Minnesota's defense played a phenomenal rushing offense. 
+No relevant history to dive into here. It's probably more instructive to look into instances where Minnesota's defense played a phenomenal rushing offense.
 
 #### _Weather_
 
