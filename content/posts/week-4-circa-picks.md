@@ -54,3 +54,26 @@ OR
 the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra defensive edge needed to win one over Seattle. Not an easy ask considering Seattle's offense has been unusually productive this season, given their yards per play so far.
 
 ***
+
+### Browns @ Vikings (+2)
+
+***
+
+#### _Latest Results_
+
+Seahawks @ **Vikings**  
+Bears @ **Browns**
+
+#### _Key Injuries_
+
+TBD
+
+#### History
+
+No relevant history to dive into here. It's probably more instructive to look into instances where Minnesota's defense played a phenomenal rushing offense. 
+
+#### _Weather_
+
+Summery and clear
+
+***
