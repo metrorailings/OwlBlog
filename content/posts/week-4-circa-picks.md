@@ -27,12 +27,28 @@ Seahawks @ **Vikings**
 
 #### _Key Injuries_
 
+TBD
+
 #### History
+
+The Seahawks faced off against the 49ers twice every year as division opponents. Both times last year, Seattle notched the victory. The second match last year is more relevant for discussion here, given its recency and the fact that it took place in San Francisco. Sure, so many of the 49ers key players weren't present due to injury, but as we saw last week against the Packers, it's questionable whether those injuries truly mattered much in the grand scheme of things. 
+
+Here's the thing - Seattle has no serious pass rush. Then again, Seattle didn't have much last year as well. Only when they blitz can they consistently mount pressure. Good quarterbacks can dissect blitzes, but thankfully the 49ers have none. It's likely a major reason why the Seahawks swept these Niners last year.
 
 #### _Weather_
 
-***
-
-Uncertain
+Summery and clear
 
 ***
+
+Seahawks +2.5
+
+***
+
+**Seattle covers if**  
+the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It seems Shanahan doesn't quite trust Trey Sermon with his zone-running concepts, so if the Seahawks can bottle up the 49ers power run game, it'll be up to Jimmy G to once again matriculate the ball downfield. 49er miscues and Seattle's blitzing should give Russell Wilson enough opportunities to marshal scoring drives
+
+**San Francisco** **covers if**  
+their ground game magically comes to life  
+OR  
+the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra edge needed to win one over Seattle.
