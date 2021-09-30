@@ -70,9 +70,25 @@ No injuries of any real concern outside of Washington guard Brandon Scherff.
 
 #### _History_
 
+Neither of these teams have met recently, though even if they have met last year, those results mean very little given Atlanta is inaugurating a new management regime this year.
+
+However, we do have a common opponent that these two have faced in back-to-back weeks - the New York Football Giants. Both teams won, but Atlanta's victory felt more substantive given the Falcons outscored the Giants in their own stadium without any partisan intervention from the referees. The score may indicate the game was more boring, but it was a pretty solid win for an Atlanta team desperately searching for its first win in the Arthur Smith era.  
+
 #### _Weather_
 
 Dome game
+
+***
+
+Falcons +1
+
+***
+
+**Atlanta covers if**  
+Arthur Smith can improve his team's offensive productivity against a Washington defensive unit failing to live up to its billing. Matt Ryan's penchant for short passes can hopefully bear fruit here.
+
+**Washington covers if**  
+their venerated defensive line can actually live up to their potential and harangue Matt Ryan all game long.
 
 ***
 
