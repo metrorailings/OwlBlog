@@ -55,6 +55,27 @@ the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra d
 
 ***
 
+### Washington @ Falcons (+1)
+
+***
+
+#### _Latest Results_
+
+Washington @ **Bills**  
+**Falcons** @ Giants
+
+#### _Key Injuries_
+
+No injuries of any real concern outside of Washington guard Brandon Scherff.
+
+#### _History_
+
+#### _Weather_
+
+Dome game
+
+***
+
 ### Browns @ Vikings (+2)
 
 ***
@@ -66,7 +87,7 @@ Bears @ **Browns**
 
 #### _Key Injuries_
 
-Dalvin Cook may still not be able to play for Minnesota. Alexander Mattison did well in relief duty.
+No major injuries, though it's worth keeping an eye on Cleveland's offensive line.
 
 #### History
 
@@ -75,5 +96,3 @@ No relevant history to dive into here. It's probably more instructive to look in
 #### _Weather_
 
 Summery and clear
-
-***
