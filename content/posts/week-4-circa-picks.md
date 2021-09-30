@@ -66,7 +66,7 @@ Bears @ **Browns**
 
 #### _Key Injuries_
 
-TBD
+Dalvin Cook may still not be able to play for Minnesota. Alexander Mattison did well in relief duty.
 
 #### History
 
