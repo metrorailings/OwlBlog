@@ -218,14 +218,21 @@ Dolphins @ **Raiders**
 
 #### _Key Injuries_
 
-Indianapolis may be without _three_ starters on the offensive line. And their left tackle hasn't been all too hot either. Not good for a quarterback that loves playing hero ball.
+Indianapolis may be without _two_ starters on the offensive line. And their left tackle and right guard haven't been all too hot either. Not good for a quarterback that loves playing hero ball.
 
 #### _History_
 
-No recent history between these two teams...but two years ago, these two coaches faced off against one another, albeit with different quarterbacks. Miami managed to pull out the win as double-digit underdogs. Interesting.
+No recent history between these two teams...but two years ago, these two coaches faced off against one another, albeit with different quarterbacks. Miami managed to pull out the win as double-digit underdogs, interestingly enough.
 
 #### _Weather_
 
 Hot, humid, and a little windy.
 
 ***
+
+Dolphins -2.5
+
+***
+
+**Miami covers if**  
+their defensive front seven overwhelms the Colts crippled offensive line,  reducing Carson Wentz to a chalk outline in the process. 
