@@ -16,7 +16,7 @@ This week will hopefully be a different story. Quarterbacks will receive far mor
 
 ***
 
-### Seahawks @ 49ers (-2.5)
+### Seahawks @ 49ers (-3)
 
 ***
 
@@ -41,7 +41,7 @@ Summery and clear
 
 ***
 
-Seahawks +2.5
+Seahawks +3
 
 ***
 
@@ -112,3 +112,19 @@ No relevant history to dive into here. It's probably more instructive to look in
 #### _Weather_
 
 Summery and clear
+
+***
+
+Browns -2
+
+***
+
+**Cleveland covers if**  
+they have more plays with the ball in their possession than the Vikings in what will likely be an offensive spectacle.
+
+**Minnesota covers if**  
+they have more plays with the ball in their possession than the Browns in what will likely be an offensive spectacle.
+
+***
+
+### Steelers @ Packers (-6.5)
