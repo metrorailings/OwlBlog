@@ -202,3 +202,5 @@ they emulate the Rams game plan against Tampa Bay. Los Angeles was able to make 
 
 **Tampa Bay covers if**  
 their defensive front forces some ugly plays from Mac Jones and Brady is able to post up scores regularly against a New England defense still not quite in top form.
+
+***
