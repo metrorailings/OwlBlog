@@ -33,7 +33,7 @@ TBD
 
 The Seahawks faced off against the 49ers twice every year as division opponents. Both times last year, Seattle notched the victory. The second match last year is more relevant for discussion here, given its recency and the fact that it took place in San Francisco. Sure, so many of the 49ers key players weren't present due to injury, but as we saw last week against the Packers, it's questionable whether those injuries truly mattered much in the grand scheme of things.
 
-Here's the thing - Seattle has no serious pass rush. Then again, Seattle didn't have much last year as well. Only when they blitz can they consistently mount pressure. Good quarterbacks can dissect blitzes, but thankfully the 49ers have none. It's likely a major reason why the Seahawks swept these Niners last year.
+Here's the thing - Seattle has no serious pass rush. Then again, Seattle didn't have much in that department last year as well. Only when they blitz can they consistently mount pressure. Good quarterbacks can dissect blitzes, but thankfully the 49ers have none. It's likely a major reason why the Seahawks swept these Niners last year.
 
 #### _Weather_
 
@@ -51,7 +51,7 @@ the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It s
 **San Francisco** **covers if**  
 their ground game magically comes to life.  
 OR  
-the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra defensive edge needed to win one over Seattle. Not an easy ask considering Seattle's offense has been unusually productive this season, given their yards per play so far.
+the return of Nick Bosa and Dee Ford is enough to give San Francisco the extra defensive edge needed to win one over Seattle. Not an easy ask considering Seattle's offense has been unusually productive so far this season, given their yards per play.
 
 ***
 
@@ -66,13 +66,13 @@ Washington @ **Bills**
 
 #### _Key Injuries_
 
-No injuries of any real concern outside of Washington guard Brandon Scherff.
+No injuries of any real concern outside of Washington guard Brandon Scherff, who may be ruled out.
 
 #### _History_
 
-Neither of these teams have met recently, though even if they have met last year, those results mean very little given Atlanta is inaugurating a new management regime this year.
+Neither of these teams have met recently, though even if these have met last year, those results would mean very little given Atlanta is inaugurating a new management regime this year.
 
-However, we do have a common opponent that these two have faced in back-to-back weeks - the New York Football Giants. Both teams won, but Atlanta's victory felt more substantive given the Falcons outscored the Giants in their own stadium without any partisan intervention from the referees. The score may indicate the game was more boring, but it was a pretty solid win for an Atlanta team desperately searching for its first win in the Arthur Smith era.
+However, we do have a common opponent that these two have faced in back-to-back weeks - the New York Football Giants. Both teams won, but Atlanta's victory felt more substantive given the Falcons outscored the Giants in their own stadium without any partisan intervention from the referees. The score may indicate the game was more boring, but it was a pretty solid victory for an Atlanta team desperately searching for its first win in the Arthur Smith era.
 
 #### _Weather_
 
@@ -107,7 +107,7 @@ No major injuries, though it's worth keeping an eye on Cleveland's offensive lin
 
 #### History
 
-No relevant history to dive into here. It's probably more instructive to look into the last instance when Minnesota's defense played a phenomenal rushing offense. In that spirit, I'm not sure if the Saints can be considered as such, but if you want to look at the last time the Vikings faced off against a truly elite tailback, then New Orleans fits that bill. Things didn't go well at all for Minnesota - Alvin Kamara left them covered in track marks.
+No relevant history to dive into here. It's probably more instructive to look into the last instance when Minnesota's defense played a top-tier rushing offense. In that spirit, let's look at their Christmas showdown against the Saints last season. Things didn't go well at all for Minnesota that day - Alvin Kamara left them smothered in track marks.
 
 #### _Weather_
 
