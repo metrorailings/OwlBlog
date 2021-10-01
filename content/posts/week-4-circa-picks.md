@@ -46,7 +46,7 @@ Seahawks +3
 ***
 
 **Seattle covers if**  
-the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It seems Shanahan doesn't quite trust Trey Sermon with his zone-running concepts, so if the Seahawks can bottle up the 49ers power run game, it'll be up to Jimmy G to once again matriculate the ball downfield. 49er miscues and Seattle's blitzing should give Russell Wilson enough opportunities to marshal scoring drives. It also makes things so much more difficult if George Kittle is ruled out with injury. 
+the 49ers are forced to burden Jimmy Garoppalo with the onus of production. It seems Shanahan doesn't quite trust Trey Sermon with his zone-running concepts, so if the Seahawks can bottle up the 49ers power run game, it'll be up to Jimmy G to once again matriculate the ball downfield. 49er miscues and Seattle's blitzing should give Russell Wilson enough opportunities to marshal scoring drives. It also makes things so much more difficult if George Kittle is ruled out with injury.
 
 **San Francisco** **covers if**  
 their ground game magically comes to life.  
@@ -235,4 +235,7 @@ Dolphins -2.5
 ***
 
 **Miami covers if**  
-their defensive front seven overwhelms the Colts crippled offensive line,  reducing Carson Wentz to a chalk outline in the process. 
+their defensive front seven overwhelms the Colts crippled offensive line,  reducing Carson Wentz to a chalk outline in the process.
+
+**Indianapolis covers if**  
+their ground game produces most of their mileage on offense.
