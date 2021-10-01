@@ -72,7 +72,7 @@ No injuries of any real concern outside of Washington guard Brandon Scherff.
 
 Neither of these teams have met recently, though even if they have met last year, those results mean very little given Atlanta is inaugurating a new management regime this year.
 
-However, we do have a common opponent that these two have faced in back-to-back weeks - the New York Football Giants. Both teams won, but Atlanta's victory felt more substantive given the Falcons outscored the Giants in their own stadium without any partisan intervention from the referees. The score may indicate the game was more boring, but it was a pretty solid win for an Atlanta team desperately searching for its first win in the Arthur Smith era.  
+However, we do have a common opponent that these two have faced in back-to-back weeks - the New York Football Giants. Both teams won, but Atlanta's victory felt more substantive given the Falcons outscored the Giants in their own stadium without any partisan intervention from the referees. The score may indicate the game was more boring, but it was a pretty solid win for an Atlanta team desperately searching for its first win in the Arthur Smith era.
 
 #### _Weather_
 
@@ -107,7 +107,7 @@ No major injuries, though it's worth keeping an eye on Cleveland's offensive lin
 
 #### History
 
-No relevant history to dive into here. It's probably more instructive to look into instances where Minnesota's defense played a phenomenal rushing offense.
+No relevant history to dive into here. It's probably more instructive to look into the last instance when Minnesota's defense played a phenomenal rushing offense. In that spirit, I'm not sure if the Saints can be considered as such, but if you want to look at the last time the Vikings faced off against a truly elite tailback, then New Orleans fits that bill. Things didn't go well at all for Minnesota - Alvin Kamara left them covered in track marks.
 
 #### _Weather_
 
