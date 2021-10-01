@@ -128,3 +128,26 @@ they have more plays with the ball in their possession than the Browns in what w
 ***
 
 ### Steelers @ Packers (-6.5)
+
+***
+
+#### _Latest Results_
+
+**Bengals** @ Steelers  
+**Packers** @ 49ers
+
+#### _Key Injuries_
+
+Seems like the Steelers are healing up on defense, though the offense is a bit concerning now that Ben and his top receivers are all dealing with lingering injuries.
+
+Green Bay may be down a few pieces on offense, but nothing significant.
+
+#### History
+
+No relevant history to dive into here. It's probably more instructive to look into the last instance when Minnesota's defense played a phenomenal rushing offense. In that spirit, I'm not sure if the Saints can be considered as such, but if you want to look at the last time the Vikings faced off against a truly elite tailback, then New Orleans fits that bill. Things didn't go well at all for Minnesota - Alvin Kamara left them covered in track marks.
+
+#### _Weather_
+
+Summery and clear
+
+***
