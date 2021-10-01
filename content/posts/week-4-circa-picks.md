@@ -158,8 +158,8 @@ Undecided
 
 ***
 
-\**Pittsburgh covers if  
-\**they play angry after a humiliating loss against an underwhelming Cincinnati team...  
+**Pittsburgh covers if**  
+they play angry after a humiliating loss against an underwhelming Cincinnati team...  
 AND  
 Green Bay comes out gutless and flat following a big win against a conference rival.
 
