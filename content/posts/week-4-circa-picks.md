@@ -144,7 +144,7 @@ Green Bay may be down a few pieces on offense, but nothing significant.
 
 #### History
 
-No relevant history to dive into here. It's probably more instructive to look into the last instance when Minnesota's defense played a phenomenal rushing offense. In that spirit, I'm not sure if the Saints can be considered as such, but if you want to look at the last time the Vikings faced off against a truly elite tailback, then New Orleans fits that bill. Things didn't go well at all for Minnesota - Alvin Kamara left them covered in track marks.
+No relevant history here given these two teams are located in different conferences. Neither of these teams share any common competitors either.
 
 #### _Weather_
 
