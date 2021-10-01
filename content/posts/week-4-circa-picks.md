@@ -185,6 +185,8 @@ The Patriots aren't exactly a picture of health, but they're in far better shape
 
 #### _History_
 
+No recent history between these two teams, but Brady and Belichick know each other all too well, spending the best part of their lives together building a dynasty.
+
 #### _Weather_
 
 Some light rain is possible, but otherwise a pleasant night
