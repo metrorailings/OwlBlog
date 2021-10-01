@@ -142,7 +142,7 @@ they have more plays with the ball in their possession than the Browns in what w
 
 Seems like the Steelers are healing up on defense, though the offense is a bit concerning now that Ben and his top receivers are all dealing with lingering injuries.
 
-Green Bay may be down a few pieces on offense, but nothing significant.
+Green Bay may be down a few pieces on offense, the biggest being deep threat Marquez Valdes-Scantling.
 
 #### History
 
