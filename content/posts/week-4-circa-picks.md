@@ -163,3 +163,40 @@ Green Bay comes out gutless and flat following a big win against a conference ri
 
 **Green Bay covers if**  
 they adopt the same strategy this week that was so money for them last week against the 49ers - quick passes, persistent zone running, and Davonte Adams exploiting holes in pass coverage. The Packers also need to play with some intensity here - lackadaisical play won't suffice here against one of the league's best defenses. 
+
+***
+
+### Buccaneers @ Patriots (+6.5)
+
+***
+
+#### _Latest Results_
+
+Buccaneers @ **Rams**  
+**Saints** @ Patriots
+
+#### _Key Injuries_
+
+Tampa Bay has been ravaged by injuries, the most significant of which being the injury to Jason Pierre-Paul. Without JPP, their pass rush lacks that elite book-end opposite Shaq Barrett. Vita Vea can try and pick up the slack, but interior defensive linemen almost never produce on the same level as a first-class edge rusher. So it remains to be seen whether anybody else outside of Shaq Barrett can keep the heat up on Mac Jones. 
+
+Besides JPP, Tampa Bay's secondary is so ragged that the team was forced to sign Richard Sherman to give that unit some experienced depth. Signing Sherman is probably more a sign of desperation though - the man specializes in zone coverage, not the man coverage schemes Todd Bowles prefers to run.
+
+The Patriots aren't exactly a picture of health, but they're in far better shape. James White is out though with a hip injury.  
+
+#### _History_
+
+#### _Weather_
+
+Some light rain is possible, but otherwise a pleasant night
+
+***
+
+Patriots +6.5
+
+***
+
+**New England covers if**  
+they emulate the Rams game plan against Tampa Bay. Los Angeles was able to make hay against Tampa's defense by exploiting their tattered secondary and getting rid of the ball fairly quickly. Add on top of that Tampa Bay's mess of injuries and the Patriots could not only cover, but win outright.
+
+**Tampa Bay covers if**  
+their defensive front forces some ugly plays from Mac Jones and Brady is able to post up scores regularly against a New England defense still not quite in top form.
