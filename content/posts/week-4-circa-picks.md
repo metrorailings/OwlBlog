@@ -204,3 +204,26 @@ they emulate the Rams game plan against Tampa Bay. Los Angeles was able to make 
 their defensive front forces some ugly plays from Mac Jones and Brady is able to post up scores regularly against a New England defense still not quite in top form.
 
 ***
+
+### Colts @ Dolphins (-2.5)
+
+***
+
+#### _Latest Results_
+
+Colts @ **Titans**  
+Dolphins @ **Raiders**
+
+#### _Key Injuries_
+
+Indianapolis may be without _three_ starters on the offensive line. And their left tackle hasn't been all too hot either. Not good for a quarterback that loves playing hero ball.
+
+#### _History_
+
+No recent history between these two teams...but two years ago, these two coaches faced off against one another, albeit with different quarterbacks. Miami managed to pull out the win as double-digit underdogs. Interesting.
+
+#### _Weather_
+
+Hot, humid, and a little windy.
+
+***
