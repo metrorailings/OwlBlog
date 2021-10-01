@@ -151,3 +151,15 @@ No relevant history here given these two teams are located in different conferen
 Summery and clear
 
 ***
+
+Undecided
+
+***
+
+**Pittsburgh covers if  
+**they play angry after a humiliating loss against an underwhelming Cincinnati team   
+AND  
+Green Bay comes out flat following a big win against a conference rival.
+
+**Green Bay covers if**  
+they adopt the same strategy this week that was so money for them last week against the 49ers - quick passes, persistent zone running, and Davonte Adams exploiting holes in pass coverage. The Packers also need to play with some intensity here - lackadaisical play won't suffice here against one of the league's best defenses. 
