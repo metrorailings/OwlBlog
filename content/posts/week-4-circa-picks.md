@@ -254,6 +254,8 @@ their ground game produces most of their mileage on offense. Indianapolis needs 
 
 Giants will miss their leader on defense, Blake Martinez, for the rest of the season. Tae Crowder will likely step in as replacement, but it remains to be seen whether the man can try and make up for the significant loss of leadership on that side of the ball.
 
+Honestly though, the injuries afflicting the Giants on the offensive side of things concerns me more. Sterling Shepard and Darius Slayton being out means unproven commodities like Kenny Golladay and Evan Engram need to step up.
+
 Saints will be missing the services of Terron Armstead.
 
 #### _History_
