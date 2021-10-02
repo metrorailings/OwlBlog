@@ -238,4 +238,4 @@ Dolphins -2.5
 their defensive front seven overwhelms the Colts crippled offensive line,  reducing Carson Wentz to a chalk outline in the process.
 
 **Indianapolis covers if**  
-their ground game produces most of their mileage on offense.
+their ground game produces most of their mileage on offense. Indianapolis needs to redirect any stress aimed at Carson Wentz against a Miami defense known for its aggression. Unfortunately, I'm not sure the Colts are capable of prioritizing the rush over the pass.
