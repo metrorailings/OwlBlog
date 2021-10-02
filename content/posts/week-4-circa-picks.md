@@ -271,7 +271,7 @@ Giants +7.5
 ***
 
 **New York covers if**  
-Daniel Jones and his cadre of receivers can sustain at least four scoring drives against the Saints, at least one of which results in a touchdown. 
+Daniel Jones and his limited cadre of receivers can sustain at least four scoring drives against the Saints, at least one of which results in a touchdown. 
 
 **New Orleans covers if  
 **their swarming defense shuts down the Giants pass offense. 
