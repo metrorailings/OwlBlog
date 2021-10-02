@@ -239,3 +239,40 @@ their defensive front seven overwhelms the Colts crippled offensive line,  reduc
 
 **Indianapolis covers if**  
 their ground game produces most of their mileage on offense. Indianapolis needs to redirect any stress aimed at Carson Wentz against a Miami defense known for its aggression. Unfortunately, I'm not sure the Colts are capable of prioritizing the rush over the pass.
+
+***
+
+### Giants @ Saints (-7.5)
+
+***
+
+#### _Latest Results_
+
+**Falcons** @ Saints  
+**Saints** @ Patriots
+
+#### _Key Injuries_
+
+Giants will miss their leader on defense, Blake Martinez, for the rest of the season. Tae Crowder will likely step in as replacement, but it remains to be seen whether the man can try and make up for the significant loss of leadership on that side of the ball.
+
+Saints will be missing the services of Terron Armstead.
+
+#### _History_
+
+No recent history between these two teams. It's likely New Orleans won't be playing at full throttle, given their past history as 6+ point favorites. The Saints always have a tendency to play down to weaker opponents, and that ugly habit should serve the Giants well here.
+
+#### _Weather_
+
+Dome affair
+
+***
+
+Giants +7.5
+
+***
+
+**New York covers if**  
+Daniel Jones and his cadre of receivers can sustain at least four scoring drives against the Saints, at least one of which results in a touchdown. 
+
+**New Orleans covers if  
+**their swarming defense shuts down the Giants pass offense. 
