@@ -1,6 +1,5 @@
 +++
 date = 2021-09-28T12:00:00Z
-draft = true
 headline = "Week 4 Circa Picks"
 
 +++
