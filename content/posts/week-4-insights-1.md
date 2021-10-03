@@ -14,6 +14,8 @@ Now that the Giants are playing defensive backs deeper, Payton is compensating b
 
 Kadarius Toney, Kenny Golladay, and John Ross came up big in this game for the Giants. Well done.
 
+Saints love playing so much outside technique with their corners.
+
 ***
 
 ## Browns @ Vikings
