@@ -33,3 +33,5 @@ Randall Cobb playing a huge role here in converting third downs.
 More importantly...it seems like Green Bay is finally chipping edge rushers! Finally!
 
 Green Bay's ground game isn't necessarily built off the raw strength, but on lateral speed. The lateral quickness is what's opening lanes for these halfbacks.
+
+Ben is a corpse out there. No mobility, no accuracy, no touch. Get him out of there. Might as well experiment with your depth quarterbacks, as this is almost assuredly a lost year for the Steelers.
