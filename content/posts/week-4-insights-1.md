@@ -12,6 +12,8 @@ Sean Payton coming out with a phenomenal drive in the second half, having Winsto
 
 Now that the Giants are playing defensive backs deeper, Payton is compensating by calling more running plays.
 
+Kadarius Toney, Kenny Golladay, and John Ross came up big in this game for the Giants. Well done.
+
 ***
 
 ## Browns @ Vikings
