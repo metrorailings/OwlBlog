@@ -23,3 +23,11 @@ Saints love playing so much outside technique with their corners.
 Baker Mayfield not playing drop back football well in a two-minute situation.
 
 ***
+
+## Steelers @ Packers
+
+Diontae Johnson a significant player for the Steelers offense.
+
+Randall Cobb playing a huge role here in converting third downs.
+
+More importantly...it seems like Green Bay is finally chipping edge rushers! Finally!
