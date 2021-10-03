@@ -10,6 +10,8 @@ Daniel Jones is a real one. As dysfunctional as this Giants team can be, Daniel 
 
 Sean Payton coming out with a phenomenal drive in the second half, having Winston throw the deep ball on a sideline fly route, followed by Taysom Hill running the ball with power straight up the gut of the Giants defense. Payton likely saw the Giants playing a little too aggressively in the box and decided the deep backfield was open for business.
 
+Now that the Giants are playing defensive backs deeper, Payton is compensating by calling more running plays.
+
 ***
 
 ## Browns @ Vikings
