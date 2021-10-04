@@ -59,3 +59,5 @@ Is Brady not good throwing in the rain? Four of his passes have soared past his 
 Colts defense using a combination of cover two and man coverage.
 
 Miami's offensive line is truly awful. First, it can't get any push whatsoever in the ground game. Second, pass protection is an absolute trainwreck. Indianapolis' offensive line may be a wretched mess, but even in its current state, it stands above Miami's.
+
+Miami's defense is throwing single-high safety man coverage hard against Indy. Unfortunately, this scheme is leaving the box seriously undermanned. It seems to be a conscientious decision made by Miami's coaches, perhaps in an attempt to force Carson Wentz to hold on to the ball an extra few ticks so that the pass rush can hit home. It doesn't matter though...the Colts are taking sweet advantage here by running the ball hard. And even though Indy's offensive line is shit, their running game still has some juice. It's sustained them on their scoring drives.
