@@ -43,3 +43,7 @@ Let this be a lesson that Green Bay can execute even against big underdogs. Also
 ## Buccaneers @ Patriots
 
 Patriot defense seriously struggling against the rushing attack.
+
+Jones failed to read the blitz on a 3rd down, leading to an interception. Mac Jones needs to get better if the Patriots expect him to set his own protections.
+
+Is it possible Tampa Bay's man style of pass coverage is opening up too many lanes in the middle? All of Mac Jones money throws have been between the hashes, usually to Kendrick Bourne.
