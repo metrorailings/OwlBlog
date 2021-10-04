@@ -35,3 +35,11 @@ More importantly...it seems like Green Bay is finally chipping edge rushers! Fin
 Green Bay's ground game isn't necessarily built off the raw strength, but on lateral speed. The lateral quickness is what's opening lanes for these halfbacks.
 
 Ben is a corpse out there. No mobility, no accuracy, no touch. Get him out of there. Might as well experiment with your depth quarterbacks, as this is almost assuredly a lost year for the Steelers.
+
+Let this be a lesson that Green Bay can execute even against big underdogs. Also, betting on "stock low" teams aren't advisable so long as the quarterback is a massive liability. 
+
+***
+
+## Buccaneers @ Patriots
+
+Patriot defense seriously struggling against the rushing attack.
