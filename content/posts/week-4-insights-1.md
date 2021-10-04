@@ -47,3 +47,7 @@ Patriot defense seriously struggling against the rushing attack.
 Jones failed to read the blitz on a 3rd down, leading to an interception. Mac Jones needs to get better if the Patriots expect him to set his own protections.
 
 Is it possible Tampa Bay's man style of pass coverage is opening up too many lanes in the middle? All of Mac Jones money throws have been between the hashes, usually to Kendrick Bourne.
+
+Josh McDaniels with some solid adjustments and good use of the hurry-up offense. If only he'd be more creative with his ground game....incorporate some pseudo-run concepts in there.
+
+Is Brady not good throwing in the rain? Four of his passes have soared past his receivers. 
