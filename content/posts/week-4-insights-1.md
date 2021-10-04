@@ -55,3 +55,7 @@ Is Brady not good throwing in the rain? Four of his passes have soared past his 
 ***
 
 ## Colts @ Dolphins
+
+Colts defense using a combination of cover two and man coverage.
+
+Miami's offensive line is truly awful. First, it can't get any push whatsoever in the ground game. Second, pass protection is an absolute trainwreck. Indianapolis' offensive line may be a wretched mess, but even in its current state, it stands above Miami's.
