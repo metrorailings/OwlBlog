@@ -51,3 +51,7 @@ Is it possible Tampa Bay's man style of pass coverage is opening up too many lan
 Josh McDaniels with some solid adjustments and good use of the hurry-up offense. If only he'd be more creative with his ground game....incorporate some pseudo-run concepts in there.
 
 Is Brady not good throwing in the rain? Four of his passes have soared past his receivers. 
+
+***
+
+## Colts @ Dolphins
