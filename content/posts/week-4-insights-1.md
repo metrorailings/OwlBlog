@@ -36,7 +36,7 @@ Green Bay's ground game isn't necessarily built off the raw strength, but on lat
 
 Ben is a corpse out there. No mobility, no accuracy, no touch. Get him out of there. Might as well experiment with your depth quarterbacks, as this is almost assuredly a lost year for the Steelers.
 
-Let this be a lesson that Green Bay can execute even against big underdogs. Also, betting on "stock low" teams aren't advisable so long as the quarterback is a massive liability. 
+Let this be a lesson that Green Bay can execute even against big underdogs. Also, betting on "stock low" teams aren't advisable so long as the quarterback is a massive liability.
 
 ***
 
@@ -50,7 +50,7 @@ Is it possible Tampa Bay's man style of pass coverage is opening up too many lan
 
 Josh McDaniels with some solid adjustments and good use of the hurry-up offense. If only he'd be more creative with his ground game....incorporate some pseudo-run concepts in there.
 
-Is Brady not good throwing in the rain? Four of his passes have soared past his receivers. 
+Is Brady not good throwing in the rain? Four of his passes have soared past his receivers.
 
 ***
 
@@ -65,3 +65,11 @@ Miami's defense is throwing single-high safety man coverage hard against Indy. U
 Carson Wentz seems much more willing to throw the ball underneath at least. His pocket presence has gotten better, though he's been sacked a few times.
 
 Jacoby Brissett very clearly needs time to pass the ball. He's not much in terms of mobility and the anticipation simply isn't there, so the boy needs time to meditate back there before he throws the rock. Miami's offensive line won't be giving him that time any time soon.
+
+***
+
+## Browns @ Vikings
+
+Browns defensive line looks a bit more fierce this year now that Myles Garrett is completely healthy and Jadaveon Clowney can be that book-end rusher opposite Garrett.
+
+Cleveland's defensive linemen are swarming all over Kirk Cousins.
