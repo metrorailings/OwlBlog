@@ -84,3 +84,5 @@ Carr threw a bad interception essentially sealing the game for the Chargers.
 ## Ravens @ Broncos
 
 Teddy Bridgewater can't really throw the ball outside the numbers, at least against man coverage. Pretty disappointing.
+
+Baltimore's defense giving up significant YAC to tailbacks.
