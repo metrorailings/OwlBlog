@@ -72,7 +72,7 @@ Jacoby Brissett very clearly needs time to pass the ball. He's not much in terms
 
 Browns defensive line looks a bit more fierce this year now that Myles Garrett is completely healthy and Jadaveon Clowney can be that book-end rusher opposite Garrett.
 
-Cleveland's defensive linemen are swarming all over Kirk Cousins.
+Cleveland's defensive linemen are swarming all over Kirk Cousins. Tak McKinley, Clowney, Myles Garrett...it seems like the whole Browns defensive front are having their way up front against Minnesota's offensive line. I'm honestly not sure if Stefanski has told his players all the weaknesses about the Vikings protection schemes. Then again...it seems like Cleveland's pass rushers are winning mostly with bull rushes and single-gap attacks.
 
 ***
 
