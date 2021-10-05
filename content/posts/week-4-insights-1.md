@@ -73,3 +73,11 @@ Jacoby Brissett very clearly needs time to pass the ball. He's not much in terms
 Browns defensive line looks a bit more fierce this year now that Myles Garrett is completely healthy and Jadaveon Clowney can be that book-end rusher opposite Garrett.
 
 Cleveland's defensive linemen are swarming all over Kirk Cousins.
+
+***
+
+## Raiders @ Chargers
+
+Once again, the Chargers right tackle (Storm something) is a massive liability. But Los Angeles did well adjusting in the fourth quarter by shifting more to the power run game instead.
+
+Kudos to the Raiders for at least trying to cut the legs off the Charger offense by victimizing their sad right tackle.
