@@ -17,12 +17,6 @@ Saints love playing so much outside technique with their corners.
 
 ***
 
-## Browns @ Vikings
-
-Baker Mayfield not playing drop back football well in a two-minute situation.
-
-***
-
 ## Steelers @ Packers
 
 Diontae Johnson a significant player for the Steelers offense.
@@ -69,6 +63,8 @@ Jacoby Brissett very clearly needs time to pass the ball. He's not much in terms
 
 ## Browns @ Vikings
 
+Baker Mayfield not playing drop back football well in a two-minute situation.
+
 Browns defensive line looks a bit more fierce this year now that Myles Garrett is completely healthy and Jadaveon Clowney can be that book-end rusher opposite Garrett.
 
 Cleveland's defensive linemen are swarming all over Kirk Cousins. Tak McKinley, Clowney, Myles Garrett...it seems like the whole Browns defensive front are having their way up front against Minnesota's offensive line. I'm honestly not sure if Stefanski has told his players all the weaknesses about the Vikings protection schemes. Then again...it seems like Cleveland's pass rushers are winning mostly with bull rushes and single-gap attacks.
@@ -82,3 +78,9 @@ Once again, the Chargers right tackle (Storm something) is a massive liability. 
 Kudos to the Raiders for at least trying to cut the legs off the Charger offense by victimizing their sad right tackle.
 
 Carr threw a bad interception essentially sealing the game for the Chargers.
+
+***
+
+## Ravens @ Broncos
+
+Teddy Bridgewater can't really throw the ball outside the numbers, at least against man coverage. Pretty disappointing.
