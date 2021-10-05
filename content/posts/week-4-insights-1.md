@@ -88,3 +88,5 @@ Teddy Bridgewater can't really throw the ball outside the numbers, at least agai
 Baltimore's defense giving up significant YAC to tailbacks.
 
 Teddy seems all too willing to hold the ball, even against a team that loves to blitz as much as Baltimore.
+
+Denver's defensive linemen are conscientiously playing the run first against Baltimore.
