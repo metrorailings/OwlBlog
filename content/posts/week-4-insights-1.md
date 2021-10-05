@@ -86,3 +86,5 @@ Carr threw a bad interception essentially sealing the game for the Chargers.
 Teddy Bridgewater can't really throw the ball outside the numbers, at least against man coverage. Pretty disappointing.
 
 Baltimore's defense giving up significant YAC to tailbacks.
+
+Teddy seems all too willing to hold the ball, even against a team that loves to blitz as much as Baltimore.
