@@ -27,11 +27,11 @@ This week, things are a bit more interesting. History won't play as big a role t
 
 Tampa Bay may still be without Rob Gronkowski. Without Gronk, Brady is left without his favorite weapon on offense. That and their cornerback situation still remains bloody desperate now that Carlton Davis will likely be out for the next couple weeks.
 
-A few of Miami's weapons on offense are banged up, the most notable being DaVante Parker. 
+A few of Miami's weapons on offense are banged up, the most notable being DaVante Parker.
 
-#### History
+#### _History_
 
-These two teams haven't faced each other in a good minute. I'll tell you this though - Miami's offensive line has been playing like shit this whole season. It's unlikely that unit will limber up against a Tampa Bay defense known for its vicious pass rushing. 
+These two teams haven't faced each other in a good minute. I'll tell you this though - Miami's offensive line has been playing like shit this whole season. It's unlikely that unit will limber up against a Tampa Bay defense known for its vicious pass rushing.
 
 #### _Weather_
 
@@ -49,7 +49,7 @@ their defensive front blows through Miami's laughable line and harangues Jacoby 
 **Miami covers if**  
 their defense confuses Brady into playing as ugly as he did last week against the Patriots. It should be easier to pull that off if Gronkowski is still not ready to play.  
 \- AND -  
-Jacoby Brissett and the offense score at least 14 points. 
+Jacoby Brissett and the offense score at least 14 points.
 
 ***
 
@@ -68,13 +68,13 @@ Cincinnati's star rusher hasn't been practicing lately. Keep an eye on him.
 
 Green Bay is mostly healthy, though losing Jaire Alexander hurts a bit.
 
-#### History
+#### _History_
 
 These two teams have no recent history.
 
 #### _Weather_
 
-Warm breezy weather 
+Warm breezy weather
 
 ***
 
@@ -88,4 +88,31 @@ their defensive front can prevent Green Bay from running the ball effectively.
 Joe Mixon pops off against a Green Bay defense known for lightly stacking the box.
 
 **Green Bay wins if**  
-Aaron Rodgers and Matt LaFleur show their counterparts in Cincinnati that they're much better at executing the Shanahan style of offense. 
+Aaron Rodgers and Matt LaFleur show their counterparts in Cincinnati that they're much better at executing the Shanahan style of offense.
+
+***
+
+### Patriots @ Texans (+9)
+
+***
+
+#### _Latest Results_
+
+**Buccaneers** @ Patriots  
+Texans @ **Bills**
+
+#### _Key Injuries_
+
+The Patriots entire offensive line has been hurting. Expect a few linemen to be sidelined come game day.
+
+Houston is mostly fine.
+
+#### _History_
+
+History is meaningless here given the Texans franchise has been completely reshuffled this season.
+
+#### _Weather_
+
+Hot and humid
+
+***
