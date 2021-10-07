@@ -11,3 +11,7 @@ If I went with my hunches, I'd likely be 5-0. Washington, Green Bay, and Clevela
 The Falcons nearly covered. But ultimately, the Washingtonians (under the leadership of one Taylor Heinecke) fought just hard enough to steal the win. Still, Atlanta performed well and from a statistical standpoint, Matt Ryan played decent. It was a game that could have gone either way. With a bit more luck, I would have won this game and ended the week on a 4-1 high.
 
 This week, things are a bit more interesting. History won't play as big a role this week given none of the non-divisional games involve teams that have faced each other recently. Instead, quarterbacks and coaching will be emphasized here.
+
+***
+
+### Dolphins @ Buccaneers
