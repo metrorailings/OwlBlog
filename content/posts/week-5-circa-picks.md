@@ -31,7 +31,7 @@ A few of Miami's weapons on offense are banged up, the most notable being DaVant
 
 #### History
 
-These two teams haven't faced each other in a good minute.
+These two teams haven't faced each other in a good minute. I'll tell you this though - Miami's offensive line has been playing like shit this whole season. It's unlikely that unit will limber up against a Tampa Bay defense known for its vicious pass rushing. 
 
 #### _Weather_
 
@@ -50,5 +50,34 @@ their defensive front blows through Miami's laughable line and harangues Jacoby 
 their defense confuses Brady into playing as ugly as he did last week against the Patriots. It should be easier to pull that off if Gronkowski is still not ready to play.  
 \- AND -  
 Jacoby Brissett and the offense score at least 14 points. 
+
+***
+
+### Packers @ Bengals (+3)
+
+***
+
+#### _Latest Results_
+
+Steelers @ **Packers**  
+Jaguars @ **Bengals**
+
+#### _Key Injuries_
+
+Cincinnati's star rusher hasn't been practicing lately. Keep an eye on him.
+
+Green Bay is mostly healthy, though losing Jaire Alexander hurts a bit.
+
+#### History
+
+These two teams have no recent history.
+
+#### _Weather_
+
+Warm breezy weather 
+
+***
+
+Bengals +3
 
 ***
