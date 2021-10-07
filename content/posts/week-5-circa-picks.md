@@ -50,3 +50,5 @@ their defensive front blows through Miami's laughable line and harangues Jacoby 
 their defense confuses Brady into playing as ugly as he did last week against the Patriots. It should be easier to pull that off if Gronkowski is still not ready to play.  
 \- AND -  
 Jacoby Brissett and the offense score at least 14 points. 
+
+***
