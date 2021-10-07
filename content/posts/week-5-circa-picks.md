@@ -14,4 +14,39 @@ This week, things are a bit more interesting. History won't play as big a role t
 
 ***
 
-### Dolphins @ Buccaneers
+### Dolphins @ Buccaneers (-10)
+
+***
+
+#### _Latest Results_
+
+**Colts** @ Dolphins  
+**Buccaneers** @ Patriots
+
+#### _Key Injuries_
+
+Tampa Bay may still be without Rob Gronkowski. Without Gronk, Brady is left without his favorite weapon on offense. That and their cornerback situation still remains bloody desperate now that Carlton Davis will likely be out for the next couple weeks.
+
+A few of Miami's weapons on offense are banged up, the most notable being DaVante Parker. 
+
+#### History
+
+These two teams haven't faced each other in a good minute.
+
+#### _Weather_
+
+Hot and clear
+
+***
+
+Buccaneers -10
+
+***
+
+**Tampa Bay covers if**  
+their defensive front blows through Miami's laughable line and harangues Jacoby Brissett all day long.
+
+**Miami covers if**  
+their defense confuses Brady into playing as ugly as he did last week against the Patriots. It should be easier to pull that off if Gronkowski is still not ready to play.  
+\- AND -  
+Jacoby Brissett and the offense score at least 14 points. 
