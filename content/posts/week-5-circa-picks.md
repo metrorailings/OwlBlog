@@ -78,6 +78,14 @@ Warm breezy weather
 
 ***
 
-Bengals +3
+Uncertain
 
 ***
+
+**Cincinnati wins if**  
+their defensive front can prevent Green Bay from running the ball effectively.  
+\- AND -  
+Joe Mixon pops off against a Green Bay defense known for lightly stacking the box.
+
+**Green Bay wins if**  
+Aaron Rodgers and Matt LaFleur show their counterparts in Cincinnati that they're much better at executing the Shanahan style of offense. 
