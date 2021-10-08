@@ -157,7 +157,7 @@ Chargers -2
 ***
 
 **Los Angeles covers if**  
-their defense keeps Cleveland to less than 4.6 yards rushing.
+their defense keeps Cleveland to less than 4.6 yards rushing. If they're able to keep Josh Jacobs from running buck wild last week, they can potentially lid the Browns with their ground game. Game script matters here for sure.
 
 **Cleveland covers if**  
 Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip. 
