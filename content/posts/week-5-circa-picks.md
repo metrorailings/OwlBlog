@@ -183,7 +183,7 @@ Cardinals are mostly healthy.
 
 Both these teams traded wins last year in their two divisional contests against one another. Oddly enough, Arizona managed to pull off the win against a fully healthy 49er team.
 
-Regardless, it's unlikely those matches have any sort of predictive power over this game. San Francisco will be starting an untested rookie at quarterback. Furthermore, the Cardinals of this year have a dramatically different vibe to them compared to last year. Kyler Murray has been playing at a maniacally high level. Their defense has been brutalizing opponents as of late, largely through flashy plays resulting in turnovers. Don't get me wrong, the Cards have still shown themselves very capable of erroneous plays and bad judgment...but it's very clear in their win last week against their big brother Rams that these Arizona boys tapped into something special this season, something that was never there the year before.
+Regardless, it's unlikely those matches have any sort of predictive power over this game. San Francisco will be starting an untested rookie at quarterback. Furthermore, the Cardinals of this year have a dramatically different vibe to them compared to last year. Kyler Murray has been playing at a ridiculously high level. Their defense has been brutalizing opponents as of late, largely through flashy plays resulting in turnovers. Don't get me wrong, the Cards have still shown themselves very capable of erroneous plays and bad judgment...but it's very clear in their win last week against their big brother Rams that these Arizona boys tapped into something special this season, something that was never there the year before.
 
 #### _Weather_
 
@@ -199,7 +199,7 @@ Cardinals -5.5
 they can just compel the 49ers into abandoning the ground game. It's not that San Francisco's rushing attack has been mowing down opposing defenses, but Arizona is probably the absolute worst in defending against opposing runners. Arizona can't afford to let San Francisco draw first blood here.
 
 **San Francisco covers if**  
-Kyle Shanahan, channeling occult forces, wills his team to an early lead through scripted plays.  
+Kyle Shanahan, channeling all his creative potential, wills his team to an early lead through scripted plays.  
 \- AND -  
 After seizing the lead early, San Francisco then commands time of possession by running the ball obsessively.
 
@@ -295,3 +295,19 @@ Dallas should be expected to field all their key players.
 #### _History_
 
 Not much relevant history, even though these teams face off against one another twice. The last time Dak Prescott faced these Giants, his entire season came to an end.  Despite Andy Dalton being forced into action for nearly two whole quarters that game, the Cowboys were still able to slip out with the win, thanks to the offense running up points in the first half, when Dak was still healthy.
+
+#### _Weather_
+
+Warm day with some winds swirling around. Not the most quarterback- friendly weather.
+
+***
+
+Dallas -7
+
+***
+
+**Dallas covers if**  
+the Cowboys offense can drop at least 40 points against this soft Giants defense.
+
+**New York covers if**  
+Daniel Jones and his limited number of weapons can match Dallas' offense, bullet for bullet. It won't be easy, given the tenacity of the Cowboys pass rushers. Micah Parsons in particular plays like a shark perpetually driven mad, blood or no blood.
