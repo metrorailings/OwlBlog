@@ -10,7 +10,7 @@ Neither quarterback is playing all too well.
 
 Seahawks defense presenting quite a few 5-man lines against the Rams in order to stem their zone running attack. Results have been mixed.
 
-Leonard Floyd (with an assist from Aaron Donald) forcing a huge holding call that resulted in a Seattle touchdown being taken off the board.
+Terrell Lewis (with an assist from Aaron Donald) forcing a huge holding call that resulted in a Seattle touchdown being taken off the board. Later, the man has a big sack to effectively kill a Seahawks drive.
 
 Matthew Stafford throwing an interception that he never expected to throw.
 
