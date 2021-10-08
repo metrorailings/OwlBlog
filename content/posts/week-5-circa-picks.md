@@ -205,4 +205,17 @@ After seizing the lead early, San Francisco then commands time of possession by 
 
 ***
 
-### 
+### Colts @ Ravens (-7)
+
+***
+
+#### _Latest Results_
+
+**Colts** @ Dolphins  
+**Ravens** @ Broncos
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
