@@ -116,3 +116,13 @@ History is meaningless here given the Texans franchise has been completely reshu
 Hot and humid
 
 ***
+
+Patriots -9
+
+***
+
+**New England covers if**  
+Belichick demonstrates once more why he's the best at abusing rookie quarterbacks.
+
+**Houston covers if**  
+New England losing so many starters along their offensive line renders the Patriot offense impotent. Compounded with the humidity, the Patriot offense may have to suffer through a very slow day down in Texas. 
