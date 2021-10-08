@@ -160,6 +160,49 @@ Chargers -2
 their defense keeps Cleveland to less than 4.6 yards rushing. If they're able to keep Josh Jacobs from running buck wild last week, they can potentially lid the Browns with their ground game. Game script matters here for sure.
 
 **Cleveland covers if**  
-Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip. 
+Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip.
 
 ***
+
+### 49ers @ Cardinals (-5.5)
+
+***
+
+#### _Latest Results_
+
+**Seahawks** @ 49ers  
+**Cardinals** @ Rams
+
+#### _Key Injuries_
+
+49ers could still be without George Kittle, but the more important news here is that Trey Lance is expected to start as Jimmy Garoppalo will likely be sidelined yet again. On top of that, elements of their defensive line are a bit beat-up.
+
+Cardinals are mostly healthy.
+
+#### _History_
+
+Both these teams traded wins last year in their two divisional contests against one another. Oddly enough, Arizona managed to pull off the win against a fully healthy 49er team.
+
+Regardless, it's unlikely those matches have any sort of predictive power over this game. San Francisco will be starting an untested rookie at quarterback. Furthermore, the Cardinals of this year have a dramatically different vibe to them compared to last year. Kyler Murray has been playing at a maniacally high level. Their defense has been brutalizing opponents as of late, largely through flashy plays resulting in turnovers. Don't get me wrong, the Cards have still shown themselves very capable of erroneous plays and bad judgment...but it's very clear in their win last week against their big brother Rams that these Arizona boys tapped into something special this season, something that was never there the year before. 
+
+#### _Weather_
+
+Dome game
+
+***
+
+Cardinals -5.5
+
+***
+
+**Arizona covers if**  
+they can just compel the 49ers into abandoning the ground game. It's not that San Francisco's rushing attack has been mowing down opposing defense, but Arizona is probably the absolute worst in defending against opposing runners. Arizona can't afford to let San Francisco draw first blood here.
+
+**San Francisco covers if**  
+Kyle Shanahan, through wizardry, wills his team to an early lead through scripted plays.  
+\- AND -  
+After seizing the lead early, San Francisco then commands time of possession by running the ball obsessively.
+
+***
+
+### 
