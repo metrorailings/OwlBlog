@@ -273,4 +273,4 @@ Saints -2.5
 Sean Payton can scheme things offensively to exploit Washington's hodge-podge secondary. It would also help if the players come into the game with a little more fire in their bellies after suffering an embarrassing loss at the hands of the Giants last week.
 
 **Washington covers if**  
-their defensive line plays at such a frantic level that Winston and company can't really do much to exploit Washington's deficiencies along its defensive backfield.
+their defensive line plays with such frantic energy that Winston and company can't really do much to exploit Washington's deficiencies along its defensive backfield. Hard to see happening when all their games this season seems to indicate that the defensive front is regressing instead of improving.
