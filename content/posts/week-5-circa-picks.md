@@ -227,3 +227,13 @@ Both these teams faced one another last year. The Ravens won pretty decisively. 
 Clear and lovely
 
 ***
+
+Undecided
+
+***
+
+**Indianapolis covers if**  
+Carson Wentz doesn't shit the bed here.
+
+**Baltimore covers if**  
+their defense makes Carson Wentz shit the bed.
