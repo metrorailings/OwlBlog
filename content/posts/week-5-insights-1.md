@@ -15,3 +15,7 @@ Terrell Lewis (with an assist from Aaron Donald) forcing a huge holding call tha
 Matthew Stafford throwing an interception that he never expected to throw.
 
 Stafford underthrew DeSean Jackson, but he was bailed out by Jackson's vision.
+
+The Seahawks are just awful in their pass coverage. These receivers have so much space around them.
+
+Cooper Kupp is the best receiver for the Rams, no question. Just stunting all over the Seahawks. Woods is having a damn good night too, but Kupp is just special.
