@@ -157,7 +157,7 @@ Chargers -2
 ***
 
 **Los Angeles covers if**  
-their defense keeps Cleveland to less than 4.6 yards rushing. If they're able to keep Josh Jacobs from running buck wild last week, they can potentially lid the Browns with their ground game. Game script matters here for sure.
+their defense keeps Cleveland to less than 4.6 yards rushing. If they're able to keep Josh Jacobs from running buck wild last week, they can potentially lid the Browns ground game. Game script matters here for sure.
 
 **Cleveland covers if**  
 Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip.
@@ -183,7 +183,7 @@ Cardinals are mostly healthy.
 
 Both these teams traded wins last year in their two divisional contests against one another. Oddly enough, Arizona managed to pull off the win against a fully healthy 49er team.
 
-Regardless, it's unlikely those matches have any sort of predictive power over this game. San Francisco will be starting an untested rookie at quarterback. Furthermore, the Cardinals of this year have a dramatically different vibe to them compared to last year. Kyler Murray has been playing at a maniacally high level. Their defense has been brutalizing opponents as of late, largely through flashy plays resulting in turnovers. Don't get me wrong, the Cards have still shown themselves very capable of erroneous plays and bad judgment...but it's very clear in their win last week against their big brother Rams that these Arizona boys tapped into something special this season, something that was never there the year before. 
+Regardless, it's unlikely those matches have any sort of predictive power over this game. San Francisco will be starting an untested rookie at quarterback. Furthermore, the Cardinals of this year have a dramatically different vibe to them compared to last year. Kyler Murray has been playing at a maniacally high level. Their defense has been brutalizing opponents as of late, largely through flashy plays resulting in turnovers. Don't get me wrong, the Cards have still shown themselves very capable of erroneous plays and bad judgment...but it's very clear in their win last week against their big brother Rams that these Arizona boys tapped into something special this season, something that was never there the year before.
 
 #### _Weather_
 
@@ -196,10 +196,10 @@ Cardinals -5.5
 ***
 
 **Arizona covers if**  
-they can just compel the 49ers into abandoning the ground game. It's not that San Francisco's rushing attack has been mowing down opposing defense, but Arizona is probably the absolute worst in defending against opposing runners. Arizona can't afford to let San Francisco draw first blood here.
+they can just compel the 49ers into abandoning the ground game. It's not that San Francisco's rushing attack has been mowing down opposing defenses, but Arizona is probably the absolute worst in defending against opposing runners. Arizona can't afford to let San Francisco draw first blood here.
 
 **San Francisco covers if**  
-Kyle Shanahan, through wizardry, wills his team to an early lead through scripted plays.  
+Kyle Shanahan, channeling occult forces, wills his team to an early lead through scripted plays.  
 \- AND -  
 After seizing the lead early, San Francisco then commands time of possession by running the ball obsessively.
 
@@ -220,7 +220,7 @@ Colts are still struggling with injuries to their offensive line...though it's r
 
 #### _History_
 
-Both these teams faced one another last year. The Ravens won pretty decisively. It should be noted Baltimore pulled off the win while in a slump.
+Both these teams faced one another last year. The Ravens won pretty decisively. It should be noted Baltimore pulled off the win while in a slump, thanks largely to the generosity of Phillip Rivers.
 
 #### _Weather_
 
@@ -237,3 +237,40 @@ Carson Wentz doesn't shit the bed here.
 
 **Baltimore covers if**  
 their defense makes Carson Wentz shit the bed.
+
+***
+
+### Saints @ Washington (+2.5)
+
+***
+
+#### _Latest Results_
+
+**Giants** @ Saints  
+**Washington** @ Falcons
+
+#### _Key Injuries_
+
+New Orleans will be missing the services of some of their linemen.
+
+Washington is mostly healthy, though one of their better offensive linemen will be sitting out.
+
+#### _History_
+
+No real history between these two. 
+
+#### _Weather_
+
+Clear and lovely
+
+***
+
+Saints -2.5
+
+***
+
+**New Orleans covers if**  
+Sean Payton can scheme things offensively to exploit Washington's hodge-podge secondary. It would also help if the players come into the game with a little more fire in their bellies after suffering an embarrassing loss at the hands of the Giants last week.
+
+**Washington covers if**  
+their defensive line plays at such a frantic level that Winston and company can't really do much to exploit Washington's deficiencies along its defensive backfield.
