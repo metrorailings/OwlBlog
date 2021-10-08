@@ -152,7 +152,7 @@ Dome game
 
 ***
 
-Chargers -2
+Browns +2
 
 ***
 
@@ -160,7 +160,7 @@ Chargers -2
 their defense keeps Cleveland to less than 4.6 yards rushing. If they're able to keep Josh Jacobs from running buck wild last week, they can potentially lid the Browns ground game. Game script matters here for sure.
 
 **Cleveland covers if**  
-Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip.
+Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip. Cleveland's defense can pull this off by hammering Justin Herbert early and giving their counterparts on the offense a few extra opportunities to draw first blood and dictate game pace from then onward.
 
 ***
 
