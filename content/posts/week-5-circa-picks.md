@@ -125,4 +125,39 @@ Patriots -9
 Belichick demonstrates once more why he's the best at abusing rookie quarterbacks.
 
 **Houston covers if**  
-New England losing so many starters along their offensive line renders the Patriot offense impotent. Compounded with the humidity, the Patriot offense may have to suffer through a very slow day down in Texas. 
+New England losing so many starters along their offensive line renders the Patriot offense impotent. Compounded with the humidity, the Patriot offense may have to suffer through a very slow day down in Texas.
+
+***
+
+### Browns @ Chargers (-2)
+
+***
+
+#### _Latest Results_
+
+**Browns** @ Vikings  
+Raiders @ **Chargers**
+
+#### _Key Injuries_
+
+Both teams are fairly healthy.
+
+#### _History_
+
+No recent history between these two here. Neither of these two head coaches seem to have faced each other in recent memory.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Chargers -2
+
+***
+
+**Los Angeles covers if**  
+their defense keeps Cleveland to less than 4.6 yards rushing.
+
+**Cleveland covers if**  
+Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip. 
