@@ -310,4 +310,4 @@ Dallas -7
 the Cowboys offense can drop at least 40 points against this soft Giants defense.
 
 **New York covers if**  
-Daniel Jones and his limited number of weapons can match Dallas' offense, bullet for bullet. It won't be easy, given the tenacity of the Cowboys pass rushers. Micah Parsons in particular plays like a shark perpetually driven mad, blood or no blood.
+Daniel Jones and his limited number of weapons can match Dallas' offense, bullet for bullet. It won't be easy, given the tenacity of these Cowboy pass rushers. Micah Parsons in particular plays like a shark hopped up on blood.
