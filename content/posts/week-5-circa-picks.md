@@ -274,3 +274,24 @@ Sean Payton can scheme things offensively to exploit Washington's hodge-podge se
 
 **Washington covers if**  
 their defensive line plays with such frantic energy that Winston and company can't really do much to exploit Washington's deficiencies along its defensive backfield. Hard to see happening when all their games this season seems to indicate that the defensive front is regressing instead of improving.
+
+***
+
+### Giants @ Cowboys (-7)
+
+***
+
+#### _Latest Results_
+
+**Giants** @ Saints  
+Panthers @ **Cowboys**
+
+#### _Key Injuries_
+
+Giants are still down their two top receivers in Sterling Shepard and Darius Slayton.
+
+Dallas should be expected to field all their key players.
+
+#### _History_
+
+Not much relevant history, even though these teams face off against one another twice. The last time Dak Prescott faced these Giants, his entire season came to an end.  Despite Andy Dalton being forced into action for nearly two whole quarters that game, the Cowboys were still able to slip out with the win, thanks to the offense running up points in the first half, when Dak was still healthy.
