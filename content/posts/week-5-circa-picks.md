@@ -216,6 +216,14 @@ After seizing the lead early, San Francisco then commands time of possession by 
 
 #### _Key Injuries_
 
+Colts are still struggling with injuries to their offensive line...though it's remotely possible some of their linemen may be able to make it back for Monday's game.
+
 #### _History_
 
+Both these teams faced one another last year. The Ravens won pretty decisively. It should be noted Baltimore pulled off the win while in a slump.
+
 #### _Weather_
+
+Clear and lovely
+
+***
