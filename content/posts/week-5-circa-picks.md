@@ -161,3 +161,5 @@ their defense keeps Cleveland to less than 4.6 yards rushing.
 
 **Cleveland covers if**  
 Kareem Hunt and Nick Chubb both run at more than 4.6 yards a clip. 
+
+***
