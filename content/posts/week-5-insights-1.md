@@ -63,3 +63,7 @@ Daniel Jones missing some long-distance throws. His inaccuracy can be excused a 
 Trevon Diggs may be something special. His pass coverage and nose for the ball is simply sensational. In a little over one quarter, he's nearly picked off Jones three times.
 
 Dallas loves its press coverage. It feels weird to say this, but it's nice to see Dan Quinn evolve his style of defense to something that seems to really fit his defensive personnel.
+
+Seems like the Giants need to blitz to get any sort of pressure.
+
+Telling that the Giants offense was unable to produce any real yardage on their scripted plays. Even more damning to see Jason Garrett risk the health of his promising quarterback on a risky goal-line stand where the Dallas defense was playing considerably more aggressively.
