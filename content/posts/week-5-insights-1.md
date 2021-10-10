@@ -25,3 +25,15 @@ Cooper Kupp is the best receiver for the Rams, no question. Just stunting all ov
 ## Dolphins @ Buccaneers
 
 Seeing much less man coverage from the Buccaneers. More zone looks.
+
+Brady really trying hard to make deep sideline throws against these Dolphin corners. These Miami cornerbacks are too good though.
+
+***
+
+## Saints @ Washington
+
+Jameis not playing well at all. In fact, an errant pass from him led to Taysom Hill being murdered on live television.
+
+It'd be worth looking into whether New Orleans and Alvin Kamara can actually run the ball.
+
+Deonte Harris and Taysom Hill are out of this game early. Not good for a New Orleans team already short on playmakers.
