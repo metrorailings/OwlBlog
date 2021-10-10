@@ -19,3 +19,9 @@ Stafford underthrew DeSean Jackson, but he was bailed out by Jackson's vision.
 The Seahawks are just awful in their pass coverage. These receivers have so much space around them. Any good quarterback should be able to smoke their secondary for big yards.
 
 Cooper Kupp is the best receiver for the Rams, no question. Just stunting all over the Seahawks. Woods is having a damn good night too, but Kupp is just special.
+
+***
+
+## Dolphins @ Buccaneers
+
+Seeing much less man coverage from the Buccaneers. More zone looks.
