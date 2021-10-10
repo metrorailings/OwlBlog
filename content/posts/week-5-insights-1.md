@@ -67,3 +67,5 @@ Dallas loves its press coverage. It feels weird to say this, but it's nice to se
 Seems like the Giants need to blitz to get any sort of pressure.
 
 Telling that the Giants offense was unable to produce any real yardage on their scripted plays. Even more damning to see Jason Garrett risk the health of his promising quarterback on a risky goal-line stand where the Dallas defense was playing considerably more aggressively.
+
+Oddly enough, the Giants defense seems to have clamped down on Dallas ground game after the first quarter. 
