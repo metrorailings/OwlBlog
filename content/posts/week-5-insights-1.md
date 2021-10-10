@@ -47,3 +47,5 @@ Taylor Heinecke throwing an interception against a three-man pass rush. Insert l
 ## Packers @ Bengals
 
 Aaron Rodgers with a masterful 3rd down completion.
+
+Rodgers is so dependent on Davante Adams that it's scary to imagine what would happen to this passing offense if Davante is sidelined. MVS, Randall Cobb, and Robert Tonyan would need to pick up the slack somehow. 
