@@ -54,10 +54,12 @@ Rodgers is so dependent on Davante Adams that it's scary to imagine what would h
 
 ## Giants @ Cowboys
 
-As expected, the Cowboys are leaving track marks all over the Giants defensive front. Dallas nearly piled up a hundred rush yards in the _1st quarter alone_.
+As expected, the Cowboys are leaving track marks all over the Giants defensive front. Dallas nearly piled up a hundred rush yards in the _1st quarter alone_. Kudos to Kellen Moore for opting to run the ball way more than pass it.
 
 Dak seems a little shook to me. I question his mental toughness. It's clear he's not too comfortable opening this game.
 
 Daniel Jones missing some long-distance throws. His inaccuracy can be excused a little bit given that Dallas is getting some steady pressure on him.
 
-Trevon Diggs may be something special. His pass coverage and nose for the ball is simply sensational.
+Trevon Diggs may be something special. His pass coverage and nose for the ball is simply sensational. In a little over one quarter, he's nearly picked off Jones three times.
+
+Dallas loves its press coverage. It feels weird to say this, but it's nice to see Dan Quinn evolve his style of defense to something that seems to really fit his defensive personnel.
