@@ -49,3 +49,15 @@ Taylor Heinecke throwing an interception against a three-man pass rush. Insert l
 Aaron Rodgers with a masterful 3rd down completion.
 
 Rodgers is so dependent on Davante Adams that it's scary to imagine what would happen to this passing offense if Davante is sidelined. MVS, Randall Cobb, and Robert Tonyan would need to pick up the slack somehow. 
+
+***
+
+## Giants @ Cowboys
+
+As expected, the Cowboys are leaving track marks all over the Giants defensive front. Dallas nearly piled up a hundred rush yards in the _1st quarter alone_.
+
+Dak seems a little shook to me. I question his mental toughness. It's clear he's not too comfortable opening this game.
+
+Daniel Jones missing some long-distance throws. His inaccuracy can be excused a little bit given that Dallas is getting some steady pressure on him.
+
+Trevon Diggs may be something special. His pass coverage and nose for the ball is simply sensational.
