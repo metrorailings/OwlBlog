@@ -28,6 +28,8 @@ Seeing much less man coverage from the Buccaneers. More zone looks.
 
 Brady really trying hard to make deep sideline throws against these Dolphin corners. These Miami cornerbacks are too good though.
 
+Jacoby playing very well despite a bad hamstring. Where the hell was this last week? I also see Davis Mills playing well against New England. Seems to me that quarterbacks that have a really bad day the week before regress hard to the median the week after, so long as they're committed to their craft.
+
 ***
 
 ## Saints @ Washington
@@ -37,3 +39,11 @@ Jameis not playing well at all. In fact, an errant pass from him led to Taysom H
 It'd be worth looking into whether New Orleans and Alvin Kamara can actually run the ball.
 
 Deonte Harris and Taysom Hill are out of this game early. Not good for a New Orleans team already short on playmakers.
+
+Taylor Heinecke throwing an interception against a three-man pass rush. Insert laughing emoji here.
+
+***
+
+## Packers @ Bengals
+
+Aaron Rodgers with a masterful 3rd down completion.
