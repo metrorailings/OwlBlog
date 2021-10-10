@@ -40,7 +40,7 @@ It'd be worth looking into whether New Orleans and Alvin Kamara can actually run
 
 Deonte Harris and Taysom Hill are out of this game early. Not good for a New Orleans team already short on playmakers.
 
-Taylor Heinecke throwing an interception against a three-man pass rush. Insert laughing emoji here.
+Taylor Heinecke throwing an interception against a three-man pass rush. Insert laughing emoji here. The kid is truly the son Ryan Fitzpatrick always wanted.
 
 ***
 
