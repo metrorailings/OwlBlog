@@ -115,3 +115,5 @@ Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the
 ## Lions @ Vikings
 
 DeAndre Swift is truly talented.
+
+What a horribly-executed read option play by the Lions, leading to an interception.
