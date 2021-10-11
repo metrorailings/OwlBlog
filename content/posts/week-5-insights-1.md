@@ -70,7 +70,7 @@ Telling that the Giants offense was unable to produce any real yardage on their 
 
 Oddly enough, the Giants defense seems to have clamped down on Dallas ground game after the first quarter. 
 
-But just like that, the Cowboys pick up their ground game once they start running outside the box with pulled guards and tackles leading the way.
+But just like that, the Cowboys pick up their ground game once they start running outside the box with pulled guards and tackles leading the way. The Giants need to fix their C gap issues before they're finally competent against the run.
 
 ***
 
@@ -79,3 +79,15 @@ But just like that, the Cowboys pick up their ground game once they start runnin
 The Cardinals have a magic about them. Kyler Murray throwing deep against the grain to DeAndre Hopkins with two defenders bracketing Hopkins. Then Kyler Murray throwing a bullet to Hopkins despite Josh Norman having some ridiculous inside leverage....only for Hopkins to catch the ball!
 
 As expected, Trey Lance sucks.
+
+***
+
+## Bills @ Chiefs
+
+Chiefs not blitzing as much, despite flashing some looks here and there. Might be worried about that pass coverage. 
+
+Dawson Knox a significant contributor on offense.
+
+Orlando Brown a point of weakness for the Chiefs.
+
+Josh Allen has been fantastic. His improvisational plays and his ability to make quick reads has really been the difference in this affair.
