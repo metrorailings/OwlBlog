@@ -93,3 +93,11 @@ Orlando Brown a point of weakness for the Chiefs.
 Josh Allen has been fantastic. His improvisational plays and his ability to make quick reads has really been the difference in this affair.
 
 The Chiefs seem to genuinely hate playing at a scheduled pace. Big plays to Tyreek Hill are necessary for this Kansas offense to go past second gear.
+
+***
+
+## Browns @ Chargers
+
+This Browns defensive backfield isn't good. It's just not good. It's worth nothing whether Denzel Ward and the other starting cornerback were sidelined early in the game. I'm not sure...
+
+It's remarkable how similar these two teams are. Defensively, both teams prioritize pass coverage over run defense. It's obvious if you look at their base defense.
