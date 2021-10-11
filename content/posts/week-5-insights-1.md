@@ -69,3 +69,13 @@ Seems like the Giants need to blitz to get any sort of pressure.
 Telling that the Giants offense was unable to produce any real yardage on their scripted plays. Even more damning to see Jason Garrett risk the health of his promising quarterback on a risky goal-line stand where the Dallas defense was playing considerably more aggressively.
 
 Oddly enough, the Giants defense seems to have clamped down on Dallas ground game after the first quarter. 
+
+But just like that, the Cowboys pick up their ground game once they start running outside the box with pulled guards and tackles leading the way.
+
+***
+
+## 49ers @ Cardinals
+
+The Cardinals have a magic about them. Kyler Murray throwing deep against the grain to DeAndre Hopkins with two defenders bracketing Hopkins. Then Kyler Murray throwing a bullet to Hopkins despite Josh Norman having some ridiculous inside leverage....only for Hopkins to catch the ball!
+
+As expected, Trey Lance sucks.
