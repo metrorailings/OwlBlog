@@ -106,4 +106,6 @@ It took until halfway through the second quarter before Cleveland was able to fo
 
 Chargers are actively chipping defenders on the right side of their offensive line in order to help out Storm Norton. Good for them. Also, their drives seem to be more predicated on quick passes and fast decision-making, which helps to minimize any impact Cleveland's pass rush could have.
 
+Doesn't mean Cleveland hasn't been able to apply pressure. The few times their offense stalled was largely due to Cleveland's defensive front harassing Herbert.
+
 Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the league. It's an advantage the Chargers are not shy to exploit.
