@@ -101,3 +101,5 @@ The Chiefs seem to genuinely hate playing at a scheduled pace. Big plays to Tyre
 This Browns defensive backfield isn't good. It's just not good. It's worth nothing whether Denzel Ward and the other starting cornerback were sidelined early in the game. I'm not sure...
 
 It's remarkable how similar these two teams are. Defensively, both teams prioritize pass coverage over run defense. It's obvious if you look at their base defense. Offensively, both have similar play-action concepts. Whereas the Chargers are more playful with route trees, Cleveland builds its passing game mostly through play-action. 
+
+It took until halfway through the second quarter before Cleveland was able to force the Los Angeles offense to punt, thanks finally to their pass rushers forcing their will on the drive. 
