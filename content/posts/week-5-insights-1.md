@@ -116,4 +116,4 @@ Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the
 
 DeAndre Swift is truly talented.
 
-What a horribly-executed read option play by the Lions, leading to an interception.
+What a horribly-executed read option play by the Lions, leading to an interception. Shame on Goff for trying to force a pass through a window that wasn't there.
