@@ -91,3 +91,5 @@ Dawson Knox a significant contributor on offense.
 Orlando Brown a point of weakness for the Chiefs.
 
 Josh Allen has been fantastic. His improvisational plays and his ability to make quick reads has really been the difference in this affair.
+
+The Chiefs seem to genuinely hate playing at a scheduled pace. Big plays to Tyreek Hill are necessary for this Kansas offense to go past second gear.
