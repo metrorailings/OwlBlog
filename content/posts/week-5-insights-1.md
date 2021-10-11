@@ -103,3 +103,7 @@ This Browns defensive backfield isn't good. It's just not good. It's worth nothi
 It's remarkable how similar these two teams are. Defensively, both teams prioritize pass coverage over run defense. It's obvious if you look at their base defense. Offensively, both have similar play-action concepts. Whereas the Chargers are more playful with route trees, Cleveland builds its passing game mostly through play-action. 
 
 It took until halfway through the second quarter before Cleveland was able to force the Los Angeles offense to punt, thanks finally to their pass rushers forcing their will on the drive. 
+
+Chargers are actively chipping defenders on the right side of their offensive line in order to help out Storm Norton. Good for them. Also, their drives seem to be more predicated on quick passes and fast decision-making, which helps to minimize any impact Cleveland's pass rush could have.
+
+Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the league. It's an advantage the Chargers are not shy to exploit.
