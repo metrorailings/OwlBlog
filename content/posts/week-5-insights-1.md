@@ -48,7 +48,7 @@ Taylor Heinecke throwing an interception against a three-man pass rush. Insert l
 
 Aaron Rodgers with a masterful 3rd down completion.
 
-Rodgers is so dependent on Davante Adams that it's scary to imagine what would happen to this passing offense if Davante is sidelined. MVS, Randall Cobb, and Robert Tonyan would need to pick up the slack somehow. 
+Rodgers is so dependent on Davante Adams that it's scary to imagine what would happen to this passing offense if Davante is sidelined. MVS, Randall Cobb, and Robert Tonyan would need to pick up the slack somehow.
 
 ***
 
@@ -68,7 +68,7 @@ Seems like the Giants need to blitz to get any sort of pressure.
 
 Telling that the Giants offense was unable to produce any real yardage on their scripted plays. Even more damning to see Jason Garrett risk the health of his promising quarterback on a risky goal-line stand where the Dallas defense was playing considerably more aggressively.
 
-Oddly enough, the Giants defense seems to have clamped down on Dallas ground game after the first quarter. 
+Oddly enough, the Giants defense seems to have clamped down on Dallas ground game after the first quarter.
 
 But just like that, the Cowboys pick up their ground game once they start running outside the box with pulled guards and tackles leading the way. The Giants need to fix their C gap issues before they're finally competent against the run.
 
@@ -84,7 +84,7 @@ As expected, Trey Lance sucks.
 
 ## Bills @ Chiefs
 
-Chiefs not blitzing as much, despite flashing some looks here and there. Might be worried about that pass coverage. 
+Chiefs not blitzing as much, despite flashing some looks here and there. Might be worried about that pass coverage.
 
 Dawson Knox a significant contributor on offense.
 
@@ -100,12 +100,18 @@ The Chiefs seem to genuinely hate playing at a scheduled pace. Big plays to Tyre
 
 This Browns defensive backfield isn't good. It's just not good. It's worth nothing whether Denzel Ward and the other starting cornerback were sidelined early in the game. I'm not sure...
 
-It's remarkable how similar these two teams are. Defensively, both teams prioritize pass coverage over run defense. It's obvious if you look at their base defense. Offensively, both have similar play-action concepts. Whereas the Chargers are more playful with route trees, Cleveland builds its passing game mostly through play-action. 
+It's remarkable how similar these two teams are. Defensively, both teams prioritize pass coverage over run defense. It's obvious if you look at their base defense. Offensively, both have similar play-action concepts. Whereas the Chargers are more playful with route trees, Cleveland builds its passing game mostly through play-action.
 
-It took until halfway through the second quarter before Cleveland was able to force the Los Angeles offense to punt, thanks finally to their pass rushers forcing their will on the drive. 
+It took until halfway through the second quarter before Cleveland was able to force the Los Angeles offense to punt, thanks finally to their pass rushers forcing their will on the drive.
 
 Chargers are actively chipping defenders on the right side of their offensive line in order to help out Storm Norton. Good for them. Also, their drives seem to be more predicated on quick passes and fast decision-making, which helps to minimize any impact Cleveland's pass rush could have.
 
 Doesn't mean Cleveland hasn't been able to apply pressure. The few times their offense stalled was largely due to Cleveland's defensive front harassing Herbert.
 
 Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the league. It's an advantage the Chargers are not shy to exploit. The Chargers were able to convert so many key fourth downs because the Browns would shift to man coverage on these downs. But the problem is that Cleveland's cornerbacks can't match with those two giants.
+
+***
+
+## Lions @ Vikings
+
+DeAndre Swift is truly talented.
