@@ -108,4 +108,4 @@ Chargers are actively chipping defenders on the right side of their offensive li
 
 Doesn't mean Cleveland hasn't been able to apply pressure. The few times their offense stalled was largely due to Cleveland's defensive front harassing Herbert.
 
-Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the league. It's an advantage the Chargers are not shy to exploit.
+Keenan Allen and Mike Williams are too damn tall for for most cornerbacks in the league. It's an advantage the Chargers are not shy to exploit. The Chargers were able to convert so many key fourth downs because the Browns would shift to man coverage on these downs. But the problem is that Cleveland's cornerbacks can't match with those two giants.
