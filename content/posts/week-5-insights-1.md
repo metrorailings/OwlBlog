@@ -82,6 +82,8 @@ The Cardinals are truly awful stopping the run. Their defensive line seems way t
 
 Why is Arizona playing coverage defense against _Trey Lance_? Instead of hemming him in the pocket with blitzes?
 
+The Cardinals are actually doing decent against power runs straight up the middle.
+
 As expected, Trey Lance sucks.
 
 ***
