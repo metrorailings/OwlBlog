@@ -135,3 +135,9 @@ Carson Wentz with an idiotic fumble. I say idiotic because it was evident that a
 The Colts really prefer Jonathan Taylor and Nyheim Hines over Marlon Mack? Go figure.
 
 Finally Wentz aborts the play after a screen was all but doomed to fail.
+
+Indianapolis is so limited with their pass rush. Lamar's being given too much time to ball in the pocket. Maybe it's intentional so as to guarantee Lamar remains hemmed in the pocket.
+
+Mark Andrews is the best weapon for these Ravens in the passing game. Easily. Hollywood doesn't compare.
+
+Wentz has been good. I've been impressed, though in
