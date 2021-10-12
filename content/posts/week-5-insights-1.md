@@ -80,6 +80,8 @@ The Cardinals have a magic about them. Kyler Murray throwing deep against the gr
 
 The Cardinals are truly awful stopping the run. Their defensive line seems way too eager risking protection gaps if it means making a big play.
 
+Why is Arizona playing coverage defense against _Trey Lance_?
+
 As expected, Trey Lance sucks.
 
 ***
