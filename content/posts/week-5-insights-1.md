@@ -78,6 +78,8 @@ But just like that, the Cowboys pick up their ground game once they start runnin
 
 The Cardinals have a magic about them. Kyler Murray throwing deep against the grain to DeAndre Hopkins with two defenders bracketing Hopkins. Then Kyler Murray throwing a bullet to Hopkins despite Josh Norman having some ridiculous inside leverage....only for Hopkins to catch the ball!
 
+The Cardinals are truly awful stopping the run. Their defensive line seems way too eager risking protection gaps if it means making a big play.
+
 As expected, Trey Lance sucks.
 
 ***
@@ -118,7 +120,7 @@ DeAndre Swift is truly talented.
 
 What a horribly-executed read option play by the Lions, leading to an interception. Shame on Goff for trying to force a pass through a window that wasn't there. He's forced another ugly throw a little later on a bootleg that didn't fool the safeties.
 
-Minnesota is just stunting all over Detroit's screens. 
+Minnesota is just stunting all over Detroit's screens.
 
 You have to give Detroit credit for fighting to the very end.
 
