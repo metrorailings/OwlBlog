@@ -84,6 +84,8 @@ Why is Arizona playing coverage defense against _Trey Lance_? Instead of hemming
 
 The Cardinals are actually doing decent against power runs straight up the middle.
 
+Kyler playing hurt. The 49ers haven't been too kind to him today.
+
 As expected, Trey Lance sucks.
 
 ***
