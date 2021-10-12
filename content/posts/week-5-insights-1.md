@@ -121,3 +121,17 @@ What a horribly-executed read option play by the Lions, leading to an intercepti
 Minnesota is just stunting all over Detroit's screens. 
 
 You have to give Detroit credit for fighting to the very end.
+
+***
+
+## Colts @ Ravens
+
+Colts really pride themselves on their running backs having a big role in their offense.
+
+Darius Leonard is a force of nature, especially against the rush.
+
+Carson Wentz with an idiotic fumble. I say idiotic because it was evident that a pass rusher was rounding his way towards him. Instead of throwing the ball away, Wentz tried to scramble unsuccessfully.
+
+The Colts really prefer Jonathan Taylor and Nyheim Hines over Marlon Mack? Go figure.
+
+Finally Wentz aborts the play after a screen was all but doomed to fail.
