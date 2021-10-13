@@ -70,7 +70,7 @@ If there's one thing that can be said about this year's Chargers, it's that the 
 
 It doesn't mean the Chargers are guaranteed to lose against any team boasting a solid rushing attack. But they do struggle.
 
-Interestingly enough, both of these teams are coming off winning streaks. It's hard to say whether either of these two teams are overvalued against one another. 
+Interestingly enough, both of these teams are coming off winning streaks. It's hard to say whether either of these two teams are overvalued against one another.
 
 #### _Weather_
 
@@ -109,10 +109,24 @@ The Giants are a wounded bunch right now, especially on offense. Daniel Jones, S
 
 Both of these teams faced one another last year, though the quarterback situation was very different - Daniel Jones and Jared Goff were the signal callers in charge then. Now we have Mike Glennon and Matthew Stafford instead. One wonders if there's really much of a downgrade from the Daniel Jones of last year to the Mike Glennon of recent memory. One thing for sure though...Matthew Stafford is a refreshing upgrade over Jared Bruhff.
 
-Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control throughout the entire affair. I need to review the game to fully understand what happened. 
+Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control throughout the entire affair. I need to review the game to fully understand what happened.
 
-One thing worth noting is - the Giants defense of last year actually cared to stop the run. The unit this year? Not so much. It's like the entire unit was stricken  
+One thing worth noting is - the Giants defense of last year actually cared to stop the run. The unit this year? Not so much. These group of guys now turn to mush against opposing running backs.
 
 #### _Weather_
 
 A bit cool with some 10 mile-per-hour winds swirling around
+
+***
+
+Undecided
+
+***
+
+**Los Angeles covers if  
+**they dice up the Giants with their outside zone runs. Dallas ruined New York's defense last week with outside runs. If the Giants continue having no answer to this mode of attack, the Rams will secure a ridiculously easy win.
+
+**New York covers if**  
+they keep the Rams from running roughshod over them with their ground game  
+\- AND -  
+Mike Glennon doesn't make an ass out of himself out there. Expect a good number of gadget plays here incorporating Toney and his versatility.  
