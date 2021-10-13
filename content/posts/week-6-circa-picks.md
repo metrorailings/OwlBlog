@@ -107,6 +107,10 @@ The Giants are a wounded bunch right now, especially on offense. Daniel Jones, S
 
 #### _History_
 
+Both of these teams faced one another last year, though the quarterback situation was very different - Daniel Jones and Jared Goff were the signal callers in charge then. Now we have Mike Glennon and Matthew Stafford instead. One wonders if there's really much of a downgrade from the Daniel Jones of last year to the Mike Glennon of recent memory. One thing for sure though...Matthew Stafford is a refreshing upgrade over Jared Bruhff.
+
+Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control through the entire affair.
+
 #### _Weather_
 
 A bit cool with some winds swirling about
