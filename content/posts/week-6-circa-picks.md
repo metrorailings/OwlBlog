@@ -46,3 +46,28 @@ the defense can force some negative plays from Taylor Heinecke, who's known for 
 Taylor Heinecke can minimize his recklessness  
 \- OR -  
 their defensive backs can keep Tyreek Hill bracketed for much of the game. A pretty tall ask considering the Washington secondary has discovered new ways to shit the bed every week this season.
+
+***
+
+## Chargers @ Ravens (-3)
+
+***
+
+#### _Latest Results_
+
+Browns @ **Chargers**  
+Colts @ **Ravens**
+
+#### _Key Injuries_
+
+Both the Chargers and the Ravens lost a starting-caliber guard along their offensive line.
+
+#### _History_
+
+No recent history, as these two teams play in different conferences.
+
+#### _Weather_
+
+Perfect spring scrimmage weather
+
+***
