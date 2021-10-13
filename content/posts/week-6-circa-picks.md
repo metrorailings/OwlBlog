@@ -80,4 +80,5 @@ Undecided
 
 ***
 
-**Los Angeles covers if**
+**Los Angeles covers if**  
+Justin Herbert and his top receivers continue striking gold with the passing game. 
