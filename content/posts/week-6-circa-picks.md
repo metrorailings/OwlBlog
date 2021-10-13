@@ -108,3 +108,5 @@ The Giants are a wounded bunch right now, especially on offense. Daniel Jones, S
 #### _History_
 
 #### _Weather_
+
+A bit cool with some winds swirling about
