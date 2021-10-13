@@ -144,18 +144,24 @@ Mike Glennon doesn't make an ass out of himself out there. Expect a good number 
 
 #### _Key Injuries_
 
-Whereas the Packers a bit thin at cornerback, the Bears seem a bit strained along their defensive front. It's worth keeping an eye on these two position groups as the week waxes onward.
+Whereas the Packers a bit thin at cornerback, the Bears seem a bit strained along their defensive front. It's worth keeping an eye on these two position groups as the week goes on.
 
 #### _History_
 
-Both of these teams faced one another last year, though the quarterback situation was very different - Daniel Jones and Jared Goff were the signal callers in charge then. Now we have Mike Glennon and Matthew Stafford instead. One wonders if there's really much of a downgrade from the Daniel Jones of last year to the Mike Glennon of recent memory. One thing for sure though...Matthew Stafford is a refreshing upgrade over Jared Bruhff.
-
-Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control throughout the entire affair. I need to review the game to fully understand what happened.
-
-One thing worth noting is - the Giants defense of last year actually cared to stop the run. The unit this year? Not so much. These group of guys now turn to mush against opposing running backs.
+Being divisional rivals, both of these teams face each regularly. Last year, Green Bay pulled off a clean sweep of these Bears, dominating them handily in both match-ups. The only real difference this year is that Mitch Trubisky has been swapped out with a younger version of himself in Justin Fields. 
 
 #### _Weather_
 
-A bit cool with some 10 mile-per-hour winds swirling around
+Cool with some moderate winds jetting around 
 
 ***
+
+Packers -4.5
+
+***
+
+**Green Bay covers if**  
+their offense runs up a 10-point lead by the fourth quarter. Certainly possible if the Packers can dominate time of possession by stifling the Bear offense.
+
+**Chicago covers if**  
+the team draws first blood and maintains a lead through the whole game. If Chicago starts falling behind by multiple scores, Justin Fields would then need to emerge from his cocooned state and start playing at a professional league. That's incredibly unlikely, given Nagy and his staff are calling plays deliberately drawn up to minimize the influence of the quarterback. Those types of plays will never help you mount a comeback.
