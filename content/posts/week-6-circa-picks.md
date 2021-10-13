@@ -45,4 +45,4 @@ the defense can force some negative plays from Taylor Heinecke, who's known for 
 **Washington covers if**  
 Taylor Heinecke can minimize his recklessness  
 \- OR -  
-their secondary can keep Tyreek Hill bracketed for much of the game.
+their defensive backs can keep Tyreek Hill bracketed for much of the game. A pretty tall ask considering the Washington secondary has discovered new ways to shit the bed every week this season.
