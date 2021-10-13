@@ -10,13 +10,13 @@ Let's keep this up. Last week, I shied away from two matches that were originall
 
 ***
 
-## Chiefs @ Washington (+7)
+### Chiefs @ Washington (+7)
 
 ***
 
 #### _Latest Results_
 
-**Bills** @ Chiefs  
+**Bills** @ Chiefs (SNF)  
 **Saints** @ Washington
 
 #### _Key Injuries_
@@ -49,14 +49,14 @@ their defensive backs can keep Tyreek Hill bracketed for much of the game. A pre
 
 ***
 
-## Chargers @ Ravens (-3)
+### Chargers @ Ravens (-3)
 
 ***
 
 #### _Latest Results_
 
 Browns @ **Chargers**  
-Colts @ **Ravens**
+Colts @ **Ravens** (MNF)
 
 #### _Key Injuries_
 
@@ -89,3 +89,22 @@ Justin Herbert and his top receivers can constantly strike gold with the passing
 Lamar Jackson and the offense can dominate time of possession  
 \- AND -  
 the Ravens make just enough dynamite plays on defense to keep the Chargers from running up the score.
+
+***
+
+### Rams @ Giants (+10.5)
+
+***
+
+#### _Latest Results_
+
+**Rams** @ Seahawks (TNF)  
+Colts @ **Ravens**
+
+#### _Key Injuries_
+
+The Giants are a wounded bunch right now, especially on offense. Daniel Jones, Saquon Barkley, and Kenny Golladay are all but confirmed to be out for this game. Sterling Shepard and Darius Slayton's statuses are uncertain. We might potentially have a scenario where Mike Glennon is starting with Devontae Booker at his side and Kadarius Toney, CJ Board, and Evan Engram as his starting receivers. Not a great hand for New York to play against the visiting Rams...
+
+#### _History_
+
+#### _Weather_
