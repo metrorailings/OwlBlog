@@ -83,12 +83,12 @@ Undecided
 ***
 
 **Los Angeles covers if**  
-Justin Herbert and his top receivers can constantly strike gold with the passing game. Herbert will need to be able to negotiate through all the blitzes Wink Martindale will likely throw at him.
+Justin Herbert and his top receivers can constantly strike gold with the passing game. Herbert will need to be able to negotiate through all the blitzes Wink Martindale will be throwing at him.
 
 **Baltimore covers if**  
 Lamar Jackson and the offense can dominate time of possession  
 \- AND -  
-the Ravens make just enough dynamite plays on defense to keep the Chargers from running up the score.
+the Ravens make just enough noise on defense to keep the Chargers from running up the score.
 
 ***
 
@@ -109,8 +109,10 @@ The Giants are a wounded bunch right now, especially on offense. Daniel Jones, S
 
 Both of these teams faced one another last year, though the quarterback situation was very different - Daniel Jones and Jared Goff were the signal callers in charge then. Now we have Mike Glennon and Matthew Stafford instead. One wonders if there's really much of a downgrade from the Daniel Jones of last year to the Mike Glennon of recent memory. One thing for sure though...Matthew Stafford is a refreshing upgrade over Jared Bruhff.
 
-Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control through the entire affair.
+Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control throughout the entire affair. I need to review the game to fully understand what happened. 
+
+One thing worth noting is - the Giants defense of last year actually cared to stop the run. The unit this year? Not so much. It's like the entire unit was stricken  
 
 #### _Weather_
 
-A bit cool with some winds swirling about
+A bit cool with some 10 mile-per-hour winds swirling around
