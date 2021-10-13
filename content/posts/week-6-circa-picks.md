@@ -10,6 +10,25 @@ Let's keep this up. Last week, I shied away from two matches that were originall
 
 ***
 
-## Chiefs @ Redskins (+7)
+## Chiefs @ Washington (+7)
+
+***
+
+#### _Latest Results_
+
+**Bills** @ Chiefs  
+**Saints** @ Washington
+
+#### _Key Injuries_
+
+Worth keeping an eye on the Chiefs. Both Tyreek Hill and Travis Kelce suffered injuries last week, though none of their injuries are projected to hold them out.
+
+#### _History_
+
+No recent history, as these two teams play in different conferences.
+
+#### _Weather_
+
+Perfect spring scrimmage weather
 
 ***
