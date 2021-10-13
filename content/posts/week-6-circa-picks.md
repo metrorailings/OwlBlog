@@ -81,4 +81,9 @@ Undecided
 ***
 
 **Los Angeles covers if**  
-Justin Herbert and his top receivers continue striking gold with the passing game. 
+Justin Herbert and his top receivers can constantly strike gold with the passing game. Herbert will need to be able to negotiate through all the blitzes Wink Martindale will likely throw at him.
+
+**Baltimore covers if**  
+Lamar Jackson and the offense can dominate time of possession  
+\- AND -  
+the Ravens make just enough dynamite plays on defense to keep the Chargers from running up the score.
