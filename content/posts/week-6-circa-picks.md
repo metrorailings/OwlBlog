@@ -64,10 +64,20 @@ Both the Chargers and the Ravens lost a starting-caliber guard along their offen
 
 #### _History_
 
-No recent history, as these two teams play in different conferences.
+No recent history between these two teams. Not that history should mean much given the new regime in effect in Los Angeles.
+
+If there's one thing that can be said about this year's Chargers, it's that the defense doesn't hold up well against opposing rushers. The Cowboys dealt the franchise its only loss in part by sustaining drives through the ground game. Likewise, the Browns nearly pulled off the win last week after their halfbacks gashed through the defense at 6.7 yards a clip.
+
+It doesn't mean the Chargers are guaranteed to lose against any team boasting a solid rushing attack. But they do struggle.
 
 #### _Weather_
 
-Perfect spring scrimmage weather
+Somewhat cool, with winds expected to reach up to 15 miles per hour
 
 ***
+
+Undecided
+
+***
+
+**Los Angeles covers if**
