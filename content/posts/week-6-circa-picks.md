@@ -32,3 +32,17 @@ No recent history, as these two teams play in different conferences.
 Perfect spring scrimmage weather
 
 ***
+
+Chiefs -7
+
+***
+
+**Kansas City covers if**  
+Tyreek Hill posts over 120 yards against Washington's inept secondary  
+\- AND -  
+the defense can force some negative plays from Taylor Heinecke, who's known for playing fast and loose with the football.
+
+**Washington covers if**  
+Taylor Heinecke can minimize his recklessness  
+\- OR -  
+their secondary can keep Tyreek Hill bracketed for much of the game.
