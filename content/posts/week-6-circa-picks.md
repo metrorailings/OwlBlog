@@ -70,6 +70,8 @@ If there's one thing that can be said about this year's Chargers, it's that the 
 
 It doesn't mean the Chargers are guaranteed to lose against any team boasting a solid rushing attack. But they do struggle.
 
+Interestingly enough, both of these teams are coming off winning streaks. It's hard to say whether either of these two teams are overvalued against one another. 
+
 #### _Weather_
 
 Somewhat cool, with winds expected to reach up to 15 miles per hour
