@@ -10,4 +10,6 @@ Let's keep this up. Last week, I shied away from two matches that were originall
 
 ***
 
- 
+## Chiefs @ Redskins (+7)
+
+***
