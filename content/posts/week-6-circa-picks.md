@@ -130,3 +130,32 @@ Undecided
 they keep the Rams from running roughshod over them with their ground game  
 \- AND -  
 Mike Glennon doesn't make an ass out of himself out there. Expect a good number of gadget plays here incorporating Toney and his versatility.  
+
+***
+
+### Packers @ Bears (+4.5)
+
+***
+
+#### _Latest Results_
+
+**Packers** @ Bengals  
+**Bears** @ Raiders
+
+#### _Key Injuries_
+
+Whereas the Packers a bit thin at cornerback, the Bears seem a bit strained along their defensive front. It's worth keeping an eye on these two position groups as the week waxes onward.
+
+#### _History_
+
+Both of these teams faced one another last year, though the quarterback situation was very different - Daniel Jones and Jared Goff were the signal callers in charge then. Now we have Mike Glennon and Matthew Stafford instead. One wonders if there's really much of a downgrade from the Daniel Jones of last year to the Mike Glennon of recent memory. One thing for sure though...Matthew Stafford is a refreshing upgrade over Jared Bruhff.
+
+Regardless though, New York kept the game competitive, although I'm pretty certain Los Angeles always maintained wrist control throughout the entire affair. I need to review the game to fully understand what happened.
+
+One thing worth noting is - the Giants defense of last year actually cared to stop the run. The unit this year? Not so much. These group of guys now turn to mush against opposing running backs.
+
+#### _Weather_
+
+A bit cool with some 10 mile-per-hour winds swirling around
+
+***
