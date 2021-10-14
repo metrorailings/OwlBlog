@@ -161,7 +161,7 @@ Packers -4.5
 ***
 
 **Green Bay covers if**  
-their offense runs up a 10-point lead by the fourth quarter. Certainly possible if the Packers can dominate time of possession by stifling the Bear offense.
+their offense runs up a double-digit lead by the fourth quarter. Certainly possible if the Packers can dominate time of possession by stifling the Bear offense.
 
 **Chicago covers if**  
-the team draws first blood and maintains a lead through the whole game. If Chicago starts falling behind by multiple scores, Justin Fields would then need to emerge from his cocooned state and start playing at a professional league. That's incredibly unlikely, given Nagy and his staff are calling plays deliberately drawn up to minimize the influence of the quarterback. Those types of plays will never help you mount a comeback.
+the team draws first blood and maintains a lead through the whole game. If Chicago starts falling behind by multiple scores, Nagy and the coaches would then need to cut the marionette strings off Justin Fields and let him attempt a comeback. That's incredibly unlikely, given Nagy and his staff are calling plays deliberately drawn up to minimize the rookie quarterback's impact on the offense.
