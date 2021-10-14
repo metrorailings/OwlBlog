@@ -204,3 +204,28 @@ their vaunted defensive front uses its newfound love of the blitz to prevent Kir
 
 **Minnesota covers if**  
 Kirk Cousins is as proficient as he was last year against this Panther defense, completing over 70% of his passes.
+
+***
+
+### Cardinals @ Browns (-3)
+
+***
+
+#### _Latest Results_
+
+49ers @ **Cardinals**  
+Browns @ **Chargers**
+
+#### _Key Injuries_
+
+Arizona is dealing with a nagging injury to Kyler Murray's throwing shoulder. Although Murray is expected to play, expect the Cardinals air game to suffer if Murray isn't able to throw cleanly.
+
+Cleveland's dealing with its own share of injuries, though all key players are expected to play. It's advisable to keep tabs on Cleveland's defensive backfield, though it might not matter much if Kyler's out there throwing balls  with a stupid shoulder. 
+
+#### _History_
+
+#### _Weather_
+
+Lovely spring weather
+
+***
