@@ -165,3 +165,34 @@ their offense runs up a double-digit lead by the fourth quarter. Certainly possi
 
 **Chicago covers if**  
 the team draws first blood and maintains a lead through the whole game. If Chicago starts falling behind by multiple scores, Nagy and the coaches would then need to cut the marionette strings off Justin Fields and let him attempt a comeback. That's incredibly unlikely, given Nagy and his staff are calling plays deliberately drawn up to minimize the rookie quarterback's impact on the offense.
+
+***
+
+### Vikings @ Panthers (+1)
+
+***
+
+#### _Latest Results_
+
+Lions @ **Vikings**  
+**Eagles** @ Panthers
+
+#### _Key Injuries_
+
+Christian McCaffrey's status is the most important here. So far, he's been practicing, which is a great sign.
+
+The Vikings have a number of skill players on offense not playing, but it's knot known yet whether any of their injuries are serious enough to keep them sidelined. 
+
+#### _History_
+
+Both these teams met last year in Minnesota. The Vikings edged out the Panthers by a point (which ironically matches the spread here). It's worth keeping in mind Carolina was in a position to win the game with a last-second field goal. 
+
+#### _Weather_
+
+Lovely spring weather
+
+***
+
+Panthers +1
+
+***
