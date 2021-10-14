@@ -224,10 +224,22 @@ Cleveland's dealing with its own share of injuries, though all key players are e
 
 #### _History_
 
-No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode), every other starting-caliber running back has drummed up some big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
+No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode at the time), every other starting-caliber running back has drummed up big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
+
+One more thing - last time winds were gusting over 20 miles per hour, Baker Mayfield had a sad outing. 
 
 #### _Weather_
 
 60s weather, though some mean winds are expected
 
 ***
+
+Browns -3
+
+***
+
+**Cleveland covers if**  
+their rushers outgain Arizona's tailbacks by more than half a yard.
+
+**Arizona covers if**  
+their lead rushers can keep pace with Nick Chubb and Kareem Hunt.
