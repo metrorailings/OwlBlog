@@ -224,8 +224,10 @@ Cleveland's dealing with its own share of injuries, though all key players are e
 
 #### _History_
 
+No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode), every other starting-caliber running back has drummed up some big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
+
 #### _Weather_
 
-Lovely spring weather
+60s weather, though some mean winds are expected
 
 ***
