@@ -242,4 +242,4 @@ Browns -3
 their rushers outgain Arizona's tailbacks by more than half a yard.
 
 **Arizona covers if**  
-their lead rushers can keep pace with Nick Chubb and Kareem Hunt.
+Chase Edmonds and James Conner can keep pace with Nick Chubb and Kareem Hunt.
