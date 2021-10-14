@@ -243,3 +243,9 @@ their rushers outgain Arizona's tailbacks by more than half a yard.
 
 **Arizona covers if**  
 Chase Edmonds and James Conner can keep pace with Nick Chubb and Kareem Hunt.
+
+***
+
+### Bills @ Titans (+5.5)
+
+***
