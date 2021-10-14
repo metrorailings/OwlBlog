@@ -196,3 +196,11 @@ Lovely spring weather
 Panthers +1
 
 ***
+
+**Carolina covers if**  
+Christian McCaffrey's return sparks a resurgence to this offense  
+\- AND -  
+their vaunted defensive line can prevent Kirk Cousins from ever settling into the rhythm of the game.
+
+**Minnesota covers if**  
+Kirk Cousins is as proficient as he was last year against this Panther defense, completing over 70% of his passes.
