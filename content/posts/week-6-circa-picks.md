@@ -198,9 +198,9 @@ Panthers +1
 ***
 
 **Carolina covers if**  
-Christian McCaffrey's return sparks a resurgence to this offense  
+Christian McCaffrey's return sparks a resurgence in their offense  
 \- AND -  
-their vaunted defensive line can prevent Kirk Cousins from ever settling into the rhythm of the game.
+their vaunted defensive front uses its newfound love of the blitz to prevent Kirk Cousins from ever settling into a rhythm.
 
 **Minnesota covers if**  
 Kirk Cousins is as proficient as he was last year against this Panther defense, completing over 70% of his passes.
