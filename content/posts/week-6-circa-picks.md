@@ -123,13 +123,13 @@ Undecided
 
 ***
 
-**Los Angeles covers if  
-**they dice up the Giants with their outside zone runs. Dallas ruined New York's defense last week with outside runs. If the Giants continue having no answer to this mode of attack, the Rams will secure a ridiculously easy win.
+\**Los Angeles covers if  
+\**they dice up the Giants with their outside zone runs. Dallas ruined New York's defense last week with outside runs. If the Giants continue having no answer to this mode of attack, the Rams will secure a ridiculously easy win.
 
 **New York covers if**  
 they keep the Rams from running roughshod over them with their ground game  
 \- AND -  
-Mike Glennon doesn't make an ass out of himself out there. Expect a good number of gadget plays here incorporating Toney and his versatility.  
+Mike Glennon doesn't make an ass out of himself out there. Expect a good number of gadget plays here incorporating Toney and his versatility.
 
 ***
 
@@ -148,11 +148,11 @@ Whereas the Packers a bit thin at cornerback, the Bears seem a bit strained alon
 
 #### _History_
 
-Being divisional rivals, both of these teams face each regularly. Last year, Green Bay pulled off a clean sweep of these Bears, dominating them handily in both match-ups. The only real difference this year is that Mitch Trubisky has been swapped out with a younger version of himself in Justin Fields. 
+Being divisional rivals, both of these teams face each regularly. Last year, Green Bay pulled off a clean sweep of these Bears, dominating them handily in both match-ups. The only real difference this year is that Mitch Trubisky has been swapped out with a younger version of himself in Justin Fields.
 
 #### _Weather_
 
-Cool with some moderate winds jetting around 
+Cool with some moderate winds jetting around
 
 ***
 
@@ -181,11 +181,11 @@ Lions @ **Vikings**
 
 Christian McCaffrey's status is the most important here. So far, he's been practicing, which is a great sign.
 
-The Vikings have a number of skill players on offense not playing, but it's knot known yet whether any of their injuries are serious enough to keep them sidelined. 
+The Vikings have a number of skill players on offense not playing, but it's knot known yet whether any of their injuries are serious enough to keep them sidelined.
 
 #### _History_
 
-Both these teams met last year in Minnesota. The Vikings edged out the Panthers by a point (which ironically matches the spread here). It's worth keeping in mind Carolina was in a position to win the game with a last-second field goal. 
+Both these teams met last year in Minnesota. The Vikings edged out the Panthers by a point (which ironically matches the spread here). It's worth keeping in mind Carolina was in a position to win the game with a last-second field goal.
 
 #### _Weather_
 
@@ -220,13 +220,13 @@ Browns @ **Chargers**
 
 Arizona is dealing with a nagging injury to Kyler Murray's throwing shoulder. Although Murray is expected to play, expect the Cardinals air game to suffer if Murray isn't able to throw cleanly.
 
-Cleveland's dealing with its own share of injuries, though all key players are expected to play. It's advisable to keep tabs on Cleveland's defensive backfield, though it might not matter much if Kyler's out there throwing balls  with a stupid shoulder. 
+Cleveland's dealing with its own share of injuries, though all key players are expected to play. It's advisable to keep tabs on Cleveland's defensive backfield, though it might not matter much if Kyler's out there throwing balls  with a stupid shoulder.
 
 #### _History_
 
 No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode at the time), every other starting-caliber running back has drummed up big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
 
-One more thing - last time winds were gusting over 20 miles per hour, Baker Mayfield had a sad outing. 
+One more thing - last time winds were gusting over 20 miles per hour, Baker Mayfield had a sad outing.
 
 #### _Weather_
 
@@ -239,7 +239,7 @@ Browns -3
 ***
 
 **Cleveland covers if**  
-their rushers outgain Arizona's tailbacks by more than half a yard.
+their rushers outgain Arizona's tailbacks by more than half a yard. Cleveland will need to allow its ground game take the lead on offense so long as winds render the passing game impotent.
 
 **Arizona covers if**  
 Chase Edmonds and James Conner can keep pace with Nick Chubb and Kareem Hunt.
@@ -247,5 +247,28 @@ Chase Edmonds and James Conner can keep pace with Nick Chubb and Kareem Hunt.
 ***
 
 ### Bills @ Titans (+5.5)
+
+***
+
+#### _Latest Results_
+
+**Bills** @ Chiefs  
+**Titans** @ Bills
+
+#### _Key Injuries_
+
+It seems Tennessee is getting healthier on both sides of the ball, with key players practicing.
+
+Same with Buffalo, as it seems Matt Milano is practicing now too.
+
+#### _History_
+
+No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode at the time), every other starting-caliber running back has drummed up big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
+
+One more thing - last time winds were gusting over 20 miles per hour, Baker Mayfield had a sad outing.
+
+#### _Weather_
+
+60s weather, though some mean winds are expected
 
 ***
