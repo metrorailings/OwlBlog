@@ -8,7 +8,7 @@ headline = "Week 6 Insights"
 
 This Buccaneer offense looks a little too different without Gronkowski. Brady needs Gronk more badly than I originally thought.
 
-Lots of wide receiver and halfback screens being run by the Bucs. Maybe Brady and company are emphasizing that section of their playbook to counter the Eagles pass rush.
+Lots of wide receiver and halfback screens being run by the Bucs. Maybe Brady and company are emphasizing that section of their playbook to counter the Eagles pass rush. Regardless of the reason, these screens have seen mixed success at best.
 
 Brady with three bad throws in a row on a drive that ultimately ended in an interception. Little worrying.
 
