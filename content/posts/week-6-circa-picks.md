@@ -275,4 +275,8 @@ Bills -6
 
 ***
 
-**Buffalo covers if**
+**Buffalo covers if**  
+their defense can suppress the likes of Ryan Tannehill and Derrick Henry.
+
+**Tennessee covers if**  
+they repeat the same strategy that was so resoundingly successful for them last year against this Buffalo squad. 
