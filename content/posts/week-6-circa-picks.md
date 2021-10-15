@@ -207,7 +207,7 @@ Kirk Cousins is as proficient as he was last year against this Panther defense, 
 
 ***
 
-### Cardinals @ Browns (-3)
+### Cardinals @ Browns (-2.5)
 
 ***
 
@@ -263,12 +263,16 @@ Same with Buffalo, as it seems Matt Milano is practicing now too.
 
 #### _History_
 
-No history at all between these two teams, as both teams belong to different conferences. That being said, Arizona has been absolutely pathetic in its attempt to stonewall opposing rushers. Besides Derrick Henry (who was probably still in loading mode at the time), every other starting-caliber running back has drummed up big yardage against this soft Cardinal front. Meanwhile, Cleveland comes into the week boasting the league's best ground attack...
-
-One more thing - last time winds were gusting over 20 miles per hour, Baker Mayfield had a sad outing.
+Last year, Tennessee actually housed Buffalo in their match in Nashville. Odd considering how awful the Titans defense was last year. Very odd.
 
 #### _Weather_
 
-60s weather, though some mean winds are expected
+Crisp autumn weather
 
 ***
+
+Bills -6
+
+***
+
+**Buffalo covers if**
