@@ -16,4 +16,6 @@ Jalen Hurts is just awful. His throws lack touch. He does enjoy his sideline thr
 
 How is Jalen Hurts not finding anybody against this sad Tampa secondary?
 
+Devontae Smith is something special for the Eagles. A critical piece.
+
 ***
