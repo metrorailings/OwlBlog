@@ -281,4 +281,6 @@ their defense can suppress the likes of Ryan Tannehill and Derrick Henry.
 **Tennessee covers if**  
 they repeat the same strategy that was so resoundingly successful for them last year against this Buffalo squad  
 \- AND -  
-Buffalo comes out flat after an emotional win against a Kansas City team that stomped them in the playoffs last year.
+Buffalo comes out flat after an emotional win against a Kansas City team that stomped them in the playoffs last year  
+\- AND -  
+Tennessee comes out hot in a primetime showing against a Buffalo team people are crowning as the kings of the AFC.
