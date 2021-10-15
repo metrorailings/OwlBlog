@@ -29,6 +29,8 @@ Brady really trying hard to make deep sideline throws against these Dolphin corn
 
 Jacoby playing very well despite a bad hamstring. Where the hell was this last week? I also see Davis Mills playing well against New England. Seems to me that quarterbacks that have a really bad day the week before regress hard to the median the week after, so long as they're committed to their craft.
 
+Antonio Brown may be a critical piece to the offense - the intellectual receiver able to run all sorts of routes.
+
 ***
 
 ## Saints @ Washington
