@@ -162,3 +162,5 @@ Titans execute some interesting concepts on offense. Routes designed to create s
 Just ugly defense from the Jaguars, expectedly. Slow to react, blown coverage, etc etc.
 
 Ryan Tannehill running the quarterback option has been simply sensational.
+
+Let's be honest - Tennessee's defense is simply awful against the run. In obvious rushing situation, the Titans have still failed to hold up against Jacksonville's rushers.
