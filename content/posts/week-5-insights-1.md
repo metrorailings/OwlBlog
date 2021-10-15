@@ -148,3 +148,7 @@ Indianapolis is so limited with their pass rush. Lamar's being given too much ti
 Mark Andrews is the best weapon for these Ravens in the passing game. Easily. Hollywood doesn't compare.
 
 Wentz has been good. I've been impressed, though he's been faltering a bit at the end of the game.
+
+***
+
+## Titans @ Jaguars
