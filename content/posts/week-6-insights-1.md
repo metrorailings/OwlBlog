@@ -45,3 +45,7 @@ Derrick Henry stomping the Bills defense into oblivion here. It's clearly the im
 Oddly enough, Buffalo is not all too keen to stack the box against Derrick Henry, even in the second half when it was all too obvious Henry was only building momentum.
 
 Tennessee's pass protection is really concerning. Ryan Tannehill is almost always being rushed on his throws by the Bills defensive front. Not good. Good work by Mario Addison, Ed Oliver, and Rousseau.
+
+***
+
+## Bengals @ Lions
