@@ -74,3 +74,5 @@ Beautiful 4th down play from Zac Taylor. Use Detroit's defensive tendency to ove
 Chargers are only validating their status in the league as one of the NFL's worst run defenses.
 
 Excellent blitzing on an early 3rd down from Baltimore, fooling both the offensive line and Justin Herbert.
+
+Just too easy. The Ravens are rushing the ball right up against these Chargers despite Los Angeles having enough of a numbers advantage in the box to make stops. But it doesn't matter - Baltimore is consistently winning, be it outside runs or inside runs. It's possible the threat of Lamar in the backfield is keeping Los Angeles from firing off their first reads right away.
