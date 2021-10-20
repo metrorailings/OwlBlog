@@ -49,3 +49,5 @@ Tennessee's pass protection is really concerning. Ryan Tannehill is almost alway
 ***
 
 ## Bengals @ Lions
+
+Bengals offense seem to have a difficult time working out of negative game script?
