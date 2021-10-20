@@ -19,3 +19,13 @@ How is Jalen Hurts not finding anybody against this sad Tampa secondary?
 Devontae Smith is something special for the Eagles. A critical piece.
 
 ***
+
+## Cardinals @ Browns
+
+Kyler magic is a very real thing this year.
+
+Cleveland's offense is just feckless without Nick Chubb, a healthy Kareem Hunt, and Jarvis Landry. Without two of those three, expect the Browns to stall in the worst way.
+
+Why does Baker insist on holding on to the ball ridiculously longer than necessary? Hero ball isn't a winning tactic in today's NFL.
+
+Baker is who we thought he was.
