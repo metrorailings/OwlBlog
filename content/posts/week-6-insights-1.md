@@ -61,3 +61,7 @@ Cincinnati not afraid to send blitzers after Goff, perhaps in a bid to compel hi
 Trey Hendrickson is a beast so far.
 
 Cincinnati's offensive line isn't much better than Detroit's, to be honest.
+
+Burrow's mobility has been a difference maker so far.
+
+Good to see the Bengals start the second half by establishing the run. Zac Taylor may finally understand the concept of adjustments...
