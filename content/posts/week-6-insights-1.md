@@ -65,3 +65,5 @@ Cincinnati's offensive line isn't much better than Detroit's, to be honest.
 Burrow's mobility has been a difference maker so far.
 
 Good to see the Bengals start the second half by establishing the run. Zac Taylor may finally understand the concept of adjustments...
+
+Beautiful 4th down play from Zac Taylor. Use Detroit's defensive tendency to overreact to motion and impulse to surprise them with a wheel route from Joe Mixon. 
