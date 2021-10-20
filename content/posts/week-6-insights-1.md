@@ -51,3 +51,9 @@ Tennessee's pass protection is really concerning. Ryan Tannehill is almost alway
 ## Bengals @ Lions
 
 Bengals offense seem to have a difficult time working out of negative game script?
+
+Goff seems to be operating on his first reads. Too many short passes and questionable throws attest to this.
+
+Once again, Detroit's linebackers are so _slow_.
+
+Cincinnati not afraid to send blitzers after Goff, perhaps in a bid to compel him to release the ball even faster than usual.
