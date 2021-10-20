@@ -84,3 +84,5 @@ Yet another excellent 3rd down blitz from Wink Martindale. Really throwing Justi
 Jackson is not having a good day passing. Why the Ravens are insisting on passing the ball going in the second quarter is...rather bizarre. Perhaps even more bizarre is Lamar's willingness to hold on to the ball.
 
 Yep, Mike Williams is playing injured. He's down on the ground after a fairly routine tackle.
+
+Kudos to the Chargers pass rushers hitting home on multiple occasions in the first half alone.
