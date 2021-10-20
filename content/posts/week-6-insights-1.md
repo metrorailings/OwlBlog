@@ -86,3 +86,7 @@ Jackson is not having a good day passing. Why the Ravens are insisting on passin
 Yep, Mike Williams is playing injured. He's down on the ground after a fairly routine tackle.
 
 Kudos to the Chargers pass rushers hitting home on multiple occasions in the first half alone.
+
+***
+
+## Cowboys @ Patriots
