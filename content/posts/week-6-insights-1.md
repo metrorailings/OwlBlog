@@ -57,3 +57,5 @@ Goff seems to be operating on his first reads. Too many short passes and questio
 Once again, Detroit's linebackers are so _slow_.
 
 Cincinnati not afraid to send blitzers after Goff, perhaps in a bid to compel him to release the ball even faster than usual.
+
+Trey Hendrickson is a beast so far.
