@@ -78,3 +78,9 @@ Excellent blitzing on an early 3rd down from Baltimore, fooling both the offensi
 Just too easy. The Ravens are rushing the ball right up against these Chargers despite Los Angeles having enough of a numbers advantage in the box to make stops. But it doesn't matter - Baltimore is consistently winning, be it outside runs or inside runs. It's possible the threat of Lamar in the backfield is keeping Los Angeles from firing off their first reads right away.
 
 Mike Williams not catching the ball well. Wonder if his injury is effecting him...
+
+Yet another excellent 3rd down blitz from Wink Martindale. Really throwing Justin Herbert and the Chargers offense off their rhythm.
+
+Jackson is not having a good day passing. Why the Ravens are insisting on passing the ball going in the second quarter is...rather bizarre. Perhaps even more bizarre is Lamar's willingness to hold on to the ball.
+
+Yep, Mike Williams is playing injured. He's down on the ground after a fairly routine tackle.
