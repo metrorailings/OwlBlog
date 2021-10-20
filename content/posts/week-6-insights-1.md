@@ -29,3 +29,19 @@ Cleveland's offense is just feckless without Nick Chubb, a healthy Kareem Hunt, 
 Why does Baker insist on holding on to the ball ridiculously longer than necessary? Hero ball isn't a winning tactic in today's NFL.
 
 Baker is who we thought he was.
+
+***
+
+## Bills @ Titans
+
+Josh Allen missing quite a few open throws, notably to Emmanuel Sanders.
+
+Tennessee is clearly amped for this game.
+
+Good work by the Bills on blowing up the Titan bootlegs. Tannehill has been forced into some ugly moments when the edge rusher playing away from the shifting offensive line crashed down on the quarterback.
+
+Derrick Henry stomping the Bills defense into oblivion here. It's clearly the impressive numbers Buffalo's defense built up early in the season are not a fair representation of the team's run defense.
+
+Oddly enough, Buffalo is not all too keen to stack the box against Derrick Henry, even in the second half when it was all too obvious Henry was only building momentum.
+
+Tennessee's pass protection is really concerning. Ryan Tannehill is almost always being rushed on his throws by the Bills defensive front. Not good. Good work by Mario Addison, Ed Oliver, and Rousseau.
