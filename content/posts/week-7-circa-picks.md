@@ -55,6 +55,9 @@ their offense can somehow score at least 17 points against Tampa's defense. Cert
 
 #### _Latest Results_
 
+**Bengals** @ Lions  
+Chargers @ **Ravens**
+
 #### _Key Injuries_
 
 #### _History_
