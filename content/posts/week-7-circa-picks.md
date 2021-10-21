@@ -49,4 +49,14 @@ their offense can somehow score at least 17 points against Tampa's defense. Cert
 
 ***
 
-### 
+### Bengals @ Ravens (-6.5)
+
+***
+
+#### _Latest Results_
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
