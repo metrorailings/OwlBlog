@@ -99,4 +99,4 @@ Justin Fields needs to play with an increased appetite for risk. He needs to cha
 
 Fields' deep throws have been horrendous. 
 
-This Khalil Herbert guy on the other hand...he has some serious talent. His footwork and his ability to juke is pretty impressive. 
+This Khalil Herbert guy on the other hand...he has some serious talent. His footwork and his ability to juke is pretty impressive.  Chicago has something going if they can build a ground game with Khalil Herbert and use that to establish some hard play-action. 
