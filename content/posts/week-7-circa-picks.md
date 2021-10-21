@@ -4,48 +4,48 @@ draft = true
 headline = "Week 7 Circa Picks "
 
 +++
-Finally! We have a good week. My picks were pretty much on point. The Browns barely lost thanks to a foolish decision by Brandon Staley to not take a knee before kicking the field goal for a guaranteed win. Other than that, all my decisions were justified, mostly for reasons I listed in my analysis of each and every one. Beautiful!
+Not a bad week last week. Three of my picks were sound while two were disgustingly wrong.
 
-Let's keep this up. Last week, I shied away from two matches that were originally appealing to me, thanks mostly to my early analysis of those matches. Let that be evidence that these breakdowns are fruitful in identifying potential games that may be traps.
+But lesson learned - don't underestimate the impact of injuries, especially when it comes to quarterbacks. Lingering quarterback injuries combined with reduced weaponry on offense can lead to grim results. It's clear Daniel Jones isn't quite himself coming off the concussion. On top of that, in no circumstance should Baker Mayfield be counted to shoulder the burden of offense when Cleveland's without either of its star rushers.        
 
 ***
 
-### Chiefs @ Washington (+7)
+### Bears @ Buccaneers (-12.5)
 
 ***
 
 #### _Latest Results_
 
-**Bills** @ Chiefs (SNF)  
-**Saints** @ Washington
+**Packers** @ Bears  
+**Buccaneers** @ Eagles (TNF)
 
 #### _Key Injuries_
 
-Worth keeping an eye on the Chiefs. Both Tyreek Hill and Travis Kelce suffered injuries last week, though none of their injuries are projected to hold them out.
+Robert Quinn is an important player to keep an eye on, given his role on Chicago's defense. He'll need to pass COVID protocol before he can travel with his brothers-in-arms over to Tampa. Without him, the Bears defense suffers a massive hit to its defense at the most inopportune time.
+
+Tampa Bay remains banged up. Rob Gronkowski, Jason Pierre-Paul, Antonio Brown, and Lavante David haven't been practicing, putting their chances of playing this weekend in jeopardy. A few of these players should be able to play, though it remains uncertain exactly who. Gronk and JPP would be the most impactful names coming off injury.  
 
 #### _History_
 
-No recent history, as these two teams play in different conferences.
+Tampa and Chicago met last year in a primetime moment on Soldier Field. The Bears eked out a win against a Buccaneer team still cutting its teeth in the Brady era. From what I remember, Brady's offensive linemen failed him on multiple occasions. The only reason the game remained competitive was because Nick Foles kept missing open throws to his receivers. 
 
 #### _Weather_
 
-Perfect spring scrimmage weather
+Seasonably hot and gently humid
 
 ***
 
-Chiefs -7
+Buccaneers -12.5
 
 ***
 
-**Kansas City covers if**  
-Tyreek Hill posts over 120 yards against Washington's inept secondary  
-\- AND -  
-the defense can force some negative plays from Taylor Heinecke, who's known for playing fast and loose with the football.
-
-**Washington covers if**  
-Taylor Heinecke can minimize his recklessness  
+**Tampa Bay covers if**  
+Brady and the offense aren't caught slacking against a clearly inferior team. Tampa will be given enough opportunities on offense to score points, it's just a matter of whether the will is there to run up the score  
 \- OR -  
-their defensive backs can keep Tyreek Hill bracketed for much of the game. A pretty tall ask considering the Washington secondary has discovered new ways to shit the bed every week this season.
+The Buccaneers enter the game with all their key injured players active.
+
+**Chicago covers if**  
+their offense can somehow score at least 17 points against Tampa's defense. Certainly possible if the Buccaneers end up stalling too much against Chicago's top-tier defense. 
 
 ***
 
