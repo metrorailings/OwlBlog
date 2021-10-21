@@ -98,3 +98,5 @@ Khalil Mack, Robert Quinn, and Akiem Hicks are key cogs for that defensive front
 Justin Fields needs to play with an increased appetite for risk. He needs to chance the tight window throws.
 
 Fields' deep throws have been horrendous. 
+
+This Khalil Herbert guy on the other hand...he has some serious talent. His footwork and his ability to juke is pretty impressive. 
