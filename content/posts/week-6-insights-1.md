@@ -89,4 +89,6 @@ Kudos to the Chargers pass rushers hitting home on multiple occasions in the fir
 
 ***
 
-## Cowboys @ Patriots
+## Packers @ Bears
+
+Packers making some serious hay by running the ball with power. Makes sense too, given that Aaron Rodgers isn't doing much passing the ball. Chicago's pass rush has been doing the yeoman's work here, harassing Aaron Rodgers at a somewhat regular pace.
