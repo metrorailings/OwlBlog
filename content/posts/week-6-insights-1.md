@@ -92,3 +92,9 @@ Kudos to the Chargers pass rushers hitting home on multiple occasions in the fir
 ## Packers @ Bears
 
 Packers making some serious hay by running the ball with power. Makes sense too, given that Aaron Rodgers isn't doing much passing the ball. Chicago's pass rush has been doing the yeoman's work here, harassing Aaron Rodgers at a somewhat regular pace.
+
+Khalil Mack, Robert Quinn, and Akiem Hicks are key cogs for that defensive front.
+
+Justin Fields needs to play with an increased appetite for risk. He needs to chance the tight window throws.
+
+Fields' deep throws have been horrendous. 
