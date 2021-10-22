@@ -92,9 +92,16 @@ their defensive front can prevent a hurting Joe Burrow from ever settling into a
 
 #### _Latest Results_
 
+**Chiefs** @ Washington  
+Bills @ **Titans** (MNF)
+
 #### _Key Injuries_
 
 #### _History_
+
+These teams faced one another twice two years ago, but nothing more recent than that. Both of those contests were competitive, though Kansas City won decisively in the rematch.
+
+One thing's for certain - Tennessee's ground game still has as much teeth today as it did years ago against Kansas. That doesn't bode well for a Chiefs defense clearly in decline.
 
 #### _Weather_
 
