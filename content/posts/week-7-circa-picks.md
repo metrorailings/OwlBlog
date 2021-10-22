@@ -86,4 +86,14 @@ their defensive front can prevent a hurting Joe Burrow from ever settling into a
 
 ***
 
- 
+### Chiefs @ Titans (+4.5)
+
+***
+
+#### _Latest Results_
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
