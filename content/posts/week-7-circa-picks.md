@@ -97,3 +97,5 @@ their defensive front can prevent a hurting Joe Burrow from ever settling into a
 #### _History_
 
 #### _Weather_
+
+Warm weather with some light winds
