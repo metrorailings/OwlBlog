@@ -60,6 +60,30 @@ Chargers @ **Ravens**
 
 #### _Key Injuries_
 
+Baltimore will be missing the services of a capable offensive lineman in Ronnie Stanley.
+
+Cincinnati should be mostly healthy, though Joe Burrow is still fighting through a neck contusion limiting his vocal cadences.
+
 #### _History_
 
+Twice did these teams face one another last year. Both times, Baltimore kept Cincinnati to its worst offensive showing that season (in terms of scoring). Wink Martindale seems to have a beat on Zac Taylor's offense. 
+
 #### _Weather_
+
+Perfect autumn weather
+
+***
+
+Undecided
+
+***
+
+**Cincinnati covers if**  
+their offensive line can hold up against the myriad of blitzes and rushes Martindale will throw at them.
+
+**Baltimore covers if**  
+their defensive front can prevent a hurting Joe Burrow from ever settling into a groove.
+
+***
+
+ 
