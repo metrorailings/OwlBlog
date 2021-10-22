@@ -97,6 +97,10 @@ Bills @ **Titans** (MNF)
 
 #### _Key Injuries_
 
+AJ Brown hasn't been practicing so far this week, citing illness as the reason he's been sidelined. I wonder just how badly that episode of food poisoning got to him last weekend.
+
+The Chiefs two most critical pieces on offense outside Patrick Mahomes remain banged up, though both Kelce and Hill are expected to play this Sunday.
+
 #### _History_
 
 These teams faced one another twice two years ago, but nothing more recent than that. Both of those contests were competitive, though Kansas City won decisively in the rematch.
