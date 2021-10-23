@@ -118,14 +118,12 @@ Titans +4.5
 ***
 
 **Tennessee covers if**  
-AJ Brown can play at a competent level despite his food poisoning  
-\- AND -  
-Ryan Tannehill can negotiate through the blitzes Spagnuolo and his defense will present to him.
+Ryan Tannehill and his sad offensive line can negotiate through the blitzes Spagnuolo and his defense will present to him.
 
 **Kansas City covers if**  
 Their defense can harangue Tannehill on enough plays  
 \- OR -  
-Tyreek Hill is healthy enough to play the whole game without any issue.
+Tyreek Hill is healthy enough to play the whole game without any issue. Tennessee's soft secondary is begging to be scorched by a player of his caliber.
 
 ***
 
