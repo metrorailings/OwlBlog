@@ -126,3 +126,30 @@ Ryan Tannehill can negotiate through the blitzes Spagnuolo and his defense will 
 Their defense can harangue Tannehill on enough plays  
 \- OR -  
 Tyreek Hill is healthy enough to play the whole game without any issue.
+
+***
+
+### Falcons @ Dolphins (+2.5)
+
+***
+
+### Jets @ Patriots (-7)
+
+***
+
+#### _Latest Results_
+
+Jets - BYE  
+**Cowboys** @ Patriots
+
+#### _Key Injuries_
+
+New York will be missing the services of their top-flight linebacker in C.J. Mosley.
+
+New England seems mostly healthy. Their offensive line seems to be coming together.
+
+#### _History_
+
+These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience.
+
+#### _Weather_
