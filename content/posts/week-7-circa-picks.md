@@ -153,3 +153,17 @@ New England seems mostly healthy. Their offensive line seems to be coming togeth
 These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience.
 
 #### _Weather_
+
+Typical autumn weather for New England
+
+***
+
+Jets +7
+
+***
+
+**New York covers if**  
+Zach Wilson and his coaches learn from their past outing against Belichick and simplify things on offense against a New England defense known to confuse rookie quarterbacks.
+
+**New England covers if**  
+their defense can once again frustrate an aimless New York offense helmed by a rookie still cutting his teeth. 
