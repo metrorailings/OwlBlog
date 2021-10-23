@@ -231,7 +231,7 @@ Undecided
 ***
 
 **Indianapolis covers if**  
-their run game outperforms San Francisco's own ground attack in terms of yards per carry.
+their run game outperforms San Francisco's own ground attack in terms of yards per carry. It'll likely depend on whether Carson Wentz can present himself as a credible threat, thereby compelling the 49ers to allocate more defenders outside the box. 
 
 **San Francisco covers if**  
-their ground game gains more yards per carry than that of the Colts.  
+their ground game gains more yards per carry than that of the Colts.
