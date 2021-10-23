@@ -27,7 +27,7 @@ Tampa Bay remains banged up. Rob Gronkowski, Jason Pierre-Paul, Antonio Brown, a
 
 #### _History_
 
-Tampa and Chicago met last year in a primetime moment on Soldier Field. The Bears eked out a win against a Buccaneer team still cutting its teeth in the Brady era. From what I remember, Brady's offensive linemen failed him on multiple occasions. The only reason the game remained competitive was because Nick Foles kept missing open throws to his receivers. 
+Tampa and Chicago met last year in a primetime moment on Soldier Field. The Bears eked out a win against a Buccaneer team still cutting its teeth in the Brady era. From what I remember, Brady's offensive linemen failed him on multiple occasions. On top of that, Tampa was missing so many of its weapons. The only reason the game remained competitive was because Nick Foles kept missing open throws to his receivers. 
 
 #### _Weather_
 
