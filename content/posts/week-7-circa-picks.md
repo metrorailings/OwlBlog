@@ -131,6 +131,8 @@ Tyreek Hill is healthy enough to play the whole game without any issue.
 
 ### Falcons @ Dolphins (+2.5)
 
+***
+
 #### _Latest Results_
 
 Falcons - BYE  
@@ -140,7 +142,7 @@ Dolphins vs **Jaguars** (London)
 
 Dante Fowler is out for the Falcons.
 
-Miami is banged up across the spectrum. Notably, all three starting cornerbacks are dealing with injuries throwing their game-time status into question. Likewise, DaVante Parker is a perpetual presence on the injury list as well. 
+Miami is banged up across the spectrum. Notably, all three starting cornerbacks are dealing with injuries throwing their game-time status into question. Likewise, DaVante Parker being a perpetual presence on the injury list throws his availability into question as well. 
 
 #### _History_
 
