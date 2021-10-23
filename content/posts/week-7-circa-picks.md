@@ -152,6 +152,18 @@ Hot and humid. Just lovely weather for Miami, but not so lovely for the road tea
 
 ***
 
+Dolphins +2.5
+
+***
+
+**Miami covers if**  
+two of their three starting cornerbacks suit up and play through the entire game.
+
+**Atlanta covers if**  
+Miami's injured secondary fail to show up for the better part of the game.
+
+***
+
 ### Jets @ Patriots (-7)
 
 ***
