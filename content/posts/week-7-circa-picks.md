@@ -181,7 +181,7 @@ New England seems mostly healthy. Their offensive line seems to be coming togeth
 
 #### _History_
 
-These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience. The Jets did impress on defense - as it took considerable work for the Patriots to finally nail the cover.
+These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience. The Jets did impress on defense - it took considerable work for the Patriots to finally nail the cover.
 
 #### _Weather_
 
