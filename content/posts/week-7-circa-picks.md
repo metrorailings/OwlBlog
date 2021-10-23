@@ -45,7 +45,7 @@ Brady and the offense aren't caught slacking against a clearly inferior team. Ta
 The Buccaneers enter the game with all their key injured players active.
 
 **Chicago covers if**  
-their offense can somehow score at least 17 points against Tampa's defense. Certainly possible if the Buccaneers end up stalling too much against Chicago's top-tier defense. 
+their offense can somehow score at least 17 points against Tampa's defense. Certainly possible if the Buccaneers end up stalling too much against Chicago's top-tier defense. Robert Quinn coming back would be an incredibly positive development for the Bears.
 
 ***
 
