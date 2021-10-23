@@ -1,6 +1,5 @@
 +++
 date = 2021-10-21T12:00:00Z
-draft = true
 headline = "Week 7 Circa Picks "
 
 +++
@@ -235,3 +234,40 @@ their run game outperforms San Francisco's own ground attack in terms of yards p
 
 **San Francisco covers if**  
 their ground game gains more yards per carry than that of the Colts.
+
+***
+
+### Eagles @ Raiders (-3)
+
+***
+
+#### _Latest Results_
+
+**Buccaneers** @ Eagles (TNF)  
+**Raiders** @ Broncos
+
+#### _Key Injuries_
+
+The Eagles and Raiders are reasonably healthy. Philadelphia should welcome back Lane Johnson on offense just in time going up against Maxx Crosby.
+
+#### _History_
+
+No relevant history to explore here. Nick Sirianni did face off against Jon Gruden last year in the capacity of coordinator, though that detail doesn't matter much now that Gruden is gone.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Eagles +3
+
+***
+
+**Philadelphia covers if**  
+their defensive front can prevent Derek Carr from ever getting comfortable while trying to orchestrate the offense  
+\- OR -  
+the Eagles can finally commit wholeheartedly to Miles Sanders and the run game.
+
+**Las Vegas covers if**  
+Derek Carr can continue making strides forward as a quarterback playing under pressure.
