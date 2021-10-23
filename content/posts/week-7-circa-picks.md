@@ -222,7 +222,7 @@ No recent history between these two organizations or their coaches.  Kyle Shanah
 
 #### _Weather_
 
-Rainy and windy. Fun times.
+Rainy and windy. Fun times. Expect both teams to dedicate more resources towards defensing the run.
 
 ***
 
