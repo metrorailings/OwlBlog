@@ -131,6 +131,25 @@ Tyreek Hill is healthy enough to play the whole game without any issue.
 
 ### Falcons @ Dolphins (+2.5)
 
+#### _Latest Results_
+
+Falcons - BYE  
+Dolphins vs **Jaguars** (London)
+
+#### _Key Injuries_
+
+Dante Fowler is out for the Falcons.
+
+Miami is banged up across the spectrum. Notably, all three starting cornerbacks are dealing with injuries throwing their game-time status into question. Likewise, DaVante Parker is a perpetual presence on the injury list as well. 
+
+#### _History_
+
+No real history. Neither of the two head coaches here have squared off against one another recently too.
+
+#### _Weather_
+
+Hot and humid. Just lovely weather for Miami, but not so lovely for the road team coming out of town.
+
 ***
 
 ### Jets @ Patriots (-7)
@@ -167,3 +186,5 @@ Zach Wilson and his coaches learn from their past outing against Belichick and s
 
 **New England covers if**  
 their defense can once again frustrate an aimless New York offense helmed by a rookie still cutting his teeth. 
+
+***
