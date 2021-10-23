@@ -110,3 +110,19 @@ One thing's for certain - Tennessee's ground game still has as much teeth today 
 #### _Weather_
 
 Warm weather with some light winds
+
+***
+
+Titans +4.5
+
+***
+
+**Tennessee covers if**  
+AJ Brown can play at a competent level despite his food poisoning  
+\- AND -  
+Ryan Tannehill can negotiate through the blitzes Spagnuolo and his defense will present to him.
+
+**Kansas City covers if**  
+Their defense can harangue Tannehill on enough plays  
+\- OR -  
+Tyreek Hill is healthy enough to play the whole game without any issue.
