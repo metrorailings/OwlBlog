@@ -157,10 +157,10 @@ Dolphins +2.5
 ***
 
 **Miami covers if**  
-two of their three starting cornerbacks suit up and play through the entire game.
+Xavien Howard and Byron Jones suit up and play through the entire game.
 
 **Atlanta covers if**  
-Miami's injured secondary fail to show up for the better part of the game.
+Miami's injured secondary fails to show up for the better part of the game.
 
 ***
 
