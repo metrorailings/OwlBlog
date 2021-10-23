@@ -200,3 +200,38 @@ Zach Wilson and his coaches learn from their past outing against Belichick and s
 their defense can once again frustrate an aimless New York offense helmed by a coordinator and a rookie passer still cutting their teeth. 
 
 ***
+
+### Colts @ 49ers (-4)
+
+***
+
+#### _Latest Results_
+
+Texans @ **Colts**  
+49ers - BYE
+
+#### _Key Injuries_
+
+The 49ers are without their best skill player in George Kittle. Even more worrisome is that an injured Jimmy Garoppalo will be helming the offense, with some scrub backing him up should he go down.
+
+Braden Smith will once again be out of action for the Colts. 
+
+#### _History_
+
+No recent history between these two organizations or their coaches.  Kyle Shanahan did face off against Carson Wentz last year in a game where the latter led his team to a surprise upset.
+
+#### _Weather_
+
+Rainy and windy. Fun times.
+
+***
+
+Undecided
+
+***
+
+**Indianapolis covers if**  
+their run game outperforms San Francisco's own ground attack in terms of yards per carry.
+
+**San Francisco covers if**  
+their ground game gains more yards per carry than that of the Colts.  
