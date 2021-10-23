@@ -181,7 +181,7 @@ New England seems mostly healthy. Their offensive line seems to be coming togeth
 
 #### _History_
 
-These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience.
+These two faced one another earlier in the season. New England embarrassed New York in a rout, exposing Zach Wilson's lack of experience. The Jets did impress on defense - as it took considerable work for the Patriots to finally nail the cover.
 
 #### _Weather_
 
@@ -197,6 +197,6 @@ Jets +7
 Zach Wilson and his coaches learn from their past outing against Belichick and simplify things on offense against a New England defense known to confuse rookie quarterbacks.
 
 **New England covers if**  
-their defense can once again frustrate an aimless New York offense helmed by a rookie still cutting his teeth. 
+their defense can once again frustrate an aimless New York offense helmed by a coordinator and a rookie passer still cutting their teeth. 
 
 ***
