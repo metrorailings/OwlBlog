@@ -64,7 +64,9 @@ Yannick Ngakoue showing up now. Well done.
 
 Good to see Eagles commit more to the run. Only problem is that Miles Sanders is injured. Neither of the other halfbacks on the other roster are as dynamic as Sanders. Still, Philadelphia running the ball should theoretically pay dividends come the fourth quarter.
 
-Carr has 15 completions in his first 16 throws. Not good. Carr has hit a different gear now that bum Gruden has been run out of town.
+Carr has 15 completions in his first 16 throws. Not good for Philly's defense. Carr has hit a different gear now that bum Gruden has been run out of town. On top of that, the predictability of Philly's defense has made things fairly easy to read for Carr. Less time spent thinking is more time spent acting.
+
+It amazes me how sloppy these Eagles are in terms of penalties and ball control. I'm starting to realize sloppy teams don't travel well on the road.
 
 ***
 
