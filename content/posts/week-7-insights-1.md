@@ -70,6 +70,8 @@ It amazes me how sloppy these Eagles are in terms of penalties and ball control.
 
 Why do I take sloppy teams on the road?
 
+Tom Cable very conservative towards the end. Just happy ending the game.
+
 ***
 
 ## Bears @ Buccaneers
