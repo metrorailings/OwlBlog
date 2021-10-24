@@ -60,6 +60,10 @@ Derek Carr needs to be lauded for his aggressiveness.
 
 But there we go - the Eagles mount some pressure and Carr throws an ill-advised pass resulting in an interception.
 
+Yannick Ngakoue showing up now. Well done.
+
+Good to see Eagles commit more to the run. Only problem is that Miles Sanders is injured. Neither of the other halfbacks on the other roster are as dynamic as Sanders. Still, Philadelphia running the ball should theoretically pay dividends come the fourth quarter.
+
 ***
 
 ## Bears @ Buccaneers
