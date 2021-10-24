@@ -71,3 +71,5 @@ Good to see Eagles commit more to the run. Only problem is that Miles Sanders is
 Fields didn't see a blitz coming, resulting pretty much in Chicago having to punt.
 
 It's just their first series, but Tampa is making some serious hay through power running. Things aren't looking good at all for Chicago.
+
+Couple drives in and Tampa is still muscling Chicago's front in the ground game.
