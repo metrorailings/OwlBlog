@@ -24,6 +24,8 @@ Darnold has issues. Confidence issues, maybe?
 
 Kyle Rudolph still has some gas in his tank.
 
+Carolina has drop issues, but Darnold isn't helping with his erratic throws. How is he this bad?
+
 ***
 
 ## Chiefs @ Titans
