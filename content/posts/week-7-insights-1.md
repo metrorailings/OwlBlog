@@ -30,7 +30,7 @@ I think Daniel Jones is over his concussion.
 
 Giants offensive line is still shit though.
 
-Has Darnold woken up now after an excellent bootleg throw to DJ Moore?
+Has Darnold woken up now after an excellent bootleg throw to DJ Moore? Nope...never mind. He threw a terrible interception on a 3rd and long.
 
 ***
 
