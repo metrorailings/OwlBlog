@@ -34,4 +34,14 @@ Has Darnold woken up now after an excellent bootleg throw to DJ Moore? Nope...ne
 
 ***
 
-## Chiefs @ Titans
+## Jets @ Patriots
+
+Zach Wilson injured early. Jets are dead in the water.
+
+Jets are still pathetic. Seems like New England has done more to prepare for this game than the Jets, given how quickly Mac Jones is releasing the ball. Just have him hold on to the rock for a tick longer, Saleh.
+
+***
+
+## Falcons @ Dolphins
+
+This Dolphin defense is pathetic on the opening drive of the second half. No real pass rush, busted coverage, lack of physicality...
