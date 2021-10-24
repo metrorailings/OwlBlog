@@ -9,3 +9,5 @@ headline = "Week 7 Insights"
 D'Ernest Johnson is the man. Talk about stepping adequately in Nick Chubb's shoes.
 
 Even with Case Keenum at the helm, Jarvis Landry is still more integral to this offense compared to Odell.
+
+Teddy is playing...weird. What's up with him? Preferring short passes, underselling long passes...
