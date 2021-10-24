@@ -20,6 +20,8 @@ At least in their opening drive on the second half, Denver seemed to connect mor
 
 ## Panthers @ Giants
 
+Darnold has issues. Confidence issues, maybe?
+
 ***
 
 ## Chiefs @ Titans
