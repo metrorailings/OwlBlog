@@ -26,6 +26,10 @@ Kyle Rudolph still has some gas in his tank.
 
 Carolina has drop issues, but Darnold isn't helping with his erratic throws. How is he this bad?
 
+I think Daniel Jones is over his concussion.
+
+Giants offensive line is still shit though.
+
 ***
 
 ## Chiefs @ Titans
