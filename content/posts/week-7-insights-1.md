@@ -13,3 +13,5 @@ Even with Case Keenum at the helm, Jarvis Landry is still more integral to this 
 Teddy is playing...weird. What's up with him? Preferring short passes, underselling long passes...
 
 Beckham is worthless. D'Ernest though...he's a beast.
+
+At least in their opening drive on the second half, Denver seemed to connect more on intermediate routes and quick blitz reads.
