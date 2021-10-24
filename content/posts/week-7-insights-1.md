@@ -54,4 +54,6 @@ Finally, Miami is producing something thanks to judicious use of the hurry-up of
 
 ***
 
-## 
+## Eagles @ Raiders
+
+Derek Carr needs to be lauded for his aggressiveness.
