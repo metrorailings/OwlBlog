@@ -49,3 +49,9 @@ Jets are still pathetic. Seems like New England has done more to prepare for thi
 ## Falcons @ Dolphins
 
 This Dolphin defense is pathetic on the opening drive of the second half. No real pass rush, busted coverage, lack of physicality...
+
+Finally, Miami is producing something thanks to judicious use of the hurry-up offense as well as some clutch play from Tua. Atlanta's defense needs to be ashamed of itself here.
+
+***
+
+## 
