@@ -75,3 +75,9 @@ Fields didn't see a blitz coming, resulting pretty much in Chicago having to pun
 It's just their first series, but Tampa is making some serious hay through power running. Things aren't looking good at all for Chicago.
 
 Couple drives in and Tampa is still muscling Chicago's front in the ground game.
+
+***
+
+## Texans @ Cardinals
+
+Murray is not so quick to run the ball now, it seems. Good development from a young quarterback still going through growth spurts.
