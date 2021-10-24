@@ -22,6 +22,8 @@ At least in their opening drive on the second half, Denver seemed to connect mor
 
 Darnold has issues. Confidence issues, maybe?
 
+Kyle Rudolph still has some gas in his tank.
+
 ***
 
 ## Chiefs @ Titans
