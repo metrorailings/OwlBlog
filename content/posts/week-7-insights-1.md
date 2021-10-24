@@ -68,6 +68,8 @@ Carr has 15 completions in his first 16 throws. Not good for Philly's defense. C
 
 It amazes me how sloppy these Eagles are in terms of penalties and ball control. I'm starting to realize sloppy teams don't travel well on the road.
 
+Why do I take sloppy teams on the road?
+
 ***
 
 ## Bears @ Buccaneers
