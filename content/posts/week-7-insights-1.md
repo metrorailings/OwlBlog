@@ -6,4 +6,6 @@ headline = "Week 7 Insights"
 +++
 ## Broncos @ Browns
 
-D'Ernest Johnson is the man. Talk about stepping adequately in Nick Chubb's shoes
+D'Ernest Johnson is the man. Talk about stepping adequately in Nick Chubb's shoes.
+
+Even with Case Keenum at the helm, Jarvis Landry is still more integral to this offense compared to Odell.
