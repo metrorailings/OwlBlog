@@ -15,3 +15,11 @@ Teddy is playing...weird. What's up with him? Preferring short passes, undersell
 Beckham is worthless. D'Ernest though...he's a beast.
 
 At least in their opening drive on the second half, Denver seemed to connect more on intermediate routes and quick blitz reads.
+
+***
+
+## Panthers @ Giants
+
+***
+
+## Chiefs @ Titans
