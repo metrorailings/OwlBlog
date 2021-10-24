@@ -59,3 +59,11 @@ Finally, Miami is producing something thanks to judicious use of the hurry-up of
 Derek Carr needs to be lauded for his aggressiveness.
 
 But there we go - the Eagles mount some pressure and Carr throws an ill-advised pass resulting in an interception.
+
+***
+
+## Bears @ Buccaneers
+
+Fields didn't see a blitz coming, resulting pretty much in Chicago having to punt.
+
+It's just their first series, but Tampa is making some serious hay through power running. Things aren't looking good at all for Chicago.
