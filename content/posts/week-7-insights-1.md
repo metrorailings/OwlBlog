@@ -92,6 +92,10 @@ Murray is not so quick to run the ball now, it seems. Good development from a yo
 
 ## Chiefs @ Titans
 
+Kansas City pass protection is starting to worry me.
+
 ***
 
 ## Colts @ 49ers
+
+49ers are running the ball all too easy against the Colts on the opening drive.
