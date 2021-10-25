@@ -94,6 +94,8 @@ Murray is not so quick to run the ball now, it seems. Good development from a yo
 
 Kansas City pass protection is starting to worry me.
 
+AJ Brown dominating this Kansas secondary. It's only after the Chiefs insist on two-safety pass coverage that Brown's production is limited.
+
 ***
 
 ## Colts @ 49ers
@@ -107,3 +109,5 @@ Carson Wentz playing much better. A deep ball to Michael iIttman despite pass in
 Wentz is gambling way too much. Way too much. If the ball wasn't too wet, he likely would have been picked a couple more times.
 
 Jonathan Taylor has been sensational. Truly the bellcow in the Colts backfield.
+
+Garoppalo, meanwhile...it hasn't been a good night.
