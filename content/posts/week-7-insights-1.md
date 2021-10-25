@@ -100,4 +100,4 @@ Kansas City pass protection is starting to worry me.
 
 49ers are running the ball all too easy against the Colts on the opening drive.
 
-Cris Collinsworth brings up an interesting tidbit - the 49ers felt like a mobile quarterback combined with an effective ground game would really work wonders against this Colts defense. It seems like the coaches may have been on to something.
+Cris Collinsworth brings up an interesting tidbit - the 49ers felt like a mobile quarterback combined with an effective ground game would really work wonders against this Colts defense. It seems like the coaches may have been on to something - misdirection runs have been money against the Colts.
