@@ -96,6 +96,8 @@ Kansas City pass protection is starting to worry me.
 
 AJ Brown dominating this Kansas secondary. It's only after the Chiefs insist on two-safety pass coverage that Brown's production is limited.
 
+Chris Jones making a visible impact for the Chiefs in terms of run defense, even if he's not the actual player making tackles.
+
 ***
 
 ## Colts @ 49ers
