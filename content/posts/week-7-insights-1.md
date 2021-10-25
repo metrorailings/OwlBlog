@@ -87,3 +87,11 @@ Couple drives in and Tampa is still muscling Chicago's front in the ground game.
 ## Texans @ Cardinals
 
 Murray is not so quick to run the ball now, it seems. Good development from a young quarterback still going through growth spurts.
+
+***
+
+## Chiefs @ Titans
+
+***
+
+## Colts @ 49ers
