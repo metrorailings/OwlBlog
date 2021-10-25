@@ -103,3 +103,5 @@ Kansas City pass protection is starting to worry me.
 Cris Collinsworth brings up an interesting tidbit - the 49ers felt like a mobile quarterback combined with an effective ground game would really work wonders against this Colts defense. It seems like the coaches may have been on to something - misdirection runs have been money against the Colts.
 
 Carson Wentz playing much better. A deep ball to Michael iIttman despite pass interference, followed up shortly by a well-executed play fake to set his tight-end up with a touchdown. 
+
+Wentz is gambling way too much. Way too much. If the ball wasn't too wet, he likely would have been picked a couple more times.
