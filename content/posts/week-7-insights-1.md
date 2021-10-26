@@ -113,3 +113,7 @@ Wentz is gambling way too much. Way too much. If the ball wasn't too wet, he lik
 Jonathan Taylor has been sensational. Truly the bellcow in the Colts backfield.
 
 Garoppalo, meanwhile...it hasn't been a good night.
+
+***
+
+## Saints @ Seahawks
