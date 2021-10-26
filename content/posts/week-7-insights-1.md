@@ -140,4 +140,4 @@ Miami's defense leaves the middle open way too much, particularly on its blitzes
 
 Lovely gutsy move from the Lions, pooch kicking the ball on their first kick-off.
 
-First touchdown came courtesy of the Rams too eagerly blitzing Goff on a long third-down. It wasn't just a blitz, but a jailbreak one. Detroit, perhaps anticipating this, set up a halfback screen. A cover-zero blitz against a screen to a runner generally doesn't bode well for the defense.
+First touchdown came courtesy of the Rams too eagerly blitzing Goff on a long third-down. It wasn't just a blitz, but a jailbreak one. Detroit, perhaps anticipating this, set up a halfback screen. A cover-zero blitz against a screen to a runner didn't bode well for the defense in this particular instance.
