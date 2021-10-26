@@ -120,7 +120,7 @@ Garoppalo, meanwhile...it hasn't been a good night.
 
 Jameis Winston with the deep throw attempts.
 
-Jamal Adams is the Seattle defense's best player. And that's just sad.
+Jamal Adams is the Seattle defense's best player. And that's just sad. He's an outside linebacker masquerading as a safety.
 
 ***
 
