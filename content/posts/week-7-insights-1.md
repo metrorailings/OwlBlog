@@ -133,3 +133,11 @@ Kudos to Tua - after a nasty intersection that led to an Atlanta touchdown, Tua 
 That being said, Tua cost his team the game with two messy turnovers in opponent territory. That made all the difference in the world.
 
 Miami's defense leaves the middle open way too much, particularly on its blitzes. Matt Ryan has been money against Miami's pressure packages by targeting receivers running routes along the middle flat.
+
+***
+
+## Lions @ Rams
+
+Lovely gutsy move from the Lions, pooch kicking the ball on their first kick-off.
+
+First touchdown came courtesy of the Rams too eagerly blitzing Goff on a long third-down. It wasn't just a blitz, but a jailbreak one. Detroit, perhaps anticipating this, set up a halfback screen. A cover-zero blitz against a screen to a runner generally doesn't bode well for the defense.
