@@ -125,3 +125,5 @@ Jamal Adams is the Seattle defense's best player. And that's just sad. He's an o
 ***
 
 ## Falcons @ Dolphins
+
+Falcons pass defense is truly pathetic. Their coverage guys stand around waiting for the ball to be delivered before reacting.
