@@ -138,6 +138,8 @@ Miami's defense leaves the middle open way too much, particularly on its blitzes
 
 ## Lions @ Rams
 
-Lovely gutsy move from the Lions, pooch kicking the ball on their first kick-off.
+Lovely gutsy move from the Lions, pooch kicking the ball on their first kick-off and then following up with a fake punt on the next drive.
 
-First touchdown came courtesy of the Rams too eagerly blitzing Goff on a long third-down. It wasn't just a blitz, but a jailbreak one. Detroit, perhaps anticipating this, set up a halfback screen. A cover-zero blitz against a screen to a runner didn't bode well for the defense in this particular instance.
+First touchdown came courtesy of the Rams too eagerly blitzing Goff on a long third-down. It was an all-out blitz, a tactic meant to rattle Goff. Detroit probably anticipated this, as Anthony Lynn called a halfback screen, the best possible response to a defense gambling with a jailbreak blitz.
+
+Despite the chip on his shoulder, Jared Goff didn't break out of his shell at all in this game. According to Next-Gen Stats, Goff had the fewest intended air yards compared to all other quarterbacks last week. Pretty sad. But actually ideal against a defense that exclusively runs two-deep safety looks like the Eagles...
