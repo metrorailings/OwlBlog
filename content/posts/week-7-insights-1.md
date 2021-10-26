@@ -129,3 +129,5 @@ Jamal Adams is the Seattle defense's best player. And that's just sad. He's an o
 Falcons pass defense is truly pathetic. Their coverage guys stand around waiting for the ball to be delivered before reacting.
 
 Kudos to Tua - after a nasty intersection that led to an Atlanta touchdown, Tua took the offense down on his best drive yet, even absorbing a big hit as he ran for a first down.
+
+Miami's defense leaves the middle open way too much, particularly on its blitzes. Matt Ryan has been money against Miami's pressure packages by targeting receivers running routes along the middle flat.
