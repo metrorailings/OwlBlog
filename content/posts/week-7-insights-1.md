@@ -119,3 +119,9 @@ Garoppalo, meanwhile...it hasn't been a good night.
 ## Saints @ Seahawks
 
 Jameis Winston with the deep throw attempts.
+
+Jamal Adams is the Seattle defense's best player. And that's just sad.
+
+***
+
+## Falcons @ Dolphins
