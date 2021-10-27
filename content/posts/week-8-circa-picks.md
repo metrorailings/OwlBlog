@@ -47,4 +47,8 @@ Davis Mills the Houston offense sputters and crashes yet again in hilarious fash
 **Houston covers if**  
 the Texans sacrifice enough virgins to convince the gods to bless them with a couple touchdowns. Minutely possible should a bunch of Ram players be battling hangovers on game day  
 \- OR -  
-Tyrod Taylor returns in dramatic fashion and better than before, reinvigorating an offense currently choking on its spit. 
+Tyrod Taylor returns in dramatic fashion and better than before, reinvigorating an offense that's been doing nothing but choking on its own spit.
+
+***
+
+### Eagles @ Lions (+3.5)
