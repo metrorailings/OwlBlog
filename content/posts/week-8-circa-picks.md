@@ -62,6 +62,8 @@ Lions @ **Rams**
 
 #### _Key Injuries_
 
+The Eagles best offensive player in Miles Sanders is expected to miss a week, at least.
+
 #### _History_
 
 #### _Weather_
