@@ -18,13 +18,22 @@ So with that said, let's get to Week 8. This week, the focus will be on trying t
 
 #### _Latest Results_
 
+Lions @ **Rams**  
+Texans @ **Cardinals**
+
 #### _Key Injuries_
+
+Rams have been on a wicked healthy streak as of late. That streak will likely continue this week.
+
+Christian Kirksey has a fractured thumb, so that might sideline him for this game, unless the organization finds a way to have him play with some sort of splint.
 
 #### _History_
 
-Houston's offense, led by Davis Mills, has only mustered three drives into the red zone over the past three weeks. Only one of those drives ended in a touchdown. Mills actually has more drives that ended in failed fourth downs.
+Houston's offense, led by Davis Mills, has only mustered three drives into the red zone over the past three weeks. Only one of those drives ended in a touchdown. The Texans actually have more drives ending in failed fourth downs than red zone trips.
 
 #### _Weather_
+
+Dome game
 
 ***
 
@@ -33,6 +42,7 @@ Rams -14.5
 ***
 
 **Los Angeles covers if**  
-the Houston offense, led by 
+the Houston offense sputters and crashes yet again in hilarious fashion.
 
-**Houston covers if**
+**Houston covers if**  
+the Texans sacrifice enough virgins to convince the gods to bless them with a couple touchdowns. Minutely possible should a bunch of Ram players be battling hangovers on game day.
