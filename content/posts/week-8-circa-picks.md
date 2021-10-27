@@ -12,39 +12,27 @@ So with that said, let's get to Week 8. This week, the focus will be on trying t
 
 ***
 
-### Bears @ Buccaneers (-12.5)
+### Rams @ Texans (+14.5)
 
 ***
 
 #### _Latest Results_
 
-**Packers** @ Bears  
-**Buccaneers** @ Eagles (TNF)
-
 #### _Key Injuries_
-
-Robert Quinn is an important player to keep an eye on, given his role on Chicago's defense. He'll need to pass COVID protocol before he can travel with his brothers-in-arms over to Tampa. Without him, the Bears defense suffers a massive hit to its defense at the most inopportune time.
-
-Tampa Bay remains banged up. Rob Gronkowski, Jason Pierre-Paul, Antonio Brown, and Lavante David haven't been practicing, putting their chances of playing this weekend in jeopardy. A few of these players should be able to play, though it remains uncertain exactly who. Gronk and JPP would be the most impactful names coming off injury.
 
 #### _History_
 
-Tampa and Chicago met last year in a primetime moment on Soldier Field. The Bears eked out a win against a Buccaneer team still cutting its teeth in the Brady era. From what I remember, Brady's offensive linemen failed him on multiple occasions. On top of that, Tampa was missing so many of its weapons. The only reason the game remained competitive was because Nick Foles kept missing open throws to his receivers.
+Houston's offense, led by Davis Mills, has only mustered three drives into the red zone over the past three weeks. Only one of those drives ended in a touchdown. Mills actually has more drives that ended in failed fourth downs.
 
 #### _Weather_
 
-Seasonably hot and gently humid
+***
+
+Rams -14.5
 
 ***
 
-Buccaneers -12.5
+**Los Angeles covers if**  
+the Houston offense, led by 
 
-***
-
-**Tampa Bay covers if**  
-Brady and the offense aren't caught slacking against a clearly inferior team. Tampa will be given enough opportunities on offense to score points, it's just a matter of whether the will is there to run up the score  
-\- OR -  
-The Buccaneers enter the game with all their key injured players active.
-
-**Chicago covers if**  
-their offense can somehow score at least 17 points against Tampa's defense. Certainly possible if the Buccaneers end up stalling too much against Chicago's top-tier defense. Robert Quinn coming back would be an incredibly positive development for the Bears.
+**Houston covers if**
