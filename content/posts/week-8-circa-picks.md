@@ -33,7 +33,7 @@ Houston's offense, led by Davis Mills, has only mustered three drives into the r
 
 #### _Weather_
 
-Dome game
+Just smashing weather
 
 ***
 
@@ -52,3 +52,20 @@ Tyrod Taylor returns in dramatic fashion and better than before, reinvigorating 
 ***
 
 ### Eagles @ Lions (+3.5)
+
+***
+
+#### _Latest Results_
+
+Eagles @ **Raiders**  
+Lions @ **Rams**
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
+
+Dome game
+
+***
