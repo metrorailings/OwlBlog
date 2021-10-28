@@ -71,3 +71,24 @@ The Eagles best offensive player in Miles Sanders is expected to miss a week, at
 Dome game
 
 ***
+
+***
+
+### Cowboys @ Vikings (+2.5)
+
+***
+
+#### _Latest Results_
+
+Vikings - BYE  
+Cowboys - BYE
+
+#### _Key Injuries_
+
+Dak tweaked his ankle in the overtime win against the Patriots. Even though he's been reseting now for more than a week, the ankle remains an issue, signifying something concerning. Prescott may be limited come game time.
+
+#### _History_
+
+#### _Weather_
+
+Dome game
