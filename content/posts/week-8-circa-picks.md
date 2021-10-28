@@ -111,6 +111,8 @@ No major injuries to the Minnesota Vikings as of yet.
 
 Last year, the Vikings and the Cowboys faced off against one another in Texas, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator at the time. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott. 
 
+UPDATE: Watching the game now, I can clearly see Minnesota's offensive line getting housed by Dallas' front seven. Dallas is winning the trench battles on both sides of the ball, which is pretty impressive considering the Vikings offensive linemen were praised last year for their run blocking. 
+
 #### _Weather_
 
 Dome game
