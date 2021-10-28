@@ -127,4 +127,41 @@ Undecided
 their offense and defensive lines can win a clear majority of battles against their Viking counterparts. The offensive line especially needs to hold strong, as Dak is dealing with a lingering ankle issue.
 
 **Minnesota covers if**  
-the primetime spotlight and the roars of thousands of fans cheering in their support gives these Vikings the extra juice necessary to play in a manic state against an opponent that's objectively better than them.  
+the primetime spotlight and the roars of thousands of fans cheering in their support gives these Vikings the extra juice necessary to play in a manic state against an opponent that's objectively better than them.
+
+***
+
+### Panthers @ Falcons (-3)
+
+***
+
+#### _Latest Results_
+
+Panthers @ **Giants  
+Falcons** @ Dolphins
+
+#### _Key Injuries_
+
+Panthers lose another valuable piece in the secondary in safety Justin Burris, but more importantly, another starting guard was lost to injured reserve. Carolina's situation there was precarious enough as is, but things just look worse now that a tenuous point along that line has been weakened even further.  
+
+Atlanta should be reasonably healthy.
+
+#### _History_
+
+Recent games between these two won't matter much here given Atlanta overhauled its coaching regime this offseason. That being said, it's still worth mentioning that these two teams split games last year, with Atlanta winning the more recent contest. One can make the argument that the Falcons loss to Carolina carries no relevance here, as the team still had the noose of Dan Quinn wound tightly around its neck.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Falcons -3
+
+***
+
+**Atlanta covers if**  
+Matt Ryan can stitch together three scoring drives using Kyle Pitts, Hayden Hurst, Cordarrelle Patterson, and Calvin Ridley. It won't be easy matriculating the football against this beastly Panther defensive front, but Atlanta's defense will need to do whatever it can to snuff out Carolina's drives so as to maximize opportunities for their offense.
+
+**Carolina covers if**  
+their defense kills almost every single drive the Falcons begin on offense. Certainly possible given Atlanta's offensive line can barely hold up against mediocre competition as is. The Panthers need to prevent Matty Ice from developing any sort of rhythm here. Keeping Atlanta to the single digits here is probably the key to a Carolina victory here.
