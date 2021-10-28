@@ -165,3 +165,16 @@ Matt Ryan can stitch together three scoring drives using Kyle Pitts, Hayden Hurs
 
 **Carolina covers if**  
 their defense kills almost every single drive the Falcons begin on offense. Certainly possible given Atlanta's offensive line can barely hold up against mediocre competition as is. The Panthers need to prevent Matty Ice from developing any sort of rhythm here. Keeping Atlanta to the single digits here is probably the key to a Carolina victory here.
+
+***
+
+### Patriots @ Chargers (-6)
+
+***
+
+#### _Latest Results_
+
+Jets @ **Patriots**  
+Chargers - BYE
+
+#### _Key Injuries_
