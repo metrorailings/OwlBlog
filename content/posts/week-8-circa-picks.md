@@ -105,7 +105,11 @@ Cowboys - BYE
 
 Dak tweaked his ankle in the overtime win against the Patriots. Even though he's been reseting now for more than a week, the ankle remains an issue, signifying something concerning. Prescott may be limited come game time.
 
+No major injuries to the Minnesota Vikings as of yet.
+
 #### _History_
+
+Last year, the Vikings and the Cowboys faced off against one another in Texas, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator at the time. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott. 
 
 #### _Weather_
 
