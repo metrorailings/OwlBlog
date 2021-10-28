@@ -62,15 +62,23 @@ Lions @ **Rams**
 
 #### _Key Injuries_
 
-The Eagles best offensive player in Miles Sanders is expected to miss a week, at least. On top of that, a whole bunch of key starters on both sides of the ball are dealing with injuries, some more than others. If Javon Hargrave isn't fully, Philadelphia loses quite a bit of teeth along its defensive front.
+The Eagles best offensive player in Miles Sanders is expected to miss a week, at least. On top of that, a whole bunch of key starters on both sides of the ball are dealing with injuries, some more than others. If Javon Hargrave isn't fully healthy, Philadelphia loses quite a bit of teeth along that defensive front.
 
 Detroit's healthy, for the most part.
 
 #### _History_
 
+No recent history, not that it matters much. Both teams have inaugurated new coaches and quarterbacks this year anyway.
+
+One key piece of information worth noting here - the Eagles defense have been lovingly faithful to coverage schemes keeping two safeties deep. As a result, the defense has not only been predictable, but in theory, it should be susceptible to offenses predicated on scheduled production. So long as offenses can constantly matriculate the ball in dribs and drabs, points can be scored against this Philadelphia defense, especially if their pass rush struggles to find consistent success.
+
 #### _Weather_
 
 Dome game
+
+***
+
+Lions +3.5
 
 ***
 
