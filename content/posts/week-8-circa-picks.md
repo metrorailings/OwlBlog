@@ -109,10 +109,22 @@ No major injuries to the Minnesota Vikings as of yet.
 
 #### _History_
 
-Last year, the Vikings and the Cowboys faced off against one another in Texas, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator at the time. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott. 
+Last year, the Vikings and the Cowboys faced off against one another in Minnesota, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator at the time. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott.
 
-UPDATE: Watching the game now, I can clearly see Minnesota's offensive line getting housed by Dallas' front seven. Dallas is winning the trench battles on both sides of the ball, which is pretty impressive considering the Vikings offensive linemen were praised last year for their run blocking. 
+UPDATE: Watching the game now, I can clearly see Minnesota's offensive line getting housed by Dallas' front seven. In fact, Dallas is winning the trench battles on both sides of the ball, as evidenced by Ezekiel Elliott gaining more yards on his carries than Dalvin Cook. Then again, Minnesota is down their best pass rusher as well as a starting guard, so it's not a completely fair comparison.
 
 #### _Weather_
 
 Dome game
+
+***
+
+Undecided
+
+***
+
+**Dallas covers if**  
+their offense and defensive lines can win a clear majority of battles against their Viking counterparts. The offensive line especially needs to hold strong, as Dak is dealing with a lingering ankle issue.
+
+**Minnesota covers if**  
+the primetime spotlight and the roars of thousands of fans cheering for them gives them the requisite juice necessary to play in a manic state against an objectively better team in the Dallas Cowboys.  
