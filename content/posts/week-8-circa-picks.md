@@ -62,7 +62,9 @@ Lions @ **Rams**
 
 #### _Key Injuries_
 
-The Eagles best offensive player in Miles Sanders is expected to miss a week, at least.
+The Eagles best offensive player in Miles Sanders is expected to miss a week, at least. On top of that, a whole bunch of key starters on both sides of the ball are dealing with injuries, some more than others. If Javon Hargrave isn't fully, Philadelphia loses quite a bit of teeth along its defensive front.
+
+Detroit's healthy, for the most part.
 
 #### _History_
 
