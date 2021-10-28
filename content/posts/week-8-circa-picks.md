@@ -86,7 +86,9 @@ Lions +3.5
 their offense can generate positive value on the vast majority of its plays. Their offensive line needs to keep Goff protected on those plays that take time to develop.
 
 **Philadelphia covers if**  
-their defensive front can actually step up and harass Jared Goff into playing ugly. A few forced turnovers from Goff would go a long way for these Eagles.
+their defensive front can actually step up and harass Jared Goff into playing ugly. A few forced turnovers from Goff would go a long way for these Eagles  
+\- OR -  
+Detroit finds ways to embarrass itself once again in their accidental quest for a winless season.
 
 ***
 
