@@ -91,7 +91,7 @@ Detroit finds ways to embarrass itself once again in their accidental quest for 
 
 ***
 
-### Cowboys @ Vikings (-2.5)
+### Cowboys @ Vikings (+1.5)
 
 ***
 
@@ -118,7 +118,7 @@ Dome game
 
 ***
 
-Undecided
+Vikings +2.5
 
 ***
 
