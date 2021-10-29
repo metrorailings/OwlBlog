@@ -198,3 +198,11 @@ It's a dome affair.
 Patriots +6
 
 ***
+
+**New England covers if**  
+Damien Harris and the rest of the offense establish the ground game that's been rip-roaringly productive the past couple weeks  
+\- AND -  
+their defensive coaches continue to find ways to attack the loose threads in the Chargers' pass protection schemes.
+
+**Los Angeles covers if**  
+the new coaches in charge of the offense devise fresh new protection strategies to safeguard Justin Herbert from New England's pass rush.
