@@ -249,3 +249,22 @@ their ground game sustains drives on offense consistently against a Seattle defe
 their defense can actually record a few stops against a second-string quarterback.
 
 ***
+
+### Giants @ Chiefs (-10)
+
+***
+
+#### _Latest Results_
+
+Panthers @ **Giants**  
+Chiefs @ **Titans**
+
+#### _Key Injuries_
+
+Clyde Edwards-Helaire being on injured reserve as really hurt the Chiefs rushing attack. That being said, it's a reality they've been dealing with now for a couple weeks, so perhaps Reid will find ways to adjust. Aside from that, Kansas is healthy.
+
+I can't say the same about the Giants though. Kenny Golladay and Saquon Barkley are out. The good news is that Sterling Shepard and Kadarius Toney have a real chance to play. Having Toney back in tandem with Shepard can really open up a new dimension of this offense, so long as the Clapper puts them both to good use.
+
+#### _Weather_
+
+Cold with a chance of light rain
