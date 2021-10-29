@@ -21,3 +21,5 @@ Arizona's cornerbacks have been really aggressive. They're operating more off in
 Did the Packers defensive front just lose all its juice at the end of the fourth quarter? Kyler Murray is mounting a wicked comeback here.
 
 Chase Edmonds is a real gamer for this Cardinals offense.
+
+AJ Green, on the other hand....just awful ignorance on his part. He was blocking on a pass play. Did he think the ball was going to run?
