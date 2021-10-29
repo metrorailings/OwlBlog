@@ -278,7 +278,7 @@ Cold with a chance of light rain
 
 ***
 
-Giants +10
+Giants +9.5
 
 ***
 
