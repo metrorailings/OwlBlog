@@ -17,3 +17,5 @@ Jordan Hicks out here making plays for the Cards.
 Green Bay's use of rub/pick routes is damn near masterful.
 
 Arizona's cornerbacks have been really aggressive. They're operating more off instinct than cunning.
+
+Did the Packers defensive front just lose all its juice at the end of the fourth quarter? Kyler Murray is mounting a wicked comeback here.
