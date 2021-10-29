@@ -15,3 +15,5 @@ Aaron Rodgers having a hard time out there without his usual set of receivers. C
 Jordan Hicks out here making plays for the Cards.
 
 Green Bay's use of rub/pick routes is damn near masterful.
+
+Arizona's cornerbacks have been really aggressive. They're operating more off instinct than cunning.
