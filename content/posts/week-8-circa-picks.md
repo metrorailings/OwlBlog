@@ -127,7 +127,9 @@ Undecided
 their offense and defensive lines can win a clear majority of battles against their Viking counterparts. The offensive line especially needs to hold strong, as Dak is dealing with a lingering ankle issue.
 
 **Minnesota covers if**  
-the primetime spotlight and the roars of thousands of fans cheering in their support gives these Vikings the extra juice necessary to play in a manic state against an opponent that's objectively better than them.
+the primetime spotlight and the roars of thousands of fans cheering in their support gives these Vikings the extra juice necessary to play in a manic state against an opponent that's objectively better than them  
+\- OR -  
+Dak Prescott is unable to play, leaving Cooper Rush in charge of the offense.
 
 ***
 
@@ -187,7 +189,7 @@ The Patriots will be missing the presence of one of their star cornerbacks for t
 
 The Chargers were absolutely demolished by Bill Belichick's Patriots last year. It's not even funny - the Chargers were completely shut out from a New England team starting Cam Newton at quarterback.
 
-Watching the game right now.....I see Stephon Gilmore and Jonathan Jones making plays in the secondary, the Patriot defensive line having its way with the Chargers offensive line, Cam Newton and his tailbacks making some hay through misdirection, the Chargers committing multiple special teams miscues...so many things are going wrong for Los Angeles. New England can't count on all these things happening again, that's for sure - for one thing, the Patriots offense no longer revolves around an exotic rushing package leveraging the mobility of their starting quarterback.  
+Watching the game right now.....I see Stephon Gilmore and Jonathan Jones making plays in the secondary, the Patriot defensive line having its way with the Chargers offensive line, Cam Newton and his tailbacks making some hay through misdirection, the Chargers committing multiple special teams miscues...so many things are going wrong for Los Angeles. New England can't count on all these things happening again, that's for sure - for one thing, the Patriots offense no longer revolves around an exotic rushing package leveraging the mobility of their starting quarterback.
 
 #### _Weather_
 
@@ -287,4 +289,4 @@ Mahomes and the Chiefs offense continue struggling against coverage shells situa
 **Kansas covers if**  
 Mahomes finally adjusts his style of play and focuses more on short and intermediate. It's a strategy that should work wonders against a Giants defense known for leaving the middle of the field soft  
 \- AND -  
-their defense actually steps up for once and stall out the Giants offense on at least four drives. 
+their defense actually steps up for once and stall out the Giants offense on at least four drives.
