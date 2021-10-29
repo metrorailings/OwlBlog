@@ -251,7 +251,7 @@ their defense can actually record a few stops against a second-string quarterbac
 
 ***
 
-### Giants @ Chiefs (-10)
+### Giants @ Chiefs (-9.5)
 
 ***
 
@@ -262,9 +262,9 @@ Chiefs @ **Titans**
 
 #### _Key Injuries_
 
-Clyde Edwards-Helaire being on injured reserve as really hurt the Chiefs rushing attack. That being said, it's a reality they've been dealing with now for a couple weeks, so perhaps Reid will find ways to adjust. Aside from that, Kansas is healthy.
+Clyde Edwards-Helaire being on injured reserve as really hurt the Chiefs rushing attack. That being said, it's a reality they've been dealing with now for a couple weeks, so perhaps Reid will find ways to adjust. Aside from that, Kansas is healthy. Chris Jones is dealing with some issues, but his status hasn't really been called into question yet.
 
-I can't say the same about the Giants though. Kenny Golladay and Saquon Barkley are out. The good news is that Sterling Shepard and Kadarius Toney have a real chance to play. Having Toney back in tandem with Shepard can really open up a new dimension of this offense, so long as the Clapper puts them both to good use.
+I can't say the same about the Giants though. Kenny Golladay and Saquon Barkley are out. The good news is that Sterling Shepard and Kadarius Toney have a real chance to play. Having Toney back in tandem with Shepard can really open up a new dimension for this offense, so long as the Clapper puts both men to good use.
 
 #### _History_
 
