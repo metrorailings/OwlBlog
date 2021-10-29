@@ -214,3 +214,38 @@ Justin Herbert and the rest of the offense rack up the yards against a middling 
 ### Jaguars @ Seahawks (-3)
 
 ***
+
+#### _Latest Results_
+
+Jaguars - BYE  
+**Saints** @ Seahawks (MNF)
+
+#### _Key Injuries_
+
+Jaguars can no longer count on the services of DJ Chark for the rest of the season. Without Chark, Jacksonville is down a key deep threat.
+
+Seattle's more concerning though. DK Metcalf and Alex Collins have yet to practice this week, putting their status in doubt.
+
+#### _History_
+
+No recent history between these two given both belong to different conferences.
+
+#### _Weather_
+
+Moderately cool
+
+***
+
+Seahawks -3
+
+***
+
+**Seattle covers if**  
+Geno Smith plays respectably after spending the last two weeks facing off against two of the NFL's better defenses. Jacksonville's defense is the type of defense Smith should readily exploit.
+
+**Jacksonville covers if**  
+their ground game sustains drives on offense consistently against a Seattle defensive unit prone to performance lapses  
+\- AND -  
+their defense can actually record a few stops against a second-string quarterback.
+
+***
