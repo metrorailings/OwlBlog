@@ -265,6 +265,26 @@ Clyde Edwards-Helaire being on injured reserve as really hurt the Chiefs rushing
 
 I can't say the same about the Giants though. Kenny Golladay and Saquon Barkley are out. The good news is that Sterling Shepard and Kadarius Toney have a real chance to play. Having Toney back in tandem with Shepard can really open up a new dimension of this offense, so long as the Clapper puts them both to good use.
 
+#### _History_
+
+No history worth looking at between these two. The Giants defense has been a pointed area of concern this season, especially against opposing rushers. That being said, last week saw a dramatic improvement from that gang, though it remains to be seen whether the Giants can sustain that level of play against better competition.
+
+It's almost certain the Giants will be in two-deep safety looks for most of the game, as the Chiefs have had a notoriously difficult time handling those coverage shells. Unless Mahomes changes his style of play, I suspect the Chiefs will continue to struggle against those coverages.
+
 #### _Weather_
 
 Cold with a chance of light rain
+
+***
+
+Giants +10
+
+***
+
+**New York covers if**  
+Mahomes and the Chiefs offense continue struggling against coverage shells situating multiple safeties deep in the backfield. It's these types of coverages that mitigates Tyreek Hill's influence on the game. And without Hill and a fully healthy Kelce, Kansas is a paper tiger.
+
+**Kansas covers if**  
+Mahomes finally adjusts his style of play and focuses more on short and intermediate. It's a strategy that should work wonders against a Giants defense known for leaving the middle of the field soft  
+\- AND -  
+their defense actually steps up for once and stall out the Giants offense on at least four drives. 
