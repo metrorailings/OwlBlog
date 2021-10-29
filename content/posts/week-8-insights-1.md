@@ -13,3 +13,5 @@ Green Bay's defensive line is just wrecking Arizona's offensive line. Only when 
 Aaron Rodgers having a hard time out there without his usual set of receivers. Clearly frustrated. It took three whole quarters for the man to break 100 yards passing.
 
 Jordan Hicks out here making plays for the Cards.
+
+Green Bay's use of rub/pick routes is damn near masterful.
