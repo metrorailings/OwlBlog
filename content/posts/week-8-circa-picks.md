@@ -123,7 +123,7 @@ Vikings +2.5
 ***
 
 **Dallas covers if**  
-their offense and defensive lines can win a clear majority of battles against their Viking counterparts. The offensive line especially needs to hold strong, as Dak is dealing with a lingering ankle issue.
+their offense and defensive lines can win a clear majority of battles against their Viking counterparts. The offensive line especially needs to hold strong, as Dak is dealing with a lingering ankle issue if he is to play.
 
 **Minnesota covers if**  
 the primetime spotlight and the roars of thousands of fans cheering in their support gives these Vikings the extra juice necessary to play in a manic state against an opponent that's objectively better than them  
