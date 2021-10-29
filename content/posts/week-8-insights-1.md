@@ -10,6 +10,6 @@ Packers running the ball with some authority. Impressive. Cardinals have serious
 
 Green Bay's defensive line is just wrecking Arizona's offensive line. Only when Arizona started speeding up the tempo did the Packers end up surrendering serious yardage. 
 
-Aaron Rodgers having a hard time out there without his usual set of receivers. Clearly frustrated.
+Aaron Rodgers having a hard time out there without his usual set of receivers. Clearly frustrated. It took three quarters for the man to break 100 yards passing.
 
 Jordan Hicks out here making plays for the Cards.
