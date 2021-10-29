@@ -142,7 +142,7 @@ Falcons** @ Dolphins
 
 #### _Key Injuries_
 
-Panthers lose another valuable piece in the secondary in safety Justin Burris, but more importantly, another starting guard was lost to injured reserve. Carolina's situation there was precarious enough as is, but things just look worse now that a tenuous point along that line has been weakened even further.  
+Panthers lose another valuable piece in the secondary in safety Justin Burris, but more importantly, another starting guard was lost to injured reserve. Carolina's situation there was precarious enough as is, but things just look worse now that a tenuous point along that line has been weakened even further.
 
 Atlanta should be reasonably healthy.
 
@@ -178,3 +178,23 @@ Jets @ **Patriots**
 Chargers - BYE
 
 #### _Key Injuries_
+
+Austin Ekeler would be a major loss for the Chargers if his hip keeps him out of action this Sunday. The Patriot linebackers are so terribly mismatched against a shifty tailback of his caliber.
+
+The Patriots will be missing the presence of one of their star cornerbacks for the rest of this season. Jonathan Jones will be undergoing season-ending surgery. Other than him, New England seems mostly healthy, if a bit banged up.
+
+#### _History_
+
+The Chargers were absolutely demolished by Bill Belichick's Patriots last year. It's not even funny - the Chargers were completely shut out from a New England team starting Cam Newton at quarterback.
+
+Watching the game right now.....I see Stephon Gilmore and Jonathan Jones making plays in the secondary, the Patriot defensive line having its way with the Chargers offensive line, Cam Newton and his tailbacks making some hay through some exotic rushes, the Chargers committing multiple special teams miscues...so many things are going wrong for Los Angeles. New England can't count on all these things happening again, that's for sure. I mean...for one thing, Gilmore and Jones won't be playing this Sunday.  
+
+#### _Weather_
+
+It's a dome affair.
+
+***
+
+Patriots +6
+
+***
