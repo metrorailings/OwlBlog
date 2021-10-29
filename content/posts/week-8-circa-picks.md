@@ -187,7 +187,7 @@ The Patriots will be missing the presence of one of their star cornerbacks for t
 
 The Chargers were absolutely demolished by Bill Belichick's Patriots last year. It's not even funny - the Chargers were completely shut out from a New England team starting Cam Newton at quarterback.
 
-Watching the game right now.....I see Stephon Gilmore and Jonathan Jones making plays in the secondary, the Patriot defensive line having its way with the Chargers offensive line, Cam Newton and his tailbacks making some hay through some exotic rushes, the Chargers committing multiple special teams miscues...so many things are going wrong for Los Angeles. New England can't count on all these things happening again, that's for sure. I mean...for one thing, Gilmore and Jones won't be playing this Sunday.  
+Watching the game right now.....I see Stephon Gilmore and Jonathan Jones making plays in the secondary, the Patriot defensive line having its way with the Chargers offensive line, Cam Newton and his tailbacks making some hay through misdirection, the Chargers committing multiple special teams miscues...so many things are going wrong for Los Angeles. New England can't count on all these things happening again, that's for sure - for one thing, the Patriots offense no longer revolves around an exotic rushing package leveraging the mobility of their starting quarterback.  
 
 #### _Weather_
 
@@ -205,4 +205,12 @@ Damien Harris and the rest of the offense establish the ground game that's been 
 their defensive coaches continue to find ways to attack the loose threads in the Chargers' pass protection schemes.
 
 **Los Angeles covers if**  
-the new coaches in charge of the offense devise fresh new protection strategies to safeguard Justin Herbert from New England's pass rush.
+the new coaches in charge of the offense devise fresh new protection strategies to safeguard their quarterback from New England's pass rush  
+\- OR -  
+Justin Herbert and the rest of the offense rack up the yards against a middling New England defense.
+
+***
+
+### Jaguars @ Seahawks (-3)
+
+***
