@@ -31,3 +31,11 @@ AJ Green, on the other hand....just awful ignorance on his part. He was blocking
 Patriots can run the ball fairly effective, but it seems Josh McDaniels is intentionally dialing back the ground game in favor of passing with Mac Jones. It makes sense, as the Chargers are really plumbing the depths of their roster to fill out the secondary. But Mac Jones isn't playing well at all.
 
 What's helping the Patriots out though is that the Chargers offense is playing just as sloppy. Herbert's inaccurate, some of his receivers aren't making plays...I wonder if this is simply hangover from the bye week. I'd hope so, because if not, the implication then is that this Charger passing offense melts into shit once you take Mike Williams out of the picture.
+
+***
+
+## Buccaneers @ Saints
+
+I need to watch this game, but I think New Orleans understands Brady and the Bucs better than any other team in the league. Tampa Bay is losing against a New Orleans team without either of its two starting quarterbacks and without any real weapons on offense.
+
+I wonder if New Orleans is so successful against Tampa because they understand the way Brady sets his protections.
