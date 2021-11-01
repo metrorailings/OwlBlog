@@ -69,3 +69,5 @@ Do the Vikings not have a dropback passing game or a hurry-up package here? If n
 ## Steelers @ Browns
 
 As sort of expected, this is a defensive line battle. Whichever defensive line can assert their will more is going to win.
+
+Najee Harris has been decently productive against this Cleveland defense.
