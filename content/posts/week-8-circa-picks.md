@@ -108,7 +108,7 @@ No major injuries to the Minnesota Vikings as of yet.
 
 #### _History_
 
-Last year, the Vikings and the Cowboys faced off against one another in Minnesota, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator at the time. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott.
+Last year, the Vikings and the Cowboys faced off against one another in Minnesota, though Dak Prescott wasn't the starting quarterback for the time. Also, the defense wasn't as well-coached at the time, what with Mike Nolan being the coordinator. Dallas pulled out the win despite Kirk Cousins having a damn good game. I need to assess why, but I suspect Dallas found offensive success primarily by running the ball through Ezekiel Elliott.
 
 UPDATE: Watching the game now, I can clearly see Minnesota's offensive line getting housed by Dallas' front seven. In fact, Dallas is winning the trench battles on both sides of the ball, as evidenced by Ezekiel Elliott gaining more yards on his carries than Dalvin Cook. Then again, Minnesota is down their best pass rusher as well as a starting guard, so it's not a completely fair comparison.
 
