@@ -70,4 +70,8 @@ Do the Vikings not have a dropback passing game or a hurry-up package here? If n
 
 As sort of expected, this is a defensive line battle. Whichever defensive line can assert their will more is going to win.
 
-Najee Harris has been decently productive against this Cleveland defense.
+Najee Harris has been decently productive against this Cleveland defense. The man has some fire in him.
+
+Interesting to see the Steelers incorporate read-option plays into their offensive identity.
+
+Cleveland's pass coverage just isn't fully developed yet. Coverage lapses are common. Not to mention the cornerbacks playing soft don't help against people like Diontae Johnson.
