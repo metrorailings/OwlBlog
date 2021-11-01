@@ -39,3 +39,9 @@ What's helping the Patriots out though is that the Chargers offense is playing j
 I need to watch this game, but I think New Orleans understands Brady and the Bucs better than any other team in the league. Tampa Bay is losing against a New Orleans team without either of its two starting quarterbacks and without any real weapons on offense.
 
 I wonder if New Orleans is so successful against Tampa because they understand the way Brady sets his protections.
+
+***
+
+## Cowboys @ Vikings
+
+Trayvon Diggs may be a liability in coverage. His nose for the ball is amazing, but his overall performance as a cornerback may be lacking.
