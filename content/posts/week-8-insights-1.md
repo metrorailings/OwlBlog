@@ -55,3 +55,5 @@ This Cowboys offensive line is fantastic at run-blocking. It's really a sight to
 Vikings cannot run the ball well at all. I'm not sure if the Cowboys are just so good against the run or if Dalvin Cook is hurt. It looks like he doesn't have the same pop as somebody of his caliber should have.
 
 Cousins is disappointing me with his lack of touch and his willingness to throw the ball short of the sticks on third down. Although perhaps that's an indictment on Klint Kubiak not calling screen passes against a defense intentionally leaving the flat exposed on third downs.
+
+Micah Parsons is a tour-de-force. And kudos to Dan Quinn for opting to play more man coverage defense given his personnel. A cover-three system doesn't really work in today's NFL without sufficient talent.
