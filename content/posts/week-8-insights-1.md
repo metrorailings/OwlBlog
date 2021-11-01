@@ -63,3 +63,9 @@ My watching tape was on point here. I took the Vikings here as I'd figure Cooper
 The Vikings interior offensive line is just so pathetic on pass protection. Dallas (or more specifically Dan Quinn) smartly shifted to a five-man defensive front, isolating each of the offensive linemen. The guards and center have been letting up serious pressure and holding disgustingly just to avoid getting their quarterback killed.
 
 Do the Vikings not have a dropback passing game or a hurry-up package here? If not, it highlights a major deficiency on this offense - it's an offense living and dying by the efficacy of the bootleg.
+
+***
+
+## Steelers @ Browns
+
+As sort of expected, this is a defensive line battle. Whichever defensive line can assert their will more is going to win.
