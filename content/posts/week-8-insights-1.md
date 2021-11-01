@@ -57,3 +57,9 @@ Vikings cannot run the ball well at all. I'm not sure if the Cowboys are just so
 Cousins is disappointing me with his lack of touch and his willingness to throw the ball short of the sticks on third down. Although perhaps that's an indictment on Klint Kubiak not calling screen passes against a defense intentionally leaving the flat exposed on third downs.
 
 Micah Parsons is a tour-de-force. And kudos to Dan Quinn for opting to play more man coverage defense given his personnel. A cover-three system doesn't really work in today's NFL without sufficient talent.
+
+My watching tape was on point here. I took the Vikings here as I'd figure Cooper Rush is good for one or two critical mistakes (especially on enemy territory). If Minnesota does win this, that'll be the reason they win. But otherwise, the Cowboys have thoroughly dominated Minnesota in literally every aspect. My tape analysis of their match last year affirmed this too - Dallas held wrist control the entire match, especially in the trenches.
+
+The Vikings interior offensive line is just so pathetic on pass protection. Dallas (or more specifically Dan Quinn) smartly shifted to a five-man defensive front, isolating each of the offensive linemen. The guards and center have been letting up serious pressure and holding disgustingly just to avoid getting their quarterback killed.
+
+Do the Vikings not have a dropback passing game or a hurry-up package here? If not, it highlights a major deficiency on this offense - it's an offense living and dying by the efficacy of the bootleg.
