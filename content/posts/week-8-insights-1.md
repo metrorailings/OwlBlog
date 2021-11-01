@@ -77,3 +77,9 @@ Interesting to see the Steelers incorporate read-option plays into their offensi
 Cleveland's pass coverage just isn't fully developed yet. Coverage lapses are common. Not to mention the cornerbacks playing soft don't help against people like Diontae Johnson.
 
 The Browns and Steelers are far more evenly matched than one would think. Baker is about as hopeless as Ben Roethlisberger, though the former still has some power in his throws.
+
+***
+
+## 49ers @ Bears
+
+The 49ers defensive front is doing a good job rushing the passer, but Justin Fields is finding quick outlets all too easily in receivers settling in the middle flat.
