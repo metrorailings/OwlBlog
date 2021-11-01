@@ -86,4 +86,4 @@ The 49ers defensive front is doing a good job rushing the passer, but Justin Fie
 
 Observing Chicago incorporate more max protect concepts in their offensive playbook is good to see. Justin Fields needs some help if he is to grow.
 
-Khalil Herbert is such a beast. It's entertaining watching the man shift left and right as he runs past defenders.
+Khalil Herbert is such a beast. It's entertaining watching the man shift left and right as he runs past defenders. You know, if Nagy can bring over the Greg Roman style of offense and pair Herbert with Fields mobility, you'd have something special there.
