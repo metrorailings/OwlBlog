@@ -51,3 +51,5 @@ Creative offensive plays coming from the Cowboys here. Kellen Moore is doing a g
 It baffles me that more people are not double-covering CeeDee Lamb. Easily the most explosive weapon for the Cowboys.
 
 This Cowboys offensive line is fantastic at run-blocking. It's really a sight to behold. Minnesota is starting to key in on the ground game more, though.
+
+Vikings cannot run the ball well at all. I'm not sure if the Cowboys are just so good against the run or if Dalvin Cook is hurt. It looks like he doesn't have the same pop as somebody of his caliber should have.
