@@ -41,7 +41,7 @@ Rams -14.5
 ***
 
 **Los Angeles covers if**  
-Davis Mills the Houston offense sputters and crashes yet again in hilarious fashion.
+Davis Mills and the Houston offense sputters and crashes yet again in hilarious fashion.
 
 **Houston covers if**  
 the Texans sacrifice enough virgins to convince the gods to bless them with a couple touchdowns. Minutely possible should a bunch of Ram players be battling hangovers on game day  
