@@ -45,3 +45,9 @@ I wonder if New Orleans is so successful against Tampa because they understand t
 ## Cowboys @ Vikings
 
 Trayvon Diggs may be a liability in coverage. His nose for the ball is amazing, but his overall performance as a cornerback may be lacking.
+
+Creative offensive plays coming from the Cowboys here. Kellen Moore is doing a great job incorporating concepts like the wishbone to keep the ground game churning and to set up easier passes for Cooper Rush.
+
+It baffles me that more people are not double-covering CeeDee Lamb. Easily the most explosive weapon for the Cowboys.
+
+This Cowboys offensive line is fantastic at run-blocking. It's really a sight to behold. Minnesota is starting to key in on the ground game more, though.
