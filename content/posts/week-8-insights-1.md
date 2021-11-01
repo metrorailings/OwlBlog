@@ -83,3 +83,5 @@ The Browns and Steelers are far more evenly matched than one would think. Baker 
 ## 49ers @ Bears
 
 The 49ers defensive front is doing a good job rushing the passer, but Justin Fields is finding quick outlets all too easily in receivers settling in the middle flat.
+
+Observing Chicago incorporate more max protect concepts in their offensive playbook is good to see. Justin Fields needs some help if he is to grow.
