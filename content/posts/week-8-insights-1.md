@@ -94,4 +94,6 @@ Chicago's defense is playing very well. Just sound technique and game-planning. 
 
 ## Giants @ Chiefs
 
-Daniel Jones staring at his receiver leads to an interception. Football 101, but Jones is still there making silly mistakes.
+Daniel Jones staring at his receiver leads to an interception. Football 101, Danny....don't be staring at receivers.
+
+Finally a deep bomb to John Ross seems to have opened this offense up. Good to see Jones throw it against tight coverage. Chiefs failed to defend the pass as expected.
