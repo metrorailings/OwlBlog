@@ -89,6 +89,8 @@ Khalil Herbert is such a beast. It's entertaining watching the man shift left an
 
 Chicago's defense is playing very well. Just sound technique and game-planning. Sean Desai has a well-trained unit here. Still....the 49ers nailing a huge play on a 3rd and 20 jump-started that offense. It's an explosive play that sometimes can't be helped. Kudos to the 49ers and their speedy receivers for sparking life back into the offense.
 
+49ers running with some passion.
+
 ***
 
 ## Giants @ Chiefs
