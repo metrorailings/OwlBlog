@@ -125,4 +125,10 @@ the Giants defense can force Derek Carr into some ugly throws. Their pass rush w
 
 ***
 
-  
+### Cardinals @ 49ers
+
+***
+
+#### _Weather_
+
+Beautiful California weather
