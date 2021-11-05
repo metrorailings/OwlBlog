@@ -51,4 +51,35 @@ the offense finally kicks its addiction to big plays. Kansas can so easily move 
 
 ***
 
-### 
+### Browns @ Bengals (-2.5)
+
+***
+
+#### _Latest Results_
+
+**Steelers** @ Browns  
+Bengals @ **Jets**
+
+#### _Key Injuries_
+
+Browns and Bengals seem decent, from a health perspective. Cleveland will be missing the services of Jack Conklin for several weeks, at least.
+
+#### _History_
+
+These two face each other twice annually. Last year, the Browns swept Cincinnati in high-scoring affairs. This year, the Bengals have recruited Ja'Marr Chase to give Joe Burrow a signature weapon in the passing game. Meanwhile, the Browns sharpened their pass rush this year by renovating their defensive front - Myles Garrett is now joined by Jadaveon Clowney, Malik Jackson, and Tak McKinley as the new faces defining Cleveland's pass rush. Will these changes matter ultimately? Not too sure.
+
+#### _Weather_
+
+Autumn weather
+
+***
+
+Undetermined
+
+***
+
+**Cleveland covers if**  
+their defensive front completely overwhelms Cincinatti's offensive line for the majority of the game.
+
+**Cincinnati covers if**  
+Joe Mixon and Samaje Perine can chew off more than 4.5 yards per carry on average. Establishing the ground game takes the burden off an offensive line incapable of protecting Joe Burrow. 
