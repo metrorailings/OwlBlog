@@ -74,7 +74,7 @@ Autumn weather
 
 ***
 
-Undetermined
+Undecided
 
 ***
 
@@ -82,6 +82,43 @@ Undetermined
 their defensive front completely overwhelms Cincinatti's offensive line for the majority of the game.
 
 **Cincinnati covers if**  
-Joe Mixon and Samaje Perine can chew off more than 4.5 yards per carry on average. Establishing the ground game takes the burden off an offensive line incapable of protecting Joe Burrow. 
+Joe Mixon and Samaje Perine can chew off more than 4.5 yards per carry on average. Establishing the ground game takes the burden off an offensive line incapable of protecting Joe Burrow.
 
 ***
+
+### Raiders @ Giants (+3)
+
+***
+
+#### _Latest Results_
+
+Raiders - BYE  
+Giants @ **Chiefs** (MNF)
+
+#### _Key Injuries_
+
+New York has been chronically wounded this season. Saquon Barkley and Sterling Shepard are unlikely to play. Kadarius Toney and Kenny Golladay may possibly be fit enough to play, though the picture will become clearer about their eligibility come Friday. Also worth noting - starting safety Xavier McKinney is currently in COVID protocol. Losing him would be a significant blow to a secondary running complex concepts in coverage.
+
+The Raiders secondary will always be a point of concern going forward now that their starters have been placed on injured reserve. More importantly, Henry Ruggs will no longer be playing football again. In fact, he may not even be a free man for much longer after killing somebody a couple days ago while driving drunk.
+
+#### _History_
+
+No real history worth exploring between these two teams. But it's worth noting that last week, injuries stripped New York of its intermediate and long passing game. I suspect that Jason Garrett doesn't trust Daniel Jones so long as his key receivers aren't fully healthy. So instead of letting Jones drop back and survey the field, Garrett opts to call short yardage plays and hard runs up the middle of the field.. 
+
+#### _Weather_
+
+Cool fall weather
+
+***
+
+Undecided
+
+***
+
+**Las Vegas covers if**  
+New York's injuries on offense once again cripples their passing game yet again.
+
+**New York covers if**  
+Daniel Jones is actually given enough leash to throw the ball all over the field  
+\- AND -  
+the Giants defense can force some ugly plays from Derek Carr. Their pass rush will actually need to step up here.  
