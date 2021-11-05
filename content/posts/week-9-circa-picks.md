@@ -103,7 +103,7 @@ The Raiders secondary will always be a point of concern going forward now that t
 
 #### _History_
 
-No real history worth exploring between these two teams. But it's worth noting that last week, injuries stripped New York of its intermediate and long passing game. I suspect that Jason Garrett doesn't trust Daniel Jones so long as his key receivers aren't fully healthy. So instead of letting Jones drop back and survey the field, Garrett opts to call short yardage plays and hard runs up the middle of the field.. 
+No real history worth exploring between these two teams. But it's worth noting that last week, injuries stripped New York of its intermediate and long passing game. I suspect that Jason Garrett doesn't trust Daniel Jones so long as his key receivers aren't fully healthy. So instead of letting Jones drop back and survey the field, Garrett opts to call short yardage plays and hard runs up the middle of the field.
 
 #### _Weather_
 
