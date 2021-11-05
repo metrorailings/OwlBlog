@@ -202,3 +202,20 @@ their defensive front schools Atlanta's overmatched offensive line.
 
 **Atlanta covers if**  
 the Falcons catch New Orleans sleeping this week coming off a big win against a bitter rival.
+
+***
+
+### Bears @ Steelers (-6.5)
+
+***
+
+#### _Latest Results_
+
+**49ers** @ Bears  
+**Steelers** @ Browns
+
+#### _Key Injuries_
+
+Khalil Mack's availability this Sunday is in danger so long as he cannot practice at all this week.
+
+Ben Roethlisberger is dealing with some hip issues of his own, but he should be able to play. Chris Boswell is a possibility too, though the concussion he suffered last week was nasty enough to keep him out for the whole game. If Boswell can't go, the Steelers will have a hard time nailing field goals.
