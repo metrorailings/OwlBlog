@@ -83,3 +83,5 @@ their defensive front completely overwhelms Cincinatti's offensive line for the 
 
 **Cincinnati covers if**  
 Joe Mixon and Samaje Perine can chew off more than 4.5 yards per carry on average. Establishing the ground game takes the burden off an offensive line incapable of protecting Joe Burrow. 
+
+***
