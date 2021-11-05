@@ -47,7 +47,7 @@ Green Bay loses most of its mojo on offense without its primary signal caller on
 \- OR -  
 Joe Burry fails to adequately devote enough resources in coverage to Tyreek Hill  
 \- OR -  
-the offense finally kicks its addiction to big plays. Kansas could so easily move the ball by running more plays designed to net small yardage, but the Chiefs need to admit they have an addiction first before committing to an offense predicated on steady production.
+the offense finally kicks its addiction to big plays. Kansas can so easily move the ball by running more plays designed to net small yardage, but the Chiefs need to admit they have an addiction first before committing to an offense predicated to a more boring form of production.
 
 ***
 
