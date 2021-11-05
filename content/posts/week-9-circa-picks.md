@@ -157,7 +157,7 @@ Beautiful California weather
 ***
 
 **San Francisco covers if**  
-Jimmy Garoppalo starting instead of Justin Fields makes all the difference here  
+Jimmy Garoppalo starting instead of Justin Fields makes all the difference here in this rematch  
 \- OR -  
 the 49ers defense shuts down an Arizona offense dealing with major injuries to its most dynamic players.
 
