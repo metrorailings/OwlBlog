@@ -27,11 +27,11 @@ Chiefs are fairly healthy.
 
 #### _History_
 
-Patrick Mahomes is not playing well. For whatever reason, the boy isn't in the right frame of mind for whatever reason. The Green Bay Packers aren't exactly a shabby defense known for surrendering easy yards either - it's very likely that 
-
-#### _History_
+Patrick Mahomes is not playing well. For whatever reason, the boy isn't in the right frame of mind for whatever reason. The Green Bay Packers aren't exactly a shabby defense known for surrendering easy yards either in the pass game - if Mahomes is to ever right the ship this season, it likely won't come against this Packer defense.
 
 #### _Weather_
+
+Cool windy day with clear skies
 
 ***
 
@@ -40,12 +40,14 @@ Packers +7.5
 ***
 
 **Green Bay covers if**  
-Davis Mills and the Houston offense sputters and crashes yet again in hilarious fashion.
+the offense doesn't lose much of its potency despite Jordan Love starting at quarterback. Certainly possible if Green Bay uses their smashing ground game to stay productive on offense while Love settles into the flow of things.
 
 **Kansas City covers if**  
-the Texans sacrifice enough virgins to convince the gods to bless them with a couple touchdowns. Minutely possible should a bunch of Ram players be battling hangovers on game day  
+Green Bay loses most of its mojo on offense without its primary signal caller on the field  
 \- OR -  
-Tyrod Taylor returns in dramatic fashion and better than before, reinvigorating an offense that's been doing nothing but choking on its own spit.
+Joe Burry fails to adequately devote enough resources in coverage to Tyreek Hill  
+\- OR -  
+the offense finally kicks its addiction to big plays. Kansas could so easily move the ball by running more plays designed to net small yardage, but the Chiefs need to admit they have an addiction first before committing to an offense predicated on steady production.
 
 ***
 
