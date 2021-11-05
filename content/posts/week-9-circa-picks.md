@@ -280,3 +280,16 @@ Ryan Tannehill and Adrian Peterson can inject some life back into this offense a
 the Titans come into this game with wounds impacting most levels of their team  
 \- OR -  
 they murder Ryan Tannehill after shutting down Tennessee's ground game.
+
+***
+
+### Chargers @ Eagles (+1.5)
+
+***
+
+#### _Latest Results_
+
+**Patriots** @ Chargers  
+**Eagles** @ Lions
+
+#### _Key Injuries_
