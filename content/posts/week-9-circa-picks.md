@@ -179,7 +179,7 @@ Buccaneers @ **Saints**
 
 Now that Jameis Winston is out for the season, Trevor Siemian is expected to start in relief duty for the foreseeable future. Taysom Hill may play as well in his typical gadget roles.
 
-Atlanta is healthy though.
+Atlanta is healthy, though losing Calvin Ridley for the time being will hurt. Without Ridley, teams are free to double cover Kyle Pitts and dare Matt Ryan to throw the ball anywhere else. 
 
 #### _History_
 
@@ -188,3 +188,17 @@ History isn't really relevant here, given the Saints are starting a different qu
 #### _Weather_
 
 Dome game
+
+***
+
+Saints -6.5
+
+***
+
+**New Orleans covers if**  
+Trevor Siemien can establish a consistent rhythm against one of the softest pass coverages in the league  
+\- OR -  
+their defensive front schools Atlanta's overmatched offensive line.
+
+**Atlanta covers if**  
+the Falcons catch New Orleans sleeping this week coming off a big win against a bitter rival.
