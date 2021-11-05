@@ -219,3 +219,23 @@ the Falcons catch New Orleans sleeping this week coming off a big win against a 
 Khalil Mack's availability this Sunday is in danger so long as he cannot practice at all this week.
 
 Ben Roethlisberger is dealing with some hip issues of his own, but he should be able to play. Chris Boswell is a possibility too, though the concussion he suffered last week was nasty enough to keep him out for the whole game. If Boswell can't go, the Steelers will have a hard time nailing field goals.
+
+#### _History_
+
+Not much relevant history given these teams only face each other once every four years.
+
+#### _Weather_
+
+Roughly 50-degree weather
+
+***
+
+Bears +6.5
+
+***
+
+**Chicago covers if**  
+their defensive line can stonewall Najee Harris and mount steady pressure on Ben Roethlisberger. Their running defense has been called into question ever since that poor showing against the Packers.
+
+**Pittsburgh covers if**  
+they can force Justin Fields to play as ugly as he did against the Buccaneers.
