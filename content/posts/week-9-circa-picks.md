@@ -125,10 +125,41 @@ the Giants defense can force Derek Carr into some ugly throws. Their pass rush w
 
 ***
 
-### Cardinals @ 49ers
+### Cardinals @ 49ers (+1)
 
 ***
+
+#### _Latest Results_
+
+**Packers** @ Cardinals (TNF)  
+**49ers** @ Bears
+
+#### _Key Injuries_
+
+Kyler Murray's ankle remains a significant concern here - his status will be determined come game day. If he doesn't play, Colt McCoy will be called to helm the offense. But if Kyler is active...one wonders about his mobility. A good part of his game is built on his quickness. If San Francisco's defense doesn't have to worry about Kyler running wild, rest assured that it'll be that much easier for them to stall Arizona's offense.
+
+On top of Murray's injury, AJ Green has already been ruled out with COVID and DeAndre Hopkins hasn't been practicing as of yet, putting his game time status into question. But in positive news, the Cardinals have their whole starting offensive line back. So things aren't _completely_ bleak for this Arizona franchise.
+
+The 49ers are in better shape, especially if George Kittle returns from injured reserve. Jimmie Ward will probably be out though, further stressing a secondary missing quite a few key starters. 
+
+#### _History_
+
+The two teams met earlier in the year in Arizona. The 49ers played well beyond my experience despite starting that bum Justin Fields at quarterback. San Francisco kept Arizona's offense lidded for the better part of their game, thanks to their defensive line constantly harassing Murray. In fact, that was the first game this season Kyler was caught visibly grimacing in pain on the sidelines. San Francisco definitely has a beat on this Cardinal offense.
 
 #### _Weather_
 
 Beautiful California weather
+
+***
+
+49ers +1
+
+***
+
+**San Francisco covers if**  
+Jimmy Garoppalo starting instead of Justin Fields makes all the difference here  
+\- OR -  
+the 49ers defense shuts down an Arizona offense dealing with major injuries to its most dynamic players.
+
+**Arizona covers if**  
+Kyler Murray can sustain a passing game from the pocket. Certainly possible if San Francisco's secondary starts falling apart at the seams after having to start players that were on the practice squad just a few weeks ago.
