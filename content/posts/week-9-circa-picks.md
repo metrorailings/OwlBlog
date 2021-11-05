@@ -140,7 +140,7 @@ Kyler Murray's ankle remains a significant concern here - his status will be det
 
 On top of Murray's injury, AJ Green has already been ruled out with COVID and DeAndre Hopkins hasn't been practicing as of yet, putting his game time status into question. But in positive news, the Cardinals have their whole starting offensive line back. So things aren't _completely_ bleak for this Arizona franchise.
 
-The 49ers are in better shape, especially if George Kittle returns from injured reserve. Jimmie Ward will probably be out though, further stressing a secondary missing quite a few key starters. 
+The 49ers are in better shape, especially if George Kittle returns from injured reserve. Jimmie Ward will probably be out though, further stressing a secondary missing quite a few key starters.
 
 #### _History_
 
@@ -163,3 +163,28 @@ the 49ers defense shuts down an Arizona offense dealing with major injuries to i
 
 **Arizona covers if**  
 Kyler Murray can sustain a passing game from the pocket. Certainly possible if San Francisco's secondary starts falling apart at the seams after having to start players that were on the practice squad just a few weeks ago.
+
+***
+
+### Falcons @ Saints (-6.5)
+
+***
+
+#### _Latest Results_
+
+**Panthers** @ Falcons  
+Buccaneers @ **Saints**
+
+#### _Key Injuries_
+
+Now that Jameis Winston is out for the season, Trevor Siemian is expected to start in relief duty for the foreseeable future. Taysom Hill may play as well in his typical gadget roles.
+
+Atlanta is healthy though.
+
+#### _History_
+
+History isn't really relevant here, given the Saints are starting a different quarterback next week and Atlanta's coaching staff has never faced off against Sean Payton and his crew in their current capacity.
+
+#### _Weather_
+
+Dome game
