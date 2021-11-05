@@ -239,3 +239,46 @@ their defensive line can stonewall Najee Harris and mount steady pressure on Ben
 
 **Pittsburgh covers if**  
 they can force Justin Fields to play as ugly as he did against the Buccaneers.
+
+***
+
+### Titans @ Rams (-7.5)
+
+***
+
+#### _Latest Results_
+
+**Titans** @ Colts  
+**Rams** @ Texans
+
+#### _Key Injuries_
+
+Titans took a massive hit last week, losing Derrick Henry for the regular season. With that loss, the entire tenor of their offense changes. On top of that, Tennessee is dealing with a whole litany of injuries across their team, from cornerback to wide receiver. The one with the most damning impact is AJ Brown, as he's been declared questionable after not practicing at all this week.
+
+For the Rams, Sebastian Joseph-Day will be out with a torn pectoral muscle, which is sure to impact their rushing defense. But on the flip side, Von Miller's presence as an edge rusher **_may_** lift this pass rush to new heights.
+
+#### _History_
+
+It's hard drawing comparables between these two teams, but it's worth nothing that Tennessee has built its offensive identity around a ground game powered by Derrick Henry. Without him in the backfield, opposing defenses are now free to move resources away from the box. It's doubtful Adrian Peterson can make up for the type of production the Titans saw with Henry, but if Peterson can still play at a halfway competent level and injuries don't rob Tennessee of any more of their key playmakers, it's possible the offense can still make do.
+
+#### _Weather_
+
+Irrelevant, as it's a dome game
+
+***
+
+Undecided
+
+***
+
+**Tennessee covers if**  
+injuries don't prevent key players on defense and offense from playing in this game  
+\- AND -  
+Ryan Tannehill and Adrian Peterson can inject some life back into this offense after losing their biggest playmaker.
+
+**Los Angeles covers if**  
+the Titans come into this game with wounds impacting most levels of their team  
+\- OR -  
+they murder Ryan Tannehill after shutting down Tennessee's ground game.
+
+***
