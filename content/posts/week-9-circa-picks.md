@@ -121,4 +121,8 @@ New York's injuries on offense once again cripples their passing game yet again.
 **New York covers if**  
 Daniel Jones is actually given enough leash to throw the ball all over the field  
 \- AND -  
-the Giants defense can force some ugly plays from Derek Carr. Their pass rush will actually need to step up here.  
+the Giants defense can force Derek Carr into some ugly throws. Their pass rush will actually need to step up here, something that hasn't happened all too often this season.
+
+***
+
+  
