@@ -293,3 +293,25 @@ they murder Ryan Tannehill after shutting down Tennessee's ground game.
 **Eagles** @ Lions
 
 #### _Key Injuries_
+
+Eagles are mostly healthy. Chargers are worryingly thin in the secondary, with both of their starting cornerbacks out with injuries.
+
+#### _History_
+
+Just as with most other games this week, this is an inter-conference match, so no direct comparisons can be drawn between these two teams using recent matches. Interestingly enough, I think this is the only match this week to feature two rookie head coaches competing against one another.
+
+#### _Weather_
+
+Late fall weather
+
+***
+
+Chargers -1.5
+
+***
+
+**Los Angeles covers if**  
+Brandon Staley and Joe Lombardi outwit their counterparts on the Eagles. Honestly, given the way these two teams have performed through the season, odds favor Staley and his crew. One thing that'll be important is that Philadelphia cannot be given any consistent rhythm rushing the ball.
+
+**Philadelphia covers if**  
+they easily dominate time of possession through an elaborate rushing game headlined by Jalen Hurts.
