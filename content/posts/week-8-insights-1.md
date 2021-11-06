@@ -114,3 +114,5 @@ How is it that the Jaguars are getting gashed on the ground despite having seven
 Panthers air game seems to consist of nothing more but screens and deliberate short passes.
 
 Kudos to the Carolina defense for double-covering Kyle Pitts.
+
+Atlanta's offense has more spunk than I originally thought. Cordarrelle Patterson (and Mike Davis, to some extent) is injecting some passion back into this unit.
