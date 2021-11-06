@@ -115,4 +115,6 @@ Panthers air game seems to consist of nothing more but screens and deliberate sh
 
 Kudos to the Carolina defense for double-covering Kyle Pitts.
 
-Atlanta's offense has more spunk than I originally thought. Cordarrelle Patterson (and Mike Davis, to some extent) is injecting some passion back into this unit.
+Atlanta's offense has more spunk than I originally thought. Cordarrelle Patterson is reinvigorating this unit with his passion.
+
+Carolina made some hay in the second half by committing wholeheartedly to the ground game, invoking all sorts of rushing and pseudo-rushing concepts to throw off the Atlanta defense. Inside zone rushes, C-gap rushes, quarterback keepers, bootlegs, fullback power runs, etc.
