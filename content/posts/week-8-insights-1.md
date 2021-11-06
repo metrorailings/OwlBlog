@@ -117,4 +117,4 @@ Kudos to the Carolina defense for double-covering Kyle Pitts.
 
 Atlanta's offense has more spunk than I originally thought. Cordarrelle Patterson is reinvigorating this unit with his passion.
 
-Carolina made some hay in the second half by committing wholeheartedly to the ground game, invoking all sorts of rushing and pseudo-rushing concepts to throw off the Atlanta defense. Inside zone rushes, C-gap rushes, quarterback keepers, bootlegs, fullback power runs, etc.
+Carolina made some hay in the second half by committing wholeheartedly to the ground game, invoking all sorts of rushing and pseudo-rushing concepts to throw off the Atlanta defense. Inside zone rushes, C-gap rushes, quarterback keepers, bootlegs, fullback power runs, etc. Atlanta was almost helpless. The few passes they actually called were successful, in part due to the Falcons playing so soft in coverage.
