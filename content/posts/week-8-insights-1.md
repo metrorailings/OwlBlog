@@ -106,3 +106,11 @@ Just sloppy execution and lack of organization by the Giants offense killing a p
 ## Jaguars @ Seahawks
 
 How is it that the Jaguars are getting gashed on the ground despite having seven men in the box?
+
+***
+
+## Panthers @ Falcons
+
+Panthers air game seems to consist of nothing more but screens and deliberate short passes.
+
+Kudos to the Carolina defense for double-covering Kyle Pitts.
