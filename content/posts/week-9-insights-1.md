@@ -13,3 +13,7 @@ On a clear running situation, the Colts were able to hammer Taylor right up the 
 ***
 
 ## Raiders @ Giants
+
+Derek Carr once again throwing the ball well under pressure and with anticipation. His evolution this year has never been more clear.
+
+Hunter Renfrow is a critical player for this Raider offense.
