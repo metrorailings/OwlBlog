@@ -21,3 +21,5 @@ Hunter Renfrow is a critical player for this Raider offense. As soon as he leave
 Yannick Ngakoue with a big sack fumble changing the tenor of the game.
 
 Devontae Booker making some real hay on the ground, thanks to some solid blocking from the offensive line. It also helps that the Raiders are playing a bit soft in their pass coverage.
+
+Good study from the Raiders defense, not biting on the fake receiver screen knowing that Kadarius Toney can also throw the ball.
