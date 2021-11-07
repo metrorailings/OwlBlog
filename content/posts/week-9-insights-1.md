@@ -25,3 +25,15 @@ Devontae Booker making some real hay on the ground, thanks to some solid blockin
 Good study from the Raiders defense, not biting on the fake receiver screen knowing that Kadarius Toney can also throw the ball.
 
 Without Henry Ruggs and Hunter Renfrow, the Raiders offense seems to have died. I need to see what the Giants are doing exactly to take Darren Waller out of this game. My hunch is they're bracketing him in coverage, forcing Carr to look elsewhere for a more open window.
+
+***
+
+## Vikings @ Ravens
+
+Cousins has regressed as a pocket passer. It just isn't there. Or perhaps this offense isn't giving him any sort of hot reads or audibles.
+
+***
+
+## Chargers @ Eagles
+
+Odds. Eagles come out of this game emphasizing the passing game. Why? Nick Sirianni, you can't be this inept. Either that or the Eagles analytical department is absolutely hellbent on passing the ball.
