@@ -23,3 +23,5 @@ Yannick Ngakoue with a big sack fumble changing the tenor of the game.
 Devontae Booker making some real hay on the ground, thanks to some solid blocking from the offensive line. It also helps that the Raiders are playing a bit soft in their pass coverage.
 
 Good study from the Raiders defense, not biting on the fake receiver screen knowing that Kadarius Toney can also throw the ball.
+
+Without Henry Ruggs and Hunter Renfrow, the Raiders offense seems to have died. I need to see what the Giants are doing exactly to take Darren Waller out of this game. My hunch is they're bracketing him in coverage, forcing Carr to look elsewhere for a more open window.
