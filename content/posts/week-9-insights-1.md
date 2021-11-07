@@ -19,3 +19,5 @@ Derek Carr once again throwing the ball well under pressure and with anticipatio
 Hunter Renfrow is a critical player for this Raider offense. As soon as he leaves, this offense stalls.
 
 Yannick Ngakoue with a big sack fumble changing the tenor of the game.
+
+Devontae Booker making some real hay on the ground, thanks to some solid blocking from the offensive line.
