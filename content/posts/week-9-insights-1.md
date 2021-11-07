@@ -37,3 +37,9 @@ Cousins has regressed as a pocket passer. It just isn't there. Or perhaps this o
 ## Chargers @ Eagles
 
 Odds. Eagles come out of this game emphasizing the passing game. Why? Nick Sirianni, you can't be this inept. Either that or the Eagles analytical department is absolutely hellbent on passing the ball.
+
+***
+
+## Cardinals @ 49ers
+
+Negative game script killed a drive early for the 49ers.
