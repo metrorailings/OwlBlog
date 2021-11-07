@@ -16,4 +16,6 @@ On a clear running situation, the Colts were able to hammer Taylor right up the 
 
 Derek Carr once again throwing the ball well under pressure and with anticipation. His evolution this year has never been more clear.
 
-Hunter Renfrow is a critical player for this Raider offense.
+Hunter Renfrow is a critical player for this Raider offense. As soon as he leaves, this offense stalls.
+
+Yannick Ngakoue with a big sack fumble changing the tenor of the game.
