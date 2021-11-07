@@ -1,6 +1,5 @@
 +++
 date = 2021-11-05T12:00:00Z
-draft = true
 headline = "Week 9 Circa Picks"
 
 +++
@@ -201,7 +200,7 @@ Trevor Siemien can establish a consistent rhythm against one of the softest pass
 their defensive front schools Atlanta's overmatched offensive line.
 
 **Atlanta covers if**  
-the Falcons catch New Orleans sleeping this week coming off a big win against a bitter rival.
+the Falcons catch New Orleans sleeping this week coming off a big win against a bitter rival. For whatever reason, the Saints are known to let easy games like this slip out of their hands, especially after momentous wins.
 
 ***
 
