@@ -81,3 +81,5 @@ No up-tempo, no leaning on the ground game, no easy short passes cooked up for h
 Titans defensive line is completely owning the Rams offensive line as they try to play traditional drop back football.
 
 In the second half, Los Angeles was finally able to produce some yards on offense by moving the offensive line laterally, regardless of whether they're running the ball or passing the ball.
+
+Demico Autry and Jeffery Simmons may be the real deal. Pair them with Harold Landry and Bud Dupree and the Titans could have the best defensive line in the game, bar none.
