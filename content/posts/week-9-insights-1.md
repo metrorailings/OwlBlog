@@ -68,4 +68,4 @@ Trusting Mason Crosby may have been risky enough as is, but trusting him in the 
 
 The Chiefs are still making mistakes. Mahomes throwing deep into nonexistent windows, Kelce dropping passes....
 
-A very promising fourth quarter Packers drive killed because LaFleur opts to have Love pass three straight times. Love has trouble reading blitzes, let alone throwing accurate passes. It's clear that for all the advantages the Shanahan system is supposed to bestow upon this offense,  Aaron Rodgers is the heart and soul. Without him, the offense fails.
+A very promising fourth quarter Packers drive killed because LaFleur opts to have Love pass three straight times. Love has trouble reading blitzes, let alone throwing accurate passes. It's clear that for all the advantages the Shanahan system is supposed to bestow upon this offense,  Aaron Rodgers is the heart and soul of Green Bay's offensive unit. Without him, the offense fails.
