@@ -107,3 +107,11 @@ Trevor Siemian not playing bad at all. Some of his balls can be better placed, b
 ## Broncos @ Cowboys
 
 Dallas had two fourth downs they just couldn't convert kill their first two drives. Both drives were promising.
+
+Randy Gregory is so damn aggressive with his pass rush that it compromises the run defense sometimes. In fact, Dallas defensive front in general can be really aggressive at times. Their urge to shoot through gaps can really be a liability against solid rushing teams. Though they managed to handle the Vikings well last week.
+
+Trayvon Diggs is just horrible in coverage. Fantastic at generating turnovers, but horrible in coverage duty otherwise.
+
+It's clear Dallas offense isn't firing on all cylinders. Probably of combination of lingering injuries and the hangover that comes from an emotional win last week.
+
+Micah Parsons clearly the Cowboys best pass rusher.
