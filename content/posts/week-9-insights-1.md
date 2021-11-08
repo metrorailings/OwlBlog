@@ -69,3 +69,7 @@ Trusting Mason Crosby may have been risky enough as is, but trusting him in the 
 The Chiefs are still making mistakes. Mahomes throwing deep into nonexistent windows, Kelce dropping passes....
 
 A very promising fourth quarter Packers drive killed because LaFleur opts to have Love pass three straight times. Love has trouble reading blitzes, let alone throwing accurate passes. It's clear that for all the advantages the Shanahan system is supposed to bestow upon this offense,  Aaron Rodgers is the heart and soul of Green Bay's offensive unit. Without him, the offense fails.
+
+The mark of a good coach is to win even when dealt a horrible set of cards. I thought LaFleur may have turned a corner last week when Green Bay won against undefeated Arizona despite not having any of their primary receivers suit up. I'm starting to realize the Packers owe that win almost entirely to Rodgers brilliance than anything else. His ability to read defenses, organize confused receivers, and direct the ground game was the difference maker. Matt LaFleur didn't actually end up doing much.
+
+No up-tempo, no leaning on the ground game, no easy short passes cooked up for his young quarterback, no options .... 
