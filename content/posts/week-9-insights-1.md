@@ -93,3 +93,5 @@ Cordarelle and Kyle Pitts are definitely the primary weapons of the offense.
 Matt Ryan negotiating pressure well. That being said, he threw a near-pick to a Saints cornerback.
 
 Saints are gashing the Falcons for chunks of yardage on the ground. Atlanta's run defense starting to worry me. Carolina pulled off similar tricks on them last week.
+
+Two delay of game penalties on the same drive for the Saints, right after a holding penalty too. Their mental state coming into this game is pretty obvious at this point.
