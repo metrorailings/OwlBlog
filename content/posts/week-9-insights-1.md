@@ -72,4 +72,12 @@ A very promising fourth quarter Packers drive killed because LaFleur opts to hav
 
 The mark of a good coach is to win even when dealt a horrible set of cards. I thought LaFleur may have turned a corner last week when Green Bay won against undefeated Arizona despite not having any of their primary receivers suit up. I'm starting to realize the Packers owe that win almost entirely to Rodgers brilliance than anything else. His ability to read defenses, organize confused receivers, and direct the ground game was the difference maker. Matt LaFleur didn't actually end up doing much.
 
-No up-tempo, no leaning on the ground game, no easy short passes cooked up for his young quarterback, no options .... 
+No up-tempo, no leaning on the ground game, no easy short passes cooked up for his young quarterback, no options....
+
+***
+
+## Titans @ Rams
+
+Titans defensive line is completely owning the Rams offensive line as they try to play traditional drop back football.
+
+In the second half, Los Angeles was finally able to produce some yards on offense by moving the offensive line laterally, regardless of whether they're running the ball or passing the ball.
