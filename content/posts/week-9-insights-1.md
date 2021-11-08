@@ -95,3 +95,9 @@ Matt Ryan negotiating pressure well. That being said, he threw a near-pick to a 
 Saints are gashing the Falcons for chunks of yardage on the ground. Atlanta's run defense starting to worry me. Carolina pulled off similar tricks on them last week.
 
 Two delay of game penalties on the same drive for the Saints, right after a holding penalty too. Their mental state coming into this game is pretty obvious at this point.
+
+Once again, Matt Ryan's pocket movement cannot be praised enough. I have nothing but respect seeing him dance and juke out defenders.
+
+Russell Gage becoming a significant contributor on this Atlanta offense. Somebody needed to fill Calvin Ridley's shoes, I suppose...
+
+Trevor Siemian not playing bad at all. Some of his balls can be better placed, but his decisions have been above par.
