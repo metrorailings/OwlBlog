@@ -38,8 +38,34 @@ Cousins has regressed as a pocket passer. It just isn't there. Or perhaps this o
 
 Odds. Eagles come out of this game emphasizing the passing game. Why? Nick Sirianni, you can't be this inept. Either that or the Eagles analytical department is absolutely hellbent on passing the ball.
 
+This Chargers defense is not good. It struggles way too much to defend the ground game. And the defense is all too willing to take gambles against a quarterback willing to make a living with his legs.
+
+DaVonte Smith is a truly awesome player here. Chargers have him adequately covered and Jalen Hurts is still finding him in critical moments.
+
+Kudos to the Eagles offense for incorporating an increased tempo to keep the Chargers defense gassed.
+
+The Chargers insistance on running the ball has been damn near self-destructive. Los Angeles is not acting in its best interest. I know you're trying to set a tone, Brandon Staley, but winning the game is a bit more important at the end of the 4th quarter. It's disappointing to see the Chargers sticking so hopelessly to a failed vector of attack.
+
 ***
 
 ## Cardinals @ 49ers
 
 Negative game script killed a drive early for the 49ers.
+
+Another promising drive killed by a fumble. These 49ers are playing so sloppy.
+
+Pass protection has been fantastic for Arizona. It's clear the line learned from their bad play last time they played the 49ers.
+
+Colt McCoy has been fantastic. It's clear he was amped for this game.
+
+***
+
+## Packers @ Chiefs
+
+Jordan Love is still nervous. Arrowhead is not an easy place to play football. He needs a good half under him.
+
+Trusting Mason Crosby may have been risky enough as is, but trusting him in the face of wind was foolish on my part. Two missed field goals in the first three drives. 
+
+The Chiefs are still making mistakes. Mahomes throwing deep into nonexistent windows, Kelce dropping passes....
+
+A very promising fourth quarter Packers drive killed because LaFleur opts to have Love pass three straight times. Love has trouble reading blitzes, let alone throwing accurate passes. It's clear that for all the advantages the Shanahan system is supposed to bestow upon this offense,  Aaron Rodgers is the heart and soul. Without him, the offense fails.
