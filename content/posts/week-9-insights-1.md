@@ -83,3 +83,13 @@ Titans defensive line is completely owning the Rams offensive line as they try t
 In the second half, Los Angeles was finally able to produce some yards on offense by moving the offensive line laterally, regardless of whether they're running the ball or passing the ball.
 
 Demico Autry and Jeffery Simmons may be the real deal. Pair them with Harold Landry and Bud Dupree and the Titans could have the best defensive line in the game, bar none.
+
+***
+
+## Falcons @ Saints
+
+Cordarelle and Kyle Pitts are definitely the primary weapons of the offense.
+
+Matt Ryan negotiating pressure well. That being said, he threw a near-pick to a Saints cornerback.
+
+Saints are gashing the Falcons for chunks of yardage on the ground. Atlanta's run defense starting to worry me. Carolina pulled off similar tricks on them last week.
