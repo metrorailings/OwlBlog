@@ -101,3 +101,9 @@ Once again, Matt Ryan's pocket movement cannot be praised enough. I have nothing
 Russell Gage becoming a significant contributor on this Atlanta offense. Somebody needed to fill Calvin Ridley's shoes, I suppose...
 
 Trevor Siemian not playing bad at all. Some of his balls can be better placed, but his decisions have been above par.
+
+***
+
+## Broncos @ Cowboys
+
+Dallas had two fourth downs they just couldn't convert kill their first two drives. Both drives were promising.
