@@ -23,6 +23,10 @@ If there's a lesson from last week, it's that the season has reached a point whe
 
 #### _History_
 
+Before going into any actual competitive history, it is worth noting Dan Quinn will be going up against the team that unceremoniously fired him last season. Any lingering ill will is only going to fuel Dallas here.
+
+These two teams did face off against one another last year though in an early season game. Atlanta lit out early, running up a three score lead by halftime. The Falcons were so close to sewing up the game halfway through the fourth quarter, but had to settle for a chip-shot field goal. With the help of a successful onside kick, Dak Prescott and company were able to do just enough to win the game for Dallas.
+
 #### _Weather_
 
 ***
@@ -31,7 +35,12 @@ Cowboys -9
 
 ***
 
-**Dallas covers if**
-
+**Dallas covers if  
+**Dan Quinn and his defense are wholeheartedly motivated to dominate this game, given the recent history between Quinn and the Atlanta organization as well as the embarrassing loss last week to a Denver squad billed as double-digit underdogs  
+\- OR -  
+Dak Prescott and his receivers rediscover their groove on offense. In pursuit of this aim, Prescott and his receivers need to heal up some more over the week.  
   
-**Atalnta covers if**
+**Atlanta covers if**  
+they dominate time of possession through Cordarelle Patterson and the ground game. This Falcon offensive line simply won't hold up in pass protection if the burden of production falls on Matt Ryan's shoulders, not against a Dallas defensive front that sells out hard to rush the passer. 
+
+***
