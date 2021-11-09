@@ -48,3 +48,7 @@ Dak Prescott and his receivers rediscover their groove on offense. In pursuit of
 they dominate time of possession through Cordarelle Patterson and the ground game. This Falcon offensive line simply won't hold up in pass protection if the burden of production falls on Matt Ryan's shoulders, not against a Dallas defensive front that sells out hard to rush the passer. 
 
 ***
+
+### Browns @ Patriots (-1)
+
+***
