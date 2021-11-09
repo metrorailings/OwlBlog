@@ -6,7 +6,7 @@ headline = "Week 10 Circa Picks"
 +++
 What a great week, though things were tense in the late afternoon games. The Packers were almost blanked out, but the defense kept forcing punts out of Kansas City, so it was only a matter of time before Jordan Love would string together just enough plays to score a touchdown. Thankfully, that touchdown netted them the cover.
 
-If there's a lesson from last week, let's be fully aware teams have reached the point where effort levels dip. Buffalo, Dallas, New Orleans, and San Francisco losing last week stand as proof of this notion of midseason fatigue. Whenever teams perceive their next opponent as a pushover, consider that to be a potentially prime betting opportunity against that team.
+If there's a lesson from last week, it's that the season has reached a point where certain teams experience dips in effort levels. It's a phenomenon that we observe year in, year out. Buffalo, Dallas, New Orleans, and San Francisco losing in the manner they lost is proof that midseason fatigue has reared its ugly head. Whenever a team perceives its next opponent to be a pushover, consider that to be a potentially prime betting opportunity against that team.
 
 ***
 
