@@ -118,3 +118,7 @@ Micah Parsons clearly the Cowboys best pass rusher.
 ***
 
 ## Patriots @ Panthers
+
+What's up with Sam Darnold and his low passes? Two of them have been batted, one resulting in an interception.
+
+It's clear the Panthers aren't trusting Darnold with the keys to this offense. Their commitment to the ground game is obvious from the get-go.
