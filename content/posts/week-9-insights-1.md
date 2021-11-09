@@ -126,3 +126,5 @@ It's clear the Panthers aren't trusting Darnold with the keys to this offense. T
 Carolina's offensive line is in shambles. Worrisome.
 
 Patriots have multiple men that can rush the ball. This Stevenson guy has some fire in him.
+
+New England is absolutely blowing up all the bootlegs Carolina's trying to run.
