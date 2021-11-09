@@ -52,3 +52,30 @@ they dominate time of possession through Cordarelle Patterson and the ground gam
 ### Browns @ Patriots (-1)
 
 ***
+
+#### _Latest Results_
+
+**Browns** @ Bengals  
+**Patriots** @ Panthers
+
+#### _Key Injuries_
+
+Patriots are dealing with a number of concussions, two of which are particularly concerning - one to Damien Harris and another to their hotshot kick returner Gunner Olsnewski.
+
+Cleveland's cornerback situation is a point of caution now that Greedy Williams is dealing with some aggravated injuries of his own. It doesn't seem like those injuries should keep him out of this road trip to New England. 
+
+#### _History_
+
+No recent history between Kevin Stefansky and Bill Belichick, but these two teams were adversaries two seasons ago. That game can only give us so much insight given that more than a year has passed and both teams have undergone serious changes since then. Cleveland now has a different coaching regime and the Patriots offense is no longer led by Tom Brady.
+
+That being said, the Browns were able to push the ball against the Patriots, but early turnovers torpedoed any hopes of a Cleveland upset.
+
+#### _Weather_
+
+Starting to get cold. Weather is expected to be in the 40s.
+
+***
+
+Browns +1
+
+***
