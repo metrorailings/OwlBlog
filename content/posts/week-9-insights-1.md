@@ -122,3 +122,5 @@ Micah Parsons clearly the Cowboys best pass rusher.
 What's up with Sam Darnold and his low passes? Two of them have been batted, one nearly resulting in an interception. And we're barely out of the first quarter.
 
 It's clear the Panthers aren't trusting Darnold with the keys to this offense. Their commitment to the ground game is obvious from the get-go.
+
+Carolina's offensive line is in shambles. Worrisome.
