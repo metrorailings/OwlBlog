@@ -63,7 +63,7 @@ Colt McCoy has been fantastic. It's clear he was amped for this game.
 
 Jordan Love is still nervous. Arrowhead is not an easy place to play football. He needs a good half under him.
 
-Trusting Mason Crosby may have been risky enough as is, but trusting him in the face of wind was foolish on my part. Two missed field goals in the first three drives. 
+Trusting Mason Crosby may have been risky enough as is, but trusting him in the face of wind was foolish on my part. Two missed field goals in the first three drives.
 
 The Chiefs are still making mistakes. Mahomes throwing deep into nonexistent windows, Kelce dropping passes....
 
@@ -114,3 +114,7 @@ Trayvon Diggs is just horrible in coverage. Fantastic at generating turnovers, b
 It's clear Dallas offense isn't firing on all cylinders. Probably of combination of lingering injuries and the hangover that comes from an emotional win last week.
 
 Micah Parsons clearly the Cowboys best pass rusher.
+
+***
+
+## Patriots @ Panthers
