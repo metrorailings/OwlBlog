@@ -21,6 +21,8 @@ If there's a lesson from last week, it's that the season has reached a point whe
 
 #### _Key Injuries_
 
+No major injury worth noting, though it'll be useful to keep an eye on Dallas this week given they've been dealing with a number of nagging injuries on offense lately.  
+
 #### _History_
 
 Before going into any actual competitive history, it is worth noting Dan Quinn will be going up against the team that unceremoniously fired him last season. Any lingering ill will is only going to fuel Dallas here.
@@ -28,6 +30,8 @@ Before going into any actual competitive history, it is worth noting Dan Quinn w
 These two teams did face off against one another last year though in an early season game. Atlanta lit out early, running up a three score lead by halftime. The Falcons were so close to sewing up the game halfway through the fourth quarter, but had to settle for a chip-shot field goal. With the help of a successful onside kick, Dak Prescott and company were able to do just enough to win the game for Dallas.
 
 #### _Weather_
+
+Clear and lovely
 
 ***
 
