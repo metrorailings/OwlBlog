@@ -91,3 +91,22 @@ they can summon the same emotional high that carried them last week in a dominat
 their roster advantage combined with a little bit of luck gives them the boost necessary to steal one from the Patriots.
 
 ***
+
+### Buccaneers @ Washington (+9.5)
+
+***
+
+#### _Latest Results_
+
+Buccaneers - BYE  
+Washington - BYE
+
+#### _Key Injuries_
+
+Buccaneers are still likely to miss the services of Rob Gronkowski and Antonio Brown coming back from their bye week. Neither have started practicing as of Tuesday. On a positive note, starting corner Sean Murphy-Bunting and wide receiver Scotty Miller have decent chances at returning this Sunday after spending the past few weeks on injured reserve.
+
+Washington seems to be in slightly better shape. Logan Thomas could potentially mark his grand return from injury this week.
+
+#### _History_
+
+Both of these teams met last year in the wild card round of the postseason in what ultimately ended up being a rout in favor of Tampa Bay. Even though Washington boasted one of the most feared defensive lines in the league, the defense was virtually helpless against the richness of the Buccaneers offense.
