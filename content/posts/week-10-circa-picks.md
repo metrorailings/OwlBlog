@@ -70,7 +70,7 @@ No recent history between Kevin Stefansky and Bill Belichick, but these two team
 
 That being said, the Browns were able to push the ball against the Patriots, but early turnovers torpedoed any hopes of a Cleveland upset.
 
-Both teams have simply been sensational running the ball. It's quite possible Cleveland and New England are the two best teams at rushing the ball. It works very nicely for both teams considering neither team has quarterbacks capable of carrying the offense.
+Both teams have simply been sensational running the ball. It's quite possible Cleveland and New England are the two best teams at rushing the ball. It works out very nicely for both teams considering neither organization has a quarterback capable of carrying an offense. Oddly enough, neither team has much of a rushing defense either, though both teams have been slowly improving in recent weeks. It remains to be seen whether this trend persists for either franchise going into this contest.
 
 #### _Weather_
 
@@ -79,5 +79,15 @@ Starting to get cold. Weather is expected to be in the 40s.
 ***
 
 Patriots +1
+
+***
+
+**New England covers if**  
+their coaches outwit Cleveland's coaches. One could make a fair argument that Cleveland edges out New England in terms of roster talent, but their defensive coaching leaves so much to be desired. I simply don't see Joe Woods getting the better of Josh McDaniels, especially in Foxborough.
+
+**Cleveland covers if**  
+they can summon the same emotional high that carried them last week in a dominating win against Cincinnati. That high was partly fueled by the resentment following the ousting of Odell Beckham. I'm not sure if Cleveland can play at the same frenetic level after proving to the world that his presence on the team wasn't necessary  
+\- OR -  
+their roster advantage combined with a little bit of luck gives them the boost necessary to steal one from the Patriots.
 
 ***
