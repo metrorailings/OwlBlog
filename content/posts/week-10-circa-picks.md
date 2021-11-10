@@ -110,3 +110,23 @@ Washington seems to be in slightly better shape. Logan Thomas could potentially 
 #### _History_
 
 Both of these teams met last year in the wild card round of the postseason in what ultimately ended up being a rout in favor of Tampa Bay. Even though Washington boasted one of the most feared defensive lines in the league, the defense was virtually helpless against the richness of the Buccaneers offense.
+
+This year, Washington's taken a major step back as it tries to indoctrinate a set of new defensive backs to man the backfield in pass coverage. The problem is that the personnel don't seem to fit the scheme. On top of that, Washington built its reputation last year facing off against a spate of weak opponents. It's a luxury that's not there this season given their schedule.
+
+#### _Weather_
+
+Pretty chilly. Mid 40s.
+
+***
+
+Buccaneers -9.5
+
+***
+
+**Tampa Bay covers if**  
+Brady and company once again stack up yardage against a Washington defense that hasn't really proven itself in pass coverage  
+\- AND -  
+their defense stalls Washington's offense on two-thirds of their drives.
+
+**Washington covers if**  
+the team comes out of the bye with a great game plan against the Buccaneers. Ideally, the plan should involve mixed looks in pass coverage as well as increased tempo on offense. But I'll need to see Washington's coaches actually come to a game with a plan before I believe they're capable of clever schemes in the first place.
