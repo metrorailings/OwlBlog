@@ -21,7 +21,7 @@ If there's a lesson from last week, it's that the season has reached a point whe
 
 #### _Key Injuries_
 
-No major injury worth noting, though it'll be useful to keep an eye on Dallas this week given they've been dealing with a number of nagging injuries on offense lately.  
+No major injury worth noting, though it'll be useful to keep an eye on Dallas this week given they've been dealing with a number of nagging injuries on offense lately.
 
 #### _History_
 
@@ -39,13 +39,13 @@ Cowboys -9
 
 ***
 
-**Dallas covers if  
-**Dan Quinn and his defense are wholeheartedly motivated to dominate this game, given the recent history between Quinn and the Atlanta organization as well as the embarrassing loss last week to a Denver squad billed as double-digit underdogs  
+**Dallas covers if**  
+Dan Quinn and his defense are wholeheartedly motivated to dominate this game, given the recent history between Quinn and the Atlanta organization as well as the embarrassing loss last week to a Denver squad billed as double-digit underdogs  
 \- OR -  
-Dak Prescott and his receivers rediscover their groove on offense. In pursuit of this aim, Prescott and his receivers need to heal up some more over the week.  
-  
+Dak Prescott and his receivers rediscover their groove on offense. In pursuit of this aim, Prescott and his receivers need to heal up some more over the week.
+
 **Atlanta covers if**  
-they dominate time of possession through Cordarelle Patterson and the ground game. This Falcon offensive line simply won't hold up in pass protection if the burden of production falls on Matt Ryan's shoulders, not against a Dallas defensive front that sells out hard to rush the passer. 
+they dominate time of possession through Cordarelle Patterson and the ground game. This Falcon offensive line simply won't hold up in pass protection if the burden of production falls on Matt Ryan's shoulders, not against a Dallas defensive front that sells out hard to rush the passer.
 
 ***
 
@@ -62,7 +62,7 @@ they dominate time of possession through Cordarelle Patterson and the ground gam
 
 Patriots are dealing with a number of concussions, two of which are particularly concerning - one to Damien Harris and another to their hotshot kick returner Gunner Olsnewski.
 
-Cleveland's cornerback situation is a point of caution now that Greedy Williams is dealing with some aggravated injuries of his own. It doesn't seem like those injuries should keep him out of this road trip to New England. 
+Cleveland's cornerback situation is a point of caution now that Greedy Williams is dealing with some aggravated injuries of his own. It doesn't seem like those injuries should keep him out of this road trip to New England.
 
 #### _History_
 
@@ -70,12 +70,14 @@ No recent history between Kevin Stefansky and Bill Belichick, but these two team
 
 That being said, the Browns were able to push the ball against the Patriots, but early turnovers torpedoed any hopes of a Cleveland upset.
 
+Both teams have simply been sensational running the ball. It's quite possible Cleveland and New England are the two best teams at rushing the ball. It works very nicely for both teams considering neither team has quarterbacks capable of carrying the offense.
+
 #### _Weather_
 
 Starting to get cold. Weather is expected to be in the 40s.
 
 ***
 
-Browns +1
+Patriots +1
 
 ***
