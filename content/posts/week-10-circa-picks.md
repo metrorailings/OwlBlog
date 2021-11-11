@@ -134,3 +134,20 @@ the sudden shift in weather doesn't rattle them as they work to regain their rhy
 the team comes out of the bye with a great game plan against the Buccaneers. Ideally, the plan should involve mixed looks in pass coverage as well as increased tempo on offense. But honestly, it would amaze me if Washington's coaches actually came to the game with a plan at all. Nothing fancy, just something indicating a few thoughts were strung together.
 
 ***
+
+### Seahawks @ Packers (-3.0)
+
+***
+
+#### _Latest Results_
+
+Seahawks - BYE  
+Packers @ **Chiefs**
+
+#### _Key Injuries_
+
+Left tackle David Bakhtiari is eligible to return back to action this Sunday. But more importantly, Green Bay will almost certainly see Aaron Rodgers mark his glorious return from infamy. Sure, his reputation may have taken a hit with all of his COVID nonsense, but it's abundantly clear the Packers need him in the worst way imaginable - Jordan Love is what a white flag would look like if it assumed human form. Green Bay can't afford to start him again, period.
+
+Likewise, Seattle will welcome Russell Wilson back from injured reserve. On top of that, Chris Carson and rookie wide receiver Dee Eskridge are expected back as well. Seattle's offense should see a marked improvement in offense so long as all three see some significant snaps this week.
+
+#### _History_
