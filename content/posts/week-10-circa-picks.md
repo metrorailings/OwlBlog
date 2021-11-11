@@ -179,3 +179,36 @@ Russell Wilson and his explosive playmakers can keep pace with Green Bay's prodi
 ### Chiefs @ Raiders (+2.5)
 
 ***
+
+#### _Latest Results_
+
+Packers @ **Chiefs**  
+Raiders @ **Giants**
+
+#### _Key Injuries_
+
+The Chiefs are dealing with health issues to two of their offensive linemen, though it's likely things will improve for at least one of them by the end of the week.
+
+For Las Vegas, it's worth keeping a keen eye on Hunter Renfrow. Without Henry Ruggs, Renfrow and Darren Waller are all the more important as the major remaining weapons for Derek Carr in the passing game. 
+
+#### _History_
+
+Dating back the past few years, the Raiders tend to play Kansas with a little more ferocity than their other opponents. But that fervor came with Jon Gruden at head coach. It remains uncertain whether Vegas can summon that same energy now that Gruden has been removed from the organization. On top of that, the Chiefs are no longer the Goliath of the division. If anything, it's quite possible Kansas may well be the worst team in the division. It's remarkable how quickly the Chiefs have fell from grace now that Mahomes and his offense have completely lost their collective mojo.
+
+Still, last year's games do provide some valuable insight here. In both games, the Raiders played the Chiefs tough. In the first match, Vegas pulled off the upset as double-digit underdogs. In the later match, Kansas pulled out the win, but to say it was an easy victory would be incredibly foolish - the Raiders fought tooth and nail to run the sweep, but Mahomes played too sensationally for them.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Raiders +2.5
+
+***
+
+**Las Vegas covers if**  
+Derek Carr outplays Patrick Mahomes. Part of that will depend on whether the Raiders stay committed to the same type of defense that paid off tremendously for them last year and for so many other teams this season.
+
+**Kansas City covers if**  
+their win last week is that positive impetus they need to motivate them into playing much better. It's not easy rediscovering your groove in enemy territory, so any little bit of positive momentum that can be carried over from that win will serve them well.  
