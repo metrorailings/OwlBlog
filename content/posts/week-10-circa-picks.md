@@ -135,7 +135,7 @@ the team comes out of the bye with a great game plan against the Buccaneers. Ide
 
 ***
 
-### Seahawks @ Packers (-3.0)
+### Seahawks @ Packers (-3.5)
 
 ***
 
