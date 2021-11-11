@@ -220,3 +220,21 @@ Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performanc
 ### Rams @ 49ers (+4)
 
 ***
+
+#### _Latest Results_
+
+#### _Key Injuries_
+
+#### _History_
+
+#### _Weather_
+
+***
+
+49ers +4
+
+***
+
+**San Francisco covers if**
+
+**Los Angeles covers if**
