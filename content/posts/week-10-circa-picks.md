@@ -151,3 +151,31 @@ Left tackle David Bakhtiari is eligible to return back to action this Sunday. Bu
 Likewise, Seattle will welcome Russell Wilson back from injured reserve. On top of that, Chris Carson and rookie wide receiver Dee Eskridge are expected back as well. Seattle's offense should see a marked improvement in offense so long as all three see some significant snaps this week.
 
 #### _History_
+
+Last time these two teams squared off, it was the 2019 postseason. Despite the final score, Rodgers and LaFleur had little problem maintaining wrist control over Russell and Pete Carroll.
+
+Since then, Green Bay has progressed forward offensively and defensively. Seattle, though...they haven't improved much - the team still finds itself getting jammed up all too easily in ruts. One thing for certain this year is that Seattle's pass defense has been pathetic. Part of the reason why is that none of the pass rushers have really stepped up. Darrell Taylor has impressed as of late though, so it's possible the Seahawks may be turning a leaf there. We'll know for sure over the next couple weeks.
+
+#### _Weather_
+
+Pretty damn cold. Wisconsin has begun its transformation into a tundra now that winter has arrived.
+
+***
+
+Packers -3
+
+***
+
+**Green Bay covers if**  
+Aaron Rodgers can reignite this offense against a soft Seattle defense  
+\- AND -  
+Green Bay can maintain some production on the ground against Seattle's heavy defensive front.
+
+**Seattle covers if**  
+Russell Wilson and his explosive playmakers can keep pace with Green Bay's prodigious offense.
+
+***
+
+### Chiefs @ Raiders (+2.5)
+
+***
