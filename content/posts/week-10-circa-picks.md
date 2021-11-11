@@ -213,7 +213,7 @@ Derek Carr outplays Patrick Mahomes. Part of that will depend on whether the Rai
 **Kansas City covers if**  
 their win last week is that positive impetus they need to motivate them into playing much better. It's not easy rediscovering your groove in enemy territory, so any little bit of positive momentum that can be carried over from that win will serve them well  
 \- AND -  
-Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performance on the field. The Vegas offense lost a big part of itself now that Henry Ruggs is riding the bus to prison as we speak, so Renfrow and Waller need to play at a high-enough level to give Carr options in the passing attack.
+Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performance on the field. The Vegas offense lost a big part of itself now that Henry Ruggs is riding the short bus over to his new home at the state penitentiary, so Renfrow and Waller need to play at a high-enough level to give Carr options in the passing attack.
 
 ***
 
