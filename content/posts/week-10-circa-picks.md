@@ -266,3 +266,40 @@ the 49ers once again play as soft as they played last week, coughing up the ball
 ### Panthers @ Cardinals (-10)
 
 ***
+
+#### _Latest Results_
+
+**Patriots** @ Panthers  
+**Cardinals** @ 49ers
+
+#### _Key Injuries_
+
+Carolina will be officially starting P.J. Walker at quarterback after tactically pushing Darnold off into injured reserve. The bigger concern is Brian Burns, who's dealing with a leg injury sustained in a losing effort against New England last week.
+
+Arizona is shaping up in health as we speak. Kyler Murray and Rondale Moore finally practicing this week, just as A.J. Green is coming off the COVID list. That being said, DeAndre Hopkins and Justin Pugh still haven't been practicing this week, so their status remains in jeopardy.
+
+#### _History_
+
+These Panthers actually routed the Cardinals in North Carolina last year. But that match doesn't likely hold much comparative value here - the quarterbacking situation is different here by gulfs - Teddy Bridgewater can promise you a level of competence slightly above pedestrian. PJ Walker is a bit of a black box, but his limited outing against a Giants team that was in no way prepared for him was downright pathetic. He doesn't inspire any confidence whatsoever.
+
+On top of that, the Cardinals this season are considerably better than the Cardinals of last year. Unlike last year, Arizona hasn't really fallen apart - their morale remains astronomical nine weeks into the season. On top of that, the defense has taken a much more aggressive identity this season, something that wasn't there before last year. So the game last year only holds so much weight. But Carolina was able to chew off some serious yardage against Arizona over ground and through the air. Cardinals had a difficult time answering back until it was too late. 
+
+#### _Weather_
+
+Dome game
+
+***
+
+Undecided
+
+***
+
+**Carolina covers if**  
+through a solid week of practice, PJ Walker is able to ham the ball down the field. It would help if Joe Brady can devise some easy schemes to allow Walker to find success early in the game  
+\- OR -  
+CMC goes into hyper mode, running ablaze over an Arizona defense that has shown susceptibility earlier in the season to teams capable of rushing the ball effectively.
+
+**Arizona covers if**  
+PJ Walker looks like a train wreck out there  
+\- OR -  
+they can force quite a few turnovers from a Carolina offense lacking any juice. 
