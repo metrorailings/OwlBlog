@@ -65,7 +65,7 @@ they dominate time of possession through Cordarelle Patterson and the ground gam
 
 Patriots are dealing with a number of concussions, two of which are particularly concerning - one to Damien Harris and another to their hotshot kick returner Gunner Olsnewski.
 
-Cleveland's cornerback situation is a point of caution now that Greedy Williams is dealing with some aggravated injuries of his own. It doesn't seem like those injuries should keep him out of this road trip to New England.
+Cleveland's cornerback situation is a point of caution now that Greedy Williams is dealing with some aggravated injuries of his own. It doesn't seem like those injuries should keep him out of this road trip to New England. But more worrying, Nick Chubb is officially out, meaning D'Ernest Johnson will now be stepping up as the team's primary tailback. 
 
 #### _History_
 
