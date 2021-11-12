@@ -1,6 +1,5 @@
 +++
 date = 2021-11-12T12:00:00Z
-draft = true
 headline = "Week 10 Circa Picks"
 
 +++
@@ -189,7 +188,7 @@ Raiders @ **Giants**
 
 The Chiefs are dealing with health issues to two of their offensive linemen, though it's likely things will improve for at least one of them by the end of the week.
 
-For Las Vegas, it's worth keeping a keen eye on Hunter Renfrow. Without Henry Ruggs, Renfrow and Darren Waller are all the more important as the major remaining weapons for Derek Carr in the passing game. 
+For Las Vegas, it's worth keeping a keen eye on Hunter Renfrow. Without Henry Ruggs, Renfrow and Darren Waller are all the more important as the major remaining weapons for Derek Carr in the passing game.
 
 #### _History_
 
@@ -223,9 +222,20 @@ Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performanc
 
 #### _Latest Results_
 
+**Titans** @ Rams (SNF)**  
+Cardinals** @ 49ers
+
 #### _Key Injuries_
 
+Los Angeles is mostly healthy. Injuries haven't been much a concern for them this season.
+
+The 49ers, on the other hand, are the walking wounded. Foundational players on both sides of the ball are out for the season or playing in limited capacity. The biggest concern might be running back JaMycal Hasty, who hasn't practiced this week.
+
 #### _History_
+
+As bad as the 49ers were last year, they still managed to sweep the Rams last year. The same Rams who advanced to the division round last year. Few people can dissect this Los Angeles team better than Kyle Shanahan. In the first match, Shanahan forced the ball down the field through outside runs. In the rematch, Shanahan once again found success running the ball through the C gaps, but the defensive line also stepped up tremendously, cutting short Ram drives by either stuffing runs or harassing Goff into some ill-advised decisions.
+
+This year, both teams will have better quarterbacks marshaling their offenses. One may argue that the Rams have the better quarterback, but it's a debatable assertion for the time being, especially after witnessing the way the Titans dismantled the Los Angeles offense last week.
 
 #### _Weather_
 
@@ -235,6 +245,10 @@ Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performanc
 
 ***
 
-**San Francisco covers if**
+**San Francisco covers if  
+**the Rams once again fall prey to their devious combination of outside runs and counter zone plays. It's worth noting the Rams have been worse defending the run this year compared to last year.
 
-**Los Angeles covers if**
+**Los Angeles covers if  
+**Matthew Stafford, perhaps emotionally motivated by a humiliating performance last week, plays at an exemplary level, finally justifying why the Rams were right to sacrifice multiple first-round picks in order to sign him in the offseason  
+\- OR -  
+the 49ers once again play as soft as they played last week, coughing up the ball at the worst possible moments and giving the Rams way too many opportunities to build a lead.
