@@ -149,7 +149,7 @@ Packers @ **Chiefs**
 
 #### _Key Injuries_
 
-Left tackle David Bakhtiari is eligible to return back to action this Sunday. But more importantly, Green Bay will almost certainly see Aaron Rodgers mark his glorious return from infamy. Sure, his reputation may have taken a hit with all of his COVID nonsense, but it's abundantly clear the Packers need him in the worst way imaginable - Jordan Love is what a white flag would look like if it assumed human form. Green Bay can't afford to start him again, period.
+Left tackle David Bakhtiari is a slight possibility to return back to action this Sunday. But more importantly, Green Bay will almost certainly see Aaron Rodgers mark his glorious return from infamy. Sure, his reputation may have taken a hit with all of his COVID nonsense, but it's abundantly clear the Packers need him in the worst way imaginable - Jordan Love is what a white flag would look like if it assumed human form. Green Bay can't afford to start him again, period. That being said, it remains to be seen whether Rodgers is fully healthy coming back from a serious lung illness. Can Aaron survive four quarters?
 
 Likewise, Seattle will welcome Russell Wilson back from injured reserve. On top of that, Chris Carson and rookie wide receiver Dee Eskridge are expected back as well. Seattle's offense should see a marked improvement in offense so long as all three see some significant snaps this week.
 
@@ -175,7 +175,9 @@ Aaron Rodgers can reignite this offense against a middling Seattle defense
 Green Bay can maintain some production on the ground against Seattle's heavy defensive front.
 
 **Seattle covers if**  
-Russell Wilson and his explosive playmakers can keep pace with Green Bay's prodigious offense.
+Russell Wilson and his explosive playmakers can keep pace with Green Bay's prodigious offense  
+\- OR -  
+the aftereffects of COVID starts to hinder Aaron Rodgers as the game progresses through the late afternoon.
 
 ***
 
