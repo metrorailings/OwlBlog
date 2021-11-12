@@ -222,7 +222,7 @@ Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performanc
 
 #### _Latest Results_
 
-**Titans** @ Rams (SNF)**  
+**Titans__ @ Rams (SNF)**  
 Cardinals** @ 49ers
 
 #### _Key Injuries_
@@ -245,10 +245,10 @@ This year, both teams will have better quarterbacks marshaling their offenses. O
 
 ***
 
-**San Francisco covers if  
-**the Rams once again fall prey to their devious combination of outside runs and counter zone plays. It's worth noting the Rams have been worse defending the run this year compared to last year.
+**San Francisco covers if**  
+the Rams once again fall prey to their devious combination of outside runs and counter zone plays. It's worth noting the Rams have been worse defending the run this year compared to last year.
 
-**Los Angeles covers if  
-**Matthew Stafford, perhaps emotionally motivated by a humiliating performance last week, plays at an exemplary level, finally justifying why the Rams were right to sacrifice multiple first-round picks in order to sign him in the offseason  
+**Los Angeles covers if**  
+Matthew Stafford, perhaps emotionally motivated by a humiliating performance last week, plays at an exemplary level, finally justifying why the Rams were right to sacrifice multiple first-round picks in order to sign him in the offseason  
 \- OR -  
 the 49ers once again play as soft as they played last week, coughing up the ball at the worst possible moments and giving the Rams way too many opportunities to build a lead.
