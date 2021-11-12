@@ -22,7 +22,9 @@ If there's a lesson from last week, it's that the season has reached a point whe
 
 No major injury worth noting, though it'll be useful to keep an eye on Dallas this week given they've been dealing with a number of nagging injuries on offense lately.
 
-UPDATE: Randy Gregory will be out for the foreseeable future with a calf injury. With his loss, Dallas pass rush takes a major hit, though Quinn will likely try to mitigate that loss by rotating Micah Parsons more into an edge rushing role.
+UPDATE: Randy Gregory will be out for the foreseeable future with a calf injury. With his loss, Dallas pass rush takes a major hit, though Quinn will likely try to mitigate that loss by rotating Micah Parsons more into an edge rushing role. Also, Tyron Smith remains a point of concern as he struggles with a bone spur.
+
+Atlanta will almost certainly be missing an outside linebacker seen as a leader on defense.
 
 #### _History_
 
