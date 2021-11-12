@@ -196,6 +196,8 @@ The Chiefs are dealing with health issues to two of their offensive linemen, tho
 
 For Las Vegas, it's worth keeping a keen eye on Hunter Renfrow. Without Henry Ruggs, Renfrow and Darren Waller are all the more important as the major remaining weapons for Derek Carr in the passing game.
 
+UPDATE: Never mind, both of those Chiefs offensive linemen will be out of the game. Renfrow is definite to play this Sunday though for the Raiders.
+
 #### _History_
 
 Dating back the past few years, the Raiders tend to play Kansas with a little more ferocity than their other opponents. But that fervor came with Jon Gruden at head coach. It remains uncertain whether Vegas can summon that same energy now that Gruden has been removed from the organization. On top of that, the Chiefs are no longer the Goliath of the division. If anything, it's quite possible Kansas may well be the worst team in the division. It's remarkable how quickly the Chiefs have fell from grace now that Mahomes and his offense have completely lost their collective mojo.
@@ -228,8 +230,8 @@ Hunter Renfrow or Darren Waller aren't fully healthy, impacting their performanc
 
 #### _Latest Results_
 
-**Titans__ @ Rams (SNF)**  
-Cardinals** @ 49ers
+**Titans @** Rams **(**SNF**)**  
+**Cardinals** @ 49ers
 
 #### _Key Injuries_
 
@@ -258,3 +260,9 @@ the Rams once again fall prey to their devious combination of outside runs and c
 Matthew Stafford, perhaps emotionally motivated by a humiliating performance last week, plays at an exemplary level, finally justifying why the Rams were right to sacrifice multiple first-round picks in order to sign him in the offseason  
 \- OR -  
 the 49ers once again play as soft as they played last week, coughing up the ball at the worst possible moments and giving the Rams way too many opportunities to build a lead.
+
+***
+
+### Panthers @ Cardinals (-10)
+
+***
