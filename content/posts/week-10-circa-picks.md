@@ -166,7 +166,7 @@ Packers -3
 ***
 
 **Green Bay covers if**  
-Aaron Rodgers can reignite this offense against a soft Seattle defense  
+Aaron Rodgers can reignite this offense against a middling Seattle defense  
 \- AND -  
 Green Bay can maintain some production on the ground against Seattle's heavy defensive front.
 
