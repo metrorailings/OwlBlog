@@ -104,7 +104,7 @@ Washington - BYE
 
 Buccaneers are still likely to miss the services of Rob Gronkowski and Antonio Brown coming back from their bye week. Neither have started practicing as of Tuesday. On a positive note, starting corner Sean Murphy-Bunting and wide receiver Scotty Miller have decent chances at returning this Sunday after spending the past few weeks on injured reserve.
 
-Washington seems to be in slightly better shape. Logan Thomas could potentially mark his grand return from injury this week.
+Washington seems to be in slightly better shape. Logan Thomas could potentially mark his grand return from injury this week. Brandon Scherff will likely see action too after being sidelined for multiple weeks.
 
 #### _History_
 
