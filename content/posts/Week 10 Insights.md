@@ -35,3 +35,25 @@ Brady's not a fan of holding the ball. If the deep options don't present themsel
 Washington's pass protection has been phenomenal, especially against blitzes. While the Buccaneers have gotten their fair share of hits on Heinecke, his offensive linemen have held up more often than not.
 
 Well, it's clear Tampa Bay needs a healthy Rob Gronkowski and Antonio Brown back in the worst possible way. Without the two of them and Mikes Evans blanketed in double coverage, things go from tolerable to wretched pretty quickly.
+
+***
+
+## Vikings @ Chargers
+
+Kirk Cousins is so bad, it's too funny. What a funny way to fumble the ball.
+
+Love seeing Justin Herbert yell at his receivers. That passion needs to be there.
+
+I feel as if the Chargers need a tight end or another player capable of running seam routes as well as routes up the middle. Keenan Allen alone can't carry the burden in that respect. Jared Cook has been essentially useless.
+
+Justin Jefferson is finally turned up.
+
+Eric Kendricks out-played Keenan Allen for an interception. Not good to have your lunch eaten by a linebacker as a wide receiver.
+
+***
+
+## Seahawks @ Packers
+
+Looks like Seahawks are committing to bracket coverage on Davante Adams, Will be interesting to see how Green Bay adjusts to give Adams open windows.
+
+Mason Crosby is just terrible.
