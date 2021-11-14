@@ -23,3 +23,7 @@ Baker Mayfield is playing pretty horribly. And now with New England running the 
 Leonard Fournette is clearly a point of emphasis for Tampa Bay's offense this game. I feel that Washington is overplaying things in the secondary, forcing Tom to rely more on runs and quick passes to Fournette in the flat.
 
 I'm questioning Mike Evans role in this offense. Not seeing enough of him. Also, where's Scotty Miller?
+
+Brady's not a fan of holding the ball. If the deep options don't present themselves viably right away, expect a dump pass. Though Brady will hold every now and then, but it's clear he's not a fan of holding given his tendency to throw the ball away when absolutely forced.
+
+Washington's pass protection has been phenomenal, especially against blitzes. While the Buccaneers have gotten their fair share of hits on Heinecke, his offensive linemen have held up more often than not.
