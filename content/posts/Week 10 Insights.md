@@ -19,3 +19,7 @@ Baker Mayfield is playing pretty horribly. And now with New England running the 
 ***
 
 ## Buccaneers @ Washington
+
+Leonard Fournette is clearly a point of emphasis for Tampa Bay's offense this game. I feel that Washington is overplaying things in the secondary, forcing Tom to rely more on runs and quick passes to Fournette in the flat.
+
+I'm questioning Mike Evans role in this offense. Not seeing enough of him. Also, where's Scotty Miller?
