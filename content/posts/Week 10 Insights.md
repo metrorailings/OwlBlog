@@ -60,7 +60,7 @@ Looks like Seahawks are committing to bracket coverage on Davante Adams, Will be
 
 Mason Crosby is just terrible.
 
-Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive.
+Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive. That being said, Seattle has done a decent job defensing the run.
 
 Seems like the Seahawks are incorporating the Staley style of defense into their defensive repertoire.
 
