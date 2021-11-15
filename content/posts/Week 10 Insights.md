@@ -76,4 +76,4 @@ The Raiders are just horrible on discipline. Talk about some silly penalties. I'
 
 On the other hand, the Chiefs have the Las Vegas ground game read. Their efforts to study Derek Carr and his audibles seem to have paid off.
 
-It's clear the Chiefs entered this game with that underdog vibe. Contrary to the spread, it's obvious Las Vegas attended this game blinded by a bit of cockiness. 
+It's clear the Chiefs entered this game with that underdog vibe. Contrary to the spread, Las Vegas attended this game blinded by a bit of cockiness. 
