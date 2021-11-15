@@ -101,3 +101,5 @@ Cam Newton is a game changer with his charisma. The fact that the Panthers let h
 On top of Cam, Christian McCaffrey is a critical weapon for these Panthers when he's fully healthy. His ability to cut and shift direction is damn near second to none.
 
 Carolina's secondary is really impressing me. Even though they're contending against Colt McCoy, it's still remarkable the way they're blanketing and closing down Arizona's receivers.
+
+Arizona's run defense really loses its bearings, at least against opponents that can rush the ball well.
