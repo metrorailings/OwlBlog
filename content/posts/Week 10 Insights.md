@@ -107,3 +107,5 @@ Arizona's run defense really loses its bearings, at least against opponents that
 ***
 
 ## Lions @ Browns
+
+Detroit's defense is laughably bad. Dime coverage and yet, Detroit still gives up a touchdown to a Mason Rudolph-led offense.
