@@ -111,3 +111,7 @@ Arizona's run defense really loses its bearings, at least against opponents that
 Detroit's defense is laughably bad. Dime coverage and yet, Detroit still gives up a touchdown to a Mason Rudolph-led offense.
 
 So far, Detroit is giving major yards away to Pittsburgh's power run game.
+
+Jared Goff only attempted one pass deeper than 10 yards in the first half. Truly amazing. Any production Detroit saw on offense can almost entirely be attributed to their ground game. Pittsburgh is giving up serious yards on offense.
+
+Interestingly enough, Detroit's two-minute offense consisted almost entirely of runs. Maybe an indictment of Jared Goff?
