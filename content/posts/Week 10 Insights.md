@@ -60,7 +60,7 @@ Looks like Seahawks are committing to bracket coverage on Davante Adams, Will be
 
 Mason Crosby is just terrible.
 
-Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive. That being said, Seattle has done a decent job defensing the run.
+Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive. That being said, Seattle has done a decent job defensing the run, but there's only so much a six-man box can achieve against a competent ground game.
 
 Seems like the Seahawks are incorporating the Staley style of defense into their defensive repertoire.
 
@@ -69,6 +69,10 @@ Green Bay's pass rush has been sensational across the board. The fact that the d
 Gerald Everett contributing on offense as a pass-catching weapon.
 
 Russell Wilson clearly missing some zip in his deep throws. Either they're inaccurate or they're a little underthrown.
+
+Aaron Rodgers on the other hand, has been on point. His ability to maneuver in the pocket is impressive.
+
+It's pretty cool seeing Green Bay's offense scheme things up so that multiple skill players are running routes along the same half of the field.
 
 ***
 
