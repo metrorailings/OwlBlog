@@ -96,4 +96,6 @@ It's clear the Chiefs entered this game with that underdog vibe. Contrary to the
 
 Carolina's defensive line is just punking this Arizona offensive line. They're the reason the first two of Arizona's drives ended pretty dismally in turnovers.
 
-Cam Newton is a game changer with his charisma. 
+Cam Newton is a game changer with his charisma. The fact that the Panthers let him score the first two touchdowns is testament to this.
+
+On top of Cam, Christian McCaffrey is a critical weapon for these Panthers when he's fully healthy. His ability to cut and shift direction is damn near second to none.
