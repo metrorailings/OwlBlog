@@ -50,6 +50,8 @@ Justin Jefferson is finally turned up.
 
 Eric Kendricks out-played Keenan Allen for an interception. Not good to have your lunch eaten by a linebacker as a wide receiver.
 
+Herbert only has about 70-80 passing yards in the first half. Appropriately, Mike Williams has been a non-factor in the game outside of the late drive closing out the first half. I'm not sure the Bolts can recover from their current deficit.
+
 ***
 
 ## Seahawks @ Packers
@@ -57,3 +59,5 @@ Eric Kendricks out-played Keenan Allen for an interception. Not good to have you
 Looks like Seahawks are committing to bracket coverage on Davante Adams, Will be interesting to see how Green Bay adjusts to give Adams open windows.
 
 Mason Crosby is just terrible.
+
+Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive.
