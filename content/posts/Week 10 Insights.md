@@ -66,6 +66,8 @@ Seems like the Seahawks are incorporating the Staley style of defense into their
 
 Green Bay's pass rush has been sensational across the board. The fact that the defensive line can maintain pressure even when Seattle runs the uptempo offense is pretty impressive.
 
+Gerald Everett contributing on offense as a pass-catching weapon.
+
 ***
 
 ## Chiefs @ Raiders
