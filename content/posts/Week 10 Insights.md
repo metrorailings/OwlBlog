@@ -62,6 +62,8 @@ Mason Crosby is just terrible.
 
 Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive.
 
+Seems like the Seahawks are incorporating the Staley style of defense into their defensive repertoire.
+
 ***
 
 ## Chiefs @ Raiders
