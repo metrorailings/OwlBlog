@@ -61,3 +61,19 @@ Looks like Seahawks are committing to bracket coverage on Davante Adams, Will be
 Mason Crosby is just terrible.
 
 Green Bay being able to succeed on short-yardage runs against the likes of Bobby Wagner is impressive.
+
+***
+
+## Chiefs @ Raiders
+
+It took awhile, but finally it happened - Mahomes has committed to the short game, as much as he may despise doing so. The Chiefs offensive success this game was built very heavily on the short passing game combined with  dashes of Harris rushing the ball.
+
+Maybe thanks to the short game, Kansas City was able to line up some deep shots towards Tyreek Hill. Some were successful, some were ill-advised, but the shot opportunities were there now.
+
+Mahomes is still being reckless with the ball every now and then. Against better-disciplined defenses, his mistakes and freelancing would have been punished.
+
+The Raiders are just horrible on discipline. Talk about some silly penalties. I'm not sure if the Raiders were trying to beat the Chiefs on the snap count, but so many times were these Raiders caught trespassing the line of scrimmage before the snap. 
+
+On the other hand, the Chiefs have the Las Vegas ground game read. Their efforts to study Derek Carr and his audibles seem to have paid off.
+
+It's clear the Chiefs entered this game with that underdog vibe. Contrary to the spread, it's obvious Las Vegas attended this game blinded by a bit of cockiness. 
