@@ -64,6 +64,8 @@ Green Bay being able to succeed on short-yardage runs against the likes of Bobby
 
 Seems like the Seahawks are incorporating the Staley style of defense into their defensive repertoire.
 
+Green Bay's pass rush has been sensational across the board. The fact that the defensive line can maintain pressure even when Seattle runs the uptempo offense is pretty impressive.
+
 ***
 
 ## Chiefs @ Raiders
