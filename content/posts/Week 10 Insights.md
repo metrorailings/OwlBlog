@@ -68,6 +68,8 @@ Green Bay's pass rush has been sensational across the board. The fact that the d
 
 Gerald Everett contributing on offense as a pass-catching weapon.
 
+Russell Wilson clearly missing some zip in his deep throws. Either they're inaccurate or they're a little underthrown.
+
 ***
 
 ## Chiefs @ Raiders
