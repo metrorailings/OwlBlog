@@ -83,11 +83,11 @@ Maybe thanks to the short game, Kansas City was able to line up some deep shots 
 
 Mahomes is still being reckless with the ball every now and then. Against better-disciplined defenses, his mistakes and freelancing would have been punished.
 
-The Raiders are just horrible on discipline. Talk about some silly penalties. I'm not sure if the Raiders were trying to beat the Chiefs on the snap count, but so many times were these Raiders caught trespassing the line of scrimmage before the snap. 
+The Raiders are just horrible on discipline. Talk about some silly penalties. I'm not sure if the Raiders were trying to beat the Chiefs on the snap count, but so many times were these Raiders caught trespassing the line of scrimmage before the snap.
 
 On the other hand, the Chiefs have the Las Vegas ground game read. Their efforts to study Derek Carr and his audibles seem to have paid off.
 
-It's clear the Chiefs entered this game with that underdog vibe. Contrary to the spread, Las Vegas attended this game blinded by a bit of cockiness. 
+It's clear the Chiefs entered this game with that underdog vibe. Contrary to the spread, Las Vegas attended this game blinded by a bit of cockiness.
 
 ***
 
@@ -114,3 +114,15 @@ So far, Detroit is giving major yards away to Pittsburgh's power run game, thoug
 Jared Goff only attempted one pass deeper than 10 yards in the first half. Truly amazing. Any production Detroit saw on offense can almost entirely be attributed to their ground game. Pittsburgh is giving up serious yards on offense.
 
 Interestingly enough, Detroit's two-minute offense consisted almost entirely of runs. Maybe an indictment of Jared Goff?
+
+***
+
+## Saints @ Titans
+
+Both teams impressing me, Tennessee especially. Their offensive plays in the first half have been wickedly creative, maybe in an effort to compensate for the loss of both Derrick Henry and Julio Jones. Though one trick play involving an offensive lineman running a route did almost end up costing them in the form of an interception.
+
+This Marcus Johnson kid has some talent. His route running inside the middle of the field has yielded some big dividends so far.
+
+Tennessee's pass rush may be one of the best in the league.
+
+Trevor Siemian showing some moxie in his quarterbacking, connecting on a deep pass to Deonte Harris on a drive ending in a touchdown.
