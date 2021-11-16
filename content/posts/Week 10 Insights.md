@@ -126,3 +126,5 @@ This Marcus Johnson kid has some talent. His route running inside the middle of 
 Tennessee's pass rush may be one of the best in the league.
 
 Trevor Siemian showing some moxie in his quarterbacking, connecting on a deep pass to Deonte Harris on a drive ending in a touchdown.
+
+Ryan Tannehill's mobility continues to be an unrecognized ace in the hole for this Titans offense.
