@@ -1,6 +1,5 @@
 +++
 date = 2021-11-14T09:53:00Z
-draft = true
 headline = "Week 10 Insights"
 
 +++
@@ -110,7 +109,7 @@ Arizona's run defense really loses its bearings, at least against opponents that
 
 Detroit's defense is laughably bad. Dime coverage and yet, Detroit still gives up a touchdown to a Mason Rudolph-led offense.
 
-So far, Detroit is giving major yards away to Pittsburgh's power run game.
+So far, Detroit is giving major yards away to Pittsburgh's power run game, though they did improve a good bit .
 
 Jared Goff only attempted one pass deeper than 10 yards in the first half. Truly amazing. Any production Detroit saw on offense can almost entirely be attributed to their ground game. Pittsburgh is giving up serious yards on offense.
 
