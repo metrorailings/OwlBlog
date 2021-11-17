@@ -18,8 +18,8 @@ So here we are - week 11. More than halfway through the season and I seem to hav
 
 #### _Latest Results_
 
-Lions @ Steelers (Tie)  
-Browns @ **Patriots**
+_Lions_ @ Steelers (Tie)  
+Browns @ **_Patriots_**
 
 #### _Key Injuries_
 
@@ -59,8 +59,8 @@ their ground game finds renewed life against Detroit's slow defensive front.
 
 #### _Latest Results_
 
-Seahawks @ **Packers**  
-**Vikings** @ Chargers
+Seahawks @ **_Packers_**  
+**_Vikings_** @ Chargers
 
 #### _Key Injuries_
 
@@ -85,9 +85,30 @@ Packers -2.5
 ***
 
 **Green Bay covers if**  
-they
+their defense continues exceeding its early season expectations and shuts down Dalvin Cook, forcing an easily spooked Kirk Cousins to carry this offense against Green Bay's venerable pass rush.
 
 **Minnesota covers if**  
-they
+Dalvin Cook is able to keep the offense churning, rushing for more than 4.5 yards per carry on average.
 
 ***
+
+### Colts @ Bills (-7)
+
+***
+
+#### _Latest Results_
+
+_Jaguars_ @ **Colts**   
+**_Bills_** @ Jets
+
+#### _Key Injuries_
+
+Both teams have injury concerns among their coverage personnel, though nothing seriously concerning.
+
+#### _History_
+
+Both teams met last year in the postseason, the only major difference between now and then being that the Colts were starting Philip "dadgummit" Rivers at quarterback. One _could_ make the argument that Carson Wentz is an upgrade in that department. It's ill-advised, but one _could_ certainly try and make that argument. I'd say it's been (more or less) a lateral move going from Rivers to Wentz.
+
+Anyway, the Colts lost by only three points, though the Bills had wrist control for much of the game. Still, the fact that Indianapolis was able to fight within a field goal and kept things competitive at the end is testament enough that these two teams are closer matched than raw statistics otherwise suggest. 
+
+To be fair, we do have several more differentials at play here, notably that the Colts have effectively replaced TY Hilton's role on offense with Michael Pittman and the Bills now have a top-tier pass rusher in Greg Rousseau. Perhaps most important is that their game last year was a postseason affair, whereas the game this year is a routine one dully taking place in the early afternoon.
