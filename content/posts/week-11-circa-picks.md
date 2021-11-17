@@ -64,16 +64,30 @@ Seahawks @ **Packers**
 
 #### _Key Injuries_
 
-Aaron Jones won't be returning to the field for the next few weeks, thanks to an MCL sprain. Rookie AJ Dillon will take the mantle as the team's primary rusher. On top of that, the newly acquired Whitney Mercilus is expected to be out for the season. Quite disappointing considering he recorded his first sack as a Green Bay Packer last week and may have stood to contribute even more the rest of the way through.
+Aaron Jones won't be returning to the field for the next few weeks, thanks to an MCL sprain. Rookie AJ Dillon will take the mantle as the team's primary rusher. On top of that, the newly acquired Whitney Mercilus is expected to be out for the season. Quite disappointing considering he recorded his first sack as a Green Bay Packer last week and may have stood to contribute even more through the rest of the season. Rashan Gary is worth watching this week, as he was hit with an injury midway through last week's game.
+
+Harrison Smith is expected to return this week after being placed on the COVID list last week. 
 
 #### _History_
 
-No recent history between these two. The Lions have been playing atrocious  on both sides of the ball. Jared Goff at quarterback has been a failed experiment. Dan Campbell seizing play-calling duties away from Anthony Lynn last night didn't do much to change the tenor of the passing offense. Sure, Detroit can run the ball...but without any semblance of an air game, the offense cannot sustain consistent production.
+Green Bay and Minnesota split games last year. In their latest game, Minnesota pulled out a six-point win, thanks largely to the Packers not being all that focused coming into the game. It's not hard to see why the Packers weren't that ready either - the Vikings were brutalized the week before by an Atlanta team that just fired its head coach. On top of that, Green Bay was probably looking ahead to exacting bitter revenge against the 49ers that coming Thursday. 
 
-Cleveland has its own warts, but the franchise isn't in as much shit shape as Detroit's. If Cleveland is a car scuffed up with dents and running on a busted cylinder, Detroit is a car with its engine dropped out riding down the street. 
+This year, Kirk Cousins and the offense have stalled way too much, especially against teams with solid defensive fronts. If the team is forced to rely on Kirk Cousins to maintain production on offense, it's not pretty. Luckily for the Vikings, Green Bay hasn't been the best at defending against the rush though. To be fair though, the defense seems to have changed face the past three weeks, letting up only about 140 yards against 36 carries by starting halfbacks.
 
 #### _Weather_
 
-Chilly with a bit of rain
+ Dome affair
+
+***
+
+Packers -2.5
+
+***
+
+**Green Bay covers if**  
+they
+
+**Minnesota covers if**  
+they
 
 ***
