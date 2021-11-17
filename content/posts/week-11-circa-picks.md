@@ -12,13 +12,20 @@ So here we are - week 11. More than halfway through the season and I seem to hav
 
 ***
 
-### Falcons @ Cowboys (-9)
+### Lions @ Browns (-10)
 
 ***
 
 #### _Latest Results_
 
+Lions @ Steelers (Tie)  
+Browns @ **Patriots**
+
 #### _Key Injuries_
+
+Detroit is likely to lose Trey Flowers next week, though his presence this year has been muted a bit by injury anyway. It's arguable as to whether any one injury matters to this defense given how badly they've been performing.
+
+A few of the cornerbacks are injured for the Browns and expected to be out as well. Otherwise, all other injuries are in a manageable state.
 
 #### _History_
 
@@ -30,8 +37,8 @@ Undecided
 
 ***
 
-**Dallas covers if**  
-  
+**Dallas covers if**
+
 **Atlanta covers if**
 
 ***
