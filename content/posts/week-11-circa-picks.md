@@ -114,3 +114,23 @@ Anyway, the Colts lost by only three points, though the Bills had wrist control 
 To be fair, we do have several more differentials at play here, notably that the Colts have effectively replaced TY Hilton's role on offense with Michael Pittman and the Bills now have a top-tier pass rusher in Greg Rousseau. Perhaps most important is that their game last year was a postseason affair, whereas the game this year is a routine one dully taking place in the early afternoon.
 
 Watching the game, I noticed Indianapolis honestly playing very well against a Bills team. It's possible Buffalo may not have been fully committed to the game given they were seven-point favorites, but the Colts really hammered them through a combination of Jonathan Taylor and Michael Pittman, with a little TY Hilton mixed in. On top of that, the Indianapolis defense really bothered Josh Allen in this game, forcing him out of the pocket on a number of occasions and keeping him from improvising successfully, at least for the first half. DeForest Buckner and Darius Leonard deserve special kudos for their individual efforts in this regard.
+
+#### _Weather_
+
+Chilly with some rain expected
+
+***
+
+Colts +7
+
+***
+
+**Indianapolis covers if**  
+Carson Wentz doesn't turn the ball over more than once. The team has enough weaponry and the type of defense to frustrate Buffalo's offense, it's just a matter of whether Wentz can stop playing such reckless hero ball against a Buffalo defense many take to be one of the best in the league  
+\- OR -  
+Buffalo is caught playing lazy, partly because their opponent is such a decisive underdog and partly because these Bills are slated to play in a big primetime spot a few days later on Thanksgiving.
+
+**Buffalo covers if**  
+they take the Colts seriously enough despite the circumstances giving them too many excuses to slack off  
+\- AND -  
+the Bills can force Carson Wentz to commit multiple turnovers. 
