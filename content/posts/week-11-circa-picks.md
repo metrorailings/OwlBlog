@@ -134,3 +134,16 @@ Buffalo is caught playing lazy, partly because their opponent is such a decisive
 they take the Colts seriously enough despite the circumstances giving them too many excuses to slack off  
 \- AND -  
 the Bills can force Carson Wentz to commit multiple turnovers. 
+
+***
+
+### Saints @ Eagles (-1.5)
+
+***
+
+#### _Latest Results_
+
+_Saints_ @ **Titans**  
+**_Eagles_** @ Broncos
+
+#### _Key Injuries_
