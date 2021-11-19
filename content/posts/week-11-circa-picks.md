@@ -53,7 +53,7 @@ the Browns are caught slacking off from what should be an easy win for them. Eve
 
 ***
 
-### Packers @ Vikings (+2.5)
+### Packers @ Vikings (+1.5)
 
 ***
 
@@ -183,3 +183,10 @@ the Saints fail to adjust for the exotic nature of the Eagles college-style offe
 ### Ravens @ Bears (+4.5)
 
 ***
+
+#### _Latest Results_
+
+Ravens @ **_Dolphins_** (TNF)  
+BYE - Bears
+
+#### _Key Injuries_
