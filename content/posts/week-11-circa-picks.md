@@ -197,8 +197,24 @@ Despite the bye, Chicago hasn't improved much in terms of injuries. The defensiv
 
 #### _History_
 
-Chicago was dealt its worst game this season by Tampa Bay and its litany of blitzes. The fact of the matter is that its pass protection is still not up to snuff. Even though Chicago's offensive line fares better at home than on the road, it's still inept. Now Justin Fields and Khalil Herbert can rush the ball, and Baltimore's performance defensing against running plays has been middling as of lately. If Fields and Herbert can matriculate the ball through the ground game, it can be troubling for Baltimore.
+Chicago was dealt its worst game this season by Tampa Bay and its litany of blitzes. The fact of the matter is that its pass protection is still not up to snuff. Even though Chicago's offensive line fares better at home than on the road, it's still inept. But the ace in the hole for Chicago here is their ground game, headlined by Justin Fields and Khalil Herbert. Baltimore's performance defensing against running plays has been middling as of lately. If Fields and Herbert can consistently matriculate the ball through an array of different rushes, it'll be troubling for Baltimore.
 
 #### _Weather_
 
-####  
+Cold and quite possibly humid
+
+***
+
+Ravens -4.5
+
+***
+
+**Baltimore covers if**  
+Lamar Jackson plays through whatever's ailing him  
+\- AND -  
+Jackson and the tailbacks can help the offense dominate time of possession against the Bears.
+
+**Chicago covers if**  
+Lamar Jackson is out  
+\- OR -  
+Khalil Herbert and Justin Fields manage to churn yardage consistently through the ground.
