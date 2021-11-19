@@ -212,7 +212,7 @@ Ravens -4.5
 **Baltimore covers if**  
 Lamar Jackson plays through whatever's ailing him  
 \- AND -  
-Jackson and the tailbacks can help the offense dominate time of possession against the Bears.
+Jackson and the tailbacks can help the offense dominate time of possession against a Bears defense not fully healthy up front.
 
 **Chicago covers if**  
 Lamar Jackson is out  
