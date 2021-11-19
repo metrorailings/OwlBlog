@@ -8,7 +8,7 @@ Bit of an uninspiring week, to say the least. Even though one of the cardinal ru
 
 My other loss was Las Vegas. Bit of a shocker in all honesty. It was clear the Raiders never took the game as seriously as the Chiefs. Regardless, I promised myself that I'd continue betting against the Chiefs so long as their offense and defense kept proving themselves horribly inept. While the jury is still out about the Kansas offense, it's clear the defense has made significant strides in the past month - it's no longer the bottom-feeding unit setting new abysmal records on a weekly basis. I need to be more careful betting the Chiefs from this point onward.
 
-So here we are - week 11. More than halfway through the season and I seem to have settled into a groove of 3-win weeks peppered with 4-win weeks here and there. Ambitions are much higher riding into the second half of the season - it's now time to start aiming for perfect weeks, as difficult as that may be to achieve on a regular basis. So let's get to it.
+So here we are - week 11. More than halfway through the season and I seem to have settled into a groove of 3-win weeks peppered with 4-win weeks here and there. Ambitions are much higher riding into the second half of the season - it's now time to start aiming for perfect weeks, as hard as that may be to achieve on a regular basis. So let's get to it.
 
 ***
 
@@ -133,7 +133,7 @@ Buffalo is caught playing lazy, partly because their opponent is such a decisive
 **Buffalo covers if**  
 they take the Colts seriously enough despite the circumstances giving them too many excuses to slack off  
 \- AND -  
-the Bills can force Carson Wentz to commit multiple turnovers. 
+the Bills can force Carson Wentz to commit multiple turnovers.
 
 ***
 
@@ -147,3 +147,19 @@ _Saints_ @ **Titans**
 **_Eagles_** @ Broncos
 
 #### _Key Injuries_
+
+It scares me when both tackles for the Saints as well as their star tailback have been unable to practice Thursday. I know practice is overrated, but to not even log a limited practice session on a critical day leading up to the game is concerning. Perhaps Friday will bring some positive news for New Orleans.
+
+Eagles might be down their first-string tight end in Dallas Goedert. Not sure if it matters much, to be honest, given the structure of their offense.
+
+#### _History_
+
+Both these teams mets last year in what was an upset for the Eagles. New Orleans was completely thrown off course by Jalen Hurts and his speed - it's likely Sean Payton and company weren't as worried about Hurts rushing the ball, even though it was his biggest strength in college.
+
+Things are a bit different now that Philadelphia completely overhauled its coaching staff. For one thing, Jonathan Gannon's defense is nowhere near as competent as Jim Schwartz's unit. Where Schwartz had his unit playing at a level higher than the sum of its parts, Gannon's squad has been routinely abused by quarterbacks who understand the proper way to attack coverage schemes. To be frank, I don't believe Trevor Siemian capable of dissecting this defense on his own - Payton will need to hold his hand here should the offense want to rack up significant yardage. 
+
+#### _Weather_
+
+Decent weather considering it's November, though the field is expected to be wet from some overnight rain
+
+***
