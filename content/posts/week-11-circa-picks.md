@@ -66,7 +66,9 @@ Seahawks @ **_Packers_**
 
 Aaron Jones won't be returning to the field for the next few weeks, thanks to an MCL sprain. Rookie AJ Dillon will take the mantle as the team's primary rusher. On top of that, the newly acquired Whitney Mercilus is expected to be out for the season. Quite disappointing considering he recorded his first sack as a Green Bay Packer last week and may have stood to contribute even more through the rest of the season. Rashan Gary is worth watching this week, as he was hit with an injury midway through last week's game.
 
-Harrison Smith is expected to return this week after being placed on the COVID list last week.
+Harrison Smith and Anthony Barr are expected to return this week after being placed on the COVID list last week.
+
+UPDATE: Rashan Gary is listed as questionable, although he's logged three consecutive limited practices this week. Chances are he'll play, though to what effect remains to be seen. 
 
 #### _History_
 
