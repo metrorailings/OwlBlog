@@ -190,3 +190,15 @@ Ravens @ **_Dolphins_** (TNF)
 BYE - Bears
 
 #### _Key Injuries_
+
+Lamar Jackson's dealing with some strange illness this week. He hasn't practiced at all, but the team doesn't seem too concerned. Is this COVID related?  To compound things, Hollywood Brown hasn't been practicing either.
+
+Despite the bye, Chicago hasn't improved much in terms of injuries. The defensive front seven is banged up across the board. On top of that, Allen Robinson is dealing with issues of his own.
+
+#### _History_
+
+Chicago was dealt its worst game this season by Tampa Bay and its litany of blitzes. The fact of the matter is that its pass protection is still not up to snuff. Even though Chicago's offensive line fares better at home than on the road, it's still inept. Now Justin Fields and Khalil Herbert can rush the ball, and Baltimore's performance defensing against running plays has been middling as of lately. If Fields and Herbert can matriculate the ball through the ground game, it can be troubling for Baltimore.
+
+#### _Weather_
+
+####  
