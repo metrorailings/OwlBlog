@@ -27,15 +27,19 @@ Detroit is likely to lose Trey Flowers next week, though his presence this year 
 
 A few of the cornerbacks are injured for the Browns and expected to be out as well. Otherwise, all other injuries are in a manageable state.
 
+UPDATE: Detroit, through some injury fortune, will now be starting Tim Boyle in place of Jared Goff.
+
 #### _History_
 
 No recent history between these two. The Lions have been playing atrocious  on both sides of the ball. Jared Goff at quarterback has been a failed experiment. Dan Campbell seizing play-calling duties away from Anthony Lynn last night didn't do much to change the tenor of the passing offense. Sure, Detroit can run the ball...but without any semblance of an air game, the offense cannot sustain consistent production.
 
 Cleveland has its own warts, but the franchise isn't in as much shit shape as Detroit's. If Cleveland is a car scuffed up with dents and running on a busted cylinder, Detroit is a car with its engine dropped out riding down the street.
 
+UPDATE: Now that Tim Boyle is playing, I'll be staying away from this game. It's uncertain what identity this offense assumes under Boyle. At least Goff was predictable with his idiotically short passing. If Boyle exhibits the recklessness of somebody like Taylor Heinecke in his first start, it could spark this Lion offense.
+
 #### _Weather_
 
-Chilly with a bit of rain
+Chilly with some rain
 
 ***
 
