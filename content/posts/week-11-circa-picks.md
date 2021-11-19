@@ -12,7 +12,7 @@ So here we are - week 11. More than halfway through the season and I seem to hav
 
 ***
 
-### Lions @ Browns (-10)
+### Lions @ Browns (-11)
 
 ***
 
@@ -39,7 +39,7 @@ Chilly with a bit of rain
 
 ***
 
-Browns -10
+Browns -11
 
 ***
 
@@ -177,3 +177,9 @@ the Saints don't overlook this game in preparation of their upcoming match again
 **New Orleans is caught slacking  
 \- OR -  
 the Saints fail to adjust for the exotic nature of the Eagles college-style offense, despite featuring one of the league's best defenses.
+
+***
+
+### Ravens @ Bears (+4.5)
+
+***
