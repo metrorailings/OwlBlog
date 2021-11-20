@@ -248,4 +248,14 @@ Chargers will finally get back some help in the secondary, although they **may**
 
 Neither of these two teams have faced each other recently. Neither has Pittsburgh faced off recently against a Saints-style offense, as far as I'm aware. So not much insight can be gleaned here from historical contests.
 
-The one thing for sure though is that Pittsburgh is going to be leaning heavily on Najee Harris to keep the ball motoring through this Charger defense. Los Angeles has yet to demonstrate they're capable of stonewalling opposing rushers. In fact, it's quite possible the Chargers may be the worst team in the league at defensing the run. And without Linval Joseph and possibly other linemen, that run defense should be expected to fall further down the abyss. 
+The one thing for sure though is that Pittsburgh is going to be leaning heavily on Najee Harris to keep the ball motoring through this Charger defense. Los Angeles has yet to demonstrate they're capable of stonewalling opposing rushers. In fact, it's quite possible the Chargers may be the worst team in the league at defensing the run. And without Linval Joseph and possibly other linemen, that run defense should be expected to fall further down the abyss.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Undecided
+
+***
