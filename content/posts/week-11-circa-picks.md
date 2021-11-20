@@ -225,4 +225,4 @@ Jackson and the tailbacks can help the offense dominate time of possession again
 **Chicago covers if**  
 Lamar Jackson is out  
 \- OR -  
-Khalil Herbert and Justin Fields manage to churn yardage consistently through the ground.
+Khalil Herbert and Justin Fields can churn yardage consistently through the ground.
