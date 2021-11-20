@@ -156,13 +156,15 @@ _Saints_ @ **Titans**
 
 It scares me when both tackles for the Saints as well as their star tailback have been unable to practice Thursday. I know practice is overrated, but to not even log a limited practice session on a critical day leading up to the game is concerning. Perhaps Friday will bring some positive news for New Orleans.
 
-Eagles might be down their first-string tight end in Dallas Goedert. Not sure if it matters much, to be honest, given the structure of their offense.
+Eagles might be down their first-string tight end in Dallas Goedert. Not sure if it matters much, to be honest, given the run-oriented nature of their offense.
+
+UPDATE: Nope, the Saints will be without the book-ends to their offensive line as well as Alvin Kamara. Not good. Eagles might also lose Derek Barnett to a neck injury that suddenly popped up Friday.
 
 #### _History_
 
 Both these teams mets last year in what was an upset for the Eagles. New Orleans was completely thrown off course by Jalen Hurts and his speed - it's likely Sean Payton and company weren't as worried about Hurts rushing the ball, even though it was his biggest strength in college.
 
-Things are a bit different now that Philadelphia completely overhauled its coaching staff, with the biggest changes exhibited on defense - Jonathan Gannon's defense is nowhere near as competent nor dynamic as Jim Schwartz's unit. Where Schwartz had his unit playing at a level greater than the sum of its parts, Gannon's squad has been routinely abused by quarterbacks who understand the proper way to attack the few coverage schemes they've been trained to employ. To be frank, I don't believe Trevor Siemian capable of dissecting this defense on his own - Payton will need to hold his hand here should New Orleans hope to rack up significant yardage. 
+Things are a bit different now that Philadelphia completely overhauled its coaching staff, with the biggest changes exhibited on defense - Jonathan Gannon's defense is nowhere near as competent nor as dynamic as Jim Schwartz's unit. Where Schwartz had his unit playing at a level greater than the sum of its parts, Gannon's squad has been routinely abused by quarterbacks who understand the proper way to attack their simple coverage schemes. To be frank, I don't believe Trevor Siemian capable of dissecting this defense on his own - Payton will need to hold his hand here should New Orleans hope to rack up significant yardage. 
 
 #### _Weather_
 
@@ -175,9 +177,9 @@ Saints +1.5
 ***
 
 **New Orleans covers if**  
-Sean Payton and Dennis Allen go out of their way to prevent Philadelphia from developing any rhythm through their rush-oriented offense. A part of me is convinced Hurts' confidence level really impacts this offense - so long as Miles Sanders is out, Philadelphia's offense it lives and dies by whatever vibes Hurts lets off  
+Sean Payton and Dennis Allen go out of their way to prevent Philadelphia from developing any rhythm rushing the ball. A part of me is convinced Hurts' confidence level really impacts this offense - so long as Miles Sanders is out, Philadelphia's offense lives and dies by whatever mood Hurts is in  
 \- AND -  
-the Saints don't overlook this game in preparation of their upcoming match against Buffalo on Thanksgiving.
+the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving.
 
 **Philadelphia covers if  
 **New Orleans is caught slacking  
