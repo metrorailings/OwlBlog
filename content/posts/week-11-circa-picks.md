@@ -226,3 +226,26 @@ Jackson and the tailbacks can help the offense dominate time of possession again
 Lamar Jackson is out  
 \- OR -  
 Khalil Herbert and Justin Fields can churn yardage consistently through the ground.
+
+***
+
+### Steelers @ Chargers (-6.5)
+
+***
+
+#### _Latest Results_
+
+_Lions_ @ Steelers (Tie)  
+**_Vikings_** @ Chargers
+
+#### _Key Injuries_
+
+Pittsburgh will be without the heart and soul of their defense in T.J. Watt. Isiahh Loudermilk has been declared out as well, so front-line defensive resources are pretty strained going into Sunday night. On top of that, Joe Haden and Minkah Fitzpatrick have been ruled out as well, putting that secondary in real danger of coverage lapses and mental errors. Considering this unit will be tasked with limiting Justin Herbert, now's not the best time to be so banged up across the board.
+
+Chargers will finally get back some help in the secondary, although they **may** end up losing some key players along the front now to COVID. Their best pass rushers, Joey Bosa and Jerry Tillery, may be ruled out if any of their COVID tests over the weekend come up positive. Also, Linval Joseph is doubtful to play with ailments of his own, dealing a significant blow to a rushing defense that was pretty woeful already.
+
+#### _History_
+
+Neither of these two teams have faced each other recently. Neither has Pittsburgh faced off recently against a Saints-style offense, as far as I'm aware. So not much insight can be gleaned here from historical contests.
+
+The one thing for sure though is that Pittsburgh is going to be leaning heavily on Najee Harris to keep the ball motoring through this Charger defense. Los Angeles has yet to demonstrate they're capable of stonewalling opposing rushers. In fact, it's quite possible the Chargers may be the worst team in the league at defensing the run. And without Linval Joseph and possibly other linemen, that run defense should be expected to fall further down the abyss. 
