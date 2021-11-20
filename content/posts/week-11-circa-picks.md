@@ -309,4 +309,4 @@ the return of most of their receiving weapons can keep the offense decently prod
 Patrick Graham and the rest of the defensive coaches mount a game plan prioritizing Mike Evans and Rob Gronkowski in coverage.
 
  **Tampa Bay covers if**  
-Leonard Fournette and Mike Evans combined with the return of Rob Gronkowski finally takes their offense back to early-season form.
+Leonard Fournette and Mike Evans collaborating with a healthy Rob Gronkowski finally takes the Buc offense back to something resembling early-season form.
