@@ -35,7 +35,7 @@ No recent history between these two. The Lions have been playing atrocious  on b
 
 Cleveland has its own warts, but the franchise isn't in as much shit shape as Detroit's. If Cleveland is a car scuffed up with dents and running on a busted cylinder, Detroit is a car with its engine dropped out riding down the street.
 
-UPDATE: Now that Tim Boyle is playing, I'll be staying away from this game. It's uncertain what identity this offense assumes under Boyle. At least Goff was predictable with his idiotically short passing. If Boyle exhibits the recklessness of somebody like Taylor Heinecke in his first start, it could spark this Lion offense.
+UPDATE: Now that Tim Boyle is playing, I'll be staying away from this game. It's uncertain whether this offense assumes a new identity under Boyle. At least Goff was predictable with his idiotically short passing. If Boyle exhibits the recklessness of somebody like Taylor Heinecke in his first start, it could rejuvenate some life back into this Lion offense.
 
 #### _Weather_
 
@@ -53,7 +53,9 @@ after being embarrassed by the Patriots, the organization kicks it up a notch an
 their ground game finds renewed life against Detroit's slow defensive front.
 
 **Detroit covers if**  
-the Browns are caught slacking off from what should be an easy win for them. Even though the Lions have no
+the Browns are caught slacking off from what should be an easy win for them  
+\- OR -  
+Tim Boyle redefines this offense into something much more aggressive than what it was under Goff.
 
 ***
 
@@ -91,7 +93,7 @@ Packers -2.5
 ***
 
 **Green Bay covers if**  
-their defense continues exceeding its early season expectations and shuts down Dalvin Cook, forcing an easily spooked Kirk Cousins to carry this offense against Green Bay's venerable pass rush.
+their defense continues exceeding its early season form and shuts down Dalvin Cook, forcing an easily spooked Kirk Cousins to carry this offense against Green Bay's venerable pass rush.
 
 **Minnesota covers if**  
 Dalvin Cook is able to keep the offense churning, rushing for more than 4.5 yards per carry on average.
@@ -182,7 +184,7 @@ Sean Payton and Dennis Allen go out of their way to prevent Philadelphia from de
 the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving. Trevor Siemian has proven himself capable of moving the ball, so long as the focus is there.
 
 **Philadelphia covers if  
-**New Orleans is caught slacking  
+**New Orleans isn't fully invested in the game given the primetime game coming up on Thanksgiving on their home turf  
 \- OR -  
 the Saints fail to adjust for the exotic nature of the Eagles college-style offense, despite featuring one of the league's best defenses.
 
@@ -211,7 +213,7 @@ Chicago was dealt its worst game this season by Tampa Bay and its litany of blit
 
 #### _Weather_
 
-Cold, but humid
+Cold and windy
 
 ***
 
@@ -310,5 +312,48 @@ the return of most of their receiving weapons can keep the offense decently prod
 \- AND -  
 Patrick Graham and the rest of the defensive coaches mount a game plan prioritizing Mike Evans and Rob Gronkowski in coverage.
 
- **Tampa Bay covers if**  
+**Tampa Bay covers if**  
 Leonard Fournette and Mike Evans collaborating with a healthy Rob Gronkowski finally takes the Buc offense back to something resembling early-season form.
+
+***
+
+### 49ers @ Jaguars (+6.5)
+
+***
+
+#### _Latest Results_
+
+Rams @ **_49ers_** (MNF)  
+_Jaguars_ @ **Colts**
+
+#### _Key Injuries_
+
+San Francisco will have both of their headline runners in Elijah Mitchell and JaMycal Hasty sidelined, so the ground game is expected to lose much of its potency.
+
+Jacksonville may follow suit too with their own star tailback. But in a positive step, James Robinson managed to log a practice this Friday. JRob still managed to play after being banged up all of last week, so chances are fair he'll be able to join his brothers in action again this week.
+
+#### _History_
+
+No relevant history to explore here given that this is an inter-conference game. It's worth noting that Jacksonville's run defense has been pretty solid this season, going by yards per carry as well as Football Outsiders own proprietary metrics. A quick examination of all their games over the season tells me this defense only surrenders major yardage to elite rushers, so expect San Francisco to struggle without the services of their main running backs. Then again...Deebo Samuel manages to shine whenever he moonlights in the backfield...
+
+#### _Weather_
+
+A lovely day to play some football, although winds are expected to reach up to ten miles per hour
+
+***
+
+Jaguars +6.5
+
+***
+
+**Jacksonville covers if**  
+San Francisco doesn't take this game as seriously as it should  
+\- AND -  
+Jeff Wilson and Deebo Samuel are unable to compensate for the rushing production the 49ers would normally get from Mitchell and Hasty.
+
+**San Francisco covers if**  
+Jimmy Garoppalo can mount an air game against Jacksonville  
+\- AND -  
+their skill players aren't as sloppy as they were two weeks ago against the Cardinals. Nothing kills morale faster than constantly losing the ball at the end of promising drives  
+\- AND -  
+the players remain fully committed to their craft after winning a statement game against the Rams the past Monday. It'll be all the more difficult to maintain focus knowing Jacksonville's a bottom-feeder.
