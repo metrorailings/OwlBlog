@@ -203,13 +203,15 @@ Lamar Jackson's dealing with some strange illness this week. He hasn't practiced
 
 Despite the bye, Chicago hasn't improved much in terms of injuries. The defensive front seven is banged up across the board. On top of that, Allen Robinson is dealing with issues of his own.
 
+UPDATE: Khalil Mack is out for the season and Akiem Hicks won't be playing this week. It'll be up to Robert Quinn and Roquan Smith to carry the load in their absence.
+
 #### _History_
 
-Chicago was dealt its worst game this season by Tampa Bay and its litany of blitzes. The fact of the matter is that its pass protection is still not up to snuff. Even though Chicago's offensive line fares better at home than on the road, it's still inept. But the ace in the hole for Chicago here is their ground game, headlined by Justin Fields and Khalil Herbert. Baltimore's performance defensing against running plays has been middling as of lately. If Fields and Herbert can consistently matriculate the ball through an array of different rushes, it'll be troubling for Baltimore.
+Chicago was dealt its worst game this season by Tampa Bay and its litany of blitzes. The fact of the matter is that its pass protection is still not up to snuff. Even though Chicago's offensive line fares better at home than on the road, it's still inept. But the ace in the hole for Chicago here is their ground game, headlined by Justin Fields and Khalil Herbert. Baltimore's run defense has been rough as of lately. If Nagy and his coaches can leverage a litany of rushing concepts to keep the chains moving, Baltimore's in for a world of hurt. Then again, Nagy's team has historically been depressing coming out of their bye week.
 
 #### _Weather_
 
-Cold and quite possibly humid
+Cold, but humid
 
 ***
 
