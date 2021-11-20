@@ -179,7 +179,7 @@ Saints +1.5
 **New Orleans covers if**  
 Sean Payton and Dennis Allen go out of their way to prevent Philadelphia from developing any rhythm rushing the ball. A part of me is convinced Hurts' confidence level really impacts this offense - so long as Miles Sanders is out, Philadelphia's offense lives and dies by whatever mood Hurts is in  
 \- AND -  
-the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving.
+the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving. Trevor Siemian has proven himself capable of moving the ball, so long as the focus is there.
 
 **Philadelphia covers if  
 **New Orleans is caught slacking  
@@ -271,3 +271,42 @@ Mike Williams is kept under lock and key for much of the game
 Mike Williams gets back into form and converts on at least three passes thrown more than 20 yards past the line of scrimmage  
 \- AND -  
 Pittsburgh's offense sputters on more than half their drives.
+
+***
+
+### Giants @ Buccaneers (+11)
+
+***
+
+#### _Latest Results_
+
+Giants - BYE  
+Buccaneers @ **_Washington_**
+
+#### _Key Injuries_
+
+The bye week has served the Giants well. All their key players on offense are primed to return, except Sterling Shepard, as his quads are still preventing him from practicing. Furthermore, Andrew Thomas is finally returning to action as well, which should help the offensive line regain some of its footing. On defense, New York is still mostly healthy save for Logan Ryan, who's currently trapped in COVID protocol.
+
+For Tampa Bay, Antonio Brown is likely out yet again. Unfortunately for my Giants, Rob Gronkowski has been practicing in full, so Brady will have his favorite weapon back in primetime. Gronk combined with Mike Evans can make things messy for the Giants defense.
+
+#### _History_
+
+These two were pitted against one another last year on Monday. It's widely believed Tampa Bay wasn't fully committed to the game, looking ahead instead to their upcoming game with the Saints. Even still, the fact that the Giants were able to nearly pull out the win against the eventual Super Bowl champions is pretty impressive. Then again...the Buccaneers didn't really hit their stride until after the bye, so it's uncertain how much weight the game holds in light of this upcoming match.
+
+#### _Weather_
+
+Temperate, if not a little humid and windy
+
+***
+
+Giants +11
+
+***
+
+**New York covers if**  
+the return of most of their receiving weapons can keep the offense decently productive against an overly aggressive Tampa Bay defense  
+\- AND -  
+Patrick Graham and the rest of the defensive coaches mount a game plan prioritizing Mike Evans and Rob Gronkowski in coverage.
+
+ **Tampa Bay covers if**  
+Leonard Fournette and Mike Evans combined with the return of Rob Gronkowski finally takes their offense back to early-season form.
