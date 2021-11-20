@@ -336,7 +336,7 @@ Jacksonville may follow suit too with their own star tailback. But in a positive
 
 #### _History_
 
-No relevant history to explore here given that this is an inter-conference game. It's worth noting that Jacksonville's run defense has been pretty solid this season, going by yards per carry as well as Football Outsiders own proprietary metrics. A quick examination of all their games over the season tells me this defense only surrenders major yardage to elite rushers, so expect San Francisco to struggle without the services of their main running backs. Then again...Deebo Samuel manages to shine whenever he moonlights in the backfield...
+No relevant history to explore here given that this is an inter-conference game. It's worth noting Jacksonville's run defense has been pretty solid this season, going by both yards per carry and Football Outsiders own proprietary metrics. A quick examination of all their games over the season tells me this defense only surrenders major yardage to elite rushers, so expect San Francisco to struggle without the services of either of their primary running backs. Then again...Deebo Samuel manages to shine whenever he moonlights in the backfield...
 
 #### _Weather_
 
@@ -354,8 +354,8 @@ San Francisco doesn't take this game as seriously as it should
 Jeff Wilson and Deebo Samuel are unable to compensate for the rushing production the 49ers would normally get from Mitchell and Hasty.
 
 **San Francisco covers if**  
-Jimmy Garoppalo can mount an air game against Jacksonville  
+Jimmy Garoppalo can mount a serviceable air game against Jacksonville  
 \- AND -  
-their skill players aren't as sloppy as they were two weeks ago against the Cardinals. Nothing kills morale faster than constantly losing the ball at the end of promising drives  
+their skill players aren't as sloppy as they were two weeks ago against the Cardinals. Few things kill morale faster than constantly losing the ball at the end of promising drives  
 \- AND -  
 the players remain fully committed to their craft after winning a statement game against the Rams the past Monday. It'll be all the more difficult to maintain focus knowing Jacksonville's a bottom-feeder.
