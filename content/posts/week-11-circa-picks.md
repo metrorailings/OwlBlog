@@ -174,14 +174,16 @@ Decent weather considering it's November, though the field is expected to be wet
 
 ***
 
-Saints +1.5
+Undecided
 
 ***
 
 **New Orleans covers if**  
 Sean Payton and Dennis Allen go out of their way to prevent Philadelphia from developing any rhythm rushing the ball. A part of me is convinced Hurts' confidence level really impacts this offense - so long as Miles Sanders is out, Philadelphia's offense lives and dies by whatever mood Hurts is in  
 \- AND -  
-the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving. Trevor Siemian has proven himself capable of moving the ball, so long as the focus is there.
+the Saints don't overlook this game in preparation for their upcoming match against Buffalo on Thanksgiving. Trevor Siemian has proven himself capable of moving the ball, so long as the focus is there  
+\- AND -  
+the Saints can keep Siemien protected, despite losing both their starting tackles.
 
 **Philadelphia covers if  
 **New Orleans isn't fully invested in the game given the primetime game coming up on Thanksgiving on their home turf  
