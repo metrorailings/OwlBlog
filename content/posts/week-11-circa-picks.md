@@ -261,11 +261,13 @@ Undecided
 ***
 
 **Pittsburgh covers if**  
-Najee Harris can chew off more than four yards per rush  
+Najee Harris can chew off more than four yards per rush, keeping most drives alive and setting up the Steelers with quite a few scoring opportunities  
 \- AND -  
 their defense doesn't lose too much of its mojo being without so many key players  
 \- AND -  
 Mike Williams is kept under lock and key for much of the game
 
 **Los Angeles covers if**  
-Mike Williams gets back into form and converts on at least three passes thrown more than 20 yards past the line of scrimmage.
+Mike Williams gets back into form and converts on at least three passes thrown more than 20 yards past the line of scrimmage  
+\- AND -  
+Pittsburgh's offense sputters on more than half their drives.
