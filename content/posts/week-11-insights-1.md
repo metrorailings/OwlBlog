@@ -12,7 +12,13 @@ Green Bay coverage lapse led to a massive Justin Jefferson reception.
 
 Yet more poor coverage from the Packers. Kirk Cousins has been perfect so far in the first quarter.
 
-***
+Has Rodgers been slinging the ball too high when he throws out routes towards the sidelines?
+
+One thing that's clear is that Minnesota not blitzing has frustrated Rodgers. He can't find an open receiver against their coverage shells. Are they masking coverage?
+
+Kenny Clark is beasting as a pass rushing defensive tackle.
+
+Rodgers playing like a little bitch. Cover-two is frustrating the hell out of him, though I suspect they also have Davante Adams wrapped up in bracket coverage. Randall Cobb not doing anything either...I wonder if he's even playing?
 
 ## 49ers @ Jaguars
 
