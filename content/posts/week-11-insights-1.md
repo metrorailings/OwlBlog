@@ -44,6 +44,8 @@ Phil Snow and his love of the obvious 3-man pass rush is just pathetic. Question
 
 Christian McCaffrey is still the most important player on this offense, as charismatic as Cam may be.
 
+Carolina's offenseis pretty bad under Newton. I know Darnold has been nothing but a liability, but Cam Newton and his short passes aren't doing much for this offense, especially when negative game script rears its ugly head.
+
 ***
 
 What a shitty early afternoon. The weird thing is I did a decent job handicapping these games as being tough to predict this week. So many of the games I've examined were going to be decided by level of effort, injury concerns, or a few in-game decisions. Bears are only in contention as Lamar Jackson is out with a mystery illness. Rashan Gary being unexpectedly out for the Packers may have been the key difference in the match, as Kirk Cousins was able to perform just well enough to lead his team to victory. Detroit fight hard enough to cover the spread despite starting a quarterback who's never started before in the NFL. Tennessee showed up to their game with the Texans drunk on bath salts. Jets were competitive through the game, although Miami managed to pull away with the win late.
