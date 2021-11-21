@@ -22,6 +22,8 @@ Rodgers playing like a little bitch. Cover-two is frustrating the hell out of hi
 
 Perhaps Rodgers not practicing is what's hurting him here. No real confidence in any of his players.
 
+Justin Jefferson now running routes out of the backfield...interesting.
+
 ***
 
 ## 49ers @ Jaguars
