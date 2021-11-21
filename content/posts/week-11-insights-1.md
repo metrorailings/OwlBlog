@@ -63,3 +63,5 @@ Chiefs now committing to more short plays involving Tyreek Hill. Excellent adjus
 I need to assess the Dallas interview tapes last week. I don't think they cared much about the game. 
 
 Terence Steele back to being a liability at left tackle. Frank Clark gifted a sack fumble.
+
+Kellen Moore's offense is a real joy to watch sometimes. Dallas is fortunate to have two solid coordinators working for them.
