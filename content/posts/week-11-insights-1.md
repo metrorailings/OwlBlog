@@ -22,7 +22,9 @@ Rodgers playing like a little bitch. Cover-two is frustrating the hell out of hi
 
 Perhaps Rodgers not practicing is what's hurting him here. No real confidence in any of his players.
 
-Justin Jefferson now running routes out of the backfield...interesting.
+Justin Jefferson now running routes out of the backfield...interesting. It's paid off tremendously on one drive.
+
+Packers cannot hold up in man coverage against elite receivers.
 
 ***
 
@@ -31,3 +33,17 @@ Justin Jefferson now running routes out of the backfield...interesting.
 Deebo Samuel has been sensational so far as a tailback. Forget Jeff Wilson.
 
 Texans winning, Jets looking pretty good...yet the one bad team I decide to back is Jacksonville. I need to read these bad teams better.
+
+***
+
+## Washington @ Panthers
+
+Washington is playing very well. More rushing yardage than Carolina despite being their centers dropping like flies and Carolina probably running an offense prioritizing the rush.
+
+Phil Snow and his love of the obvious 3-man pass rush is just pathetic. Questions were abound as to whether Snow was turning the corner, despite Carolina's defense being much better this year. Those questions are completely legitimate.
+
+***
+
+What a shitty early afternoon. The weird thing is I did a decent job handicapping these games as being tough to predict this week. So many of the games I've examined were going to be decided by level of effort, injury concerns, or a few in-game decisions. Bears are only in contention as Lamar Jackson is out with a mystery illness. Rashan Gary being unexpectedly out for the Packers may have been the key difference in the match, as Kirk Cousins was able to perform just well enough to lead his team to victory. Detroit fight hard enough to cover the spread despite starting a quarterback who's never started before in the NFL. Tennessee showed up to their game with the Texans drunk on bath salts. Jets were competitive through the game, although Miami managed to pull away with the win late.
+
+Carolina and Jacksonville may have been indisputably bad decisions. And unsurprisingly, both decisions were made at the last moment as I struggled to find five games to play this week. Lesson learned - be careful putting games on my card that have been selected out of desperation. I knew Taylor Heinecke had that competitive spirit that could keep Washington's offense alive against Carolina's venerable defense. Objectively speaking, Heinecke is the better quarterback. Then again, so was Rodgers and look what happened there. I think lack of practice really hurt Rodgers this week, as Green Bay's offense was never able to develop a rhythm until the second half. Rodgers and Mac Jones are the type of passers that need practice to keep their relationships with their skill players sharp.
