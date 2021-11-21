@@ -20,7 +20,9 @@ Kenny Clark is beasting as a pass rushing defensive tackle.
 
 Rodgers playing like a little bitch. Cover-two is frustrating the hell out of him, though I suspect they also have Davante Adams wrapped up in bracket coverage. Randall Cobb not doing anything either...I wonder if he's even playing?
 
-Perhaps Rodgers not practicing is what's hurting him here. No real confidence.
+Perhaps Rodgers not practicing is what's hurting him here. No real confidence in any of his players.
+
+***
 
 ## 49ers @ Jaguars
 
