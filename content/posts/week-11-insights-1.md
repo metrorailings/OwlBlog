@@ -67,3 +67,7 @@ Terence Steele back to being a liability at left tackle. Frank Clark gifted a sa
 Kellen Moore's offense is a real joy to watch sometimes. Dallas is fortunate to have two solid coordinators working for them.
 
 Prescott targeting Gallup on multiple occasions fairly early in the game. Maybe missing Amari Cooper?
+
+Tyreek Hill easily the best receiver in the NFL. The amount of attention defenses pay attention to him is astounding.
+
+Tyrann Matthieu has had some notable plays in this game.
