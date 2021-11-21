@@ -77,3 +77,5 @@ Tyreek Hill easily the best receiver in the NFL. The amount of attention defense
 Tyrann Matthieu has had some notable plays in this game.
 
 Prescott with a terrible pick. Underthrown ball to CeeDee Lamb results in an interception.
+
+Travis Kelce has failed this offense on multiple passes. Not the easiest passes to catch, but Kelce is considered an elite tight end for a reason, no?
