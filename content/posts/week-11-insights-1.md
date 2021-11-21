@@ -59,3 +59,7 @@ Fuck this week.
 ## Cowboys @ Chiefs
 
 Chiefs now committing to more short plays involving Tyreek Hill. Excellent adjustment, albeit a bit overdue.
+
+I need to assess the Dallas interview tapes last week. I don't think they cared much about the game. 
+
+Terence Steele back to being a liability at left tackle. Frank Clark gifted a sack fumble.
