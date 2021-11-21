@@ -55,3 +55,7 @@ The problem with this week's slate of games is that too many of them were marred
 Fuck this week.
 
 ***
+
+## Cowboys @ Chiefs
+
+Chiefs now committing to more short plays involving Tyreek Hill. Excellent adjustment, albeit a bit overdue.
