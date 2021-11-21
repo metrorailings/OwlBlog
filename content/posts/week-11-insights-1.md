@@ -20,6 +20,10 @@ Kenny Clark is beasting as a pass rushing defensive tackle.
 
 Rodgers playing like a little bitch. Cover-two is frustrating the hell out of him, though I suspect they also have Davante Adams wrapped up in bracket coverage. Randall Cobb not doing anything either...I wonder if he's even playing?
 
+Perhaps Rodgers not practicing is what's hurting him here. No real confidence.
+
 ## 49ers @ Jaguars
 
 Deebo Samuel has been sensational so far as a tailback. Forget Jeff Wilson.
+
+Texans winning, Jets looking pretty good...yet the one bad team I decide to back is Jacksonville. I need to read these bad teams better.
