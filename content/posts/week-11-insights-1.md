@@ -75,3 +75,5 @@ Prescott targeting Gallup on multiple occasions fairly early in the game. Maybe 
 Tyreek Hill easily the best receiver in the NFL. The amount of attention defenses pay attention to him is astounding.
 
 Tyrann Matthieu has had some notable plays in this game.
+
+Prescott with a terrible pick. Underthrown ball to CeeDee Lamb results in an interception.
