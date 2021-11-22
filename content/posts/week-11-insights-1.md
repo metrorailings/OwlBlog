@@ -34,6 +34,8 @@ Deebo Samuel has been sensational so far as a tailback. Forget Jeff Wilson.
 
 Texans winning, Jets looking pretty good...yet the one bad team I decide to back is Jacksonville. I need to read these bad teams better.
 
+Jaguars are actually hitting home on some blitzes. On top of that, their run defense has been mostly effective. What's killed them )at least on the first drive) has been their secondary.
+
 ***
 
 ## Washington @ Panthers
