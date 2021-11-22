@@ -48,6 +48,8 @@ Carolina's offense is pretty bad under Newton. I know Darnold has been nothing b
 
 JD McKissic turning into a real force now that Washington's offensive line has gelled somewhat.
 
+Carolina has serious coverage issues along the middle. And their critical down defense is just...questionable - Washington had the easiest time converting a fourth down at a crucial moment in the game.
+
 ***
 
 What a shitty early afternoon. The weird thing is I did a decent job handicapping these games as being tough to predict this week. So many of the games I've examined were going to be decided by level of effort, injury concerns, or a few in-game decisions. Bears are only in contention as Lamar Jackson is out with a mystery illness. Rashan Gary being unexpectedly out for the Packers may have been the key difference in the match, as Kirk Cousins was able to perform just well enough to lead his team to victory. Detroit fight hard enough to cover the spread despite starting a quarterback who's never started before in the NFL. Tennessee showed up to their game with the Texans drunk on bath salts. Jets were competitive through the game, although Miami managed to pull away with the win late.
