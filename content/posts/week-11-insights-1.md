@@ -36,6 +36,8 @@ Texans winning, Jets looking pretty good...yet the one bad team I decide to back
 
 Jaguars are actually hitting home on some blitzes. On top of that, their run defense has been mostly effective. What's killed them )at least on the first drive) has been their secondary.
 
+Once again, their secondary makes critical mistakes, commit sloppy penalties, and fail to stop routes that they should win by merit of coverage shell.
+
 ***
 
 ## Washington @ Panthers
