@@ -79,3 +79,11 @@ Tyrann Matthieu has had some notable plays in this game.
 Prescott with a terrible pick. Underthrown ball to CeeDee Lamb results in an interception.
 
 Travis Kelce has failed this offense on multiple passes. Not the easiest passes to catch, but Kelce is considered an elite tight end for a reason, no?
+
+***
+
+## Steelers @ Chargers
+
+Without so many key starters, the Steelers defense is virtually handcuffed. Two deep safety looks are one of the few coverages they're running this game. Chargers have little issue working around them though. Herbert in particular has been exploiting this by running the ball himself.
+
+Steelers have been money as usual on short crossing routes. Now if they run into a team with really good coverage linebackers....
