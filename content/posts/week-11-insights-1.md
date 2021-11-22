@@ -44,7 +44,9 @@ Phil Snow and his love of the obvious 3-man pass rush is just pathetic. Question
 
 Christian McCaffrey is still the most important player on this offense, as charismatic as Cam may be.
 
-Carolina's offenseis pretty bad under Newton. I know Darnold has been nothing but a liability, but Cam Newton and his short passes aren't doing much for this offense, especially when negative game script rears its ugly head.
+Carolina's offense is pretty bad under Newton. I know Darnold has been nothing but a liability, but Cam Newton and his short passes aren't doing much for this offense, especially when negative game script rears its ugly head.
+
+JD McKissic turning into a real force now that Washington's offensive line has gelled somewhat.
 
 ***
 
