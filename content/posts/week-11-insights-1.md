@@ -38,6 +38,8 @@ Jaguars are actually hitting home on some blitzes. On top of that, their run def
 
 Once again, their secondary makes critical mistakes, commit sloppy penalties, and fail to stop routes that they should win by merit of coverage shell.
 
+Trevor Laurence might trust his feet a bit too much. That and he needs to work on his timing with his receivers.
+
 ***
 
 ## Washington @ Panthers
