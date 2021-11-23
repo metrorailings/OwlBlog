@@ -92,3 +92,5 @@ Steelers have been money as usual on short crossing routes. Now if they run into
 Bengals finally made hay on a touchdown drive by throwing the ball to Tyler Boyd on slot routes. Boyd was usually matched up with linebackers or safeties when he ran those routes.
 
 Raiders doing a pretty good job at rushing the passer, but kudos to Burrow for hanging tough and fighting regularly.
+
+Cincinnati seems more committed to quick developing plays and short throws. Good way to counter the fact that their offensive line can't block air.
