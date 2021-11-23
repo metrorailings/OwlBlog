@@ -84,3 +84,11 @@ Travis Kelce has failed this offense on multiple passes. Not the easiest passes 
 Without so many key starters, the Steelers defense is virtually handcuffed. Two deep safety looks are one of the few coverages they're running this game. Chargers have little issue working around them though. Herbert in particular has been exploiting this by running the ball himself.
 
 Steelers have been money as usual on short crossing routes. Now if they run into a team with really good coverage linebackers....
+
+***
+
+## Bengals @ Raiders
+
+Bengals finally made hay on a touchdown drive by throwing the ball to Tyler Boyd on slot routes. Boyd was usually matched up with linebackers or safeties when he ran those routes.
+
+Raiders doing a pretty good job at rushing the passer, but kudos to Burrow for hanging tough and fighting regularly.
