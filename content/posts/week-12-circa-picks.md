@@ -12,7 +12,7 @@ The Eagles dominated the Saints, mostly because Philadelphia preyed on Trevor Si
 
 The problem with this week's slate of games is that too many of them were marred by uncertainty. Is Lamar going to play? Will Kirk Cousins help the Vikings jump out to an early lead while Aaron Rodgers takes his time settling into a groove? Will New Orleans give Siemien enough time in the pocket to make his throws despite losing two critical book-end pieces on their offensive line? Will Tennessee even board the team bus today? Will San Francisco take it easy against a much-lesser opponent? Will Detroit's offense do just enough to give the Browns a run for their money?
 
-Perhaps the best lesson I can take away is that level of effort is a very real consideration. 
+Perhaps the best lesson I can take away is that level of effort is a very real consideration. How one can predict whether a team shows up fully invested in the game remains horribly hazy. I do have a working theory though, built on a simple premise - teams who perceive their next opponent to be a pushover will not commit wholly to their next game. This perception can be discerned for any given game by examining the magnitude of the spread as well as comparing the outcomes of the last games the two teams were engaged in prior.    
 
 ***
 
