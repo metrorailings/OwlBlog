@@ -63,9 +63,11 @@ Miami's coverage people can haggle some turnovers from Cam.
 
 #### _Latest Results_
 
-BYE - Falcons @ **_Cowboys_**  
+**_Patriots_** @ Falcons  
 **_49ers_** @ Jaguars
 
 #### _Key Injuries_
+
+Falcons are hoping to welcome Hayden Hurst back into the fold after a disastrous showing last week against New England.
 
 Jaguars took their faire share of blows last week, but the biggest blow may be to cornerback Shaquill Griffin, who was lost to concussion during the loss to the 49ers. Without Shaquill Griffin, the Jaguars will need to consult more depth players to man a secondary already rated as one of the league's absolute worst.
