@@ -94,3 +94,7 @@ Bengals finally made hay on a touchdown drive by throwing the ball to Tyler Boyd
 Raiders doing a pretty good job at rushing the passer, but kudos to Burrow for hanging tough and fighting regularly.
 
 Cincinnati seems more committed to quick developing plays and short throws. Good way to counter the fact that their offensive line can't block air.
+
+Las Vegas needs a successor to Henry Ruggs. Zay Jones isn't that successor.
+
+Cincinnati has been money with its outside rushing. Either that or Las Vegas is just awful containing those types of runs.  
