@@ -36,3 +36,36 @@ The Panthers starting left tackle went down with injury during their outing agai
 No real relevant histroy to explore here, given both teams belong to different conferences. A few weeks back, Miami managed to play well against a Raven team that (much like the Cam Newton-led Panthers) generates more of its success transiting the ball over ground instead of through the air, but that game was likely tainted by a lack of effort on the Baltimore's part - Baltimore had way too many excuses not to fully commit to that game - heavy favorites playing on a Thursday after surviving an overtime contest against Minnesota.
 
 #### _Weather_
+
+Beautiful day for some football
+
+***
+
+Panthers -1.5
+
+***
+
+**Carolina covers if**  
+their defensive front completely dominates Miami's overmatched offensive line. If Tua's constantly beset by pressure, mistakes are all but assured  
+\- AND -  
+Miami doesn't do enough on their end to keep Christian McCaffrey and Cam Newton from popping off through read-action plays.
+
+**Miami covers if  
+**Tua and company can string together multiple scoring drives through short passes  
+\- AND -  
+Miami's coverage people can haggle some turnovers from Cam.
+
+***
+
+### Falcons @ Jaguars (+1)
+
+***
+
+#### _Latest Results_
+
+BYE - Falcons @ **_Cowboys_**  
+**_49ers_** @ Jaguars
+
+#### _Key Injuries_
+
+Jaguars took their faire share of blows last week, but the biggest blow may be to cornerback Shaquill Griffin, who was lost to concussion during the loss to the 49ers. Without Shaquill Griffin, the Jaguars will need to consult more depth players to man a secondary already rated as one of the league's absolute worst.
