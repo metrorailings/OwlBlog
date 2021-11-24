@@ -97,4 +97,10 @@ Cincinnati seems more committed to quick developing plays and short throws. Good
 
 Las Vegas needs a successor to Henry Ruggs. Zay Jones isn't that successor.
 
-Cincinnati has been money with its outside rushing. Either that or Las Vegas is just awful containing those types of runs.  
+Cincinnati has been money with its outside rushing. Either that or Las Vegas is just awful containing those types of runs.
+
+***
+
+## Cardinals @ Seahawks
+
+Suckchickens starting out strong, with a hard-earned touchdown drive. Only thing hampering them is that Arizona is getting pressure whenever Wilson is holding on to the ball and still operating from within the pocket.
