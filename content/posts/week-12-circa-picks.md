@@ -30,3 +30,9 @@ Perhaps the best lesson I can take away is that level of effort is a very real c
 Dolphins aren't missing anybody critical from last week, though the injury report will tell us more.
 
 The Panthers starting left tackle went down with injury during their outing against Washington last week. A rookie was placed there in relief duty and performed well enough, though it remains to be seen whether he can sustain that level of play over multiple weeks.
+
+#### _History_
+
+No real relevant histroy to explore here, given both teams belong to different conferences. A few weeks back, Miami managed to play well against a Raven team that (much like the Cam Newton-led Panthers) generates more of its success transiting the ball over ground instead of through the air, but that game was likely tainted by a lack of effort on the Baltimore's part - Baltimore had way too many excuses not to fully commit to that game - heavy favorites playing on a Thursday after surviving an overtime contest against Minnesota.
+
+#### _Weather_
