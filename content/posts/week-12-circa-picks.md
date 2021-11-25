@@ -90,4 +90,4 @@ Falcons -1
 they're fully committed to playing in top form against a team many people see as a lesser opponent. It won't be easy maintaining focus given it's a road game as well.
 
 **Jacksonville covers if**  
-the Falcons are caught slacking off.
+the Falcons are caught slacking off, giving these Jaguars more than enough opportunity to post points on the board.
