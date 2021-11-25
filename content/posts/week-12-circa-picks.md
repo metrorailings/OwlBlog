@@ -50,8 +50,8 @@ their defensive front completely dominates Miami's overmatched offensive line. I
 \- AND -  
 Miami doesn't do enough on their end to keep Christian McCaffrey and Cam Newton from popping off through read-action plays.
 
-\**Miami covers if  
-\**Tua and company can string together multiple scoring drives through short passes  
+**Miami covers if**  
+Tua and company can string together multiple scoring drives through short passes  
 \- AND -  
 Miami's coverage people can haggle some turnovers from Cam.
 
@@ -70,4 +70,12 @@ Miami's coverage people can haggle some turnovers from Cam.
 
 Falcons are hoping to welcome Hayden Hurst back into the fold after a disastrous showing last week against New England.
 
-Jaguars took their faire share of blows last week, but the biggest blow may be to cornerback Shaquill Griffin, who was lost to concussion during the loss to the 49ers. Without Shaquill Griffin, the Jaguars will need to consult more depth players to man a secondary already rated as one of the league's absolute worst.
+Jaguars took their fair share of blows last week, but the biggest blow may be to cornerback Shaquill Griffin, who was lost to concussion during the loss to the 49ers. Without Shaquill, the Jaguars will need to consult more depth players to man a secondary already rated as one of the league's absolute worst.
+
+#### _History_
+
+Not much relevant history to explore here, but it's worth stating that both teams rank among the bottom-feeders of the league.
+
+#### _Weather_
+
+Temperate with lower-than-expected humidity
