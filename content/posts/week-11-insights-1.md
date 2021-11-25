@@ -110,3 +110,5 @@ Colt McCoy has been fantastic. Let this be devastating testament to Jason Garret
 Russell Wilson is very off. He's throwing the ball far earlier than he normally does. On top of that, his decisions haven't been great - they haven't been atrocious, but the football intelligence is seriously wanting.
 
 Arizona is a team with some moxie and morale.
+
+Using Zach Ertz as a fullback is brilliant, especially as a way to set him loose on routes coming out of the backfield.
