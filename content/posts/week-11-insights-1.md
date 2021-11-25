@@ -103,4 +103,6 @@ Cincinnati has been money with its outside rushing. Either that or Las Vegas is 
 
 ## Cardinals @ Seahawks
 
-Suckchickens starting out strong, with a hard-earned touchdown drive. Only thing hampering them is that Arizona is getting pressure whenever Wilson is holding on to the ball and still operating from within the pocket.
+Arizona's rushing defense is just poor, even in heavy box situations. Good to see Seattle be able to matriculate the ball downfield using Alex Collins as their lead runner though.
+
+Colt McCoy has been fantastic. Let this be devastating testament to Jason Garrett's sheer incompetence as an offensive coach - McCoy last year was downright terrible when he had to fill in as starting quarterback last year for the Giants against these same Seahawks. Paired with a capable coach and all of a sudden, he's shown himself able to operate at the professional level. 
