@@ -106,3 +106,7 @@ Cincinnati has been money with its outside rushing. Either that or Las Vegas is 
 Arizona's rushing defense is just poor, even in heavy box situations. Good to see Seattle be able to matriculate the ball downfield using Alex Collins as their lead runner though.
 
 Colt McCoy has been fantastic. Let this be devastating testament to Jason Garrett's sheer incompetence as an offensive coach - McCoy last year was downright terrible when he had to fill in as starting quarterback last year for the Giants against these same Seahawks. Paired with a capable coach and all of a sudden, he's shown himself able to operate at the professional level. 
+
+Russell Wilson is very off. He's throwing the ball far earlier than he normally does. On top of that, his decisions haven't been great - they haven't been atrocious, but the football intelligence is seriously wanting.
+
+Arizona is a team with some moxie and morale.
