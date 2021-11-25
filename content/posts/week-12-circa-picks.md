@@ -85,3 +85,6 @@ Temperate with lower-than-expected humidity
 Falcons -1
 
 ***
+
+**Atlanta covers if**  
+they're fully committed to playing at top form against a team many people see as a lesser opponent.
