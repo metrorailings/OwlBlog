@@ -53,7 +53,7 @@ Miami doesn't do enough on their end to keep Christian McCaffrey and Cam Newton 
 **Miami covers if**  
 Tua and company can string together multiple scoring drives through short passes  
 \- AND -  
-Miami's coverage people can haggle some turnovers from Cam.
+Miami's coverage people can haggle some turnovers from Cam, with some assistance from blitzes.
 
 ***
 
@@ -79,3 +79,9 @@ Not much relevant history to explore here, but it's worth stating that both team
 #### _Weather_
 
 Temperate with lower-than-expected humidity
+
+***
+
+Falcons -1
+
+***
