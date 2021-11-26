@@ -121,7 +121,7 @@ Cold, but not much rain or wind expected
 
 ***
 
-Patriots -6.5
+Uncertain
 
 ***
 
@@ -129,4 +129,4 @@ Patriots -6.5
 the Titans are simply unable to overcome all their deficiencies on offense.
 
 **Tennessee covers if**  
-the coaches manage to work around all the injuries robbing them of their key weapons on offense.
+the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of this offense.
