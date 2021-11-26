@@ -191,9 +191,11 @@ Colts are mostly healthy - Quenton Nelson aggravated an ankle injury last Sunday
 
 #### _History_
 
-No recent history between the two given this is an inter-conference match-up. It's been years since Frank Reich tangled wits with the likes of Bruce Arians and Tom Brady.
+No recent history between the two given this is an inter-conference match-up. It's been years since Frank Reich tangled wits with the likes of Bruce Arians and Tom Brady. Though we do have a couple things worth noting here.
 
-One thing worth noting - the Colts owe their success over the past few weeks to the efficacy of their rushing attack, headlined by potential MVP Jonathan Taylor. Carson Wentz has contributed little value on top of the ground game, so it's virtually certain their ability to win hinges on whether they're able to churn the rock over ground.
+First, the Colts owe their success over the past few weeks to the efficacy of their rushing attack, headlined by potential MVP Jonathan Taylor. Carson Wentz has contributed little value on top of the ground game, so it's virtually certain their ability to win hinges on whether they're able to churn the rock over ground.
+
+Second, the Buccaneers have been uncannily underwhelming on the road this season. It's possible road games just haven't been kind to them this year as a matter of circumstance, but they've yet to cover so far outside of Raymond James stadium.
 
 #### _Weather_
 
@@ -201,4 +203,14 @@ Dome game
 
 ***
 
-Buccaneers 
+Buccaneers -3
+
+***
+
+**Tampa Bay covers if**  
+Todd Bowles structures his defense to sell out and stop Jonathan Taylor and company. If the Colts are to win the game, it would have to be on the shoulders of Carson Wentz. And he's yet to demonstrate this season he can carry such a burden.
+
+**Indianapolis covers if**  
+their ground game consistently produces over all four quarters, helping them dominate time of possession  
+\- OR -  
+Tampa Bay's road curse dooms them here. It's silly to think the team is cursed, but until they finally manage to cover a spread on the road, it's a legitimate worry to keep in mind.
