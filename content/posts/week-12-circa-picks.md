@@ -214,3 +214,16 @@ Todd Bowles structures his defense to sell out and stop Jonathan Taylor and comp
 their ground game consistently produces over all four quarters, helping them dominate time of possession  
 \- OR -  
 Tampa Bay's road curse dooms them here. It's silly to think the team is cursed, but until they finally manage to cover a spread on the road, it's a legitimate worry to keep in mind.
+
+***
+
+### Steelers @ Bengals (-4.5)
+
+***
+
+#### _Latest Results_
+
+_Steelers_ @ **Chargers** (SNF)  
+**_Bengals_** @ Raiders
+
+#### _Key Injuries_
