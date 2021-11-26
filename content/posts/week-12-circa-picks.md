@@ -152,4 +152,24 @@ Both Sterling Shepard and Kadarius Toney are names to watch on the Giants injury
 
 #### _History_
 
-Last time these two met, the Giants won decisively despite being 5-point underdogs. In all fairness though, that game took place with Carson Wentz and Doug Pederson directing the Eagle offense. Hurts and Sirianni has transformed this offense into something dramatically different  Passes now only serve to complement a ground game centered around Hurts executing read-option plays.
+Last time these two met, the Giants won decisively despite being 5-point underdogs. In all fairness though, that game took place with Carson Wentz and Doug Pederson directing the Eagle offense. Hurts and Sirianni has transformed that unit into something dramatically different  Passes now only serve to complement a ground game centered around Hurts executing read-option plays. Can the Giants effectively defense that style of offense? Not too sure - their run defense has produced mixed results.
+
+#### _Weather_
+
+Chilly with a slight chance of precipitation
+
+***
+
+Giants +3.5
+
+***
+
+**New York covers if**  
+At least one of Toney or Sterling Shepard are active and able to contribute  
+\- AND -  
+the sudden firing of Jason Garrett sparks some much-needed life back into this offense.
+
+**Philadelphia covers if**  
+the offense can run its ground game without any abatement whatsoever from the Giant defense.
+
+***
