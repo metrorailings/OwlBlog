@@ -234,7 +234,7 @@ Bengals are refreshingly healthy for once.
 
 #### _History_
 
-The Bengals were able to pull an upset over Pittsburgh earlier in the year on Heinz Field, mostly thanks to the efforts of Joe Mixon and their offensive line. It was a milestone victory too, a win against a Steeler defense many still saw as being one of the best in the league. 
+The Bengals were able to pull an upset over Pittsburgh earlier in the year on Heinz Field, mostly thanks to the efforts of Joe Mixon and their offensive line. It was a milestone victory too, a win against a Steeler defense many still saw as being one of the best in the league.
 
 Cincinnati has since improved slightly, better incorporating Tyler Boyd and JaMarr Chase into the fold of their offense. Pittsburgh seems to have improved marginally as well, although injuries will likely prevent them from demonstrating any of that improvement this week.
 
@@ -269,7 +269,7 @@ Packers @ **_Vikings_**
 
 #### _Key Injuries_
 
-Packers will miss fill-in left tackle Elgton Jenkins for the rest of the year, as he went down last week with a torn ACL. Rashan Gary was a surprise inactive last week, despite his presence in all practice sessions last week. So his status this week is anything but guaranteed, especially if the team keeps insisting that he attended practices in "limited capacity." Aaron Jones remains only a possibility to return at this point - he's been practicing, but his health is still being monitored and Matt LaFleur refuses to state anything reassuring about his game time availability. Perhaps most troubling for Green Bay is that Aaron Rodgers is allegedly dealing with a fractured toe. It's not going to sideline him, but I do expect the fracture to limit him in some respect. 
+Packers will miss fill-in left tackle Elgton Jenkins for the rest of the year, as he went down last week with a torn ACL. Rashan Gary was a surprise inactive last week, despite his presence in all practice sessions last week. So his status this week is anything but guaranteed, especially if the team keeps insisting that he attended practices in "limited capacity." Aaron Jones remains only a possibility to return at this point - he's been practicing, but his health is still being monitored and Matt LaFleur refuses to state anything reassuring about his game time availability. Perhaps most troubling for Green Bay is that Aaron Rodgers is allegedly dealing with a fractured toe. It's not going to sideline him, but I do expect the fracture to limit him in some respect.
 
 The Rams are only worried about Leonard Floyd, who's apparently returning from a vicious concussion. McVay expects him to play this Sunday, but as we've seen before with Rashan Gary, injuries can linger and fester.
 
@@ -296,3 +296,26 @@ their offense finally rounds into form after two humiliating losses and a bye we
 Aaron Jones, Rashan Gary, and Aaron Rodgers all play in top form  
 \- OR -  
 the offense once again strikes gold pounding the ball along turf, this time with AJ Dillon as the bell-cow at tailback.
+
+***
+
+### Browns @ Ravens (-3.5)
+
+***
+
+#### _Latest Results_
+
+_Lions_ @ **Browns  
+Ravens** @ _Bears_
+
+#### _Key Injuries_
+
+For the Browns, their biggest issue still remains Baker Mayfield. It's bad enough he's not the sharpest tool in the box, but injuries only make him play worse. In positive news though, almost every other key player is expected to play, including Kareem Hunt and Jack Conklin.
+
+The Ravens secondary is horribly banged up, but most of its players are expected to play in some capacity. Lamar Jackson is probable though.
+
+#### _History_
+
+Last year, the Ravens housed the Browns twice. In fact, it was the second game against in Cleveland where Baltimore rediscovered their groove. Joe Woods can't help but cough up points against this Raven offense, despite the fact that his defense should be intimately familiar with Lamar Jackson and all his tricks.
+
+Things are expected to be a bit worse this year for Cleveland, as Don Martindale now had a whole year to study Stefanski's style of offense.
