@@ -322,4 +322,37 @@ Things are expected to be a bit worse this year for Cleveland, as Don Martindale
 
 #### _Weather_
 
-Cold, with some winds blowing about upwards of 15 miles per hour
+Cold, with some winds blowing about at roughly 10 miles an hour
+
+***
+
+Ravens -3.5
+
+***
+
+**Baltimore covers if**  
+Joe Woods can do nothing but shrug his shoulders as his defense is once again steamrolled by Baltimore, as is tradition  
+\- OR -  
+Baker Mayfield's injuries hinder him hard again.
+
+**Cleveland covers if  
+**Nick Chubb and Kareem Hunt take over and keep the Ravens offense on the sidelines. Cleveland should target to keep the ball for over 38 minutes.
+
+***
+
+### Seahawks @ Washington (-1)
+
+***
+
+#### _Latest Results_
+
+**_Cardinals_** @ Seahawks  
+**_Washington_** @ Panthers
+
+#### _Key Injuries_
+
+No serious injury concerns for the Seahawks. D.K. Metcalf was listed as a non-participant on Thursday's practice report, but nothing credible is out there indicating he may be sidelined.
+
+Likewise, Washington doesn't have any serious injuries holding any of their players back. Though both rosters have personnel dealing with various afflictions, Monday night should see two teams playing one another at nearly full strength.
+
+#### _History_
