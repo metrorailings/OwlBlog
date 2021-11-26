@@ -104,3 +104,9 @@ the Falcons are caught slacking off, giving these Jaguars more than enough oppor
 **_Patriots_** @ Falcons (TNF)
 
 #### _Key Injuries_
+
+A.J. Brown may be unavailable due to a chest injury Sunday. If so, it would leave the Titans bereft of any real talented skill players on their offense. They'll once again rely on somewhat untested prospects like Nick Westbrook-Ikhine to carry the load on offense.
+
+New England's mostly healthy, albeit a little banged up.
+
+#### _History_
