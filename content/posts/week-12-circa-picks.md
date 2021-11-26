@@ -113,4 +113,20 @@ New England's mostly healthy, albeit a little banged up.
 
 The Titans and Patriots were contending against one another in the wild-card round of the postseason two years ago. Tennessee was able to triumph thanks to a ground game headlined by Derrick Henry as well as the Patriot offense stalling on way too many drives.
 
-The biggest change this year comes with New England featuring a rookie quarterback joined by an assortment of weapons at his disposal. Stalling is very unlikely to be a defining theme for the Patriots this week. 
+The biggest change this year comes with New England featuring a rookie quarterback joined by an assortment of weapons at his disposal. Stalling is very unlikely to be a defining theme for the Patriots this week.
+
+#### _Weather_
+
+Cold, but not much rain or wind expected
+
+***
+
+Patriots -6.5
+
+***
+
+**New England covers if**  
+the Titans are simply unable to overcome all their deficiencies on offense.
+
+**Tennessee covers if**  
+the coaches manage to work around all the injuries robbing them of their key weapons on offense.
