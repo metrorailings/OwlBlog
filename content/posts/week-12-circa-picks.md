@@ -255,3 +255,44 @@ Joe Burrow continues playing at a higher level than Ben Roethlisberger.
 
 **Pittsburgh covers if**  
 their defensive front can besiege Joe Burrow on a regular basis, forcing him to commit ugly mistakes. Rattling Burrow consistently is the only way the Steelers can level the playing field at quarterback.
+
+***
+
+### Rams @ Packers (PK)
+
+***
+
+#### _Latest Results_
+
+Rams @ **_49ers_** (MNF) \[Bye\]  
+Packers @ **_Vikings_**
+
+#### _Key Injuries_
+
+Packers will miss fill-in left tackle Elgton Jenkins for the rest of the year, as he went down last week with a torn ACL. Rashan Gary was a surprise inactive last week, despite his presence in all practice sessions last week. So his status this week is anything but guaranteed, especially if the team keeps insisting that he attended practices in "limited capacity." Aaron Jones remains only a possibility to return at this point - he's been practicing, but his health is still being monitored and Matt LaFleur refuses to state anything reassuring about his game time availability. Perhaps most troubling for Green Bay is that Aaron Rodgers is allegedly dealing with a fractured toe. It's not going to sideline him, but I do expect the fracture to limit him in some respect. 
+
+The Rams are only worried about Leonard Floyd, who's apparently returning from a vicious concussion. McVay expects him to play this Sunday, but as we've seen before with Rashan Gary, injuries can linger and fester.
+
+#### _History_
+
+Both these teams faced one another last year in the postseason - Green Bay won decisively by riding behind Aaron Jones and Jamaal Williams as the two of them slashed their way through the Ram defense. Even though Los Angeles was ranked as one of the better teams last year defensing the run, the reality was that it was only a matter of time before an opponent would finally exploit their lightly-manned boxes. Green Bay was that opponent, ripping through their six-man boxes through some well-blocked zone rushes.
+
+This year, it can be argued the Rams have improved, at least in terms of offensive personnel. Likewise, people have made similar arguments for the Packers and their defensive coaching. Let this game be a good barometer as to whether any of those two assertions bear merit.
+
+#### _Weather_
+
+Few degrees above freezing
+
+***
+
+Undecided
+
+***
+
+**Los Angeles covers if**  
+their offense finally rounds into form after two humiliating losses and a bye week. Stafford has the raw ability to elevate this offense past its ceiling from last year, but he needs to be more comfortable operating from within the structure of the offense. On top of that, Odell Beckham needs to be made a critical part of this offense, now that Robert Woods will no longer be the team's primary receiving threat on the outside.
+
+**Green Bay covers if**  
+Aaron Jones, Rashan Gary, and Aaron Rodgers all play in top form  
+\- OR -  
+the offense once again strikes gold pounding the ball along turf, this time with AJ Dillon as the bell-cow at tailback.
