@@ -110,3 +110,7 @@ A.J. Brown may be unavailable due to a chest injury Sunday. If so, it would leav
 New England's mostly healthy, albeit a little banged up.
 
 #### _History_
+
+The Titans and Patriots were contending against one another in the wild-card round of the postseason two years ago. Tennessee was able to triumph thanks to a ground game headlined by Derrick Henry as well as the Patriot offense stalling on way too many drives.
+
+The biggest change this year comes with New England featuring a rookie quarterback joined by an assortment of weapons at his disposal. Stalling is very unlikely to be a defining theme for the Patriots this week. 
