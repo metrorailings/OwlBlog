@@ -359,4 +359,20 @@ Likewise, Washington doesn't have any serious injuries holding any of their play
 
 Both of these teams met last year at FedEx Field. The Seahawks managed to edge out Washington, though they failed to cover the spread. Though then again, it's hard to blame them for not covering when they were facing the man, the myth, the legend himself....Dwayne Haskins. Yeah.....Dwayne Haskins.
 
-While I plan on rewatching this game later, it's pretty damning the Seahawks could only muster a 5-point win against a Washington offense led by a complete scrub. I know their defense was playing at solid last year, but one can make the same argument for the defense this year, given their performances the last couple weeks against Tampa Bay and Carolina. 
+While I plan on rewatching this game later, it's pretty damning the Seahawks could only muster a 5-point win against a Washington offense led by a complete scrub. I know their defense was playing at a heightened level last year, but one can say the same for the defense this year, given their performances the last few weeks against Tampa Bay and Carolina.
+
+#### _Weather_
+
+Typical November weather, cold but not too cold
+
+***
+
+Washington -1
+
+***
+
+**Washington covers if**  
+jazzed up by the spotlights and the eyes of the nation, Taylor Heinecke outplays Russell Wilson on a yards-per-pass basis.
+
+**Seattle covers if**  
+Russell actually lives up to his mantra and finally starts cooking, outperforming his counterpart on Washington on a yards-per-pass basis. 
