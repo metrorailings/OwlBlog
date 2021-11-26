@@ -131,7 +131,7 @@ the Titans are simply unable to overcome all their deficiencies on offense.
 **Tennessee covers if**  
 the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of this offense  
 \- OR -  
-the Patriots aren't fully committed to the game, given the Titans are seen as inferior given their injury concerns as well as the embarrassing loss they suffered last week against the ugliest team in the league in the Houston Texans.
+the Patriots aren't fully committed to the game, given the Titans are seen as inferior given their injury cases as well as the embarrassing loss they suffered last week against the ugliest team in the league in the Houston Texans.
 
 ***
 
@@ -145,3 +145,11 @@ Saints @ **_Eagles_**
 Giants @ **_Buccaneers_** (MNF)
 
 #### _Key Injuries_
+
+For the Eagles, Darius Slay is expected out with a concussion. Without him, Philadelphia loses its most dynamic playmaker on defense.
+
+Both Sterling Shepard and Kadarius Toney are names to watch on the Giants injury report going forward. Toney is especially considering his name was freshly added this week. He's been dealing with a whole bunch of issues this year, so his presence is anything but definite this Sunday.
+
+#### _History_
+
+Last time these two met, the Giants won decisively despite being 5-point underdogs. In all fairness though, that game took place with Carson Wentz and Doug Pederson directing the Eagle offense. Hurts and Sirianni has transformed this offense into something dramatically different  Passes now only serve to complement a ground game centered around Hurts executing read-option plays.
