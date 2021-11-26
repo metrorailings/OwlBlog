@@ -10,4 +10,12 @@ Anthony Brown with two critical pass interference penalties on 3rd down on a sin
 
 Dak is not having a good game. Not in the least. His passes have been off-the-mark and a bit wild. His receivers not being on the same page don't help either, but that's something that should have been rectified during practice.
 
-Ezekiel Elliott is injured. Lovely. There goes my over-bet on him.
+Ezekiel Elliott is injured. Lovely. There goes my over bet on him.
+
+Inopportune penalties combined with poor tackling - the Cowboys weren't motivated to play hard this week, not against a Raiders team ranked as one-score underdogs.
+
+***
+
+## Bills @ Saints
+
+Bills committing so much more to the running game now. First 12 plays, 8 of them have been rushes.
