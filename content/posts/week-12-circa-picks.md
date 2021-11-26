@@ -227,3 +227,31 @@ _Steelers_ @ **Chargers** (SNF)
 **_Bengals_** @ Raiders
 
 #### _Key Injuries_
+
+Pittsburgh should see most of their key defensive personnel return this week after missing last week's contest against the Chargers. Minkah Fitzpatrick, Joe Haden, and Isaiah Loudermilk are primed to return. T.J. Watt is only practicing in limited capacity given the nature of his injuries - his status is questionable this weekend. Pittsburgh may also suffer a critical hit to their offensive line now that their starting center is out with a pectoral injury.
+
+Bengals are refreshingly healthy for once.
+
+#### _History_
+
+The Bengals were able to pull an upset over Pittsburgh earlier in the year on Heinz Field, mostly thanks to the efforts of Joe Mixon and their offensive line. It was a milestone victory too, a win against a Steeler defense many still saw as being one of the best in the league. 
+
+Cincinnati has since improved slightly, better incorporating Tyler Boyd and JaMarr Chase into the fold of their offense. Pittsburgh seems to have improved marginally as well, although injuries will likely prevent them from demonstrating any of that improvement this week.
+
+#### _Weather_
+
+Cold with winds reaching up to 15 miles per hour
+
+***
+
+Bengals -4.5
+
+***
+
+**Cincinnati covers if**  
+their running game and quick passes find success again this week against a Pittsburgh team the Bengals have beaten before  
+\- AND -  
+Joe Burrow continues playing at a higher level than Ben Roethlisberger.
+
+**Pittsburgh covers if**  
+their defensive front can besiege Joe Burrow on a regular basis, forcing him to commit ugly mistakes. Rattling Burrow consistently is the only way the Steelers can level the playing field at quarterback.
