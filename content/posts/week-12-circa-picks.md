@@ -152,7 +152,7 @@ Both Sterling Shepard and Kadarius Toney are names to watch on the Giants injury
 
 #### _History_
 
-Last time these two met, the Giants won decisively despite being 5-point underdogs. In all fairness though, that game took place with Carson Wentz and Doug Pederson directing the Eagle offense. Hurts and Sirianni has transformed that unit into something dramatically different  Passes now only serve to complement a ground game centered around Hurts executing read-option plays. Can the Giants effectively defense that style of offense? Not too sure - their run defense has produced mixed results.
+Last time these two met, the Giants won decisively despite being 5-point underdogs. In all fairness though, that game took place with Carson Wentz and Doug Pederson directing the Eagle offense. Hurts and Sirianni has transformed that unit into something dramatically different  Passes now only serve to complement a ground game centered around Hurts executing read-option plays. Can the Giants effectively defense that style of offense? Not too sure - their run defense has produced mixed results. On top of that, Philadelphia managed to pound the ball against the league's best rushing defense last week.
 
 #### _Weather_
 
@@ -173,3 +173,32 @@ the sudden firing of Jason Garrett sparks some much-needed life back into this o
 the offense can run its ground game without any abatement whatsoever from the Giant defense.
 
 ***
+
+### Buccaneers @ Colts (+3)
+
+***
+
+#### _Latest Results_
+
+Giants @ **_Buccaneers_** (MNF)  
+**_Colts_** @ Bills
+
+#### _Key Injuries_
+
+Vita Vea has trended in the right direction and is on track to play. But the good news stops there for Tampa. Devin White, Mike Edwards, Mike Evans, and Antonio Brown are dealing with injuries serious enough to sideline them this Sunday. The biggest concerns here are Evans and Brown. Without either one, the Buccaneers are missing that signature outside receiving threat.
+
+Colts are mostly healthy - Quenton Nelson aggravated an ankle injury last Sunday that'll likely keep him off the field for a week or two.
+
+#### _History_
+
+No recent history between the two given this is an inter-conference match-up. It's been years since Frank Reich tangled wits with the likes of Bruce Arians and Tom Brady.
+
+One thing worth noting - the Colts owe their success over the past few weeks to the efficacy of their rushing attack, headlined by potential MVP Jonathan Taylor. Carson Wentz has contributed little value on top of the ground game, so it's virtually certain their ability to win hinges on whether they're able to churn the rock over ground.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Buccaneers 
