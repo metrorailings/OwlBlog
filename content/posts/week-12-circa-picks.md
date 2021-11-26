@@ -91,3 +91,16 @@ they're fully committed to playing in top form against a team many people see as
 
 **Jacksonville covers if**  
 the Falcons are caught slacking off, giving these Jaguars more than enough opportunity to post points on the board.
+
+***
+
+### Titans @ Patriots (-6.5)
+
+***
+
+#### _Latest Results_
+
+**_Jaguars_** @ Texans  
+**_Patriots_** @ Falcons (TNF)
+
+#### _Key Injuries_
