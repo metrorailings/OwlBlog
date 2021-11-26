@@ -356,3 +356,7 @@ No serious injury concerns for the Seahawks. D.K. Metcalf was listed as a non-pa
 Likewise, Washington doesn't have any serious injuries holding any of their players back. Though both rosters have personnel dealing with various afflictions, Monday night should see two teams playing one another at nearly full strength.
 
 #### _History_
+
+Both of these teams met last year at FedEx Field. The Seahawks managed to edge out Washington, though they failed to cover the spread. Though then again, it's hard to blame them for not covering when they were facing the man, the myth, the legend himself....Dwayne Haskins. Yeah.....Dwayne Haskins.
+
+While I plan on rewatching this game later, it's pretty damning the Seahawks could only muster a 5-point win against a Washington offense led by a complete scrub. I know their defense was playing at solid last year, but one can make the same argument for the defense this year, given their performances the last couple weeks against Tampa Bay and Carolina. 
