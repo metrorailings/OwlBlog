@@ -319,3 +319,7 @@ The Ravens secondary is horribly banged up, but most of its players are expected
 Last year, the Ravens housed the Browns twice. In fact, it was the second game against in Cleveland where Baltimore rediscovered their groove. Joe Woods can't help but cough up points against this Raven offense, despite the fact that his defense should be intimately familiar with Lamar Jackson and all his tricks.
 
 Things are expected to be a bit worse this year for Cleveland, as Don Martindale now had a whole year to study Stefanski's style of offense.
+
+#### _Weather_
+
+Cold, with some winds blowing about upwards of 15 miles per hour
