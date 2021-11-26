@@ -129,4 +129,19 @@ Uncertain
 the Titans are simply unable to overcome all their deficiencies on offense.
 
 **Tennessee covers if**  
-the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of this offense.
+the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of this offense  
+\- OR -  
+the Patriots aren't fully committed to the game, given the Titans are seen as inferior given their injury concerns as well as the embarrassing loss they suffered last week against the ugliest team in the league in the Houston Texans.
+
+***
+
+### Eagles @ Giants (+3.5)
+
+***
+
+#### _Latest Results_
+
+Saints @ **_Eagles_**  
+Giants @ **_Buccaneers_** (MNF)
+
+#### _Key Injuries_
