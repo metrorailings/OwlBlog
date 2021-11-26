@@ -281,7 +281,7 @@ This year, it can be argued the Rams have improved, at least in terms of offensi
 
 #### _Weather_
 
-Few degrees above freezing
+Few degrees above freezing, with winds reaching upwards of 20 miles per hour
 
 ***
 
