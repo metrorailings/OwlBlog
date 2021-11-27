@@ -16,7 +16,7 @@ Perhaps the best lesson I can take away is that level of effort is a very real c
 
 ***
 
-### Panthers @ Dolphins (+1.5)
+### Panthers @ Dolphins (+2)
 
 ***
 
@@ -27,13 +27,13 @@ Perhaps the best lesson I can take away is that level of effort is a very real c
 
 #### _Key Injuries_
 
-Dolphins aren't missing anybody critical from last week, though the injury report will tell us more.
+Panthers will be without one of their starting guards.
 
-The Panthers starting left tackle went down with injury during their outing against Washington last week. A rookie was placed there in relief duty and performed well enough, though it remains to be seen whether he can sustain that level of play over multiple weeks.
+Dolphins will likely lose Mike Gesicki for the week, leaving them without one of their biggest contributors on offense.
 
 #### _History_
 
-No real relevant histroy to explore here, given both teams belong to different conferences. A few weeks back, Miami managed to play well against a Raven team that (much like the Cam Newton-led Panthers) generates more of its success transiting the ball over ground instead of through the air, but that game was likely tainted by a lack of effort on the Baltimore's part - Baltimore had way too many excuses not to fully commit to that game - heavy favorites playing on a Thursday after surviving an overtime contest against Minnesota.
+No real relevant history to explore here, given both teams belong to different conferences. A few weeks back, Miami managed to play well against a Raven team that (much like the Cam Newton-led Panthers) generates most of its success transiting the ball over ground instead of through the air, but that game was likely tainted by a lack of effort on the Baltimore's part - Baltimore had way too many excuses not to fully commit to that game - heavy favorites playing on a Thursday after surviving an overtime contest against Minnesota.
 
 #### _Weather_
 
@@ -51,7 +51,7 @@ their defensive front completely dominates Miami's overmatched offensive line. I
 Miami doesn't do enough on their end to keep Christian McCaffrey and Cam Newton from popping off through read-action plays.
 
 **Miami covers if**  
-Tua and company can string together multiple scoring drives through short passes  
+Tua and company can string together multiple scoring drives through short passes, probably through a combination of screens, slants, and hitch routes.  
 \- AND -  
 Miami's coverage people can haggle some turnovers from Cam, with some assistance from blitzes.
 
@@ -376,3 +376,5 @@ jazzed up by the spotlights and the eyes of the nation, Taylor Heinecke outplays
 
 **Seattle covers if**  
 Russell actually lives up to his mantra and finally starts cooking, outperforming his counterpart on Washington on a yards-per-pass basis. 
+
+***
