@@ -41,7 +41,7 @@ Beautiful day for some football
 
 ***
 
-Panthers -1.5
+Dolphins +2
 
 ***
 
