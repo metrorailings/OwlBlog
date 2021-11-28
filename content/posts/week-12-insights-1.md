@@ -19,3 +19,9 @@ Inopportune penalties combined with poor tackling - the Cowboys weren't motivate
 ## Bills @ Saints
 
 Bills committing so much more to the running game now. First 12 plays, 8 of them have been rushes.
+
+That being said, Allen is still off his game, forcing interceptions.
+
+***
+
+## Eagles @ Giants
