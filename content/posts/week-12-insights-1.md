@@ -60,4 +60,6 @@ On a fourth down and very short, Rams opt to run the ball with their tailback. S
 
 Randall Cobb is turning up and getting hot.
 
-Rams working six-man offensive lines against the Packers front while executing the hurry-up offense...it's actually working well.
+Rams working six-man offensive lines against the Packers front while executing the hurry-up offense...it's actually working well. Wouldn't be surprised to see them run the same type of offense to open the second half.
+
+As expected, the Rams tried to run the same type of offense, but it didn't pan out. A negative run on first-down kind of doomed things early.
