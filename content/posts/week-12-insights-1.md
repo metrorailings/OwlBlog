@@ -44,4 +44,4 @@ It's clear looking at statistics alone that the Buccaneers passing offense strug
 
 ## Titans @ Patriots
 
-I need to watch the game, but it seems being overwhelming public favorites and witnessing this Titans team being plagued by injury didn't do much to stem their commitment to this game. Kudos to New England for winning this game in top fashion, though it did take a bit of time for the Patriots to really kick into gear.
+I need to watch the game, but it seems being overwhelming public favorites and witnessing this Titans team being plagued by injury didn't do much to stem their commitment to this game. Kudos to New England for winning this game in top fashion, though it did take an entire half for the Patriots to really kick into gear and blow Tennessee out. 
