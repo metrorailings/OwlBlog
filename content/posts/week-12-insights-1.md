@@ -63,3 +63,7 @@ Randall Cobb is turning up and getting hot.
 Rams working six-man offensive lines against the Packers front while executing the hurry-up offense...it's actually working well. Wouldn't be surprised to see them run the same type of offense to open the second half.
 
 As expected, the Rams tried to run the same type of offense, but it didn't pan out. A negative run on first-down kind of doomed things early.
+
+This loss is on the Rams defense. The Packers opening drive was the death knell for Los Angeles - using AJ Dillon to jam the ball down the field and keep the Rams offense off the field for nearly 8 minutes was way too much for them. By the time Stafford and company actually retook the field, it lost some of its mojo. 
+
+Defensively, Green Bay improved tremendously in the second half. How so... I'm not sure. If I had to take a guess, it'd be that the Packers aren't dedicating so much energy in coverage to Odell anymore. 
