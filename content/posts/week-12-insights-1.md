@@ -28,7 +28,7 @@ That being said, Allen is still off his game, forcing interceptions.
 
 Daniel Jones doesn't react well when his first or second read isn't there yet.
 
-This Freddie Kitchens offense has an element of predictability to it.
+This Freddie Kitchens offense has an element of predictability to it. Not to mention it's not very creative or inspirational in design. No hurry-up here too. Giants are playing not to lose. Pathetic.
 
 Giants do not have a good run defense at all. Stacking the line with five bodies isn't working - Jalen Hurts still managed to get free. Where's the discipline? Where's the coordination between the defensive line and the linebackers? Where's the speed?
 
@@ -59,3 +59,5 @@ Rashan Gary, Aaron Jones, and Allen Lazard are all playing. If I knew this for d
 On a fourth down and very short, Rams opt to run the ball with their tailback. Stafford is even worse than I thought.
 
 Randall Cobb is turning up and getting hot.
+
+Rams working six-man offensive lines against the Packers front while executing the hurry-up offense...it's actually working well.
