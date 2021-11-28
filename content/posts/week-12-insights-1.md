@@ -27,3 +27,7 @@ That being said, Allen is still off his game, forcing interceptions.
 ## Eagles @ Giants
 
 Daniel Jones doesn't react well when his first or second read isn't there yet.
+
+This Freddie Kitchens offense has an element of predictability to it.
+
+Giants do not have a good run defense at all. Stacking the line with five bodies isn't working - Jalen Hurts still managed to get free. Where's the discipline? Where's the coordination between the defensive line and the linebackers? Where's the speed?
