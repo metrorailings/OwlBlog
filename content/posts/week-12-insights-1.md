@@ -33,3 +33,15 @@ This Freddie Kitchens offense has an element of predictability to it.
 Giants do not have a good run defense at all. Stacking the line with five bodies isn't working - Jalen Hurts still managed to get free. Where's the discipline? Where's the coordination between the defensive line and the linebackers? Where's the speed?
 
 New York's offensive line is still a travesty. No one player really can be considered a strength along that line, not in its current form.
+
+***
+
+## Buccaneers @ Colts
+
+It's clear looking at statistics alone that the Buccaneers passing offense struggles hard against two-deep coverage. 
+
+***
+
+## Titans @ Patriots
+
+I need to watch the game, but it seems being overwhelming public favorites and witnessing this Titans team being plagued by injury didn't do much to stem their commitment to this game. Kudos to New England for winning this game in top fashion, though it did take a bit of time for the Patriots to really kick into gear.
