@@ -25,3 +25,5 @@ That being said, Allen is still off his game, forcing interceptions.
 ***
 
 ## Eagles @ Giants
+
+Daniel Jones doesn't react well when his first or second read isn't there yet.
