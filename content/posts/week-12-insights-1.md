@@ -31,3 +31,5 @@ Daniel Jones doesn't react well when his first or second read isn't there yet.
 This Freddie Kitchens offense has an element of predictability to it.
 
 Giants do not have a good run defense at all. Stacking the line with five bodies isn't working - Jalen Hurts still managed to get free. Where's the discipline? Where's the coordination between the defensive line and the linebackers? Where's the speed?
+
+New York's offensive line is still a travesty. No one player really can be considered a strength along that line, not in its current form.
