@@ -111,7 +111,7 @@ New England's mostly healthy, albeit a little banged up.
 
 #### _History_
 
-The Titans and Patriots were contending against one another in the wild-card round of the postseason two years ago. Tennessee was able to triumph thanks to a ground game headlined by Derrick Henry as well as the Patriot offense stalling on way too many drives.
+The Titans and Patriots were contending against one another in the wild-card round of the postseason two years ago. Tennessee was able to triumph thanks to a ground game headlined by Derrick Henry as well as the Patriot offense stalling way too much.
 
 The biggest change this year comes with New England featuring a rookie quarterback joined by an assortment of weapons at his disposal. Stalling is very unlikely to be a defining theme for the Patriots this week.
 
@@ -126,10 +126,10 @@ Uncertain
 ***
 
 **New England covers if**  
-the Titans are simply unable to overcome all their deficiencies on offense.
+the Titans are simply unable to overcome all their deficiencies on offense and defense
 
 **Tennessee covers if**  
-the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of this offense  
+the coaches manage to work around all the injuries robbing them of their key weapons on offense. D'Onta Foreman and Nick Westbrook-Ikhine will need to play as if they're critical facets of the offense  
 \- OR -  
 the Patriots aren't fully committed to the game, given the Titans are seen as inferior given their injury cases as well as the embarrassing loss they suffered last week against the ugliest team in the league in the Houston Texans.
 
@@ -228,7 +228,7 @@ _Steelers_ @ **Chargers** (SNF)
 
 #### _Key Injuries_
 
-Pittsburgh should see most of their key defensive personnel return this week after missing last week's contest against the Chargers. Minkah Fitzpatrick, Joe Haden, and Isaiah Loudermilk are primed to return. T.J. Watt is only practicing in limited capacity given the nature of his injuries - his status is questionable this weekend. Pittsburgh may also suffer a critical hit to their offensive line now that their starting center is out with a pectoral injury.
+Pittsburgh should see most of their key defensive personnel return this week after missing last week's contest against the Chargers. Minkah Fitzpatrick, Joe Haden, and Isaiah Loudermilk are primed to return. T.J. Watt is only practicing in limited capacity given the nature of his injuries - his status is questionable this weekend, though things are trending towards him starting. Pittsburgh may also suffer a critical hit to their offensive line now that their starting center is out with a pectoral injury.
 
 Bengals are refreshingly healthy for once.
 
@@ -236,7 +236,7 @@ Bengals are refreshingly healthy for once.
 
 The Bengals were able to pull an upset over Pittsburgh earlier in the year on Heinz Field, mostly thanks to the efforts of Joe Mixon and their offensive line. It was a milestone victory too, a win against a Steeler defense many still saw as being one of the best in the league.
 
-Cincinnati has since improved slightly, better incorporating Tyler Boyd and JaMarr Chase into the fold of their offense. Pittsburgh seems to have improved marginally as well, although injuries will likely prevent them from demonstrating any of that improvement this week.
+Cincinnati has since improved slightly, better incorporating Tyler Boyd and JaMarr Chase into the fold of their offense. Pittsburgh seems to have improved marginally as well, if last week is any indication.
 
 #### _Weather_
 
@@ -290,7 +290,7 @@ Undecided
 ***
 
 **Los Angeles covers if**  
-their offense finally rounds into form after two humiliating losses and a bye week. Stafford has the raw ability to elevate this offense past its ceiling from last year, but he needs to be more comfortable operating from within the structure of the offense. On top of that, Odell Beckham needs to be made a critical part of this offense, now that Robert Woods will no longer be the team's primary receiving threat on the outside.
+their offense finally rounds into form after two humiliating losses and a bye week. Stafford has the raw ability to elevate this offense past its ceiling from last year, but he needs to be more comfortable operating from within the structure of McVay's system. On top of that, Odell Beckham needs to be made a critical part of this offense, now that Robert Woods will no longer be the team's primary receiving threat on the outside.
 
 **Green Bay covers if**  
 Aaron Jones, Rashan Gary, and Aaron Rodgers all play in top form  
