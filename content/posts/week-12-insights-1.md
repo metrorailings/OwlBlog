@@ -67,3 +67,5 @@ As expected, the Rams tried to run the same type of offense, but it didn't pan o
 This loss is on the Rams defense. The Packers opening drive was the death knell for Los Angeles - using AJ Dillon to jam the ball down the field and keep the Rams offense off the field for nearly 8 minutes was way too much for them. By the time Stafford and company actually retook the field, it lost some of its mojo. 
 
 Defensively, Green Bay improved tremendously in the second half. How so... I'm not sure. If I had to take a guess, it'd be that the Packers aren't dedicating so much energy in coverage to Odell anymore. 
+
+Never mind, seems like they're still committing a fair number of men to Beckham in coverage.
