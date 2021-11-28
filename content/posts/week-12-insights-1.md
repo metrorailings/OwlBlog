@@ -55,3 +55,5 @@ Matthew Stafford is injured and it's obvious. Very worrying.
 Packers making hay on their first drive with short plays. 
 
 Rashan Gary, Aaron Jones, and Allen Lazard are all playing. If I knew this for definite, Green Bay would have so been one of my picks this week!
+
+On a fourth down and very short, Rams opt to run the ball with their tailback. Stafford is even worse than I thought.
