@@ -69,3 +69,11 @@ This loss is on the Rams defense. The Packers opening drive was the death knell 
 Defensively, Green Bay improved tremendously in the second half. How so... I'm not sure. If I had to take a guess, it'd be that the Packers aren't dedicating so much energy in coverage to Odell anymore. 
 
 Never mind, seems like they're still committing a fair number of men to Beckham in coverage.
+
+***
+
+## Browns @ Ravens
+
+Game is going about as expected. Nothing too shocking. Cleveland's offense is struggling. Ravens are starting slow, but gearing up.
+
+Ravens running quite a bit laterally and Cleveland has done solid work bottling them up. It's only a matter of time before Baltimore experiences real success executing those plays.
