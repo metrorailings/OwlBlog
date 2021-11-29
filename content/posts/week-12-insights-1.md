@@ -91,3 +91,5 @@ A jailbreak blitz has cut short a Raven drive. Hmm....Miami might have hit onto 
 ## Vikings @ 49ers
 
 Vikings with some flea flicker trickery leading them en route to a touchdown.
+
+On a critical long third-down, the Vikings could not muster any pressure, despite rushing five. Granted, the 49ers were in max-protect, but it's not a good sign for a defense that prides itself on judicious blitzes.
