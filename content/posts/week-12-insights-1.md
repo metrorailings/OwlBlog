@@ -103,3 +103,5 @@ Dalvin Cook is such a beast, chewing off an explosive run against an eight-man b
 Nice to see Klint Kubiak incorporating a bit more creativity into the offense. A play-action wide receiver screen tossed back to the tailback on the opposite side of the field helped Minnesota move the ball down a few yards away from the goal zone.
 
 Kirk Cousins, on the other hand, hasn't been quite on point. He threw a bad interception to a linebacker after staring his receiver down. Then he failed to connect on a crucial two-point conversion play to Justin Jefferson. 
+
+On a red zone drive in the fourth quarter, the Vikings go with two boring rushes up the middle with Alexander Hamilton, a five-receiver set on 3rd down, and a hard bootleg on 4th down. Hmm....not the best set of play calls.
