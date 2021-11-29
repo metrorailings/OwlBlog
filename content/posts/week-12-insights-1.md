@@ -81,3 +81,5 @@ Ravens running quite a bit laterally and Cleveland has done solid work bottling 
 Myles Garrett saving the Browns here by batting an imminent touchdown pass.
 
 Lamar is getting his lunch eaten on throws over the middle. It's sad. Three interceptions before the first half even ended.
+
+Cleveland's defensive linemen have done well winning their battles at the line of scrimmage. The pressure they're getting on Lamar is pretty commendable. 
