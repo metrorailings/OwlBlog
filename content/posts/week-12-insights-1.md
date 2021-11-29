@@ -95,3 +95,5 @@ Cleveland's defense really impressed me. Well done. Baltimore didn't have too ma
 Vikings with some flea flicker trickery leading them en route to a touchdown.
 
 On a critical long third-down, the Vikings could not muster any pressure, despite rushing five. Granted, the 49ers were in max-protect, but it's not a good sign for a defense that prides itself on judicious blitzes.
+
+Fantastic work by Garoppalo, nailing two big throws on a drive at the end of the first half to score the touchdown. One of those throws came on 3rd & 11, on a laser pass to Brandon Aiyuk streaking across the middle of the field surrounded by 3-4 Viking defenders.
