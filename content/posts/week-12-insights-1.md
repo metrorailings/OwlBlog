@@ -105,3 +105,5 @@ Nice to see Klint Kubiak incorporating a bit more creativity into the offense. A
 Kirk Cousins, on the other hand, hasn't been quite on point. He threw a bad interception to a linebacker after staring his receiver down. Then he failed to connect on a crucial two-point conversion play to Justin Jefferson. 
 
 On a red zone drive in the fourth quarter, the Vikings go with two boring rushes up the middle with Alexander Hamilton, a five-receiver set on 3rd down, and a hard bootleg on 4th down. Hmm....not the best set of play calls.
+
+Elijah Mitchell and Deebo Samuel have been fantastic rushing the ball against one of the better defenses in the league.
