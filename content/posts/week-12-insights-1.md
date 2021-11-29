@@ -79,3 +79,5 @@ Game is going about as expected. Nothing too shocking. Cleveland's offense is st
 Ravens running quite a bit laterally and Cleveland has done solid work bottling them up. It's only a matter of time before Baltimore experiences real success executing those plays.
 
 Myles Garrett saving the Browns here by batting an imminent touchdown pass.
+
+Lamar is getting his lunch eaten on throws over the middle. It's sad. Three interceptions before the first half even ended.
