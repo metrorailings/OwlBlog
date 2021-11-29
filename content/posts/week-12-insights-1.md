@@ -77,3 +77,5 @@ Never mind, seems like they're still committing a fair number of men to Beckham 
 Game is going about as expected. Nothing too shocking. Cleveland's offense is struggling. Ravens are starting slow, but gearing up.
 
 Ravens running quite a bit laterally and Cleveland has done solid work bottling them up. It's only a matter of time before Baltimore experiences real success executing those plays.
+
+Myles Garrett saving the Browns here by batting an imminent touchdown pass.
