@@ -86,6 +86,8 @@ Cleveland's defensive linemen have done well winning their battles at the line o
 
 A jailbreak blitz has cut short a Raven drive. Hmm....Miami might have hit onto something here.
 
+Cleveland's defense really impressed me. Well done. Baltimore didn't have too many explosive plays outside of two freak plays created by Lamar Jackson scrambling around while Mark Andrews runs improvised routes. The man coverage was tight, the runs never really burst open, and the edge rushers took Lamar out of his element on multiple plays. Jadaveon Clowney and Myles Garrett went out of their way to make this game personal. On top of that, the team managed to intercept Lamar on a number of different occasions. It's clear this defense is a step up from the unit last year - for one thing , it now has a pair of great pass rushers and some high-value draft picks manning the secondary.
+
 ***
 
 ## Vikings @ 49ers
