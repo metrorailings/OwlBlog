@@ -14,6 +14,13 @@ So let the good work here continue.
 
 ***
 
+### Cardinals @ Bears (+8)
+
 ***
 
-### 
+#### _Latest Results_
+
+**_Cardinals_** @ Seahawks \[BYE\]  
+**Bears** @ _Lions_ (Thanksgiving)
+
+#### _Key Injuries_
