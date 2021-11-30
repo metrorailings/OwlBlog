@@ -114,3 +114,5 @@ Elijah Mitchell and Deebo Samuel have been fantastic rushing the ball against on
 Even though this has been stated before, it's worth mentioning again - Taylor Heinecke is one tough son of a bitch. His ability to handle pressure is matched by few.
 
 Russell Wilson may be playing a little better. His deep passes have been on point.
+
+Nope, never mind. Five drives, one first down for Seattle. Russell is done. At least as a Seahawk. Might be time to move him out to greener pastures elsewhere and begin a rebuild. Seattle's legendary Legion of Boom days are truly over.
