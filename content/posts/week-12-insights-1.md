@@ -45,6 +45,8 @@ It's clear looking at statistics alone that the Buccaneers passing offense strug
 
 I need to watch the game, but it seems being overwhelming public favorites and witnessing this Titans team being plagued by injury didn't do much to stem their commitment to this game. Kudos to New England for winning this game in top fashion, though it did take an entire half for the Patriots to really kick into gear and blow Tennessee out. New England is playing hot. Clearly, their level of effort can't be brought into question - whether it's a function of their coaching or their overall morale, the Patriots are playing in good form.
 
+Excellent recognition of a blitz by Mac Jones, immediately throwing the ball to Kendrick Bourne running a crossing route away from his man defender. It was a tough catch, being a fade pass and all, but Bourne did well catching the ball. 
+
 ***
 
 ## Rams @ Packers
