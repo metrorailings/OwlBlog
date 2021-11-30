@@ -49,6 +49,10 @@ Excellent recognition of a blitz by Mac Jones, immediately throwing the ball to 
 
 Teams actively defending Tennessee with light boxes now that Derrick Henry is no longer a presence on the offense for the foreseeable future. Interesting.
 
+Jacob Hollister turning into a weapon of choice for Tannehill.
+
+Mac Jones and his receivers are turning up against Tennessee in the first half. Big passes, maintaining composure, making defenders miss, and winning at the catch point.
+
 ***
 
 ## Rams @ Packers
