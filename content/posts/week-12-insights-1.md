@@ -37,7 +37,7 @@ New York's offensive line is still a travesty. No one player really can be consi
 
 ## Buccaneers @ Colts
 
-It's clear looking at statistics alone that the Buccaneers passing offense struggles hard against two-deep coverage. 
+It's clear looking at statistics alone that the Buccaneers passing offense struggles hard against two-deep coverage.
 
 ***
 
@@ -51,7 +51,7 @@ I need to watch the game, but it seems being overwhelming public favorites and w
 
 Matthew Stafford is injured and it's obvious. Very worrying.
 
-Packers making hay on their first drive with short plays. 
+Packers making hay on their first drive with short plays.
 
 Rashan Gary, Aaron Jones, and Allen Lazard are all playing. If I knew this for definite, Green Bay would have so been one of my picks this week!
 
@@ -63,9 +63,9 @@ Rams working six-man offensive lines against the Packers front while executing t
 
 As expected, the Rams tried to run the same type of offense, but it didn't pan out. A negative run on first-down kind of doomed things early.
 
-This loss is on the Rams defense. The Packers opening drive was the death knell for Los Angeles - using AJ Dillon to jam the ball down the field and keep the Rams offense off the field for nearly 8 minutes was way too much for them. By the time Stafford and company actually retook the field, it lost some of its mojo. 
+This loss is on the Rams defense. The Packers opening drive was the death knell for Los Angeles - using AJ Dillon to jam the ball down the field and keep the Rams offense off the field for nearly 8 minutes was way too much for them. By the time Stafford and company actually retook the field, it lost some of its mojo.
 
-Defensively, Green Bay improved tremendously in the second half. How so... I'm not sure. If I had to take a guess, it'd be that the Packers aren't dedicating so much energy in coverage to Odell anymore. 
+Defensively, Green Bay improved tremendously in the second half. How so... I'm not sure. If I had to take a guess, it'd be that the Packers aren't dedicating so much energy in coverage to Odell anymore.
 
 Never mind, seems like they're still committing a fair number of men to Beckham in coverage.
 
@@ -81,7 +81,7 @@ Myles Garrett saving the Browns here by batting an imminent touchdown pass.
 
 Lamar is getting his lunch eaten on throws over the middle. It's sad. Three interceptions before the first half even ended.
 
-Cleveland's defensive linemen have done well winning their battles at the line of scrimmage. The pressure they're getting on Lamar is pretty commendable. 
+Cleveland's defensive linemen have done well winning their battles at the line of scrimmage. The pressure they're getting on Lamar is pretty commendable.
 
 A jailbreak blitz has cut short a Raven drive. Hmm....Miami might have hit onto something here.
 
@@ -101,8 +101,16 @@ Dalvin Cook is such a beast, chewing off an explosive run against an eight-man b
 
 Nice to see Klint Kubiak incorporating a bit more creativity into the offense. A play-action wide receiver screen tossed back to the tailback on the opposite side of the field helped Minnesota move the ball down a few yards away from the goal zone.
 
-Kirk Cousins, on the other hand, hasn't been quite on point. He threw a bad interception to a linebacker after staring his receiver down. Then he failed to connect on a crucial two-point conversion play to Justin Jefferson. 
+Kirk Cousins, on the other hand, hasn't been quite on point. He threw a bad interception to a linebacker after staring his receiver down. Then he failed to connect on a crucial two-point conversion play to Justin Jefferson.
 
 On a red zone drive in the fourth quarter, the Vikings go with two boring rushes up the middle with Alexander Hamilton, a five-receiver set on 3rd down, and a hard bootleg on 4th down. Hmm....not the best set of play calls.
 
 Elijah Mitchell and Deebo Samuel have been fantastic rushing the ball against one of the better defenses in the league.
+
+***
+
+## Seahawks @ Washington
+
+Even though this has been stated before, it's worth mentioning again - Taylor Heinecke is one tough son of a bitch. His ability to handle pressure is matched by few.
+
+Russell Wilson may be playing a little better. His deep passes have been on point.
