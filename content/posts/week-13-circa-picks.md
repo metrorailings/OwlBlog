@@ -24,3 +24,9 @@ So let the good work here continue.
 **Bears** @ _Lions_ (Thanksgiving)
 
 #### _Key Injuries_
+
+Despite the bye, Kyler Murray and DeAndre Hopkins still remain question marks regarding their game-time status.
+
+As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense.
+
+#### _History_
