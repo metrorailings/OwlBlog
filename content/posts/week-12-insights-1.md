@@ -53,6 +53,8 @@ Jacob Hollister turning into a weapon of choice for Tannehill. As is NWI.
 
 Mac Jones and his receivers are turning up against Tennessee in the first half. Big passes, maintaining composure, making defenders miss, and winning at the catch point.
 
+That being said, both quarterbacks have gotten lucky with balls not being picked off. On top of that, D'Onta Foreman ripped off a huge run only to have the ball punched out by JC Jackson. One wonders if that would have happened if Derrick Henry was the one toting the rock.
+
 ***
 
 ## Rams @ Packers
