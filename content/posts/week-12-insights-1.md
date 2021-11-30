@@ -55,6 +55,8 @@ Mac Jones and his receivers are turning up against Tennessee in the first half. 
 
 That being said, both quarterbacks have gotten lucky with balls not being picked off. On top of that, D'Onta Foreman ripped off a huge run only to have the ball punched out by JC Jackson. One wonders if that would have happened if Derrick Henry was the one toting the rock.
 
+Tennessee has spent the better part of the third quarter gashing the Patriots on the ground with D'Onta Foreman and Jeremy Hillard. Impressive...something worth keeping in mind in the future when the Titans are facing teams truly vulnerable to the run.
+
 ***
 
 ## Rams @ Packers
