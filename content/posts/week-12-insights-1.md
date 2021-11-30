@@ -116,3 +116,5 @@ Even though this has been stated before, it's worth mentioning again - Taylor He
 Russell Wilson may be playing a little better. His deep passes have been on point.
 
 Nope, never mind. Five drives, one first down for Seattle. Russell is done. At least as a Seahawk. Might be time to move him out to greener pastures elsewhere and begin a rebuild. Seattle's legendary Legion of Boom days are truly over.
+
+Jack Del Rio gambling with some risky blitzes to try and close out the game as Russell Wilson tries to mount a comeback drive.
