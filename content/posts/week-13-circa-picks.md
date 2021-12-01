@@ -35,9 +35,25 @@ Honestly though, the most important injury to watch here is Justin Fields. It's 
 
 Arizona ranks among the worst when it comes to rushing defense. Chicago's specialty (at least when Justin Fields is at the helm of the offense) is rushing the ball. But the problem here is that it seems more probable to me that Andy Dalton will start again for the Bears. For one thing, Justin Fields is dealing with cracked ribs, and ribs take time to heal properly. Two, I have a feeling Matt Nagy has taken a shine to Andy Dalton, if only because Dalton's better at running the type of passing plays Nagy loves to invoke. On top of that, Dalton's on a winning streak, as meager a reason as that may be.
 
-Hmmm...besides that, Arizona has been on a hot streak as of late, far surpassing its expectations and winning games they would have lost last year. It's tempting to think the Cardinals are nowhere near as spectacular as their record may suggest, but the team have shown some serious swagger this season. Unlike Chicago, Arizona can will its way to victory to domination even when things aren't initially in their favor.
+Hmmm...besides that, Arizona has been on a hot streak over the course of the season, far surpassing its expectations and winning games they would have lost last year. It's tempting to think the Cardinals are nowhere near as spectacular as their record may suggest, but the team has shown some serious swagger lately. Unlike Chicago, Arizona can will its way to victory to domination even when things aren't initially in their favor.
+
+#### _Weather_
+
+Some wet weather and winds are expected. Not to mention it's pretty cold too
 
 ***
+
+Undecided
+
+***
+
+**Arizona covers if**  
+the team shows up fully prepared coming off the bye, something that's never happened under Kliff Kingsbury  
+\- AND -  
+Matt Nagy insists on Andy Dalton passing the ball.
+
+**Chicago covers if**  
+their run/pass ratio favors the ground game. Chicago needs to wholeheartedly commit to running the ball against an Arizona defense vulnerable against opposing rushers.
 
 ### 49ers @ Seahawks (+3)
 
