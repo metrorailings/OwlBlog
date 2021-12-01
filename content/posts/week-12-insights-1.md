@@ -57,6 +57,8 @@ That being said, both quarterbacks have gotten lucky with balls not being picked
 
 Tennessee has spent the better part of the third quarter gashing the Patriots on the ground with D'Onta Foreman and Jeremy Hillard. Impressive...something worth keeping in mind in the future when the Titans are facing teams truly vulnerable to the run.
 
+A fumble lost, a missed field goal, an interception, a turnover by downs...Tennessee's losing the ball way too much to cover the spread here, even as one-score underdogs.
+
 ***
 
 ## Rams @ Packers
