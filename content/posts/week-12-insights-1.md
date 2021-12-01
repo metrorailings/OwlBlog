@@ -136,3 +136,5 @@ Jack Del Rio gambling with some risky blitzes to try and close out the game as R
 ***
 
 ## Chargers @ Broncos
+
+Bridgewater with a tightrope run to score a touchdown for his team. Trying to salvage his image after last week's terrible whiff.
