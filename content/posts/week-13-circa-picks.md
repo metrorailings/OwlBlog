@@ -43,3 +43,5 @@ Vikings @ **_49ers_**
 Seahawks @ **_Washington_** (MNF)
 
 #### _Key Injuries_
+
+Deebo Samuel is likely out after suffering a groin injury against Minnesota. Without Deebo, the 49ers leave their most dynamic and versatile player on offense. It'll hurt, to put it simply.
