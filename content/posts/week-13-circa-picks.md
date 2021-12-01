@@ -29,9 +29,11 @@ Despite the bye, Kyler Murray and DeAndre Hopkins still remain question marks re
 
 As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense. 
 
-Honestly though, the most important injury to watch here is Justin Fields. It's not so much his raw passing talent that matters as it is his ability to scramble and execute designed quarterback runs. Arizona's worst games this season came against teams that can run the ball. More on that in the next section... 
+Honestly though, the most important injury to watch here is Justin Fields. It's not so much his raw passing talent that matters as it is his ability to scramble and execute designed quarterback runs. Arizona's worst games this season usually came against teams that can run the ball. More on that in the next section...
 
 #### _History_
+
+Arizona ranks among the worst when it comes to rushing defense. Chicago's specialty (at least when Justin Fields is at the helm of the offense) is rushing the ball. But the problem here is that it seems more probable to me that Andy Dalton will start again for the Bears. For one thing, Justin Fields is dealing with cracked ribs, and ribs take time to heal properly. Two, I have a feeling Matt Nagy has taken a shine to Andy Dalton, if only because Dalton's better at running the type of concepts Nagy wishes to incorporate in his offense. On top of that, Dalton's on a winning streak, as meager a reason as that may be.
 
 ***
 
