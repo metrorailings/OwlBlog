@@ -33,7 +33,7 @@ As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both
 
 ***
 
-### 49ers @ Seahawks (+3.5)
+### 49ers @ Seahawks (+3)
 
 ***
 
@@ -64,7 +64,7 @@ Not too cold, but humidity may be a factor here
 
 ***
 
-Seahawks +3.5
+Seahawks +3
 
 ***
 
