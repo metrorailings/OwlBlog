@@ -45,3 +45,17 @@ Seahawks @ **_Washington_** (MNF)
 #### _Key Injuries_
 
 Deebo Samuel is likely out after suffering a groin injury against Minnesota. Without Deebo, the 49ers leave their most dynamic and versatile player on offense. It'll hurt, to put it simply. Fred Warner will likely spend a week on the mend. And his absence will hurt too - outside of Nick Bosa, Warner's the most important player on defense.
+
+Seattle desperately needs Damien Lewis and Jamarco James back, the former to anchor the interior of the line and the latter as valuable back-up. Hopefully both return in time for this game.
+
+#### _History_
+
+The first time these two danced, Seattle dominated thanks mostly to Trey Lance being forced to man the reins of the offense after injuries forced Garoppalo out of the game.  It was clear Lance was in no way prepared for the magnitude of the moment, and Seattle made sure to capitalize on the rookie's complete inexperience. 
+
+It's way too tempting to think that things will go differently this time around.  San Francisco has found rhythm on offense, especially now that Jimmy Garoppalo is (arguably) playing some of the best football of his career. Meanwhile, Russell Wilson is sinking to new lows in his career, having had nothing but flaccid performances the past three weeks after returning from finger surgery. Furthermore, Seattle's home field advantage is no longer what it used to be. And while the Seahawk defense has sharpened over the past several weeks, it can't be considered elite in any capacity whatsoever. 
+
+So why can't San Francisco notch a road win here? Three words - level of effort. San Francisco has just about every reason to sleepwalk through this game. Not only did it impress last week in a statement win against a resurgent Vikings team, but Seattle looked downright _pathetic_ in its loss against Washington the day after - a juggs machine would have racked up better stats than Russell Wilson last night. People are now claiming Russ is cooked. And in all truth, he probably is, give he's been on a downward trajectory since the bye last year. It was only the last couple weeks people finally noticed Russell lost so much of his moxie, so it shouldn't be much surprise to see the public fawning all over the 49ers this week.
+
+But all this plays to Seattle's advantage, should San Francisco walk out on to the field playing decently below their potential. Not to mention these Seahawks still play with some feistiness, especially on defense. And the offense can produce occasionally despite missing a few pistons. It's possible the Hawks can surprise some folks here, especially a 49er team expecting an easy win. Some help is needed, but the opportunity is there to steal one from a heavy public favorite. 
+
+ 
