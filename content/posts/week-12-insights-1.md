@@ -139,4 +139,6 @@ Jack Del Rio gambling with some risky blitzes to try and close out the game as R
 
 Bridgewater with a tightrope run to score a touchdown for his team. Trying to salvage his image after last week's terrible whiff.
 
-Derwin James is an absolute beast in all aspects of defense, even going as far as knocking Teddy Bridgewater out of the game (maybe temporarily though)
+Derwin James is an absolute beast in all aspects of defense, even going as far as knocking Teddy Bridgewater out of the game (maybe temporarily though.
+
+I swear, the Chargers can never quite finish on rushing plays. It's so sad, but they're absolutely hopeless against teams that can run the ball well. Even in situations where it's obvious the other team is planning on running the ball, the Chargers are hopeless.
