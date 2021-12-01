@@ -55,6 +55,8 @@ Matt Nagy insists on Andy Dalton passing the ball.
 **Chicago covers if**  
 their run/pass ratio favors the ground game. Chicago needs to wholeheartedly commit to running the ball against an Arizona defense vulnerable against opposing rushers.
 
+***
+
 ### 49ers @ Seahawks (+3)
 
 ***
@@ -97,5 +99,7 @@ they can come out strong against a 49er team expecting an easy win against a pus
 Shanahan and Garoppalo find ways to keep this offense consistently productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game  
 \- AND -  
 Russell Wilson has truly lost the drive to fight for his team and win. After that  failing effort last week against Washington, I'd imagine Russell Wilson would convene with Shane Waldron and his supporting cast and work on fixing this offense.
+
+***
 
  
