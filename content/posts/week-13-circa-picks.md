@@ -58,4 +58,18 @@ So why can't San Francisco notch a road win here? Three words - level of effort.
 
 But all this plays to Seattle's advantage, should San Francisco walk out on to the field playing decently below their potential. Not to mention these Seahawks still play with some feistiness, especially on defense. And the offense can produce occasionally despite missing a few pistons. It's possible the Hawks can surprise some folks here, especially a 49er team expecting an easy win. Some help is needed, but the opportunity is there to steal one from a heavy public favorite. 
 
- 
+#### _Weather_
+
+Not too cold, but humidity may be a factor here
+
+***
+
+Seahawks +3.5
+
+***
+
+**Seattle covers if**  
+they can come out strong against a 49er team expecting an easy win against a pushover. The Seahawks need to establish the early lead and force the 49ers to play from behind for a good bit of the game.
+
+**San Francisco covers if**  
+Shanahan and Garoppalo find ways to keep this offense very productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game.
