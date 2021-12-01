@@ -27,7 +27,9 @@ So let the good work here continue.
 
 Despite the bye, Kyler Murray and DeAndre Hopkins still remain question marks regarding their game-time status.
 
-As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense.
+As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense. 
+
+Honestly though, the most important injury to watch here is Justin Fields. It's not so much his raw passing talent that matters as it is his ability to scramble and execute designed quarterback runs. Arizona's worst games this season came against teams that can run the ball. More on that in the next section... 
 
 #### _History_
 
