@@ -141,4 +141,6 @@ Bridgewater with a tightrope run to score a touchdown for his team. Trying to sa
 
 Derwin James is an absolute beast in all aspects of defense, even going as far as knocking Teddy Bridgewater out of the game (maybe temporarily though.
 
-I swear, the Chargers can never quite finish on rushing plays. It's so sad, but they're absolutely hopeless against teams that can run the ball well. Even in situations where it's obvious the other team is planning on running the ball, the Chargers are hopeless.
+I swear, the Chargers can never quite finish on rushing plays. It's so sad, but they're absolutely hopeless against teams that can run the ball well. Even in situations where it's obvious the other team is planning on running the ball, the Chargers are hopeless. I mean, Denver has an absolute joke playing under center and Los Angeles still can't find the strength to stop Denver's tailbacks.
+
+I'm not sure why Mike Williams isn't more of a factor here. Is it the Denver effectively bracketing him in coverage by aligning a safety over him? Is it a possible injury? Is it Herbert prioritizing Keenan Allen more?
