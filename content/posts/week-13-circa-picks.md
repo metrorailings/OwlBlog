@@ -33,7 +33,9 @@ Honestly though, the most important injury to watch here is Justin Fields. It's 
 
 #### _History_
 
-Arizona ranks among the worst when it comes to rushing defense. Chicago's specialty (at least when Justin Fields is at the helm of the offense) is rushing the ball. But the problem here is that it seems more probable to me that Andy Dalton will start again for the Bears. For one thing, Justin Fields is dealing with cracked ribs, and ribs take time to heal properly. Two, I have a feeling Matt Nagy has taken a shine to Andy Dalton, if only because Dalton's better at running the type of concepts Nagy wishes to incorporate in his offense. On top of that, Dalton's on a winning streak, as meager a reason as that may be.
+Arizona ranks among the worst when it comes to rushing defense. Chicago's specialty (at least when Justin Fields is at the helm of the offense) is rushing the ball. But the problem here is that it seems more probable to me that Andy Dalton will start again for the Bears. For one thing, Justin Fields is dealing with cracked ribs, and ribs take time to heal properly. Two, I have a feeling Matt Nagy has taken a shine to Andy Dalton, if only because Dalton's better at running the type of passing plays Nagy loves to invoke. On top of that, Dalton's on a winning streak, as meager a reason as that may be.
+
+Hmmm...besides that, Arizona has been on a hot streak as of late, far surpassing its expectations and winning games they would have lost last year. It's tempting to think the Cardinals are nowhere near as spectacular as their record may suggest, but the team have shown some serious swagger this season. Unlike Chicago, Arizona can will its way to victory to domination even when things aren't initially in their favor.
 
 ***
 
