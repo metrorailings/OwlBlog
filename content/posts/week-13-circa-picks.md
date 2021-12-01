@@ -72,4 +72,6 @@ Seahawks +3.5
 they can come out strong against a 49er team expecting an easy win against a pushover. The Seahawks need to establish the early lead and force the 49ers to play from behind for a good bit of the game.
 
 **San Francisco covers if**  
-Shanahan and Garoppalo find ways to keep this offense consistently productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game.
+Shanahan and Garoppalo find ways to keep this offense consistently productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game  
+\- AND -  
+Russell Wilson has truly lost the drive to fight for his team and win.  
