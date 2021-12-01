@@ -74,4 +74,6 @@ they can come out strong against a 49er team expecting an easy win against a pus
 **San Francisco covers if**  
 Shanahan and Garoppalo find ways to keep this offense consistently productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game  
 \- AND -  
-Russell Wilson has truly lost the drive to fight for his team and win.  
+Russell Wilson has truly lost the drive to fight for his team and win. After that  failing effort last week against Washington, I'd imagine Russell Wilson would convene with Shane Waldron and his supporting cast and work on fixing this offense.
+
+ 
