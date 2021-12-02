@@ -178,3 +178,5 @@ Ben is washed up. It's almost sad. Old quarterbacks don't decline gracefully onc
 ## Jets @ Texans
 
 I'm seeing the Jets give up two significant rushes to Houston so far in the first drive. Not good considering the Texans have struggled to run the ball pretty much all season.
+
+Blitzes hitting home for both teams.
