@@ -171,3 +171,17 @@ What initially concerned me about Cincinnati's defense was what I initially thou
 #### _Weather_
 
 Quite a bit of rain is expected on an otherwise pleasant day
+
+***
+
+Bengals -3
+
+***
+
+**Cincinnati covers if**  
+their defense can prevent the Chargers from playing efficiently on offense. Just like last week against the Steelers, the Bengal defenders need to maintain tight coverage against the Charger skill players and make sure Austin Ekeler isn't given the oxygen necessary to pop off big runs. Los Angeles will have their receivers run all sorts of quick routes to give Justin Herbert quick outlets in the passing game, but Cincinnati can deter them from doing so by allocating more manpower to the flat and intermediate areas.
+
+**Los Angeles covers if**  
+their offense finally discovers new life by leveraging new concepts that weren't previously incorporated in the existing playbook  
+\- AND -  
+their defense can force turnovers from a quarterback prone to reckless plays every now and then.
