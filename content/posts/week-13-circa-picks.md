@@ -101,3 +101,20 @@ Shanahan and Garoppalo find ways to keep this offense consistently productive ag
 Russell Wilson has truly lost the drive to fight for his team and win. After that  failing effort last week against Washington, I'd imagine Russell Wilson would convene with Shane Waldron and his supporting cast and work on fixing this offense. Then again, if the rumor of his falling out with Pete Carroll are true...
 
 ***
+
+### Giants @ Dolphins (-5)
+
+***
+
+#### _Latest Results_
+
+Eagles @ **_Giants  
+_**Panthers @ **_Dolphins_**
+
+#### _Key Injuries_
+
+Daniel Jones is at risk of not playing this Sunday due to a neck strain. Without Jones, Mike Glennon tragically will be asked to start. On top of that, Sterling Shepard and Kadarius Toney are still suffering through some lingering injuries, so it's worth watching their status come Friday. The practice report on Wednesday indicated the Giants only conducted a walkthrough practice. It worries me to see New York be so leisurely coming off an uninspiring win.
+
+For Miami, Adam Shaheen is on track to return after practicing on a limited basis Wednesday. Other than that, nothing else is seriously worrying me. Even though the starting cornerbacks are limited, both are likely to play.
+
+#### _History_
