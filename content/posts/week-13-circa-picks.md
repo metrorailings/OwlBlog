@@ -27,7 +27,7 @@ So let the good work here continue.
 
 Despite the bye, Kyler Murray and DeAndre Hopkins still remain question marks regarding their game-time status.
 
-As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense. 
+As for Chicago, it's worth keeping an eye on Roquan Smith and Akiem Hicks.  Both are cornerstone pieces of the defensive front seven - missing both would be a severe blow to an otherwise high-level defense.
 
 Honestly though, the most important injury to watch here is Justin Fields. It's not so much his raw passing talent that matters as it is his ability to scramble and execute designed quarterback runs. Arizona's worst games this season usually came against teams that can run the ball. More on that in the next section...
 
@@ -74,13 +74,13 @@ Seattle desperately needs Damien Lewis and Jamarco James back, the former to anc
 
 #### _History_
 
-The first time these two danced, Seattle dominated thanks mostly to Trey Lance being forced to man the reins of the offense after injuries forced Garoppalo out of the game.  It was clear Lance was in no way prepared for the magnitude of the moment, and Seattle made sure to capitalize on the rookie's complete inexperience. 
+The first time these two danced, Seattle dominated thanks mostly to Trey Lance being forced to man the reins of the offense after injuries forced Garoppalo out of the game.  It was clear Lance was in no way prepared for the magnitude of the moment, and Seattle made sure to capitalize on the rookie's complete inexperience.
 
-It's way too tempting to think that things will go differently this time around.  San Francisco has found rhythm on offense, especially now that Jimmy Garoppalo is (arguably) playing some of the best football of his career. Meanwhile, Russell Wilson is sinking to new lows in his career, having had nothing but flaccid performances the past three weeks after returning from finger surgery. Furthermore, Seattle's home field advantage is no longer what it used to be. And while the Seahawk defense has sharpened over the past several weeks, it can't be considered elite in any capacity whatsoever. 
+It's way too tempting to think that things will go differently this time around.  San Francisco has found rhythm on offense, especially now that Jimmy Garoppalo is (arguably) playing some of the best football of his career. Meanwhile, Russell Wilson is sinking to new lows in his career, having had nothing but flaccid performances the past three weeks after returning from finger surgery. Furthermore, Seattle's home field advantage is no longer what it used to be. And while the Seahawk defense has sharpened over the past several weeks, it can't be considered elite in any capacity whatsoever.
 
 So why can't San Francisco notch a road win here? Three words - level of effort. San Francisco has just about every reason to sleepwalk through this game. Not only did it impress last week in a statement win against a resurgent Vikings team, but Seattle looked downright _pathetic_ in its loss against Washington the day after - a juggs machine would have racked up better stats than Russell Wilson last night. People are now claiming Russ is cooked. And in all truth, he probably is, give he's been on a downward trajectory since the bye last year. It was only the last couple weeks people finally noticed Russell lost so much of his moxie, so it shouldn't be much surprise to see the public fawning all over the 49ers this week.
 
-But all this plays to Seattle's advantage, should San Francisco walk out on to the field playing decently below their potential. Not to mention these Seahawks still play with some feistiness, especially on defense. And the offense can produce occasionally despite missing a few pistons. It's possible the Hawks can surprise some folks here, especially a 49er team expecting an easy win. Some help is needed, but the opportunity is there to steal one from a heavy public favorite. 
+But all this plays to Seattle's advantage, should San Francisco walk out on to the field playing decently below their potential. Not to mention these Seahawks still play with some feistiness, especially on defense. And the offense can produce occasionally despite missing a few pistons. It's possible the Hawks can surprise some folks here, especially a 49er team expecting an easy win. Some help is needed, but the opportunity is there to steal one from a heavy public favorite.
 
 #### _Weather_
 
@@ -98,8 +98,6 @@ they can come out strong against a 49er team expecting an easy win against a pus
 **San Francisco covers if**  
 Shanahan and Garoppalo find ways to keep this offense consistently productive against a spirited Seattle defense. It won't be easy especially considering Deebo Samuel will likely be ruled out for the game  
 \- AND -  
-Russell Wilson has truly lost the drive to fight for his team and win. After that  failing effort last week against Washington, I'd imagine Russell Wilson would convene with Shane Waldron and his supporting cast and work on fixing this offense.
+Russell Wilson has truly lost the drive to fight for his team and win. After that  failing effort last week against Washington, I'd imagine Russell Wilson would convene with Shane Waldron and his supporting cast and work on fixing this offense. Then again, if the rumor of his falling out with Pete Carroll are true...
 
 ***
-
- 
