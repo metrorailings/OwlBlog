@@ -160,3 +160,5 @@ Just uninspiring. Los Angeles is all too willing to throw the ball short.
 ***
 
 ## Steelers @ Bengals
+
+Despite five-man lines, Cincinnati found some decent success running its zone-rushing plays.
