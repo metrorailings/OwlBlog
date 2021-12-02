@@ -151,11 +151,11 @@ Chargers kickers are still missing field goals. As is tradition.
 
 This Chargers offensive line is getting massacred, especially by blitzes.
 
-Patrick Surtain turning into something special, despite being a rookie cornerback. 
+Patrick Surtain turning into something special, despite being a rookie cornerback.
 
 Denver's tailbacks have some serious game - their ability to juke and slide laterally is impressive. That being said, the Chargers have impressed me in the second half - they've been bottling up runs fairly well.
 
-Just uninspiring. Los Angeles is all too willing to throw the ball short. 
+Just uninspiring. Los Angeles is all too willing to throw the ball short.
 
 ***
 
@@ -167,8 +167,14 @@ So far, the Bengals defense haven't been prone to giving up receptions underneat
 
 Pittsburgh blitzed, and Joe Burrow made them pay with a touchdown pass. Still fantastic against the blitz.
 
-Rashard Higgins has been a significant contributor on this Bengals team, just like Tyler Boyd from last week. 
+Rashard Higgins has been a significant contributor on this Bengals team, just like Tyler Boyd from last week.
 
 The Bengals have been gashing these Steelers on the ground late in the second quarter. No wonder Pittsburgh's yards per carry surrendered has risen so sharply the past couple weeks...
 
 Ben is washed up. It's almost sad. Old quarterbacks don't decline gracefully once father time slows them.
+
+***
+
+## Jets @ Texans
+
+I'm seeing the Jets give up two significant rushes to Houston so far in the first drive. Not good considering the Texans have struggled to run the ball pretty much all season.
