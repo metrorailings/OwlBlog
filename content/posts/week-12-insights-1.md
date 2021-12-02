@@ -168,3 +168,5 @@ So far, the Bengals defense haven't been prone to giving up receptions underneat
 Pittsburgh blitzed, and Joe Burrow made them pay with a touchdown pass. Still fantastic against the blitz.
 
 Rashard Higgins has been a significant contributor on this Bengals team, just like Tyler Boyd from last week. 
+
+The Bengals have been gashing these Steelers on the ground late in the second quarter. No wonder Pittsburgh's yards per carry surrendered has risen so sharply the past couple weeks...
