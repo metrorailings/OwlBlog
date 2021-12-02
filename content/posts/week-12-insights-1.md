@@ -148,3 +148,5 @@ I'm not sure why Mike Williams isn't more of a factor here. Is it the Denver eff
 Chargers offensive line starting to show itself as a liability. Senio Kelemete in particular set this offense back twice on the same drive. The tight ends aren't much for run-blocking too, although I need to see them some more.
 
 Chargers kickers are still missing field goals. As is tradition.
+
+This Chargers offensive line is getting massacred, especially by blitzes. 
