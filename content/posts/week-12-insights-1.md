@@ -182,3 +182,5 @@ I'm seeing the Jets give up two significant rushes to Houston so far in the firs
 Blitzes hitting home for both teams.
 
 I'm seeing the Jets take chances on all sorts of blitzes, including zero blitzes. 
+
+Two successive deep throws from Tyrod Taylor, the second going for a touchdown despite a pass interference penalty.
