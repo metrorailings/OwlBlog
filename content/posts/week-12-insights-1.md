@@ -162,3 +162,9 @@ Just uninspiring. Los Angeles is all too willing to throw the ball short.
 ## Steelers @ Bengals
 
 Despite five-man lines, Cincinnati found some decent success running its zone-rushing plays.
+
+So far, the Bengals defense haven't been prone to giving up receptions underneath. Only on one play did the defense give Pittsburgh's receivers considerable space in the flat.
+
+Pittsburgh blitzed, and Joe Burrow made them pay with a touchdown pass. Still fantastic against the blitz.
+
+Rashard Higgins has been a significant contributor on this Bengals team, just like Tyler Boyd from last week. 
