@@ -142,3 +142,22 @@ Freddie Kitchens once again fails to renovate this offense, making things much e
 their main skill players on offense return in top form  
 \- AND -  
 Freddie Kitchens can actually infuse life back into this offense by introducing new concepts that were never incorporated back when Garrett was still in charge on that side of the ball.
+
+***
+
+### Chargers @ Bengals (-3)
+
+***
+
+#### _Latest Results_
+
+Chargers @ **_Broncos  
+_**Steelers @ **_Bengals_**
+
+#### _Key Injuries_
+
+Chargers look fairly healthy, though the Thursday and Friday practices will tell us all we need to know.
+
+Cincinnati's offensive line is a bit banged up from last week's contest against Pittsburgh, but all linemen are expected to be active next Sunday. Still, it's worth keeping an eye on their injury report come Friday.
+
+#### _History_
