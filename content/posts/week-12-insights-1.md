@@ -152,3 +152,5 @@ Chargers kickers are still missing field goals. As is tradition.
 This Chargers offensive line is getting massacred, especially by blitzes.
 
 Patrick Surtain turning into something special, despite being a rookie cornerback. 
+
+Denver's tailbacks have some serious game - their ability to juke and slide laterally is impressive. That being said, the Chargers have impressed me in the second half - they've been bottling up runs fairly well.
