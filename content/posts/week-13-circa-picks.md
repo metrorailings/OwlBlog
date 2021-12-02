@@ -39,7 +39,7 @@ Hmmm...besides that, Arizona has been on a hot streak over the course of the sea
 
 #### _Weather_
 
-Some wet weather and winds are expected. Not to mention it's pretty cold too
+Heavy rains are looking more and more likely as the days pass
 
 ***
 
@@ -161,3 +161,13 @@ Chargers look fairly healthy, though the Thursday and Friday practices will tell
 Cincinnati's offensive line is a bit banged up from last week's contest against Pittsburgh, but all linemen are expected to be active next Sunday. Still, it's worth keeping an eye on their injury report come Friday.
 
 #### _History_
+
+Last year, the Tyrod Taylor-led Chargers barely won against Joe Burrow and his team in their first-ever start. Obviously, things have changed considerably since then. The Chargers now have a truly talented quarterback at the helm of their offense while the Bengals have seriously upgraded their roster in the offseason. On top of that, Los Angeles is coming into the game with a completely different coaching regime, one more oriented towards heavy pass coverage and quick passes.
+
+That being said, the Bengals are one of the better teams at rushing the ball, which doesn't bode well in the least for Los Angeles and their league-worst rushing defense. Even more worryingly, Cincinnati's boasts a quality defense as well. It's not considered elite in any one respect, but it's solid across the board.
+
+What initially concerned me about Cincinnati's defense was what I initially thought was a tendency to surrender passes underneath in the flat, like in the Jets game. But last week, it was noticeable that the Bengals were playing Pittsburgh's receivers fairly tight, even cutting some quick routes right as they developed. Only once did I see the Bengals give the Steeler skill players space in the flat.
+
+#### _Weather_
+
+Quite a bit of rain is expected on an otherwise pleasant day
