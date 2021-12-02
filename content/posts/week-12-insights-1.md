@@ -170,3 +170,5 @@ Pittsburgh blitzed, and Joe Burrow made them pay with a touchdown pass. Still fa
 Rashard Higgins has been a significant contributor on this Bengals team, just like Tyler Boyd from last week. 
 
 The Bengals have been gashing these Steelers on the ground late in the second quarter. No wonder Pittsburgh's yards per carry surrendered has risen so sharply the past couple weeks...
+
+Ben is washed up. It's almost sad. Old quarterbacks don't decline gracefully once father time slows them.
