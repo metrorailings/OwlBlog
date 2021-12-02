@@ -156,3 +156,7 @@ Patrick Surtain turning into something special, despite being a rookie cornerbac
 Denver's tailbacks have some serious game - their ability to juke and slide laterally is impressive. That being said, the Chargers have impressed me in the second half - they've been bottling up runs fairly well.
 
 Just uninspiring. Los Angeles is all too willing to throw the ball short. 
+
+***
+
+## Steelers @ Bengals
