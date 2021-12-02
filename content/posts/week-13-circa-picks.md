@@ -118,3 +118,27 @@ Daniel Jones is at risk of not playing this Sunday due to a neck strain. Without
 For Miami, Adam Shaheen is on track to return after practicing on a limited basis Wednesday. Other than that, nothing else is seriously worrying me. Even though the starting cornerbacks are limited, both are likely to play.
 
 #### _History_
+
+No recent history between these two, but Joe Judge and Brian Flores know one another from their New England days - the former being the special teams coordinator while the latter was effectively in charge of the defense. Even still, it won't exactly be Judge who Flores will be planning against this week - it'll be Freddie Kitchens, who frankly bored the hell out of me with his uninspiring play calls last Sunday. Other than more shotgun draws, I'm not sure Kitchens actively added any more wrinkles into the offense. Maybe Judge is right and Kitchens needs more time to adjust the offense to something more imaginative and more tailored to the offensive players on the roster, but I'll believe that when I start seeing some progress.
+
+Miami's offense is predicated on quick throws to skill players running flat routes. Can the Giants defense adjust accordingly and play more man coverage to disrupt the Dolphins before they run their routes? Not too sure. In my opinion, Patrick Graham didn't do nearly enough to stem Philadelphia's rushing game last Sunday - the Eagles still managed to chew off over 200 rushing yards against New York. It was only because the Eagles insisted on Jalen Hurts passing way too much for his own good that the Giants were able to hold long enough to win the game.
+
+#### _Weather_
+
+Slight chance of rain on an otherwise gorgeous Miami day
+
+***
+
+Dolphins -5
+
+***
+
+**Miami covers if**  
+Sterling Shepard and Kadarius Toney are still unable to play at full strength come gametime  
+\- AND -  
+Freddie Kitchens once again fails to renovate this offense, making things much easier for a Miami defense that's been steadily improving over the past several weeks.
+
+**New York covers if**  
+their main skill players on offense return in top form  
+\- AND -  
+Freddie Kitchens can actually infuse life back into this offense by introducing new concepts that were never incorporated back when Garrett was still in charge on that side of the ball.
