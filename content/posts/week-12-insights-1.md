@@ -184,3 +184,5 @@ Blitzes hitting home for both teams.
 I'm seeing the Jets take chances on all sorts of blitzes, including zero blitzes. 
 
 Two successive deep throws from Tyrod Taylor, the second going for a touchdown despite a pass interference penalty.
+
+Justin Reid idiotically deactivated from the game. Odd. The coach saw fit to punish him for voicing his thoughts on the dismal state of the team.
