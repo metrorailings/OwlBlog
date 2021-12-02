@@ -145,4 +145,6 @@ I swear, the Chargers can never quite finish on rushing plays. It's so sad, but 
 
 I'm not sure why Mike Williams isn't more of a factor here. Is it the Denver effectively bracketing him in coverage by aligning a safety over him? Is it a possible injury? Is it Herbert prioritizing Keenan Allen more?
 
-Chargers offensive line starting to show itself as a liability. Senio Kelemete in particular set this offense back twice on the same drive.
+Chargers offensive line starting to show itself as a liability. Senio Kelemete in particular set this offense back twice on the same drive. The tight ends aren't much for run-blocking too, although I need to see them some more.
+
+Chargers kickers are still missing field goals. As is tradition.
