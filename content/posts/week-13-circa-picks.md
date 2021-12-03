@@ -188,7 +188,7 @@ their defense can force turnovers from a quarterback prone to reckless plays eve
 
 ***
 
-## Eagles @ Jets (+7)
+### Eagles @ Jets (+7)
 
 ***
 
@@ -202,6 +202,8 @@ Eagles @ **_Giants_**
 Jack Driscoll landed on injured reserve after his ankle gave out during the game against the Giants. With that loss, their offensive line will be really tested given Driscoll was already filling in for a starting guard in the first place. Besides that, Jalen Hurts also showed up on the injury report with a tweaked ankle, but he's expected to strive on forward.
 
 For the Jets, Mike White and Keelan Cole are currently sidelined with COVID designations. Corey Davis is still working through a groin issue that kept him out last week.
+
+EDIT: Jalen Hurts status is "unknown", according to Sirianni. He's been able to practice all week, but a small but significant chance remains he won't be able to play. Gardner Minshew would be slotted into place in relief duty. Would it change much against this Jets bottom-of-the-barrel defense? 
 
 #### _History_
 
