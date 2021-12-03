@@ -204,3 +204,21 @@ Jack Driscoll landed on injured reserve after his ankle gave out during the game
 For the Jets, Mike White and Keelan Cole are currently sidelined with COVID designations. Corey Davis is still working through a groin issue that kept him out last week.
 
 #### _History_
+
+Neither of these two have danced recently given both belong to different conferences. That being said, the Jets defense has been historically inept. Their rushing defense is particular has been utterly pathetic. Unfortunately for them, Philadelphia is one of the best rushing outfits in the league. It's been their ability to matriculate the rock over ground that's scored them quite a few wins this year.
+
+#### _Weather_
+
+Unseasonably warm for an early December game at Metlife
+
+***
+
+Eagles -7
+
+***
+
+**Philadelphia covers if**  
+their offensive coaches remain committed to rushing the ball behind Jalen Hurts and Miles Sanders. Their downfall last week was their bull-headed insistence on having Hurts pass the ball on critical downs. That can't be the case this week.
+
+**New York covers if**  
+Zach Wilson manages to negotiate around Philadelphia's aggressive pass rush and keep the chains moving consistently, dominating time of possession in the process.
