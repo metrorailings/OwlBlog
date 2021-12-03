@@ -300,3 +300,16 @@ Teddy has one of his better games of the season.
 
 **Kansas City covers if  
 **their defense can force some ugly turnovers from Teddy Bridgewater.
+
+***
+
+### Ravens @ Steelers (-4.5)
+
+***
+
+#### _Latest Results_
+
+Browns @ **_Ravens_** (SNF)  
+Steelers @ **_Bengals_**
+
+#### _Key Injuries_
