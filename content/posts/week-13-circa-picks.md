@@ -151,8 +151,8 @@ Freddie Kitchens can actually infuse life back into this offense by introducing 
 
 #### _Latest Results_
 
-Chargers @ **_Broncos  
-_**Steelers @ **_Bengals_**
+Chargers @ **_Broncos_**  
+Steelers @ **_Bengals_**
 
 #### _Key Injuries_
 
@@ -188,4 +188,19 @@ their defense can force turnovers from a quarterback prone to reckless plays eve
 
 ***
 
-## 
+## Eagles @ Jets (+7)
+
+***
+
+#### _Latest Results_
+
+Eagles @ **_Giants_**  
+**_Jets_** @ Texans
+
+#### _Key Injuries_
+
+Jack Driscoll landed on injured reserve after his ankle gave out during the game against the Giants. With that loss, their offensive line will be really tested given Driscoll was already filling in for a starting guard in the first place. Besides that, Jalen Hurts also showed up on the injury report with a tweaked ankle, but he's expected to strive on forward.
+
+For the Jets, Mike White and Keelan Cole are currently sidelined with COVID designations. Corey Davis is still working through a groin issue that kept him out last week.
+
+#### _History_
