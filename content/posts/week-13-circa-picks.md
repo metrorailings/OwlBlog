@@ -185,3 +185,7 @@ their defense can prevent the Chargers from playing efficiently on offense. Just
 their offense finally discovers new life by leveraging new concepts that weren't previously incorporated in the existing playbook  
 \- AND -  
 their defense can force turnovers from a quarterback prone to reckless plays every now and then.
+
+***
+
+## 
