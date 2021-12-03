@@ -11,3 +11,5 @@ Dak finally scored a touchdown thanks to big plays from CeeDee Lamb and Amari Co
 New Orleans with the hard play action leading to a wide open touchdown. Well done, Sean Payton.
 
 DeMarcus Lawrence with a near sack fumble that would have closed out the game for the Cowboys. His presence is being felt.
+
+The game was won by the Cowboys pass rush in its entirety. They've done some spectacular work.
