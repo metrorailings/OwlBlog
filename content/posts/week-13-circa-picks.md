@@ -313,3 +313,33 @@ Browns @ **_Ravens_** (SNF)
 Steelers @ **_Bengals_**
 
 #### _Key Injuries_
+
+Both teams are wracked with injuries. The Ravens have a virulent illness infecting members of their secondary, some of whom are already afflicted with other injuries. Its possible practice squad players may need to be called up to man the defensive backfield as starters.
+
+Pittsburgh will likely lose TJ Watt yet again to COVID depending on the outcome of his tests Saturday. On top of that, Cameron Heyward's status is at risk as well due to a sudden illness popping up on Friday. Add on top of that Joe Haden definitely being ruled out and you have a Steeler defense missing so many of its key contributors before a major game yet again. 
+
+#### _History_
+
+These teams hate one another. Last year, the Steelers managed to clown the Ravens in both their games. But that was a Pittsburgh team packing an elite defense. This year's unit has dropped off a bit. Injuries have neutered them somewhat too.
+
+#### _Weather_
+
+Temperate weather with some rains expected to hit towards the second half of the game
+
+***
+
+Undecided
+
+***
+
+**Baltimore covers if**  
+their defense does just enough to force Ben to play like a crippled old man  
+\- OR -  
+Cameron Heyward and TJ Watt are both out, leaving the Steel Curtain defense without its two best linemen as well as its best cornerback in Joe Haden.
+
+**Pittsburgh covers if**  
+at least Heyward or Watt are both available to play  
+\- AND -  
+Baltimore's missing way too many bodies in their defensive backfield  
+\- AND -  
+Roethlisberger can muster something resembling a passing game against a depleted Ravens secondary.
