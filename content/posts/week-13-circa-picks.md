@@ -272,3 +272,7 @@ Chargers @ **_Broncos_**
 Cowboys @ **_Chiefs_** \[BYE\]
 
 #### _Key Injuries_
+
+Melvin Gordon's status is very uncertain heading into the contest Sunday night. His compatriot in Javonte Williams is ready to assume the workhorse role should Gordon be out. Tackle Garrett Bolles will be returning from COVID reserve, though Denver will lose their other starting tackle in Calvin Anderson for the season.
+
+The Chiefs are mostly fine coming off a bye, although offensive lineman Lucas Niang may be a point of concern.
