@@ -241,3 +241,21 @@ Washington will lose Joey Slye for the season, forcing them to sign somebody off
 Very likely Darren Waller could be out this Sunday, leaving the Raiders without one of their best weapons on offense. Josh Jacobs is working through injuries as well. But some good news - Trayvon Mullen will likely make his return from injured reserve, giving the Raiders some more reinforcement back there in the secondary. 
 
 #### _History_
+
+No actual history to explore between these two teams. Both are unfamiliar with one another in almost every aspect. Let this be a true test of the game planning potential for both of these teams.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Undecided
+
+***
+
+**Washington covers if**  
+they can keep the Raiders to less than 20 points.
+
+**Las Vegas covers if**  
+they can score more than 20 points against this resurgent Washington defense.
