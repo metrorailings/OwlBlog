@@ -278,3 +278,23 @@ Melvin Gordon's status is very uncertain heading into the contest Sunday night. 
 The Chiefs are mostly fine coming off a bye, although offensive lineman Lucas Niang may be a point of concern.
 
 #### _History_
+
+Division rivals meet on Sunday night to fight for the AFC West crown. In both their matches last year, Denver played reasonably well. The first match was a blowout thanks to two touchdowns scored by the defense and special teams units. The second match was so much closer in spirit, with Denver actually holding a lead late in the 3rd quarter. But level of effort becomes a factor here given the spread and the way the two teams were publicly perceived following their games the week before. 
+
+#### _Weather_
+
+Cold and moderately windy
+
+***
+
+Undecided
+
+***
+
+**Denver covers if**  
+Vic Fangio's defense can stonewall the Chiefs offense on at least half of its drives. Certainly possible given the Broncos were able to do just that in the second game last season against a Chiefs offense that was among the league's most productive units  
+\- AND -  
+Teddy has one of his better games of the season. 
+
+**Kansas City covers if  
+**their defense can force some ugly turnovers from Teddy Bridgewater.
