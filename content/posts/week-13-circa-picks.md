@@ -14,7 +14,7 @@ So let the good work here continue.
 
 ***
 
-### Cardinals @ Bears (+8)
+### Cardinals @ Bears (+7.5)
 
 ***
 
@@ -48,12 +48,12 @@ Undecided
 ***
 
 **Arizona covers if**  
-the team shows up fully prepared coming off the bye, something that's never happened under Kliff Kingsbury  
+the team shows up fully prepared coming off the bye, something that's never happened before under Kliff Kingsbury  
 \- AND -  
 Matt Nagy insists on Andy Dalton passing the ball.
 
 **Chicago covers if**  
-their run/pass ratio favors the ground game. Chicago needs to wholeheartedly commit to running the ball against an Arizona defense vulnerable against opposing rushers.
+their run/pass ratio favors the ground game. Chicago needs to wholeheartedly commit to running the ball against an Arizona defense vulnerable against opposing rushers. The weather being particularly nasty this Sunday should help them in that regard.
 
 ***
 
