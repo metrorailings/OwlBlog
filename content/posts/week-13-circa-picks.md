@@ -222,3 +222,18 @@ their offensive coaches remain committed to rushing the ball behind Jalen Hurts 
 
 **New York covers if**  
 Zach Wilson manages to negotiate around Philadelphia's aggressive pass rush and keep the chains moving consistently, dominating time of possession in the process.
+
+***
+
+### Washington @ Raiders (-2.5)
+
+***
+
+#### _Latest Results_
+
+Seahawks @ **_Washington_** (MNF)  
+**_Raiders_** @ Cowboys (Thanksgiving)
+
+#### _Key Injuries_
+
+Very likely Darren Waller could be out this Sunday, leaving the Raiders minus one of their best weapons on offense. Josh Jacobs is working through injuries as well.
