@@ -239,3 +239,5 @@ Seahawks @ **_Washington_** (MNF)
 Washington will lose Joey Slye for the season, forcing them to sign somebody off the street to kick field goals for them. Not good. Additionally, J.D. McKissic will likely be sidelined with a concussion.
 
 Very likely Darren Waller could be out this Sunday, leaving the Raiders without one of their best weapons on offense. Josh Jacobs is working through injuries as well. But some good news - Trayvon Mullen will likely make his return from injured reserve, giving the Raiders some more reinforcement back there in the secondary. 
+
+#### _History_
