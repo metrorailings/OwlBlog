@@ -250,7 +250,7 @@ Dome game
 
 ***
 
-Undecided
+Raiders -2.5
 
 ***
 
@@ -259,3 +259,16 @@ they can keep the Raiders to less than 20 points.
 
 **Las Vegas covers if**  
 they can score more than 20 points against this resurgent Washington defense. It's clear Las Vegas can only win games when the offense develops some sort of rhythm. When the offense is gutless, the team loses it mojo completely.
+
+***
+
+### Broncos @ Chiefs (-9.5)
+
+***
+
+#### _Latest Results_
+
+Chargers @ **_Broncos_**  
+Cowboys @ **_Chiefs_** \[BYE\]
+
+#### _Key Injuries_
