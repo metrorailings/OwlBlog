@@ -4,3 +4,8 @@ draft = true
 headline = "Week 13 Insights"
 
 +++
+## Cowboys @ Saints
+
+Dak finally scored a touchdown thanks to big plays from CeeDee Lamb and Amari Cooper. Both are fundamental to the functioning of this offense.
+
+New Orleans with the hard play action leading to a wide open touchdown. Well done, Sean Payton.
