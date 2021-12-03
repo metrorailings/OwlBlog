@@ -258,4 +258,4 @@ Undecided
 they can keep the Raiders to less than 20 points.
 
 **Las Vegas covers if**  
-they can score more than 20 points against this resurgent Washington defense.
+they can score more than 20 points against this resurgent Washington defense. It's clear Las Vegas can only win games when the offense develops some sort of rhythm. When the offense is gutless, the team loses it mojo completely.
