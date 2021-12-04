@@ -49,8 +49,10 @@ Bears +7.5
 
 **Arizona covers if**  
 the team shows up fully prepared coming off the bye, something that's never happened before under Kliff Kingsbury  
-\- AND -  
-Matt Nagy insists on Andy Dalton passing the ball.
+\- OR -  
+Matt Nagy insists on Andy Dalton passing the ball  
+\- OR -  
+Chicago's injuries on defense prove too much to overcome.
 
 **Chicago covers if**  
 their run/pass ratio favors the ground game. Chicago needs to wholeheartedly commit to running the ball against an Arizona defense vulnerable against opposing rushers. The weather being particularly nasty this Sunday should help them in that regard.
