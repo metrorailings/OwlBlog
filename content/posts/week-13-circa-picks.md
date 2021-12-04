@@ -39,11 +39,11 @@ Hmmm...besides that, Arizona has been on a hot streak over the course of the sea
 
 #### _Weather_
 
-Heavy rains are looking more and more likely as the days pass
+Considerable rain is all but guaranteed. We're in for a wet one, folks.
 
 ***
 
-Undecided
+Bears +7.5
 
 ***
 
