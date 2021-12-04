@@ -345,3 +345,16 @@ at least Heyward or Watt are both available to play
 Baltimore's missing way too many bodies in their defensive backfield  
 \- AND -  
 Roethlisberger can muster something resembling a passing game against a depleted Ravens secondary.
+
+***
+
+### Colts @ Texans (+10)
+
+***
+
+#### _Latest Results_
+
+**_Jets_** @ Texans  
+**_Buccaneers_** @ Colts
+
+#### _Key Injuries_
