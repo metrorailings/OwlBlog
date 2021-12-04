@@ -336,7 +336,7 @@ Undecided
 
 **Baltimore covers if**  
 their defense does just enough to force Ben to play like a crippled old man  
-\- OR -  
+\- AND -  
 Cameron Heyward and TJ Watt are both out, leaving the Steel Curtain defense without its two best linemen as well as its best cornerback in Joe Haden.
 
 **Pittsburgh covers if**  
