@@ -358,3 +358,31 @@ Roethlisberger can muster something resembling a passing game against a depleted
 **_Buccaneers_** @ Colts
 
 #### _Key Injuries_
+
+Indianapolis is remarkably healthy coming into the game. Quite impressive given it's December.
+
+Houston will be missing some players, namely their best receiver in Brandin Cooks. Cooks is dealing with an illness that could keep him from even attending the game.
+
+#### _History_
+
+Both of these teams met earlier in the year, when Davis Mills was still the quarterback for Houston. It was a complete route, with the Colts blasting the Texans by four scores. Tyrod Taylor is a bit more competent helming the offense, but let's not kid ourselves - the Texans are still atrocious. And if Brandin Cooks doesn't play, Houston will be missing the services of its only good receiver. No other receiver has come close to his production, let alone tallied up even 250 yards.
+
+#### _Weather_
+
+Aside from some winds, it's great weather
+
+***
+
+Colts -10
+
+***
+
+**Indianapolis covers if**  
+Brandin Cooks is unable to play this weekend  
+\- OR -  
+the Colts dedicate themselves wholeheartedly to padding Jonathan Taylor's stats this weekend.
+
+**Houston covers if**  
+Cooks suits up and contributes  
+\- AND -  
+the Colts come into the game hungover.
