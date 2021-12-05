@@ -26,8 +26,10 @@ Indianapolis isn't even trying here, even though the cover is nearly guaranteed.
 
 ## Washington @ Raiders
 
-There's a book out there on the Raiders. For their offense to be stonewalled on so many drives, it's worrying. Every time they lose this year, their offense can never manage more than 20 points. Las Vegas isn't doing something right - maybe it's predictability? Maybe it's tells? Or maybe it's just a team that operates off ebbs and flows every week. 
+There's a book out there on the Raiders. For their offense to be stonewalled on so many drives, defensive coaches have keyed in on this offense. Every time they lose this year, their offense can never manage more than 20 points. Las Vegas isn't doing something right - maybe it's predictability? Maybe it's tells? Or maybe it's just a team that operates off ebbs and flows every week. 
 
 Logan Thomas already making a big impact on this offense.
 
 Heinecke and Gibson are tough sons of bitches. Kudos to Washington for being tough and constantly fighting to keep the game competitive.
+
+Derek Carr's time to throw has to be studied here. He's holding the ball way too long, which usually indicates none of his receivers are open.
