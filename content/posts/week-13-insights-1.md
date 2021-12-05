@@ -33,3 +33,5 @@ Logan Thomas already making a big impact on this offense.
 Heinecke and Gibson are tough sons of bitches. Kudos to Washington for being tough and constantly fighting to keep the game competitive.
 
 Derek Carr's time to throw has to be studied here. He's holding the ball way too long, which usually indicates none of his receivers are open.
+
+I notice Washington dropping linebackers into the intermediate area of the field...makes me wonder if (like the Chiefs) the Raiders offense is unable to operate in dribs and drabs.
