@@ -49,3 +49,9 @@ Josh Norman is a point of weakness along that 49er secondary.
 Contrary to Vegas expectations, Kansas City hasn't really fixed itself up much over the bye - Mahomes has less than 100 yards passing in the first half. Let this be testament to the theory that Vegas stubbornly sets their own line, contrary to whatever the public or even the esteemed sharps think. If a significant portion of money is on one side, so be it.
 
 Interesting. Even after throwing a near-pick to close out the first half, the Broncos are fine letting Teddy Bridgewater still throw the ball immediately afterwards.
+
+***
+
+## Chargers @ Bengals
+
+Tone was set early in the game on an impressive kick return from Los Angeles.
