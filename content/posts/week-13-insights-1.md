@@ -63,3 +63,5 @@ Tone was set early in the game on an impressive kick return from Los Angeles.
 Keenan Allen making a tough catch for a touchdown.
 
 I just realized the Staley-style of defense is perfectly suited to stop zone runs from popping off. Had I realized this , I would have simply stepped back from making a pick on this game. 
+
+Worth keeping in mind that the Bengals have inactivated two of their starting offensive linemen today. Interesting....
