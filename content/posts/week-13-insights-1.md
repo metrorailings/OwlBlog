@@ -52,10 +52,14 @@ Interesting. Even after throwing a near-pick to close out the first half, the Br
 
 Javonte Williams a beast.
 
+The Chiefs also lost their mojo. Tyreek Hill shouldn't be dropping passes. Opposing defenses shouldn't be gifted interceptions. 
+
 ***
 
 ## Chargers @ Bengals
 
 Tone was set early in the game on an impressive kick return from Los Angeles.
 
-Keenan Allen making tough 
+Keenan Allen making a tough catch for a touchdown.
+
+I just realized the Staley-style of defense is perfectly suited to stop zone runs from popping off. Had I realized this , I would have simply stepped back from making a pick on this game. 
