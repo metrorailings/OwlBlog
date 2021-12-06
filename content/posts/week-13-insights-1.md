@@ -54,6 +54,8 @@ Javonte Williams a beast.
 
 The Chiefs also lost their mojo. Tyreek Hill shouldn't be dropping passes. Opposing defenses shouldn't be gifted interceptions. 
 
+On a positive note, their defense has shown some moxie this year. Changing up a tendency was all it took for Teddy Bridgewater to throw an interception on a crucial drive.
+
 ***
 
 ## Chargers @ Bengals
