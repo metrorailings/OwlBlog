@@ -69,3 +69,5 @@ I just realized the Staley-style of defense is perfectly suited to stop zone run
 Worth keeping in mind that the Bengals have inactivated two of their starting offensive linemen today. Interesting....
 
 I'm starting to feel silly taking a game where level of effort was clearly going to come into question for the home team. On top of that, the system disadvantage as well as the injuries along their offensive line should have scared me off this game. 
+
+On another note, it's good to see the Chargers commit so much more to the deep ball. All their touchdowns in the first half came off a big play.
