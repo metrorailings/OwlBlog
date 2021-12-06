@@ -50,8 +50,12 @@ Contrary to Vegas expectations, Kansas City hasn't really fixed itself up much o
 
 Interesting. Even after throwing a near-pick to close out the first half, the Broncos are fine letting Teddy Bridgewater still throw the ball immediately afterwards.
 
+Javonte Williams a beast.
+
 ***
 
 ## Chargers @ Bengals
 
 Tone was set early in the game on an impressive kick return from Los Angeles.
+
+Keenan Allen making tough 
