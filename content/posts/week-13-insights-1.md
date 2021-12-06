@@ -34,4 +34,16 @@ Heinecke and Gibson are tough sons of bitches. Kudos to Washington for being tou
 
 Derek Carr's time to throw has to be studied here. He's holding the ball way too long, which usually indicates none of his receivers are open.
 
-I notice Washington dropping linebackers into the intermediate area of the field...makes me wonder if (like the Chiefs) the Raiders offense is unable to operate in dribs and drabs.
+I notice Washington dropping linebackers into the intermediate area of the field...makes me wonder if (like the Chiefs) the Raiders offense is unable to operate in dribs and drabs. But what about sideline routes?
+
+***
+
+## 49ers @ Seahawks
+
+Josh Norman is a point of weakness along that 49er secondary.
+
+***
+
+## Broncos @ Chiefs
+
+Contrary to Vegas expectations, Kansas City hasn't really fixed itself up much over the bye - Mahomes has less than 100 yards passing in the first half. Let this be testament to the theory that Vegas stubbornly sets their own line, contrary to whatever the public or even the esteemed sharps think. If a significant portion of money is on one side, so be it.
