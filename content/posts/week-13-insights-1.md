@@ -77,3 +77,15 @@ On another note, it's good to see the Chargers commit so much more to the deep b
 ## Patriots @ Bills
 
 In this windy weather and their heavy formations, the Patriots have made it so obvious they want to run the ball. And yet...they're still able to run the ball just fine, amazingly enough. The Bills have serious issues defending trains through the C gap.
+
+The Bills and their smaller linebackers can't defend the edge against capable rushers. It's just sad.
+
+***
+
+## Cardinals @ Bears
+
+Let's not be mistaken here - the Cardinals were fortunate to collect their first two interceptions here. That being said, this is the exact type of magic I'm talking about. Every year, one or two teams have this rare magic to make things work in their favor. Arizona is the bearer of that magic this year.
+
+Chicago is running the ball with some gusto here. Arizona's defense is still soft against opposing rushers.
+
+Kyler Murray is faster than most tailbacks in the NFL.
