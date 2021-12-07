@@ -89,3 +89,5 @@ Let's not be mistaken here - the Cardinals were fortunate to collect their first
 Chicago is running the ball with some gusto here. Arizona's defense is still soft against opposing rushers.
 
 Kyler Murray is faster than most tailbacks in the NFL.
+
+DeAndre Hopkins' receiving ability is freakish.
