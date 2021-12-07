@@ -26,7 +26,7 @@ Indianapolis isn't even trying here, even though the cover is nearly guaranteed.
 
 ## Washington @ Raiders
 
-There's a book out there on the Raiders. For their offense to be stonewalled on so many drives, defensive coaches have keyed in on this offense. Every time they lose this year, their offense can never manage more than 20 points. Las Vegas isn't doing something right - maybe it's predictability? Maybe it's tells? Or maybe it's just a team that operates off ebbs and flows every week. 
+There's a book out there on the Raiders. For their offense to be stonewalled on so many drives, defensive coaches have keyed in on this offense. Every time they lose this year, their offense can never manage more than 20 points. Las Vegas isn't doing something right - maybe it's predictability? Maybe it's tells? Or maybe it's just a team that operates off ebbs and flows every week.
 
 Logan Thomas already making a big impact on this offense.
 
@@ -52,7 +52,7 @@ Interesting. Even after throwing a near-pick to close out the first half, the Br
 
 Javonte Williams a beast.
 
-The Chiefs also lost their mojo. Tyreek Hill shouldn't be dropping passes. Opposing defenses shouldn't be gifted interceptions. 
+The Chiefs also lost their mojo. Tyreek Hill shouldn't be dropping passes. Opposing defenses shouldn't be gifted interceptions.
 
 On a positive note, their defense has shown some moxie this year. Changing up a tendency was all it took for Teddy Bridgewater to throw an interception on a crucial drive.
 
@@ -64,10 +64,16 @@ Tone was set early in the game on an impressive kick return from Los Angeles.
 
 Keenan Allen making a tough catch for a touchdown.
 
-I just realized the Staley-style of defense is perfectly suited to stop zone runs from popping off. Had I realized this , I would have simply stepped back from making a pick on this game. 
+I just realized the Staley-style of defense is perfectly suited to stop zone runs from popping off. Had I realized this , I would have simply stepped back from making a pick on this game.
 
 Worth keeping in mind that the Bengals have inactivated two of their starting offensive linemen today. Interesting....
 
-I'm starting to feel silly taking a game where level of effort was clearly going to come into question for the home team. On top of that, the system disadvantage as well as the injuries along their offensive line should have scared me off this game. 
+I'm starting to feel silly taking a game where level of effort was clearly going to come into question for the home team. On top of that, the system disadvantage as well as the injuries along their offensive line should have scared me off this game.
 
-On another note, it's good to see the Chargers commit so much more to the deep ball. All their touchdowns in the first half came off a big play. It looks very likely that once all is said and done this week, Justin Herbert will come out as the quarterback throwing for the most intended air yards this week. 
+On another note, it's good to see the Chargers commit so much more to the deep ball. All their touchdowns in the first half came off a big play. It looks very likely that once all is said and done this week, Justin Herbert will come out as the quarterback throwing for the most intended air yards this week.
+
+***
+
+## Patriots @ Bills
+
+In this windy weather and their heavy formations, the Patriots have made it so obvious they want to run the ball. And yet...they're still able to run the ball just fine, amazingly enough. The Bills have serious issues defending trains through the C gap.
