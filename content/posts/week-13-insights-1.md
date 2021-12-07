@@ -93,4 +93,4 @@ DeAndre Hopkins' receiving ability is freakish.
 
 The Cardinals have been hammering down on the Bears with their bootlegs, but Andy Dalton has negotiated pressure well, even if he hasn't connected on too many passes.
 
-Andy Dalton throws too many of his passes low. Way too low.
+Andy Dalton throws too many of his passes low. Way too low. It's been responsible for two of his interceptions.
