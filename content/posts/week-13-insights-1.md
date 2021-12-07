@@ -92,3 +92,5 @@ Kyler Murray is faster than most tailbacks in the NFL.
 DeAndre Hopkins' receiving ability is freakish.
 
 The Cardinals have been hammering down on the Bears with their bootlegs, but Andy Dalton has negotiated pressure well, even if he hasn't connected on too many passes.
+
+Andy Dalton throws too many of his passes low. Way too low.
