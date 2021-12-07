@@ -90,3 +90,5 @@ Chicago is running the ball with some gusto here. Arizona's defense is still sof
 Kyler Murray is faster than most tailbacks in the NFL.
 
 DeAndre Hopkins' receiving ability is freakish.
+
+The Cardinals have been hammering down on the Bears with their bootlegs, but Andy Dalton has negotiated pressure well, even if he hasn't connected on too many passes.
