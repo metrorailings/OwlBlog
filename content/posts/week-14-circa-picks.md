@@ -44,11 +44,15 @@ Washington +4
 ***
 
 **Washington covers if**  
-they show more feisty spirit and resolve than the Cowboys. Unlike Dallas, Washington has demonstrated some serious mental fortitude during its current winning streak  
+they show more feisty spirit and resolve than the Cowboys. Unlike Dallas, Washington has demonstrated some serious mental fortitude on both sides of the ball over the past several weeks  
 \- AND -  
-Jack Del Rio figures out different ways to limit production from Amari Cooper and CeeDee Lamb  
+Jack Del Rio strategizes somewhat successfully against Amari Cooper and CeeDee Lamb, limiting their production  
 \- AND -  
 Neither Ezekiel Elliott nor Pollard are able to find much success on the ground. Washington has been a bit better against opposing rushers lately, but it still has some ways to go before it can be considered one of the league's premier rushing defenses.
 
 **Dallas covers if**  
-Micah Parsons, DeMarcus Laurence, Randy Gregory, and the rest of their defensive front win the vast majority of their battles in the trenches. Heinecke will put up points against a Cowboys team playing some flawed man coverage in the defensive backfield, but how many points he puts up will be dictated by the pressure he faces.
+Micah Parsons, DeMarcus Laurence, Randy Gregory, and the rest of their defensive front win the vast majority of their battles in the trenches. Heinecke will put up points against a Cowboys team playing some flawed man coverage in the defensive backfield, but how many points he puts up will be dictated by the pressure he faces. Even the grittiest quarterbacks eventually wilt when constantly harassed by pass rushers.
+
+***
+
+ 
