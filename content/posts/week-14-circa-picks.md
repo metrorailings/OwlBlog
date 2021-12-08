@@ -4,7 +4,7 @@ draft = true
 headline = "Week 14 Insights"
 
 +++
-Not a great week, despite my high hopes - another 3-2 week. To be fair, the three games I picked correctly were all solid picks in that the outcomes of those games were never in question. 
+Not a great week, despite my high hopes - another 3-2 week. To be fair, the three games I picked correctly were all solid picks in that the outcomes of those games were never in question.
 
 The other two selections though....those picks were ill-advised. I'm convinced the Bengals are way too happy playing half-heartedly against lesser opponents after a statement win. It may be weird at first labelling the Chargers as a lesser opponent when the spread only favored the Bengals by a few points, but the past several weeks haven't produced any banner moments for the franchise. If anything, their loss to the Broncos the week before led people to question whether their early-season success was fluky.  On top of that, Joe Mixon was bound to struggle against a defense built to stop zone-running teams.
 
@@ -46,7 +46,9 @@ Washington +4
 **Washington covers if**  
 they show more feisty spirit and resolve than the Cowboys. Unlike Dallas, Washington has demonstrated some serious mental fortitude during its current winning streak  
 \- AND -  
-Jack Del Rio figures out different ways to limit Amari Cooper and CeeDee Lamb.
+Jack Del Rio figures out different ways to limit production from Amari Cooper and CeeDee Lamb  
+\- AND -  
+Neither Ezekiel Elliott nor Pollard are able to find much success on the ground. Washington has been a bit better against opposing rushers lately, but it still has some ways to go before it can be considered one of the league's premier rushing defenses.
 
 **Dallas covers if**  
 Micah Parsons, DeMarcus Laurence, Randy Gregory, and the rest of their defensive front win the vast majority of their battles in the trenches. Heinecke will put up points against a Cowboys team playing some flawed man coverage in the defensive backfield, but how many points he puts up will be dictated by the pressure he faces.
