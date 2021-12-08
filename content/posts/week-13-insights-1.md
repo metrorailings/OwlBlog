@@ -35,6 +35,8 @@ Derek Carr's time to throw has to be studied here. He's holding the ball way too
 
 I notice Washington dropping linebackers into the intermediate area of the field...makes me wonder if (like the Chiefs) the Raiders offense is unable to operate in dribs and drabs. But what about sideline routes?
 
+Washington's offense hasn't been impressive either - I've seen Washington try to run the ball way too much against eight-man boxes. Taylor Heinecke has had up-and-down moments though.
+
 ***
 
 ## 49ers @ Seahawks
