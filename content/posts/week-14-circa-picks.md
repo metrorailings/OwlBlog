@@ -25,7 +25,7 @@ Either way, I'll be more careful in my analysis of games going forward. A more h
 
 #### _Key Injuries_
 
-Landon Collins and Montez Sweat may return this Sunday for Washington, although in limited capacity. Both help the defense set the tone.
+Landon Collins may return this Sunday for Washington, although in limited capacity. Montez Sweat was hopeful to return as well, but a positive COVID result effectively killed his chances.
 
 Cowboys are mostly healthy as well, notably when it comes to COVID. Randy Gregory is expected back in time for the game.
 
@@ -55,4 +55,13 @@ Micah Parsons, DeMarcus Laurence, Randy Gregory, and the rest of their defensive
 
 ***
 
- 
+### Jaguars @ Titans (-8.5)
+
+***
+
+#### _Latest Results_
+
+Jaguars @ **_Rams  
+_**Titans @ **_Patriots_** \[BYE\]
+
+#### _Key Injuries_
