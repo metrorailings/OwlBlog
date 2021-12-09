@@ -27,7 +27,7 @@ Either way, I'll be more careful in my analysis of games going forward. A more h
 
 Landon Collins may return this Sunday for Washington, although in limited capacity. Montez Sweat was hopeful to return as well, but a positive COVID result effectively killed his chances.
 
-Cowboys are mostly healthy as well, notably when it comes to COVID. Randy Gregory is expected back in time for the game.
+Cowboys are mostly healthy as well, notably when it comes to COVID. Randy Gregory is expected back in time for the game, meaning it'll be the first time in a long while that their three star pass rushers will be playing together in the trenches. Scary.
 
 #### _History_
 
