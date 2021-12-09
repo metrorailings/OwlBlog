@@ -126,7 +126,7 @@ Seahawks -7.5
 ***
 
 **Seattle covers if**  
-their level of effort remains high despite the circumstances tempting them otherwise.
+their level of effort remains high despite the circumstances tempting them otherwise. It's too easy playing soft when you're celebrating a triumphant victory while your opponent comes off their most embarrassing defeat yet for the season.
 
 **Houston covers if**  
 the Seahawks are caught playing lazy  
