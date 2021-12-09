@@ -70,4 +70,6 @@ Julio Jones is practicing, though his status this Sunday is still up in the air.
 
 For Jacksonville, their center, their leading pass rusher, and one of their lead tacklers on defense haven't been practicing as of Wednesday. The latter two men on that list are especially concerning given they're likely the best players on that side of the ball. 
 
-#### 
+#### _History_
+
+Both of these teams met earlier in the year in a blowout affair favoring the Titans. Things have changed somewhat since then - Tennessee no longer has Derrick Henry and A.J. Brown on their active roster and Jacksonville has...well....honestly, I'm not sure if the Jaguars have really changed much. One would think a generational talent like Trevor Laurence would be in much better form towards the tail end of the season, but the reality is Trevor's not showing much improvement. It may not be much his fault as the fault of his idiotic coaches. The Jaguars may have the worst coaching staff in the league, a pretty impressive feat given the competition in New York and Houston. But the Jaguars have adopted this disastrous "coach-by-committee" approach that's been laughably inept, let alone inconsistent. The whole scandal over benching James Robinson hasn't sat well with the roster the past couple weeks, and I don't foresee Urban Meyer making relations between the coaches and the players much better.
