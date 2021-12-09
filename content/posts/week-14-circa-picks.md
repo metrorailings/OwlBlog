@@ -134,3 +134,37 @@ the Seahawks are caught playing lazy
 Davis Mills somehow strings together a few scoring drives. Virgin sacrifices might be necessary here.
 
 ***
+
+### 49ers @ Bengals (-1.5)
+
+***
+
+#### _Latest Results_
+
+49ers @ **_Seahawks_**  
+**_Chargers_** @ Bengals
+
+#### _Key Injuries_
+
+Fred Warner will likely return to captain the defense this Sunday. But the most troubling injuries are on offense. Deebo Samuel is still iffy to return from groin pain - even if he were to come back, I'd assume the injury would sap some of his potential. On top of that, Elijah Mitchell being in concussion protocol means JaMycal Hasty is now the team's only healthy tailback. Not good.
+
+Bengals lost linebacker Logan Wilson for the rest of the month, at the bare minimum. Besides that, it's worth keeping an eye on the Bengals injury report this Friday - the report will have much to say about the two starting offensive linemen who missed last week's game as well as the health of starting cornerback Chidobe Awuzie.
+
+#### _History_
+
+Neither of these two teams have any relevant history. It's worth noting that Kyle Shanahan tends to do well against Zac Taylor's mentor over in Los Angeles, but comparing the Rams offense to the Bengals offense isn't a fair comparison given Cincinnati has more talent on that side of the ball compared to McVay's unit.
+
+#### _Weather_
+
+A little cold, but nothing to worry about
+
+***
+
+Undecided
+
+***
+
+**Cincinnati covers if**  
+injury luck greatly favors the Bengals here. Both of their starting offensive linemen that missed last week's skirmish have to return while the 49ers are forced to play without Deebo Samuel for another week   
+\- OR -  
+the Bengals defense can bottle up San Francisco's lateral rushes, forcing the burden of production on Jimmy Garoppalo.
