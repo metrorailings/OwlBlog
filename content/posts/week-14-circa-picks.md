@@ -167,4 +167,7 @@ Undecided
 **Cincinnati covers if**  
 injury luck greatly favors the Bengals here. Both of their starting offensive linemen that missed last week's skirmish have to return while the 49ers are forced to play without Deebo Samuel for another week   
 \- OR -  
-the Bengals defense can bottle up San Francisco's lateral rushes, forcing the burden of production on Jimmy Garoppalo.
+the Bengals defense can bottle up San Francisco's lateral rushes and shut down their tendency to throw passes between the numbers.
+
+**San Francisco covers if**  
+the 49ers remain consistently productive on offense by matriculating the ball over the middle of the field, be it through the air or over ground.
