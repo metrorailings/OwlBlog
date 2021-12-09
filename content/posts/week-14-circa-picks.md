@@ -66,7 +66,7 @@ _**Titans @ **_Patriots_** \[BYE\]
 
 #### _Key Injuries_
 
-Julio Jones is practicing, though his status this Sunday is still up in the air. Safety Dane Cruikshank may join him in returning back from injured reserve too. The only real concerns are along their defensive front - Harold Landry and Denico Autry are practicing on a limited basis. At least one of these two will need to be active if Tennessee hopes to stomp all over the Jaguars.
+Julio Jones is practicing, though his status this Sunday is still up in the air. Safety Dane Cruikshank may join him in returning back from injured reserve too. The only real concerns are along their defensive front - Harold Landry and Denico Autry are practicing on a limited basis. At least one of these two will need to be active if Tennessee hopes to curb stomp the visiting Jaguars.
 
 For Jacksonville, their center, their leading pass rusher, and one of their lead tacklers on defense haven't been practicing as of Wednesday. The latter two men on that list are especially concerning given they're likely the best players on that side of the ball. 
 
