@@ -74,4 +74,63 @@ For Jacksonville, their center, their leading pass rusher, and one of their lead
 
 Both of these teams met earlier in the year in a blowout affair favoring the Titans. Things have changed somewhat since then - Tennessee no longer has Derrick Henry and A.J. Brown on their active roster and Jacksonville has...well....honestly, I'm not sure if the Jaguars have really changed much. One would think a generational talent like Trevor Laurence would be in much better form towards the tail end of the season, but the reality is Trevor's not showing much improvement. It may not be much his fault as the fault of his idiotic coaches. 
 
-Speaking of which...the Jaguars may have the worst coaching staff in the league, a pretty impressive feat given the competition in New York and Houston. But the Jaguars have adopted this disastrous "coach-by-committee" approach that's been laughably inept, let alone inconsistent. The whole scandal over benching James Robinson hasn't sat well with the roster the past couple weeks, and I don't foresee Urban Meyer making relations between the coaches and the players much better.
+Speaking of which...the Jaguars may have the worst coaching staff in the league, a pretty impressive feat given the competition in New York and Houston. But the Jaguars have adopted this disastrous "coach-by-committee" approach that's been laughably inept, let alone inconsistent. The whole scandal over benching James Robinson hasn't sat well with the roster the past couple weeks, and I don't foresee Urban Meyer bettering relations between the coaches and the players any time soon.
+
+#### _Weather_
+
+Moderate weather, nothing concerning
+
+***
+
+Titans -8.5
+
+***
+
+**Tennessee covers if**  
+the team plays hard, despite their opponent being a bottom feeder.
+
+**Jacksonville covers if**  
+Tennessee plays way too relaxed  
+\- AND -  
+the offense can sustain some production, primarily through its ground game.
+
+***
+
+### Seahawks @ Texans (+7.5)
+
+***
+
+#### _Latest Results_
+
+49ers @ **_Seahawks_**  
+**_Colts_** @ Texans
+
+#### _Key Injuries_
+
+The Seahawks have lost Jamal Adams for the rest of the season due to a shoulder issue.
+
+For the Texans, Tyrod Taylor has been knocked out of commission once again, so Davis Mills will be tasked to start in his stead this week.
+
+#### _History_
+
+No relevant history here, but Seattle appears to have righted the ship last week against a pretty good 49er squad. Houston, meanwhile, remains a dumpster fire that nobody's bothering to put out - the flames grow more putrid with each passing week. 
+
+#### _Weather_
+
+Pretty good weather for a vacation, I'd say
+
+***
+
+Seahawks -7.5
+
+***
+
+**Seattle covers if**  
+their level of effort remains high despite the circumstances tempting them otherwise.
+
+**Houston covers if**  
+the Seahawks are caught playing lazy  
+\- AND -  
+Davis Mills somehow strings together a few scoring drives. Virgin sacrifices might be necessary here.
+
+***
