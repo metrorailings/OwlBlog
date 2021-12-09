@@ -96,3 +96,11 @@ DeAndre Hopkins' receiving ability is freakish.
 The Cardinals have been hammering down on the Bears with their bootlegs, but Andy Dalton has negotiated pressure well, even if he hasn't connected on too many passes.
 
 Andy Dalton throws too many of his passes low. Way too low. It's been responsible for two of his interceptions.
+
+***
+
+## Buccaneers @ Falcons
+
+Tampa Bay scored that touchdown primarily by passing the ball in dribs and drabs. I think Chris Godwin alone must have caught 3 or 4 balls.
+
+Just a week after Bruce Arians promised that nobody ran the fucking ball on Tampa Bay, the Falcons do just that. Cordarelle Patterson and Mike Davis were sensational, but the fact that the Falcons were able to open up holes right up the middle of Tampa's stout defensive line is impressive.
