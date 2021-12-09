@@ -171,3 +171,24 @@ the Bengals defense can bottle up San Francisco's lateral rushes and shut down t
 
 **San Francisco covers if**  
 the 49ers remain consistently productive on offense by matriculating the ball over the middle of the field, be it through the air or over ground.
+
+***
+
+### Bills @ Buccaneers (-3.5)
+
+***
+
+#### _Latest Results_
+
+**_Patriots_** @ Bills (MNF)  
+**_Buccaneers_** @ Falcons
+
+#### _Key Injuries_
+
+For the Bills, Star Lotuleilei and Ed Oliver are both dealing with injuries. The former is almost sure to be out if he doesn't practice tomorrow. Losing out on Star would hurt the Bills given he's their big man up front.
+
+Jamel Dean's status is up in the air given his concussion, which would further strain a Tampa secondary ravaged by injuries. 
+
+#### _History_
+
+Neither teams has faced one another in a good long while. One thing worth noting is that Buffalo has shown some susceptibility against teams that can run the ball proper. Tennessee, Indianapolis, and New England have all managed to run successfully against the Bills defense. Tampa Bay has demonstrated commitment to its ground game before, even when it wasn't quite panning out as expected.
