@@ -110,3 +110,5 @@ Russell Gage is a real gamer for the Falcons, even breaking a tackle from Shaq B
 Once again, Tampa Bay is working the ball down the field primarily by targeting the middle of the flats. I need to look carefully at Tom Brady's average time to throw.
 
 As expected, Brady's time to throw this season has been among the fastest this season. Only Roethlisberger and Tua have been notably quicker getting rid of the ball, but both run offenses designed to air out the ball as fast as possible.
+
+Tampa's defensive line has taken over. Almost every snap has resulted in at least one lineman cutting into the backfield.
