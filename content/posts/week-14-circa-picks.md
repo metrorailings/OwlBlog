@@ -229,4 +229,20 @@ The Cardinals are improving considerably in terms of injuries - a number of play
 
 #### _History_
 
-When these two met earlier this year, the Cardinals absolutely destroyed the Rams. Since then, Arizona has continued playing hot, racking up several wins as they'll end up likely claiming the top seed in the NFC. The Rams on the other hand have cratered - the team has yet to post a win against a respectably team since that Arizona game.
+When these two met earlier this year, the Cardinals absolutely destroyed the Rams. Since then, Arizona has continued playing hot, racking up several wins as they'll end up likely claiming the top seed in the NFC. The Rams on the other hand have cratered - the team has yet to post a win against a respectable team since the loss against Arizona. Their toughness and state of mind have been called into question, especially as injury questions loom regarding Matthew Stafford and analysts start probing whether the simplicity of McVay's offense is backfiring on him.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Cardinals -2.5
+
+***
+
+**Arizona covers if**  
+their morale and collective good vibes continue empowering them with a magical force of will that helps them dominate lesser opponents.
+
+**Los Angeles covers if**  
+Stafford and McVay finally turn things around on offense by incorporating new concepts and ideas never really employed by them earlier in the season. It's going to take quite a bit of surprise and misdirection to pull out a victory here in hostile territory.
