@@ -68,11 +68,11 @@ _**Titans @ **_Patriots_** \[BYE\]
 
 Julio Jones is practicing, though his status this Sunday is still up in the air. Safety Dane Cruikshank may join him in returning back from injured reserve too. The only real concerns are along their defensive front - Harold Landry and Denico Autry are practicing on a limited basis. At least one of these two will need to be active if Tennessee hopes to curb stomp the visiting Jaguars.
 
-For Jacksonville, their center, their leading pass rusher, and one of their lead tacklers on defense haven't been practicing as of Wednesday. The latter two men on that list are especially concerning given they're likely the best players on that side of the ball. 
+For Jacksonville, their center, their leading pass rusher, and one of their lead tacklers on defense haven't been practicing as of Wednesday. The latter two men on that list are especially concerning given they're likely the best players on that side of the ball.
 
 #### _History_
 
-Both of these teams met earlier in the year in a blowout affair favoring the Titans. Things have changed somewhat since then - Tennessee no longer has Derrick Henry and A.J. Brown on their active roster and Jacksonville has...well....honestly, I'm not sure if the Jaguars have really changed much. One would think a generational talent like Trevor Laurence would be in much better form towards the tail end of the season, but the reality is Trevor's not showing much improvement. It may not be much his fault as the fault of his idiotic coaches. 
+Both of these teams met earlier in the year in a blowout affair favoring the Titans. Things have changed somewhat since then - Tennessee no longer has Derrick Henry and A.J. Brown on their active roster and Jacksonville has...well....honestly, I'm not sure if the Jaguars have really changed much. One would think a generational talent like Trevor Laurence would be in much better form towards the tail end of the season, but the reality is Trevor's not showing much improvement. It may not be much his fault as the fault of his idiotic coaches.
 
 Speaking of which...the Jaguars may have the worst coaching staff in the league, a pretty impressive feat given the competition in New York and Houston. But the Jaguars have adopted this disastrous "coach-by-committee" approach that's been laughably inept, let alone inconsistent. The whole scandal over benching James Robinson hasn't sat well with the roster the past couple weeks, and I don't foresee Urban Meyer bettering relations between the coaches and the players any time soon.
 
@@ -113,7 +113,7 @@ For the Texans, Tyrod Taylor has been knocked out of commission once again, so D
 
 #### _History_
 
-No relevant history here, but Seattle appears to have righted the ship last week against a pretty good 49er squad. Houston, meanwhile, remains a dumpster fire that nobody's bothering to put out - the flames grow more putrid with each passing week. 
+No relevant history here, but Seattle appears to have righted the ship last week against a pretty good 49er squad. Houston, meanwhile, remains a dumpster fire that nobody's bothering to put out - the flames grow more putrid with each passing week.
 
 #### _Weather_
 
@@ -165,7 +165,7 @@ Undecided
 ***
 
 **Cincinnati covers if**  
-injury luck greatly favors the Bengals here. Both of their starting offensive linemen that missed last week's skirmish have to return while the 49ers are forced to play without Deebo Samuel for another week   
+injury luck greatly favors the Bengals here. Both of their starting offensive linemen that missed last week's skirmish have to return while the 49ers are forced to play without Deebo Samuel for another week  
 \- OR -  
 the Bengals defense can bottle up San Francisco's lateral rushes and shut down their tendency to throw passes between the numbers.
 
@@ -187,8 +187,26 @@ the 49ers remain consistently productive on offense by matriculating the ball ov
 
 For the Bills, Star Lotuleilei and Ed Oliver are both dealing with injuries. The former is almost sure to be out if he doesn't practice tomorrow. Losing out on Star would hurt the Bills given he's their big man up front.
 
-Jamel Dean's status is up in the air given his concussion, which would further strain a Tampa secondary ravaged by injuries. 
+Jamel Dean's status is up in the air given his concussion, which would further strain a Tampa secondary ravaged by injuries.
 
 #### _History_
 
-Neither teams has faced one another in a good long while. One thing worth noting is that Buffalo has shown some susceptibility against teams that can run the ball proper. Tennessee, Indianapolis, and New England have all managed to run successfully against the Bills defense. Tampa Bay has demonstrated commitment to its ground game before, even when it wasn't quite panning out as expected.
+Neither teams has faced one another in a good long while. One thing worth noting is that Buffalo has shown some susceptibility against teams that can run the ball proper. Tennessee, Indianapolis, and New England have all managed to run successfully against the Bills defense. Tampa Bay has demonstrated commitment to its ground game before, even when it wasn't quite panning out as expected. But it's not clear whether the Buccaneers are actually proficient in rushing the ball. Their numbers this season seem to point to a very average running game.
+
+#### _Weather_
+
+Very warm, but not overly hot
+
+***
+
+Buccaneers -3.5
+
+***
+
+**Tampa Bay covers if**  
+they can run the ball with any sort of alacrity against Buffalo's undersized defensive front seven  
+\- OR -  
+their pass rushers can stifle the Bills offense by regularly harassing Josh Allen.
+
+**Buffalo covers if**  
+the team plays past its potential in what is essentially a game they must win to keep their postseason dreams alive. Buffalo's coaches (especially Brian Daboll) need to incorporate new concepts and formations that haven't been seen on tape in order to catch the Buccaneers off-guard.
