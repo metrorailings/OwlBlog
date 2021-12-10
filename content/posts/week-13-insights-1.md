@@ -104,3 +104,7 @@ Andy Dalton throws too many of his passes low. Way too low. It's been responsibl
 Tampa Bay scored that touchdown primarily by passing the ball in dribs and drabs. I think Chris Godwin alone must have caught 3 or 4 balls.
 
 Just a week after Bruce Arians promised that nobody ran the fucking ball on Tampa Bay, the Falcons do just that. Cordarelle Patterson and Mike Davis were sensational, but the fact that the Falcons were able to open up holes right up the middle of Tampa's stout defensive line is impressive.
+
+Russell Gage is a real gamer for the Falcons, even breaking a tackle from Shaq Barrett to convert a series of down.
+
+Once again, Tampa Bay is working the ball down the field primarily by targeting the middle of the flats.
