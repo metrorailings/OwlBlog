@@ -169,6 +169,8 @@ injury luck greatly favors the Bengals here. Both of their starting offensive li
 the Bengals defense can bottle up San Francisco's lateral rushes and shut down their tendency to throw passes between the numbers.
 
 **San Francisco covers if**  
+Deebo Samuel plays  
+\- AND -  
 the 49ers remain consistently productive on offense by matriculating the ball over the middle of the field, be it through the air or over ground.
 
 ***
