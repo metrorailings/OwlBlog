@@ -111,4 +111,4 @@ Once again, Tampa Bay is working the ball down the field primarily by targeting 
 
 As expected, Brady's time to throw this season has been among the fastest this season. Only Roethlisberger and Tua have been notably quicker getting rid of the ball, but both run offenses designed to air out the ball as fast as possible.
 
-Tampa's defensive line has taken over. Almost every snap has resulted in at least one lineman cutting into the backfield.
+Tampa's defensive line has taken over. Almost every snap has resulted in at least one lineman cutting into the backfield. Despite that, Atlanta has still managed to pop a run off every now and then.
