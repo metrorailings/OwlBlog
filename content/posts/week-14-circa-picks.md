@@ -209,3 +209,24 @@ their pass rushers can stifle the Bills offense by regularly harassing Josh Alle
 
 **Buffalo covers if**  
 the team plays past its potential in what is essentially a game they must win to keep their postseason dreams alive. Buffalo's coaches (especially Brian Daboll) need to incorporate new concepts and formations that haven't been seen on tape in order to catch the Buccaneers off-guard.
+
+***
+
+### Rams @ Cardinals (-2.5)
+
+***
+
+#### _Latest Results_
+
+Jaguars @ **_Rams_**  
+**_Cardinals_** @ Bears
+
+#### _Key Injuries_
+
+Los Angeles' center is dealing with MCL injuries. His status changes by the day. Other than that, the Rams have been remarkably healthy this season.
+
+The Cardinals are improving considerably in terms of injuries - a number of players are returning from injured reserve, most importantly J.J Watt and Chase Edmonds. Slightly concerning though - Zach Ertz is dealing with some injury concerns limiting his participation in practice.
+
+#### _History_
+
+When these two met earlier this year, the Cardinals absolutely destroyed the Rams. Since then, Arizona has continued playing hot, racking up several wins as they'll end up likely claiming the top seed in the NFC. The Rams on the other hand have cratered - the team has yet to post a win against a respectably team since that Arizona game.
