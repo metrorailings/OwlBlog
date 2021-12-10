@@ -60,8 +60,8 @@ Micah Parsons, DeMarcus Laurence, Randy Gregory, and the rest of their defensive
 
 #### _Latest Results_
 
-Jaguars @ **_Rams  
-_**Titans @ **_Patriots_** \[BYE\]
+Jaguars @ **_Rams_**  
+Titans @ **_Patriots_** \[BYE\]
 
 #### _Key Injuries_
 
