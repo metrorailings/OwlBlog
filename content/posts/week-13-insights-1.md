@@ -107,4 +107,4 @@ Just a week after Bruce Arians promised that nobody ran the fucking ball on Tamp
 
 Russell Gage is a real gamer for the Falcons, even breaking a tackle from Shaq Barrett to convert a series of down.
 
-Once again, Tampa Bay is working the ball down the field primarily by targeting the middle of the flats.
+Once again, Tampa Bay is working the ball down the field primarily by targeting the middle of the flats. I need to look carefully at Tom Brady's average time to throw.
