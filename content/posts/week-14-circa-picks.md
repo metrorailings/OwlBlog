@@ -248,3 +248,42 @@ their morale and collective good vibes continue empowering them with a magical f
 
 **Los Angeles covers if**  
 Stafford and McVay finally turn things around on offense by incorporating new concepts and ideas never really employed by them earlier in the season. It's going to take quite a bit of surprise and misdirection to pull out a victory here in hostile territory.
+
+***
+
+### Lions @ Broncos (-10)
+
+***
+
+#### _Latest Results_
+
+Vikings @ **_Lions_**  
+Broncos @ **_Chiefs_**
+
+#### _Key Injuries_
+
+For the Lions, a serious bug is being passed around the locker room - ten to twenty of their players reported illness this week. But more concerning is TJ Hockenson will almost certainly be ruled out Sunday. Not good losing your most productive receiving weapon, especially when your quarterback struggles as-is in keeping drives alive. On top of that, Jamaal Williams will be out with COVID, meaning the Lions are truly reaching down the depth chart for somebody to start at tailback this Sunday.
+
+The Broncos are down a starter along the offensive line, but their injury news have been remarkably positive this week. Bradley Chubb is expected to return from injured reserve finally, as is Bryce Callahan, a key contributor in the secondary.
+
+#### _History_
+
+Neither of these teams have any relevant history worth analyzing. But Detroit finally won one last week. Good for them.
+
+#### _Weather_
+
+Lovely weather for some football
+
+***
+
+Broncos -10
+
+***
+
+**Denver covers if**  
+Detroit's bad health across the roster takes a toll on its level of play  
+\- AND -  
+Vic Fangio doesn't hold back much when it comes to scheming a defense capable of shutting down the very limited Jared Goff.
+
+**Detroit covers if**  
+Teddy Bridgewater embarrasses himself yet again just like he did last week against the Chiefs. To be fair, Kansas has a decent defense, unlike Detroit.
