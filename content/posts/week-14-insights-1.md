@@ -37,3 +37,9 @@ Brady on the cusp of breaking yet another record....aaaaand he does exactly that
 Herbert keeping his passes mostly short, though he did connect on a deep beauty to Jalen Guyton to close out the first half.
 
 Herbert threw a pass against the grain right on target. I'm starting to get comfortable calling him an elite quarterback. 
+
+***
+
+## Lions @ Broncos
+
+Broncos committing wholeheartedly to the running game, with Melvin Gordon and Javonte Williams seeing a good number of touches. It's working though. Denver might have the best running back tandem in the league, perhaps even better than Cleveland's.
