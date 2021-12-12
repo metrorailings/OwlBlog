@@ -28,7 +28,9 @@ Very slow start for the Seahawks, as expected. But Houston couldn't do nearly en
 
 Josh Allen not being helped by his sorry offensive line, as expected.
 
-Brady on the cusp of breaking yet another record....aaaaand he does exactly that on a perfect lob to Mike Evans under some serious pressure through the mouth of the offensive line. Consider him an elite quarterback.
+Brady on the cusp of breaking yet another record....aaaaand he does exactly that on a perfect lob to Mike Evans under some serious pressure through the mouth of the offensive line. Consider him an elite quarterback....maybe.
+
+Two sorry throws from Brady ending a critical Bills drive. Worrying.
 
 ***
 
