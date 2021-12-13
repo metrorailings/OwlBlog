@@ -32,6 +32,10 @@ Brady on the cusp of breaking yet another record....aaaaand he does exactly that
 
 Two sorry throws from Brady ending a critical Bills drive. Worrying.
 
+Tampa has been exceptionally lazy guarding against the run. I know Buffalo has never really ran the ball earlier in the season, but it's not good to see them so lackadaisical against Buffalo's rushers. 
+
+Tampa Bay was fortunate to cover. 
+
 ***
 
 ## Giants @ Chargers
@@ -47,3 +51,5 @@ Herbert threw a pass against the grain right on target. I'm starting to get comf
 Broncos committing wholeheartedly to the running game, with Melvin Gordon and Javonte Williams seeing a good number of touches. It's working though. Denver might have the best running back tandem in the league, perhaps even better than Cleveland's.
 
 Vic Fangio playing some horribly predictive prevent defense with most of the fourth quarter remaining. I know you're up by three touchdowns, but against competent offenses, the Broncos may well be surrendering that lead when the game ends. 
+
+***
