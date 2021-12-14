@@ -74,3 +74,5 @@ Murray threw a pretty bad interception, though Aaron Donald may have tipped the 
 Three defenders on Cooper Kupp and he still catches the ball. That alone proves his vector status.
 
 The magic has manifested for the Cardinals. A deep pass to a well-covered receiver, followed up by _Aaron Donald_ whiffing on a tackle on a fourth down, letting James Conner run in for the touchdown.
+
+Just sloppy man defense, letting the Rams open up some easy crossing routes against them. Still, credit to OBJ for generating a big play off one of those crossing routes.
