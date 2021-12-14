@@ -63,6 +63,8 @@ On top of that, Cincinnati surrendered a touchdown very late in the first-half t
 
 Deebo Samuel is back. And in true Deebo fashion, he's the one to score the team's first touchdown on an end-around.
 
+It's clear to me that when these Bengals face a team with a dominant front seven like the 49ers, the team wilts. Not only does the offensive line struggle hard, but short routes don't develop as cleanly as well, forcing Burrow to hold the ball longer. Cincinnati tried to compensate in the second half by incorporating a variety of more rushes, but it didn't really pan out.
+
 ***
 
 ## Rams @ Cardinals
