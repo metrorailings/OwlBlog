@@ -66,3 +66,5 @@ Deebo Samuel is back. And in true Deebo fashion, he's the one to score the team'
 ***
 
 ## Rams @ Cardinals
+
+Kyler's passes have lacked touch, but Conner made a fantastic catch on an option route. James Conner is a true vector on offense.
