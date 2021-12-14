@@ -76,3 +76,5 @@ Three defenders on Cooper Kupp and he still catches the ball. That alone proves 
 The magic has manifested for the Cardinals. A deep pass to a well-covered receiver, followed up by _Aaron Donald_ whiffing on a tackle on a fourth down, letting James Conner run in for the touchdown.
 
 Just sloppy man defense, letting the Rams open up some easy crossing routes against them. Still, credit to OBJ for generating a big play off one of those crossing routes.
+
+Another Kyler Murray interception, this one coming off Kyler trying to lob a pass over an edge rusher. Once again, his short stature and lack of touch aren't doing him any favors.  
