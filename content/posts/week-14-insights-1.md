@@ -88,3 +88,9 @@ Rams have shown some remarkable toughness on a late drive to score a field goal 
 No magic. The Cardinals just flat out sucked tonight. It's clear the whole team missed some crispness in their offense tonight. Kudos to Raheem Morris though. I was doubting him as a defensive coach under Sean McVay, but it's clear the Rams fully committed to keeping Kyler in the pocket. If Arizona was to win tonight, it'd be with Kyler as a pocket passer. And that just doesn't fly.
 
 Nobody on the Cardinals defensive squad seemed to have stepped up aside from Chandler Jones. Same thing with the Rams and Aaron Donald.
+
+***
+
+## Saints @ Jets
+
+Zach Wilson is just awful. Just plain awful. It's not so much the Saints stopping him as it is him slipping up with his wild passes.
