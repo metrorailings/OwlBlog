@@ -62,3 +62,7 @@ Speaking of which, Cincinnati's special teams are a serious point of concern. Th
 On top of that, Cincinnati surrendered a touchdown very late in the first-half thanks to one of their defenders taunting somebody on San Francisco's side. Just ridiculous - Zac Taylor's coaching has to be called into question here. His team has been playing ridiculously sloppy.
 
 Deebo Samuel is back. And in true Deebo fashion, he's the one to score the team's first touchdown on an end-around.
+
+***
+
+## Rams @ Cardinals
