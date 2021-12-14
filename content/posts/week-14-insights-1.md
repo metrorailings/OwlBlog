@@ -70,3 +70,5 @@ Deebo Samuel is back. And in true Deebo fashion, he's the one to score the team'
 Kyler's passes have lacked touch, but Conner made a fantastic catch on an option route. James Conner is a true vector on offense.
 
 Murray threw a pretty bad interception, though Aaron Donald may have tipped the pass. His small stature hurts him here. Is there a place under center for the little man?
+
+Three defenders on Cooper Kupp and he still catches the ball. That alone proves his vector status.
