@@ -72,3 +72,5 @@ Kyler's passes have lacked touch, but Conner made a fantastic catch on an option
 Murray threw a pretty bad interception, though Aaron Donald may have tipped the pass. His small stature hurts him here. Is there a place under center for the little man?
 
 Three defenders on Cooper Kupp and he still catches the ball. That alone proves his vector status.
+
+The magic has manifested for the Cardinals. A deep pass to a well-covered receiver, followed up by _Aaron Donald_ whiffing on a tackle on a fourth down, letting James Conner run in for the touchdown.
