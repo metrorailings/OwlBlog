@@ -94,3 +94,5 @@ Nobody on the Cardinals defensive squad seemed to have stepped up aside from Cha
 ## Saints @ Jets
 
 Zach Wilson is just awful. Just plain awful. It's not so much the Saints stopping him as it is him slipping up with his wild passes.
+
+You know...the Jets are trying some interesting things on defense. Shifting defensive linemen, two-deep safety coverage shells, linebacker blitzes. Saleh's defense isn't nearly as simple as Lombardi presents it to be.
