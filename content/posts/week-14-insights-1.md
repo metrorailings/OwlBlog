@@ -77,4 +77,6 @@ The magic has manifested for the Cardinals. A deep pass to a well-covered receiv
 
 Just sloppy man defense, letting the Rams open up some easy crossing routes against them. Still, credit to OBJ for generating a big play off one of those crossing routes.
 
-Another Kyler Murray interception, this one coming off Kyler trying to lob a pass over an edge rusher. Once again, his short stature and lack of touch aren't doing him any favors.  
+Another Kyler Murray interception, this one coming off Kyler trying to lob a pass over an edge rusher. Once again, his short stature and lack of touch aren't doing him any favors.
+
+Sony Michel and Odell Beckham are starting to break out as weapons on this offense.
