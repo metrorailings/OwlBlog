@@ -42,3 +42,18 @@ their defense forces at least three turnovers from a Carolina team playing behin
 
 **Carolina covers if**  
 their offense loses the ball twice at most and their ground game gets rolling against Buffalo's smaller defensive front.
+
+***
+
+### Washington @ Eagles (-9)
+
+***
+
+#### _Latest Results_
+
+**_Cowboys_** @ Washington  
+**_Eagles_** @ Jets \[BYE\]
+
+#### _Key Injuries_
+
+Washington is devastated right now by the COVID bug. A whole bunch of starters along their offensive and defensive lines will almost certainly not see any action on the field this Sunday as a result of COVID. Honestly, the biggest losses may be stud defensive tackle Jonathan Allen and back-up quarterback Kyle Allen. On top of that, Terry McLaurin and JD McKissic are dealing with concussions. Even though McLaurin has been practicing, concussions normally keep players sidelined for at least one week, so expect McLaurin not to play. In addition, Taylor Heinecke coping with leg injuries of his own, which may effect his mobility against a fierce Philadelphia pass rush.
