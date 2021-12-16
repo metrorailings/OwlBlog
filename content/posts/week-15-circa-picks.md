@@ -10,4 +10,35 @@ So here we are. I think the one lesson is be wary of division games. It's a less
 
 ***
 
-### 
+### Panthers @ Bills (-10.5)
+
+#### _Latest Results_
+
+**_Falcons_** @ Panthers  
+Bills @ **_Buccaneers_**
+
+#### _Key Injuries_
+
+Carolina's remarkably healthy late into the season, though it doesn't seem to matter much.
+
+For the Bills, Tre'Davious White is guaranteed to miss the rest of the season following ACL repair surgery. But against the Panthers, the more worrying injury is to Josh Allen. If Allen can't really run much or even handle the Panthers pass rush, Buffalo will have to turn to MVP Mitch Trubisky to handle the reins. Lord help them.
+
+#### _History_
+
+No relevant history. Buffalo's offensive line has been a train wreck lately, but Carolina's own unit has been arguably worse. It's a battle between two teams with major protection issues.
+
+#### _Weather_
+
+A little windy and wet on an otherwise cold day
+
+***
+
+Bills -10.5
+
+***
+
+**Buffalo covers if**  
+their defense forces at least three turnovers from a Carolina team playing behind a duo of shaky quarterbacks.
+
+**Carolina covers if**  
+their offense loses the ball twice at most and their ground game gets rolling against Buffalo's smaller defensive front.
