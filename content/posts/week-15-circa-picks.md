@@ -177,4 +177,58 @@ For the Steelers, Ben Roethlisberger is their most serious concern. Even if he p
 
 #### _History_
 
-Both these teams faced off last year in a bit of a nail-biter - Pittsburgh managed to weather a late comeback from Tennessee to notch the win. Things shouldn't have changed much since then, given not much has changed personnel-wise for either team. And yet, circumstances have led to dramatic shifts among both organizations. Pittsburgh's defense has now become mediocre, partly due to injury. Their rushing defense in particular has been damn near disastrous. Meanwhile, Tennessee is no longer the same force it was on offense too, once again due to injuries. So here we are, both teams set to vie against one another, albeit in weakened form.
+Both these teams faced off last year in a bit of a nail-biter - Pittsburgh managed to weather a late comeback from Tennessee to notch the win. Things shouldn't have changed much since then, given not much has changed personnel-wise for either team. And yet, circumstances have led to dramatic shifts among both organizations. Pittsburgh's defense has now become mediocre, partly due to injury. Their rushing defense in particular has been damn near disastrous. Meanwhile, Tennessee is no longer the same force it was on offense too, once again due to injuries. So here we are, both teams set to vie against one another, albeit in weakened form. The question is which of these two teams has lost the least potential compared to last year.
+
+#### _Weather_
+
+Cold and sort of humid
+
+***
+
+Titans PK
+
+***
+
+**Tennessee covers if**  
+their running game develops a rhythm against a Pittsburgh defense that opposing tailbacks have consistently exposed this season  
+\- OR -  
+Pittsburgh coughs up the balls on multiple occasions.
+
+**Pittsburgh covers if**  
+their defense can stall the Titans offense on over half their drives  
+\- AND -  
+Ben Roethlisberger doesn't turn the ball over more than once.
+
+***
+
+### Saints @ Buccaneers (-10.5)
+
+***
+
+#### _Latest Results_
+
+**_Saints_** @ Jets  
+Bills @ **_Buccaneers_**
+
+#### _Key Injuries_
+
+For the Saints, both of their starting tackles have yet to practice, jeopardizing their status this Sunday.
+
+The Buccaneers may end up missing Leonard Fournette for the game. More worryingly, too many key pieces of their secondary are dealing with injury, illness, or concussion. Then again, if Taysom Hill is starting for New Orleans, I wonder if the coverage personnel will matter much anyway. Though then again, being short on defensive backs may force Todd Bowles to play more vanilla forms of defense to compensate for the inexperience in the backfield.
+
+#### _History_
+
+The Saints always go out of their way to turn up against the Buccaneers. Not sure why, but I imagine the rivalry between Sean Payton and Bruce Arians/Tom Brady plays a big role here. Anyway, Tampa has yet to beat New Orleans in the regular season during the Brady era. I imagine the Bucs will finally snap the losing streak this Sunday night, but will they be able to win by multiple scores?
+
+#### _Weather_
+
+Perfect weather if it weren't for the rough humidity, not that it should really impact things much given both teams are used to humidity anyway
+
+***
+
+Saints +10.5
+
+***
+
+**New Orleans covers if**  
+their offense can stay productive against Tampa's beastly defense. Sean Payton has repeatedly demonstrated an ability to move the ball against this Buccaneer defense, so it's not much of a stretch to say his offense will find some success here despite Taysom Hill being a limited quarterback.
