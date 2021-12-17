@@ -101,4 +101,22 @@ For the 49ers, Deebo is now fully healthy, a sure bit of welcome news for a team
 
 #### _History_
 
-Two years ago, Matt Ryan and his crew won against Shanahan and Garoppalo's 49ers as near double-digit underdogs. A few things have changed over the course of two seasons. Atlanta introduced a new coaching regime this year. San Francisco has a few new weapons. DeMeco Ryans has replaced Robert Saleh as the franchise's new defensive coordinator. 
+Two years ago, Matt Ryan and his crew won against Shanahan and Garoppalo's 49ers as near double-digit underdogs. A few things have changed over the course of two seasons. Atlanta introduced a new coaching regime this year. San Francisco has a few new weapons. DeMeco Ryans has replaced Robert Saleh as the franchise's new defensive coordinator.
+
+#### _Weather_
+
+Cold and humid. Not the seasonal San Francisco weather we're used to here.
+
+***
+
+49ers -9
+
+***
+
+**San Francisco covers if**  
+their offensive line can stonewall Atlanta and all of their exotic blitzes.
+
+**Atlanta covers if**  
+their defense can step up and frustrate San Francisco's up-and-down offense.
+
+***
