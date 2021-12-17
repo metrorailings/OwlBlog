@@ -79,4 +79,24 @@ COVID strips Washington of so much potential
 \- AND -  
 Washington's offensive coaches continue insisting that Heinecke hold the ball, even against this voracious Eagle front. It seems so much of Washington's offensive philosophy is predicated off skill players running combination routes out of either empty sets or one-back sets, which doesn't do much to help out their mediocre offensive line.
 
+**Washington covers if**  
+Philadelphia is caught snoozing against what should be a sleepwalk victory.
+
 ***
+
+### Falcons @ 49ers (-9)
+
+***
+
+#### _Latest Results_
+
+**_Falcons _**@ Panthers  
+**_49ers_** @ Bengals
+
+#### _Key Injuries_
+
+No major injury of consequence for the Falcons.
+
+For the 49ers, Deebo is now fully healthy, a sure bit of welcome news for a team that definitely needs the services of its best player on offense to fight their way into the postseason. But their linebacking situation is concerning, considering their two best linebackers are dealing with injuries. Only Fred Warner seems like he'll be able to suit up this Sunday.
+
+#### _History_
