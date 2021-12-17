@@ -138,4 +138,6 @@ Green Bay has line issues. Billy Turner is expected out for a couple weeks, so t
 
 Baltimore isn't much better off. Lamar Jackson may be the starting quarterback, but his mobility will be severely limited as he struggles through an ankle issue.
 
-#### 
+#### _History_
+
+No recent history between these two, especially in their current forms. This will be the first time Matt LaFleur and his coaching staff will be facing against Lamar Jackson and Greg Roman.
