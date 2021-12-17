@@ -78,3 +78,5 @@ Eagles -9
 COVID strips Washington of so much potential  
 \- AND -  
 Washington's offensive coaches continue insisting that Heinecke hold the ball, even against this voracious Eagle front. It seems so much of Washington's offensive philosophy is predicated off skill players running combination routes out of either empty sets or one-back sets, which doesn't do much to help out their mediocre offensive line.
+
+***
