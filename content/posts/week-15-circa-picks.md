@@ -100,3 +100,5 @@ No major injury of consequence for the Falcons.
 For the 49ers, Deebo is now fully healthy, a sure bit of welcome news for a team that definitely needs the services of its best player on offense to fight their way into the postseason. But their linebacking situation is concerning, considering their two best linebackers are dealing with injuries. Only Fred Warner seems like he'll be able to suit up this Sunday.
 
 #### _History_
+
+Two years ago, Matt Ryan and his crew won against Shanahan and Garoppalo's 49ers as near double-digit underdogs. A few things have changed over the course of two seasons. Atlanta introduced a new coaching regime this year. San Francisco has a few new weapons. DeMeco Ryans has replaced Robert Saleh as the franchise's new defensive coordinator. 
