@@ -12,6 +12,8 @@ So here we are. I think the one lesson is be wary of division games. It's a less
 
 ### Panthers @ Bills (-10.5)
 
+***
+
 #### _Latest Results_
 
 **_Falcons_** @ Panthers  
@@ -118,5 +120,9 @@ their offensive line can stonewall Atlanta and all of their exotic blitzes.
 
 **Atlanta covers if**  
 their defense can step up and frustrate San Francisco's up-and-down offense.
+
+***
+
+### Packers @ Ravens (+5.5)
 
 ***
