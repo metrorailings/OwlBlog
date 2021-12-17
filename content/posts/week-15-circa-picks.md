@@ -232,3 +232,6 @@ Saints +10.5
 
 **New Orleans covers if**  
 their offense can stay productive against Tampa's beastly defense. Sean Payton has repeatedly demonstrated an ability to move the ball against this Buccaneer defense, so it's not much of a stretch to say his offense will find some success here despite Taysom Hill being a limited quarterback.
+
+**Tampa Bay covers if**  
+they can finally win decisively against a New Orleans team that's been dogging them for the past year and a half. It's absolutely imperative they prevent the Saints from establishing any sort of running game behind Alvin Kamara.
