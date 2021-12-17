@@ -126,3 +126,16 @@ their defense can step up and frustrate San Francisco's up-and-down offense.
 ### Packers @ Ravens (+5.5)
 
 ***
+
+#### _Latest Results_
+
+Bears @ **_Packers_** (SNF)  
+_Ravens_ @ **Steelers**
+
+#### _Key Injuries_
+
+Green Bay has line issues. Billy Turner is expected out for a couple weeks, so the Packers are operating without either of their starting tackles. On top of that, Kenny Clark landed on the COVID reserve list, so his status is in doubt.
+
+Baltimore isn't much better off. Lamar Jackson may be the starting quarterback, but his mobility will be severely limited as he struggles through an ankle issue.
+
+#### 
