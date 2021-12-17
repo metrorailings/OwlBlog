@@ -136,8 +136,24 @@ _Ravens_ @ **Steelers**
 
 Green Bay has line issues. Billy Turner is expected out for a couple weeks, so the Packers are operating without either of their starting tackles. On top of that, Kenny Clark landed on the COVID reserve list, so his status is in doubt.
 
-Baltimore isn't much better off. Lamar Jackson may be the starting quarterback, but his mobility will be severely limited as he struggles through an ankle issue.
+Baltimore isn't much better off. Lamar Jackson may (or may not) be the starting quarterback, but his mobility will be severely limited as he struggles through an ankle issue. On top of that, a starting tight end, their star fullback, and three of their starting offensive linemen may be absent as well. Not a pretty picture for the Ravens.
 
 #### _History_
 
 No recent history between these two, especially in their current forms. This will be the first time Matt LaFleur and his coaching staff will be facing against Lamar Jackson and Greg Roman.
+
+#### _Weather_
+
+Manageable weather
+
+***
+
+Undecided
+
+***
+
+**Green Bay covers if**  
+they take the match seriously, despite their opponent being beset with injury. On top of that, they need to prevent Baltimore from running wild with the football.
+
+**Baltimore covers if**  
+their ground game finds renewed life through hardship. If their games against Chicago are any indication, Green Bay has demonstrated a repeated susceptibility against mobile quarterbacks. No quarterback is more prone to rushing than Lamar Jackson, though it remains to be seen whether Lamar can run given his ankle issues.
