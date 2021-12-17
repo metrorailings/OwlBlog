@@ -170,3 +170,11 @@ Jaguars @ **_Titans_**
 Steelers @ **_Vikings_** (TNF)
 
 #### _Key Injuries_
+
+Tennessee's down a few pieces along their defense, though nothing of serious concern. On a positive note, Bud Dupree may finally mark his return from an abdominal injury.
+
+For the Steelers, Ben Roethlisberger is their most serious concern. Even if he plays, his chest injury will limit him. As if he wasn't bad enough in the first place, expect even less from him.
+
+#### _History_
+
+Both these teams faced off last year in a bit of a nail-biter - Pittsburgh managed to weather a late comeback from Tennessee to notch the win. Things shouldn't have changed much since then, given not much has changed personnel-wise for either team. And yet, circumstances have led to dramatic shifts among both organizations. Pittsburgh's defense has now become mediocre, partly due to injury. Their rushing defense in particular has been damn near disastrous. Meanwhile, Tennessee is no longer the same force it was on offense too, once again due to injuries. So here we are, both teams set to vie against one another, albeit in weakened form.
