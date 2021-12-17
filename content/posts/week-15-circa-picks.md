@@ -157,3 +157,16 @@ they take the match seriously, despite their opponent being beset with injury. O
 
 **Baltimore covers if**  
 their ground game finds renewed life through hardship. If their games against Chicago are any indication, Green Bay has demonstrated a repeated susceptibility against mobile quarterbacks. No quarterback is more prone to rushing than Lamar Jackson, though it remains to be seen whether Lamar can run given his ankle issues.
+
+***
+
+### Titans @ Steelers (PK)
+
+***
+
+#### _Latest Results_
+
+Jaguars @ **_Titans_**  
+Steelers @ **_Vikings_** (TNF)
+
+#### _Key Injuries_
