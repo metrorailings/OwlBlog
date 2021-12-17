@@ -62,4 +62,19 @@ Philadelphia has come off the bye mostly healthy. While the organization keeps l
 
 #### _History_
 
+The last time these two teams danced, Philadelphia was in position to win before Doug Pederson conscientiously benched players to guarantee a loss (in a bid to better Philadelphia's draft position). And this was against a surging Washington defense too. That game only holds so much comparative value though, given Philadelphia's entire coaching regime has been overhauled since then. In all fairness, Philadelphia has looked better this year under the stewardship of Nick Sirianni and Jonathan Gannon while Washington has looked the same, more or less.
+
+#### _Weather_
+
+A little windy and cold
+
 ***
+
+Eagles -9
+
+***
+
+**Philadelphia covers if**  
+COVID strips Washington of so much potential  
+\- AND -  
+Washington's offensive coaches continue insisting on Heinecke holding on to the ball against this voracious Eagle front. It seems so much of Washington's offensive philosophy is predicated off skill players running combination routes out of empty sets, which doesn't do much to help out a mediocre offensive line.
