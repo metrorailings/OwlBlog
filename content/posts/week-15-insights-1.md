@@ -25,3 +25,7 @@ The Chargers lost this one because of Staley. Staley gambled too much with man c
 Jacoby Meyers, Kendrick Bourne, and Damien Harris are the skill players standing out on this Patriots offense. Whether all three of them can merit vector status remains to be seen.
 
 New England's offensive line never fails to impress me. They've held up remarkably well in pass protection, the only major breakdown being a sack from DeForest Buckner.
+
+The Carson Wentz experiment has been a dismal failure. Shame.
+
+I think Hunter Henry is a vector on offense. New England's two touchdowns have come via him and Mac Jones being on the same page.
