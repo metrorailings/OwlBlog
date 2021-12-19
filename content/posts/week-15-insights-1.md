@@ -41,4 +41,8 @@ Solid use of skill personnel from Kellen Moore to open up men around the field. 
 
 Tony Pollard may be a vector for this Dallas offense. Zeke just isn't the same force he was when he started out. 
 
-Dak has been serviceable, but elite? Nah.
+Dak has been serviceable, but elite? Nah. Demarcus Laurence on the other hand, has been pretty damn good.
+
+***
+
+## Titans @ Steelers
