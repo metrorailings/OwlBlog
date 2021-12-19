@@ -46,3 +46,7 @@ Dak has been serviceable, but elite? Nah. Demarcus Laurence on the other hand, h
 ***
 
 ## Titans @ Steelers
+
+Titans are not wholly committed to running the ball. Nor is their ground game fully developed or predicated on any layered complexity. It's disappointing, especially when their predictable bootlegs aren't there to quite compliment the running game.
+
+Steelers won this game courtesy of their defensive line just overpowering Tennessee's own offensive line. It wasn't a pretty finish. It took three turnovers for Tennessee to finally give up the ghost. I need to verify whether Ben Roethlisberger turned the ball over at all. So far though, his offensive line held up remarkably well.
