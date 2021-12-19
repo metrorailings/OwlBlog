@@ -59,7 +59,7 @@ Tennessee's inability to move the ball under pressure is an indictment on both T
 
 As I feared, the Packers came into the game woefully underprepared. Lack of gap integrity when rushing the passer, not playing hard coverage against Mark Andrews...it's not good. Aaron Rodgers was a bit slow to start out the game too.
 
-The Packers have adjusted in the second half by opting to run the ball against Baltimore's defense, given that unit is much more committed to guarding against the pass than the run.
+The Packers have adjusted in the second half by opting to run the ball against Baltimore's defense, given that unit is much more committed to guarding against the pass than the run. I like that, especially given Baltimore has possessed the ball for considerably more time than Green Bay. Green Bay needs to win back time of possession to win comfortably.
 
 ***
 
