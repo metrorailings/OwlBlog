@@ -28,3 +28,7 @@ New England's offensive line never fails to impress me. They've held up remarkab
 The Carson Wentz experiment has been a dismal failure. Shame.
 
 I think Hunter Henry is a vector on offense. New England's two touchdowns have come via him and Mac Jones being on the same page.
+
+***
+
+## Cowboys @ Giants
