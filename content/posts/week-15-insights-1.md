@@ -66,3 +66,5 @@ The Packers have adjusted in the second half by opting to run the ball against B
 ## Falcons @ 49ers
 
 Falcons were bailed out by a lucky penalty on one drive. Shawn Hochuli is by far the most dangerous referee when it comes to betting. His penalties can change the course of a game.
+
+San Francisco with three separate goal-line stands in the game. When the area of field has been shortened enough, their linebackers and safeties can make up for their cornerback deficiencies. It's honestly easier scoring on San Francisco on explosive plays than red zone plays.
