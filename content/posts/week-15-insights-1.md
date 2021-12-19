@@ -40,3 +40,5 @@ Giants have found life in their offense behind Saquon and Booker.
 Solid use of skill personnel from Kellen Moore to open up men around the field. On one third down, Moore had Elliott line up as a fullback with CeeDee Lamb as the tailback. It was interesting enough to trip up the Giant defense.
 
 Tony Pollard may be a vector for this Dallas offense. Zeke just isn't the same force he was when he started out. 
+
+Dak has been serviceable, but elite? Nah.
