@@ -50,3 +50,5 @@ Dak has been serviceable, but elite? Nah. Demarcus Laurence on the other hand, h
 Titans are not wholly committed to running the ball. Nor is their ground game fully developed or predicated on any layered complexity. It's disappointing, especially when their predictable bootlegs aren't there to quite compliment the running game.
 
 Steelers won this game courtesy of their defensive line just overpowering Tennessee's own offensive line. It wasn't a pretty finish. It took three turnovers for Tennessee to finally give up the ghost. I need to verify whether Ben Roethlisberger turned the ball over at all. So far though, his offensive line held up remarkably well.
+
+Tennessee's inability to move the ball under pressure is an indictment on both Tannehill and the offensive coaching. I know they're missing so many of their key players, but it's still pretty damning that the Titans are unable to score much with the weapons at hand. D'Onta Foreman had a great game though.
