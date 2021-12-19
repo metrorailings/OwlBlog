@@ -32,3 +32,7 @@ I think Hunter Henry is a vector on offense. New England's two touchdowns have c
 ***
 
 ## Cowboys @ Giants
+
+Once again, the Cowboys with their pass rush have been stifling. 
+
+Giants have found life in their offense behind Saquon and Booker. 
