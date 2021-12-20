@@ -61,6 +61,8 @@ As I feared, the Packers came into the game woefully underprepared. Lack of gap 
 
 The Packers have adjusted in the second half by opting to run the ball against Baltimore's defense, given that unit is much more committed to guarding against the pass than the run. I like that, especially given Baltimore has possessed the ball for considerably more time than Green Bay. Green Bay needs to win back time of possession to win comfortably.
 
+Just poor defense from the Packers on a late touchdown drive against the Ravens. Pass rush was neutered, thanks in part to the tempo, but the Packers were all too happy playing a very vanilla defense. No blitzing, no contesting quick passes. On the touchdown play, the Packers only had 10 men on field. Worrying. Joe Burry was doing a damn fine job as well, but his credentials need to be called into question. The next game will tell us quite a bit about whether Burry can actually develop sound game plans.
+
 ***
 
 ## Falcons @ 49ers
@@ -68,3 +70,5 @@ The Packers have adjusted in the second half by opting to run the ball against B
 Falcons were bailed out by a lucky penalty on one drive. Shawn Hochuli is by far the most dangerous referee when it comes to betting. His penalties can change the course of a game.
 
 San Francisco with three separate goal-line stands in the game. When the area of field has been shortened enough, their linebackers and safeties can make up for their cornerback deficiencies. It's honestly easier scoring on San Francisco on explosive plays than red zone plays.
+
+It looks to me that the 49ers defensive front is specifically built to expose bad offensive fronts, what with all the tricks and the pass rushing prowess among their defensive interior.
