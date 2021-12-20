@@ -63,6 +63,10 @@ The Packers have adjusted in the second half by opting to run the ball against B
 
 Just poor defense from the Packers on a late touchdown drive against the Ravens. Pass rush was neutered, thanks in part to the tempo, but the Packers were all too happy playing a very vanilla defense. No blitzing, no contesting quick passes. On the touchdown play, the Packers only had 10 men on field. Worrying. Joe Burry was doing a damn fine job as well, but his credentials need to be called into question. The next game will tell us quite a bit about whether Burry can actually develop sound game plans.
 
+Now compare that to Baltimore's defense who was able to force a three-and-out from the Packers defense.
+
+Green Bay's prevent defense has been absolutely limp. I will never again take a Matt LaFleur team giving away more than three points.
+
 ***
 
 ## Falcons @ 49ers
