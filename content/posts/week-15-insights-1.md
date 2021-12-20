@@ -80,3 +80,5 @@ It looks to me that the 49ers defensive front is specifically built to expose ba
 ***
 
 ## Bengals @ Broncos
+
+Khalid Kareem standing out on Cincinnati's defensive line.
