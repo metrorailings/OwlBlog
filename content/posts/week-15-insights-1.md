@@ -65,7 +65,7 @@ Just poor defense from the Packers on a late touchdown drive against the Ravens.
 
 Now compare that to Baltimore's defense who was able to force a three-and-out from the Packers defense.
 
-Green Bay's prevent defense has been absolutely limp. I will never again take a Matt LaFleur team giving away more than three points.
+Green Bay's prevent defense has been absolutely limp. I will never again take a Matt LaFleur team giving away more than three points. Vegas knows this and set the line accordingly. 
 
 ***
 
