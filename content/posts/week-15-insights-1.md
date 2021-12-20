@@ -33,13 +33,13 @@ I think Hunter Henry is a vector on offense. New England's two touchdowns have c
 
 ## Cowboys @ Giants
 
-Once again, the Cowboys with their pass rush have been stifling. 
+Once again, the Cowboys with their pass rush have been stifling.
 
-Giants have found life in their offense behind Saquon and Booker. 
+Giants have found life in their offense behind Saquon and Booker.
 
 Solid use of skill personnel from Kellen Moore to open up men around the field. On one third down, Moore had Elliott line up as a fullback with CeeDee Lamb as the tailback. It was interesting enough to trip up the Giant defense.
 
-Tony Pollard may be a vector for this Dallas offense. Zeke just isn't the same force he was when he started out. 
+Tony Pollard may be a vector for this Dallas offense. Zeke just isn't the same force he was when he started out.
 
 Dak has been serviceable, but elite? Nah. Demarcus Laurence on the other hand, has been pretty damn good.
 
@@ -65,7 +65,7 @@ Just poor defense from the Packers on a late touchdown drive against the Ravens.
 
 Now compare that to Baltimore's defense who was able to force a three-and-out from the Packers defense.
 
-Green Bay's prevent defense has been absolutely limp. I will never again take a Matt LaFleur team giving away more than three points. Vegas knows this and set the line accordingly. 
+Green Bay's prevent defense has been absolutely limp. I will never again take a Matt LaFleur team giving away more than three points. Vegas knows this and set the line accordingly.
 
 ***
 
@@ -83,4 +83,4 @@ It looks to me that the 49ers defensive front is specifically built to expose ba
 
 Khalid Kareem standing out on Cincinnati's defensive line.
 
-Short passes aren't there for Joe Burrow. Denver's linebackers do a good job of maintaining zone discipline. 
+Short passes aren't there for Joe Burrow. Denver's linebackers stay disciplined in zone coverage, forcing Burrow to hold on to the ball a tick or two longer. Unfortunately, the offensive line can barely hold out for one more tick, let alone a few more.
