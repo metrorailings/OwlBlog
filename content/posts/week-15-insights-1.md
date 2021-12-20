@@ -76,3 +76,7 @@ Falcons were bailed out by a lucky penalty on one drive. Shawn Hochuli is by far
 San Francisco with three separate goal-line stands in the game. When the area of field has been shortened enough, their linebackers and safeties can make up for their cornerback deficiencies. It's honestly easier scoring on San Francisco on explosive plays than red zone plays.
 
 It looks to me that the 49ers defensive front is specifically built to expose bad offensive fronts, what with all the tricks and the pass rushing prowess among their defensive interior.
+
+***
+
+## Bengals @ Broncos
