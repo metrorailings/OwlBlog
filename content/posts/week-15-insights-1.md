@@ -84,3 +84,5 @@ It looks to me that the 49ers defensive front is specifically built to expose ba
 Khalid Kareem standing out on Cincinnati's defensive line.
 
 Short passes aren't there for Joe Burrow. Denver's linebackers stay disciplined in zone coverage, forcing Burrow to hold on to the ball a tick or two longer. Unfortunately, the offensive line can barely hold out for one more tick, let alone a few more.
+
+Trey Hendrickson clearly a difference maker.
