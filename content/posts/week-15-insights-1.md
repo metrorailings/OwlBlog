@@ -90,3 +90,7 @@ Trey Hendrickson clearly a difference maker on multiple occasions. Sam Hubbard h
 Tee Higgins may be a vector for the Bengals.
 
 Lou Anaramo's blitzes have seen some success. Yet one more feather in his cap here. And outside of one drive, Denver has yet to really establish its ground game.
+
+***
+
+## Cardinals @ Lions
