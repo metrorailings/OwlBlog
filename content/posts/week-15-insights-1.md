@@ -94,3 +94,7 @@ Lou Anaramo's blitzes have seen some success. Yet one more feather in his cap he
 ***
 
 ## Cardinals @ Lions
+
+Amon-Ra St Brown is a force on this Detroit team.
+
+Isaiah Simmons has played something of a swiss-knife role on defense, acting as both coverage linebacker and blitz rusher. But his impact hasn't been noted yet. He could have picked a bad throw from Jared Goff, but he couldn't handle the ball. He could have prevented a touchdown pass had he been a tad bit quicker with the pass rush, but he wasn't. 
