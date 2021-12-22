@@ -70,6 +70,20 @@ Jordan Phillips may miss some time after leaving last Sunday's game against the 
 
 #### _History_
 
+No recent history between these two given this is an inter-conference match. But if there's one thing Arizona's defense has struggled against time and time again this season, it's stopping opposing rushers. Outside of a few games, the Cardinals have been pretty pathetic at limiting their opponents' rushing yardage. Though it remains to be seen whether the defense can truly stop a ground game if it dedicates itself wholeheartedly to that cause.
+
 #### _Weather_
 
 Doesn't matter much, as this is a dome game
+
+***
+
+Undecided
+
+***
+
+**Indianapolis covers if**  
+Jonathan Taylor pops off yet again for big yardage.
+
+**Arizona covers if**  
+their defense truly makes a concerted effort to limit Indy's ground game, forcing the Colts to rely on Carson Wentz to matriculate the ball down the field.
