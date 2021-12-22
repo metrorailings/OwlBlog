@@ -87,3 +87,9 @@ Jonathan Taylor pops off yet again for big yardage.
 
 **Arizona covers if**  
 their defense truly makes a concerted effort to limit Indy's ground game, forcing the Colts to rely on Carson Wentz to matriculate the ball down the field.
+
+***
+
+### Bills @ Patriots (-2.5)
+
+***
