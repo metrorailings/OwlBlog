@@ -93,3 +93,14 @@ their defense truly makes a concerted effort to limit Indy's ground game, forcin
 ### Bills @ Patriots (-2.5)
 
 ***
+
+#### _Latest Results_
+
+Panthers @ **_Bills_**  
+Patriots @ **_Colts_** (Saturday Night Football)
+
+#### _Key Injuries_
+
+The Patriots lost a few receivers in their fight against the Colts last week. N'Keal Harry and Nelson Agholor suffered some injuries that may keep them sidelined when the Bills arrive next Sunday.
+
+The Bills are dealing with COVID sweeping through their locker room. Cole Beasley has been ruled out after contracting the disease. Trench players on both sides of the ball are expected to join him on the inactive list, most notably pass rusher A.J. Epenesa. 
