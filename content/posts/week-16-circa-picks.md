@@ -66,7 +66,7 @@ Cardinals @ **_Lions_**
 
 The Colts left the contest against the Patriots fairly healthy, though an eye should be kept on their offensive linemen.
 
-Jordan Phillips may miss some time after leaving last Sunday's game against the Lions with an injury.
+For the Cardinals, Zach Ertz and Rondale Moore are dealing with issues keeping them from fully practicing. Just like with the Colts, it's worth keeping an eye on the practice report as the week progresses.
 
 #### _History_
 
