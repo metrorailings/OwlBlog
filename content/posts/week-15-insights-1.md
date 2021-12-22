@@ -108,3 +108,9 @@ That being said, Kliff Kingsbury still has some solid plays on his call sheet. F
 ## Washington @ Eagles
 
 Philadelphia definitely has enough weaponry on offense. Jalen Mills, Miles Sanders, Dallas Goedert...and possibly even DeVonta Smith.
+
+***
+
+## Seahawks @ Rams
+
+Meanwhile, the Rams have Sony "Playstation" Michel, Cooper Kupp....and not sure who else. Robert Woods is injured and Tyler Higbee may not be consistent enough to be classified as a vector, especially if COVID slows him down. 
