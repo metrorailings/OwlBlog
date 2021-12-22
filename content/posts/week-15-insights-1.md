@@ -97,8 +97,14 @@ Lou Anaramo's blitzes have seen some success. Yet one more feather in his cap he
 
 Amon-Ra St Brown is a force on this Detroit team.
 
-Isaiah Simmons has played something of a swiss-knife role on defense, acting as both coverage linebacker and blitz rusher. But his impact hasn't been noted yet. He could have picked a bad throw from Jared Goff, but he couldn't handle the ball. He could have prevented a touchdown pass had he been a tad bit quicker with the pass rush, but he wasn't. 
+Isaiah Simmons has played something of a swiss-knife role on defense, acting as both coverage linebacker and blitz rusher. But his impact hasn't been noted yet. He could have picked a bad throw from Jared Goff, but he couldn't handle the ball. He could have prevented a touchdown pass had he been a tad bit quicker with the pass rush, but he wasn't.
 
 Detroit has a beat on this team and their love of crossing routes across the middle of the field. Nothing is coming easy for Kyler. Detroit seems all too content plugging up the middle with zone defenders, daring Murray to throw down the sidelines.
 
 That being said, Kliff Kingsbury still has some solid plays on his call sheet. Full-frontal bootlegs, running the same play three times in a row to prey on an opposing defense expecting something different...
+
+***
+
+## Washington @ Eagles
+
+Philadelphia definitely has enough weaponry on offense. Jalen Mills, Miles Sanders, Dallas Goedert...and possibly even DeVonta Smith.
