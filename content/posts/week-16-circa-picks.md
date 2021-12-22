@@ -103,4 +103,20 @@ Patriots @ **_Colts_** (Saturday Night Football)
 
 The Patriots lost a few receivers in their fight against the Colts last week. N'Keal Harry and Nelson Agholor suffered some injuries that may keep them sidelined when the Bills arrive next Sunday.
 
-The Bills are dealing with COVID sweeping through their locker room. Cole Beasley has been ruled out after contracting the disease. Trench players on both sides of the ball are expected to join him on the inactive list, most notably pass rusher A.J. Epenesa. 
+The Bills are dealing with COVID sweeping through their locker room. Cole Beasley has been ruled out after contracting the disease. Trench players on both sides of the ball are expected to join him on the inactive list, most notably pass rusher A.J. Epenesa.
+
+#### _History_
+
+When these two teams met just a few weeks ago, the Patriots rolled over the Bills with the ground game alone - Mac Jones passed only three times. Despite Buffalo stacking the box with eight or nine people, it didn't matter...the Patriots ran the ball at will.
+
+I would assume the Bills do a better job limiting the Patriot ground game, but the bigger concern now comes with facing New England's air attack now that weather isn't an issue this Sunday.
+
+#### _Weather_
+
+Cold, but tolerable for both these franchises
+
+***
+
+Patriots -2.5
+
+***
