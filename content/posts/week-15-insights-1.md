@@ -113,4 +113,8 @@ Philadelphia definitely has enough weaponry on offense. Jalen Mills, Miles Sande
 
 ## Seahawks @ Rams
 
-Meanwhile, the Rams have Sony "Playstation" Michel, Cooper Kupp....and not sure who else. Robert Woods is injured and Tyler Higbee may not be consistent enough to be classified as a vector, especially if COVID slows him down. 
+The Rams have Sony "Playstation" Michel, Cooper Kupp....and not sure who else. Robert Woods is injured and Tyler Higbee may not be consistent enough to be classified as a vector, especially if COVID slows him down. 
+
+The Rams are still very predictable on offense, still insisting on running that same play on third-down-and-medium that the editor from the Ringer found them running time and time again.
+
+Yet, the Seahawks were virtually powerless against the Rams ground game and Cooper Kupp. Interesting. 
