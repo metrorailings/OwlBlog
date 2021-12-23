@@ -183,4 +183,8 @@ Titans @ **_Steelers_**
 
 #### _Key Injuries_
 
+Steelers are dealing with a few COVID illnesses of their own.
+
 COVID has been sweeping through the Chiefs locker room lately. The most concerning cases are Travis Kelce and Tyreek Hill. Travis Kelce has been confirmed to be vaccinated. If Hill hasn't taken the shot though, the Chiefs are down their best weapon on offense. Hill is likely to be joined by some offensive and defensive linemen, so Kansas may begin the game with untested prospects starting for them.
+
+EDIT: Harrison Butker is confirmed out as he's unvaccinated. Kansas will now depend on somebody coming off the streets to kick field goals for them.
