@@ -168,4 +168,19 @@ their defense can stonewall Dalvin Cook on a good number of his rushes. Even tho
 **Minnesota covers if**  
 Dalvin Cook can burn these Rams for significant yardage. Kirk Cousins cannot be trusted with the burden of production, not against a defense particularly suited to defending against passes  
 \- AND -  
-their defense can keep Los Angeles from getting much going on the ground.  
+their defense can keep Los Angeles from getting much going on the ground.
+
+***
+
+### Steelers @ Chiefs (-7.5)
+
+***
+
+#### _Latest Results_
+
+Titans @ **_Steelers_**  
+**_Chiefs_** @ Chargers (TNF)
+
+#### _Key Injuries_
+
+COVID has been sweeping through the Chiefs locker room lately. The most concerning cases are Travis Kelce and Tyreek Hill. Travis Kelce has been confirmed to be vaccinated. If Hill hasn't taken the shot though, the Chiefs are down their best weapon on offense. Hill is likely to be joined by some offensive and defensive linemen, so Kansas may begin the game with untested prospects starting for them.
