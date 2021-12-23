@@ -139,3 +139,9 @@ Seahawks @ **_Rams_** (Tuesday Night Football)
 **_Vikings_** @ Bears (MNF)
 
 #### _Key Injuries_
+
+The Rams were missing a good number of players to COVID last week. A decent number of them (if not most of them) should be returning this Sunday for the outing against Minnesota.
+
+Speaking of which, Minnesota seems to be mostly healthy, though Kirk Cousins is dealing with some rib issues. Sore ribs can really be insufferable to a quarterback averse to pressure in the first place.
+
+#### _History_
