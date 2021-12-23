@@ -183,7 +183,7 @@ Titans @ **_Steelers_**
 
 #### _Key Injuries_
 
-Steelers are dealing with a few COVID illnesses of their own.
+Steelers are dealing with a few COVID illnesses of their own. The only worrying name on their COVID reserve list is Devin Bush. Without Bush, Pittsburgh will be missing some juice along the middle of their defense. 
 
 COVID has been sweeping through the Chiefs locker room lately. The most concerning cases are Travis Kelce and Tyreek Hill. Travis Kelce has been confirmed to be vaccinated. If Hill hasn't taken the shot though, the Chiefs are down their best weapon on offense. Hill is likely to be joined by some offensive and defensive linemen, so Kansas may begin the game with untested prospects starting for them.
 
