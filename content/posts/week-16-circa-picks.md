@@ -188,3 +188,27 @@ Steelers are dealing with a few COVID illnesses of their own. The only worrying 
 COVID has been sweeping through the Chiefs locker room lately. The most concerning cases are Travis Kelce and Tyreek Hill. Travis Kelce has been confirmed to be vaccinated. If Hill hasn't taken the shot though, the Chiefs are down their best weapon on offense. Hill is likely to be joined by some offensive and defensive linemen, so Kansas may begin the game with untested prospects starting for them.
 
 EDIT: Harrison Butker is confirmed out as he's unvaccinated. Kansas will now depend on somebody coming off the streets to kick field goals for them.
+
+#### _History_
+
+It's been a good minute since these two met. Pittsburgh has normally played Andy Reid's Chiefs pretty well, but this year, Pittsburgh's offense has lot some punch now that Ben is on the cusp of retirement. Meanwhile, Kansas has been on a bit of an upturn the past couple weeks, largely thanks to the efforts of their defense. It's pretty obvious whether they cover depends on whether the Chiefs ever relax on defense against this hapless Pittsburgh offensive unit.
+
+#### _Weather_ 
+
+Decent weather all around
+
+***
+
+Undecided
+
+***
+
+**Pittsburgh covers if**  
+Tyreek Hill and some starting offensive linemen are inactive this week  
+\- AND -  
+the Chiefs promise to let up and play some easy defense should they have a multi-score lead going into the fourth quarter.
+
+**Kansas City covers if**  
+Tyreek Hill does end up playing this week and their offensive linemen holds up in pass protection despite losing a man or two to COVID  
+\- OR -  
+Kansas fully commits to riding up the score against Pittsburgh, definitively preventing them from mounting any sort of comeback. 
