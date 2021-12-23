@@ -145,3 +145,27 @@ The Rams were missing a good number of players to COVID last week. A decent numb
 Speaking of which, Minnesota seems to be mostly healthy, though Kirk Cousins is dealing with some rib issues. Sore ribs can really be insufferable to a quarterback averse to pressure in the first place.
 
 #### _History_
+
+It's been nearly three years since these two danced. Oddly enough, most of the key people in that meeting will be reprising their roles this week - Mike Zimmer, Sean McVay, Kirk Cousins, Cooper Kupp, Aaron Donald, Dalvin Cook, Anthony Barr, Eric Kendricks, Harrison Smith, Andrew Whitworth, etc.
+
+Anyway, that game was an exciting shoot-out. Minnesota in particular needed to make a statement after losing embarrassingly against a Buffalo outfit billed as 17-point underdogs. Kirk Cousins was able to march his offense down the field time and time again, but Jared Goff was able to match him shot-for-shot. In the end, Goff and the rest of the Rams were able to get the best of Minnesota, winning by a full touchdown.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Rams -3
+
+***
+
+**Los Angeles covers if**  
+Sony Michel and the Rams six-man offensive line can continue chewing off big yards on the ground. In turn, Minnesota will be forced to play a safety closer to the line of scrimmage, thereby opening up crossing routes for their receivers, chiefly Cooper Kupp  
+\- AND -  
+their defense can stonewall Dalvin Cook on a good number of his rushes. Even though the Rams opt to field more pass coverage specialists than actual box defenders in their base defensive formations, the way their defensive front is organized along the line of scrimmage is actually better suited at stopping zone-running offenses. Lining five men wide along the line of scrimmage with a nose tackle positioned right over the center and two defensive ends set over the B gaps works wonders against an offensive line used to executing zone-running blocking schemes. So long as the majority of the defensive linemen can win their battles against their trench counterparts, opposing offenses will have a hard time executing zone runs.
+
+**Minnesota covers if**  
+Dalvin Cook can burn these Rams for significant yardage. Kirk Cousins cannot be trusted with the burden of production, not against a defense particularly suited to defending against passes  
+\- AND -  
+their defense can keep Los Angeles from getting much going on the ground.  
