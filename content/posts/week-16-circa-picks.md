@@ -107,7 +107,7 @@ The Bills are dealing with COVID sweeping through their locker room. Cole Beasle
 
 #### _History_
 
-When these two teams met just a few weeks ago, the Patriots rolled over the Bills with the ground game alone - Mac Jones passed only three times. Despite Buffalo stacking the box with eight or nine people, it didn't matter...the Patriots ran the ball at will.
+When these two teams met just a few weeks ago, the Patriots rolled these Bills with the ground game alone - Mac Jones only threw the ball three times. Despite Buffalo stacking the box with eight or nine people, it didn't matter...the Patriots ran the ball to their heart's delight.
 
 I would assume the Bills do a better job limiting the Patriot ground game, but the bigger concern now comes with facing New England's air attack now that weather isn't an issue this Sunday.
 
@@ -118,5 +118,13 @@ Cold, but tolerable for both these franchises
 ***
 
 Patriots -2.5
+
+***
+
+**New England covers if**  
+they rack up points this time around by having their passing game take the lead on offense. Buffalo has yet to actually witness Mac Jones coordinate the air attack, so New England has a bit of an advantage there. It would also help if the Patriots confuses this Bills defense by scheming new ways to rush the ball.
+
+**Buffalo covers if**  
+their defense learns from its mistakes from their outing two weeks ago, this time shutting down New England and preventing Mac Jones from developing too much rhythm at any point in the game.
 
 ***
