@@ -128,3 +128,14 @@ they rack up points this time around by having their passing game take the lead 
 their defense learns from its mistakes from their outing two weeks ago, this time shutting down New England and preventing Mac Jones from developing too much rhythm at any point in the game.
 
 ***
+
+### Rams @ Vikings (+3)
+
+***
+
+#### _Latest Results_
+
+Seahawks @ **_Rams_** (Tuesday Night Football)  
+**_Vikings_** @ Bears (MNF)
+
+#### _Key Injuries_
