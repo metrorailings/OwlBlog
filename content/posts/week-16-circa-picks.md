@@ -163,10 +163,10 @@ Rams -3
 **Los Angeles covers if**  
 Sony Michel and the Rams six-man offensive line can continue chewing off big yards on the ground. In turn, Minnesota will be forced to play a safety closer to the line of scrimmage, thereby opening up crossing routes for their receivers, chiefly Cooper Kupp  
 \- AND -  
-their defense can stonewall Dalvin Cook on a good number of his rushes. Even though the Rams opt to field more pass coverage specialists than actual box defenders in their base defensive formations, the way their defensive front is organized along the line of scrimmage is actually better suited at stopping zone-running offenses. Lining five men wide along the line of scrimmage with a nose tackle positioned right over the center and two defensive ends set over the B gaps works wonders against an offensive line used to executing zone-running blocking schemes. So long as the majority of the defensive linemen can win their battles against their trench counterparts, opposing offenses will have a hard time executing zone runs.
+their defense can stonewall Dalvin Cook on a good number of his rushes. Even though the Rams opt to field more pass coverage specialists than actual box defenders in their base defensive formations, the way their defensive front is organized along the line of scrimmage makes them better suited to stop zone-running offenses. Lining five men wide along the line of scrimmage with a nose tackle positioned right over the center and two defensive ends set over the B gaps works wonders against an offensive line used to executing zone-running blocking schemes. So long as the majority of the defensive linemen can win their battles against their trench counterparts, opposing offenses will have a hard time executing zone runs.
 
 **Minnesota covers if**  
-Dalvin Cook can burn these Rams for significant yardage. Kirk Cousins cannot be trusted with the burden of production, not against a defense particularly suited to defending against passes  
+Dalvin Cook can burn these Rams for significant yardage. Kirk Cousins cannot be trusted with the burden of production, not against a defense tailored to defend against passes  
 \- AND -  
 their defense can keep Los Angeles from getting much going on the ground.
 
@@ -183,7 +183,7 @@ Titans @ **_Steelers_**
 
 #### _Key Injuries_
 
-Steelers are dealing with a few COVID illnesses of their own. The only worrying name on their COVID reserve list is Devin Bush. Without Bush, Pittsburgh will be missing some juice along the middle of their defense. 
+Steelers are dealing with a few COVID illnesses of their own. The only worrying name on their COVID reserve list is Devin Bush. Without Bush, Pittsburgh will be missing some juice along the middle of their defense.
 
 COVID has been sweeping through the Chiefs locker room lately. The most concerning cases are Travis Kelce and Tyreek Hill. Travis Kelce has been confirmed to be vaccinated. If Hill hasn't taken the shot though, the Chiefs are down their best weapon on offense. Hill is likely to be joined by some offensive and defensive linemen, so Kansas may begin the game with untested prospects starting for them.
 
@@ -193,7 +193,7 @@ EDIT: Harrison Butker is confirmed out as he's unvaccinated. Kansas will now dep
 
 It's been a good minute since these two met. Pittsburgh has normally played Andy Reid's Chiefs pretty well, but this year, Pittsburgh's offense has lot some punch now that Ben is on the cusp of retirement. Meanwhile, Kansas has been on a bit of an upturn the past couple weeks, largely thanks to the efforts of their defense. It's pretty obvious whether they cover depends on whether the Chiefs ever relax on defense against this hapless Pittsburgh offensive unit.
 
-#### _Weather_ 
+#### _Weather_
 
 Decent weather all around
 
@@ -211,7 +211,7 @@ the Chiefs promise to let up and play some easy defense should they have a multi
 **Kansas City covers if**  
 Tyreek Hill does end up playing this week and their offensive linemen holds up in pass protection despite losing a man or two to COVID  
 \- OR -  
-Kansas fully commits to riding up the score against Pittsburgh, definitively preventing them from mounting any sort of comeback. 
+Kansas fully commits to riding up the score against Pittsburgh, definitively preventing them from mounting any sort of comeback.
 
 ***
 
@@ -299,4 +299,4 @@ their defense keeps themselves from going too blitz-happy against a quarterback 
 **Cincinnati covers if**  
 Wink Martindale hasn't learned a thing from the last outing against them  
 \- OR -  
-Baltimore's rushing plays are still 
+Baltimore's rushers are still unable to find success consistently.
