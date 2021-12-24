@@ -282,3 +282,21 @@ But I consider Wink Martindale an elite defensive coach for good reason. And Win
 Then again, it's obvious to me that Baltimore needs to run the ball to see some measure of success against a Bengals defense that's been sneakily playing well. Last time, Lamar and his men were only productive on about 40% of their runs before the game got out of hand. Can they improve against Cincinnati this week? I don't see much reason why, though it's possible the Bengals will lighten their rushing defense against Tyler Huntley, who's more inclined to operate as a pocket passer compared to somebody like Lamar.
 
 #### _Weather_
+
+Pretty good weather by December standards
+
+***
+
+Undecided
+
+***
+
+**Baltimore covers if**  
+the Ravens find ways to run the ball better with Tyler Huntley as the signal caller instead of Lamar  
+\- AND -  
+their defense keeps themselves from going too blitz-happy against a quarterback that excels against the blitz.
+
+**Cincinnati covers if**  
+Wink Martindale hasn't learned a thing from the last outing against them  
+\- OR -  
+Baltimore's rushing plays are still 
