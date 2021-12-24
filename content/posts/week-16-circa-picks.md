@@ -212,3 +212,22 @@ the Chiefs promise to let up and play some easy defense should they have a multi
 Tyreek Hill does end up playing this week and their offensive linemen holds up in pass protection despite losing a man or two to COVID  
 \- OR -  
 Kansas fully commits to riding up the score against Pittsburgh, definitively preventing them from mounting any sort of comeback. 
+
+***
+
+### Lions @ Falcons (-5.5)
+
+***
+
+#### _Latest Results_
+
+Cardinals @ **_Lions_**  
+Falcons @ **_49ers_**
+
+#### _Key Injuries_
+
+For the Lions, Penei Sewell and D'Andre Swift are expected to return after being sidelined last week. The bad news comes at quarterback though - Jared Goff is dealing with a COVID infection. Now Goff is vaccinated, so he stands a realistic chance to join the rest of the roster this Sunday over in Atlanta.
+
+For Atlanta, Deion Jones is likely to return after sitting out last week's game against the 49ers with injury.
+
+#### _History_
