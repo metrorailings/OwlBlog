@@ -230,8 +230,55 @@ For the Lions, Penei Sewell and D'Andre Swift are expected to return after being
 
 For Atlanta, Deion Jones is likely to return after sitting out last week's game against the 49ers with injury.
 
+EDIT: Dan Campbell told reporters Jared Goff is unlikely to play. There's little reason to assume he's trying to fool folks, though then again, he may be playing possum in order to lull the Falcons into playing at less than full potential.
+
 #### _History_
 
 These two teams contended against one another last season, albeit with different coaches and a different quarterback starting for the Lions. So that game only holds so much predictive potential with respect to this year's game.
 
-If anything, the information more relevant here is that both teams have been pretty terrible through the season. Atlanta has won more games, but it's not as if Detroit's been worse - had fortune blessed them a bit more this season, it's possible the Lions would be sitting here with another two to three wins to their name. So both teams are more or less keeping one another company in the dregs of the league. Despite that, Atlanta is billed here as a decisive favorite.
+If anything, the information more relevant here is that both teams have been pretty terrible through the season. Atlanta has won more games, but it's not as if Detroit's been worse - had fortune blessed them a bit more this season, the Lions would be sitting here with another two or three wins to their name. So it's fair to say both franchises have found themselves mired in the dregs. Despite that, Atlanta is billed here as a decisive favorite.
+
+#### _Weather_
+
+Dome game
+
+***
+
+Falcons -5.5
+
+***
+
+**Atlanta covers if**  
+Detroit starts a second-string quarterback to replace the always-lovable Jared Goff  
+\- AND -  
+the Falcons with their myriad of blitzes manage to hit home against whoever's forced to be Detroit's signal caller.
+
+**Detroit covers if**  
+their defensive front can rattle Matt Ryan as much as the 49ers managed to last week.
+
+***
+
+### Ravens @ Bengals (-2.5)
+
+***
+
+#### _Latest Results_
+
+**Packers** @ _Ravens_  
+**_Bengals_** @ Broncos
+
+#### _Key Injuries_
+
+Where to start with the Ravens? Baltimore's still in the middle of a COVID epidemic tearing their locker room apart. More players are expected back after finding themselves in COVID limbo last week. But Devin Duvarney is not expected to play, which would hurt special teams considering he's been an ace punt returner. What may honestly hurt more is the potential loss of Odafe Owah. He and Tyus Bowser have been carrying the Ravens pass rush.
+
+Chidobe Awuzie is likely out for the Bengals as he works through a COVID infection. But nobody else critical will be sidelined for Cincinnati, so expect them at near full strength.
+
+#### _History_
+
+When these two faced earlier in the year, the Bengals outright dominated the Ravens. Can Cincy pull off another blowout victory against the reigning division champs? That remains to be seen...Cincinnati was able to gut Baltimore earlier in the season thanks to the latter's tendency to send out blitzes constantly, leaving their cornerbacks isolated against the Bengals skill players. Burrow had no qualms throwing the rock to Ja'Marr Chase in single coverage, regardless of who covered him.
+
+But I consider Wink Martindale an elite defensive coach for good reason. And Wink should be able to adjust here, especially given the current state of the defense. I expect Baltimore to practice so much more zone coverage, with only four guys sent to rush the passer on most snaps. If Baltimore does that, the Bengals will have an unquestionably harder time matriculating the ball downfield, even against a defensive outfit missing so many of its key personnel.
+
+Then again, it's obvious to me that Baltimore needs to run the ball to see some measure of success against a Bengals defense that's been sneakily playing well. Last time, Lamar and his men were only productive on about 40% of their runs before the game got out of hand. Can they improve against Cincinnati this week? I don't see much reason why, though it's possible the Bengals will lighten their rushing defense against Tyler Huntley, who's more inclined to operate as a pocket passer compared to somebody like Lamar.
+
+#### _Weather_
