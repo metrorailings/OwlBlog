@@ -231,3 +231,7 @@ For the Lions, Penei Sewell and D'Andre Swift are expected to return after being
 For Atlanta, Deion Jones is likely to return after sitting out last week's game against the 49ers with injury.
 
 #### _History_
+
+These two teams contended against one another last season, albeit with different coaches and a different quarterback starting for the Lions. So that game only holds so much predictive potential with respect to this year's game.
+
+If anything, the information more relevant here is that both teams have been pretty terrible through the season. Atlanta has won more games, but it's not as if Detroit's been worse - had fortune blessed them a bit more this season, it's possible the Lions would be sitting here with another two to three wins to their name. So both teams are more or less keeping one another company in the dregs of the league. Despite that, Atlanta is billed here as a decisive favorite.
