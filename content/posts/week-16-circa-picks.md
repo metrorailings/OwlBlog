@@ -328,6 +328,8 @@ Seattle will still be missing the services of DJ Reed at cornerback, but every o
 
 No recent history. This Bears team morale has to be called into question after that ugly defeat last week against the Vikings. Minnesota did absolutely everything in its power to hand the game to the Bears and Chicago absolutely refused to do anything with the opportunities the Vikings generously gave them. Sad.
 
+One thing to note - the books have clearly taken a side here with the Bears. Despite over 95% of the money being placed on the Seahawks, the sportsbooks absolutely refuse to move the line to the key number of 7.
+
 #### _Weather_
 
 Rainy, cold, and a little windy. Sloppy play is expected.
@@ -346,6 +348,6 @@ the Bears can rush the ball very effectively behind David Montgomery and Khalil 
 the Bears defense work in unison to frustrate the Seahawks on a clear majority of their drives.
 
 **Seattle covers if**  
-Nick Foles fails expectedly to do much under Matt Nagy  
+Nick Foles fails to do much under a Nagy offense built on quick passing  
 \- OR -  
- the Seahawks offense finds renewed life against a demoralized Bears defense.
+the Bears are too demoralized to play quality defense.
