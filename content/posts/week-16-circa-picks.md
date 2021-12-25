@@ -341,6 +341,9 @@ Bears +6.5
 **Chicago covers if**  
 Nick Foles steps up in an emergency role and performs far better than expected  
 \- AND -  
+the Bears can rush the ball very effectively behind David Montgomery and Khalil Herbert  
+\- AND -  
 the Bears defense work in unison to frustrate the Seahawks on a clear majority of their drives.
 
-**Seattle covers if** 
+**Seattle covers if**  
+Nick Foles fails as expected to do much under this offense 
