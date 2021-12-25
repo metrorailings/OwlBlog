@@ -308,3 +308,12 @@ Wink Martindale hasn't learned a thing from the last outing against them
 Baltimore's rushers are still unable to find much rhythm running the ball.
 
 ***
+
+### Bears @ Seahawks (-6.5)
+
+***
+
+#### _Latest Results_
+
+**_Vikings_** @ Bears (MNF)  
+Seahawks @ **_Rams_** (Tuesday)
