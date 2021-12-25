@@ -3,7 +3,7 @@ date = 2021-01-21T12:00:00Z
 headline = "2020 Playoff Analysis: One Last Visit"
 
 +++
-After the division round concluded, things are becoming clearer to me. I was wondering if mental fortitude was just a hokey metric I conceived to try and explain that (mostly) undefinable quality championship teams tend to have. In all honesty though, I think I'm on the right track, but I need to better purpose that metric with respect to the rest of the playoff potential model. Mental fortitude is a plus, but it's not some tremendous advantage. It should be  valued roughly as much as sound coaching or a talented roster.
+After the division round concluded, things are becoming clearer to me. I was wondering if mental fortitude was just a hokey metric I conceived to try and explain that (mostly) undefinable quality championship teams tend to have. In all honesty though, I think I'm on the right track, but I need to better purpose that metric with respect to the rest of the playoff potential model. Mental fortitude is a plus, but it's not some tremendous advantage. It should be valued roughly as much as sound coaching or a talented roster.
 
 Therefore, I'll be using the number of times a team has successfully come back against an opponent in the fourth quarter or from a double-digit deficit as an imperfect measure of mental strength. The more successful campaigns a team can stage from a disadvantageous position during the regular season, the more likely they are to be a confident bunch heading into the playoffs. Combine that with this fluid notion of momentum and I think we have a fairly accurate gauge for a team's overall mental fortitude.
 
