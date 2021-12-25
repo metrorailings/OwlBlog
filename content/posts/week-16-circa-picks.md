@@ -88,7 +88,9 @@ Undecided
 Jonathan Taylor pops off yet again for big yardage.
 
 **Arizona covers if**  
-their defense truly makes a concerted effort to limit Indy's ground game, forcing the Colts to rely on Carson Wentz to matriculate the ball down the field.
+their defense truly makes a concerted effort to limit Indy's ground game, forcing the Colts to rely on Carson Wentz to matriculate the ball down the field  
+\- AND -  
+the Cardinals can force some turnovers by regularly hectoring Wentz. Indianapolis' offensive line is ravaged by COVID, which will make pass protection an issue for Indy. 
 
 ***
 
