@@ -322,4 +322,25 @@ Seahawks @ **_Rams_** (Tuesday)
 
 The Bears will start Nick Foles in place of the injured Justin Fields. But even scarier is that Akiem Hicks will be out. Akiem Hicks was such a difference maker last week, especially in the ground game.
 
-Seattle
+Seattle will still be missing the services of DJ Reed at cornerback, but every other key player is expected back. Good news considering Tyler Lockett was missed last week in a major game against the Rams.
+
+#### _History_
+
+No recent history. This Bears team morale has to be called into question after that ugly defeat last week against the Vikings. Minnesota did absolutely everything in its power to hand the game to the Bears and Chicago absolutely refused to do anything with the opportunities the Vikings generously gave them. Sad.
+
+#### _Weather_
+
+Rainy, cold, and a little windy. Sloppy play is expected.
+
+***
+
+Bears +6.5
+
+***
+
+**Chicago covers if**  
+Nick Foles steps up in an emergency role and performs far better than expected  
+\- AND -  
+the Bears defense work in unison to frustrate the Seahawks on a clear majority of their drives.
+
+**Seattle covers if** 
