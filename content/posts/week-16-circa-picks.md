@@ -68,6 +68,8 @@ The Colts left the contest against the Patriots fairly healthy, though an eye sh
 
 For the Cardinals, Zach Ertz and Rondale Moore are dealing with issues keeping them from fully practicing. Just like with the Colts, it's worth keeping an eye on the practice report as the week progresses.
 
+EDIT: Indianapolis is down three offensive linemen entering tomorrow's game. Not good for a team that oves to run the ball. If Carson Wentz is responsible for maintaining production on offense, it won't be pretty. Wentz has yet to impress in a major game this season.
+
 #### _History_
 
 No recent history between these two given this is an inter-conference match. But if there's one thing Arizona's defense has struggled against time and time again this season, it's stopping opposing rushers. Outside of a few games, the Cardinals have been pretty pathetic at limiting their opponents' rushing yardage. Though it remains to be seen whether the defense can truly stop a ground game if it dedicates itself wholeheartedly to that cause.
