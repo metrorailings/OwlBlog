@@ -4,3 +4,6 @@ draft = true
 headline = "Week 16 Insights"
 
 +++
+## Browns @ Packers
+
+Packers still have serious issue defending against mobile quarterbacks, let alone outside runs.
