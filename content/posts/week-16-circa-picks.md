@@ -317,3 +317,9 @@ Baltimore's rushers are still unable to find much rhythm running the ball.
 
 **_Vikings_** @ Bears (MNF)  
 Seahawks @ **_Rams_** (Tuesday)
+
+#### _Key Injuries_
+
+The Bears will start Nick Foles in place of the injured Justin Fields. But even scarier is that Akiem Hicks will be out. Akiem Hicks was such a difference maker last week, especially in the ground game.
+
+Seattle
