@@ -346,4 +346,6 @@ the Bears can rush the ball very effectively behind David Montgomery and Khalil 
 the Bears defense work in unison to frustrate the Seahawks on a clear majority of their drives.
 
 **Seattle covers if**  
-Nick Foles fails as expected to do much under this offense 
+Nick Foles fails expectedly to do much under Matt Nagy  
+\- OR -  
+ the Seahawks offense finds renewed life against a demoralized Bears defense.
