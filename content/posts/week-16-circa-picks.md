@@ -70,6 +70,8 @@ For the Cardinals, Zach Ertz and Rondale Moore are dealing with issues keeping t
 
 EDIT: Indianapolis is down three offensive linemen entering tomorrow's game. Not good for a team that loves to run the ball. If Carson Wentz is responsible for maintaining production on offense, it won't be pretty. Wentz has yet to impress in a major game this season.
 
+Zach Ertz will be playing, but James Connor and Rondale Moore hasn't practiced at all this week, putting their status tomorrow in jeopardy. Likewise, their center will be a game-time decision pending the results of his COVID test.
+
 #### _History_
 
 No recent history between these two given this is an inter-conference match. But if there's one thing Arizona's defense has struggled against time and time again this season, it's stopping opposing rushers. Outside of a few games, the Cardinals have been pretty pathetic at limiting their opponents' rushing yardage. Though it remains to be seen whether the defense can truly stop a ground game if it dedicates itself wholeheartedly to that cause.
