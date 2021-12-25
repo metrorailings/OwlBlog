@@ -66,9 +66,9 @@ Cardinals @ **_Lions_**
 
 The Colts left the contest against the Patriots fairly healthy, though an eye should be kept on their offensive linemen.
 
-For the Cardinals, Zach Ertz and Rondale Moore are dealing with issues keeping them from fully practicing. Just like with the Colts, it's worth keeping an eye on the practice report as the week progresses.
+For the Cardinals, Zach Ertz and Rondale Moore are dealing with issues keeping them from fully practicing. Just like with the Colts, it's worth keeping an eye on the practice report as the week progresses. Jordan Phillips may be sidelined as well.
 
-EDIT: Indianapolis is down three offensive linemen entering tomorrow's game. Not good for a team that oves to run the ball. If Carson Wentz is responsible for maintaining production on offense, it won't be pretty. Wentz has yet to impress in a major game this season.
+EDIT: Indianapolis is down three offensive linemen entering tomorrow's game. Not good for a team that loves to run the ball. If Carson Wentz is responsible for maintaining production on offense, it won't be pretty. Wentz has yet to impress in a major game this season.
 
 #### _History_
 
