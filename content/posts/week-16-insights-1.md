@@ -22,4 +22,4 @@ No team has hit Jonathan Taylor for negative yardage more than Arizona this seas
 
 Indianapolis was down four of its starting offensive linemen and still adjusted masterfully. Rolling pockets, play-action fakes, short hitch routes....all these things helped the Colts keep the ball moving on offense. Arizona's defense needs to be ashamed of itself.
 
-Speaking of which...so many penalties were charged to Arizona's defense, helping to sustain Colt drives. Not good.
+Speaking of which...so many penalties were charged to Arizona's defense, helping to sustain Colt drives. Not good for a team supposedly bound for the playoffs.
