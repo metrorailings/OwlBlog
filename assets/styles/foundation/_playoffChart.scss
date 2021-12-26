@@ -130,8 +130,8 @@
 	{
 		top: 3px;
 		bottom: 3px;
-		left: 5px;
-		right: 5px;
+		left: 3px;
+		right: 3px;
 	}
 
 	border:
@@ -142,5 +142,5 @@
 		radius: 10px;
 	}
 
-	background-color: map-get($COLORS, lightRedTheme);
+	font-decoration: italic;
 }

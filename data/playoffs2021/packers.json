@@ -1,0 +1,13 @@
+{
+    "name" : "Green Bay Packers",
+    "qb" : "Aaron Rodgers",
+    "weapons" : ["Davonte Adams", "Aaron Jones", "Aaron Rodgers (Mobile QB)"],
+    "mWeapons" : [],
+    "passRushers" : ["Rashan Gary"],
+    "mPassRushers" : ["Za'Darius Smith, Preston Smith"],
+    "oc" : "",
+    "mOc" : "",,
+    "dc" : "",
+    "mDc" : "Joe Barry",
+    "comebacks" : 0
+}
