@@ -7,3 +7,9 @@ headline = "Week 16 Insights"
 ## Browns @ Packers
 
 Packers still have serious issue defending against mobile quarterbacks, let alone outside runs. Cleveland's been able to run the ball at will.
+
+***
+
+## Colts @ Cardinals
+
+Back-to-back offsides calls. Vance Joseph's coaching is going to be called into question here.
