@@ -23,3 +23,9 @@ No team has hit Jonathan Taylor for negative yardage more than Arizona this seas
 Indianapolis was down four of its starting offensive linemen and still adjusted masterfully. Rolling pockets, play-action fakes, short hitch routes....all these things helped the Colts keep the ball moving on offense. Arizona's defense needs to be ashamed of itself.
 
 Speaking of which...so many penalties were charged to Arizona's defense, helping to sustain Colt drives. Not good for a team supposedly bound for the playoffs.
+
+***
+
+## Rams @ Vikings
+
+My suspicions of Matthew Stafford being cripplingly dependent on Cooper Kupp hasn't been alleviated at all today. And I'm still not sure OBJ can step up. He ran a nice route for a late-game touchdown, but his presence in the game has been otherwise muted.
