@@ -45,3 +45,7 @@ Excellent trick, fooling the Patriots offsides on a fourth-down so as to make th
 Crossing routes are killing New England's corners. New England even tried to be cute on one play, stationing defenders in man coverage with no safety over top. Of course, a defensive back would roll out to safety after the ball is snapped, but at that point, it's too late....Stefon Diggs worked his way up the seam and to the end zone. New England may this this trickery is absolutely key, but Josh Allen and Brian Daboll have played them way too much at this point to fall for their ruses.
 
 On top of that, New England's linebackers have been a liability. Buffalo took advantage of their fairly slow linebacking corps.
+
+This was Josh Allen's best game of the season, hands down. It's clear Buffalo came into this affair with a purpose.
+
+Amazing to think a Belichick-led team can be as lazy as the one that showed up today. Even the greatest of coaches can only coax so much will from their men.
