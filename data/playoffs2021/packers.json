@@ -4,10 +4,11 @@
     "weapons" : ["Davonte Adams", "Aaron Jones", "Aaron Rodgers (Mobile QB)"],
     "mWeapons" : [],
     "passRushers" : ["Rashan Gary"],
-    "mPassRushers" : ["Za'Darius Smith, Preston Smith"],
+    "mPassRushers" : ["Za'Darius Smith", "Preston Smith"],
     "oc" : "",
-    "mOc" : "",,
+    "mOc" : "",
     "dc" : "",
     "mDc" : "Joe Barry",
-    "comebacks" : 0
+    "comebacks" : 0,
+    "comebacksSurrendered" : 1
 }

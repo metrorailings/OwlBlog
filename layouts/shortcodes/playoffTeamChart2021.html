@@ -1,0 +1,153 @@
+<!-- Pull the team data that we'll be using to generate this chart -->
+{{ with (index .Site.Data.playoffs2021 (.Get "team") ) }}
+
+<!-- 
+Set up running tallies on the scratchpad so that we can calculate a score range for the team after considering all 
+the factors in the table 
+-->
+{{ $.Scratch.Set "score" 0 }}
+{{ $.Scratch.Set "highScore" 0 }}
+
+<table class='playoffTeamChart'>
+<tr>
+<th class='chartHeader' colspan='2'>{{ .name }}</th>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Elite Quarterback</div>
+<div class='scoreSubtitle'>6 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if an elite quarterback is specified do we list his name -->
+{{ if .qb }}
+{{ $.Scratch.Add "score" 6 }}
+<div>{{ .qb }}</div>
+{{ else }}
+<div>--</div>
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Premiere Offensive Weapons</div>
+<div class='scoreSubtitle'>
+2 points per player
+</div>
+</td>
+<td class='answerCell'>
+<!-- All names will be given as part of a list -->
+{{ range .weapons }}
+<div>{{ . }}</div>
+{{ $.Scratch.Add "score" 2 }}
+{{ end }}
+
+<!-- Adjust the scoring ceiling if we have players on the cusp of being premiere weapons -->
+{{ range .mWeapons }}
+<div class='maybePlayer'>{{ . }}<i class='far fa-question-circle'></i></div>
+{{ $.Scratch.Add "highScore" 2 }}
+{{ end }}
+
+<!-- If the team has no verifiable weapons, just set dashes here -->
+{{ if (eq (len .weapons) 0 ) }}
+{{ if (eq (len .mWeapons) 0 ) }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Elite Pass Rushers</div>
+<div class='scoreSubtitle'>3 points per player</div>
+</td>
+<td class='answerCell'>
+<!-- All names will be given as part of a list -->
+{{ range .passRushers }}
+{{ $.Scratch.Add "score" 3 }}
+<div>{{ . }}</div>
+{{ end }}
+
+<!-- Adjust the scoring ceiling if we have pass rushers who could potentially round into elite form -->
+{{ range .mPassRushers }}
+{{ $.Scratch.Add "highScore" 3 }}
+<div class='maybePlayer'>{{ . }}<i class='far fa-question-circle'></i></div>
+{{ end }}
+
+{{ if (eq (len .passRushers) 0 ) }}
+{{ if (eq (len .mPassRushers) 0 ) }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Quality Offensive Coaching</div>
+<div class='scoreSubtitle'>5 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if the team has a capable offensive mind either as head coach or defensive coordinator do we list a name here -->
+{{ if .oc }}
+{{ $.Scratch.Add "score" 5 }}
+<div>{{ .oc }}</div>
+{{ else }}
+{{ if .mOc }}
+{{ $.Scratch.Add "highScore" 5 }}
+<div class='maybePlayer'>{{ .mOc }}<i class='far fa-question-circle'></i></div>
+{{ else }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Quality Defensive Coaching</div>
+<div class='scoreSubtitle'>5 points</div>
+</td>
+<td class='answerCell'>
+<!-- Only if the team has a capable defensive mind either as head coach or defensive coordinator do we list a name here -->
+{{ if .dc }}
+{{ $.Scratch.Add "score" 5 }}
+<div>{{ .dc }}</div>
+{{ else }}
+{{ if .mDc }}
+{{ $.Scratch.Add "highScore" 5 }}
+<div class='maybePlayer'>{{ .mDc }}<i class='far fa-question-circle'></i></div>
+{{ else }}
+<div>--</div>
+{{ end }}
+{{ end }}
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Number of Successful Comebacks</div>
+<div class='scoreSubtitle'>2 points per comeback</div>
+</td>
+<td class='answerCell'>
+{{ $.Scratch.Add "score" (mul 2 .comebacks) }}
+<div>{{ .comebacks }}</div>
+</td>
+</tr>
+<tr>
+<td class='categoryCell'>
+<div>Number of Comebacks Surrendered</div>
+<div class='scoreSubtitle'>-2 points per comeback</div>
+</td>
+<td class='answerCell'>
+{{ $.Scratch.Add "score" (mul -2 .comebacksSurrendered) }}
+<div>{{ .comebacksSurrendered }}</div>
+</td>
+</tr>
+
+{{ $.Scratch.Add "highScore" ($.Scratch.Get "score") }}
+<tr class='scoreRow'>
+<td class='scoreCell'>Score Range</td>
+<td class='scoreAnswerCell'>
+<div>{{ $.Scratch.Get "score" }} - {{ $.Scratch.Get "highScore" }}</div>
+</td>
+</tr>
+</table>
+
+{{ end }}

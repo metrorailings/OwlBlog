@@ -113,7 +113,7 @@
 			{{ else }}
 				{{ if .mDc }}
 					{{ $.Scratch.Add "highScore" 5 }}
-					<div class='maybePlayer'>{{ substr .dc 1 }}<i class='far fa-question-circle'></i></div>
+					<div class='maybePlayer'>{{ .mDc }}<i class='far fa-question-circle'></i></div>
 				{{ else }}
 					<div>--</div>
 				{{ end }}
@@ -128,6 +128,16 @@
 		<td class='answerCell'>
 			{{ $.Scratch.Add "score" (mul 2 .comebacks) }}
 			<div>{{ .comebacks }}</div>
+		</td>
+	</tr>
+	<tr>
+		<td class='categoryCell'>
+			<div>Number of Comebacks Surrendered</div>
+			<div class='scoreSubtitle'>-2 points per comeback</div>
+		</td>
+		<td class='answerCell'>
+			{{ $.Scratch.Add "score" (mul -2 .comebacksSurrendered) }}
+			<div>{{ .comebacksSurrendered }}</div>
 		</td>
 	</tr>
 

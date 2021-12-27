@@ -126,21 +126,10 @@
 
 .maybePlayer
 {
-	padding:
-	{
-		top: 3px;
-		bottom: 3px;
-		left: 3px;
-		right: 3px;
-	}
+	font-style: italic;
 
-	border:
+	& > i
 	{
-		style: solid;
-		width: 1px;
-		color: map-get($COLORS, slateGrayTheme);
-		radius: 10px;
+		margin-left: 5px;
 	}
-
-	font-decoration: italic;
 }
