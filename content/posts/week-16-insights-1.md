@@ -29,3 +29,9 @@ Speaking of which...so many penalties were charged to Arizona's defense, helping
 ## Rams @ Vikings
 
 My suspicions of Matthew Stafford being cripplingly dependent on Cooper Kupp hasn't been alleviated at all today. And I'm still not sure OBJ can step up. He ran a nice route for a late-game touchdown, but his presence in the game has been otherwise muted.
+
+***
+
+## Bills @ Patriots
+
+Bills defense has keyed in on some of the Patriots offensive concepts.
