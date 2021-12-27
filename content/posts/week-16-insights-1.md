@@ -47,4 +47,4 @@ On top of that, New England's linebackers have been a liability. Buffalo took ad
 
 This was Josh Allen's best game of the season, hands down. It's clear Buffalo came into this affair with a purpose.
 
-Amazing to think a Belichick-led team can be as lazy as the one that showed up today. Even the greatest of coaches can only coax so much will from their men.
+Amazing to think a Belichick-led team can be as lazy as the one that showed up today. Even the greatest of coaches can only coax so much will from their men. But the strangest thing about this is that **the Patriots are coming off a loss**. Buffalo is coming off a weak win over the Panthers while New England was reeling from a primetime loss. But the Patriots came into this contest just convinced their base plays would be sufficient enough to defeat the Bills once more. I suppose when analyzing level of effort in division rematches, I need to take into account the magnitude of victory from the first contest.
