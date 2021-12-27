@@ -35,3 +35,5 @@ My suspicions of Matthew Stafford being cripplingly dependent on Cooper Kupp has
 ## Bills @ Patriots
 
 Bills defense has keyed in on some of the Patriots offensive concepts.
+
+New England has some of the best drawn run plays I've seen this season.
