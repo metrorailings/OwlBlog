@@ -42,4 +42,4 @@ Second Patriot drive and New England seems more intent on now passing the ball. 
 
 Excellent trick, fooling the Patriots offsides on a fourth-down so as to make the down that much more manageable.
 
-Crossing routes are killing New England's corners. New England even tried to be cute on one play, stationing defenders in man coverage with no safety over top. Of course, a defensive back would roll out to safety after the ball is snapped, but at that point, it's too late....Stefon Diggs worked his way up the seam and to the end zone. 
+Crossing routes are killing New England's corners. New England even tried to be cute on one play, stationing defenders in man coverage with no safety over top. Of course, a defensive back would roll out to safety after the ball is snapped, but at that point, it's too late....Stefon Diggs worked his way up the seam and to the end zone. New England may this this trickery is absolutely key, but Josh Allen and Brian Daboll have played them way too much at this point to fall for their ruses.
