@@ -39,3 +39,7 @@ Bills defense has keyed in on some of the Patriots offensive concepts.
 New England has some of the best drawn run plays I've seen this season.
 
 Second Patriot drive and New England seems more intent on now passing the ball. However, Mac Jones low pass was tipped for the interception, killing the drive.
+
+Excellent trick, fooling the Patriots offsides on a fourth-down so as to make the down that much more manageable.
+
+Crossing routes are killing New England's corners. New England even tried to be cute on one play, stationing defenders in man coverage with no safety over top. Of course, a defensive back would roll out to safety after the ball is snapped, but at that point, it's too late....Stefon Diggs worked his way up the seam and to the end zone. 
