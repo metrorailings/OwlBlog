@@ -16,8 +16,12 @@ I think Green Bay's offense is fine for the most part. It could use one more rec
 
 The problem with Green Bay is still the same it was last year - its defense. Joe Barry was hired to replace Mike Pettine after a disastrous showing last year against Tampa in the NFC championship. For a few weeks, it seemed like Barry would finally be that beautiful defensive mind the Packers so badly need to help the defense elevate into elite form. The problem is that unit has lost control of opponents multiple times over the past several weeks. Injuries and COVID have nipped away some of their better players, but it's still not enough of an excuse to justify a unit like that falling off a cliff. The Ravens and the Browns should have never been given enough air to try and stage late-game comebacks. I mean...Baltimore was literally fielding their B-team on offense when they started rallying like crazy in the fourth quarter. It was only Harbaugh's reckless decision to attempt the two-point conversion in the end that the Packers were able to escape Maryland with a win. Likewise, Cleveland was trying to drive for the game-winning field goal before Baker ended up throwing his _fourth pick_. Think about that...it took four picks to finally seal the game away. Turnovers are great and all, but a defense cannot just rely on turnovers to close out games, period.
 
-Football Outsiders have Green Bay's defense ranked in the bottom half, which sounds about right. Their only saving grace would be if Za'Darius Smith immediately plays like an elite pass rusher after recovering from back surgery for nearly the entirety of the regular season. I wouldn't count on that, in all honesty.
+Football Outsiders have Green Bay's defense ranked in the bottom half, which sounds about right. Their only saving grace would be if Za'Darius Smith immediately plays like an elite pass rusher after spending the entirety of the regular season on the mend from back surgery. I wouldn't count on that, in all honesty.
 
 ***
 
-**Green Bay goes far if**
+**Green Bay wins the championship if**  
+Aaron Rodgers can marshal the offense early and seize the lead soon after taking the field. Once they're in command of the scoreboard, they must run up the score as much as possible. Their defense cannot be trusted to maintain anything shorter than a three-possession lead. Then again, if Za'Darius comes back in top form, he might be the critical piece needed to help the defense generate negative plays in key situations.
+
+**Green Bay loses in the postseason if**  
+any of their opponents take control of the game early and seize the lead against them, forcing Aaron Rodgers to mount a comeback with limited weaponry. ****
