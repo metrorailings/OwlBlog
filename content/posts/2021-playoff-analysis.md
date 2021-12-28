@@ -24,4 +24,4 @@ Football Outsiders have Green Bay's defense ranked in the bottom half, which sou
 Aaron Rodgers can marshal the offense early and seize the lead soon after taking the field. Once they're in command of the scoreboard, they must run up the score as much as possible. Their defense cannot be trusted to maintain anything shorter than a three-possession lead. Then again, if Za'Darius comes back in top form, he might be the critical piece needed to help the defense generate negative plays in key situations.
 
 **Green Bay loses in the postseason if**  
-any of their opponents take control of the game early and seize the lead against them, forcing Aaron Rodgers to mount a comeback with limited weaponry. ****
+any of their opponents take control of the game early and seize the lead against them, forcing Aaron Rodgers to mount a comeback with limited weaponry. It doesn't help that the Packers don't have any real track record this season when it comes to overcoming adverse situations - while they've successfully stages two comebacks, they've also given up a late-game lead against once.****
