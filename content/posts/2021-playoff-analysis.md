@@ -7,6 +7,10 @@ With only a few weeks left before playoffs, it's time to start analyzing postsea
 
 The model I developed last season will be carried over here, with one major change. Not only will overcoming double-digit deficits or staging late-game comebacks be considered in the model, but the reverse will be factored in as well. Any time a team blows a double-digit lead or loses the game late, it'll be counted negatively towards them as a sign of weakness. The more I think about this, the more I think it's fair to factor these type of losses into the model as an indication that an organization is not as mentally tough as one would expect from a team contending for a Super Bowl championship.
 
+Anyway, on with the analysis...
+
+***
+
 {{< playoffTeamChart2021 team="packers" >}}
 
 Green Bay will likely be the top seed in the NFC thanks mostly to the leadership and ability of one Aaron Rodgers. Not only is he an elite quarterback, he's the best quarterback in the league, bar none. His impact on the game has never been more appreciable than when the Packers were forced to march into Kansas City with Jordan Love assuming the reins of the offense after Rodgers tested positive for COVID.
@@ -23,4 +27,4 @@ Football Outsiders have Green Bay's defense ranked in the bottom half, which sou
 Aaron Rodgers can marshal the offense early and seize the lead soon after taking the field. Once they're in command of the scoreboard, they must run up the score as much as possible. Their defense cannot be trusted to maintain anything shorter than a three-possession lead. Then again, if Za'Darius comes back in top form, he might be the critical piece needed to help the defense generate negative plays in key situations.
 
 **Green Bay loses in the postseason if**  
-any of their opponents take control of the game early and seize the lead against them, forcing Aaron Rodgers to mount a comeback with limited weaponry. It doesn't help that the Packers don't have a solid track record this season when it comes to overcoming adverse situations - while they've successfully stages two comebacks, they've also given up a late-game lead against once. Honestly, had Baltimore did the right thing and opt to force the game into overtime, it's possible Green Bay would be sitting here currently having surrendered leads in two games this season.****
+any of their opponents take control of the game early and seize a sizable lead against them, forcing Aaron Rodgers to mount a comeback with limited weaponry. It doesn't help that the Packers lack a solid track record this season when it comes to overcoming adverse situations - while they've successfully stages two comebacks, they've also given up a late-game lead once. Honestly, had Baltimore did the right thing and forced the Packers to play overtime, it's possible Green Bay would be sitting here currently having surrendered leads in two games this season.
