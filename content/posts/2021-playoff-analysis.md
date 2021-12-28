@@ -1,7 +1,6 @@
 +++
 date = 2021-12-25T12:00:00Z
-draft = true
-headline = "2021 Playoff Analysis"
+headline = "2021 Playoff Analysis - Green Bay Packers"
 
 +++
 With only a few weeks left before playoffs, it's time to start analyzing postseason contenders.
