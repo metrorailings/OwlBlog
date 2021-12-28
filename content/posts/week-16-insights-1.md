@@ -9,6 +9,8 @@ Packers still have serious issue defending against mobile quarterbacks, let alon
 
 Allen Lazard may be a vector for this offense.
 
+Preston Smith impacted the game on 3-4 different occasions. Rashan Gary, on the other hand, was barely seen. I thought his snap count may have been limited, but it turns out he's only been in the game two snaps less than Preston.
+
 ***
 
 ## Colts @ Cardinals
