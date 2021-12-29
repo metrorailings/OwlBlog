@@ -4,3 +4,4 @@ draft = true
 headline = "2021 Playoff Analysis - Tennessee Titans"
 
 +++
+{{< playoffTeamChart2021 team="titans" >}}
