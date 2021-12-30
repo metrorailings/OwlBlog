@@ -35,7 +35,7 @@ Tampa has been exceptionally lazy guarding against the run. I know Buffalo has n
 
 Tampa Bay was fortunate to cover.
 
-In the first quarter alone, Mario Addison has made a few impact plays.
+In the first quarter alone, Mario Addison has made a few impact plays, though none of those plays amounted to hits on the quarterback.
 
 ***
 
