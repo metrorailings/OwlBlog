@@ -14,5 +14,5 @@ Two comebacks surrendered otherwise mar an otherwise impressive record this year
 
 ***
 
-**Tennessee advances far if**  
-a face or two among their defensive front steps up and elevates into elite form. That and key pieces of that offense must remain healthy, especially Tannehill. Ryan's been taking a beating over the better part of the year and the organization doesn't quite have the offensive coaching to compensate if injury forces him out of action. 
+**Tennessee advances far (possibly even to a championship) if**  
+a face or two among their defensive front steps up and elevates into elite form. That and key pieces of that offense must remain healthy, especially Tannehill. Ryan's been taking a beating over the better part of the year and the organization doesn't quite have the offensive coaching to compensate if injury forces him out of action.
