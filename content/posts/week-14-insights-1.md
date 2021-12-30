@@ -35,6 +35,8 @@ Tampa has been exceptionally lazy guarding against the run. I know Buffalo has n
 
 Tampa Bay was fortunate to cover.
 
+In the first quarter alone, Mario Addison has made a few impact plays.
+
 ***
 
 ## Giants @ Chargers
