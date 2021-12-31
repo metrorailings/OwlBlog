@@ -1,14 +1,15 @@
 {
     "name" : "Green Bay Packers",
     "qb" : "Aaron Rodgers",
-    "weapons" : ["Davonte Adams", "Aaron Jones", "Aaron Rodgers (Mobile QB)"],
+    "weapons" : ["Davonte Adams", "Aaron Jones / AJ Dillon", "Aaron Rodgers (Mobile QB)"],
     "mWeapons" : [],
-    "passRushers" : ["Preston Smith", "Rashan Gary"],
-    "mPassRushers" : ["Za'Darius Smith"],
+    "passRushers" : ["Preston Smith"],
+    "mPassRushers" : ["Rashan Gary", "Kenny Clark"],
     "oc" : "",
     "mOc" : "",
     "dc" : "",
     "mDc" : "Joe Barry",
     "comebacks" : 2,
-    "comebacksSurrendered" : 1
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
 }

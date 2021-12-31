@@ -63,13 +63,13 @@ the factors in the table
 <td class='answerCell'>
 <!-- All names will be given as part of a list -->
 {{ range .passRushers }}
-{{ $.Scratch.Add "score" 3 }}
+{{ $.Scratch.Add "score" 4 }}
 <div>{{ . }}</div>
 {{ end }}
 
 <!-- Adjust the scoring ceiling if we have pass rushers who could potentially round into elite form -->
 {{ range .mPassRushers }}
-{{ $.Scratch.Add "highScore" 3 }}
+{{ $.Scratch.Add "highScore" 4 }}
 <div class='maybePlayer'>{{ . }}<i class='far fa-question-circle'></i></div>
 {{ end }}
 
@@ -140,6 +140,22 @@ the factors in the table
 <div>{{ .comebacksSurrendered }}</div>
 </td>
 </tr>
+<tr>
+<td class='categoryCell'>
+<div>Elimination Game Experience</div>
+<div class='scoreSubtitle'>
+3 points each for offense, defense, and special teams units, provided a majority of key players on a
+given unit have experience in elimination game scenarios
+</div>
+</td>
+<td class='answerCell'>
+{{ $.Scratch.Add "score" (mul 3 (len .phasesExperienced)) }}
+{{ range .phasesExperienced }}
+<div>{{ . }}</div>
+{{ end }}
+</td>
+</tr>
+
 
 {{ $.Scratch.Add "highScore" ($.Scratch.Get "score") }}
 <tr class='scoreRow'>

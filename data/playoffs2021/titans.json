@@ -1,0 +1,15 @@
+{
+    "name" : "Tennessee Titans",
+    "qb" : "",
+    "weapons" : ["A.J. Brown", "Derrick Henry / D'Onta Foreman", "Ryan Tannehill (Mobile QB)"],
+    "mWeapons" : ["Julio Jones", "Nick Westbrook-Ikhine"],
+    "passRushers" : [],
+    "mPassRushers" : ["Jeffery Simmons", "Denico Autry"],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "Mike Vrabel",
+    "mDc" : "",
+    "comebacks" : 4,
+    "comebacksSurrendered" : 2,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+}

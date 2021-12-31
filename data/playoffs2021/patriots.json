@@ -4,11 +4,12 @@
     "weapons" : ["Damien Harris"],
     "mWeapons" : ["Jakobi Meyers", "Hunter Henry"],
     "passRushers" : ["Matthew Judon"],
-    "mPassRushers" : [""],
+    "mPassRushers" : [],
     "oc" : "Josh McDaniels",
     "mOc" : "",
     "dc" : "Bill Belichick",
     "mDc" : "",
     "comebacks" : 2,
-    "comebacksSurrendered" : 1
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Defense", "Special Teams"]
 }

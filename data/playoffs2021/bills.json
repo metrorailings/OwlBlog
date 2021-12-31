@@ -1,0 +1,15 @@
+{
+    "name" : "Buffalo Bills",
+    "qb" : "",
+    "weapons" : ["Stefon Diggs", "Josh Allen (Mobile QB)"],
+    "mWeapons" : ["Dawson Knox"],
+    "passRushers" : [],
+    "mPassRushers" : [],
+    "oc" : "Brian Daboll",
+    "mOc" : "",
+    "dc" : "Sean McDermott",
+    "mDc" : "",
+    "comebacks" : 0,
+    "comebacksSurrendered" : 0,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+}
