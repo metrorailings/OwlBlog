@@ -41,6 +41,10 @@ Shaquil Barrett has been the one name on Tampa's defensive front I've noted on m
 
 Interestingly enough, Buffalo made some serious hay in the second half by runs to the outside. It was these runs to the outside that opened up a few other plays for Buffalo.
 
+Jason Pierre-Paul made his presence known on a few plays, but it's Shaquil Barrett who has been outstanding as a pass rusher.
+
+Dawson Knox may be a real vector for the Bills. On top of that, Buffalo was robbed of a victory at the end, with the referees clearly doing the Buccaneers a favor by failing to flag their defensive backs for pass interference on two critical plays.
+
 ***
 
 ## Giants @ Chargers
