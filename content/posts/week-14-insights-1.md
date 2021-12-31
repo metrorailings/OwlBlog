@@ -37,6 +37,10 @@ Tampa Bay was fortunate to cover.
 
 In the first quarter alone, Mario Addison has made a few impact plays, though none of those plays amounted to hits on the quarterback.
 
+Shaquil Barrett has been the one name on Tampa's defensive front I've noted on multiple occasions.
+
+Interestingly enough, Buffalo made some serious hay in the second half by runs to the outside. It was these runs to the outside that opened up a few other plays for Buffalo.
+
 ***
 
 ## Giants @ Chargers
