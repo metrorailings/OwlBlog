@@ -45,6 +45,8 @@ Jason Pierre-Paul made his presence known on a few plays, but it's Shaquil Barre
 
 Dawson Knox may be a real vector for the Bills. On top of that, Buffalo was robbed of a victory at the end, with the referees clearly doing the Buccaneers a favor by failing to flag their defensive backs for pass interference on two critical plays.
 
+What the Bills need to be concerned about is that not one of their designated pass rushers really impressed on a consistent basis. A few of them flashed (Ed Oliver, Mario Addison, and Jerry Hughes) but arguably the best pass rusher on this team has been Matt Milano, who's only rushing as part of their blitzing packages on third down. 
+
 ***
 
 ## Giants @ Chargers
