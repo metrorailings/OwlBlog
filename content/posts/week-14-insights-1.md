@@ -107,6 +107,8 @@ This Zach Allen has flashed on multiple occasions for the Arizona Cardinals.
 
 Von Miller and Leonard Floyd were key on a drive that ended in a critical interception to effectively seal the game away.
 
+Notice that when the Rams are up by multiple scores, their defensive front lines up in a more typical pass rushing fashion. Interesting.
+
 ***
 
 ## Saints @ Jets
