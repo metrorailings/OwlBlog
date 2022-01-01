@@ -105,6 +105,8 @@ The Rams absolutely love their wide receiver screens from the line of scrimmage.
 
 This Zach Allen has flashed on multiple occasions for the Arizona Cardinals.
 
+Von Miller and Leonard Floyd were key on a drive that ended in a critical interception to effectively seal the game away.
+
 ***
 
 ## Saints @ Jets
