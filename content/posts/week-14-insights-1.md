@@ -109,6 +109,10 @@ Von Miller and Leonard Floyd were key on a drive that ended in a critical interc
 
 Notice that when the Rams are up by multiple scores, their defensive front lines up in a more typical pass rushing fashion. Interesting.
 
+Leonard Floyd made his presence known on a few more plays, though none came as close to being impactful as any of his plays on the Cardinals drive that ended in an early interception.
+
+Zach Allen needs to be seriously considered here as an elite pass rusher.
+
 ***
 
 ## Saints @ Jets
