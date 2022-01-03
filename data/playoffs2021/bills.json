@@ -10,6 +10,6 @@
     "dc" : "Sean McDermott",
     "mDc" : "",
     "comebacks" : 0,
-    "comebacksSurrendered" : 0,
+    "comebacksSurrendered" : 2,
     "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
 }
