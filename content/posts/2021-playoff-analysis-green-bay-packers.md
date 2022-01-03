@@ -8,9 +8,9 @@ With only a few weeks left before playoffs, it's time to start analyzing postsea
 
 The model I developed last season will be carried over here, with two major changes. Not only will overcoming double-digit deficits or staging late-game comebacks be considered in the model, but the reverse will be factored in as well. Any time a team blows a double-digit lead or loses the game late, it'll be counted negatively towards them as a sign of weakness. The more I think about this, the more I think it's fair to factor these type of losses into the model as an indication that an organization is not as mentally tough as one would expect from a team contending for a Super Bowl championship.
 
-The second change is factoring in previous playoff or elimination game experience. It's something I've wanted to neglect for the longest while now...but it's dawning on me that playoff experience matters. Young teams in their first postseason contest are all too often committing unusually silly mistakes or not playing to expectations. And it makes sense these teams would be saddled with so much anxiety foraying into elimination games.
+The second change is factoring in previous playoff or elimination game experience. It's something I've wanted to neglect for the longest while now...but it's dawning on me that playoff experience matters. Young teams in their first postseason contest are all too often committing unusually silly mistakes or not playing up to expectations. And it makes sense...of course these teams would be saddled with so much anxiety foraying into their first elimination-style game in the professional leagues. I have to be very careful not to overrate experience relative to all the other factors, as it only carries so much weight in the grand scheme of things. Once again, when it comes to winning the Super Bowl, a team must have a preponderance of qualities. No one quality is absolutely mandatory, though certain elements hold more value than others.
 
-Anyway, on with the analysis...
+Anyway, let's start with the analysis...
 
 ***
 
