@@ -13,4 +13,4 @@ One more thing - the team hasn't really staged any comebacks this season. If any
 ***
 
 **Buffalo survives into the division round if**  
-luck gifts them with an easy opponent in the wild card round.
+luck gifts them with an easy opponent in the wild card round. It's possible depending on whether they end up greeting the Chargers or Raiders to open the playoffs.
