@@ -12,4 +12,5 @@ One more thing - the team hasn't really staged any comebacks this season. If any
 
 ***
 
-**Buffalo**
+**Buffalo survives into the division round if**  
+luck gifts them with an easy opponent in the wild card round.
