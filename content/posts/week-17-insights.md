@@ -1,6 +1,5 @@
 +++
 date = 2022-01-02T12:00:00Z
-draft = true
 headline = "Week 17 Insights"
 
 +++
