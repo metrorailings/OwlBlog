@@ -45,7 +45,7 @@ Jason Pierre-Paul made his presence known on a few plays, but it's Shaquil Barre
 
 Dawson Knox may be a real vector for the Bills. On top of that, Buffalo was robbed of a victory at the end, with the referees clearly doing the Buccaneers a favor by failing to flag their defensive backs for pass interference on two critical plays.
 
-What the Bills need to be concerned about is that not one of their designated pass rushers really impressed on a consistent basis. A few of them flashed (Ed Oliver, Mario Addison, and Jerry Hughes) but arguably the best pass rusher on this team has been Matt Milano, who only rushes as part of the defense's blitzing packages on third down. 
+What the Bills need to be concerned about is that not one of their designated pass rushers really impressed on a consistent basis. A few of them flashed (Ed Oliver, Mario Addison, and Jerry Hughes) but arguably the best pass rusher on this team has been Matt Milano, who only rushes as part of the defense's blitzing packages on third down.
 
 ***
 
@@ -89,7 +89,7 @@ Three defenders on Cooper Kupp and he still catches the ball. That alone proves 
 
 The magic has manifested for the Cardinals. A deep pass to a well-covered receiver, followed up by _Aaron Donald_ whiffing on a tackle on a fourth down, letting James Conner run in for the touchdown.
 
-Just sloppy man defense, letting the Rams open up some easy crossing routes against them. Still, credit to OBJ for generating a big play off one of those crossing routes.
+Just sloppy man defense, letting the Rams open up some easy crossing routes against them. Still, credit to OBJ for generating a big play off one of those crossing routes,  even with multiple safeties in the backfield.
 
 Another Kyler Murray interception, this one coming off Kyler trying to lob a pass over an edge rusher. Once again, his short stature and lack of touch aren't doing him any favors.
 
@@ -100,6 +100,18 @@ Rams have shown some remarkable toughness on a late drive to score a field goal 
 No magic. The Cardinals just flat out sucked tonight. It's clear the whole team missed some crispness in their offense tonight. Kudos to Raheem Morris though. I was doubting him as a defensive coach under Sean McVay, but it's clear the Rams fully committed to keeping Kyler in the pocket. If Arizona was to win tonight, it'd be with Kyler as a pocket passer. And that just doesn't fly.
 
 Nobody on the Cardinals defensive squad seemed to have stepped up aside from Chandler Jones. Same thing with the Rams and Aaron Donald.
+
+The Rams absolutely love their wide receiver screens from the line of scrimmage. Probably a good way to mitigate opposing pass rushers every now and then while guaranteeing a completion.
+
+This Zach Allen has flashed on multiple occasions for the Arizona Cardinals.
+
+Von Miller and Leonard Floyd were key on a drive that ended in a critical interception to effectively seal the game away.
+
+Notice that when the Rams are up by multiple scores, their defensive front lines up in a more typical pass rushing fashion. Interesting.
+
+Leonard Floyd made his presence known on a few more plays, though none came as close to being impactful as any of his plays on the Cardinals drive that ended in an early interception.
+
+Zach Allen needs to be seriously considered here as an elite pass rusher.
 
 ***
 
