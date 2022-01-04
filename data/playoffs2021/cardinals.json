@@ -1,0 +1,15 @@
+{
+    "name" : "Arizona Cardinals",
+    "qb" : "",
+    "weapons" : ["James Connor", "A.J. Green", "Kyler Murray (Mobile QB)"],
+    "mWeapons" : ["Zach Ertz", "Christian Kirk", "Chase Edmonds"],
+    "passRushers" : ["Chandler Jones"],
+    "mPassRushers" : ["Zach Allen", "Markus Golden"],
+    "oc" : "Kliff Kingsbury",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "",
+    "comebacks" : 1,
+    "comebacksSurrendered" : 0,
+    "phasesExperienced" : ["Special Teams"]
+}
