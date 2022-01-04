@@ -4,3 +4,4 @@ draft = true
 headline = "2021 Playoff Analysis - Arizona Cardinals"
 
 +++
+{{< playoffTeamChart2021 team="cardinals" >}}
