@@ -14,5 +14,7 @@ The only other issue comes with experience. Kliff Kingsbury's team is a solid te
 
 ***
 
-**Arizona could potentially win the NFC championship**  
-if their wild card opponent is a team clearly lacking a number of championship qualities and either Zach Allen or Markus Golden really step up in the postseason, thereby giving this defense the two solid pass rushers it needs to level up. 
+**Arizona could potentially win the NFC championship if**  
+if their wild card opponent is a team clearly lacking a number of championship qualities. Their lack of postseason experience is expected to hurt them significantly in their playoff debut, so it would really help if their opponent has deficiencies on their end to keep the playing field level. 
+
+On top of that, the Cardinals need some of the names listed above as potentially impactful players to actually break out in the postseason. Either Zach Allen or Markus Golden need to step up to give this defense two dominant pass rushers if it looks to survive three straight trips on the road against the best teams. Furthermore, Arizona needs Christian Kirk, Zach Ertz, and possibly even Chase Edmonds to evolve into reliable vectors to keep this offense humming on the road, especially given the unit doesn't have an elite quarterback at its helm.
