@@ -20,3 +20,7 @@ Honestly, the Cowboys are a strange bunch. In primetime moments, this team excel
 Dak running the ball has bailed him out on a few downs.
 
 Chandler Jones has really shined, even without Haasan Reddick playing.
+
+Dak is problematic. Not sure why.
+
+Dallas regularly rotating defensive linemen in and out of downs has been terrifically effective. Even their depth linemen have been winning their battles in the trenches. It's mostly through clever scheming and Kyler's mobility that Arizona's offense has found some rhythm on offense.
