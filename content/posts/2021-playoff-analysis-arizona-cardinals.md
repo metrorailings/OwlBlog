@@ -13,3 +13,6 @@ The defense introduces our first real concern here. Even though the roster featu
 The only other issue comes with experience. Kliff Kingsbury's team is a solid team, but a young one. Too many key players among the offense and defense are missing experience in elimination game scenarios. It's going to hurt them in the wild card round for sure.
 
 ***
+
+**Arizona could potentially win the NFC championship**  
+if their wild card opponent is a team clearly lacking a number of championship qualities and either Zach Allen or Markus Golden really step up in the postseason, thereby giving this defense the two solid pass rushers it needs to level up. 
