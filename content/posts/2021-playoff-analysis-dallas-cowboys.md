@@ -5,3 +5,9 @@ headline = "2021 Playoff Analysis - Dallas Cowboys"
 
 +++
 {{< playoffTeamChart2021 team="cowboys" >}}
+
+The Dallas Ladyboys. I love that little nickname for them. It has way more charm than "cOwgiRLs".
+
+As a Giants fan, it pains me to say Dallas is a championship contender. But they have a good number of the ingredients a team needs to be considered a Super Bowl contender. Their defense has two veritably dominant players lining up in the trenches, with a third player potentially qualifying as elite as well. Add on top of that the mind of Dan Quinn, who's clearly evolved this year into one of the game's most capable defensive strategists. Unlike most other postseason teams, the Cowboys have precious little to worry about on defense.
+
+Offense is a bit of a different story, especially lately. To put it succinctly, it's been stuck in a rut. Dak Prescott has been anything but sharp as the team's quarterback. Amari Cooper has lost a step and possibly top billing among that receiving corps. Ezekiel Elliott has been downright pathetic this year, getting outclassed by his understudy in Tony Pollard. Kellen Moore seems to have gotten lost in the shuffle in this downturn too. Outside of a few gadget plays, his impact hasn't really been felt since the Cowboys stunned the Vikings in primetime.
