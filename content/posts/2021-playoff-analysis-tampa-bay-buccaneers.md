@@ -10,9 +10,9 @@ Tampa Bay would be a serious contender for the Super Bowl if it weren't the inju
 
 Despite his gaudy numbers this season and the adoration from the media, Brady is not an elite quarterback. He needs help. Last year, he had a plethora of vectors on offense assisting him. This year though, most of those weapons have been lost or rendered dull through injury. Ironically, Gronk is the only major skill player on offense who's finishing out the season healthy. So expect some major regression from the offense as Tampa navigates through the playoffs.
 
-Defensively, the same injury concerns apply now that the Buccaneers may be without their best pass rusher in Shaquil Barrett for a game or more. Seeing that no other defensive lineman on the team is worthy of elite designation, Todd Bowles is going to have to rely on inventive concepts and schemes to help his defense mount consistent pressure against opposing quarterbacks. The problem with that style of pass rush is that it's not sustainable over the course of the postseason.
+Defensively, the same injury concerns apply now that the Buccaneers may be without their best pass rusher in Shaquil Barrett for a game or more. Seeing that no other defensive lineman on the team is worthy of elite designation, Todd Bowles is going to have to rely on inventive concepts and schemes to help his defense mount consistent pressure against opposing quarterbacks. The problem with that style of pass rush is that it's usually not sustainable over the course of the postseason, especially when a team is forced to travel on the road in multiple contests.
 
-Unless these Buccaneers heal up quickly, expect them to no longer be the reigning champions after the Super Bowl ends.
+The good thing is that the Buccaneers can count on Tom Brady, Todd Bowles, and Bruce Arians to carry them intellectually. Simply put, It's just a matter of whether the club can recover enough of its key personnel in time for critical showdowns against top-tier teams on the road. If not, expect them to no longer be the reigning champions several weeks from now.
 
 ***
 
