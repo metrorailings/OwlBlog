@@ -1,0 +1,15 @@
+{
+    "name" : "Los Angeles Chargers",
+    "qb" : "Justin Herbert",
+    "weapons" : ["Mike Williams", "Keenan Allen", "Austin Ekeler"],
+    "mWeapons" : ["Justin Herbert (Mobile QB)"],
+    "passRushers" : ["Joey Bosa"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "",
+    "comebacks" : 5,
+    "comebacksSurrendered" : 2,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+}

@@ -1,0 +1,15 @@
+{
+    "name" : "Tampa Bay Buccaneers",
+    "qb" : "",
+    "weapons" : ["Rob Gronkowski"],
+    "mWeapons" : ["Leonard Fournette", "Mike Evans"],
+    "passRushers" : [],
+    "mPassRushers" : ["Shaquil Barrett", "Devin White"],
+    "oc" : "Tom Brady",
+    "mOc" : "",
+    "dc" : "Todd Bowles",
+    "mDc" : "",
+    "comebacks" : 4,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+}

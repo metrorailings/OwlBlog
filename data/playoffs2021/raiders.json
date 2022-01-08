@@ -1,0 +1,15 @@
+{
+    "name" : "Las Vegas Raiders",
+    "qb" : "",
+    "weapons" : ["Hunter Renfrow"],
+    "mWeapons" : ["Josh Jacobs", "Darren Waller", "Zay Jones"],
+    "passRushers" : ["Maxx Crosby", "Yannick Ngakoue"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "",
+    "comebacks" : 4,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : []
+}

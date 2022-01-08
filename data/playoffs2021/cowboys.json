@@ -1,0 +1,15 @@
+{
+    "name" : "Dallas Cowboys",
+    "qb" : "",
+    "weapons" : ["CeeDee Lamb"],
+    "mWeapons" : ["Tony Pollard", "Amari Cooper"],
+    "passRushers" : ["Micah Parsons", "Randy Gregory"],
+    "mPassRushers" : ["Demarcus Lawrence"],
+    "oc" : "",
+    "mOc" : "Kellen Moore",
+    "dc" : "Dan Quinn",
+    "mDc" : "",
+    "comebacks" : 2,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+}
