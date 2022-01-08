@@ -30,3 +30,5 @@ Dallas regularly rotating defensive linemen in and out of downs has been terrifi
 ## Chiefs @ Bengals
 
 Travis Kelce's ability to improvise is pretty damn phenomenal and a godsend for an offense partly predicated on Mahomes' ability to scramble.
+
+The interior of Cincinnati's defensive line needs to be questioned. They haven't held up all too well against the run or incredibly obvious short yardage situations. 
