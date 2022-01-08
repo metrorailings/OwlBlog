@@ -35,4 +35,6 @@ The interior of Cincinnati's defensive line needs to be questioned. They haven't
 
 Bengals are rolling into single-high safety looks way too much for their own good.
 
-It's the Baltimore game all over again. Kansas City is gambling with blitzes, but Burrow's reading these blitzes too quickly and throwing the ball to Ja'Marr Chase running sideline routes against single coverage. 
+It's the Baltimore game all over again. Kansas City is gambling with blitzes, but Burrow's reading these some of these blitzes too quickly and throwing the ball to Ja'Marr Chase running sideline routes against single coverage. Kansas has been hitting home on some blitzes, but other blitzes have not only failed, but gave Burrow opportunities to move the ball way downfield.
+
+I can see why Kansas in inclined to blame the referees in this game for some bad calls...
