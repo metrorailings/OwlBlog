@@ -34,3 +34,5 @@ Travis Kelce's ability to improvise is pretty damn phenomenal and a godsend for 
 The interior of Cincinnati's defensive line needs to be questioned. They haven't held up all too well against the run or incredibly obvious short yardage situations. 
 
 Bengals are rolling into single-high safety looks way too much for their own good.
+
+It's the Baltimore game all over again. Kansas City is gambling with blitzes, but Burrow's reading these blitzes too quickly and throwing the ball to Ja'Marr Chase running sideline routes against single coverage. 
