@@ -24,3 +24,17 @@ Chandler Jones has really shined, even without Haasan Reddick playing.
 Dak is problematic. Not sure why.
 
 Dallas regularly rotating defensive linemen in and out of downs has been terrifically effective. Even their depth linemen have been winning their battles in the trenches. It's mostly through clever scheming and Kyler's mobility that Arizona's offense has found some rhythm on offense.
+
+***
+
+## Chiefs @ Bengals
+
+Travis Kelce's ability to improvise is pretty damn phenomenal and a godsend for an offense partly predicated on Mahomes' ability to scramble.
+
+The interior of Cincinnati's defensive line needs to be questioned. They haven't held up all too well against the run or incredibly obvious short yardage situations. 
+
+Bengals are rolling into single-high safety looks way too much for their own good.
+
+It's the Baltimore game all over again. Kansas City is gambling with blitzes, but Burrow's reading these some of these blitzes too quickly and throwing the ball to Ja'Marr Chase running sideline routes against single coverage. Kansas has been hitting home on some blitzes, but other blitzes have not only failed, but gave Burrow opportunities to move the ball way downfield.
+
+I can see why Kansas in inclined to blame the referees in this game for some bad calls...
