@@ -83,16 +83,16 @@ the factors in the table
 <tr>
 <td class='categoryCell'>
 <div>Quality Offensive Coaching</div>
-<div class='scoreSubtitle'>5 points</div>
+<div class='scoreSubtitle'>6 points</div>
 </td>
 <td class='answerCell'>
 <!-- Only if the team has a capable offensive mind either as head coach or defensive coordinator do we list a name here -->
 {{ if .oc }}
-{{ $.Scratch.Add "score" 5 }}
+{{ $.Scratch.Add "score" 6 }}
 <div>{{ .oc }}</div>
 {{ else }}
 {{ if .mOc }}
-{{ $.Scratch.Add "highScore" 5 }}
+{{ $.Scratch.Add "highScore" 6 }}
 <div class='maybePlayer'>{{ .mOc }}<i class='far fa-question-circle'></i></div>
 {{ else }}
 <div>--</div>
@@ -103,16 +103,16 @@ the factors in the table
 <tr>
 <td class='categoryCell'>
 <div>Quality Defensive Coaching</div>
-<div class='scoreSubtitle'>5 points</div>
+<div class='scoreSubtitle'>6 points</div>
 </td>
 <td class='answerCell'>
 <!-- Only if the team has a capable defensive mind either as head coach or defensive coordinator do we list a name here -->
 {{ if .dc }}
-{{ $.Scratch.Add "score" 5 }}
+{{ $.Scratch.Add "score" 6 }}
 <div>{{ .dc }}</div>
 {{ else }}
 {{ if .mDc }}
-{{ $.Scratch.Add "highScore" 5 }}
+{{ $.Scratch.Add "highScore" 6 }}
 <div class='maybePlayer'>{{ .mDc }}<i class='far fa-question-circle'></i></div>
 {{ else }}
 <div>--</div>
@@ -144,19 +144,33 @@ the factors in the table
 <td class='categoryCell'>
 <div>Elimination Game Experience</div>
 <div class='scoreSubtitle'>
-3 points each for offense, defense, and special teams units, provided a majority of key players on a
-given unit have experience in elimination game scenarios
+2 points each for offense, defense, and special teams units, provided a majority of key role players
+on a given unit have experience in elimination game scenarios.
 </div>
 </td>
 <td class='answerCell'>
-{{ $.Scratch.Add "score" (mul 3 (len .phasesExperienced)) }}
+{{ $.Scratch.Add "score" (mul 2 (len .phasesExperienced)) }}
 {{ range .phasesExperienced }}
 <div>{{ . }}</div>
 {{ end }}
 </td>
 </tr>
-
-
+<tr>
+<td class='categoryCell'>
+<div>Quarterback Elimination Game Experience</div>
+<div class='scoreSubtitle'>
+6 points if a quarterback has experience in an elimination game
+</div>
+</td>
+<td class='answerCell'>
+{{ if (eq .quarterbackExperienced "y") }}
+{{ $.Scratch.Add "score" 6 }}
+<div>Yes</div>
+{{ else }}
+<div>No</div>
+{{ end }}
+</td>
+</tr>
 {{ $.Scratch.Add "highScore" ($.Scratch.Get "score") }}
 <tr class='scoreRow'>
 <td class='scoreCell'>Score Range</td>

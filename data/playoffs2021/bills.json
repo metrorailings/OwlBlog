@@ -11,5 +11,6 @@
     "mDc" : "",
     "comebacks" : 0,
     "comebacksSurrendered" : 2,
-    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
 }

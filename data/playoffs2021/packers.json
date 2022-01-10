@@ -11,5 +11,6 @@
     "mDc" : "Joe Barry",
     "comebacks" : 2,
     "comebacksSurrendered" : 1,
-    "phasesExperienced" : ["Offense", "Defense", "Special Teams"]
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
 }

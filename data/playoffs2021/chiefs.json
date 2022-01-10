@@ -1,0 +1,16 @@
+{
+    "name" : "Kansas City Chiefs",
+    "qb" : "",
+    "weapons" : ["Tyreek Hill", "Travis Kelce", "Patrick Mahomes (Mobile QB)"],
+    "mWeapons" : ["Darrel Williams"],
+    "passRushers" : ["Chris Jones"],
+    "mPassRushers" : ["Melvin Ingram"],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "Steve Spagnuolo",
+    "mDc" : "",
+    "comebacks" : 4,
+    "comebacksSurrendered" : 3,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}
