@@ -15,4 +15,4 @@ Still, even with the offense presenting some issues of their own, Kansas is real
 ***
 
 **Kansas City wins the championship if**  
-Melvin Ingram evolves into a dominant pass rusher to compliment Chris Jones. The strength of this Chiefs club is their defense, and it'll be the defense ultimately paving the way towards another Lombardi trophy so long as two elite pass rushers can help that unit produce at a wonderfully high level.
+Melvin Ingram evolves into a dominant pass rusher to compliment Chris Jones. The strength of this Chiefs club is their defense, and it'll be the defense ultimately paving the way towards another Lombardi trophy so long as two elite pass rushers can help that unit produce at a wonderfully high level. It would also help if Andy Reid can actually incorporate some new concepts into this offense to help give it some life. Enough with the downfield plays - take a page from the Saints playbook and focus more on passing the ball in the flat and intermediate areas of the field.
