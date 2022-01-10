@@ -5,3 +5,5 @@ headline = "2021 Playoff Analysis - Cincinnati Bengals"
 
 +++
 {{< playoffTeamChart2021 team="bengals" >}}
+
+Cincinnati
