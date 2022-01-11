@@ -50,3 +50,5 @@ Von Miller has made some key plays, particularly against screen passes.
 Tyler Higbee with a few clutch catches. Can he sustain this type of production?
 
 San Francisco is seriously impressing me.
+
+The Staley defense isn't built to handle power running teams.
