@@ -46,3 +46,5 @@ I can see why Kansas in inclined to blame the referees in this game for some bad
 The 49ers defensive front has honestly been impressing me. Their tackles in particular have been pretty ruthlessly winning their battles up front. Surprisingly, the only pass rusher I've seen that has yet to make a real impact is Nick Bosa.
 
 Von Miller has made some key plays, particularly against screen passes.
+
+Tyler Higbee with a few clutch catches. Can he sustain this type of production?
