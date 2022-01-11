@@ -48,3 +48,5 @@ The 49ers defensive front has honestly been impressing me. Their tackles in part
 Von Miller has made some key plays, particularly against screen passes.
 
 Tyler Higbee with a few clutch catches. Can he sustain this type of production?
+
+San Francisco is seriously impressing me.
