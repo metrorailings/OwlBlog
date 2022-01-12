@@ -10,6 +10,8 @@ The model I developed last season will be carried over here, with two major chan
 
 The second change is factoring in previous playoff or elimination game experience. It's something I've wanted to neglect for the longest while now...but it's dawning on me that playoff experience matters. Young teams in their first postseason contest are all too often committing unusually silly mistakes or not playing up to expectations. And it makes sense...of course these teams would be saddled with so much anxiety foraying into their first elimination-style game in the professional leagues. I have to be very careful not to overrate experience relative to all the other factors, as it only carries so much weight in the grand scheme of things. Once again, when it comes to winning the Super Bowl, a team must have a preponderance of qualities. No one quality is absolutely mandatory, though certain elements hold more value than others.
 
+EDIT (1/12/22) - I decided to not count comebacks surrendered. Look at Kansas City back in 2019. In all three of their postseason contests, Kansas had to mount comebacks, two of them from double-digit deficits and one in the fourth quarter. Honestly, it seems to me what matters is that organizations demonstrate successful comebacks on multiple occasions. I am thinking about setting a floor here at three comebacks. If a team fails to stage three comebacks in a given year, they can't be given credit in this aspect. Until then, I'll still value each comeback as two points while ignoring the number of comebacks surrendered. 
+
 Anyway, let's start with the analysis...
 
 ***
