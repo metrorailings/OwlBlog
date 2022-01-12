@@ -52,3 +52,11 @@ Tyler Higbee with a few clutch catches. Can he sustain this type of production?
 San Francisco is seriously impressing me.
 
 The Staley defense isn't built to handle power running teams.
+
+***
+
+## 49ers @ Titans (Week 15)
+
+Jeffery Simmons, Denico Autry, and Bud Dupree have flashed on multiple occasions for the 49ers.
+
+On San Francisco's end, Nick Bosa has been throwing his weight around on a few plays.
