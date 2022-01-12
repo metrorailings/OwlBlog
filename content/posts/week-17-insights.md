@@ -60,3 +60,7 @@ The Staley defense isn't built to handle power running teams.
 Jeffery Simmons, Denico Autry, and Bud Dupree have flashed on multiple occasions for the 49ers.
 
 On San Francisco's end, Nick Bosa has been throwing his weight around on a few plays.
+
+Tennessee's increased blitzing in the second half has been paying off.
+
+San Francisco has some wickedly creative plays.
