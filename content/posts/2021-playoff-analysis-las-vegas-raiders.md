@@ -1,7 +1,7 @@
 +++
 date = 2022-01-12T12:00:00Z
 draft = true
-headline = "2021 Playoff Analysis - Las Vegas Raiders"
+headline = "2021 Playoff Analysis: Las Vegas Raiders"
 
 +++
 {{< playoffTeamChart2021 team="raiders" >}}
