@@ -12,7 +12,7 @@ The second change is factoring in previous playoff or elimination game experienc
 
 EDIT (1/12/22) - I decided to not count comebacks surrendered. Look at the 2019 Chiefs, a team that only managed three successful comebacks while also surrendering two. In all three of their postseason contests, Kansas had to mount comebacks, two of them from double-digit deficits and one in the fourth quarter. Honestly, it seems to me what matters is that organizations demonstrate the ability to wage successful comebacks on multiple occasions. I am thinking about setting a floor here at three comebacks. If a team fails to stage three comebacks in a given year, they can't be given credit in this aspect. I was thinking of waiting until next year to apply this rule, but let's not wait. Fortune favors the bold. Or the stupid. One of those things. Either way, let's make this happen.
 
-Anyway, let's start with the analysis...
+Anyway, let's start with the analysis....
 
 ***
 
