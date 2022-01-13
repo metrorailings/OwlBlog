@@ -1,0 +1,16 @@
+{
+    "name" : "Philadelphia Eagles",
+    "qb" : "",
+    "weapons" : ["Miles Sanders / Boston Scott", "Jalen Hurts (Mobile QB)", "DeVonta Smith", "Dallas Goedert"],
+    "mWeapons" : [],
+    "passRushers" : ["Javon Hargrove"],
+    "mPassRushers" : ["Josh Sweat", "Derek Barnett"],
+    "oc" : "Nick Sirianni",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "",
+    "comebacks" : 3,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense"],
+    "quarterbackExperienced" : "n"
+}

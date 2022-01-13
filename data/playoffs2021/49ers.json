@@ -1,0 +1,16 @@
+{
+    "name" : "San Francisco 49ers",
+    "qb" : "",
+    "weapons" : ["Deebo Samuel", "George Kittle", "Elijah Mitchell / JaMycal Hasty"],
+    "mWeapons" : ["Brandon Aiyuk"],
+    "passRushers" : ["Nick Bosa"],
+    "mPassRushers" : ["Arik Armstead"],
+    "oc" : "Kyle Shanahan",
+    "mOc" : "",
+    "dc" : "DeMeco Ryans",
+    "mDc" : "",
+    "comebacks" : 2,
+    "comebacksSurrendered" : 3,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}

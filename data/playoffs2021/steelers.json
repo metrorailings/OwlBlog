@@ -1,0 +1,16 @@
+{
+    "name" : "Pittsburgh Steelers",
+    "qb" : "",
+    "weapons" : ["Diontae Johnson"],
+    "mWeapons" : ["Najee Harris"],
+    "passRushers" : ["T.J. Watt"],
+    "mPassRushers" : [],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "Mike Tomlin",
+    "mDc" : "",
+    "comebacks" : 6,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}

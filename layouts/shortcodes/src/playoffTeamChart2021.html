@@ -123,21 +123,13 @@
 	<tr>
 		<td class='categoryCell'>
 			<div>Number of Successful Comebacks</div>
-			<div class='scoreSubtitle'>2 points per comeback</div>
+			<div class='scoreSubtitle'>7 total points if the team successfully staged at least 3 comebacks</div>
 		</td>
 		<td class='answerCell'>
-			{{ $.Scratch.Add "score" (mul 2 .comebacks) }}
+			{{ if (gt .comebacks 2) }}
+				{{ $.Scratch.Add "score" 7 }}
+			{{ end }}
 			<div>{{ .comebacks }}</div>
-		</td>
-	</tr>
-	<tr>
-		<td class='categoryCell'>
-			<div>Number of Comebacks Surrendered</div>
-			<div class='scoreSubtitle'>-2 points per comeback</div>
-		</td>
-		<td class='answerCell'>
-			{{ $.Scratch.Add "score" (mul -2 .comebacksSurrendered) }}
-			<div>{{ .comebacksSurrendered }}</div>
 		</td>
 	</tr>
 	<tr>

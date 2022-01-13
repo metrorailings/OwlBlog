@@ -1,0 +1,16 @@
+{
+    "name" : "Los Angeles Rams",
+    "qb" : "",
+    "weapons" : ["Cooper Kupp", "Sony Michel"],
+    "mWeapons" : [],
+    "passRushers" : ["Aaron Donald"],
+    "mPassRushers" : ["Von Miller"],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "",
+    "comebacks" : 3,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}
