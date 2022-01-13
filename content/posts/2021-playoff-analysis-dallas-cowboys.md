@@ -1,5 +1,5 @@
 +++
-date = 2022-01-09T12:00:00Z
+date = 2022-01-12T12:00:00Z
 draft = true
 headline = "2021 Playoff Analysis - Dallas Cowboys"
 
@@ -17,4 +17,4 @@ So here we are, the Dallas Cowboys as a dark horse candidate for the Super Bowl 
 ***
 
 **Dallas reaches the Super Bowl if**  
-their offense shapes up in time for the postseason. I'm not expecting anything elite performances here from that unit, but the offense needs to be consistently proficient if they are to survive two road playoff games. 
+their offense shapes up in time for the postseason. I'm not expecting anything elite performances here from that unit, but the offense needs to be consistently proficient if they are to survive two road playoff games.
