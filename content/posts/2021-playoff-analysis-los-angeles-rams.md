@@ -1,5 +1,5 @@
 +++
-date = 2022-01-14T12:00:00Z
+date = 2022-01-12T12:00:00Z
 draft = true
 headline = "2021 Playoff Analysis - Los Angeles Rams"
 
@@ -10,4 +10,4 @@ The Rams have been notably pathetic finishing out the season. It hasn't been a g
 
 Coaching is what really interests me when it comes to Los Angeles. Before the season started, I was very easily sold on this idea of Sean McVay being a brilliant offensive mind. I bought in to the media hype. But it seems McVay hasn't evolved his philosophy on offense ever since he started coaching years ago. It's still a very basic offense predicated on running a myriad of plays from a basic formation. The problem is that analysts and some of the wiser defensive coaches around the league have gained a beat on those plays now. In short, people now have a pretty solid understanding of McVay's tendencies on offense. Stafford was supposed to remedy that predictability by giving the Rams the option to play dropback football, but as stated earlier....things haven't panned out in that respect. On top of that, Raheem Morris and his impact on this defense needs to be seriously questioned. For one thing, it's not his defense - McVay insisted Morris keep the type of defense Brandon Staley pioneered last season, given that statistically, that style of defense excelled in many areas. Things haven't quite panned out as such, and I wonder whether Morris is truly comfortable managing a defense not schematically built on his principles. If any of the defensive linemen from last year showed improvement this year, I might reconsider....but none of their existing linemen have really impressed me too much outside of the beast himself, Aaron Donald.
 
-If anything, it's been the addition of Von Miller that sets this club apart from last year's iteration. Von Miller's actually shown consistency rushing the passer and blowing up screens/runs. Maybe Miller can elevate to being that second dominant presence alongside Aaron Donald, but given this team's mental state as of late...that looks doubtful. 
+If anything, it's been the addition of Von Miller that sets this club apart from last year's iteration. Von Miller's actually shown consistency rushing the passer and blowing up screens/runs. Maybe Miller can elevate to being that second dominant presence alongside Aaron Donald, but given this team's mental state as of late...that looks doubtful.
