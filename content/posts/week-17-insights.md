@@ -31,10 +31,36 @@ Dallas regularly rotating defensive linemen in and out of downs has been terrifi
 
 Travis Kelce's ability to improvise is pretty damn phenomenal and a godsend for an offense partly predicated on Mahomes' ability to scramble.
 
-The interior of Cincinnati's defensive line needs to be questioned. They haven't held up all too well against the run or incredibly obvious short yardage situations. 
+The interior of Cincinnati's defensive line needs to be questioned. They haven't held up all too well against the run or incredibly obvious short yardage situations.
 
 Bengals are rolling into single-high safety looks way too much for their own good.
 
 It's the Baltimore game all over again. Kansas City is gambling with blitzes, but Burrow's reading these some of these blitzes too quickly and throwing the ball to Ja'Marr Chase running sideline routes against single coverage. Kansas has been hitting home on some blitzes, but other blitzes have not only failed, but gave Burrow opportunities to move the ball way downfield.
 
 I can see why Kansas in inclined to blame the referees in this game for some bad calls...
+
+***
+
+## 49ers @ Rams (Week 18)
+
+The 49ers defensive front has honestly been impressing me. Their tackles in particular have been pretty ruthlessly winning their battles up front. Surprisingly, the only pass rusher I've seen that has yet to make a real impact is Nick Bosa.
+
+Von Miller has made some key plays, particularly against screen passes.
+
+Tyler Higbee with a few clutch catches. Can he sustain this type of production?
+
+San Francisco is seriously impressing me.
+
+The Staley defense isn't built to handle power running teams.
+
+***
+
+## 49ers @ Titans (Week 15)
+
+Jeffery Simmons, Denico Autry, and Bud Dupree have flashed on multiple occasions for the 49ers.
+
+On San Francisco's end, Nick Bosa has been throwing his weight around on a few plays.
+
+Tennessee's increased blitzing in the second half has been paying off.
+
+San Francisco has some wickedly creative plays.
