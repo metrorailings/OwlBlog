@@ -71,4 +71,4 @@ San Francisco has some wickedly creative plays.
 
 The Chiefs committed much more to the short game to great effect, ending their opening drive in the second half with a touchdown.
 
-Melvin Ingram has been a force lately.
+Melvin Ingram has been a force lately. Ingram was crucial in closing out this game.
