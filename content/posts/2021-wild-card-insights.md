@@ -31,3 +31,5 @@ The Bills are playing contrary to the way they played in their last game against
 Patriots are trying to catch the Bills off-guard too by having Mac Jones throw the ball from the get-go. Still, it's not an easy ask for him to assume the mantle of production in hostile territory, especially with sub-zero wind chills.
 
 Perhaps I shouldn't have ignored momentum as much as I may did this year in my analysis. The Patriots were downright pathetic. It speaks volumes that the Bills were able to out-rush them, especially along the edges. New England was always a team that took pride in sealing the edge against opposing rushers, but Buffalo attacked the ends so easily. It was laughable.
+
+It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it.
