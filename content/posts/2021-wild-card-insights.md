@@ -28,4 +28,4 @@ In the end, Cincinnati won riding the game on their shoulders of their elite qua
 
 The Bills are playing contrary to the way they played in their last game against the Patriots. Instead of running crossing routes, receivers like Isaiah McKenzie are running whip routes back outside, forcing Patriot defenders to catch up from a trailing position. Some fine coaching courtesy of Brian Daboll.
 
-Patriots are trying to catch the Bills off-guard too by having Mac Jones throw the ball from the get-go. Still, it's not an easy ask for him to assume the mantle of production in hostile territory, especially in sub-zero wind chills.
+Patriots are trying to catch the Bills off-guard too by having Mac Jones throw the ball from the get-go. Still, it's not an easy ask for him to assume the mantle of production in hostile territory, especially with sub-zero wind chills.
