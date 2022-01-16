@@ -34,7 +34,7 @@ Perhaps I shouldn't have ignored momentum as much as I may did this year in my a
 
 It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it. On top of that, the defense started really showing its age at times. Michael Lombardi is right - cold weather and age don't pair well together.
 
-It's also possible Bill Belichick isn't mentally all there and Steve Belichick isn't anywhere close to fulling his father's shoes as the team's defensive signal caller.
+It's also possible Bill Belichick isn't mentally all there and Steve Belichick isn't anywhere close to fulling his father's shoes as the team's defensive signal caller. It's two games in a row now that Buffalo hasn't punted at all against this New England defense. Very sad. Their coaching will need to be called into question come next year.
 
 ***
 
