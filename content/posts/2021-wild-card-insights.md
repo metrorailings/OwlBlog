@@ -43,3 +43,9 @@ It's also possible Bill Belichick isn't mentally all there and Steve Belichick i
 Tristan Wirfs being sent back into action after sustaining a pretty serious injury is worrisome. Speaks quite a bit to Bruce Arians' mentality to send his players out to battle, regardless of their health.
 
 Brady still having issues connecting with receivers not named Mike Evans or Rob Gronkowski.
+
+***
+
+## 49ers @ Cowboys
+
+Good misdirection from Kyle Shanahan, running counter plays to the outside zone runs they normally run. A good example of why he's a quality offensive coach.
