@@ -49,3 +49,5 @@ Brady still having issues connecting with receivers not named Mike Evans or Rob 
 ## 49ers @ Cowboys
 
 Good misdirection from Kyle Shanahan, running counter plays to the outside zone runs they normally run. A good example of why he's a quality offensive coach.
+
+Micah Parsons has damn well near impacted every single play he's been on the field. Amazing.
