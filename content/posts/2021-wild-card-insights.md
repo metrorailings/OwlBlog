@@ -19,3 +19,5 @@ Hmm...the Bengals actually holding up in pass protection against Maxx Crosby and
 Well, simply put, this game was won in the trenches by the Bengals. The Raiders were never comfortable. Too many times Derek Carr looked lost while looking around for open players to catch his passes. Apparently, Cincinnati's press coverage was so good. And yet it never occurred to Carr or offensive coordinator Greg Olson to run more timing routes or rub routes to take advantage of the Bengals playing such tight coverage.
 
 Maybe Lou Anaramo deserves a bit more credit as a defensive mind than I thought, but I I can't say for sure. Greg Olson is anything but a mastermind, so tamping down the Raider defense isn't nearly as impressive as one might first judge.
+
+In the end, Cincinnati won riding the game on their shoulders of their elite quarterback and home field advantage shaking these weak-minded Raiders. Odd that the Raiders mounting over four comebacks this season didn't do them many favors in this game. Maybe what's key is recording the exact nature of the comeback. Three of those comebacks came at home. The other comeback came against a Cleveland squad ravaged by COVID. 
