@@ -29,3 +29,5 @@ In the end, Cincinnati won riding the game on their shoulders of their elite qua
 The Bills are playing contrary to the way they played in their last game against the Patriots. Instead of running crossing routes, receivers like Isaiah McKenzie are running whip routes back outside, forcing Patriot defenders to catch up from a trailing position. Some fine coaching courtesy of Brian Daboll.
 
 Patriots are trying to catch the Bills off-guard too by having Mac Jones throw the ball from the get-go. Still, it's not an easy ask for him to assume the mantle of production in hostile territory, especially with sub-zero wind chills.
+
+Perhaps I shouldn't have ignored momentum as much as I may did this year in my analysis. The Patriots were downright pathetic. It speaks volumes that the Bills were able to out-rush them, especially along the edges. New England was always a team that took pride in sealing the edge against opposing rushers, but Buffalo attacked the ends so easily. It was laughable.
