@@ -32,4 +32,6 @@ Patriots are trying to catch the Bills off-guard too by having Mac Jones throw t
 
 Perhaps I shouldn't have ignored momentum as much as I may did this year in my analysis. The Patriots were downright pathetic. It speaks volumes that the Bills were able to out-rush them, especially along the edges. New England was always a team that took pride in sealing the edge against opposing rushers, but Buffalo attacked the ends so easily. It was laughable.
 
-It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it.
+It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it. 
+
+It's also possible Bill Belichick isn't mentally all there and Steve Belichick isn't anywhere close to fulling his father's shoes as the team's defensive signal caller.
