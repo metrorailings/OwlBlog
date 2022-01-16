@@ -32,8 +32,14 @@ Patriots are trying to catch the Bills off-guard too by having Mac Jones throw t
 
 Perhaps I shouldn't have ignored momentum as much as I may did this year in my analysis. The Patriots were downright pathetic. It speaks volumes that the Bills were able to out-rush them, especially along the edges. New England was always a team that took pride in sealing the edge against opposing rushers, but Buffalo attacked the ends so easily. It was laughable.
 
-It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it. On top of that, the defense started really showing its age at times. Michael Lombardi is right - cold weather and age don't pair well together. 
+It's also possible the Patriots may have been hiding some injuries, particularly to Matthew Judon. But not once this season did Judon ever once appear on the injury report. I don't get it. On top of that, the defense started really showing its age at times. Michael Lombardi is right - cold weather and age don't pair well together.
 
 It's also possible Bill Belichick isn't mentally all there and Steve Belichick isn't anywhere close to fulling his father's shoes as the team's defensive signal caller.
 
-Might also be worth 
+***
+
+## Eagles @ Buccaneers
+
+Tristan Wirfs being sent back into action after sustaining a pretty serious injury is worrisome. Speaks quite a bit to Bruce Arians' mentality to send his players out to battle, regardless of their health.
+
+ 
