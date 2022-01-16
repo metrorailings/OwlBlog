@@ -52,4 +52,4 @@ Good misdirection from Kyle Shanahan, running counter plays to the outside zone 
 
 Micah Parsons has damn well near impacted every single play he's been on the field. Amazing.
 
-Cowboys now resorting to the hurry-up offense to matriculate the ball downfield. To their credit, it's working.
+Cowboys now resorting to the hurry-up offense to matriculate the ball downfield. It's working tremendously. Credit to Kellen Moore for the adjustment here.
