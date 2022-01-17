@@ -55,3 +55,7 @@ Micah Parsons has damn well near impacted every single play he's been on the fie
 Cowboys now resorting to the hurry-up offense to matriculate the ball downfield. It's working tremendously. Credit to Kellen Moore for the adjustment here.
 
 DeMeco Ryans throwing blitzes at Dak Prescott says all that needs to be said about what they thought about Dak Prescott. The 49ers aren't a team taken to blitzing either, but against Dak, San Francisco wanted to turn the heat up on Dak, knowing he wouldn't be able to respond in kind.
+
+Neither of these teams showed much toughness down the stretch. Mistakes were abundant by both organizations.
+
+Kellen Moore confuses me. I saw some moments of genius frmo him in this game, but not enough for my liking. More often than not, the Cowboys offense was too stale. It didn't help that their offensive line lost a few too many battles in the trenches, but their bland formations didn't help much in terms of misdirection.
