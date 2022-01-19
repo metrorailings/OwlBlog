@@ -58,3 +58,9 @@ DeMeco Ryans throwing blitzes at Dak Prescott says all that needs to be said abo
 Neither of these teams showed much toughness down the stretch. Mistakes were abundant by both organizations.
 
 Kellen Moore confuses me. I saw some moments of genius from him in this game (the wishbone, the sporadic use of the hurry-up offense, the wide receiver laterals), but not enough for my liking. More often than not, the Cowboys offense was too stale. It didn't help that their offensive line lost a few too many battles in the trenches, but their bland formations didn't help much in terms of misdirection.
+
+***
+
+## Cardinals @ Rams
+
+It's clear Arizona is forcing Stafford to rely on receivers other than Cooper Kupp. So far though..Stafford's adjusted by passing more to Tyler Higbee and Odell Beckham.
