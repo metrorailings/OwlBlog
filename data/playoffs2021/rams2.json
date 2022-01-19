@@ -1,0 +1,16 @@
+{
+    "name" : "Los Angeles Rams",
+    "qb" : "",
+    "weapons" : ["Cooper Kupp", "Sony Michel"],
+    "mWeapons" : ["Odell Beckham", "Tyler Higbee"],
+    "passRushers" : ["Aaron Donald"],
+    "mPassRushers" : ["Von Miller"],
+    "oc" : "",
+    "mOc" : "",
+    "dc" : "",
+    "mDc" : "Raheem Morris",
+    "comebacks" : 3,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}
