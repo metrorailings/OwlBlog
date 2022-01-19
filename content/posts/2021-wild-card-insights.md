@@ -68,3 +68,5 @@ It's clear Arizona is forcing Stafford to rely on receivers other than Cooper Ku
 Andrew Whitworth possibility a liability at left tackle for the Rams.
 
 Murray is so easily spooked. What's the point of having Kliff Kingsbury scheme out plays on this offense if Murray is honestly too spooked to execute on his concepts?
+
+McVay changed up his game plan a bit in the second half, specifically to incorporate more of Cooper Kupp. Either that or Vance Joseph is now invoking a more traditional style of defense since double covering Cupp has opened up major opportunities for Beckham and Higbee.
