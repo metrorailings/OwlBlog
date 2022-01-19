@@ -157,7 +157,7 @@ Wentz has been good. I've been impressed, though he's been faltering a bit at th
 
 Jacksonville's defense is silly with its poorly executed zone blitzes.
 
-Titans execute some interesting concepts on offense. Routes designed to create space for other receivers, backfield motion intended to misdirect, bootlegs, etc. 
+Titans execute some interesting concepts on offense. Routes designed to create space for other receivers, backfield motion intended to misdirect, bootlegs, etc.
 
 Just ugly defense from the Jaguars, expectedly. Slow to react, blown coverage, etc etc.
 

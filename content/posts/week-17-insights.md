@@ -64,3 +64,11 @@ On San Francisco's end, Nick Bosa has been throwing his weight around on a few p
 Tennessee's increased blitzing in the second half has been paying off.
 
 San Francisco has some wickedly creative plays.
+
+***
+
+## Chiefs @ Broncos (Week 18)
+
+The Chiefs committed much more to the short game to great effect, ending their opening drive in the second half with a touchdown.
+
+Melvin Ingram has been a force lately. Ingram was crucial in closing out this game.
