@@ -64,3 +64,5 @@ Kellen Moore confuses me. I saw some moments of genius from him in this game (th
 ## Cardinals @ Rams
 
 It's clear Arizona is forcing Stafford to rely on receivers other than Cooper Kupp. So far though..Stafford's adjusted by passing more to Tyler Higbee and Odell Beckham.
+
+Andrew Whitworth possibility a liability at left tackle for the Rams.
