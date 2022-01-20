@@ -17,4 +17,4 @@ Now that the Bengals have a playoff game under their belt, the lack of postseaso
 
 The Rams definitely deserve a good bit more credit on offense than I originally thought. Tyler Higbee and Odell Beckham were crucial to Los Angeles' win over Arizona. Even though the Cardinals went out of their way to keep Cooper Kupp draped in double coverage, Stafford made some hay throwing the ball to Beckham and Higbee - in fact, their first couple touchdown drives could be attributed to those two serving as reliable outlets in the passing game.
 
-Going into Tampa Bay, Los Angeles now has enough weapons to compensate for Kupp's offense should Todd Bowles elect to snuff out the star receiver with aggressive bracket coverage. It'll be a way more interesting game than I originally thought before the playoffs even began. An upset is very plausible.
+Going into Tampa Bay, Los Angeles now has _just enough weaponry_ to compensate for Kupp's absence should Todd Bowles elect to snuff out the star receiver through aggressive bracket coverage. It'll be a way more interesting game than I originally thought before the playoffs even began. An upset is very plausible.
