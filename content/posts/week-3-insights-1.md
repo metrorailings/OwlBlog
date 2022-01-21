@@ -37,6 +37,8 @@ Tom Brady may be an elite quarterback. His pocket presence, ability to navigate 
 
 Have to love Tampa Bay's penchant for penalties.
 
+Rewatching the game...noticing Los Angeles took their time to incorporate the hurry-up offense, but when they did...it consisted of quick lateral throws, throws to out-breaking routes, and heavy personnel rushing. It worked.
+
 ***
 
 ## Jets @ Broncos
@@ -97,6 +99,6 @@ The Bengals are actually pretty good at defensing the run. I'll need to see more
 
 Ben Roethlisberger is completely hopeless. Some of his interceptions were simply pitiful. Not sure how somebody could zip-line a ball straight to a linebacker after navigating through a three-man pass rush, but Ben managed to pull that off.
 
-The best part of the Steelers offense may be rookie tailback Najee Harris. 
+The best part of the Steelers offense may be rookie tailback Najee Harris.
 
 Pittsburgh's defenders aren't as stout, especially up front. The defensive line is missing some serious juice. I'm not sure why either - maybe TJ Watt and Tyson Alualu were instrumental to the line performing as well as it did in the past? Whatever the case, Melvin Ingram and Cameron Hayward aren't doing nearly enough holding things down in their absence.
