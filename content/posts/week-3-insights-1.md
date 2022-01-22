@@ -39,7 +39,9 @@ Have to love Tampa Bay's penchant for penalties.
 
 Rewatching the game...noticing Los Angeles took their time to incorporate the hurry-up offense, but when they did...it consisted of quick lateral throws, throws to out-breaking routes, and heavy personnel rushing. It worked.
 
-The Buccaneers offense adjusted in the second half by targeting the soft flat some more with crossing routes and screens.
+The Buccaneers offense seem to have adjusted a bit in the second half by targeting the soft flat some more with crossing routes and screens.
+
+The Rams offensive line is impressing me in the second half by holding up against the Buccaneers defensive line in pass protection. It's clear Tampa Bay's no longer taking as many chances as before with the blitz, but Stafford is clearly being given more than enough time to find his targets. Perhaps Jason Pierre-Paul would have made more of a difference had he been present in the game, but Tampa's defensive line hasn't held up their end of the bargain, especially now that Bowles has retreated back on the blitz a bit. 
 
 ***
 
