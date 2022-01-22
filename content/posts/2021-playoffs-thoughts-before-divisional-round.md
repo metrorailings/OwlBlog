@@ -26,4 +26,6 @@ The problem here is I'm not quite sure the 49ers are talented _enough_ to upset 
 
 On top of that, Jimmy Garoppalo has a ceiling. It was so very obvious last week against the Cowboys when he nearly gave the win away in the last third of the game. Garoppalo can manage a few touchdown drives here and there, but enduring success isn't quite his forte, especially when his track record this season is questionable. Sure, he staged a few successful road comebacks, but the key word there is "few" - he hasn't done it enough to ward off my lingering doubts about his toughness.
 
-In the end, San Francisco can cover the spread, but Green Bay has more factors in their favor here. I expect a Packer victory, if only because even though these two teams are strong in certain aspects, give me the elite quarterback playing on his home turf. 
+In the end, San Francisco can cover the spread, but Green Bay has more factors in their favor here. I expect a Packer victory, if only because even though these two teams are strong in certain aspects, give me the elite quarterback playing on his home turf.
+
+***
