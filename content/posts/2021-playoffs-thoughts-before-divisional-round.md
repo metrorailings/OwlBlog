@@ -29,3 +29,5 @@ On top of that, Jimmy Garoppalo has a ceiling. It was so very obvious last week 
 In the end, San Francisco can cover the spread, but Green Bay has more factors in their favor here. I expect a Packer victory, if only because even though these two teams are strong in certain aspects, give me the elite quarterback playing on his home turf.
 
 ***
+
+### Rams @ Buccaneers
