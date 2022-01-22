@@ -39,6 +39,8 @@ Have to love Tampa Bay's penchant for penalties.
 
 Rewatching the game...noticing Los Angeles took their time to incorporate the hurry-up offense, but when they did...it consisted of quick lateral throws, throws to out-breaking routes, and heavy personnel rushing. It worked.
 
+The Buccaneers offense adjusted in the second half by targeting the soft flat some more with crossing routes and screens.
+
 ***
 
 ## Jets @ Broncos
