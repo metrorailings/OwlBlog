@@ -31,3 +31,5 @@ In the end, San Francisco is a live dog when it comes to the spread. When it com
 ***
 
 ### Rams @ Buccaneers
+
+It's weird for me to think of the Rams as a legitimate contender here, but the reality is that Sean McVay and company have gotten the better of Tampa Bay twice now. His secret has always been invoking the hurry-up offense early and often. Tampa Bay has one of the league's most aggressive defenses when it comes to rushing the passer, but that pass rush is neutered if a team opts to sell the pass rush short. 
