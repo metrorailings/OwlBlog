@@ -52,4 +52,4 @@ That being said...this team is still lacking so many qualities that championship
 
 But that's not what we're evaluating here, is it? The question here is whether Buffalo is built to beat Kansas in the divisional round. And to be frank, it's a possibility. The Bills have already proven themselves against these Chiefs earlier in the season. But that was when the Kansas City defense was at its lowest point over the season. It was comically inept. Now that's not the case anymore. It's pretty far from being a dominant unit, but it has made tremendous strides towards the middle now that Chris Jones has shifted back towards the middle of the defensive line and Melvin Ingram has arrived as an edge rusher worthy of starting alongside Frank Clark. On top of that, the cornerbacks have been better in coverage, something that's absolutely critical given how often the Chiefs love to blitz.
 
-Furthermore, Patrick Mahomes and Andy Reid have adjusted 
+Furthermore, Patrick Mahomes and Andy Reid have adjusted a bit on offense now that defenses are much more committed to playing deep coverage against Tyreek Hill
