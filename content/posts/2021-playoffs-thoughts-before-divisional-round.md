@@ -45,3 +45,7 @@ The only clear advantage Tampa has entering this contest will be home field adva
 ***
 
 ### Bills @ Chiefs
+
+Ever since the Bills brutalized the Patriots last week, so many people have been too happy hopping on the Bills bandwagon. To be fair, it's hard to really downplay their achievements after the way they've schooled Belichick and his boys over the past couple weeks. These Bills deserves serious credit for rediscovering its groove after being left for dead by the Patriots that Monday night up in Buffalo.
+
+That being said...Buffalo is still lacking so many qualities that championship teams need to see their way through the postseason. They don't have an elite quarterback. They don't have any elite defensive linemen lining up in the trenches, let alone any players with elite potential. They've failed to mount a **_single_** comeback this season.
