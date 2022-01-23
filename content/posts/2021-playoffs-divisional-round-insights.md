@@ -11,3 +11,5 @@ Tennessee is just depressing me. Even if they win, it's a horrible win. I need t
 Credit to Lou Anaramo. Disguising coverages, lining up heavy along the front...it's clear the defensive coaches behind the Bengals are fully aware Tennessee wants nothing more than to just run the ball. Even though the Bengals are giving up yards in the game, they're not giving up much in terms of success rate, which is what ultimately matters.
 
 So it appears Zac Taylor has adjusted in the second half by opting to run Mixon more, possibly out of heavy formation. Smart adjustment.
+
+One yard away and Tennessee couldn't gain that one yard to earn a new series of downs. I don't get it. If Julio Jones or AJ Brown weren't on the field, then Cincinnati was tipped off all so easily that both would be running plays.
