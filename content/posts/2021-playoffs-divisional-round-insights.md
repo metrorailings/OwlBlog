@@ -27,3 +27,7 @@ Randall Cobb isn't contributing much returning from injury. Never count on a pla
 One thing I'm beginning to reassess is the value of a quarterback's mobility. Don't get me wrong, some quarterbacks build their game on top of their ability to run. But that's exactly it - quarterbacks running with the ball by design is very different from quarterbacks scrambling with the ball. And in that sense, a quarterback able to run with the ball shouldn't be considered an additional dimension on offense.
 
 Rodgers is clearly irritated in the fourth quarter. Some of his throws to Davonte Adams are being forced or off-target. So uncharacteristic of Rodgers, but when a team lacks toughness, mistakes like this can happen.
+
+***
+
+## Rams @ Buccaneers
