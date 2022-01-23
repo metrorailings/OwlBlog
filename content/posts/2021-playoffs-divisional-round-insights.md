@@ -12,4 +12,4 @@ Credit to Lou Anaramo. Disguising coverages, lining up heavy along the front...i
 
 So it appears Zac Taylor has adjusted in the second half by opting to run Mixon more, possibly out of heavy formation. Smart adjustment.
 
-One yard away and Tennessee couldn't gain that one yard to earn a new series of downs. I don't get it. If Julio Jones or AJ Brown weren't on the field, then Cincinnati was tipped off all so easily that both would be running plays.
+One yard away and Tennessee couldn't gain that one yard to earn a new series of downs. I don't get it. If Julio Jones or AJ Brown weren't on the field, then Cincinnati was tipped off all so easily that both would be running plays. That would confirm to me that Tennessee has absolute shit coaching on the offensive side of the ball.
