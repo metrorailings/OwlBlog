@@ -13,3 +13,5 @@ Credit to Lou Anaramo. Disguising coverages, lining up heavy along the front...i
 So it appears Zac Taylor has adjusted in the second half by opting to run Mixon more, possibly out of heavy formation. Smart adjustment.
 
 One yard away and Tennessee couldn't gain that one yard to earn a new series of downs. I don't get it. If Julio Jones or AJ Brown weren't on the field, then Cincinnati was tipped off all so easily that both would be running plays. That would confirm to me that Tennessee has absolute shit coaching on the offensive side of the ball.
+
+Regardless of who wins this game, one thing is evident to me - when your coaching is arguably shit and you literally shoot yourself in the foot by refusing to bench somebody who's clearly not playing at full throttle, your offense is worthless. Tennessee has had two weapons really contributing for them the entire game - AJ Brown and Julio Jones. If D'Onta Foreman was more of a focal point in the ground game instead of Derrick Henry, then this could potentially be a blowout. But with only two vectors out there, this Tennessee offense has been ground to a halt.
