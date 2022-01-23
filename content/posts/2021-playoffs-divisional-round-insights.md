@@ -33,3 +33,5 @@ Rodgers is clearly irritated in the fourth quarter. Some of his throws to Davont
 ## Rams @ Buccaneers
 
 One drive in and Tampa Bay hasn't done much to pressure Matthew Stafford. The Rams were limited to a field goal due to McVay calling a few questionable plays in the end zone (double-dig and fade to Van Jefferson). 
+
+Cam Akers, Odell Beckham, Tyler Higbee....the Rams are having all these weapons emerge just at the right time.
