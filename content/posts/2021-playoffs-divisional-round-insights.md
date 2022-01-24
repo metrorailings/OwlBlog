@@ -35,3 +35,7 @@ Rodgers is clearly irritated in the fourth quarter. Some of his throws to Davont
 One drive in and Tampa Bay hasn't done much to pressure Matthew Stafford. The Rams were limited to a field goal due to McVay calling a few questionable plays in the end zone (double-dig and fade to Van Jefferson). 
 
 Cam Akers, Odell Beckham, Tyler Higbee....the Rams are having all these weapons emerge just at the right time.
+
+In the second half, the Rams were all too eager to drain the clock instead of put up more points. It was a very sad strategy that almost backfired when Brady tried to mount a comeback. Los Angeles has potential on offense, but McVay can't be hitting the brake when an entire half has yet to play out.
+
+Bowles had a hard time finding an antidote to this Rams offense. It's a style of offense that just doesn't play well with his philosophy on defense.
