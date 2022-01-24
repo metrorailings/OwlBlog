@@ -39,3 +39,9 @@ Cam Akers, Odell Beckham, Tyler Higbee....the Rams are having all these weapons 
 In the second half, the Rams were all too eager to drain the clock instead of put up more points. It was a very sad strategy that almost backfired when Brady tried to mount a comeback. Los Angeles has potential on offense, but McVay can't be hitting the brake when an entire half has yet to play out.
 
 Bowles had a hard time finding an antidote to this Rams offense. It's a style of offense that just doesn't play well with his philosophy on defense.
+
+***
+
+## Bills @ Chiefs
+
+Will be worth watching the Bills defense line to see if any of their players can generate some impactful plays.
