@@ -47,3 +47,7 @@ Bowles had a hard time finding an antidote to this Rams offense. It's a style of
 Will be worth watching the Bills defense line to see if any of their players can generate some impactful plays.
 
 It's a little concerning watching the Chiefs resort to Mahomes running the ball on multiple occasions in the first drive to generate any production. 
+
+It took Josh Allen quite a few plays, but the Chiefs defense ultimately gave way and afforded him not one, but two lead-changing touchdowns late in the fourth quarter. Ultimately, Buffalo failed to come back successfully, but it was pretty remarkable to see Josh Allen successfully lead two touchdown drives to try and stamp Buffalo's ticket into the playoffs. I need to be more careful assessing these teams and their backbone. It's clear this Buffalo organization is very different from the team that was punched hard in the mouth in their first outing against New England.
+
+Speaking of which, this Kansas defense disappointed me. They were given more than enough opportunity to finish off Josh Allen and company and they were unable to do just that. Not sure why. 
