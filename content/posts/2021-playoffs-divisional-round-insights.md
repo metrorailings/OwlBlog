@@ -1,6 +1,5 @@
 +++
 date = 2022-01-22T12:00:00Z
-draft = true
 headline = "Division Round Insights"
 
 +++
