@@ -45,3 +45,5 @@ Bowles had a hard time finding an antidote to this Rams offense. It's a style of
 ## Bills @ Chiefs
 
 Will be worth watching the Bills defense line to see if any of their players can generate some impactful plays.
+
+It's a little concerning watching the Chiefs resort to Mahomes running the ball on multiple occasions in the first drive to generate any production. 
