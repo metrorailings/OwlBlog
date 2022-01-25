@@ -25,3 +25,7 @@ One can argue Kansas has a coaching advantage with the duo of Andy Reid and Stev
 If Mahomes isn't playing in elite form this Sunday, the Chiefs only have one _definitive_ advantage over Cincinnati - home field advantage. Noticed I emphasized the word "definitive" in that last statement - Kansas has also proven itself capable of mounting comebacks whereas Cincinnati's losses their season leave some reason for doubt. But given the poise they showed last week while Tennessee's defense was bullying them relentlessly, it's very possible the Bengals are more than capable of coming back should they fall behind drastically.
 
 For Kansas to win decisively, Mahomes needs to be elite. I'm sure Chiefs backers are more hyped than ever on their quarterback's potential given the way things unfolded against Buffalo, but I'm still not fully sold. His performance was too uneven early in the season - for him to really reform into a first-class passer would be damn near magical.
+
+Give me the Bengals here, both against the spread and the moneyline.
+
+***
