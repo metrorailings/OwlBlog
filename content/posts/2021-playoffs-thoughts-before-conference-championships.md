@@ -14,4 +14,12 @@ Anyway, let's get to this. I feel much more confident analyzing these remaining 
 
 ***
 
-### Bengals @ Chiefs
+### Bengals @ Chiefs (-7.5)
+
+Am I the only one seriously wondering why the Chiefs are giving more than a touchdown here? 
+
+Forget the fact that the Bengals have beaten Kansas just a few weeks ago. Cincinnati is much more of a complete team than I initially thought, especially now that playoff experience isn't much a concern any more. The Bengals actually have a more complete offense compared to Kansas City, given Burrow is an elite quarterback while Mahomes hasn't been consistent enough to merit elite designation. Defensively, things are a bit of a wash given both teams have one truly dominant defensive lineman and another edge rusher in a sidekick role. 
+
+One can argue Kansas has a coaching advantage with the duo of Andy Reid and Steve Spagnuolo competing strategically against Zac Taylor and Lou Anarumo. But Anarumo actually impressed me last week with the way his defense was able to stunt Tennessee's attempts to establish the ground game. Spags on the other hand has me questioning his competence given all the yards and points he let up against Josh Allen in the waning moments of the fourth quarter. I know Tyrann Matthieu being out with a concussion didn't help him one bit, but it was still pretty shameful the way Allen marched his offense down the field on two separate lead-changing drives. So for simplicity's sake, let's consider coaching a wash too.
+
+If Mahomes isn't playing in elite form this Sunday, the Chiefs only have one _definitive_ advantage over Cincinnati - home field advantage. Noticed I emphasized the word "definitive" in that last statement - Kansas has also proven itself capable of mounting comebacks whereas Cincinnati's losses their season leave some reason for doubt. But given the poise they showed last week as Tennessee's defense bullied them relentlessly, it's very possible the Bengals are more than capable of coming back should they fall behind drastically. 
