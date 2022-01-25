@@ -10,6 +10,8 @@ Sunday was beautiful though. I nailed both games, though the Chiefs game did giv
 
 So one thing I learned - I truly undervalued offense. On top of that, I terribly overestimated Tennessee's offensive potential. Todd Downing isn't some ingenuous offensive mind - he's an idiot. Forcing Derrick Henry to tote the rock for much of the game even though D'Onta Foreman was so much more productive in that same role is inadvisable. Not being able to move the ball forward one stinking yard on two successive downs is a fireable offense, period. On top of that, Tannehill just forcing balls late into tight windows ended up giving the Bengals three turnovers. Then again, when your offense isn't adjusting to its strengths and insisting on doubling down on a losing strategy, your offense loses whatever charm and ingenuity powered it through some tough moments. Without a competent ground game and Tannehill not showing any inclination to run the ball, Tennessee's offense was reduced to A.J. Brown (with some dash of Julio Jones). Not good. In that respect, Tennessee may have rolled into the postseason with the worst offense of the 14 playoff teams.
 
+Anyway, let's get to this. I feel much more confident analyzing these remaining teams now that I have two weeks worth of playoff data on them.
+
 ***
 
-### 
+### Bengals @ Chiefs
