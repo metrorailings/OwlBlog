@@ -29,3 +29,11 @@ For Kansas to win decisively, Mahomes needs to be elite. I'm sure Chiefs backers
 Give me the Bengals here, both against the spread and the moneyline.
 
 ***
+
+### 49ers @ Rams (-3.5)
+
+I love the 49ers in this spot. It's difficult for any one team to beat another team three times straight in the same season, but it's been done several times over the past decade or so. Given the way San Francisco was able to physically dominate the Los Angeles at the line of scrimmage just a few weeks ago, I say we'll see another one of those hat tricks this year.
+
+How does Los Angeles adjust when the other team is just so physically dominant and maybe even more intellectually capable than them? For one thing, McVay will need to introduce concepts that hasn't been featured much on film this year. Second, the defense will need to force some ugly turnovers from Jimmy G. Third, Matthew Stafford has to compose himself against this ferocious 49er front. His tendency to make regrettable decisions under pressure has screwed the team way too many times this season, especially against San Francisco
+
+Can all these things be achieved? Sure, but the odds are incredibly remote. The reality is that Sean McVay isn't known for changing things much, especially this late in the season. Perhaps a few gadget concepts will be introduced into the playbook, but these Rams prefer not to stray too far from their philosophy on both sides of the ball, even if doing so would help them tackle certain opponents better. Lacking that ability to adapt doesn't serve them well here against objectively superior competition like the 49ers.
