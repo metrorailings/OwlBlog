@@ -6,4 +6,4 @@ headline = "Super Bowl LVI: Pass Rush Analysis"
 +++
 ### Rams @ Ravens
 
-On the second half Raven drives, the Rams front generated six impactful plays, two attributable to coaching, one attributable to Aaron Donald, two tackles for loss courtesy Greg Gaines, and one end-game sack from Von Miller.
+On the second half Raven drives, the Rams front generated six impactful plays, two attributable to coaching, one attributable to Aaron Donald, two tackles for loss courtesy of Greg Gaines, and one end-game sack from Von Miller.
