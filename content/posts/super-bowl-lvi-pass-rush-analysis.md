@@ -16,4 +16,4 @@ Hurries - 6
 Hits - 4  
 Tackles for No Gain - 4
 
-_Total Number of Plays -_ 
+_Total Number of Plays - 56_
