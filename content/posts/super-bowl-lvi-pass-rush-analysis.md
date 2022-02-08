@@ -12,9 +12,7 @@ This year, the Bengals and the Rams only share one common opponent that's not a 
 
 ### Bengals @ Packers
 
-Hurries - 1  
+Hurries - 4  
 Hits - 1  
-Tackles for Loss - 0  
+Tackles for No Gain - 2  
 Bats - 0
-
-Sam Hubbard hurried up the quarterback once.
