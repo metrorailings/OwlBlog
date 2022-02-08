@@ -22,8 +22,8 @@ _Total Number of Plays - 56_
 
 ### Rams @ Packers
 
-Hurries - 6  
-Hits - 4  
-Tackles for No Gain - 4
+Hurries - 0  
+Hits - 0  
+Tackles for No Gain - 0
 
-_Total Number of Plays - 56_
+_Total Number of Plays - 0_
