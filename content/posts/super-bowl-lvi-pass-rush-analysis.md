@@ -11,3 +11,10 @@ On top of that, the two teams had to have faced these common opponents in roughl
 This year, the Bengals and the Rams only share one common opponent that's not a division rival - the Green Bay Packers. It's not an entirely equitable comparison given both clubs faced off against Green Bay seven weeks apart. But it's the best common point the two teams shared this season, so here we are.
 
 ### Bengals @ Packers
+
+Hurries - 1  
+Hits - 1  
+Tackles for Loss - 0  
+Bats - 0
+
+Sam Hubbard hurried up the quarterback once.
