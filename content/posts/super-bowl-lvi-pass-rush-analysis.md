@@ -12,7 +12,8 @@ This year, the Bengals and the Rams only share one common opponent that's not a 
 
 ### Bengals @ Packers
 
-Hurries - 4  
-Hits - 1  
-Tackles for No Gain - 2  
-Bats - 0
+Hurries - 6  
+Hits - 4  
+Tackles for No Gain - 4
+
+_Total Number of Plays -_ 
