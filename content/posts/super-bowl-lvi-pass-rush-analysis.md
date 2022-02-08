@@ -4,8 +4,10 @@ draft = true
 headline = "Super Bowl LVI: Pass Rush Analysis"
 
 +++
-Normally for the two teams in the Super Bowl, I watch games in which they share a common opponent to gauge their pass rush productivity. This year, I'll avoid watching games involving division rivals - the familiarity factor really screws things up. It's much better watching games in which the teams are playing against a common opponent that's not all too familiar with either team, in order to assess things as fairly as possible. 
+Normally for the two teams in the Super Bowl, I watch games in which they share a common opponent to gauge their pass rush productivity. This year, I'll avoid watching games involving division rivals - the familiarity factor really screws things up. It's much better watching games in which the teams are playing against a common opponent that's not all too familiar with either team, in order to assess things as fairly as possible.
 
-### Rams @ Ravens
+On top of that, the two teams had to have faced these common opponents in roughly the same time period. It's not fair if both teams have faced off against the common opponent on opposite ends of the schedule, especially the way teams tend to evolve over the season. 
 
-On the second half Raven drives, the Rams front generated six impactful plays, two attributable to coaching, one attributable to Aaron Donald, two tackles for loss courtesy of Greg Gaines, and one end-game sack from Von Miller.
+This year, the Bengals and the Rams only share one common opponent that's not a division rival - the Green Bay Packers. It's not an entirely equitable comparison given both clubs faced off against Green Bay seven weeks apart. But it's the best common point the two teams shared this season, so here we are.
+
+### Bengals @ Packers
