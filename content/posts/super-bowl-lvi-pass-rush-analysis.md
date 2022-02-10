@@ -23,7 +23,7 @@ _Total Number of Plays - 56_
 ### Rams @ Packers
 
 Hurries - 9  
-Hits - 4  
+Hits - 5  
 Tackles for No Gain - 5  
 Penalties - 2
 
