@@ -45,9 +45,9 @@ _Total Number of Plays - 58_
 
 ### 
 
-Hurries - 4  
+Hurries - 5  
 Hits - 10  
 Tackles for No Gain - 3  
 Penalties - 1
 
-_Total Number of Plays - 55_
+_Total Number of Plays - 64_
