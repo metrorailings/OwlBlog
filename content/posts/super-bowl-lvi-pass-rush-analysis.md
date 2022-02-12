@@ -33,6 +33,6 @@ _Total Number of Plays - 73_
 ### Rams @ 49ers
 
 Hurries - 0  
-Hits - 0  
+Hits - 1  
 Tackles for No Gain - 7  
 Penalties - 0
