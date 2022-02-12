@@ -43,8 +43,6 @@ _Total Number of Plays - 58_
 
 ### 49ers @ Bengals
 
-### 
-
 Hurries - 5  
 Hits - 10  
 Tackles for No Gain - 3  
