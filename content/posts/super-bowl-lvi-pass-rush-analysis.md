@@ -38,3 +38,16 @@ Tackles for No Gain - 10
 Penalties - 0
 
 _Total Number of Plays - 58_
+
+***
+
+### 49ers @ Bengals
+
+### 
+
+Hurries - 0  
+Hits - 0  
+Tackles for No Gain - 0  
+Penalties - 0
+
+_Total Number of Plays - 0_
