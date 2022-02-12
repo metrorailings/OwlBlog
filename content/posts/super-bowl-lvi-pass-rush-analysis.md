@@ -34,7 +34,7 @@ _Total Number of Plays - 73_
 
 Hurries - 1  
 Hits - 1  
-Tackles for No Gain - 8  
+Tackles for No Gain - 9  
 Penalties - 0
 
 _Total Number of Plays - 35_
