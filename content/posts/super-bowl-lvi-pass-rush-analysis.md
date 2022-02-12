@@ -27,7 +27,3 @@ Tackles for No Gain - 5
 Penalties - 2
 
 _Total Number of Plays - 73_
-
-***
-
-For more clarity, let's watch the two games against the Ravens, given both games were back-to-back and Baltimore was forced to start a new quarterback due to Lamar being sidelined with injury.
