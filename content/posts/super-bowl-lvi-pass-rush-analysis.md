@@ -37,4 +37,4 @@ Hits - 1
 Tackles for No Gain - 7  
 Penalties - 0
 
-_Total Number of Plays - 0_
+_Total Number of Plays - 35_
