@@ -17,3 +17,5 @@ The Rams have solid management. McVay's offensive coaching could use some work, 
 Still, Raheem Morris coming into the organization last year and successfully running Brandon Staley's style of defense was remarkable, considering it's a philosophy that was (more or less) forced upon him as a prerequisite for taking the coordinator job.
 
 Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would usually take them holding the lead coming into the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.  
+
+Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management. 
