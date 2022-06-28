@@ -4,13 +4,15 @@ draft = true
 headline = "Coaching Analysis - Los Angeles Rams"
 
 +++
-So for the first time in Owl Blog history, I'll be keeping tabs on coaches here. By tracking these coaches, their core competencies, and their overall level of success, I can better predict games going forward.
+So for the first time in Owl Blog history, I'll be assessing coaches primarily when evaluating teams. By tracking these coaches, their core competencies, and their overall level of success, I feel I can better predict the outcome of games. After all, terrible coaches tend to fizzle out in due time while good coaches last through the years and end up adding their own wrinkles to the way football is played in modern times.
 
 ***
 
 ### Los Angeles Rams
 
 _Coaching:_ Sean McVay (HC/OC), Raheem Morris (DC)
+
+_Key Departures_
 
 The Rams have solid management. McVay's offensive coaching could use some work, especially given the pathetic showing by the Rams offense in the Super Bowl. On top of that, his playbook has been criticized as being too simple, a weakness which is all too easily exposed against the league's better defensive minds. Still, the play-action and the outside zone runs still hit gold against lesser coaches and teams. 
 
@@ -19,3 +21,11 @@ Still, Raheem Morris coming into the organization last year and successfully run
 Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would almost always take them require them to hold the lead by the start of the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 noteworthy comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.  
 
 Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management.  Von Miller will certainly be missed though, but Leonard Floyd should be able to compensate with his occasional flashes here and there. 
+
+***
+
+### Buffalo Bills
+
+_Coaching:_ Sean McDermott (HC/DC), Ken Dorsey (OC)
+
+So Buffalo promoted an assistant coach to offensive coordinator after Brian Daboll left in the offseason to become the head coach of the New York Giants. Ken Dorsey isn't really expected to change the structure of the offense much, 
