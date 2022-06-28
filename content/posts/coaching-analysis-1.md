@@ -10,8 +10,10 @@ So for the first time in Owl Blog history, I'll be keeping tabs on coaches here.
 
 ### Los Angeles Rams
 
-_Head Coach - Sean McVay_
+_Coaching:_ Sean McVay (HC/OC), Raheem Morris (DC)
 
-_Offensive Coach - Sean McVay_
+The Rams have solid management. McVay's offensive coaching could use some work, especially given the pathetic showing by the Rams offense in the Super Bowl. On top of that, his playbook has been criticized as being too simple, a weakness which is all too easily exposed against the league's better defensive minds.
 
-_Defensive Coach - Raheem Morris_
+Still, Raheem Morris coming into the organization last year and successfully running Brandon Staley's style of defense was remarkable, considering it's a philosophy that was (more or less) forced upon him as a prerequisite for taking the coordinator job.
+
+Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would usually take them holding the lead coming into the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.  
