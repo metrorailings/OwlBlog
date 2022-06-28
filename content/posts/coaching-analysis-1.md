@@ -32,6 +32,6 @@ Part of the problem with the Bills was their offensive protection. Allen's tende
 
 What ultimately worked for Buffalo last year was that Allen adjusted to the pressure. While it wasn't a complete transformation, Buffalo's young quarterback seemed more willing to settle for shorter passes towards the end of the season. Those short throws worked wonders against defenses conditioned into thinking Buffalo would never compromise on its love of the deep ball.
 
-Another thing worth mentioning is that Buffalo did not stage a **single** comeback last year. In fact, they've choked up three fourth-quarter leads. do blame the coaching here, in part because McDermott was exceptionally horrific in his management of game clock.
-
 Defensively, McDermott is expected to field another stellar defense, though their pass rush will once again be called into question. No one player on that defense really broke out as a marquis pass rusher. The hope this season is that their first round draft pick from last year Gregory Rousseau would finally emerge as a premiere edge player, with Von Miller on the other side of the defensive line helping him in a complementary role.
+
+One thing worth mentioning - Buffalo did not stage a **single** comeback last year. In fact, they've choked up three fourth-quarter leads. do blame the coaching here, in part because McDermott was exceptionally horrific in his management of game clock. Things are probably going to be a bit different this season so long as Allen doesn't regress into old form.
