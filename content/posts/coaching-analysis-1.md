@@ -10,21 +10,21 @@ So for the first time in Owl Blog history, I'll be assessing coaches primarily w
 
 ### Los Angeles Rams
 
-_Coaching:_ Sean McVay (HC/OC), Raheem Morris (DC) 
+_Coaching:_ Sean McVay (HC/OC), Raheem Morris (DC), Matthew Stafford (QB)
 
-The Rams have solid management. McVay's offensive coaching could use some work, especially given the pathetic showing by the Rams offense in the Super Bowl. On top of that, his playbook has been criticized as being too simple, a weakness which is all too easily exposed against the league's better defensive minds. Still, the play-action and the outside zone runs still hit gold against lesser coaches and teams. 
+The Rams have solid management. McVay's offensive coaching could use some work, especially given the pathetic showing by the Rams offense in the Super Bowl. On top of that, his playbook has been criticized as being too simple, a weakness which is all too easily exposed against the league's better defensive minds. Still, the play-action and the outside zone runs still hit gold against lesser coaches and teams.
 
-Still, Raheem Morris coming into the organization last year and successfully running Brandon Staley's style of defense was remarkable, considering it's a philosophy that was (more or less) forced upon him as a prerequisite for taking the coordinator job. That defensive line was far more productive too. Not only was Aaron Donald playing some of the best football of his career, but the team also found a complementary piece in Von Miller. Without Von Miller as the book-end rusher working in tandem with Donald, I honestly question whether the Rams could have won the Super Bowl. Credit to Raheem Morris though for finding ways to pull even more production from these men. It was the defense that ultimately carried the club to the Super Bowl.
+Still, Raheem Morris coming into the organization last year and successfully running Brandon Staley's style of defense was remarkable, considering it's a philosophy that was (more or less) forced upon him as a prerequisite for taking the coordinator job. That defensive line was far more productive too. Not only was Aaron Donald playing some of the best football of his career, but the team also found a complementary piece in Von Miller. Without Von Miller as the book-end rusher working in tandem with Donald, it remains to be seen whether the Rams could have won the Super Bowl. Credit to Raheem Morris though for finding ways to pull even more production from these men. It was the defense that ultimately carried the club to the Super Bowl.
 
-Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would almost always take them require them to hold the lead by the start of the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 noteworthy comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.  
+Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would almost always take them require them to hold the lead by the start of the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 noteworthy comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.
 
-Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management.  Von Miller will certainly be missed though, especially because the defensive roster lacks a real threat along the edges of the trenches. 
+Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management.  
 
 ***
 
 ### Buffalo Bills
 
-_Coaching:_ Sean McDermott (HC/DC), Ken Dorsey (OC)
+_Coaching:_ Sean McDermott (HC/DC), Ken Dorsey (OC), Josh Allen (QB)
 
 So Buffalo promoted an assistant coach to offensive coordinator after Brian Daboll left in the offseason to become the head coach of the New York Giants. Ken Dorsey isn't really expected to change the structure of the offense much, especially given the way Josh Allen was able to blossom over the past couple years in Daboll's system. That being said...last season was a little _strange_ for the Bills offense - Josh Allen and the rest of the unit  disappointed relative to expectations. Until late in the season, their performance on the field missed that crisp quality that defined them the season before. It wasn't until their game against the Buccaneers that the offense began developing some rhythm. Come wild card weekend, Buffalo's offense finally hit their stride, embarrassing the Patriots in a laugher.
 
@@ -35,3 +35,11 @@ What ultimately worked for Buffalo last year was that Allen adjusted to the pres
 Defensively, McDermott is expected to field another stellar defense, though their pass rush will once again be called into question. No one player on that defense really broke out as a marquis pass rusher. The hope this season is that their first round draft pick from last year Gregory Rousseau would finally emerge as a premiere edge player, with Von Miller on the other side of the defensive line helping him in a complementary role.
 
 One thing worth mentioning - Buffalo did not stage a **single** comeback last year. In fact, they've choked up three fourth-quarter leads. do blame the coaching here, in part because McDermott was exceptionally horrific in his management of game clock. Things are probably going to be a bit different this season so long as Allen doesn't regress into old form.
+
+***
+
+### Dallas Cowboys
+
+_Coaching:_ Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (DC), Dak Prescott (QB)
+
+The Cowboys underwhelmed relative to expectations in the postseason last year, exiting all too early in the wild-card round despite being seen as dark horse contenders for the Super Bowl.
