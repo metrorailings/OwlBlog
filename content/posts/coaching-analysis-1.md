@@ -18,7 +18,7 @@ Still, Raheem Morris coming into the organization last year and successfully run
 
 Matthew Stafford's arrival also worked some wonders when it came to the team overcoming adverse momentum. Under Jared Goff, McVay and his men weren't that successful navigating against negative game script. For the Rams to win, it would almost always take them require them to hold the lead by the start of the fourth quarter. That changed considerably under Stafford in 2021, as the Rams were able to mount a total of 4 noteworthy comebacks, 3 more than the total number of comebacks they were able to wager in 2019 and 2020 _combined_.
 
-Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management.  
+Nothing substantial has changed in the offseason, so expect the Rams to be one of the better franchises in the league in terms of management.
 
 ***
 
@@ -43,3 +43,5 @@ One thing worth mentioning - Buffalo did not stage a **single** comeback last ye
 _Coaching:_ Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (DC), Dak Prescott (QB)
 
 The Cowboys underwhelmed relative to expectations in the postseason last year, exiting all too early in the wild-card round despite being seen as dark horse contenders for the Super Bowl.
+
+When analyzing their offensive and defensive EPA over the season, one thing that comes to mind is that non-division rivals actually fared pretty well against them in the second half of the season. The only decent non-division team they managed to thrash was a Saints team led by Taysom Hill. 
