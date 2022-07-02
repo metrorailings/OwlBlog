@@ -48,6 +48,6 @@ When analyzing their offensive and defensive EPA over the season, one thing that
 
 Still, kudos to Dan Quinn for adopting a new style of defense, even if it may have become a tad bit simple towards the tail end of the season. Simplicity of scheme is fine so long as the defense is loaded with stallions, and the Cowboys had one of the best defensive rosters last year.
 
-Kudos to Kellen Moore too for tailoring his game plans according to situation. That win against Minnesota last year was a master class effort in game planning, considering the Cowboys were forced to start a fourth-stringer at quarterback. 
+Kudos to Kellen Moore too for tailoring his game plans according to situation. That win against Minnesota last year was a master class effort in game planning, considering the Cowboys were forced to start a fourth-stringer at quarterback. Questions remain about whether he can adjust successfully during the game, but his pre-game beforehand is something to be admired.
 
 Sadly, I expect good things from Dallas this year, simply going by the strength of their coaching and the fact that they boast the best quarterback in their division. 
