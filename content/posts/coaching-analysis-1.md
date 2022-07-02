@@ -51,3 +51,9 @@ Kudos to Kellen Moore too for tailoring his game plans according to situation. T
 Sadly, I expect good things from Dallas this year, simply going by the strength of their coaching and the fact that they boast the best quarterback in their division. That being said, that postseason loss still concerns me. It isn't so much the upset factor as it is the way Dallas lost that game. Analyzing the box score along, it seems penalties and a lack of a rushing game doomed them. But when I dig deeper into their skill player production over the season...I think the real reason was simply the lack of legitimate playmakers on offense. Ezekiel Elliott wasn't effective, no matter how many times they rode him into the dirt over the season. Amari Cooper just wasn't on the same page as Dak, which is all the more evident now that the front office flipped him over to the Browns in a trade. CeeDee Lamb was the only worrisome threat, but with precious few exceptions, no one man can carry an offense all by himself. Without anybody else to compliment Lamb, it was all too easy for good defensive coordinators to neutralize Dallas' offense.
 
 Will that happen against this year? Possibly. But we'll assess that as the season waxes on.
+
+***
+
+### Washington Commanders
+
+Dan Snyder is a sad sad man. But this profile isn't about him. It's about the poor men serving under his leadership.
