@@ -45,3 +45,5 @@ _Coaching:_ Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (DC), Dak Prescott 
 The Cowboys underwhelmed relative to expectations in the postseason last year, exiting all too early in the wild-card round despite being seen as dark horse contenders for the Super Bowl.
 
 When analyzing their offensive and defensive EPA over the season, one thing that comes to mind is that non-division rivals actually fared pretty well against them in the second half of the season. The only decent non-division team they managed to thrash was a Saints team led by Taysom Hill. 
+
+Still, kudos to Dan Quinn for adopting a new style of defense, even if it may have become a tad bit simple towards the tail end of the season. Simplicity of scheme is fine so long as the defense is loaded with stallions, and the Cowboys had one of the best defensive rosters last year.
