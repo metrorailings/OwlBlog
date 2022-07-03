@@ -10,7 +10,7 @@ So for the first time in Owl Blog history, I'll be assessing coaches primarily w
 
 ### Los Angeles Rams
 
-_Coaching:_ Sean McVay (HC/OC), Raheem Morris (DC), Matthew Stafford (QB)
+_Leaders:_ Sean McVay (HC/OC), Raheem Morris (DC), Matthew Stafford (QB)
 
 The Rams have solid management. McVay's offensive coaching could use some work, especially given the pathetic showing by the Rams offense in the Super Bowl. On top of that, his playbook has been criticized as being too simple, a weakness which is all too easily exposed against the league's better defensive minds. Still, the play-action and the outside zone runs still hit gold against lesser coaches and teams.
 
@@ -24,7 +24,7 @@ Nothing substantial has changed in the offseason, so expect the Rams to be one o
 
 ### Buffalo Bills
 
-_Coaching:_ Sean McDermott (HC/DC), Ken Dorsey (OC), Josh Allen (QB)
+_Leaders:_ Sean McDermott (HC/DC), Ken Dorsey (OC), Josh Allen (QB)
 
 So Buffalo promoted an assistant coach to offensive coordinator after Brian Daboll left in the offseason to become the head coach of the New York Giants. Ken Dorsey isn't really expected to change the structure of the offense much, especially given the way Josh Allen was able to blossom over the past couple years in Daboll's system. That being said...last season was a little _strange_ for the Bills offense - Josh Allen and the rest of the unit  disappointed relative to expectations. Until late in the season, their performance on the field missed that crisp quality that defined them the season before. It wasn't until their game against the Buccaneers that the offense began developing some rhythm. Come wild card weekend, Buffalo's offense finally hit their stride, embarrassing the Patriots in a laugher.
 
@@ -40,7 +40,7 @@ One thing worth mentioning - Buffalo did not stage a **single** comeback last ye
 
 ### Dallas Cowboys
 
-_Coaching:_ Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (DC), Dak Prescott (QB)
+_Leaders:_ Mike McCarthy (HC), Kellen Moore (OC), Dan Quinn (DC), Dak Prescott (QB)
 
 The Cowboys underwhelmed relative to expectations in the postseason last year, exiting all too early in the wild-card round despite being seen as dark horse contenders for the Super Bowl. Why? I'm not too sure. When analyzing their offensive and defensive EPA over the season, one thing that comes to mind is that non-division rivals actually fared pretty well against them in the second half of the season. The only non-division teams they managed to thrash were a Saints team led by Taysom Hill and an Atlanta team that Dan Quinn held a grudge against. 
 
@@ -56,4 +56,10 @@ Will that happen against this year? Possibly. But we'll assess that as the seaso
 
 ### Washington Commanders
 
+_Leaders:_ Ron Rivera (HC), Scott Turner (OC), Jack Del Rio (DC), Carson Wentz / Taylor Heinecke (QB)
+
 Dan Snyder is a sad sad man. But this profile isn't about him. It's about the poor men serving under his leadership.
+
+Washington underwhelmed relative to expectations. Not only could Taylor Heinecke establish himself as the franchise quarterback for the foreseeable future, but even the defense took a step back. The organization (arguably) boasted the best pass rushers in 2020, but those players regressed pretty badly in 2021, partly thanks to injury.
+
+So what's the prognosis like this season? I don't expect much to change. None of these coaches really impressed me. Ron Rivera's tendency to take on risk produced middling results. Normally, that type of attitude is crucial toward mounting comebacks and maintaining leads, but the team still choked away three leads last year, two of them against Philadelphia. On top of that, Carson Wentz is a liability. The best-laid plans of mice and offensive coordinators go to hell so long as he's helming the offense. His inclination for hero ball backfires all too much. 
