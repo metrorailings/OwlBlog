@@ -1,6 +1,5 @@
 +++
 date = 2022-03-19T12:00:00Z
-draft = true
 headline = "Coaching Analysis - Los Angeles Rams"
 
 +++
@@ -64,4 +63,6 @@ Washington underwhelmed relative to expectations. Not only could Taylor Heinecke
 
 So what's the prognosis like this season? I don't expect much to change. None of these coaches really impressed me. Ron Rivera's tendency to take on risk produced middling results. Normally, that type of attitude is crucial toward mounting comebacks and maintaining leads, but the team still choked away three leads last year, two of them against Philadelphia. On top of that, Carson Wentz is a liability. The best-laid plans of mice and offensive coordinators go to hell so long as he's helming the offense - his inclination for hero ball backfires way too much. The fact that the owner of the Colts denounced him as harshly as he did is testament enough to Wentz's ineptitude.
 
-If Wentz actually proves to be a downgrade from Heinecke, let's not expect  much change from this Washington squad. If anything, they may struggle to even notch more than five wins if Wentz continues to bungle games as only he can. On top of that, it's clear the other coaches in the division have some sort of read over on Washington, if the second half of last season was any indication. 
+If Wentz actually proves to be a downgrade from Heinecke, let's not expect  much change from this Washington squad. If anything, they may struggle to even notch more than five wins if Wentz continues to bungle games as only he can. On top of that, it's clear the other coaches in the division have some sort of read over on Washington, if the second half of last season was any indication.
+
+![](/uploads/washingtonoffense.png)![](/uploads/washingtondefense.png)
