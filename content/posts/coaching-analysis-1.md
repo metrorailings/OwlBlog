@@ -1,6 +1,6 @@
 +++
 date = 2022-03-19T12:00:00Z
-headline = "Coaching Analysis - Los Angeles Rams"
+headline = "2022 Coaching Analysis - Part 1 "
 
 +++
 So for the first time in Owl Blog history, I'll be assessing coaches primarily when evaluating teams. By tracking these coaches, their core competencies, and their overall level of success, I feel I can better predict the outcome of games. After all, terrible coaches tend to lose more while good coaches win more and end up leaving some sort of subtle impression on the game of football.
