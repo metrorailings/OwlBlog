@@ -26,4 +26,6 @@ In the end, I'm not sure what to make of this Indy team. It needs a few big unce
 
 _Leaders:_ Dennis Allen (HC/DC), Pete Carmichael (OC), Jameis Winston / Andy Dalton / Taysom Hill (QB)
 
-It's hard to assess these Saints.
+It's hard to assess these Saints. First off, Dennis Allen's previous head coaching experience was disastrous, to say the least. Though it's argued he wasn't given much help in terms of roster talent, the Raiders only logged 8 wins under him while losing 22 contests.
+
+As a defensive coordinator though, the man's worked magic, marshaling quite a bit of production from a roster that's above average at best.
