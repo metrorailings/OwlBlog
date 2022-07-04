@@ -8,7 +8,7 @@ headline = "2022 Coaching Analysis - Part 2"
 
 _Leadership:_ Frank Reich (HC/OC), Gus Bradley (DC), Matt Ryan (QB)
 
-The Colts are interesting from a leadership perspective. I believe strongly in Frank Reich and his leadership over the offense. Without him, one could argue the Eagles wouldn't have won the championship back in 2017. His understanding of offensive schemes and his attention to detail show up on tape, especially in that road game against Arizona last year when the four of his starting offensive linemen were sidelined with injury. Most other organizations would be incapable of adjusting - not only did Reich adjust, but his men outright won the game. 
+The Colts are interesting from a leadership perspective. I believe strongly in Frank Reich and his leadership over the offense. Without him, one could argue the Eagles wouldn't have won the championship back in 2017. His understanding of offensive schemes and his attention to detail show up on tape, especially in that road game against Arizona last year when the four of his starting offensive linemen were sidelined with injury. Most other organizations would be incapable of adjusting - not only did Reich adjust, but his men outright won the game.
 
 But I'll tell you this - his ability to evaluate quarterbacks needs to be called into question. First, the man tried to gamble on old man Philip Rivers. When that failed to pan out, the organization gave up valuable draft capital to bring Carson Wentz into the fold. It was believed that under Frank Reich's mentorship, the former first-rounder would blossom again. Instead...the exact opposite happened - the same mistakes and egotistical mindset that plagued him in Philadelphia resurfaced in Indianapolis. But despite that, the team was literally on the cusp of a playoff berth...until Carson went and squandered that away in two embarrassing late-season losses. The Colts quickly became a laughingstock for closing out the season in such disappointing fashion. If there was a silver lining to their campaign last year, it's that Wentz finally realized his true calling - to be a noose choking the life out of any team unfortunate enough to have him on their roster.
 
@@ -24,4 +24,4 @@ In the end, I'm not sure what to make of this Indy team. It needs a few big unce
 
 ### New Orleans Saints
 
-_Leader_
+_Leaders:_ Dennis Allen (HC/DC), Pete Carmichael (OC), Jameis Winston / Andy Dalton / Taysom Hill (QB)
