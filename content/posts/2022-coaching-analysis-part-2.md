@@ -16,4 +16,4 @@ This year, the team again dipped into the well of aging quarterbacks by bringing
 
 Gus Bradley remains another interesting question as well. It's easy to dismiss the man after his disastrous years over in Jacksonville and his stubborn insistence on running a defensive scheme long after it's been decoded. But the Raiders defensive unit he coached last year performed surprisingly well, especially in the tail end of the season when Vegas was fighting for a wild-card invite. Bradley also found ways to leverage Yannick Ngakoue's skill set, something Minnesota nor Baltimore could quite figure out.
 
-Still...it does worry me that the Raiders defense surrendered over 40 points against the Chiefs both times they met last year. 
+Still...it does worry me that the Raiders defense surrendered over 40 points against the Chiefs both times they met last year. It's not good when a division rival dominates you so thoroughly in two meetings, especially when those meetings are only a few weeks apart from one another.
