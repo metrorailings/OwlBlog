@@ -25,3 +25,5 @@ In the end, I'm not sure what to make of this Indy team. It needs a few big unce
 ### New Orleans Saints
 
 _Leaders:_ Dennis Allen (HC/DC), Pete Carmichael (OC), Jameis Winston / Andy Dalton / Taysom Hill (QB)
+
+It's hard to assess these Saints.
