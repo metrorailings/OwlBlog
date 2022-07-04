@@ -19,3 +19,9 @@ Gus Bradley remains another interesting question as well. It's easy to dismiss t
 Still...it does worry me that the Raiders defense surrendered over 40 points against the Chiefs both times they met last year. It's not good when a division rival dominates you so thoroughly in two meetings, especially when those meetings are only a few weeks apart from one another. Rewatching the first half of their Sunday night match-up in 2021, the Raiders were selling out to play the deep ball, leaving easy completions to Travis Kelce underneath. Actually, these completions shouldn't have come as easy as they did, but it seems the Raiders linebackers and safeties were helpless against Kelce. Even a starting cornerback couldn't do much against Kelce in press coverage. Vegas adjusted in the second half by playing more cover-three, but Mahomes and Tyreek Hill adjusted quickly as well, connecting on some deep passes against the thinly-manned defensive backfield. It's possible that the Chiefs were simply more amped to play the game compared to the Raiders, especially as Jon Gruden wasn't there to stoke that hatred against Kansas that used to fuel Vegas. But it's still disappointing that an organization that played these Chiefs so ferociously the year before completely collapsed, and defensive ineptitude played a large role in why this collapse happened.
 
 In the end, I'm not sure what to make of this Indy team. It needs a few big uncertainties to fall in their favor, and as I've learned the hard way in making these preseason forecasts, teams that have multiple questions to answer don't usually end up answering all of them in positive fashion.
+
+***
+
+### New Orleans Saints
+
+_Leader_
