@@ -35,3 +35,7 @@ But as head coach, it remains to be seen whether the man can install the type of
 On top of that, Payton's absence also means Pete Carmichael is now formally assuming offensive coordinator duties. Carmichael will now be shepherding this unit on game day instead of Payton. Is he ready? I have no idea, to be frank. He's spent 16 years working jointly with Payton. Now he'll have to assume the role without any guidance from his former head coach.
 
 The Saints will be interesting to watch. Not much is expected from them, but they'll still be exciting to watch only to see whether Allen and Carmichael can rise to the next level now that they'll be heading into battle without their trusted general.
+
+***
+
+### Houston Texans
