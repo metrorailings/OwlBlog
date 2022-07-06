@@ -41,3 +41,7 @@ The Saints will be interesting to watch. Not much is expected from them, but the
 ### Houston Texans
 
 _Leaders:_ Lovie Smith (HC/DC), Pep Hamilton (OC), Davis Mills (QB)
+
+Lovie Smith was promoted to top coach after David Culley was fired at the end of the season. It was an odd promotion though, given Houston's front office was rumored to be eyeing Josh McCown for the head coach position before Brian Flores ruffled the NFL's feathers with his discrimination lawsuit. In the wake of that lawsuit and all the publicity it garnered, Houston's general management shied away from McCown, knowing that hiring a white man who's never before been coach as their next head coach would have made for some exceptionally bad press. If anything, it would have practically validated Flores' allegations that the league discriminated against hiring minorities to fill coaching vacancies. So McCown's candidacy was quickly quashed and Lovie was picked to assume the role of top coach in the organization.
+
+ 
