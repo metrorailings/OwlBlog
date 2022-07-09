@@ -59,3 +59,7 @@ Let's wrap this up. Houston is still very much in the throes of a rebuild here. 
 ***
 
 ### Pittsburgh Steelers
+
+_Leaders_: Mike Tomlin (HC/DC), Teryl Austin (DC), Matt Canada (OC), Mason Rudolph / Mitch Trubisky / Kenny Pickett (QB)
+
+It's difficult to assess these Steelers. For one thing, the quarterback position is completely unsettled, and will likely be in constant flux through the season as injuries and disappointments mount. It's also tough assessing Matt Canada's influence on this team even though it's his second year now as a Steeler - the only real insight I gleaned from his first season with the organization is that he could do nothing to prevent Roethlisberger from playing like a corpse. And to be fair, it's not really his fault - even the best coordinators could only so much with quarterbacks who've clearly aged way past their prime. With Ben out of the way this year, we may see his vision for the passing game finally realized. 
