@@ -69,4 +69,4 @@ Defensively, Pittsburgh is a mixed bag. Despite being loaded to the gills with t
 
 And really, that becomes the story of Pittsburgh last year. It was a team that  fought hard against mediocre teams only to get bowled over by stronger opponents. With the exceptions of a Titans club missing most of its playmakers on offense and a Buffalo squad caught slacking at the beginning of the season, these Steelers were constantly housed by playoff and playoff-adjacent teams. 
 
-Maybe things can change this season, especially as Mike Tomlin looks to revitalize the defense by changing up his coaching staff. Still, it's hard to see this team improving by leaps and bounds, especially if the quarterback position remains an open question for most of the year.
+Maybe things can change this season, especially as Mike Tomlin looks to revitalize the defense by changing up key pieces of his coaching staff. Still, it's hard to see this team improving by leaps and bounds, especially if the quarterback position remains an open question for most of the year.
