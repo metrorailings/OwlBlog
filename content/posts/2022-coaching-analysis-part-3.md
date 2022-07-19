@@ -4,6 +4,6 @@ draft = true
 headline = "2022 Coaching Analysis - Part 3"
 
 +++
-### Indianapolis Colts
+### Green Bay Packers
 
-_Leadership:_ Frank Reich (HC/OC), Gus Bradley (DC), Matt Ryan (QB)
+_Leadership:_ Matt LaFleur (HC/OC), Joe Barry (DC), Aaron Rodgers (QB)
