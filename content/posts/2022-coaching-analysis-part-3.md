@@ -17,3 +17,7 @@ Furthermore, the defense doesn't inspire me much at all. Joe Barry started out s
 If it isn't clear enough already, I have very few expectations for this team. Somehow, this club manages to string together far more wins than people expect, but it matters little come January. Against teams with solid rosters and quality coaching, Green Bay falls apart. This season though, a postseason berth isn't a slam dunk now that their roster no longer features players that were so critical to their success the past couple of years. It's still a very real possibility, but let's not be shocked should the Packers finally collapse under the weight of their hubris.
 
 ***
+
+### Cincinnati Bengals
+
+_Leadership:_ Zac Taylor (HC/OC), Lou Anarumo (DC), Joe Burrow (QB)
