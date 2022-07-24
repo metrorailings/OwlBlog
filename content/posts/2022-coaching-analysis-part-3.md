@@ -21,3 +21,5 @@ If it isn't clear enough already, I have very few expectations for this team. So
 ### Cincinnati Bengals
 
 _Leadership:_ Zac Taylor (HC/OC), Lou Anarumo (DC), Joe Burrow (QB)
+
+Cincinnati presents some championship promise here, especially if their attempts to remedy the offensive line bear fruit. Zac Taylor still remains a liability on offense due to his stubborn insistence on running an offense without any regard for his personnel, but Joe Burrow and his skill players can  overcome his poor planning with their talent. 
