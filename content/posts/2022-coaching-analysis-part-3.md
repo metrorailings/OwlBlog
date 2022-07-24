@@ -27,3 +27,7 @@ Cincinnati presents some championship promise here, especially if their attempts
 In fact, it's hard to admit this for someone who made so much money riding Burrow and his Bengals through the playoffs, but fortune was on their side for much of last year. It's hard to see that happening again, given one of the grand rules of thumb in football is that things always regress toward the middle. But losing lady luck's graces might not matter much so long as Burrow and company elevate their level of play with help from the reformed offensive line.  
 
 Lou Anarumo in particular has cemented himself as an elite coach in my eyes. His masterful adjustments in the second half against Kansas City in the AFC conference finals was the critical reason the Bengals advanced to the Super Bowl. Let's not also forget his unit's impressive performance against the Rams in the championship, even though that game ended up being a losing effort for them. The Bengals defense never garnered a reputation for stopping the run, but Anarumo and his men managed to stonewall the Rams on virtually all their rushing attempts - Los Angeles was only able to generate 43 yards on 23 rushes. 
+
+***
+
+### Seattle Seahawks
