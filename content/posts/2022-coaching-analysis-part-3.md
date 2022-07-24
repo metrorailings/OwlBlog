@@ -31,3 +31,5 @@ Lou Anarumo in particular has cemented himself as an elite coach in my eyes. His
 ***
 
 ### Seattle Seahawks
+
+_Leadership_: Pete Carroll (HC/DC), Shane Waldron (OC), Geno Smith / Drew Lock (QB)
