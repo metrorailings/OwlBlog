@@ -22,13 +22,25 @@ If it isn't clear enough already, I have very few expectations for this team. So
 
 _Leadership:_ Zac Taylor (HC/OC), Lou Anarumo (DC), Joe Burrow (QB)
 
-Cincinnati presents some championship promise here, especially if their attempts to remedy the offensive line bear fruit. Zac Taylor still remains a liability on offense due to his stubborn insistence on running an air raid offense without any regard for his personnel, but Joe Burrow and his skill players can overcome his poor planning with their talent. One would hope that Taylor would evolve into a better coach following another embarrassing Super Bowl loss, but that seems unlikely for a man who only clinched the division despite his best attempts to choke the game away against the visiting Chiefs. 
+Cincinnati presents some championship promise here, especially if their attempts to remedy the offensive line bear fruit. Zac Taylor still remains a liability on offense due to his stubborn insistence on running an air raid offense without any regard for his personnel, but Joe Burrow and his skill players can overcome his poor planning with their talent. One would hope that Taylor would evolve into a better coach following another embarrassing Super Bowl loss, but that seems unlikely for a man who only clinched the division despite his best attempts to choke the game away against the visiting Chiefs.
 
-In fact, it's hard to admit this for someone who made so much money riding Burrow and his Bengals through the playoffs, but fortune was on their side for much of last year. It's hard to see that happening again, given one of the grand rules of thumb in football is that things always regress toward the middle. But losing lady luck's good graces might not matter much so long as Burrow and company elevate their level of play with help from the reformed offensive line.  
+In fact, it's hard to admit this for someone who made so much money riding Burrow and his Bengals through the playoffs, but fortune was on their side for much of last year. It's hard to see that happening again, given one of the grand rules of thumb in football is that things always regress toward the middle. But losing lady luck's good graces might not matter much so long as Burrow and company elevate their level of play with help from the reformed offensive line.
 
-Lou Anarumo in particular has cemented himself as an elite coach in my eyes. His masterful adjustments in the second half against Kansas City in the AFC conference finals was the critical reason the Bengals advanced to the Super Bowl. Let's not also forget his unit's impressive performance against the Rams in the championship, even though the game ended up being a losing effort for them. The Bengals defense never garnered a reputation for stopping the run, but Anarumo and his men managed to stonewall the Rams on virtually all their rushing attempts - Los Angeles was only able to generate 43 yards on 23 rushes. Incredibly impressive especially against a unit that commits so much effort to its ground game.
+Lou Anarumo in particular has cemented himself as an elite coach in my eyes. His masterful adjustments in the second half against Kansas City in the AFC conference finals was the critical reason the Bengals advanced to the Super Bowl. Let's not also forget his unit's impressive performance against the Rams in the championship, even though the game ended up being a losing effort for them. The Bengals defense never garnered a reputation for stopping the run, but Anarumo and his men managed to stonewall the Rams on virtually all their rushing attempts - Los Angeles was only able to generate 43 yards from 23 rushes. Incredibly impressive especially against a unit that commits so much effort to its ground game.
+
+I see another good year in line for Cincinnati this year, so long as injury doesn't cripple the more important players on this team.
 
 ***
+
+### Minnesota Vikings
+
+_Leadership:_ Kevin O'Connell (HC/OC), Ed Donatell (DC), Kirk Cousins (QB)
+
+These Vikings are an interesting bunch. Parting ways with the old regime in charge after multiple seasons of disappointment, Minnesota decided it was in its best interests going with the latest trends and hiring younger blood. As a result, Kevin O'Connell is now the head coach as well as the architect of the offense. 
+
+Given O'Connell's background and his selection of offensive coordinator, it's clear the man isn't looking to deviate much from the style of offensive football proselytized by his former colleague and mentor, Sean McVay. So expect the offense to run the vast majority of its plays from 11 personnel. Also, expect the playbook to mostly consist of crossing routes, outside zone runs, and play-action. Luckily, the Vikings have the players on offense to actually succeed, even if McVay's philosophy has lost its creative panache. Kirk Cousins, Dalvin Cook, Justin Jefferson, and Adam Thielan can carry this offense through sheer talent alone. That being said, I do expect Cook to thrive under O'Connell, as outsize zone-running schemes cater well to his slash-and-dash style of running.
+
+Ed Donatell is a man I don't know much about. His coaching impact in Denver over the past three years is difficult to assess considering former head coach Vic Fangio ran things on the defensive side of the ball over there. It's assumed Donatell will try to institute a variant of the Fangio defense in Minnesota. It won't be easy feat considering many of the defensive veterans have been habituated to Zimmer's scheme for the past several years.
 
 ### Seattle Seahawks
 
