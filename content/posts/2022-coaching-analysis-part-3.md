@@ -51,3 +51,5 @@ So where do we stand here? Not too sure. Minnesota is a team that could start sl
 _Leadership_: Pete Carroll (HC/DC), Shane Waldron (OC), Geno Smith / Drew Lock (QB)
 
 Seattle's expected to be one of the worst teams in the league, thanks mostly to its woeful quarterbacking situation. Then again...Pete Carroll and John Schneider might feel differently considering Drew Lock was highly rated by both men when he came out in the draft.
+
+It's hard to gain any sort of beat on this team now that it's rebuilding. One thing for certain is that low expectations may help this team against opponents who play down to pathetic opponents.
