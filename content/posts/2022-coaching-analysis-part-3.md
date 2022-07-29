@@ -56,4 +56,4 @@ It's hard to gain any sort of beat on this team now that it's rebuilding. Offens
 
 That being said...one good thing is that Pete Carroll has brought Sean Desai into the fold as an advisor on defense. It's a good move considering the cover-three base defense is on its way to obsolescence. Carroll would definitely benefit from incorporating some of Vic Fangio's complex coverage concepts into his defense. The longer it takes for opposing quarterbacks to decipher the defense, the more it would help what is expected to be a lackluster pass rush.
 
-One thing for certain is that low expectations may help this team against opponents who play down to pathetic opponents.
+Seattle isn't expected to do much and I don't really see things playing out any other way. You know, low expectations may help this team against opponents who play down to pathetic opponents, but don't expect Carroll and his crew to pull out many wins this year as the team looks to rebuild from the Russell Wilson era.
