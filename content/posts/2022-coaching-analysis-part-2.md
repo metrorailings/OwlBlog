@@ -25,9 +25,9 @@ In the end, I'm not sure what to make of this Indy team. It needs a few big unce
 
 _Leaders:_ Dennis Allen (HC/DC), Pete Carmichael (OC), Jameis Winston / Andy Dalton / Taysom Hill (QB)
 
-It's hard to assess these Saints. First off, Dennis Allen's previous head coaching experience was disastrous, to say the least. Though it's argued he wasn't given much help in terms of roster talent, the Raiders only logged 8 wins under him while losing 22 contests.
+It's hard to assess these Saints. First off, Dennis Allen's previous head coaching experience was disastrous, to say the least. Though it can be argued he wasn't given much help in terms of roster talent, the Raiders only logged 8 wins under him while losing 22 contests.
 
-As a defensive coordinator though, the man's worked magic, marshaling quite a bit of production from a roster that's above average at best. His defense consistently kept teams in negative EPA territory last season. A few of the sadder performances they put forth last year came when they suffered as a result of the mistakes the offense kept making. Despite the offense literally flailing through much of the season because of all the instability at the quarterback position, the defense was so good that the Saints finished the year with a winning record.
+As a defensive coordinator though, the man's worked magic, marshaling quite a bit of production from a roster that's above average at best. His defense consistently kept teams in negative EPA territory last season. A few of the sadder performances they put forth last year came when they suffered as a result of mistakes the offense kept making. Despite the offense literally flailing through much of the season because of all the instability at the quarterback position, the defense was so good that the Saints finished the year with a winning record.
 
 But as head coach, it remains to be seen whether the man can install the type of culture and discipline Sean Payton was able to cultivate in the organization. Coordinators have quite a few responsibilities, but head coaches are uniquely charged with a certain responsibility that can't be learned by anybody not in that role - head coaches need to provide that glue capable of holding a club together through the rigors of the season. And that glue isn't easy to make. If anything, it's more an art than a science, as there's no one formula out there to help coaches develop that glue. A mix of judiciousness, authority, respect, composure, and organization skills are needed to install that culture binding a team together. Whether Dennis Allen finished learning all those skills during his tenure under Sean Payton remains to be seen.
 
@@ -67,6 +67,6 @@ Defensively, Pittsburgh is a mixed bag. Despite being loaded to the gills with t
 
 ![](/uploads/pittsburghdefense.png)
 
-And really, that becomes the story of Pittsburgh last year. It was a team that  fought hard against mediocre teams only to get bowled over by stronger opponents. With the exceptions of a Titans club missing most of its playmakers on offense and a Buffalo squad caught slacking at the beginning of the season, these Steelers were constantly housed by playoff and playoff-adjacent teams. 
+And really, that becomes the story of Pittsburgh last year. It was a team that  fought hard against mediocre teams only to get bowled over by stronger opponents. With the exceptions of a Titans club missing most of its playmakers on offense and a Buffalo squad caught slacking at the beginning of the season, these Steelers were constantly housed by playoff and playoff-adjacent teams.
 
 Maybe things can change this season, especially as Mike Tomlin looks to revitalize the defense by changing up key pieces of his coaching staff. Still, it's hard to see this team improving by leaps and bounds, especially if the quarterback position remains an open question for most of the year.
