@@ -16,8 +16,12 @@ Things aren't much better on defense either. The team letting Haason Reddick wal
 
 ![](/uploads/carolinadefense.png)
 
-Not only did Carolina's defense worsen as the season waned onward, but the unit didn't fare so well against division rivals in subsequent matches, which tells me offensive coordinators gained a beat on their tendencies. 
+Not only did Carolina's defense worsen as the season waned onward, but the unit didn't fare so well against division rivals in subsequent matches, which tells me offensive coordinators gained a beat on their tendencies.
 
 The fact that the sportsbooks seem to forecast this team winning only 6 games this season is damning enough. One would have thought the inclusion of Baker Mayfield would have boosted this team's prospects, but the experts feel otherwise. I'm inclined to agree.
 
 ***
+
+### Kansas City Chiefs
+
+_Leadership:_ Andy Reid (HC/OC), Steve Spagnuolo (DC), Patrick Mahomes (QB)
