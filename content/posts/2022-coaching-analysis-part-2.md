@@ -49,7 +49,7 @@ Lovie Smith's previous head coaching stints have produced mixed results. Sure, h
 
 Pretty nuts, isn't it?
 
-On the other side of the ball, you have Pep Hamilton now replacing Tim Kelly. Honestly, Pep doesn't inspire much confidence. He's built his reputation as a quarterback whisperer, but one wonders whether that reputation is justified. Would Andrew Luck or Justin Herbert be household names if Pep wasn't there to train them?  We'll never know for certain, but I'd bet good money the both of them would have done just fine, with or without Hamilton there.
+On the other side of the ball, you have Pep Hamilton now replacing Tim Kelly. Honestly, Pep doesn't inspire much confidence. He's built his reputation as a quarterback whisperer, but one wonders whether that reputation is justified. Would Andrew Luck or Justin Herbert be household names if Pep wasn't there to train them?  We'll never know for certain, but I'd bet good money the both of them would have done just fine with or without Hamilton.
 
 To his credit though, he has worked some magic with Davis Mills last year. Mills was considered a rough prospect last year when the Texans scooped him up in the third round of the draft. And even though Mills had plenty of forgettable moments last season, it's pretty clear the kid played much better as the season progressed. His best game literally came against a Charger team who the bookmakers pegged as double-digit favorites. Despite Houston losing the majority of its personnel on offense to COVID, Davis Mills played fantastic and actually led the team to a _win_.
 
