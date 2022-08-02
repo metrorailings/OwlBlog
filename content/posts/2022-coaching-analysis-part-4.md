@@ -6,4 +6,4 @@ headline = "2022 Coaching Analysis - Part 4"
 +++
 ### Carolina Panthers
 
-_Leadership:_ Matt Rhule (HC), Phil Snow (DC), Sam Darnold / Baker Mayfield (QB)
+_Leadership:_ Matt Rhule (HC), Ben McAdoo (OC), Phil Snow (DC), Sam Darnold / Baker Mayfield (QB)
