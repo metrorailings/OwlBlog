@@ -25,3 +25,5 @@ The fact that the sportsbooks seem to forecast this team winning only 6 games th
 ### Kansas City Chiefs
 
 _Leadership:_ Andy Reid (HC/OC), Steve Spagnuolo (DC), Patrick Mahomes (QB)
+
+The Chiefs are always a fun team to analyze, being perennial championship contenders. This year should be no different. Even though Tyreek Hill and a few other receivers are no longer with the club, don't expect the offense to lose much a step here - Marquez Valdes-Scantling and Juju Smith-Schuster were signed in the offseason, so the unit won't be lacking in weapons. Yes, neither player can adequately replace Tyreek Hill, but the whole point is to shift the identity of the offense. No longer will the Chiefs be defined by 
