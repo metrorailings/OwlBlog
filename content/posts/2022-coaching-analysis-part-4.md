@@ -51,3 +51,5 @@ On defense, I expect Patrick Graham to pick up right where he left off in New Yo
 So much of their success here depends on whether McDaniels can live up to the hype. The history of Bill Belichick's coaching tree gives me pause here - despite all of Belichick's success, not one of his assistants have established themselves as credible head coaches elsewhere. In fact, it makes me chuckle to think most of his assistants tend to find their way back home after failing dismally in their own ventures as head coach - Matt Patricia, Josh McDaniels (after his failed time with the Broncos), Joe Judge...Brian Flores would have likely been welcomed back too had he not broken Belichick's heart. It's very possible McDaniels might end up back home in New England in due time. That being said...I do see this Raiders team having some success, if only because of their stacked roster.
 
 ***
+
+### Denver Broncos
