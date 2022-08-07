@@ -53,3 +53,7 @@ So much of their success here depends on whether McDaniels can live up to the hy
 ***
 
 ### Denver Broncos
+
+_Leadership_: Nathaniel Hackett (HC/OC), Ejiro Evero (DC), Russell Wilson (QB)
+
+Dange-russ is in town!
