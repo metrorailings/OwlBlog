@@ -56,4 +56,6 @@ So much of their success here depends on whether McDaniels can live up to the hy
 
 _Leadership_: Nathaniel Hackett (HC/OC), Ejiro Evero (DC), Russell Wilson (QB)
 
-Dange-russ is in town!
+Dange-russ is in town! Before we discuss him and the offense though...let's start with write-up discussing defense. 
+
+Ejiro Evero is a name I never heard until now. Apparently, he's been coaching the Rams secondary the past three years or so, all under different defensive coordinators. It's not fully known which style of defense he plans on adopting. My guess is it'd be some sort of variant of the Fangio defense, possibly with Patrick Surtain or Justin Simmons in some sort of star role, similar to what the Rams pulled off with Jalen Ramsey.
