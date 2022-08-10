@@ -21,3 +21,7 @@ Can we forecast anything here? Well, Trevor Lawrence should evolve his game to t
 On top of that, Jacksonville may actually win enough games to no longer qualify for the top draft pick this season. Though playoffs are likely a pipe dream, a 6-7 win season is not unreal, especially if the roster adjusts quickly to the new coaching regime.
 
 ***
+
+### Cleveland Browns
+
+_Leadership_: Kevin Stefansky (HC/OC), Joe Woods (DC), Deshaun Watson (QB)
