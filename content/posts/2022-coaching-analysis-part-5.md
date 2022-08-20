@@ -23,7 +23,7 @@ On top of that, Jacksonville may actually win enough games to no longer qualify 
 
 ### Cleveland Browns
 
-_Leadership_: Kevin Stefansky (HC/OC), Joe Woods (DC), Deshaun Watson (QB)
+_Leadership_: Kevin Stefansky (HC/OC), Joe Woods (DC), Deshaun Watson / Jacoby Brissett (QB)
 
 ***
 
