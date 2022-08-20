@@ -34,8 +34,16 @@ _Leadership:_ Bill Belichick (HC/DC), Matt Patricia (OC), Steve Belichick (DC), 
 
 I honestly have no idea what Bill Belichick is thinking, handing offensive play-calling duties over to _Matt Patricia_, of all people. Yes, Patricia started  life in the NFL as an offensive assistant, but the fool's spent the rest of his career specializing in defense. Role transitions are fraught with risk when you cross the line of scrimmage after spending so much time on one side. On top of that, nothing in Patricia's history suggests he's ready to coach offense, let alone coach in general. His tenure in Detroit was an absolute disaster, best exemplified when players popped off champagne bottles in the locker room to celebrate news of his firing. His defenses have usually been flops, both in New England and in Detroit. In fact, the Patriot units he led as coordinator have been noted as unusually soft. So if he's unable to field a capable defense despite spending years honing his understanding of that part of the game, how can one expect him to pick up offense in only a few months **and** tutor a young quarterback entering his sophomore year? It's just not possible.
 
-On defense, things aren't much better. I think the senior Belichick has lost a step. Unfortunately, junior isn't quite ready to step in his father's shoes just yet, if last year was any indication. I know the Belichicks are keen on blaming the older players as the reason for why the defense blew chunks towards the end of the season last year, but that explanation doesn't sit well with me. It doesn't excuse away how the Bills roasted New England in the postseason, drumming up 7 touchdowns against the Patriot defense. It was the worst beatdown of the postseason, something one wouldn't expect from a Belichick team.
+On defense, things aren't much better. I think the senior Belichick has lost a step. Unfortunately, junior isn't quite ready to step in his father's shoes just yet, if last year was any indication. I know the Belichicks are keen on blaming the older players to explain away why the defense blew chunks towards the end of the season last year, but that argument doesn't sit well with me. It doesn't excuse away how the Bills roasted New England in the postseason, drumming up 7 touchdowns against the Patriot defense. It was the worst beatdown of the postseason, something one wouldn't expect from a Belichick team.
 
 This season, the franchise rid itself of some of the oldest mainstays from the defense. Now that younger faces are guaranteed to feature more prominently in games, the Belichicks don't have to worry about the the defensive unit lacking physicality or athleticism. That being said, the defensive front still lacks punch outside of Matthew Judon. Christian Barmore holds some promise, but nobody else really inspires much confidence. Chase Winovich is no longer there. Deatrich Wise is average at best. Josh Uche's too hobbled by injury. Who else is there to carry the pass rush?
 
 It's tough to expect this team to improve much from last year, despite all the hype surrounding Mac Jones as he enters his second year in the professional leagues. Too many questions are plaguing, the biggest being whether Matt Patricia can actually command this offense competently.
+
+***
+
+### San Francisco 49ers
+
+_Leadership:_ Kyle Shanahan (HC/OC), DeMeco Ryans (DC), Trey Lance (QB)
+
+ 
