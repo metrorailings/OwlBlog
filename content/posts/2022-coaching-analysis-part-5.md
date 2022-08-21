@@ -25,13 +25,15 @@ On top of that, Jacksonville may actually win enough games to no longer qualify 
 
 _Leadership_: Kevin Stefansky (HC/OC), Joe Woods (DC), Deshaun Watson / Jacoby Brissett (QB)
 
-Cleveland has now become the heel of the league.
+Cleveland has now become the most hated organization in the league.
 
 To be honest though...signing Deshaun Watson is a gamble Cleveland will likely win over the long term. Unless Watson is caught molesting another masseuse, odds are the man will return to elite form and cement Cleveland as a perennial championship contender, something that the Browns fandom has wanted for decades now. So once Watson elevates this team to the next level, Cleveland's fans will absolve him of his sins.
 
 But for this year, Deshaun Watson's rapey energy will only take this team so far given he'll only play in 6 regular season games. For the definitive majority of the season, it'll be the Jacoby Brissett show on offense. Can Brissett keep this team humming while Deshaun serves time in purgatory? Ehh....unlikely. Even under Frank Reich's guidance in 2019, Brissett only racked up about 6-7 wins. Sure, the Browns have a much better rushing attack, but an elite ground game can only get you so many wins, as last year so aptly demonstrated. Then again, Stefansky's style of offense caters well towards game managers, so it's possible Brissett becomes more proficient this season.
 
-Defensively though, things are still a mess. And it's not necessarily because of talent either. Cleveland has strong players along select points of their defense, notably out along the wings of the defensive backfield and the trenches. The problem is the other position groups are missing talented personnel. Even worse, the coach is completely inept at covering up these deficiencies.   
+Defensively though, things are still a mess. And it's not necessarily because of talent either. Cleveland has strong players along select points of their defense, notably out along the wings of the defensive backfield and the trenches. The problem is the other position groups are missing talented personnel. Even worse, the coach is completely inept at covering up these deficiencies. Joe Woods has been an absolutely horrendous coordinator these past two years. Nothing demonstrates this better than him allowing Lamar to actually "get right" two years ago in a critical prime-time match-up. Woods has done nothing since then to refute my initial impression of him as hapless.
+
+Ultimately, Cleveland remains intriguing given the return of Deshaun Watson and assessing how far he can take them this season. A trip to the postseason is certainly possible, but then we need to ask...is everybody's favorite massage enthusiast ready for playoff football after nearly a 2-year hiatus? My hunches say no, especially if his sordid reputation turns him into the league's biggest heel. 
 
 ***
 
