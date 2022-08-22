@@ -22,6 +22,6 @@ So with all that said, does this team stand as a favorite to win the Super Bowl?
 
 _Leadership:_ Kliff Kingsbury (HC/OC), Vance Joseph (DC), Kyler Murray (QB)
 
-After inking Kyler Murray to a huge contract, all Arizona needs right now is....a quarterback?
+After inking Kyler Murray to a huge contract, all Arizona needs right now is....a quarterback? Wait....what?
 
-Truth be told, Kyler Murray is not the answer to Arizona's quarterbacking problem, a problem that's been plaguing them since the 
+Truthfully, Kyler Murray is not the long-term answer to Arizona's quarterbacking problem, a problem that's been plaguing them since the Kurt Warner era over a decade ago. It's not that the man lacks talent or arm strength - it's the lack of drive and maturity. The past two years has sold me on this idea that Murray is not built for the marathon of a full season. The kid shines flashes of greatness the first several weeks of the season only to completely collapse in November and December once the hits mount and the weekly routine starts boring him. It takes dedication and discipline for a quarterback to endure the grind of a full season, something we've seen before from great quarterbacks like Brady and Peyton Manning. Judging by the contract language specifically stipulating that Kyler dedicate at least four hours a week to studying his upcoming opponent...it's virtually guaranteed Murray lacks that same passion. That apathy becomes all the more obvious when one examines his sideline demeanor throughout the season - the kid's missing that enthusiasm for the game, let alone his fellow teammates.
