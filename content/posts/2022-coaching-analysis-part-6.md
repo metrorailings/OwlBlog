@@ -15,3 +15,13 @@ Defensively, the club is humming so long as the injury bug doesn't run rabid thr
 Offensively...after Brady's retirement, the organization was ready to promote _Blaine Gabbert_ to replace him. But before Buccaneer fans had enough time to sell their Brady shirts and figure out a new team to support, Tommy boy came back, salvaging the team's championship hopes. Apparently, time with the family was a circle of hell that not even Brady can stand. Either that or Brady simply cannot exist in a state where he's not playing football. Anyway, now that Brady is back and Byron Leftwich has still been retained as the team's coordinator, don't expect anything to change, tactically speaking. Brady's preferred style of offense favors throws towards receivers running routes between the numbers, peppered with deep throws along the sidelines to his big-play threats. It's a system of offense that's clearly worked for the franchise in the past two years. This year though...expect some hiccups. Three of his four favorite receivers will no longer be there to start the season. People like Russell Gage and Cameron Brate need to elevate their game if the team's to remain just as fruitful this year as in years past. I forecast growing pains however, similar to what we saw in 2020 before the unit finally settled into championship form.
 
 So with all that said, does this team stand as a favorite to win the Super Bowl? Not too sure. A postseason invite is all but certain given their weak division. The real question is whether the club has enough horses to see them through multiple playoff contests. Without Jason Pierre-Paul, Rob Gronkowski, Antonio Brown, and Chris Godwin (for most of the season), the club's missing too many players at prime positions to be considered serious contenders for the Lombardi trophy. Either those vacancies are quickly filled by new blood or the team suffers through another playoff loss next January.
+
+***
+
+### Arizona Cardinals
+
+_Leadership:_ Kliff Kingsbury (HC/OC), Vance Joseph (DC), Kyler Murray (QB)
+
+After inking Kyler Murray to a huge contract, all Arizona needs right now is....a quarterback?
+
+Truth be told, Kyler Murray is not the answer to Arizona's quarterbacking problem, a problem that's been plaguing them since the 
