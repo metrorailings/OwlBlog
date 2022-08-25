@@ -61,3 +61,9 @@ Anyway, let's conclude this. Best of luck staying alive, Marcus Mariota.
 ***
 
 ### New York Giants
+
+_Leadership_: Brian Daboll (HC/OC), Wink Martindale (DC), Daniel Jones (QB)
+
+My beloved Giants. How pathetic of a franchise you've been these past several years.
+
+The post-Coughlin era of Giants football may rank as the ugliest years in franchise history. No other club has done worse than the Giants in terms of win-loss record. Why is that? A litany of reasons, the main one being clueless ownership.
