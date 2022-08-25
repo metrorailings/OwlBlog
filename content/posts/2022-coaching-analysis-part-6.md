@@ -52,4 +52,4 @@ Shifting focus over to Arthur Smith...the man's done well in his coaching career
 
 Moving over to the defensive side of things...Dean Pees has a lovely history of improving defenses during his time in the NFL. That being said, it's incredibly difficult to gauge his impact on this defense given its sheer lack of talent. Sure, the Falcons have a couple recognizable names in Grady Jarrett and A.J. Terrell, but the roster quickly turns ugly when you look past those two. It's not good. Most names are nigh unrecognizable, making the theme of experimentation this year even more obvious. It's clear the Falcons want to see which players are worthy of being kept before a rebuild is in full effect starting next year. A good thing too, as fresh faces need time to habituate themselves to the complex style of defense Pees tends to run.
 
-So to conclude...best of luck staying alive, Marcus Mariota. 
+Anyway, let's conclude this. Best of luck staying alive, Marcus Mariota. 
