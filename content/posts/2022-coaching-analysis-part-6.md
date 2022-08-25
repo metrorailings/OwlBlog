@@ -1,6 +1,5 @@
 +++
 date = 2022-08-20T12:00:00Z
-draft = true
 headline = "2022 Coaching Analysis - Part 6"
 
 +++
@@ -73,3 +72,5 @@ Even though leadership looks especially promising, the truth is this year will v
 It's possible the biggest "cut" will be Daniel Jones though. This will be Jones' last chance to actually realize that first-round potential. Luckily for Jones, Brian Daboll had some success developing lesser quarterbacks, most notably in his last stint with Josh Allen. But going further back and looking at the entirety of his NFL career, it's clear the man is no miracle worker. So the onus of better quarterback play here will fall squarely on the shoulders of the quarterback. As a Giants fan, I hope Jones has that drive to truly improve himself given it may be his last opportunity to do so.
 
 Let's finish this up by discussing coaching. Daboll is known for tailoring the playbook to accommodate his weapons on offense. He'll likely incorporate quite a bit of pre-snap motion and complex route trees in his offense to help Jones find easy completions, similar to what he schemed up in Buffalo. In fact, just like the Bills of last year, I'd say the Giants are rich in mid-level receiver talent, so it makes sense to carry over many of the concepts that made that offense so productive over the past couple seasons. Defensively, Wink Martindale will likely not change up much from the playbook he devised down in Baltimore. The man comes from the Wade Phillips school of thought when it comes to defense - be reckless with the blitz and trust your defensive backs to cover opposing receivers in man coverage. Outside of the blitz packages, it's not too complex. So if this system is to success, it'll need to be on the merits of its defensive personnel. And the Giants do have some of that requisite talent on defense, though it's mostly concentrated in the trenches. In fact...with Leonard Williams operating in a system catering more to pass rushers, Azeez Ojulari entering the second year of his development, and Kayvon Thibodeaux coming out of college NFL-ready, New York has no reason not to dominate the trenches defensively. And that'll likely make all the difference between a horrendous defense and a passable one this season.
+
+Let's go, Big Blue! A postseason invite is a pipe dream, but it's still possible the Giants (and Daniel Jones) will exceed expectations here. It's actually hard not to.... 
