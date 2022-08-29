@@ -26,4 +26,10 @@ Yet, the club was so close to winning that game against Cincinnati, thanks entir
 
 If there's any fault to be found here, it's that Vrabel paid Harold Landry in the offseason, despite the man's ghost act in the second half of the season - it's a rather trivial complaint compared to everything Vrabel's done to whip these Titan defenders into shape. It's virtually certain the unit will once again be among the cream of the crop in the upcoming season.
 
-So where does Tennessee stand? Well, it's hard to bill them confidently as championship contenders. Even if they're sound defensively, the offense remains troubling to me, if only because the organization has done criminally little to improve things. Unless Derrick Henry returns back to elite form and wards off the injury bug for the whole season (a stretch given his age and the wear and tear on his body), it's hard to see this unit being anything more than an albatross on this team. Unless the defense performs at a historically great level, the Titans can expect nothing more than another postseason invite ending in another depressing loss.
+So where does Tennessee stand? Well, it's hard to categorize them confidently as championship contenders. Even if they're sound defensively, the offense remains troubling, if only because the organization has done criminally little to improve things. In fact, it's quite possible the Titans have embraced a rebuild on that side of the ball. So unless Derrick Henry returns back to elite form and wards off the injury bug for the whole season (a stretch given his age and the wear and tear on his body), it's hard to see this unit being anything more than an albatross on this team. Unless the defense performs at a historically great level, the Titans can expect nothing more than another postseason invite ending in another depressing loss.
+
+***
+
+### Baltimore Ravens
+
+_Leadership:_ Jon Harbaugh (HC), Greg Roman (OC), Mike Macdonald (DC), Lamar Jackson (QB)
