@@ -43,3 +43,9 @@ On defense, Wink Martindale's firing was truly a surprise, especially when it wa
 Chances are though that this new defense should jive well with the defensive roster, especially the secondary. After having invested significant money and draft capital at the safety position, the secondary is now bursting at the seams with talent, so it shouldn't be difficult for them to take a more active role patrolling the backfield. I do wonder if things will change much for the front though. Tyus Bowser and Odafe Oweh have the potential to break out as dominant pass rushers, but both need some help - whether this coach can guide them to the next level remains to be seen.
 
 In the end, high expectations are there for this organization now that they've endured a plague-ridden season. In reality, fans may be setting themselves up for disappointment once again. The offense remains alarmingly weak and Lamar Jackson has shown very little development as a passer. Whereas somebody like Aaron Rodgers elevates his supporting cast, it's the exact opposite in Baltimore - Lamar needs his skill players to overcompensate in order to mask his deficiencies. Just a conspiratorial thought, but it's possible Baltimore sees no future with Lamar. If so, another disappointing season from the former MVP would make it easier for the club (and the fanbase) to part ways with him. Either way, don't expect much from Baltimore as they institute a new system of defense while their quarterback has one more year to develop as a proper passer without much help.  
+
+***
+
+### Los Angeles Chargers
+
+_Leadership_: Brandon Staley (HC/DC), Joe Lombardi (OC), Justin Herbert (QB)
