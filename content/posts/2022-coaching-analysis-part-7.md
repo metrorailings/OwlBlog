@@ -63,3 +63,13 @@ Los Angeles also refused to give their top-shelf quarterback any help in terms o
 Such a shame too, considering the Chargers are one of the few teams to feature an elite quarterback on such a cheap contract. If money was spent more wisely on the right types of luxuries, a championship appearance would be all but certain. But that's not the case. Maybe a playoff appearance is in the cards here, but unless a good number of players on both sides of the ball have career years, don't expect anything much from them.
 
 ***
+
+### Miami Dolphins
+
+_Leadership_: Mike McDaniel (HC/OC), Josh Boyer (DC), Tua Tagovailoa (QB)
+
+What a strange turn of events for the Dolphins. To force Brian Flores out the door while keeping his defensive coordinator intact in the same role seems bizarre at first....until you read the reports of the way he tyrannized others in the organization, including his defensive coordinator. The man made the fatal mistake of alienating so many people in his quest to size more control over the club's operations. Just like so many other Belichick disciples, Flores failed in a vain attempt to emulate Belichick's style of dictatorship, becoming yet another name in a long list of failures descended from Belichick's coaching tree. The truly sad part is that he might have ended up back in New England too had he not enraged his former mentor by using their private texts to initiate a lawsuit against the league.
+
+Any way, let's talk about the coaching regime, starting with the new offense helmed by Kyle Shanahan's former right-hand man, Mike McDaniel.
+
+Defensively, I have cause for concern. Say what you want about Flores and his leadership, but he was able to get results. When he took over the defense last year after it spent the first several weeks of the season wallowing in its own excrement, the unit not only improved, but transformed into one of the best defensive outfits in the league, especially up front with the pass rush - no other team landed more hits on the quarterback than Miami last season.  
