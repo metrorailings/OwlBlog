@@ -1,6 +1,5 @@
 +++
 date = 2022-08-25T12:00:00Z
-draft = true
 headline = "2022 Coaching Analysis - Part 7"
 
 +++
@@ -70,10 +69,12 @@ _Leadership_: Mike McDaniel (HC/OC), Josh Boyer (DC), Tua Tagovailoa (QB)
 
 What a strange turn of events for the Dolphins. To force Brian Flores out the door while keeping his defensive coordinator intact in the same role seems bizarre at first....until you read the reports of the way he tyrannized others in the organization, including his defensive coordinator. The man made the fatal mistake of alienating so many people in his quest to size more control over the club's operations. Just like so many other Belichick disciples, Flores failed in a vain attempt to emulate Belichick's style of dictatorship, becoming yet another name in a long list of failures descended from Belichick's coaching tree. The truly sad part is that he might have ended up back in New England too had he not enraged his former mentor by using their private texts to initiate a lawsuit against the league.
 
-Any way, let's talk about the coaching regime, starting with the new offense helmed by Kyle Shanahan's former right-hand man, Mike McDaniel. I don't expect McDaniel to deviate much at all from the type of offense Shanahan instituted out west in San Francisco. And you know what? It just might work. The beautiful thing is that Miami has the requisite talent to succeed with such a offense - Tyreek Hill can play the Swiss knife role Deebo Samuel so successfully pioneered while Mike Gesecki and Jaylon Waddle can be the versatile outlets that are needed to truly make this offense work. The offensive line has issues, but the club did spend some good money bringing in new blood, so it's possible it won't be as glaringly a point of weakness as it was last year.
+Any way, let's talk about the coaching regime, starting with the new offense helmed by Kyle Shanahan's former right-hand man, Mike McDaniel. I don't expect McDaniel to deviate much at all from the type of offense Shanahan instituted out west in San Francisco. And you know what? It just might work. Miami has the requisite talent to succeed with such a offense - Tyreek Hill can play the Swiss knife role Deebo Samuel so successfully pioneered while Mike Gesecki and Jaylon Waddle can be the short-yardage versatile outlets that are needed to truly make this offense work.  If these three skill players adjust well to the new system, not much needs to be asked of Tua, thankfully. Let's be honest in assessing that Tua is mediocre at best, so to operate in a system that's not so reliant on the quarterback plays beautifully for the Dolphins here. The offensive line has issues, but the club did spend some good money bringing in new blood, so it's possible it won't be as glaringly a point of weakness as it was last year.
 
 Defensively, I have cause for concern. Say what you want about Flores and his leadership, but he was able to get results. When he took over the defense last year after it spent the first several weeks of the season wallowing in its own excrement, the unit not only improved, but transformed into one of the best defensive outfits in the league, especially up front with the pass rush - no other team landed more hits on the quarterback than Miami last season. 
 
 ![](/uploads/miamidefense.png)
 
 Now that Josh Boyer is back in charge of the unit, is it possible that it'll regress to its pathetic form from early last season? Quite possible. It's also plausible that Flores constantly undermined Boyer, effectively neutering his coordinator's influence over the defensive roster. It's nearly impossible for a coach to properly lead if he's constantly losing face in front of his men. Either way, it is a significant cause of concern and something that we'll only be able to determine several weeks into the season.
+
+All in all, Dolphins fans have reason to hope for a breakout season this year from their first year head coach. Don't be surprised if this team leapfrogs the Patriots in the division.
