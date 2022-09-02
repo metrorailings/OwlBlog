@@ -19,3 +19,7 @@ All that being said, the biggest issue on this team still remains Justin Fields,
 Dreaded uncertainty is the name of the game here, dread about the starting quarterback's frame of mind and uncertainty about the new management.  The picture will become much clearer after about two months, but until then, the best I can say is that the team will eke out wins here and there in an otherwise forgettable season.
 
 ***
+
+### New York Jets
+
+_Leadership_: Robert Saleh (HC/DC), Mike LaFleur (OC), Zach Wilson / Joe Flacco (QB)
