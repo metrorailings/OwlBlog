@@ -23,3 +23,11 @@ Dreaded uncertainty is the name of the game here, dread about the starting quart
 ### New York Jets
 
 _Leadership_: Robert Saleh (HC/DC), Mike LaFleur (OC), Zach Wilson / Joe Flacco (QB)
+
+It's so difficult to assess these Jets, in part because their success hinges on just how much Zach Wilson improves entering his sophomore year. Wilson may have shown signs of progress during his rookie campaign last year, but those signs are hard to discern given all the injuries throwing them in disarray.
+
+![](/uploads/newyorkjetsoffense.png)
+
+EPA indicates some improvement was made over the summer, starting with the game against Cincinnati. Maybe Wilson learned from Mike White that not every pass should end as a home run attempt or a big gain. Once again though, it's difficult assessing any sort of change in his game given the limited weaponry at his disposal. This season will be a different story - not only should Corey Davis return fully healthy, the Jets spent considerable coin in free agency adding two tight ends to add another vector to their passing attack, and a premium draft pick was spent on one of the top receiver prospects in this year's drafts. So not only can Wilson be fairly assessed, so can his offensive coordinator in Mike LaFleur. To be fair though, I am a bit impressed that his offense was more industrious towards the end of the year despite the rash of injuries across the roster. But his impact on the team was muted considerably as Zach Wilson was struggling to find his bearings as a rookie. So I'll be keen to keep an eye on both LaFleur and Wilson in their first couple games together.
+
+Defensively, I'm a little troubled. Last year, the unit was among the worst statistically. Their pas rush lacked any real teeth, with Quinnen Williams the only true threat in the trenches.
