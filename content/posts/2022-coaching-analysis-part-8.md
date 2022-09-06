@@ -38,4 +38,4 @@ It seems almost loony to even suggest that the Jets have an outside shot at a pl
 
 ### Philadelphia Eagles
 
-_Leadership_: Nick Sirianni (HC/OC), Jonathan Gannon (DC), Jalen Hurts (QB)
+_Leadership_: Nick Sirianni (HC/OC), Jonathan Gannon (DC), Jalen Hurts / Gardner Minshew (QB)
