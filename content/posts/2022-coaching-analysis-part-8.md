@@ -39,3 +39,9 @@ It seems almost loony to even suggest that the Jets have an outside shot at a pl
 ### Philadelphia Eagles
 
 _Leadership_: Nick Sirianni (HC/OC), Jonathan Gannon (DC), Jalen Hurts / Gardner Minshew (QB)
+
+It's hard for me to say this as a Giants fan, but the Eagles have the makings of a championship team - Solid players at almost every position group across their roster, coaches who've demonstrated an ability to adapt, a certain moxie infecting the team, a media market keeping the organization honest should they be caught slacking, etc. Still, their biggest weakness may be their undoing - the quarterback position.
+
+Let's start there. Jalen Hurts was absolutely horrendous in his postseason debut against the Buccaneers. The only positive thing that could be said was that it was a learning experience for the kid about what it takes to win a Lombardi trophy. Unfotunately, many quarterbacks go through these teachable moments without learning a damn thing, and Jalen Hurts may be yet another one of them. Though early reports speak highly of his rapport with teammates and his improving numbers against his own men and other defenses in joint defenses, nothing can be made certain until we see him exhibit better quarterbacking in live games in meaningful situations.
+
+To the front office's credit though, the Eagles are doing everything possible to facilitate the development of their young quarterback. Not only are they protecting him with a stout offensive line, but they've surrounded him with considerably talented skill position players, the biggest name among them being A.J. Brown. A.J. Brown is the type of player who can make those circus catches that may be needed to bail his quarterbacks out on errant throws. Not to mention Brown's ability to navigate the middle of the field should be a tremendous boon to a quarterback wary of lobbing the ball between the numbers.
