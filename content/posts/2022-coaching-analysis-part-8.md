@@ -57,3 +57,5 @@ Philadelphia is the dark horse contender for the Super Bowl this year. Make no m
 ### Detroit Lions
 
 _Leadership:_ Dan Campbell (HC), Ben Johnson (OC), Aaron Glenn (DC), Jared Goff (QB)
+
+And we've made it to the last team - the Detroit Lions. 
