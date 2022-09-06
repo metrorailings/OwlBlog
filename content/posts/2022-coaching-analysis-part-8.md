@@ -35,3 +35,7 @@ Defensively, things are pointing up. Last year, the unit was among the worst sta
 It seems almost loony to even suggest that the Jets have an outside shot at a playoff nod this year. But the reality is so many elements on the team remains a bit of a black box. Should certain personnel on the coaching staff and roster contribute significantly to the growth of this team, the idea isn't that far-fetched.
 
 ***
+
+### Philadelphia Eagles
+
+_Leadership_: Nick Sirianni (HC/OC), Jonathan Gannon (DC), Jalen Hurts (QB)
