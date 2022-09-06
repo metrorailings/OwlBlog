@@ -51,3 +51,9 @@ Nick Sirianni needs to step up as well and help his offense mask any of Jalen's 
 On the other side, we now have a defense loaded to the gills with some respectable pass rushing talent. If Brandon Graham remains healthy and Haason Reddick remains a dominant pass rusher despite being on a different team for the third year straight, this club has more than enough weaponry at hand to sustain a fearsome pass rush, something they weren't quite able to achieve last year in Jonathan Gannon's first year as coordinator. Speaking of which, Gannon's first year produced mixed results, to put it simply. His insistence on running a style of defense predicated on preventing big plays made things a bit too predictable. Then again, this wouldn't have been such a questionable approach if the pass rushers used their increased snap count to impose their will on opposing quarterbacks, but pressure was never really something that was consistent. Perhaps that will change this year now that the club has a bigger stable of pass rushers at its beck and call as well as two solid cornerbacks to account for the sidelines.
 
 Philadelphia is the dark horse contender for the Super Bowl this year. Make no mistake, a postseason appearance is all but guaranteed. The real question becomes whether leadership can shepherd this team through a playoff gauntlet.
+
+***
+
+### Detroit Lions
+
+_Leadership:_ Dan Campbell (HC), Ben Johnson (OC), Aaron Glenn (DC), Jared Goff (QB)
