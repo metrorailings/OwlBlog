@@ -48,7 +48,7 @@ To the front office's credit though, the Eagles are doing everything possible to
 
 Nick Sirianni needs to step up as well and help his offense mask any of Jalen's drawbacks through schemed plays. Running read-option plays out of the single wing formation are isn't enough to scare opponents in the playoffs, as the Buccaneers so aptly showed them on wild card weekend. Much credit to the man for transforming the offense from a passing-oriented one to a running-oriented one while in the middle of a grueling season, but the next step now becomes fostering a passing game where receivers can easily manufacture yards after the catch. Sirianni has the horses to pull that off.
 
-On the other side, we now have a defense loaded to the gills with some respectable pass rushing talent. If Brandon Graham remains healthy and Haason Reddick remains a dominant pass rusher despite being on a different team for the third year straight, this club has more than enough weaponry at hand to sustain a fearsome pass rush, something they weren't quite able to achieve last year in Jonathan Gannon's first year as coordinator. Speaking of which, Gannon's first year produced mixed results, to put it simply. 
+On the other side, we now have a defense loaded to the gills with some respectable pass rushing talent. If Brandon Graham remains healthy and Haason Reddick remains a dominant pass rusher despite being on a different team for the third year straight, this club has more than enough weaponry at hand to sustain a fearsome pass rush, something they weren't quite able to achieve last year in Jonathan Gannon's first year as coordinator. Speaking of which, Gannon's first year produced mixed results, to put it simply.
 
 ![](/uploads/philadelphiadefense.png)
 
@@ -62,4 +62,6 @@ Philadelphia is the dark horse contender for the Super Bowl this year. Make no m
 
 _Leadership:_ Dan Campbell (HC), Ben Johnson (OC), Aaron Glenn (DC), Jared Goff (QB)
 
-And we've made it to the last team - the Detroit Lions. 
+And we've made it to the last team - the Detroit Lions. Not the easiest team to evaluate though. Ben Johnson is a relatively new commodity in the coaching world, having been hired to the coordinator role thanks to his close relationships with Dan Campbell. While it likely won't be so driven by the ground game as Anthony Lynn's system of offense from last year, it'll still need to feature a heavy dose of D'Andre Swift - Jared Goff can't be entirely trusted to assume the mantle of production here. That being said, it is reassuring knowing that Johnson spent several days reviewing tape with Jared Goff trying to pinpoint the type of plays where he excels. It's also reassuring that the receivers on the team speak highly of Ben Johnson, something that suggests to me that the man is committed to fixing the passing game instead of muzzling it behind the running game. If Ben Johnson's vision pans out, expect the Lions to gradually become more proficient throwing the ball as the season progresses.
+
+On defense, Aaron Glenn is more of a known quantity. 
