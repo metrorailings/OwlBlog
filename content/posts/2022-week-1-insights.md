@@ -15,3 +15,5 @@ As expected, Sean McVay's limited playbook makes it too easy for top defensive m
 The Bills defensive line is actually impressing me. Ed Oliver, Von Miller, and Jordan Phillips have stood out with some impactful plays.
 
 Buffalo loves keeping their defense on the smaller side. It's clear McDermott prioritizes the passing defense over the rushing one. And it's not a bad decision either considering the the front seven has performed mostly well enough against the Rams ground game.
+
+Bills come out in the second half with a touchdown in their opening drive. Where are the adjustments from Raheem Morris?
