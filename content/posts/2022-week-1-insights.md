@@ -21,3 +21,7 @@ Bills come out in the second half with a touchdown in their opening drive. Where
 The offense of the Rams has mostly consisted of shots to Cooper Kupp in bracket coverage. Los Angeles has also tried to incorporate a hurried pace on some of their drives, to mixed results.
 
 Von Miller on fire.
+
+Josh Allen getting rid of the ball quickly, especially when Aaron Donald is only being blocked by one lineman. Smart move.
+
+I'm still not sure what Ken Dorsey is doing anything different on the Bills offense. Many of the different tactics I see the unit leveraging is not really different from what they were doing last year. I do see them using 20 and 21 formation every now and then, perhaps as a way to add another dimension to their ground game - with a fullback in the backfield, three players can now carry the ball for them on running plays.
