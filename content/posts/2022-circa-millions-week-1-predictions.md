@@ -26,7 +26,7 @@ Dome game
 
 ##### _History_
 
-Both are division rivals who met each other twice last year. Each won a match on their own home field. That being said, Minnesota let up more than 30 points in both contests.
+Both are division rivals who met each other twice last year. Each won a match on their own home field, though it's worth noting Green Bay was the major beneficiary of an untimely injury to Kirk Cousins forcing Sean Mannion into action as the starting quarterback in a primetime game taking place outside on an 11 degree night. That being said, Minnesota let up more than 30 points in both contests.
 
 ***
 
@@ -34,4 +34,4 @@ Both are division rivals who met each other twice last year. Each won a match on
 
 ***
 
-I know it's a little risky betting on a road favorite so early in the system, but the Vikings are introducing a new head coach who has no prior experience being in such a role. It's hard for a rookie head coach to prepare his men for game day. History attests to this - rookie head coaches have mostly lost their opening games.  
+I know it's a little risky betting on a road favorite so early in the system, but the Vikings are introducing a new head coach who has no prior experience being in such a role. It's hard for a rookie head coach to prepare his men for game day. History attests to this - rookie head coaches have mostly lost their opening games.
