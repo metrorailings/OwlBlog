@@ -17,3 +17,7 @@ The Bills defensive line is actually impressing me. Ed Oliver, Von Miller, and J
 Buffalo loves keeping their defense on the smaller side. It's clear McDermott prioritizes the passing defense over the rushing one. And it's not a bad decision either considering the the front seven has performed mostly well enough against the Rams ground game.
 
 Bills come out in the second half with a touchdown in their opening drive. Where are the adjustments from Raheem Morris?
+
+The offense of the Rams has mostly consisted of shots to Cooper Kupp in bracket coverage. Los Angeles has also tried to incorporate a hurried pace on some of their drives, to mixed results.
+
+Von Miller on fire.
