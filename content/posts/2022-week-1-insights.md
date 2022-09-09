@@ -5,3 +5,5 @@ headline = "Week 1 Insights"
 
 +++
 ## Bills @ Rams
+
+Good to be watching real football again.
