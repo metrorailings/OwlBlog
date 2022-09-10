@@ -34,4 +34,6 @@ Both are division rivals who met each other twice last year. Each won a match on
 
 ***
 
-I know it's a little risky betting on a road favorite so early in the system, but the Vikings are introducing a new head coach who has no prior experience being in such a role. It's hard for a rookie head coach to prepare his men for game day. History attests to this - rookie head coaches have mostly lost their opening games.
+It's a difficult match to assess in light of Allen Lazard being likely sidelined. If Lazard was healthy, I'd be more than happy to pick Green Bay here. But Rodgers being without his top receiving threat (allegedly) worries me - if Sammy Watkins and old man Randall Cobb are the two main receivers lining up in the wings, the Packers may have a rough time sustaining production in the passing game.
+
+On the other side, Minnesota is coming into the game with a rookie head coach making his debut in that position. History suggests rookie head coaches don't fare well in their first outing. And I'm not entirely certain Kevin O'Connell is cut out to marshal an NFL team into battle yet.
