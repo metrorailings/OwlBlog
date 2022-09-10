@@ -166,4 +166,8 @@ No recent history between these two teams
 
 ***
 
-A little risky given the injury epidemic sweeping through Arizona's locker room currently, but Kliff Kingsbury's been spectacular at readying his team in time or the season opener. I remember being hesitant about picking the Cardinals last year in week one, as they were going up against a solid Tennessee team. Arizona dominated that game from start to finish. While I doubt the Cardinals can achieve that level of dominance here against Patrick Mahomes, the fact that they're being given so many points at home gives them quite a bit of cushion here.
+A little risky given the injury epidemic sweeping through Arizona's locker room currently, but Kliff Kingsbury's been spectacular at readying his team in time or the season opener. I remember being hesitant about picking the Cardinals last year in week one, as they were going up against a solid Tennessee team, but Arizona dominated that game from start to finish. While I doubt the Cardinals can achieve that level of dominance here against Patrick Mahomes, the fact that they're being given so many points at home gives them quite a bit of cushion here.
+
+***
+
+***
