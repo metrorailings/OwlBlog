@@ -171,3 +171,27 @@ A little risky given the injury epidemic sweeping through Arizona's locker room 
 ***
 
 ***
+
+### Broncos @ Seahawks (+6.5)
+
+***
+
+##### _Streaks_
+
+Not applicable
+
+##### _Injuries_
+
+Both teams are coming into this contest quite healthy
+
+##### _Weather_
+
+A beautiful September night
+
+##### _History_
+
+No recent history between these two teams
+
+***
+
+### 
