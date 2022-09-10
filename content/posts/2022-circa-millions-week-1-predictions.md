@@ -143,3 +143,23 @@ A little risky going for the Jaguars here considering a new coaching regime is i
 ### Chiefs @ Cardinals (+6)
 
 ***
+
+##### _Streaks_
+
+Not applicable
+
+##### _Injuries_
+
+The Cardinals are banged up across the roster. The injuries eliciting the most concern come on offense, with multiple offensive linemen, wide receiver Rondale Moore, and starting tight end Zack Ertz all dealing with various afflictions.
+
+##### _Weather_
+
+Dome game.
+
+##### _History_
+
+No recent history between these two organizations
+
+***
+
+### 
