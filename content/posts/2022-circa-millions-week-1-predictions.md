@@ -194,4 +194,8 @@ No recent history between these two teams
 
 ***
 
-### 
+### Seahawks +6.5
+
+***
+
+Seattle has some promising potential here.
