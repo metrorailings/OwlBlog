@@ -103,3 +103,43 @@ Both these teams met in the middle of the season last year. The Eagles absolutel
 ***
 
 It's noteworthy that Vegas hasn't shifted the odds much from last year despite the way Philadelphia smashed these Lions. Perhaps the oddsmakers are thinking that Detroit was also caught completely off-guard by the Eagles' sudden shift in identity on offense. Whatever the reason, Philadelphia in once again handicapped as a 4-point favorite on the road. I think Philadelphia will again win this game in dominant fashion - it's a club that's clearly gotten much better over the offseason. The same really can't be said about Detroit, despite all the love people have been throwing their way thanks to Hard Knocks. The team didn't do much in the offseason to really bolster their roster. A premium pick was spent on a defensive linemen and a few moves were made in free agency, but not much else was done. The most significant change this year came on the coaching staff, with Ben Johnson replacing Anthony Lynn as the offensive coordinator. Sure, Johnson can make an immediate impact, but history suggests system changes usually take time.
+
+***
+
+***
+
+### Jaguars @ Commanders (-2.5)
+
+***
+
+##### _Streaks_
+
+Not applicable
+
+##### _Injuries_
+
+The Jaguars are mostly healthy, while the Commanders are a little thin at safety. Overall, nothing too concerning for either team.
+
+##### _Weather_
+
+Expect a rainy affair.
+
+##### _History_
+
+No recent history between these two organizations
+
+***
+
+### Jaguars +2.5
+
+***
+
+A little risky going for the Jaguars here considering a new coaching regime is in place, but Doug Pederson is not a rookie head coach. On top of that, I think Trevor Laurence has far more upside than Carson Wentz, especially now that he's paired with a competent head coach.
+
+***
+
+***
+
+### Chiefs @ Cardinals (+6)
+
+***
