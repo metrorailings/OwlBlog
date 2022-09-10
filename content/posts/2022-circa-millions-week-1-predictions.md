@@ -102,7 +102,9 @@ Both these teams met in the middle of the season last year. The Eagles absolutel
 
 ***
 
-It's noteworthy that Vegas hasn't shifted the odds much from last year despite the way Philadelphia smashed these Lions. Perhaps the oddsmakers are thinking that Detroit was also caught completely off-guard by the Eagles' sudden shift in identity on offense. Whatever the reason, Philadelphia in once again handicapped as a 4-point favorite on the road. I think Philadelphia will again win this game in dominant fashion - it's a club that's clearly gotten much better over the offseason. The same really can't be said about Detroit, despite all the love people have been throwing their way thanks to Hard Knocks. The team didn't do much in the offseason to really bolster their roster. A premium pick was spent on a defensive linemen and a few moves were made in free agency, but not much else was done. The most significant change this year came on the coaching staff, with Ben Johnson replacing Anthony Lynn as the offensive coordinator. Sure, Johnson can make an immediate impact, but history suggests system changes usually take time.
+It's noteworthy that Vegas hasn't shifted the odds much from last year despite the way Philadelphia smashed these Lions. Perhaps the oddsmakers are thinking that Detroit was also caught completely off-guard by the Eagles' sudden shift in identity on offense. 
+
+Whatever the reason, Philadelphia in once again handicapped as a 4-point favorite on the road. I think Philadelphia will again win this game in dominant fashion - it's a club that's clearly gotten much better over the offseason. The same really can't be said about Detroit, despite all the love people have been throwing their way thanks to Hard Knocks. The team didn't do much in the offseason to really bolster their roster, outside of a premium pick spent on a top pass rushing prospect and a few moves that were made in agency. The most significant change this year came on the coaching staff, with Ben Johnson replacing Anthony Lynn as the offensive coordinator. Sure, Johnson can make an immediate impact, but history suggests system changes usually take time. So give me the Philly team with high hopes here over the team led by a charismatic bro.
 
 ***
 
@@ -134,7 +136,9 @@ No recent history between these two organizations
 
 ***
 
-A little risky going for the Jaguars here considering a new coaching regime is in place, but Doug Pederson is not a rookie head coach. On top of that, I think Trevor Laurence has far more upside than Carson Wentz, especially now that he's paired with a competent head coach.
+A little risky going for the Jaguars here considering a new coaching regime is in place, but Doug Pederson is not a rookie head coach. On top of that, I think Trevor Laurence has far more upside than Carson Wentz, especially now that he's paired with a competent head coach. 
+
+Keep in mind I have personally ranked Washington's coaching staff as among the worst in the league. Given that the Commander's coaches have practically no idea what Pederson's Jaguars will look like on offense, it'll be a good test of their ability to adjust game plans on the fly. 
 
 ***
 
@@ -166,7 +170,7 @@ No recent history between these two teams
 
 ***
 
-A little risky given the injury epidemic sweeping through Arizona's locker room currently, but Kliff Kingsbury's been spectacular at readying his team in time or the season opener. I remember being hesitant about picking the Cardinals last year in week one, as they were going up against a solid Tennessee team, but Arizona dominated that game from start to finish. While I doubt the Cardinals can achieve that level of dominance here against Patrick Mahomes, the fact that they're being given so many points at home gives them quite a bit of cushion here.
+A little risky given the injury epidemic sweeping through Arizona's locker room currently, but Kliff Kingsbury's been spectacular at readying his team in time or the season opener. I remember being hesitant about picking the Cardinals last year in week one as they were going up against a solid Tennessee team, but Arizona dominated that game from start to finish. While I doubt the Cardinals can achieve that same level of dominance here against Patrick Mahomes and company, the fact that they're being given so many points at home gives them quite a bit of cushion here.
 
 ***
 
@@ -198,4 +202,4 @@ No recent history between these two teams
 
 ***
 
-Seattle has some promising potential here.
+Seattle has some upset potential here. It's going to be an emotional game now that the man who's been the face of the Seahawks for the past decade or so is playing on the field in a different uniform. But nobody should understand Russell Wilson and his tendencies better than Pete Carroll. Even though Denver's loaded with so much more talent across the board, the fact that they have a rookie head coach making his debut in a hostile road environment reassures me that Seattle may outright cover and even win with a bit of luck.
