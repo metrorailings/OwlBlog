@@ -48,7 +48,9 @@ Finally! A big throw to A.J. Brown in contested coverage. It's only been one hal
 
 ## 49ers @ Bears
 
-I've barely watched any tape on this game, but Trey Lance's stat line in the first half is absolutely ugly. Kyle Shanahan is going to have a long season, the poor thing.
+I've barely watched any tape on this game, but Trey Lance's passing stat line in the first half is absolutely ugly. Kyle Shanahan is going to have a long season, the poor thing.
+
+Trey Lance with a backbreaking interception in the fourth quarter. Literally just stared the receiver down. Lovely.
 
 ***
 
