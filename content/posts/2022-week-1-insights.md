@@ -46,6 +46,8 @@ Finally! A big throw to A.J. Brown in contested coverage. It's only been one hal
 
 Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game.
 
+The Eagles defensive line seems way too eager to attack upfield, leaving them quite vulnerable to quarterback draws and screens.
+
 ***
 
 ## 49ers @ Bears
