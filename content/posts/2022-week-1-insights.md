@@ -69,3 +69,9 @@ Good to see Burrow still as tough as ever, still willing to scramble with the ba
 Imagine running two straight jailhouse blitzes and failing spectacularly on both of them. Mike Caldwell and the Jaguars defense may be contenders for the worst defense in the league.
 
 Credit to Wentz for those sideline throws leading to touchdowns.
+
+***
+
+## Chiefs @ Cardinals
+
+Credit to Patrick Mahomes for finally demonstrating a consistent willingness to throw the ball short. He's set a new personal record for completion streak - pretty telling.
