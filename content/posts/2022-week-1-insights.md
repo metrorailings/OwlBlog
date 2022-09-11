@@ -46,7 +46,7 @@ Finally! A big throw to A.J. Brown in contested coverage. It's only been one hal
 
 Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game. Then again, Philadelphia may have some real problems rushing the passer. 
 
-The Eagles defensive line seems way too eager to attack upfield, leaving them quite vulnerable to quarterback draws and screens.
+The Eagles defensive line seems way too eager to attack upfield, leaving them quite vulnerable to quarterback draws and screens. And their defensive line can't be afford to be anything less than elite, especially with the predictability of the coverage in the back.
 
 ***
 
