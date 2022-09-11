@@ -75,3 +75,5 @@ Credit to Wentz for those sideline throws leading to touchdowns.
 ## Chiefs @ Cardinals
 
 Credit to Patrick Mahomes for finally demonstrating a consistent willingness to throw the ball short. He's set a new personal record for completion streak - pretty telling.
+
+The Cardinals are committed to man coverage, perhaps too much to their own detriment against a team known for its motioning and pick routes.
