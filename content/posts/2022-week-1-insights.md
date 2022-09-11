@@ -78,6 +78,8 @@ Credit to Patrick Mahomes for finally demonstrating a consistent willingness to 
 
 The Cardinals are committed to man coverage, perhaps too much to their own detriment against a team known for its motioning and pick routes.
 
+Kyler picking up right where he left off, starting the game limp. He needs to do better. 
+
 ***
 
 ## Giants @ Titans
