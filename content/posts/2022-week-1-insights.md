@@ -41,3 +41,9 @@ Ben Johnson smartly calling a running play on 2nd and long, knowing the Eagles a
 Jalen Hurts hasn't been doing much through the air so far...
 
 Things don't change much, do they? Jalen Hurts still has issues passing the ball and Jared Goff is as worthless as ever, despite Ben Johnson's efforts to try and craft a playbook better suited to his strengths. Both organizations are falling back on old habits to generate production - the ground game for Detroit and the read-option for Philadelphia. 
+
+***
+
+## 49ers @ Bears
+
+I've barely watched any tape on this game, but Trey Lance's stat line in the first half is absolutely ugly. Kyle Shanahan is going to have a long season, the poor thing.
