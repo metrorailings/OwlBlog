@@ -44,7 +44,7 @@ Things don't change much, do they? Jalen Hurts still has issues passing the ball
 
 Finally! A big throw to A.J. Brown in contested coverage. It's only been one half, but Brown's already passed the century mark in receiving yardage. Impressive.
 
-Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game.
+Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game. Then again, Philadelphia may have some real problems rushing the passer. 
 
 The Eagles defensive line seems way too eager to attack upfield, leaving them quite vulnerable to quarterback draws and screens.
 
