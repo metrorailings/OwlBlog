@@ -44,6 +44,8 @@ Things don't change much, do they? Jalen Hurts still has issues passing the ball
 
 Finally! A big throw to A.J. Brown in contested coverage. It's only been one half, but Brown's already passed the century mark in receiving yardage. Impressive.
 
+Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game.
+
 ***
 
 ## 49ers @ Bears
@@ -59,3 +61,11 @@ Trey Lance with a backbreaking interception in the fourth quarter. Literally jus
 From watching Red Zone, it seems like Ja'Marr Chase has been the only reliable weapon in the passing game for Cincy...
 
 Good to see Burrow still as tough as ever, still willing to scramble with the ball even after taking way too many sacks. 
+
+***
+
+## Jaguars @ Washington
+
+Imagine running two straight jailhouse blitzes and failing spectacularly on both of them. Mike Caldwell and the Jaguars defense may be contenders for the worst defense in the league.
+
+Credit to Wentz for those sideline throws leading to touchdowns.
