@@ -49,3 +49,9 @@ Finally! A big throw to A.J. Brown in contested coverage. It's only been one hal
 ## 49ers @ Bears
 
 I've barely watched any tape on this game, but Trey Lance's stat line in the first half is absolutely ugly. Kyle Shanahan is going to have a long season, the poor thing.
+
+***
+
+## Steelers @ Bengals
+
+From watching Red Zone, it seems like Ja'Marr Chase has been the only reliable weapon in the passing game for Cincy...
