@@ -55,3 +55,5 @@ I've barely watched any tape on this game, but Trey Lance's stat line in the fir
 ## Steelers @ Bengals
 
 From watching Red Zone, it seems like Ja'Marr Chase has been the only reliable weapon in the passing game for Cincy...
+
+Good to see Burrow still as tough as ever, still willing to scramble with the ball even after taking way too many sacks. 
