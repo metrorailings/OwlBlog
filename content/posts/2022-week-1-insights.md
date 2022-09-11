@@ -34,8 +34,10 @@ Nobody else on this Rams defensive line has made much an impact outside of Aaron
 
 ## Eagles @ Lions
 
-The Eagles rushing defense is worrying me. It's only been one drive, but they've been absolutely helpless against D'Andre Swift and the Detroit ground game. 
+The Eagles rushing defense is worrying me. It's only been one drive, but they've been absolutely helpless against D'Andre Swift and the Detroit ground game.
 
 Ben Johnson smartly calling a running play on 2nd and long, knowing the Eagles are struggling to contain opposing rushers.
 
 Jalen Hurts hasn't been doing much through the air so far...
+
+Things don't change much, do they? Jalen Hurts still has issues passing the ball and Jared Goff is as worthless as ever, despite Ben Johnson's efforts to try and craft a playbook better suited to his strengths.
