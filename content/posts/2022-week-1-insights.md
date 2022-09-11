@@ -29,3 +29,13 @@ I'm still not sure what Ken Dorsey is doing anything different on the Bills offe
 Kudos to Josh Allen for his willingness to run with the ball.
 
 Nobody else on this Rams defensive line has made much an impact outside of Aaron Donald. They're missing Von Miller. Maybe somebody else can be imported via trade?
+
+***
+
+## Eagles @ Lions
+
+The Eagles rushing defense is worrying me. It's only been one drive, but they've been absolutely helpless against D'Andre Swift and the Detroit ground game. 
+
+Ben Johnson smartly calling a running play on 2nd and long, knowing the Eagles are struggling to contain opposing rushers.
+
+Jalen Hurts hasn't been doing much through the air so far...
