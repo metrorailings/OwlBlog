@@ -42,7 +42,7 @@ Jalen Hurts hasn't been doing much through the air so far...
 
 Things don't change much, do they? Jalen Hurts still has issues passing the ball and Jared Goff is as worthless as ever, despite Ben Johnson's efforts to try and craft a playbook better suited to his strengths. Both organizations are falling back on old habits to generate production - the ground game for Detroit and the read-option for Philadelphia. 
 
-Finally! A big play to A.J. Brown in contested coverage. It's only been one half, but Brown's already pass the century mark in receiving yardage. Impressive.
+Finally! A big throw to A.J. Brown in contested coverage. It's only been one half, but Brown's already passed the century mark in receiving yardage. Impressive.
 
 ***
 
