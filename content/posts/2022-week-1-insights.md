@@ -87,3 +87,9 @@ Kyler picking up right where he left off, starting the game limp. He needs to do
 ## Giants @ Titans
 
 Jeffery Simmons once again dominating the line of scrimmage. Little doubt that Simmons is the best pass rusher on the Titans.
+
+Saquon Barkley is resurging into the tour de force he was in his rookie year. Amazing. On top of that, the myriad of new concepts loaded into the playbook is really refreshing - read-option plays, shovel passes, hard play-action, 
+
+GIANTS WON?! Tennessee missed a last-second field goal to retake the lead from the Giants. Amazing.
+
+Daboll going for two points instead of one sends a message to the team. A strong message.
