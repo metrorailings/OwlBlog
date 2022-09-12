@@ -135,3 +135,5 @@ The Vikings have a nascar package where Danielle Hunter and Za'Darius Smith line
 Minnesota has been fairly stout against Green Bay's runners so far. Let's see if they can sustain this level of defense into the fourth quarter.
 
 Strong-side runs seem to be effective against Minnesota's defense.
+
+As expected, Aaron Rodgers is having some serious trouble producing anything in the passing game without Davonte Adams, Marquez Valdes-Scantling, and Allen Lazard. Too many passes are being thrown to his tailbacks, something I don't really remember seeing much from Rodgers before.  
