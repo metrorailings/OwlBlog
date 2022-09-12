@@ -132,8 +132,8 @@ CeeDee Lamb hasn't had much impact on this game. Tampa has done some good work k
 
 The Vikings have a nascar package where Danielle Hunter and Za'Darius Smith line up as defensive tackles on third downs. Interesting concept being employed by Ed Donatell here. I don't think Zimmer had anything like this in his defensive playbook.
 
-Minnesota has been fairly stout against Green Bay's runners so far. Let's see if they can sustain this level of defense into the fourth quarter.
+Minnesota has been fairly stout against Green Bay's runners early on. Let's see if they can sustain this level of defense into the fourth quarter.
 
-Strong-side runs seem to be effective against Minnesota's defense.
+Never mind....strong-side runs seem to be effective against Minnesota's defense.
 
 As expected, Aaron Rodgers is having some serious trouble producing anything in the passing game without Davonte Adams, Marquez Valdes-Scantling, and Allen Lazard. Too many passes are being thrown to his tailbacks, something I don't really remember seeing much from Rodgers before.  
