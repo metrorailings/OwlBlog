@@ -58,6 +58,8 @@ Trey Lance with a backbreaking interception in the fourth quarter. Literally jus
 
 Jennings seems to be a favored target for Lance.
 
+Interesting change of tactics by the Bears late in the game. After Justin Fields connected with a receiver on a heavily-improvised play, Luke Getsy opened the next drive with two straight passes, taking the 49ers completely by surprise. Well done.
+
 ***
 
 ## Steelers @ Bengals
