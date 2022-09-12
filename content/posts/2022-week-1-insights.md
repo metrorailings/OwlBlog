@@ -60,7 +60,7 @@ Jennings seems to be a favored target for Lance.
 
 Interesting change of tactics by the Bears late in the game. After Justin Fields connected with a receiver on a heavily-improvised play, Luke Getsy opened the next drive with two straight passes, taking the 49ers completely by surprise. Well done.
 
-San Francisco's physicality is very evident on tape, especially on defense.
+The 49er defense's physicality is very evident on tape.
 
 ***
 
