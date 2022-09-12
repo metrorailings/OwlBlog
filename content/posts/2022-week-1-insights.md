@@ -118,4 +118,4 @@ Pretty clear that Brady is fostering a connection with Julio Jones. It's possibl
 
 Despite losing last year's wild-card game in part due to penalties, it seems Dallas hasn't really done much to clean up its penalty problem. Then again, it's only the first game. It'll be worth checking up again in four weeks.
 
-Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. 
+Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. It's telling that the organization actually signed 40-year old veteran Jason Peters as late as they did. While Peters was fantastic in his prime, he's no longer that immovable object, as evidenced by his latest stint in Chicago. 
