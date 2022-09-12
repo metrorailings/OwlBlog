@@ -56,6 +56,8 @@ I've barely watched any tape on this game, but Trey Lance's passing stat line in
 
 Trey Lance with a backbreaking interception in the fourth quarter. Literally just stared the receiver down. Lovely.
 
+Jennings seems to be a favored target for Lance.
+
 ***
 
 ## Steelers @ Bengals
