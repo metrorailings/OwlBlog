@@ -72,6 +72,8 @@ Imagine running two straight jailhouse blitzes and failing spectacularly on both
 
 Credit to Wentz for those sideline throws leading to touchdowns.
 
+Washington's defensive tackles have some serious pass rushing ability. Not much of a surprise too, considering that position group is led by Jonathan Allen.
+
 ***
 
 ## Chiefs @ Cardinals
