@@ -70,9 +70,11 @@ Good to see Burrow still as tough as ever, still willing to scramble with the ba
 
 Imagine running two straight jailhouse blitzes and failing spectacularly on both of them. Mike Caldwell and the Jaguars defense may be contenders for the worst defense in the league.
 
-Credit to Wentz for those sideline throws leading to touchdowns.
+Credit to Wentz for those sideline throws leading to touchdowns. Then again, Wentz threw some ugly picks and near-picks. Washington was lucky here.
 
 Washington's defensive tackles have some serious pass rushing ability. Not much of a surprise too, considering that position group is led by Jonathan Allen.
+
+On the other side, I really don't like Jacksonville's defensive front. It doesn't really get much pressure, even on blitz packages. Carson is way too comfortable sitting in the pocket.
 
 ***
 
