@@ -125,3 +125,9 @@ Despite losing last year's wild-card game in part due to penalties, it seems Dal
 Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. It's telling that the organization actually signed 40-year old veteran Jason Peters as late as they did. While Peters was fantastic in his prime, he's no longer that immovable object, as evidenced by his latest stint in Chicago. 
 
 CeeDee Lamb hasn't had much impact on this game. Tampa has done some good work keeping him bottled up.
+
+***
+
+## Packers @ Vikings
+
+The Vikings have a nascar package where Danielle Hunter and Za'Darius Smith line up as defensive tackles on third downs. Interesting concept being employed by Ed Donatell here. I don't think Zimmer had anything like this in his defensive playbook.
