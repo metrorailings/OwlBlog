@@ -111,3 +111,5 @@ Cowboys love their single-high safeties look. Dan Campbell didn't completely aba
 Brady is not as crisp as expected. Maybe age is slowly catching up?
 
 Leonard Fournette has been having a sensational night. It helps that this five-man Dallas defensive front has issues containing runs straight up the middle.
+
+Pretty clear that Brady is fostering a connection with Julio Jones. It's possible that Jones will be that replacement for Gronkowski that old man Brady will need.
