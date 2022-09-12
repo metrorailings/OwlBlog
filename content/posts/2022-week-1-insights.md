@@ -74,7 +74,9 @@ Credit to Wentz for those sideline throws leading to touchdowns. Then again, Wen
 
 Washington's defensive tackles have some serious pass rushing ability. Not much of a surprise too, considering that position group is led by Jonathan Allen.
 
-On the other side, I really don't like Jacksonville's defensive front. It doesn't really get much pressure, even on blitz packages. Carson is way too comfortable sitting in the pocket. On top of that, Washington found its groove running straight through the trenches in the fourth quarter.
+On the other side, I really don't like Jacksonville's defensive front. It doesn't really get much pressure, even on blitz packages. Carson is way too comfortable sitting in the pocket. 
+
+Washington's ground game found its groove running straight through the trenches in the fourth quarter. Jacksonville's overall conditioning is a point of concern.
 
 ***
 
