@@ -78,6 +78,8 @@ On the other side, I really don't like Jacksonville's defensive front. It doesn'
 
 Washington's ground game found its groove running straight through the trenches in the fourth quarter. Jacksonville's overall conditioning is a point of concern.
 
+Washington seems to run a good amount of standard nickel defense with four down linemen and two linebackers, similar to what Ron Rivera operated in Carolina. The secondary switches between zone or man coverage.
+
 ***
 
 ## Chiefs @ Cardinals
@@ -103,3 +105,5 @@ Daboll going for two points instead of one sends a message to the team. A strong
 ***
 
 ## Buccaneers @ Cowboys
+
+Cowboys love their single-high safeties look. Dan Campbell didn't completely abandon the cover-three scheme that he was raised under.
