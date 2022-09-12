@@ -99,3 +99,7 @@ Saquon Barkley is resurging into the tour de force he was in his rookie year. Am
 GIANTS WON?! Tennessee missed a last-second field goal to retake the lead from the Giants. Amazing.
 
 Daboll going for two points instead of one sends a message to the team. A strong message.
+
+***
+
+## Buccaneers @ Cowboys
