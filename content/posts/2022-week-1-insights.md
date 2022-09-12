@@ -117,3 +117,5 @@ Leonard Fournette has been having a sensational night. It helps that this five-m
 Pretty clear that Brady is fostering a connection with Julio Jones. It's possible that Jones will be that replacement for Gronkowski that old man Brady will need.
 
 Despite losing last year's wild-card game in part due to penalties, it seems Dallas hasn't really done much to clean up its penalty problem. Then again, it's only the first game. It'll be worth checking up again in four weeks.
+
+Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. 
