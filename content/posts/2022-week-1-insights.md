@@ -145,3 +145,5 @@ As expected, Aaron Rodgers is having some serious trouble producing anything in 
 Watching Moscow Mitch so far...not bad. Threw a couple quick curl routes to Deonte Johnson. Nothing beyond that. Timing routes alone won't get anything done in the passing game.
 
 Pittsburgh's defense wisely employing a good bit of cover-two to keep the Bengals from hitting on their signature deep passes.
+
+Just horrendous coaching from Zac Taylor. I feel no qualms about labelling him as a white-chip offensive mind.
