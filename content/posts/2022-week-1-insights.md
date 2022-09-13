@@ -142,4 +142,6 @@ As expected, Aaron Rodgers is having some serious trouble producing anything in 
 
 ## Steelers @ Bengals
 
-Watching Moscow Mitch so far...not bad. Threw a couple curl routes to Deonte Johnson.
+Watching Moscow Mitch so far...not bad. Threw a couple quick curl routes to Deonte Johnson.
+
+Pittsburgh's defense wisely employing a good bit of cover-two to keep the Bengals from hitting on their signature deep passes.
