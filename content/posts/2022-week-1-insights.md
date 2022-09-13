@@ -40,11 +40,11 @@ Ben Johnson smartly calling a running play on 2nd and long, knowing the Eagles a
 
 Jalen Hurts hasn't been doing much through the air so far...
 
-Things don't change much, do they? Jalen Hurts still has issues passing the ball and Jared Goff is as worthless as ever, despite Ben Johnson's efforts to try and craft a playbook better suited to his strengths. Both organizations are falling back on old habits to generate production - the ground game for Detroit and the read-option for Philadelphia. 
+Things don't change much, do they? Jalen Hurts still has issues passing the ball and Jared Goff is as worthless as ever, despite Ben Johnson's efforts to try and craft a playbook better suited to his strengths. Both organizations are falling back on old habits to generate production - the ground game for Detroit and the read-option for Philadelphia.
 
 Finally! A big throw to A.J. Brown in contested coverage. It's only been one half, but Brown's already passed the century mark in receiving yardage. Impressive.
 
-Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game. Then again, Philadelphia may have some real problems rushing the passer. 
+Kudo to the Lions offensive line for keeping Philadelphia's defensive front at bay for much of the game. Then again, Philadelphia may have some real problems rushing the passer.
 
 The Eagles defensive line seems way too eager to attack upfield, leaving them quite vulnerable to quarterback draws and screens. And their defensive line can't be afford to be anything less than elite, especially with the predictability of the coverage in the back.
 
@@ -68,7 +68,7 @@ The 49er defense's physicality is very evident on tape.
 
 From watching Red Zone, it seems like Ja'Marr Chase has been the only reliable weapon in the passing game for Cincy...
 
-Good to see Burrow still as tough as ever, still willing to scramble with the ball even after taking way too many sacks. 
+Good to see Burrow still as tough as ever, still willing to scramble with the ball even after taking way too many sacks.
 
 ***
 
@@ -80,7 +80,7 @@ Credit to Wentz for those sideline throws leading to touchdowns. Then again, Wen
 
 Washington's defensive tackles have some serious pass rushing ability. Not much of a surprise too, considering that position group is led by Jonathan Allen.
 
-On the other side, I really don't like Jacksonville's defensive front. It doesn't really get much pressure, even on blitz packages. Carson is way too comfortable sitting in the pocket. 
+On the other side, I really don't like Jacksonville's defensive front. It doesn't really get much pressure, even on blitz packages. Carson is way too comfortable sitting in the pocket.
 
 Washington's ground game found its groove running straight through the trenches in the fourth quarter. Jacksonville's overall conditioning is a point of concern.
 
@@ -94,7 +94,7 @@ Credit to Patrick Mahomes for finally demonstrating a consistent willingness to 
 
 The Cardinals are committed to man coverage, perhaps too much to their own detriment against a team known for its motioning and pick routes.
 
-Kyler picking up right where he left off, starting the game limp. He needs to do better. 
+Kyler picking up right where he left off, starting the game limp. He needs to do better.
 
 ***
 
@@ -102,7 +102,7 @@ Kyler picking up right where he left off, starting the game limp. He needs to do
 
 Jeffery Simmons once again dominating the line of scrimmage. Little doubt that Simmons is the best pass rusher on the Titans.
 
-Saquon Barkley is resurging into the tour de force he was in his rookie year. Amazing. On top of that, the myriad of new concepts loaded into the playbook is really refreshing - read-option plays, shovel passes, hard play-action, 
+Saquon Barkley is resurging into the tour de force he was in his rookie year. Amazing. On top of that, the myriad of new concepts loaded into the playbook is really refreshing - read-option plays, shovel passes, hard play-action,
 
 GIANTS WON?! Tennessee missed a last-second field goal to retake the lead from the Giants. Amazing.
 
@@ -122,7 +122,7 @@ Pretty clear that Brady is fostering a connection with Julio Jones. It's possibl
 
 Despite losing last year's wild-card game in part due to penalties, it seems Dallas hasn't really done much to clean up its penalty problem. Then again, it's only the first game. It'll be worth checking up again in four weeks.
 
-Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. It's telling that the organization actually signed 40-year old veteran Jason Peters as late as they did. While Peters was fantastic in his prime, he's no longer that immovable object, as evidenced by his latest stint in Chicago. 
+Dallas offensive line may be a bigger problem than initially thought. The Cowboys are keeping quite a few extra men in protection to keep the Buccaneers from breaking the pocket. On top of that, some of the linemen are just committed to racking up as many drive-killing penalties as they can. It's telling that the organization actually signed 40-year old veteran Jason Peters as late as they did. While Peters was fantastic in his prime, he's no longer that immovable object, as evidenced by his latest stint in Chicago.
 
 CeeDee Lamb hasn't had much impact on this game. Tampa has done some good work keeping him bottled up.
 
@@ -136,4 +136,10 @@ Minnesota has been fairly stout against Green Bay's runners early on. Let's see 
 
 Never mind....strong-side runs seem to be effective against Minnesota's defense.
 
-As expected, Aaron Rodgers is having some serious trouble producing anything in the passing game without Davonte Adams, Marquez Valdes-Scantling, and Allen Lazard. Too many passes are being thrown to his tailbacks, something I don't really remember seeing much from Rodgers before.  
+As expected, Aaron Rodgers is having some serious trouble producing anything in the passing game without Davonte Adams, Marquez Valdes-Scantling, and Allen Lazard. Too many passes are being thrown to his tailbacks, something I don't really remember seeing much from Rodgers before.
+
+***
+
+## Steelers @ Bengals
+
+Watching Moscow Mitch so far...not bad. Threw a couple curl routes to Deonte Johnson.
