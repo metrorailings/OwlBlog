@@ -138,18 +138,18 @@ I still haven't forgotten how Cooper Rush was able to lead the offense to a surp
 
 ##### _Streaks_
 
-Bengals - 1L  
-Cowboys - 1L
+Texans - 1W  
+Broncos - 1L
+
+Yes, I know Houston ended last week's game in a tie. That's a win for them, considering they were serious underdogs.
 
 ##### _Injuries_
 
 ##### _Weather_
 
-Some sun is expected. For some reason, Cowboys stadium can be a difficult place to throw when the sunlight is allowed to stream freely through the opening in the roof.
+A gorgeous day for some professional football
 
 ##### _History_
-
-These two teams last danced with one another a couple years ago, when their current head coaches were just starting out in their respective roles. It's also worth noting that neither of the quarterbacks that started in that game will be starting here, as are a good number of the key players. That being said, Dallas did thoroughly dominate that match.
 
 ***
 
