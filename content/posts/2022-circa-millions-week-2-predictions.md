@@ -85,7 +85,7 @@ Solid weather for football
 
 ##### _History_
 
-Despite the fact that Tomlin and Belichick have an established rivalry, neither of these two teams have met recently. In fact, things have changed considerably for both organizations since they last met - each club now features an offense led by new faces on the field and on the sidelines. 
+Despite the fact that Tomlin and Belichick have an established rivalry, neither of these two teams have met recently. In fact, things have changed considerably for both organizations since they last met - each club now features an offense led by new faces on the field and on the sidelines.
 
 That being said, defensive philosophies haven't shifted much, so these two teams have some familiarity there.
 
@@ -126,6 +126,6 @@ These two teams last danced with one another a couple years ago, when their curr
 
 ***
 
-It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses where Burrow and his weapons exploit best. 
+It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses where Burrow and his weapons exploit best.
 
-I still haven't forgotten how Cooper Rush was able to lead the offense to a surprise win over in Minnesota last year, but the 2021 Vikings had one of the worst defenses in the league, statistically speaking. The Bengals, on the other hand, have one of the best defenses in the league, led by blue-chip coach Lou Anarumo. So don't expect Cooper to experience as much success against the Bengals defenders compared to the Vikings of last season. Kellen Moore will likely try to incorporate some exotic concepts in his playbook to try and manufacture production, but these plays can only strike oil a few times before they lose value, as I expect Anarumo to quickly adjust to these new tricks Moore will try to leverage.     
+I still haven't forgotten how Cooper Rush was able to lead the offense to a surprise win over in Minnesota last year, but the 2021 Vikings had one of the worst defenses in the league, statistically speaking. The Bengals, on the other hand, have one of the best defenses in the league, led by blue-chip coach Lou Anarumo. So don't expect Cooper to experience that same level of success against this stingy Bengals defense. Kellen Moore will likely try to incorporate some exotic concepts in his playbook to try and manufacture production, but these plays can only strike oil a few times before they lose value, as I expect Anarumo will quickly adjust to these new tricks Moore will try to leverage.
