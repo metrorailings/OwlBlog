@@ -211,8 +211,12 @@ Typical autumn weather
 
 ##### _History_
 
-Tennessee hosted Buffalo last October in a primetime game. Oddly enough, the spread wasn't that far off the spread here - the Bills were favored by 6 points on the road.
+Tennessee hosted Buffalo last October in a primetime game. Oddly enough, the handicap last year wasn't that far off from the number here - the Bills were favored by 6 points on the road. Tennessee won that game thanks to a sensational performance by Henry as well as some clutch passes to A.J. Brown.
 
 ***
 
-### 
+### Bills -9.5
+
+***
+
+It's a heavy number, but Tennessee's offense is missing some horses from last year, namely A.J. Brown and Julio Jones. I'm not sure if Tannehill can sustain a passing game on the road by relying exclusively on rookie and sophomore receivers. Dontrel Hilliard will really need to break out here. Because if Tennessee is forced to rely exclusively on Derrick Henry and the ground game to generate production, things are likely to end ugly for them. Despite his gaudy numbers against the Bills last year, Henry was only really successful on a third of his runs. One would think Henry would have found more success running against Buffalo's smaller front seven, but McDermott's unit was able to control him for much of the game.  I expect only better things from the Bills given this is going to be their home opener.
