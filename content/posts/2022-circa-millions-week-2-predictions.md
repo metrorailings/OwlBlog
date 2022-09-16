@@ -95,7 +95,7 @@ That being said, defensive philosophies haven't shifted much, so these two teams
 
 ***
 
-My first impression is that New England should win this match comfortably, if only because unlike their opponents, the Patriots are functional on both sides of the ball. The same can't be said about the Steelers given the sorry state of their offense. I need to assess the tape, but I heard the offense was downright awful last week against the Bengals - the defense had to work two additional shifts just to eke out the win. I don't foresee things being much better this Sunday considering Trubisky's well-established as a failed passing prospect.
+My first impression is that New England should win this match comfortably, if only because unlike their opponents, the Patriots are functional on both sides of the ball. The same can't be said about the Steelers given the sorry state of their offense. I need to assess the tape, but I heard Pittsburgh's offense was downright awful last week against the Bengals - it was the defense working an overtime shift that carried the team to an unexpected win. I don't foresee things being much better offensively this Sunday either, considering Trubisky's is well-established as a failed passing prospect.
 
 But Pittsburgh also has some things in its favor. It's been reported that Mac Jones sustained some back pain from his outing against Miami last week. Even though he's expected to play, the Patriot offense might be forced to operate at only a fraction of its potential, especially considering Pittsburgh boasts a top-flight defense. I'll need to assess the injury report better before figuring out whether a pick can be made here.
 
@@ -162,3 +162,32 @@ Neither of these two organizations have faced one another recently. Nathanniel H
 Last week's limp showing against Seattle demonstrated that Denver is far from a finished product. They're bound to improve over the course of the season, especially once Hackett settles into his role as a first-time head coach. One week won't be enough to address all their woes, especially on offense.
 
 The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them, especially now that Jerry Hughes has fully embraced his role as the team's primary pass rusher. So ten points is way too much here for two teams much closer to one another than the public may think.
+
+***
+
+### Cardinals @ Raiders (-5.5)
+
+***
+
+##### _Streaks_
+
+Cardinals - 1L  
+Raiders - 1L
+
+##### _Injuries_
+
+##### _Weather_
+
+It's a dome affair.
+
+##### _History_
+
+Patrick Graham and Kliff Kingsbury did dance once together a couple years ago, when Graham was a first-year defensive coordinator with the Giants. It was an uphill battle for Graham's unit, considering Arizona's defense netted three turnovers and eight sacks against the Giants.
+
+***
+
+### Uncertain
+
+***
+
+I'm still not certain about this one. The Raiders showed some promise last week against the Chargers, but Derek Carr's poor play worries me. It is pretty obvious Kyler Murray is limited, especially when he's without some key weapons. But Carr's ceiling has always been uncertain - working under Jon Gruden did little to shed light there. I was counting on Josh McDaniels showing me whether Carr is cut out to lead a team to the promised land, so his performance last week has me worried. If he struggles to play in whatever system McDaniels is installing, covering tall spreads like 5.5 becomes significantly difficult.
