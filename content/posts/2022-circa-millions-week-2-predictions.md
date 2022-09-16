@@ -129,3 +129,34 @@ These two teams last danced with one another a couple years ago, when their curr
 It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses where Burrow and his weapons exploit best.
 
 I still haven't forgotten how Cooper Rush was able to lead the offense to a surprise win over in Minnesota last year, but the 2021 Vikings had one of the worst defenses in the league, statistically speaking. The Bengals, on the other hand, have one of the best defenses in the league, led by blue-chip coach Lou Anarumo. So don't expect Cooper to experience that same level of success against this stingy Bengals defense. Kellen Moore will likely try to incorporate some exotic concepts in his playbook to try and manufacture production, but these plays can only strike oil a few times before they lose value, as I expect Anarumo will quickly adjust to these new tricks Moore will try to leverage.
+
+***
+
+### Texans @ Broncos (-10)
+
+***
+
+##### _Streaks_
+
+Bengals - 1L  
+Cowboys - 1L
+
+##### _Injuries_
+
+##### _Weather_
+
+Some sun is expected. For some reason, Cowboys stadium can be a difficult place to throw when the sunlight is allowed to stream freely through the opening in the roof.
+
+##### _History_
+
+These two teams last danced with one another a couple years ago, when their current head coaches were just starting out in their respective roles. It's also worth noting that neither of the quarterbacks that started in that game will be starting here, as are a good number of the key players. That being said, Dallas did thoroughly dominate that match.
+
+***
+
+### Texans +10
+
+***
+
+Last week's limp showing against Seattle demonstrated that Denver is far from a finished product. They're bound to improve over the course of the season, especially once Hackett settles into his role as a first-time head coach. One week won't be enough to address all their woes, especially on offense.
+
+The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them. 
