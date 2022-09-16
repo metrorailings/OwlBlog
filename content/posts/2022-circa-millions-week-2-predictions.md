@@ -191,3 +191,28 @@ Patrick Graham and Kliff Kingsbury did dance once together a couple years ago, w
 ***
 
 I'm still not certain about this one. The Raiders showed some promise last week against the Chargers, but Derek Carr's poor play worries me. It is pretty obvious Kyler Murray is limited, especially when he's without some key weapons. But Carr's ceiling has always been uncertain - working under Jon Gruden did little to shed light there. I was counting on Josh McDaniels showing me whether Carr is cut out to lead a team to the promised land, so his performance last week has me worried. If he struggles to play in whatever system McDaniels is installing, covering tall spreads like 5.5 becomes significantly difficult.
+
+***
+
+### Titans @ Bills (-9.5)
+
+***
+
+##### _Streaks_
+
+Titans - 1L  
+Bills - 1W
+
+##### _Injuries_
+
+##### _Weather_
+
+Typical autumn weather
+
+##### _History_
+
+Tennessee hosted Buffalo last October in a primetime game. Oddly enough, the spread wasn't that far off the spread here - the Bills were favored by 6 points on the road.
+
+***
+
+### 
