@@ -13,3 +13,5 @@ Chiefs are still insisting on playing press man coverage, even against Mike Will
 Chargers pass coverage is not as conservative now that Tyreek Hill is no longer dressed in a Chiefs uniform. Surprised to see Los Angeles gamble with jailbreak blitzes. There was a time not so long ago teams would be afraid to throw any more than four pass rushers against Mahomes. Maybe that's not the case now that the Chiefs lost some of their explosiveness by trading away Hill to Miami.
 
 Mike Williams is something special, isn't he? A great one-handed catch with Les Sneed draped all over him in tight coverage.  More importantly, it seems the Chiefs are still insisting on trusting their defensive backs in lone coverage against Williams, even though Williams has been the one Charger weapon killing them on scoring drives.
+
+Impressively enough, the Chargers were able to pull off a goal-line stand against the Chiefs offense, preventing the Chiefs from punching the ball into the end zone on three consecutive downs. The last attempt was a shovel pass to Kelce that was blown up right away. 
