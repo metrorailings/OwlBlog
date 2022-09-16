@@ -35,7 +35,7 @@ Neither of these two teams have met recently. Robert Saleh and Kevin Stefansky h
 
 ***
 
-Hard to side with the Jets here, but six points is a little much for a team led by Jacoby Brissett. I don't think Cleveland's defensive coaching is going to spend much time strategizing against these Jets, especially with a divisional bout looming next Thursday. Now if Mike LaFleur can pull his head from his ass long enough to put forward a competent game plan, New York may end up surprising some folks here with an outright upset.
+Hard to side with the Jets here, but six points is a little much for a team led by the likes of Jacoby Brissett. I don't think Cleveland's defensive coaching is going to spend much time strategizing against these Jets either, considering the divisional bout against the Steelers looming next Thursday. Now if Mike LaFleur can pull his head from his ass long enough to put forward a competent game plan, New York may end up surprising some folks here with an outright upset.
 
 ***
 
@@ -56,13 +56,15 @@ Dome game
 
 ##### _History_
 
-These two clubs have met five times over the past two seasons. And if there's one thing that's been made increasingly evident with each passing game, it's that Dennis Allen and his coaches are damn near masterful reducing Brady and his offense to something pedestrian.
+These two clubs have met five times over the past two seasons. And if there's one thing that's been made increasingly evident with each passing game, it's that Dennis Allen and his coaches are damn near masterful rendering Brady and the Tampa offense gutless.
 
 ***
 
-### Uncertain
+### Saints +2.5
 
 ***
+
+Even without Sean Payton, the Saints don't need much motivation to bring their A-game against their divisional arch-rivals. So long as the will is there and Dennis Allen can still draft a masterful game plan for the defense in his new capacity as head coach, New Orleans should be able to rein in Tampa's offense, especially now that it's missing some critical playmakers from last year. So long as Jameis Winston doesn't cough up the ball more than once, the Saints should win.
 
 ### Team @ Team (-Spread)
 
