@@ -122,6 +122,10 @@ Cowboys - 1L
 
 ##### _Injuries_
 
+Bengals will likely see Tee Higgins return to the field after he practiced in full on Friday.
+
+Dallas is in a bit of shit shape now that Dak is expected to be sidelined for a month or two. Cooper Rush will be stepping up in replacement duty.
+
 ##### _Weather_
 
 Some sun is expected. For some reason, Cowboys stadium can be a difficult place to throw when the sunlight is allowed to stream freely through the opening in the roof.
