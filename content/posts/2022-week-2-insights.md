@@ -14,6 +14,8 @@ Chargers pass coverage is not as conservative now that Tyreek Hill is no longer 
 
 Mike Williams is something special, isn't he? A great one-handed catch with Les Sneed draped all over him in tight coverage.  More importantly, it seems the Chiefs are still insisting on trusting their defensive backs in lone coverage against Williams, even though Williams has been the one Charger weapon killing them on scoring drives.
 
-Impressively enough, the Chargers were able to pull off a goal-line stand against the Chiefs offense, preventing the Chiefs from punching the ball into the end zone on three consecutive downs. The last attempt was a shovel pass to Kelce that was blown up right away. 
+Impressively enough, the Chargers were able to pull off a goal-line stand against the Chiefs offense, preventing the Chiefs from punching the ball into the end zone on three consecutive downs. The last attempt was a shovel pass to Kelce that was blown up right away.
 
 Lack of conditioning is really starting to show for these Chargers. Gerald Everett getting winded led to Herbert throwing an inadvertent pick-six to the Kansas defense.
+
+The pressure has rattled Herbert. Chris Jones and the Chiefs with their blitz packages have managed to shake him up.
