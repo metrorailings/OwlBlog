@@ -151,6 +151,8 @@ A gorgeous day for some professional football
 
 ##### _History_
 
+Neither of these two organizations have faced one another recently. Nathanniel Hackett and Lovie Smith aren't too familiar with one another either. 
+
 ***
 
 ### Texans +10
