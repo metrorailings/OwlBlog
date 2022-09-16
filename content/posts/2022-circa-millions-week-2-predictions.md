@@ -95,9 +95,9 @@ That being said, defensive philosophies haven't shifted much, so these two teams
 
 ***
 
-My first impression is that New England should win this match comfortably. Unlike Pittsburgh, the Patriots are functional on both sides of the ball. The same can't be said about the Steelers given the simple state of their offense. I need to assess the tape, but I hear the offense was downright awful - the defense had to work two additional shifts just to pull out the win against the Bengals last week. I don't foresee things being much better considering Trubisky's history as a failed passing prospect.
+My first impression is that New England should win this match comfortably, if only because unlike their opponents, the Patriots are functional on both sides of the ball. The same can't be said about the Steelers given the sorry state of their offense. I need to assess the tape, but I heard the offense was downright awful last week against the Bengals - the defense had to work two additional shifts just to eke out the win. I don't foresee things being much better this Sunday considering Trubisky's well-established as a failed passing prospect.
 
-Then again, it's been reported that Mac Jones sustained some 
+But Pittsburgh also has some things in its favor. It's been reported that Mac Jones sustained some back pain from his outing against Miami last week. Even though he's expected to play, the Patriot offense might be forced to operate at only a fraction of its potential, especially considering Pittsburgh boasts a top-flight defense. I'll need to assess the injury report before figuring out whether a pick can be made here.
 
 ### Team @ Team (-Spread)
 
