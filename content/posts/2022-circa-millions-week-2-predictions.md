@@ -56,7 +56,7 @@ Dome game
 
 ##### _History_
 
-These two clubs have met five times over the past two seasons. And if there's one thing that's been made increasingly evident with each passing game, it's that Dennis Allen and his coaches are damn near masterful rendering Brady and the Tampa offense gutless.
+These two clubs have met five times over the past two seasons. And if there's one thing that's been made increasingly evident with each passing game, it's that Dennis Allen and his coaches are damn near masterful at rending Brady and the Tampa offense gutless.
 
 ***
 
@@ -64,7 +64,7 @@ These two clubs have met five times over the past two seasons. And if there's on
 
 ***
 
-Even without Sean Payton, the Saints don't need much motivation to bring their A-game against their divisional arch-rivals. So long as the collective will to win against their hated rivals is there and Dennis Allen can still draft a masterful game plan for the defense in his new capacity as head coach, New Orleans should be able to rein in Tampa's offense, especially now that it's missing some critical playmakers from last year. if Jameis Winston doesn't cough up the ball more than once, the Saints should win fairly comfortably.
+Even without Sean Payton, the Saints don't need much motivation to bring their A-game against their divisional arch-rivals. So long as the collective will to win against their hated rivals is there and Dennis Allen can still draft a masterful game plan for the defense in his new capacity as head coach, New Orleans should be able to rein in Tampa's offense, especially now that the latter's missing some critical playmakers from last year. if Jameis Winston doesn't cough up the ball more than once, the Saints should win fairly comfortably.
 
 ***
 
@@ -97,20 +97,35 @@ That being said, defensive philosophies haven't shifted much, so these two teams
 
 My first impression is that New England should win this match comfortably, if only because unlike their opponents, the Patriots are functional on both sides of the ball. The same can't be said about the Steelers given the sorry state of their offense. I need to assess the tape, but I heard the offense was downright awful last week against the Bengals - the defense had to work two additional shifts just to eke out the win. I don't foresee things being much better this Sunday considering Trubisky's well-established as a failed passing prospect.
 
-But Pittsburgh also has some things in its favor. It's been reported that Mac Jones sustained some back pain from his outing against Miami last week. Even though he's expected to play, the Patriot offense might be forced to operate at only a fraction of its potential, especially considering Pittsburgh boasts a top-flight defense. I'll need to assess the injury report before figuring out whether a pick can be made here.
+But Pittsburgh also has some things in its favor. It's been reported that Mac Jones sustained some back pain from his outing against Miami last week. Even though he's expected to play, the Patriot offense might be forced to operate at only a fraction of its potential, especially considering Pittsburgh boasts a top-flight defense. I'll need to assess the injury report better before figuring out whether a pick can be made here.
 
-### Team @ Team (-Spread)
+***
+
+### Bengals @ Cowboys (+7)
 
 ***
 
 ##### _Streaks_
 
+Bengals - 1L  
+Cowboys - 1L
+
 ##### _Injuries_
 
 ##### _Weather_
 
+Some sun is expected. For some reason, Cowboys stadium can be a difficult place to throw when the sunlight is allowed to stream freely through the opening in the roof.
+
 ##### _History_
+
+These two teams last danced with one another a couple years ago, when their current head coaches were just starting out in their respective roles. It's also worth noting that neither of the quarterbacks that started in that game will be starting here, as are a good number of the key players. That being said, Dallas did thoroughly dominate that match.
 
 ***
 
-### Uncertain
+### Bengals -7
+
+***
+
+It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses where Burrow and his weapons exploit best. 
+
+I still haven't forgotten how Cooper Rush was able to lead the offense to a surprise win over in Minnesota last year, but the 2021 Vikings had one of the worst defenses in the league, statistically speaking. The Bengals, on the other hand, have one of the best defenses in the league, led by blue-chip coach Lou Anarumo. So don't expect Cooper to experience as much success against the Bengals defenders compared to the Vikings of last season. Kellen Moore will likely try to incorporate some exotic concepts in his playbook to try and manufacture production, but these plays can only strike oil a few times before they lose value, as I expect Anarumo to quickly adjust to these new tricks Moore will try to leverage.     
