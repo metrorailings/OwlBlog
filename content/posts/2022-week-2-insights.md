@@ -16,4 +16,4 @@ Mike Williams is something special, isn't he? A great one-handed catch with Les 
 
 Impressively enough, the Chargers were able to pull off a goal-line stand against the Chiefs offense, preventing the Chiefs from punching the ball into the end zone on three consecutive downs. The last attempt was a shovel pass to Kelce that was blown up right away. 
 
-Lack of conditioning is really starting to show for these Chargers. A tired Gerald Everett ended up leading Herbert to throwing an inadvertent pick-six to the Kansas defense.
+Lack of conditioning is really starting to show for these Chargers. Gerald Everett getting winded led to Herbert throwing an inadvertent pick-six to the Kansas defense.
