@@ -54,6 +54,10 @@ Saints - 1W
 
 ##### _Injuries_
 
+Brady will be without tackle Donovan Smith and his favorite receiver in Chris Godwin. Not good. All the other players are expected to show though.
+
+Saints are dealing with some injury concerns of their own, the biggest one being Alvin Kamara, who didn't practice for much of the week. Jameis Winston is dealing with some back issues as well, though it doesn't seem as serious as what Mac Jones is going through. 
+
 ##### _Weather_
 
 Dome game
