@@ -64,7 +64,7 @@ These two clubs have met five times over the past two seasons. And if there's on
 
 ***
 
-Even without Sean Payton, the Saints don't need much motivation to bring their A-game against their divisional arch-rivals. So long as the will is there and Dennis Allen can still draft a masterful game plan for the defense in his new capacity as head coach, New Orleans should be able to rein in Tampa's offense, especially now that it's missing some critical playmakers from last year. So long as Jameis Winston doesn't cough up the ball more than once, the Saints should win.
+Even without Sean Payton, the Saints don't need much motivation to bring their A-game against their divisional arch-rivals. So long as the collective will to win against their hated rivals is there and Dennis Allen can still draft a masterful game plan for the defense in his new capacity as head coach, New Orleans should be able to rein in Tampa's offense, especially now that it's missing some critical playmakers from last year. if Jameis Winston doesn't cough up the ball more than once, the Saints should win fairly comfortably.
 
 ***
 
@@ -85,7 +85,9 @@ Solid weather for football
 
 ##### _History_
 
-Despite the fact that Tomlin and Belichick have an established rivalry, neither of these two teams have met recently. In fact, things have changed considerably for both organizations since they last met - both teams have offenses led by faces new to each club.
+Despite the fact that Tomlin and Belichick have an established rivalry, neither of these two teams have met recently. In fact, things have changed considerably for both organizations since they last met - each club now features an offense led by new faces on the field and on the sidelines. 
+
+That being said, defensive philosophies haven't shifted much, so these two teams have some familiarity there.
 
 ***
 
