@@ -35,11 +35,36 @@ Neither of these two teams have met recently. Robert Saleh and Kevin Stefansky h
 
 ***
 
-Hard to side with the Jets here, but six points is a little much for a team led by Jacoby Brissett. I don't think Cleveland's defensive coaching is going to spend much time planning against the Jets, especially with a divisional bout against the Steelers looming next Thursday. Now if Mike LaFleur can pull his head from his ass long enough to put forward a competent game plan, New York may end up surprising some folks here with an outright upset. 
+Hard to side with the Jets here, but six points is a little much for a team led by Jacoby Brissett. I don't think Cleveland's defensive coaching is going to spend much time strategizing against these Jets, especially with a divisional bout looming next Thursday. Now if Mike LaFleur can pull his head from his ass long enough to put forward a competent game plan, New York may end up surprising some folks here with an outright upset. 
 
 ***
 
-### Jets @ Browns (-6)
+### Buccaneers @ Saints (+2.5)
+
+***
+
+##### _Streaks_
+
+Buccaneers - 1W  
+Saints - 1W
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+These two clubs have met five times over the past five seasons. The one thing that's evident is that the Saints defensive coaches know how to render Tom Brady and the offense impotent. In fact, Dennis Allen's unit seems to perform better with each successive game. 
+
+***
+
+### Uncertain
+
+***
+
+### Team @ Team (-Spread)
 
 ***
 
