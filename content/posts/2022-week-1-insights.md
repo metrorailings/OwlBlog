@@ -146,3 +146,17 @@ Watching Moscow Mitch so far...not bad. Threw a couple quick curl routes to Deon
 Pittsburgh's defense wisely employing a good bit of cover-two to keep the Bengals from hitting on their signature deep passes.
 
 Just horrendous coaching from Zac Taylor. I feel no qualms about labelling him as a white-chip offensive mind.
+
+***
+
+## Colts @ Texans
+
+Credit to Houston's defense - their excitement shows on tape.
+
+Jerry Hughes seems to have found new life as the premiere pass rusher on Houston. His play so far has impressed me.
+
+Indianapolis fielding 8 men in the box much more now that Gus Bradley is the defensive coordinator. Bradley has been one of the most faithful devotees to Pete Carroll's cover-three scheme and that faith hasn't wavered much despite having lost his job with the Raiders last year. Expect that predictability to bite them in the ass hard at least a few times this year.
+
+Texans flaring out four receivers more often than not pre-snap. Maybe Pep Hamilton's now embraced air raid principles in his offense...
+
+Davis Mills has been up and down.
