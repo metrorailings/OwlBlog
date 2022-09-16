@@ -159,4 +159,4 @@ These two teams last danced with one another a couple years ago, when their curr
 
 Last week's limp showing against Seattle demonstrated that Denver is far from a finished product. They're bound to improve over the course of the season, especially once Hackett settles into his role as a first-time head coach. One week won't be enough to address all their woes, especially on offense.
 
-The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them. 
+The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them, especially now that Jerry Hughes has fully embraced his role as the team's primary pass rusher. So ten points is way too much here for two teams much closer to one another than the public may think.
