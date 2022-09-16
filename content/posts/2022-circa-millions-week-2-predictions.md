@@ -79,6 +79,8 @@ Steelers - 1W
 
 ##### _Injuries_
 
+The Steelers will be without their best player on defense for the next several weeks. But the Patriots have some concerns with Mac Jones - even though Jones wasn't tagged with any sort of injury designation this Friday, back injuries don't really go away so quickly. So it remains to be seen whether his back is still an issue heading into this match-up.
+
 ##### _Weather_
 
 Solid weather for football
