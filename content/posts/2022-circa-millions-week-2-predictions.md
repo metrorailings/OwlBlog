@@ -21,6 +21,10 @@ Browns - 1W
 
 ##### _Injuries_
 
+Obviously, Zack Wilson remains out as he recovers from a knee issue. The bigger loss here is C.J. Uzomah - without Uzomah, Flacco doesn't have a reliable tight end option in the passing game.
+
+The Browns are mostly healthy, although their two starting tackles are dealing with some afflictions. One has already been ruled out while the other is trending towards playing.
+
 ##### _Weather_
 
 Great weather
