@@ -10,4 +10,4 @@ Now that Keenan Allen is on the mend, it's pretty clear Herbert is relying on Jo
 
 Chiefs are still insisting on playing press man coverage, even against Mike Williams. Very risky.
 
-Chargers pass coverage is not as conservative now that Tyreek Hill is no longer dressed in a Chiefs uniform. Surprised to see Los Angeles gamble with jailbreak blitzes.
+Chargers pass coverage is not as conservative now that Tyreek Hill is no longer dressed in a Chiefs uniform. Surprised to see Los Angeles gamble with jailbreak blitzes. There was a time not so long ago teams would be afraid to throw any more than four pass rushers against Mahomes. Maybe that's not the case now that the Chiefs lost some of their explosiveness by trading away Hill to Miami.
