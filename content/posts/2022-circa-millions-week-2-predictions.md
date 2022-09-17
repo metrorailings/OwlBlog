@@ -167,17 +167,19 @@ A gorgeous day for some professional football
 
 ##### _History_
 
-Neither of these two organizations have faced one another recently. Nathanniel Hackett and Lovie Smith aren't too familiar with one another either. 
+Neither of these two organizations have faced one another recently. Nathanniel Hackett and Lovie Smith aren't too familiar with one another either. That being said, Lovie Smith did match up against Russell Wilson last year when the latter was still in Seattle.  Let's just say Russ looked like a Michelin chef playing against Lovie's defense.
 
 ***
 
-### Texans +10
+### Uncertain
 
 ***
 
 Last week's limp showing against Seattle demonstrated that Denver is far from a finished product. They're bound to improve over the course of the season, especially once Hackett settles into his role as a first-time head coach. One week won't be enough to address all their woes, especially on offense.
 
-The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them, especially now that Jerry Hughes has fully embraced his role as the team's primary pass rusher. So ten points is way too much here for two teams much closer to one another than the public may think.
+The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them, especially now that Jerry Hughes has fully embraced his role as the team's primary pass rusher.
+
+That being said, Houston has serious issues defending the running game dating back to last year, when Lovie Smith was the defensive coordinator. Seattle came down to Houston and ripped these Texans a new one on the ground, racking up nearly 200 yards rushing. While I don't expect Denver to fix all the structural issues dogging their offense, it can certain pound the ball over ground against Houston. So it's possible the Texans could let the cover slip here depending on whether Denver opts to play a simpler brand of football after embarrassing itself last Monday. 
 
 ***
 
