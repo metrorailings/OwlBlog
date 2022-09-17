@@ -179,7 +179,38 @@ Last week's limp showing against Seattle demonstrated that Denver is far from a 
 
 The reality is that Houston isn't as bad as the market may have pegged them. Davis Mills is actually one of the more serviceable quarterbacks in the league. On top of that, the defense has some feistiness in them, especially now that Jerry Hughes has fully embraced his role as the team's primary pass rusher.
 
-That being said, Houston has serious issues defending the running game dating back to last year, when Lovie Smith was the defensive coordinator. Seattle came down to Houston and ripped these Texans a new one on the ground, racking up nearly 200 yards rushing. While I don't expect Denver to fix all the structural issues dogging their offense, it can certain pound the ball over ground against Houston. So it's possible the Texans could let the cover slip here depending on whether Denver opts to play a simpler brand of football after embarrassing itself last Monday. 
+That being said, Houston has serious issues defending the running game dating back to last year, when Lovie Smith was the defensive coordinator. Seattle came down to Houston and ripped these Texans a new one on the ground, racking up nearly 200 yards rushing. While I don't expect Denver to fix all the structural issues dogging their offense, it can certain pound the ball over ground against Houston. So it's possible the Texans could let the cover slip here depending on whether Denver opts to play a simpler brand of football after embarrassing itself last Monday.
+
+***
+
+### Seahawks @ 49ers (-8.5)
+
+***
+
+##### _Streaks_
+
+Seahawks - 1W  
+49ers - 1L
+
+##### _Injuries_
+
+George Kittle remains iffy to play for the 49ers. Other than that, no real injury worthy of note for either team.
+
+##### _Weather_
+
+Cloudy, temperate weather.
+
+##### _History_
+
+The Seahawks seem to have the 49ers number. In both of their games last year, the 49ers were marked as slim favorites. Both times, Seattle came out as the decisive victor. It looks to me that Pete Carroll has a beat on some of Kyle Shanahan's tendencies on offense. 
+
+***
+
+### Seahawks +8.5
+
+***
+
+Why? How is a team led by Trey Lance considered huge favorites here? I understand the 49ers are a stacked team outside the quarterback position, but they were just as stacked last year and Seattle still managed to sweep them. I suppose one could make the argument that the Seahawk offense has taken a step backward with Geno Smith at the helm instead of DangeRuss...but I'd argue the gap between Geno and Russ isn't as wide as mainstream thinking would suggest. In fact, I'd argue the gap between those two pales in comparison to the chasm between Trey Lance and Jimmy G. So give me the team that has always fared well against San Francisco as of recently. 8.5 points is way too many points to give out.  
 
 ***
 
