@@ -159,6 +159,8 @@ Yes, I know Houston ended last week's game in a tie. That's a win for them, cons
 
 ##### _Injuries_
 
+Neither team has truly significant injuries, though the Broncos will be down a receiver in KJ Hemler.
+
 ##### _Weather_
 
 A gorgeous day for some professional football
