@@ -229,6 +229,8 @@ Bills - 1W
 
 Dontrell Hilliard is at risk of not playing next Monday given his practice attendance. A big blow to a Titans offense desperately looking for personnel to facilitate a passing game.
 
+Buffalo might be missing the services of Ed Oliver, their chief run stopper.
+
 ##### _Weather_
 
 Typical autumn weather
