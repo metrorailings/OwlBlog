@@ -21,3 +21,7 @@ Lack of conditioning is really starting to show for these Chargers. Gerald Evere
 The pressure has rattled Herbert. Chris Jones and the Chiefs with their blitz packages have managed to shake him up.
 
 Herbert throwing an absolute dime despite the internal bleeding. The man has heart.
+
+***
+
+## Panthers @ Giants
