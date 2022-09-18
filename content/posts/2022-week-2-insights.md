@@ -92,6 +92,10 @@ Yes, I think Cowboys are playing quite a bit of two-safety coverage against Joe 
 
 Cincinnati's blocking and protection schemes may be the worst in the league. Kudos to Dan Quinn for recognizing that and attacking the Bengals front accordingly.
 
+Ezekiel Elliott is very effective running outside the line.
+
+Good use of the hurry-up offense to change up pace.
+
 ***
 
 ## Seahawks @ 49ers
