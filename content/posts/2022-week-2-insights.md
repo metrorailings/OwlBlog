@@ -32,7 +32,7 @@ Daniel Jones stat line the first quarter and a half have been pathetic. No deep 
 
 How is Richie James the best receiver on offense? James is a cast-off from the 49ers too. Just...odd. Where's Sterling Shepard? Kenny Golladay? Darius Slayton?
 
-Both offenses came out with touchdowns on their opening drives in the second half. Seems to me that some of their plays may have been scripted (like the hard play action from Baker or the beautifully orchestrated half bootleg from Daniel Jones. 
+Both offenses came out with touchdowns on their opening drives in the second half. Seems to me that some of their plays may have been scripted (like the hard play action from Baker or the beautifully orchestrated half bootleg from Daniel Jones).
 
 ***
 
