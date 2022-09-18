@@ -88,8 +88,16 @@ I think Devin White is cementing himself again as an elite pass rusher. Should S
 
 Are the Cowboys playing more cover two against Cincinnati now that Pittsburgh experienced so much success playing that style of football against them? If so, kudos to Dan Quinn for adjusting.
 
+Yes, I think Cowboys are playing quite a bit of two-safety coverage against Joe Burrow and company. This is not going to be an easy game to win.
+
+Cincinnati's blocking and protection schemes may be the worst in the league. Kudos to Dan Quinn for recognizing that and attacking the Bengals front accordingly.
+
 ***
 
 ## Seahawks @ 49ers
 
 Well, Trey Lance getting his ankle broken doesn't help Seattle much, does it? You'd rather have Trey Lance in there than Jimmy Garoppalo. Now Kyle Shanahan is free to run the style of offense he prefers.
+
+A trick play out of the wishbone was just so poorly executed by Seattle. Ended in the easiest interception I've seen in a long time.
+
+Poor tackling by the Seahawks. 
