@@ -44,6 +44,8 @@ D'Andre Swift and the Lions ground game may be one of the surprise stories of th
 
 Ben Johnson seems to have incorporated quite a few crossing routes in the playbook, to Jared Goff's benefit. Goff loves throwing those crossers.
 
+Hard for me to say this....but Detroit may actually be a good team.
+
 ***
 
 ## Dolphins @ Ravens
