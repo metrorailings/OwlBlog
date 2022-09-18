@@ -36,6 +36,10 @@ Both offenses came out with touchdowns on their opening drives in the second hal
 
 It's confirmed. Now both teams have resorted back to rushing plays and their usual staples to move the ball.
 
+Giants loves running the ball between the tackles in zone fashion. Unfortunately, it doesn't work well against teams with stout fronts. I wish New York would opt to run outside the tackles.
+
+Keep in mind the Giants defensive personnel are playing out there without Azeez Ojulari and Kayvon Thibadeaux. Leonard Williams has also been absent for the second half due to a knee injury.
+
 ***
 
 ## Jets @ Browns
