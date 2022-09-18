@@ -107,3 +107,11 @@ Well, Trey Lance getting his ankle broken doesn't help Seattle much, does it? Yo
 A trick play out of the wishbone was just so poorly executed by Seattle. Ended in the easiest interception I've seen in a long time.
 
 Poor tackling by the Seahawks. 
+
+***
+
+## Cardinals @ Raiders
+
+Kliff Kingsbury and Kyler Murray are trying to stage a comeback here and are yards away from tying up the game at the end. It's clear as day Murray's looking to throw the ball short to a receiver just as one breaks the plane. Somehow, the Raiders are not doing that. The Raiders are content playing a preventative style of defense and dropping men deep in the end zone.
+
+No signs of aggression too. Patrick Graham is all too happy just sending four men after Murray, even though it's clearly not working. 
