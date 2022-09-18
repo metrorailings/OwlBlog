@@ -68,6 +68,8 @@ Rashod Bateman finally stepping up as a deep threat for the Ravens. Very much ne
 
 Justin Houston might be a resurgent force here for the Ravens pass rush.
 
+Baltimore let up 21 points in the last quarter, snatching defeat from the jaws of victory. Just....wow.
+
 ***
 
 ## Buccaneers @ Saints
