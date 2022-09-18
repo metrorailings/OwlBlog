@@ -87,3 +87,9 @@ I think Devin White is cementing himself again as an elite pass rusher. Should S
 ## Bengals @ Cowboys
 
 Are the Cowboys playing more cover two against Cincinnati now that Pittsburgh experienced so much success playing that style of football against them? If so, kudos to Dan Quinn for adjusting.
+
+***
+
+## Seahawks @ 49ers
+
+Well, Trey Lance getting his ankle broken doesn't help Seattle much, does it? You'd rather have Trey Lance in there than Jimmy Garoppalo. Now Kyle Shanahan is free to run the style of offense he prefers.
