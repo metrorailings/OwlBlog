@@ -88,7 +88,7 @@ I think Devin White is cementing himself again as an elite pass rusher. Should S
 
 Are the Cowboys playing more cover two against Cincinnati now that Pittsburgh experienced so much success playing that style of football against them? If so, kudos to Dan Quinn for adjusting.
 
-Yes, I think Cowboys are playing quite a bit of two-safety coverage against Joe Burrow and company. This is not going to be an easy game to win.
+Yes, I think Cowboys are playing quite a bit of two-safety coverage against Joe Burrow and company. This is not going to be an easy game to win for Burrow. Quinn has proven himself capable of adapting his plan according to opponent.
 
 Cincinnati's blocking and protection schemes may be the worst in the league. Kudos to Dan Quinn for recognizing that and attacking the Bengals front accordingly.
 
