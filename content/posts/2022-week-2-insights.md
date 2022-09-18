@@ -34,6 +34,8 @@ How is Richie James the best receiver on offense? James is a cast-off from the 4
 
 Both offenses came out with touchdowns on their opening drives in the second half. Seems to me that some of their plays may have been scripted (like the hard play action from Baker or the beautifully orchestrated half bootleg from Daniel Jones).
 
+It's confirmed. Now both teams have resorted back to rushing plays and their usual staples to move the ball.
+
 ***
 
 ## Jets @ Browns
