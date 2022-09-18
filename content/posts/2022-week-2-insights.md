@@ -28,6 +28,8 @@ Herbert throwing an absolute dime despite the internal bleeding. The man has hea
 
 Daniel Jones isn't looking too comfortable in this Daboll offense. Hopefully, things change as they did for Josh Allen, but such shifts usually take months.
 
+Daniel Jones stat line the first quarter and a half have been pathetic. No deep passes.
+
 ***
 
 ## Jets @ Browns
