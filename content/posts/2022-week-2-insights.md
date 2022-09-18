@@ -39,3 +39,9 @@ Chubb still a tour de force for Cleveland.
 ## Commanders @ Lions
 
 D'Andre Swift and the Lions ground game may be one of the surprise stories of the season.
+
+***
+
+## Dolphins @ Ravens
+
+Greg Roman incorporating wishbone formations and pre-snap motion into his running packages. Impressive.
