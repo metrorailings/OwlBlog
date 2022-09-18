@@ -74,4 +74,6 @@ I suspect Jameis may be predetermining some of his throws.
 
 Jameis playing with fractures in his back. I wish I knew this before taking the Saints in the contest. I would have gone with the Jets or Texans then. He was present on the injury report with back issues, but who the hell suspected it'd be something as serious as fractures?!
 
-Brady has been absolutely stymied save for one solid drive in the second half. Disappointing
+Brady has been absolutely stymied save for one solid drive in the second half. Disappointing to see the Saints losing despite such a sensational performance from their defense.
+
+I think Devin White is cementing himself again as an elite pass rusher. Should Shaq Barrett also return to elite form, Tampa Bay will be complete in defense.
