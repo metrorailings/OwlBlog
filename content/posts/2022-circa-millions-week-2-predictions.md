@@ -55,7 +55,7 @@ Saints - 1W
 
 Brady will be without tackle Donovan Smith and his favorite receiver in Chris Godwin. Not good. All the other players are expected to show though.
 
-Saints are dealing with some injury concerns of their own, the biggest one being Alvin Kamara, who didn't practice for much of the week. Jameis Winston is dealing with some back issues as well, though it doesn't seem as serious as what Mac Jones is going through. 
+Saints are dealing with some injury concerns of their own, the biggest one being Alvin Kamara, who didn't practice for much of the week. Jameis Winston is dealing with some back issues as well, though it doesn't seem as serious as what Mac Jones is going through.
 
 ##### _Weather_
 
@@ -139,7 +139,7 @@ These two teams last danced with one another a couple years ago, when their curr
 
 ***
 
-It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses where Burrow and his weapons exploit best.
+It's always a little risky siding with a road favorite so heavily favored by the book, but Joe Burrow can make some serious hay against Dallas defense so long as Dan Quinn insists on keeping only a single safety in the backfield. These are the types of defenses that Burrow and his weapons exploit best.
 
 I still haven't forgotten how Cooper Rush was able to lead the offense to a surprise win over in Minnesota last year, but the 2021 Vikings had one of the worst defenses in the league, statistically speaking. The Bengals, on the other hand, have one of the best defenses in the league, led by blue-chip coach Lou Anarumo. So don't expect Cooper to experience that same level of success against this stingy Bengals defense. Kellen Moore will likely try to incorporate some exotic concepts in his playbook to try and manufacture production, but these plays can only strike oil a few times before they lose value, as I expect Anarumo will quickly adjust to these new tricks Moore will try to leverage.
 
@@ -201,7 +201,7 @@ Cloudy, temperate weather.
 
 ##### _History_
 
-The Seahawks seem to have the 49ers number. In both of their games last year, the 49ers were marked as slim favorites. Both times, Seattle came out as the decisive victor. It looks to me that Pete Carroll has a beat on some of Kyle Shanahan's tendencies on offense. 
+The Seahawks seem to have the 49ers number. In both of their games last year, the 49ers were marked as slim favorites. Both times, Seattle came out as the decisive victor. It looks to me that Pete Carroll has a beat on some of Kyle Shanahan's tendencies on offense.
 
 ***
 
@@ -209,7 +209,7 @@ The Seahawks seem to have the 49ers number. In both of their games last year, th
 
 ***
 
-Why? How is a team led by Trey Lance considered huge favorites here? I understand the 49ers are a stacked team outside the quarterback position, but they were just as stacked last year and Seattle still managed to sweep them. I suppose one could make the argument that the Seahawk offense has taken a step backward with Geno Smith at the helm instead of DangeRuss...but I'd argue the gap between Geno and Russ isn't as wide as mainstream thinking would suggest. In fact, I'd argue the gap between those two pales in comparison to the chasm between Trey Lance and Jimmy G. So give me the team that has always fared well against San Francisco as of recently. 8.5 points is way too many points to give out.  
+Why? How is a team led by Trey Lance considered huge favorites here? I understand the 49ers are a stacked team outside the quarterback position, but they were just as stacked last year and Seattle still managed to sweep them. I suppose one could make the argument that the Seahawk offense has taken a step backward with Geno Smith at the helm instead of DangeRuss...but I'd argue the gap between Geno and Russ isn't as wide as mainstream thinking would suggest. In fact, I'd argue the gap between those two pales in comparison to the chasm between Trey Lance and Jimmy G. So give me the team that has always fared well against San Francisco as of recently. 8.5 points is way too many points to give out.
 
 ***
 
@@ -244,7 +244,7 @@ Patrick Graham and Kliff Kingsbury did dance once together a couple years ago, w
 
 I'm still not certain about this one. The Raiders showed some promise last week against the Chargers, but Derek Carr's poor play worries me. It is pretty obvious Kyler Murray is limited, especially when he's without some key weapons. But Carr's ceiling has always been uncertain - working under Jon Gruden did little to shed light there. I was counting on Josh McDaniels showing me whether Carr is cut out to lead a team to the promised land, so his performance last week has me worried. If he struggles to play in whatever system McDaniels is installing, covering tall spreads like 5.5 becomes significantly difficult.
 
-That being said, it does help tremendously that the Cardinals are down so many of their weapons that they're resorting to relatively unknown players to carry the day in the air game. It also helps that Vance Joseph and his coaching staff has decided blitzing is the best way now to try and manufacture pressure on the quarterback. Blitzing recklessly is a silly exercise when contending against the better quarterbacks in the league. Carr should have enough experience to read blitzes and punish the defense accordingly, but he needs to show me he can do so while operating in this new Josh McDaniels offense. 
+That being said, it does help tremendously that the Cardinals are down so many of their weapons that they're resorting to relatively unknown players to carry the day in the air game. It also helps that Vance Joseph and his coaching staff has decided blitzing is the best way now to try and manufacture pressure on the quarterback. Blitzing recklessly is a silly exercise when contending against the better quarterbacks in the league. Carr should have enough experience to read blitzes and punish the defense accordingly, but he needs to show me he can do so while operating in this new Josh McDaniels offense.
 
 ***
 
