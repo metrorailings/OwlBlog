@@ -46,6 +46,8 @@ Keep in mind the Giants defensive personnel are playing out there without Azeez 
 
 Chubb still a tour de force for Cleveland.
 
+Cleveland's prevent defense is among the worst in the league. Flacco is having a ball just making hay against their prevent defense.
+
 ***
 
 ## Commanders @ Lions
