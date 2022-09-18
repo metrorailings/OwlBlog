@@ -96,6 +96,8 @@ Ezekiel Elliott is very effective running outside the line.
 
 Good use of the hurry-up offense to change up pace.
 
+1st and 5 begging for play-action and Zac Taylor opts to run the ball instead. Asswipe.
+
 ***
 
 ## Seahawks @ 49ers
