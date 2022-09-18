@@ -30,6 +30,8 @@ Daniel Jones isn't looking too comfortable in this Daboll offense. Hopefully, th
 
 Daniel Jones stat line the first quarter and a half have been pathetic. No deep passes.
 
+How is Richie James the best receiver on offense? James is a cast-off from the 49ers too. Just...odd. Where's Sterling Shepard? Kenny Golladay? Darius Slayton?
+
 ***
 
 ## Jets @ Browns
