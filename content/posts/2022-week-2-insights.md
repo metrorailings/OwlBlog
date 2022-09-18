@@ -25,3 +25,17 @@ Herbert throwing an absolute dime despite the internal bleeding. The man has hea
 ***
 
 ## Panthers @ Giants
+
+Daniel Jones isn't looking too comfortable in this Daboll offense. Hopefully, things change as they did for Josh Allen, but such shifts usually take months.
+
+***
+
+## Jets @ Browns
+
+Chubb still a tour de force for Cleveland.
+
+***
+
+## Commanders @ Lions
+
+D'Andre Swift and the Lions ground game may be one of the surprise stories of the season.
