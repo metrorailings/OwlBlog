@@ -47,3 +47,9 @@ D'Andre Swift and the Lions ground game may be one of the surprise stories of th
 ## Dolphins @ Ravens
 
 Greg Roman incorporating wishbone formations and pre-snap motion into his running packages. Impressive.
+
+***
+
+## Buccaneers @ Saints
+
+I suspect Jameis may be predetermining some of his throws.
