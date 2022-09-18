@@ -48,6 +48,8 @@ D'Andre Swift and the Lions ground game may be one of the surprise stories of th
 
 Greg Roman incorporating wishbone formations and pre-snap motion into his running packages. Impressive.
 
+Rashod Bateman finally stepping up as a deep threat for the Ravens. Very much needed too, considering their lack of weaponry.
+
 ***
 
 ## Buccaneers @ Saints
