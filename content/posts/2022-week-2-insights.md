@@ -42,6 +42,8 @@ Chubb still a tour de force for Cleveland.
 
 D'Andre Swift and the Lions ground game may be one of the surprise stories of the season.
 
+Ben Johnson seems to have incorporated quite a few crossing routes in the playbook, to Jared Goff's benefit. Goff loves throwing those crossers.
+
 ***
 
 ## Dolphins @ Ravens
