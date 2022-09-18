@@ -71,3 +71,5 @@ Justin Houston might be a resurgent force here for the Ravens pass rush.
 ## Buccaneers @ Saints
 
 I suspect Jameis may be predetermining some of his throws.
+
+Jameis playing with fractures in his back. I wish I knew this before taking the Saints in the contest. I would have gone with the Jets or Texans then. Lame.
