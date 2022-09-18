@@ -81,3 +81,9 @@ Jameis playing with fractures in his back. I wish I knew this before taking the 
 Brady has been absolutely stymied save for one solid drive in the second half. Disappointing to see the Saints losing despite such a sensational performance from their defense.
 
 I think Devin White is cementing himself again as an elite pass rusher. Should Shaq Barrett also return to elite form or Vita Vea finally break out as a pass rusher, Tampa Bay will be complete in defense.
+
+***
+
+## Bengals @ Cowboys
+
+Are the Cowboys playing more cover two against Cincinnati now that Pittsburgh experienced so much success playing that style of football against them? If so, kudos to Dan Quinn for adjusting.
