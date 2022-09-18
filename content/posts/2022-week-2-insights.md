@@ -50,6 +50,8 @@ Greg Roman incorporating wishbone formations and pre-snap motion into his runnin
 
 Rashod Bateman finally stepping up as a deep threat for the Ravens. Very much needed too, considering their lack of weaponry.
 
+Justin Houston might be a resurgent force here for the Ravens pass rush.
+
 ***
 
 ## Buccaneers @ Saints
