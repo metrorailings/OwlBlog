@@ -135,9 +135,9 @@ I think Kliff just straight outwitted Patrick Graham by incorporating concepts c
 
 Judging by this game alone, I'm wagering that the Raiders will have one of the NFL's worst run defenses when everything is said and done this season. Not good.
 
-Chandler Jones has yet to make any serious impact on defense, at least in this game.
+Chandler Jones has yet to make any serious impact on defense, at least in this game. On the other hand, Zack Allen for the Cardinals has really stepped up at rushing the passer, at least in the second half.
 
-On the other hand, Zack Allen has really stepped up at rushing the passer, at least in the second half.
+I have to admit - this Raiders offense is uninspiring. Power runs, bland routes...the pre-snap motion from Davante Adams is nice though.
 
 ***
 
