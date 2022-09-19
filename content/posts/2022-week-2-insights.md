@@ -119,4 +119,10 @@ Kliff incorporating option runs now. Interesting. I don't remember seeing this b
 
 Once again, the difference maker here has been Kyler Murray's speed. It's bailed them out on two critical 4th downs. It's something that can't be sustained, as we've seen time and time again.
 
-Watching this Raiders offense...Arizona is the more physical team, full stop. 
+Watching this Raiders offense...Arizona is the more physical team, full stop.
+
+***
+
+## Bears @ Packers
+
+Creative series of scripted plays to give the Bears the early lead. Well done, Luke Getsy.
