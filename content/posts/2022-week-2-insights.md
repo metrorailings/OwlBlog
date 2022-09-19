@@ -160,3 +160,5 @@ Poor planning from Mike Macdonald, not keeping Tyreek Hill bracketed at all time
 Miami likes its cover-zero blitzes, as does Baltimore. Interesting.
 
 Kudos to Tua for staging this comeback though. It wasn't as easy as Michael Lombardi may have initially suggested in his Monday morning commentary.
+
+Last year, the Dolphins were able to frustrate Lamar and the Ravens through all sorts of blitz packages. Lamar had better answers this time around, throwing the ball quicker whenever Miami sent five or more men. Good job on Greg Roman's part.
