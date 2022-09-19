@@ -131,6 +131,10 @@ Cardinals playing quite a bit of nickel cover-two on defense, occasionally mixin
 
 Greg Dortsch is the top receiver for the Cardinals now that Rondale Moore and DeAndre Hopkins are not active. It was only by having him participate that the Cardinals were able to score on offense.
 
+I think Kliff just straight outwitted Patrick Graham by incorporating concepts centered around running the quarterback. Even though it's a concept that ultimately compromises Kyler later down the season, it pays massive dividends in early games like this.
+
+Judging by this game alone, I'm wagering that the Raiders will have one of the NFL's worst run defenses when everything is said and done this season. Not good.
+
 ***
 
 ## Bears @ Packers
