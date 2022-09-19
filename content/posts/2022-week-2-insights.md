@@ -145,4 +145,8 @@ I have to admit - this Raiders offense is uninspiring. Power runs, bland routes.
 
 Creative series of scripted plays to give the Bears the early lead. Well done, Luke Getsy.
 
-LaFleur needs to be given credit, if only for his ability to script an effective ground game.
+LaFleur needs to be given credit, if only for his ability to script an effective ground game and his willingness to experiment with two tailbacks in the backfield.
+
+***
+
+## Dolphins @ Ravens
