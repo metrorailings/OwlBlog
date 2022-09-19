@@ -129,7 +129,7 @@ The Raiders and their linebackers are just terrible overall. I mean...truly terr
 
 Cardinals playing quite a bit of nickel cover-two on defense, occasionally mixing things up with a five man front and man coverage.
 
-Greg Dortsch is the top receiver for the Cardinals now that Rondale Moore and DeAndre Hopkins are not active.
+Greg Dortsch is the top receiver for the Cardinals now that Rondale Moore and DeAndre Hopkins are not active. It was only by having him participate that the Cardinals were able to score on offense.
 
 ***
 
