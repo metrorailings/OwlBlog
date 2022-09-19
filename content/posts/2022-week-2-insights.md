@@ -125,6 +125,8 @@ Why is Mack Hollins more a focal point of this offense rather than Davante Adams
 
 Maxx Crosby is the sole reason why Arizona's first couple drives stalled.
 
+The Raiders and their linebackers are just terrible overall. I mean...truly terrible.
+
 ***
 
 ## Bears @ Packers
