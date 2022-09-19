@@ -151,6 +151,8 @@ LaFleur needs to be given credit, if only for his ability to script an effective
 
 ## Dolphins @ Ravens
 
-Tua can throw deep. Never underestimate Tua's arm, as the Ravens so cavalierly did.
+Tua can throw deep. Never underestimate Tua's arm, as the Ravens so cavalierly did. Man coverage against Tyreek Hill is incredibly ill-advised.
 
 Lamar still has issues, but he can still make magic with his legs.
+
+Poor planning from Mike Macdonald, not keeping Tyreek Hill bracketed at all times. Now was the opportunity to do so as well, given all the injuries in the secondary. Yet Macdonald still chanced things with man coverage against a speed demon like Tyreek.
