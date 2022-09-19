@@ -152,3 +152,5 @@ LaFleur needs to be given credit, if only for his ability to script an effective
 ## Dolphins @ Ravens
 
 Tua can throw deep. Never underestimate Tua's arm, as the Ravens so cavalierly did.
+
+Lamar still has issues, but he can still make magic with his legs.
