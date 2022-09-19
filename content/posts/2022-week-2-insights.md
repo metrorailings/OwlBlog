@@ -127,6 +127,10 @@ Maxx Crosby is the sole reason why Arizona's first couple drives stalled.
 
 The Raiders and their linebackers are just terrible overall. I mean...truly terrible.
 
+Cardinals playing quite a bit of nickel cover-two on defense, occasionally mixing things up with a five man front and man coverage.
+
+Greg Dortsch is the top receiver for the Cardinals now that Rondale Moore and DeAndre Hopkins are not active.
+
 ***
 
 ## Bears @ Packers
