@@ -150,3 +150,5 @@ LaFleur needs to be given credit, if only for his ability to script an effective
 ***
 
 ## Dolphins @ Ravens
+
+Tua can throw deep. Never underestimate Tua's arm, as the Ravens so cavalierly did.
