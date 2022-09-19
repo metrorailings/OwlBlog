@@ -123,6 +123,8 @@ Watching this Raiders offense...Arizona is the more physical team, full stop.
 
 Why is Mack Hollins more a focal point of this offense rather than Davante Adams or Hunter Renfrow? Something's not right here.
 
+Maxx Crosby is the sole reason why Arizona's first couple drives stalled.
+
 ***
 
 ## Bears @ Packers
