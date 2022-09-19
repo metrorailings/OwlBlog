@@ -132,3 +132,5 @@ The Raiders and their linebackers are just terrible overall. I mean...truly terr
 ## Bears @ Packers
 
 Creative series of scripted plays to give the Bears the early lead. Well done, Luke Getsy.
+
+LaFleur needs to be given credit, if only for his ability to script an effective ground game.
