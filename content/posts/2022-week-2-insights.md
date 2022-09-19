@@ -158,3 +158,5 @@ Lamar still has issues, but he can still make magic with his legs.
 Poor planning from Mike Macdonald, not keeping Tyreek Hill bracketed at all times. Now was the opportunity to do so as well, given all the injuries in the secondary. Yet Macdonald still chanced things with man coverage against a speed demon like Tyreek.
 
 Miami likes its cover-zero blitzes, as does Baltimore. Interesting.
+
+Kudos to Tua for staging this comeback though. It wasn't as easy as Michael Lombardi may have initially suggested in his Monday morning commentary.
