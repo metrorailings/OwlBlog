@@ -61,6 +61,8 @@ Why are the Commanders putting a tight end on Aidan Hutchinson?
 
 Communication is a major problem for the Washington secondary - blame Jack Del Rio for this.
 
+Amon-Ra St Brown is massively important to this passing offense. He's been the only playmaker making a significant contribution here.
+
 ***
 
 ## Dolphins @ Ravens
