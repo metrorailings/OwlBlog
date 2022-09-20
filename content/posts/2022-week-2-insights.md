@@ -188,3 +188,17 @@ Irv Smith is worthless. Two missed opportunities for third-down conversions and 
 Jalen Hurts has been sensational in this game. Reading Minnesota's defense, taking hits while throwing, running the ball...
 
 Kirk with another interception in a primetime moment.
+
+Ed Donatell seems famously strict about playing his style of defense, regardless of opponent. I know it's only a sample size of one, but his style of defense is very much the Fangio defense with the defensive backs playing way off their receivers. Defensive backs are then tasked with rushing up to make the tackle. It's a style of defense primarily obsessed with limiting deep passes.
+
+Adam Thielan didn't make his first catch until the fourth quarter. Makes me wonder if he's a central part of this offense any more under Kevin O'Connell.
+
+Darius Slay is a major player for this Philly defense. Probably its most important cornerback.
+
+When Justin Jefferson or Dalvin Cook aren't doing well, this Vikings offense plays like a corpse.
+
+It's clear Cousins is leaning on Irv Smith to be the team's complimentary option to Justin Jefferson. Whether he succeeds remains to be seen.
+
+Jonathan Gannon now invoking the blitz here, to considerable success.
+
+Kirk Cousins adding one more interception and a fumble to his stat line. He's truly awful in primetime, isn't he?
