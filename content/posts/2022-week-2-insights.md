@@ -186,3 +186,5 @@ The funny thing is Tennessee is arguably better on defense too, thanks largely t
 Irv Smith is worthless. Two missed opportunities for third-down conversions and dropping what could have been a huge pass at a critical moment in the game.
 
 Jalen Hurts has been sensational in this game. Reading Minnesota's defense, taking hits while throwing, running the ball...
+
+Kirk with another interception in a primetime moment.
