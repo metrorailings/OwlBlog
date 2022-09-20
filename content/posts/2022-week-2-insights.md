@@ -169,4 +169,6 @@ Last year, the Dolphins were able to frustrate Lamar and the Ravens through all 
 
 Short-yardage plays haven't been kind to the Bills tonight. Just sad really. A little expected when your running game has been awful.
 
-Josh Allen throwing his receivers open.
+Josh Allen throwing his receivers open. Impressive.
+
+Buffalo players are amped on their home opener, as they should be.
