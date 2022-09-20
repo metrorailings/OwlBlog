@@ -202,3 +202,5 @@ It's clear Cousins is leaning on Irv Smith to be the team's complimentary option
 Jonathan Gannon now invoking the blitz here, to considerable success.
 
 Kirk Cousins adding one more interception and a fumble to his stat line. He's truly awful in primetime, isn't he?
+
+Are there any short yardage options for this Minnesota offense? Any screens? Any motion? Not even any hot reads?
