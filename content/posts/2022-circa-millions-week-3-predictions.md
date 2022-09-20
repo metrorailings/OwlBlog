@@ -29,3 +29,28 @@ So all in all...not great, but not catastrophic. Listen, I'm not going to win th
 ### Lions @ Vikings (-6)
 
 ***
+
+##### _Streaks_
+
+Lions - 1W  
+Vikings - 1L
+
+##### _Injuries_
+
+Detroit and Minnesota should be entering this game with their key players mostly healthy.
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season. Now this will be 
+
+***
+
+### Lions +6
+
+***
+
+It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly 
