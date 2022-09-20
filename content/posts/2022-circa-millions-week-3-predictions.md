@@ -22,6 +22,10 @@ We will need to wait on the results of the Titans/Bills game tomorrow to see if 
 
 All right, so my Bills pick panned out. That was an example of a game where my instinct was wrong. I Initially assumed Mike Vrabel would do everything in his power to right the ship after a humiliating defeat against a major underdog. But as I noted in my insights, this Tennessee team isn't the same as the one the Bills faced last year. It wasn't feeding off home field advantage or the emotions of primetime. Furthermore, it was missing some critical weapons that played a major role in last year's win. A great coach can only do so much with the cards he's given. So I switched over to Buffalo, especially after I realized things would be damn near raucous as it was their home opener.
 
-So all in all...not great, but not catastrophic.
+So all in all...not great, but not catastrophic. Listen, I'm not going to win the contest. These two weeks killed me - luck wasn't on my side especially.
+
+***
+
+### Lions @ Vikings (-6)
 
 ***
