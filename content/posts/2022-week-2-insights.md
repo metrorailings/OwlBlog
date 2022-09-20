@@ -65,6 +65,8 @@ Amon-Ra St Brown is massively important to this passing offense. He's been the o
 
 Detroit may have two stud pass rushers in Charles Harris and Aidan Hutchinson.
 
+Detroit has been ravaging Washington's defense with trap runs.
+
 ***
 
 ## Dolphins @ Ravens
