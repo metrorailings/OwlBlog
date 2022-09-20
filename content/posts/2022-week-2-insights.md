@@ -57,11 +57,13 @@ Ben Johnson seems to have incorporated quite a few crossing routes in the playbo
 
 Hard for me to say this....but Detroit may actually be a good team.
 
-Why are the Commanders putting a tight end on Aidan Hutchinson?
+Why are the Commanders assigning a tight end on Aidan Hutchinson?
 
 Communication is a major problem for the Washington secondary - blame Jack Del Rio for this.
 
 Amon-Ra St Brown is massively important to this passing offense. He's been the only playmaker making a significant contribution here.
+
+Detroit may have two stud pass rushers in Charles Harris and Aidan Hutchinson.
 
 ***
 
