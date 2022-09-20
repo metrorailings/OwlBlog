@@ -172,3 +172,5 @@ Short-yardage plays haven't been kind to the Bills tonight. Just sad really. A l
 Josh Allen throwing his receivers open. Impressive.
 
 Buffalo players are amped on their home opener, as they should be.
+
+Traylon Burks may be a gamer.
