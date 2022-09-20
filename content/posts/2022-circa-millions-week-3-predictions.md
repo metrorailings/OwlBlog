@@ -17,3 +17,11 @@ Las Vegas losing outright though...that I have to revisit. Even the sharps seemi
 All right, after watching through the game tape for the Vegas/Arizona game...the Raiders are much worse than I thought on both sides of the ball. I gave this team too much credit. I figured with all the success Josh McDaniels and Patrick Graham have experienced in their prior roles combined with the considerable talent across the roster, these Raiders would start fast. That's not the case. Schematically, the team is pretty boring. It feels like this club is far less than the sum of its parts, which doesn't speak well about the coaching. Arizona was clearly the better team.
 
 We will need to wait on the results of the Titans/Bills game tomorrow to see if this week will truly end winless for me.
+
+***
+
+All right, so my Bills pick panned out. That was an example of a game where my instinct was wrong. I Initially assumed Mike Vrabel would do everything in his power to right the ship after a humiliating defeat against a major underdog. But as I noted in my insights, this Tennessee team isn't the same as the one the Bills faced last year. It wasn't feeding off home field advantage or the emotions of primetime. Furthermore, it was missing some critical weapons that played a major role in last year's win. A great coach can only do so much with the cards he's given. So I switched over to Buffalo, especially after I realized things would be damn near raucous as it was their home opener.
+
+So all in all...not great, but not catastrophic.
+
+***
