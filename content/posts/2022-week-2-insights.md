@@ -173,4 +173,14 @@ Josh Allen throwing his receivers open. Impressive.
 
 Buffalo players are amped on their home opener, as they should be.
 
-Traylon Burks may be a gamer.
+Traylon Burks may be a gamer for the passing game.
+
+As expected, Buffalo is dominating this match-up largely by shutting down Derrick Henry. Tennessee may have won the match last year, but that was with home field advantage, an emotional edge, and more weaponry on hand. If this doesn't speak volumes about the  the way the Titans have lost so much of their potency, nothing else will.
+
+The funny thing Tennessee is arguably better on defense too, thanks largely to Jeffrey Simmons breaking out and Denico Autry and Harold Landry continuing to contribute. Their backfield could use some tightening up.
+
+***
+
+## Vikings @ Eagles
+
+Irv Smith is worthless. Two missed opportunities for third-down conversions and dropping what could have been a huge pass at a critical moment in the game.
