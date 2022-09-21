@@ -45,7 +45,7 @@ Dome game
 
 ##### _History_
 
-The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season. Now this will be 
+The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season. Now this will be
 
 ***
 
@@ -53,4 +53,4 @@ The Lions performed well against Minnesota in both of their outings last year, e
 
 ***
 
-It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly 
+It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly transformed on identity, at least on offense. Not only is the rushing game so much more potent, Jared Goff is actually throwing the ball further down the field than expected. Ben Johnson has truly transformed this unit into something capable. 
