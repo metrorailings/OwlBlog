@@ -82,7 +82,7 @@ Nice temperate weather with a bit of humidity expected.
 
 ##### _History_
 
-Late last year, the Commanders performed well enough against a Philadelphia club that's fully embraced a run-first philosophy on offense.
+Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again while Carson Wentz is still in the Dr. Jekyll phase of quarterback?
 
 ***
 
