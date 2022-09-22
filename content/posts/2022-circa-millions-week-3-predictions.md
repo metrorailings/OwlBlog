@@ -10,7 +10,7 @@ Two picks were screwed by luck. Nobody knew Jameis Winston was dealing with **4 
 
 The Cincinnati pick was a bad one. Dan Quinn adjusted his style of defense, keeping two safeties deep. This kept Cincinnati from connecting on the types of passes that give their offense rhythm. On top of that, Burrow never settled into the pocket as the Cowboy defensive front constantly wrought havoc in the offensive backfield. Their best drive was a fourth quarter one that spanned 19 plays and 9 minutes of the game clock. It's not the style of offense they want to be playing.
 
-Las Vegas losing outright though...that I have to revisit. Even the sharps seemingly were betting big on the Raiders, so for them to lose is a freaky result. I suspect Vance Joseph got the better of Josh McDaniels in the second half. If that's the case, I need to reevaluate their rankings. That being said, the Cardinals still needed considerable luck to ultimately tip the game in their favor.
+Las Vegas losing outright though...that I have to revisit. Even the sharps were seemingly betting big on the Raiders, so for them to lose is a freaky result. I suspect Vance Joseph got the better of Josh McDaniels in the second half. If that's the case, I need to reevaluate their rankings. That being said, the Cardinals still needed considerable luck to ultimately tip the game in their favor.
 
 ***
 
@@ -45,7 +45,7 @@ Dome game
 
 ##### _History_
 
-The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season. Now this will be
+The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season.
 
 ***
 
@@ -53,4 +53,6 @@ The Lions performed well against Minnesota in both of their outings last year, e
 
 ***
 
-It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly transformed on identity, at least on offense. Not only is the rushing game so much more potent, Jared Goff is actually throwing the ball further down the field than expected. Ben Johnson has truly transformed this unit into something capable. 
+It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly evolved, at least on offense. Not only is the rushing game so much more proficient, Jared Goff is actually throwing the ball further down the field than expected. Ben Johnson has renovated this unit into one of the more capable outfits in the league today. 
+
+Minnesota is undergoing its own renovation too, especially on defense. Under Ed Donatell, it seems pretty clear these Vikings are committed much more to defensing the pass. Unfortunately, that may backfire against them against this renewed Detroit ground game. On top of that, Minnesota has issues in coverage, particularly spacing - that plays well for Goff should he need to connect with Amon-Ra St. Brown.   
