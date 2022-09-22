@@ -60,3 +60,28 @@ Minnesota is undergoing its own renovation too, especially on defense. Under Ed 
 Keep in mind that Minnesota will likely have an explosive day on offense as well. Even though the Lions have taken us by surprise on offense, their defense still remains as disappointing as ever, even in spite of the recent emergence of Aidan Hutchinson as a premiere pass rusher. So it's possible Minnesota could drive the score up early, forcing Detroit to rely more on Goff to keep them competitive. If that ends up being the case, things may not end well for Lion backers.
 
 ***
+
+### Eagles @ Commanders (+6.5)
+
+***
+
+##### _Streaks_
+
+Eagles - 1W  
+Commanders - 1L
+
+##### _Injuries_
+
+Philadelphia will be missing the services of Derek Barnett for some time now that he's on injured reserve. It didn't seem to matter much last Monday, but it's an injury worth noting going forward.
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season.
+
+***
+
+### 
