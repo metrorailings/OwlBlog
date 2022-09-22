@@ -74,13 +74,15 @@ Commanders - 1L
 
 Philadelphia will be missing the services of Derek Barnett for some time now that he's on injured reserve. It didn't seem to matter much last Monday, but it's an injury worth noting going forward.
 
+No major injuries of note on Washington's side.
+
 ##### _Weather_
 
-Dome game
+Nice temperate weather with a bit of humidity expected.
 
 ##### _History_
 
-The Lions performed well against Minnesota in both of their outings last year, even winning a game on their home turf late in the season.
+Late last year, the Commanders performed well enough against a Philadelphia offense that's fully embraced its run-first philosophy.
 
 ***
 
