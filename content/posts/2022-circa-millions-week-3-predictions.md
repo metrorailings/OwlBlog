@@ -82,7 +82,7 @@ Nice temperate weather with a bit of humidity expected.
 
 ##### _History_
 
-Late last year, the Commanders performed well enough against a Philadelphia offense that's fully embraced its run-first philosophy.
+Late last year, the Commanders performed well enough against a Philadelphia club that's fully embraced a run-first philosophy on offense.
 
 ***
 
