@@ -95,6 +95,8 @@ But it's hard siding with the Commanders knowing they have the worse coaches her
 
 Well...they may have the emotional edge here. Philadelphia is celebrating after a rowdy win against Minnesota in primetime. Meanwhile, Washington has been reeling a bit from a loss to the resurgent Detroit Lions. The fact that Philadelphia's nearly a touchdown favorite _on the road_ against this Washington club should be enough evidence that the public and media clearly think little of the Commanders. I wouldn't be surprised if the Eagles feel the same way given their youth on coaching and quarterback. If so, don't be surprised if these Philly boys are seen dragging their feet out on the field this Sunday against a perceivably lesser opponent. Now contrast that with a Commanders team looking to bounce back and Carson Wentz looking to draw blood from an organization which abandoned him - it should be evident why Washington has the emotional advantage here.
 
+On top of that, Carson Wentz has demonstrated that he can stage comebacks. Of all the bad things that can be said about the man, nobody can accuse him of quitting. Washington already has one successful comeback under its belt this year. Now this doesn't mean Wentz can successfully come back should the Communists find themselves trying to erase a fourth-quarter deficit, but Carson can pull a backdoor cover here as he tries to wager a comeback.
+
 ***
 
 ### Raiders @ Titans (+2)
