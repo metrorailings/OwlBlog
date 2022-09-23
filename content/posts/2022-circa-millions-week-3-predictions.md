@@ -115,7 +115,7 @@ Sunny weather with some humidity expected
 
 ##### _History_
 
-These two haven't faced one another recently, although Josh McDaniels and Mike Vrabel have squared off last year when the former was still the Patriot offensive coordinator.  New England whupped the Titans that day, although Tennessee was considerably short-handed and still looking to develop new weapons to replace A.J. Brown and Julio Jones. That being said, McDaniels was fully comfortable back then in his capacity as an assistant coach on the Patriots. He's yet to find that same comfort so far with the Raiders. 
+These two haven't faced one another recently, although Josh McDaniels and Mike Vrabel have squared off last year when the former was still the offensive coordinator of the Patriots. New England whupped Vrabel's Titans that day, although Tennessee was considerably short-handed and still looking to develop new weapons to replace A.J. Brown and Julio Jones. That being said, McDaniels was fully comfortable back then in his capacity as an assistant coach on the Patriots. He's yet to find that same comfort so far with the Raiders. 
 
 ***
 
@@ -123,4 +123,6 @@ These two haven't faced one another recently, although Josh McDaniels and Mike V
 
 ***
 
-After watching the Raiders blow a game last week against the Cardinals, I came away thoroughly unimpressed. Mike McDaniel is having little trouble 
+After watching the Raiders blow a game last week against the Cardinals, I came away thoroughly unimpressed. Mike McDaniel is having little trouble incorporating his best weapons in the offense, so why is Josh McDaniels having a rough time pulling off the same feat in Las Vegas, especially when Derek Carr and Davante Adams have a rapport with one another dating back to their college days? In fact, why is a journeyman like Mack Hollins a more critical part of the offense than Adams or Darren Waller? Maybe his outsized role on this offense is just the result of a freaky couple weeks, but it worries me that Derek Carr still doesn't feel all too comfortable in whatever system Josh McDaniels is instituting in place. 
+
+On top of that, the linebackers looked pathetically slow last week against Arizona's ground game. To be fair, it's not easy catching Kyler's little munchkin ass when he's in pitter-pattering all over the place, but Arizona's tailbacks were consistently successful running the rock in the second half. Tennessee has a respectable ground game that's been looking to re-establish itself after an ugly start to the season. This week is **the** week for Vrabel and the Titans - if they can't rediscover their groove at home against an uninspiring Vegas team, then the season is truly lost.  
