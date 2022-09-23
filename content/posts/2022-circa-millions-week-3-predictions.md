@@ -236,4 +236,25 @@ Green Bay can win if their defense can prevent Leonard Fournette from breaking l
 
 ***
 
-#### _Streaks_
+##### _Streaks_
+
+49ers - 1W  
+Broncos - 1W
+
+##### _Injuries_
+
+George Kittle is the only player of concern for the 49ers, though signs point to him playing after surprising everybody by playing last week.
+
+For the Broncos, KJ Hamler and Jerry Jeudy may be sidelined. It's likely one of them will play.
+
+##### _Weather_
+
+Beautiful, crisp, fall weather.
+
+##### _History_
+
+Neither of these teams faced one another recently. It's worth noting that Kyle Shanahan and DeMeco Ryans had faced off against Nathaniel Hackett twice last year when the latter was working as Matt LaFleur's right-hand man in Green Bay. And in all fairness, only the second game is worth analyzing here, as DeMeco Ryans was finally able to settle into a groove as defensive coordinator by then. The Packers lost embarrassingly against the 49ers in that second game, after Ryans was able to structure the defense to effectively neuter Green Bay's offense after the first quarter. Unable to sustain any sort of production, the Packers could only do so much to hold on to the lead before the 49ers finally pulled off the victory with a few turnovers.
+
+***
+
+### 
