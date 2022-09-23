@@ -90,7 +90,9 @@ Late last year, the Commanders performed well enough on their home turf against 
 
 ***
 
-It's clear Ron Rivera and Jack Del Rio have a beat on this Philadelphia offense, even they have yet to win against these Sirianni-era Eagles.
+It's clear Ron Rivera and Jack Del Rio have a beat on this Philadelphia offense, even if they have yet to win against these Sirianni-era Eagles. Philadelphia needed a fourth quarter comeback to post the win over Washington.
+
+But it's hard siding with the Commanders knowing they have the worse coaches and the worse quarterback. What does Washington have going for them here from a non-historical perspective, home field advantage and six points handicapped in their favor?
 
 ***
 
@@ -127,4 +129,6 @@ After watching the Raiders blow a game last week against the Cardinals, I came a
 
 On top of that, the linebackers looked pathetically slow last week against Arizona's ground game. To be fair, it's not easy catching Kyler's little munchkin ass when he's pitter-pattering all over the place, but Arizona's tailbacks were balling out as well in the second half. Tennessee has a respectable ground game that's been looking to re-establish itself after an ugly start to the season. This week is **the** week for Vrabel and the Titans - if they can't rediscover their groove at home against an uninspiring Vegas outfit, then the season is truly lost.
 
-One more thing worth discussing here is the Titan passing game. Despite being absolutely obliterated by the Bills last week, the Titans showed some promise, particular on offense - I think Todd Downing and Ryan Tannehill finally found some ways to utilize Treylon Burks and Robert Woods in the passing game. If Burks, Woods, and Nick Westbrook-Ikhine can combine their talents and contribute with multiple receptions, Tennessee might have a serviceable air attack to accompany Derrick Henry and the power rushing game. It'll be enough against this lazy Raider defense. 
+One more thing worth discussing here is the Titan passing game. Despite being absolutely obliterated by the Bills last week, the Titans showed some promise, particular on offense - I think Todd Downing and Ryan Tannehill finally found some ways to utilize Treylon Burks and Robert Woods in the passing game. If Burks, Woods, and Nick Westbrook-Ikhine can combine their talents and contribute with multiple receptions, Tennessee might have a serviceable air attack to accompany Derrick Henry and the power rushing game. It'll be enough against this lazy Raider defense.
+
+***
