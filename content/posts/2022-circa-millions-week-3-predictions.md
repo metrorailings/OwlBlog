@@ -1,6 +1,5 @@
 +++
 date = 2022-09-22T12:00:00Z
-draft = true
 headline = "2022 Circa Millions - Week 3 Predictions"
 
 +++
@@ -267,4 +266,4 @@ With history being a wash, I need to side with the better overall team here - th
 
 It's not as if Denver's some pushover though. They've had one of the league's best defensive rosters dating back the past couple years under Vic Fangio. On top of that, they also boast a respectable ground game headlined by Javonte Williams. But the problem is that the coaching staff has yet to marry all these elements together into a product far greater than some of its components. Too many cracks are running through this team as Nathaniel Hackett continues going through some serious growth pains. The defense will likely shape up sooner rather than later, but unless the offense reaches a point where it can be deemed serviceable, defenses alone will not be able to win games in today's NFL.
 
-I also expect some considerable improvement from the 49ers now that Kyle Shanahan has an actual quarterback handling the reins of his offense. Expect more of what we saw late last year - a myriad of different passing and short yardage passing plays being run out of simple formations, keeping opposing defenses guessing as to what Garappolo and his men will do on a given snap. 
+I also expect some considerable improvement from the 49ers now that Kyle Shanahan has an actual quarterback handling the reins of his offense. Expect more of what we saw late last year - a myriad of different passing and short yardage passing plays being run out of simple formations, keeping opposing defenses guessing as to what Garappolo and his men will do on a given snap. Is first-time defensive coordinator Ejiro Evero ready for this? We'll see.
