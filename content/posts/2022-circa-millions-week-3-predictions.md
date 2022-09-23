@@ -144,12 +144,20 @@ Panthers - 2L
 
 ##### _Injuries_
 
-Hunter Renfrow is dealing with a concussion, so his game-time status is hazy.
+New Orleans baffles me. Jameis Winston can't be fully functional so long as he's dealing with fractures in his back. I don't understand how the Saints can claim he's just fine. Alvin Kamara is limited as well, and it's worth keeping an eye on him given his absence last week against the Bucs.
 
-Tennessee will likely miss a few key players themselves. Taylor Lewan and Bud Dupree haven't been practicing. Dontrell Hilliard has been practicing in limited capacity after missing the last game, so his status is anything but certain.
+Christian McCaffrey is always a few steps away from major injury, but he seems on track to play this Sunday.
 
 ##### _Weather_
 
 Sunny weather with some humidity expected
 
 ##### _History_
+
+Rivals in the NFC South, these two organizations know each other well. Back when the Panthers were playing hot, Carolina rolled over the Saints at home. They lost the rematch later in the year though.
+
+***
+
+### Panthers +2.5
+
+***
