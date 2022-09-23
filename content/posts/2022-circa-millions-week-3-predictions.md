@@ -193,4 +193,39 @@ No recent history between the Jaguars or their coaches
 
 ***
 
-Herbert's status is iffy, sending some serious shockwaves through the betting market. Normally, I'd be all over the Jaguars here, but I've witnessed far too many games where teams walking into incredibly favorable situations blow up thanks to hubris and immaturity. Doug Pederson is still just starting out his tenure as the steward of this Jaguars franchise, so I can't say whether he'll be successful keeping them focused against an opponent missing its signature player. 
+Herbert's status is iffy, sending some serious shockwaves through the betting market. Normally, I'd be all over the Jaguars here, but I've witnessed far too many games where teams walking into incredibly favorable situations blow up thanks to hubris and immaturity. Doug Pederson is still just starting out his tenure as the steward of this Jaguars franchise, so I can't say whether he'll be successful keeping them focused against an opponent missing its signature player.
+
+***
+
+### Packers @ Buccaneers (-1)
+
+***
+
+##### _Streaks_
+
+Packers - 1W  
+Buccaneers - 2W
+
+##### _Injuries_
+
+Buccaneers are dealing with a wave of injuries, most notably on offense. Julio Jones and Chris Godwin are likely sidelined. Lineman Josh Wells has been shipped over to injured reserve. Worst of all, Brady is dealing with an issue to his finger, though he's been particularly forceful in denying the injury being a factor in his performance.
+
+Packers are likely to be down at least two of their three major receivers. Allen Lazard, Randall Cobb, and Sammy Watkins are all dealing with ailments. On top of that, Mason Crosby is fighting off an illness as well.
+
+##### _Weather_
+
+Hot and pretty humid, which seems to be the exact weather Aaron Rodgers hates.
+
+##### _History_
+
+Tampa Bay faced these Packers twice and managed to beat them twice. The first match was an absolute shellacking by the Buccaneers, thanks to some fantastic defense and the brutal Florida weather bothering Rodgers.
+
+***
+
+### Buccaneers
+
+***
+
+Yes, Brady's without any of his key receivers and his finger is sore. I don't foresee this being an issue so long as the Buccaneers can control the pace of the game through Leonard Fournette and schemed short passes. Brady doesn't have enough trusted weaponry to try and wing things. The game will have to managed by Tampa Bay. Devin White and Shaquil Barrett will need to continue leading this Buccaneer pass rush against Aaron Rodgers, who'll likely be a tick or two slow thanks to the stuffy heat.
+
+Green Bay can win if their defense can prevent Leonard Fournette from breaking loose. It's easier said than done though, judging by their rushing defense the past two weeks. They've coughed up way too many important yards to Minnesota and Chicago, something I find particularly disappointing considering Chicago has serious issues passing the ball. If Green Bay wants a road victory here, turnovers need to be the theme on defense. In that light, I do worry quite a bit about Brady's finger here. I've said this before, but it's worth repeating again - Tampa Bay will need to manage the offense very carefully if it wants to walk away with a comfortable win.
