@@ -13,3 +13,7 @@ Mitchell Trubisky is not the solution. Things are only going to get worse if Pit
 Amari Cooper's day is up and down. Some critical drops, but also some highlight plays. I would say under Brissett, the key receivers are more Donovan Peoples-Jones and David Njoku.
 
 Myles Garrett still a dominant force. It remains to be see whether the same can be said of Jadaveon Clowney, if he ever comes back healthy.
+
+Denzel Ward isn't a good cornerback. Lost occasionally, relies on physicality bordering on penalty to try and break up passes...
+
+George Pickens could be a real gamer for Pittsburgh's offense.
