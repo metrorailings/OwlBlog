@@ -169,3 +169,18 @@ As long as Jameis is dealing with a lingering back injury, I cannot think New Or
 ### Jaguars @ Chargers (-7)
 
 ***
+
+##### _Streaks_
+
+Jaguars - 1W  
+Chargers - 1L
+
+##### _Injuries_
+
+The injury here that'll have the biggest impact here is Justin Herbert's rib injury. Last week, Herbert mustered everything in his power to bring the Chargers back to contention late in the fourth quarter. 
+
+##### _Weather_
+
+Sunny weather with some humidity expected
+
+##### _History_
