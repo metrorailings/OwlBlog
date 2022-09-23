@@ -253,8 +253,18 @@ Beautiful, crisp, fall weather.
 
 ##### _History_
 
-Neither of these teams faced one another recently. It's worth noting that Kyle Shanahan and DeMeco Ryans had faced off against Nathaniel Hackett twice last year when the latter was working as Matt LaFleur's right-hand man in Green Bay. And in all fairness, only the second game is worth analyzing here, as DeMeco Ryans was finally able to settle into a groove as defensive coordinator by then. The Packers lost embarrassingly against the 49ers in that second game, after Ryans was able to structure the defense to effectively neuter Green Bay's offense after the first quarter. Unable to sustain any sort of production, the Packers could only do so much to hold on to the lead before the 49ers finally pulled off the victory with a few turnovers.
+Neither of these teams faced one another recently. It's worth noting that Kyle Shanahan and DeMeco Ryans had faced off against Nathaniel Hackett twice last year when the latter was working as Matt LaFleur's right-hand man in Green Bay. And in all fairness, only the second game is worth analyzing here, as DeMeco Ryans was finally able to settle into a groove as defensive coordinator by then. The Packers lost embarrassingly against the 49ers in that second game, after Ryans was able to structure the defense to effectively neuter Green Bay's offense after the first quarter. Unable to sustain any sort of production, the Packers could only do so much to hold on to the lead before the 49ers finally stole the lead away thanks to a special teams turnover.
+
+On top of that, Russell Wilson had San Francisco's numbers over the past few years. I'm not sure if that dominance can be attributed majorly to him - it's far from unfathomable that somebody like Pete Carroll would know how to exploit the 49er defense.
 
 ***
 
-### 
+### 49ers -1.5
+
+***
+
+With history being a wash, I need to side with the better overall team here - the 49ers. Russell Wilson is still given way too much respect by the sportsbooks considering Denver was billed as a double-digit favorite last week against a decent Houston outfit. 
+
+It's not as if Denver's some pushover though. They've had one of the league's best defensive rosters dating back the past couple years under Vic Fangio. On top of that, they also boast a respectable ground game headlined by Javonte Williams. But the problem is that the coaching staff has yet to marry all these elements together into a product far greater than some of its components. Too many cracks are running through this team as Nathaniel Hackett continues going through some serious growth pains. The defense will likely shape up sooner rather than later, but unless the offense reaches a point where it can be deemed serviceable, defenses alone will not be able to win games in today's NFL.
+
+I also expect some considerable improvement from the 49ers now that Kyle Shanahan has an actual quarterback handling the reins of his offense. Expect more of what we saw late last year - a myriad of different passing and short yardage passing plays being run out of simple formations, keeping opposing defenses guessing as to what Garappolo and his men will do on a given snap. 
