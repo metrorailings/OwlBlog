@@ -89,7 +89,7 @@ Late last year, the Commanders performed well enough on their home turf against 
 
 ***
 
-It's clear Ron Rivera and Jack Del Rio have a beat on this Philadelphia offense, even if they have yet to win against these Sirianni-era Eagles. Philadelphia needed a fourth quarter comeback to post the win over Washington.
+It's clear Ron Rivera and Jack Del Rio have a beat on Sirianni's version of this Philadelphia offense, even if they have yet to win against him. Philadelphia needed a fourth quarter comeback to post the win over Washington late last year.
 
 But it's hard siding with the Commanders knowing they have the worse coaches and the worse quarterback. What does Washington have going for them here from a non-historical perspective, home field advantage and six points handicapped in their favor?
 
