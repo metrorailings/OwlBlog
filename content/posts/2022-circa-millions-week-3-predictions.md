@@ -91,3 +91,26 @@ Late last year, the Commanders performed well enough on their home turf against 
 ***
 
 It's clear Ron Rivera and Jack Del Rio have a beat on this Philadelphia offense, even they have yet to win against these Sirianni-era Eagles.
+
+***
+
+### Raiders @ Titans (+2)
+
+***
+
+##### _Streaks_
+
+Raiders - 2L  
+Titals - 2L
+
+##### _Injuries_
+
+##### _Weather_
+
+Sunny weather with some humidity expected
+
+##### _History_
+
+***
+
+### 
