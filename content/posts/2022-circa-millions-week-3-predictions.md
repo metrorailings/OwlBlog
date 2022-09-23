@@ -107,6 +107,8 @@ Titals - 2L
 
 Hunter Renfrow is dealing with a concussion, so his game-time status is hazy.
 
+Tennessee will likely miss a few key players themselves. Taylor Lewan and Bud Dupree haven't been practicing. Dontrell Hilliard has been practicing in limited capacity after missing the last game, so his status is anything but certain.
+
 ##### _Weather_
 
 Sunny weather with some humidity expected
