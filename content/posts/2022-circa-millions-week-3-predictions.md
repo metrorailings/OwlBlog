@@ -161,7 +161,7 @@ Rivals in the NFC South, these two organizations know each other well. Back when
 
 ***
 
-As long as Jameis is dealing with a lingering back injury, I cannot think New Orleans stands a chance of winning. As we saw last week, Winston seems to have reverted back to old form now that the fractures in his back are compromising him. If Carolina's defense can get their act together after a two-game losing skid, it's possible the Panthers may be able to salvage their season as it teeters on the brink.
+As long as Jameis is dealing with a lingering back injury, I cannot think New Orleans stands a chance of winning. As we saw last week, Winston seems to have reverted back to old form now that the fractures in his back are compromising him. If Christian McCaffrey can play through the game without incident and Carolina's defense can get their act together after a two-game losing skid, it's likely the Panthers may be able to salvage their season as it teeters on the brink. 
 
 ***
 
