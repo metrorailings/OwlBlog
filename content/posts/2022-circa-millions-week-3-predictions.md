@@ -105,11 +105,15 @@ Titals - 2L
 
 ##### _Injuries_
 
+Hunter Renfrow is dealing with a concussion, so his game-time status is hazy.
+
 ##### _Weather_
 
 Sunny weather with some humidity expected
 
 ##### _History_
+
+These two haven't faced one another recently, although Josh McDaniels and Mike Vrabel have squared off last year when the former was still the Patriot offensive coordinator.  New England whupped the Titans that day, although Tennessee was considerably short-handed and still looking to develop new weapons to replace A.J. Brown and Julio Jones. That being said, McDaniels was fully comfortable back then in his capacity as an assistant coach on the Patriots. He's yet to find that same comfort so far with the Raiders. 
 
 ***
 
