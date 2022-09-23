@@ -119,4 +119,6 @@ These two haven't faced one another recently, although Josh McDaniels and Mike V
 
 ***
 
-### 
+### Titans +2
+
+***
