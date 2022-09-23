@@ -103,7 +103,7 @@ But it's hard siding with the Commanders knowing they have the worse coaches and
 ##### _Streaks_
 
 Raiders - 2L  
-Titals - 2L
+Titans - 2L
 
 ##### _Injuries_
 
@@ -132,3 +132,24 @@ On top of that, the linebackers looked pathetically slow last week against Arizo
 One more thing worth discussing here is the Titan passing game. Despite being absolutely obliterated by the Bills last week, the Titans showed some promise, particular on offense - I think Todd Downing and Ryan Tannehill finally found some ways to utilize Treylon Burks and Robert Woods in the passing game. If Burks, Woods, and Nick Westbrook-Ikhine can combine their talents and contribute with multiple receptions, Tennessee might have a serviceable air attack to accompany Derrick Henry and the power rushing game. It'll be enough against this lazy Raider defense.
 
 ***
+
+### Saints @ Panthers (+2.5)
+
+***
+
+##### _Streaks_
+
+Saints - 1L  
+Panthers - 2L
+
+##### _Injuries_
+
+Hunter Renfrow is dealing with a concussion, so his game-time status is hazy.
+
+Tennessee will likely miss a few key players themselves. Taylor Lewan and Bud Dupree haven't been practicing. Dontrell Hilliard has been practicing in limited capacity after missing the last game, so his status is anything but certain.
+
+##### _Weather_
+
+Sunny weather with some humidity expected
+
+##### _History_
