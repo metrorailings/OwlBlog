@@ -222,10 +222,18 @@ Tampa Bay faced these Packers twice and managed to beat them twice. The first ma
 
 ***
 
-### Buccaneers
+### Buccaneers -1
 
 ***
 
 Yes, Brady's without any of his key receivers and his finger is sore. I don't foresee this being an issue so long as the Buccaneers can control the pace of the game through Leonard Fournette and schemed short passes. Brady doesn't have enough trusted weaponry to try and wing things. The game will have to managed by Tampa Bay. Devin White and Shaquil Barrett will need to continue leading this Buccaneer pass rush against Aaron Rodgers, who'll likely be a tick or two slow thanks to the stuffy heat.
 
 Green Bay can win if their defense can prevent Leonard Fournette from breaking loose. It's easier said than done though, judging by their rushing defense the past two weeks. They've coughed up way too many important yards to Minnesota and Chicago, something I find particularly disappointing considering Chicago has serious issues passing the ball. If Green Bay wants a road victory here, turnovers need to be the theme on defense. In that light, I do worry quite a bit about Brady's finger here. I've said this before, but it's worth repeating again - Tampa Bay will need to manage the offense very carefully if it wants to walk away with a comfortable win.
+
+***
+
+### 49ers @ Broncos (+1.5)
+
+***
+
+#### _Streaks_
