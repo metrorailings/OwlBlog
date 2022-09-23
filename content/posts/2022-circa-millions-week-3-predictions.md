@@ -177,10 +177,20 @@ Chargers - 1L
 
 ##### _Injuries_
 
-The injury here that'll have the biggest impact here is Justin Herbert's rib injury. Last week, Herbert mustered everything in his power to bring the Chargers back to contention late in the fourth quarter. 
+The injury here that'll have the biggest impact here is Justin Herbert's rib injury. Last week, Herbert mustered everything in his power to bring the Chargers back to contention late in the fourth quarter.  It's questionable whether Herbert can play this week.
 
 ##### _Weather_
 
 Sunny weather with some humidity expected
 
 ##### _History_
+
+No recent history between the Jaguars or their coaches
+
+***
+
+### Uncertain
+
+***
+
+Herbert's status is iffy, sending some serious shockwaves through the betting market. Normally, I'd be all over the Jaguars here, but I've witnessed far too many games where teams walking into incredibly favorable situations blow up thanks to hubris and immaturity. Doug Pederson is still just starting out his tenure as the steward of this Jaguars franchise, so I can't say whether he'll be successful keeping them focused against an opponent missing its signature player. 
