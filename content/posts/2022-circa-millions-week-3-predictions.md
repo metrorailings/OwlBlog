@@ -53,9 +53,9 @@ The Lions performed well against Minnesota in both of their outings last year, e
 
 ***
 
-It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly evolved, at least on offense. Not only is the rushing game so much more proficient, Jared Goff is actually throwing the ball further down the field than expected. Ben Johnson has renovated this unit into one of the more capable outfits in the league today. 
+It's hard not to overreact to what happened recently, but it looks to me that these Lions  have truly evolved, at least on offense. Not only is the rushing game so much more proficient, Jared Goff is actually throwing the ball further down the field than expected. Ben Johnson has renovated this unit into one of the more capable outfits in the league today.
 
-Minnesota is undergoing its own renovation too, especially on defense. Under Ed Donatell, it seems pretty clear these Vikings are committed much more to defensing the pass. Unfortunately, that may backfire against them against this renewed Detroit ground game. On top of that, Minnesota has issues in coverage, particularly spacing - that plays well for Goff should he need to connect with Amon-Ra St. Brown. 
+Minnesota is undergoing its own renovation too, especially on defense. Under Ed Donatell, it seems pretty clear these Vikings are committed much more to defensing the pass. Unfortunately, that may backfire against them against this renewed Detroit ground game. On top of that, Minnesota has issues in coverage, particularly spacing - that plays well for Goff should he need to connect with Amon-Ra St. Brown.
 
 Keep in mind that Minnesota will likely have an explosive day on offense as well. Even though the Lions have taken us by surprise on offense, their defense still remains as disappointing as ever, even in spite of the recent emergence of Aidan Hutchinson as a premiere pass rusher. So it's possible Minnesota could drive the score up early, forcing Detroit to rely more on Goff to keep them competitive. If that ends up being the case, things may not end well for Lion backers.
 
@@ -82,8 +82,12 @@ Nice temperate weather with a bit of humidity expected.
 
 ##### _History_
 
-Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again while Carson Wentz is still in the Dr. Jekyll phase of quarterback?
+Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again with Carson Wentz under center instead of Taylor Heinecke?
 
 ***
 
-### 
+### Uncertain
+
+***
+
+It's clear Ron Rivera and Jack Del Rio have a beat on this Philadelphia offense, even they have yet to win against these Sirianni-era Eagles.
