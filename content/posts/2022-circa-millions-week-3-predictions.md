@@ -122,3 +122,5 @@ These two haven't faced one another recently, although Josh McDaniels and Mike V
 ### Titans +2
 
 ***
+
+After watching the Raiders blow a game last week against the Cardinals, I came away thoroughly unimpressed. Mike McDaniel is having little trouble 
