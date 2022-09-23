@@ -161,3 +161,5 @@ Rivals in the NFC South, these two organizations know each other well. Back when
 ### Panthers +2.5
 
 ***
+
+As long as Jameis is dealing with a lingering back injury, I cannot think New Orleans stands a chance of winning. As we saw last week, Winston seems to have reverted back to old form now that the fractures in his back are compromising him. 
