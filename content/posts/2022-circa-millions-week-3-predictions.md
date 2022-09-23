@@ -85,13 +85,15 @@ Late last year, the Commanders performed well enough on their home turf against 
 
 ***
 
-### Uncertain
+### Commanders +6.5
 
 ***
 
 It's clear Ron Rivera and Jack Del Rio have a beat on Sirianni's version of this Philadelphia offense, even if they have yet to win against him. Philadelphia needed a fourth quarter comeback to post the win over Washington late last year.
 
 But it's hard siding with the Commanders knowing they have the worse coaches here as well as the worse quarterback. What does Washington have going for them here from a non-historical perspective, home field advantage and six points handicapped in their favor?
+
+Well...they may have the emotional edge here. Philadelphia is celebrating after a rowdy win against Minnesota in primetime. Meanwhile, Washington has been reeling a bit from a loss to the resurgent Detroit Lions. The fact that Philadelphia's nearly a touchdown favorite _on the road_ against this Washington club should be enough evidence that the public and media clearly think little of the Commanders. I wouldn't be surprised if the Eagles feel the same way given their youth on coaching and quarterback. If so, don't be surprised if these Philly boys are seen dragging their feet out on the field this Sunday against a perceivably lesser opponent. Now contrast that with a Commanders team looking to bounce back and Carson Wentz looking to draw blood from an organization which abandoned him - it should be evident why Washington has the emotional advantage here.
 
 ***
 
@@ -116,7 +118,7 @@ Sunny weather with some humidity expected
 
 ##### _History_
 
-These two haven't faced one another recently, although Josh McDaniels and Mike Vrabel have squared off last year when the former was still the offensive coordinator of the Patriots. New England whupped Vrabel's Titans that day, although Tennessee was considerably short-handed and still looking to develop new weapons to replace A.J. Brown and Julio Jones. That being said, McDaniels was fully comfortable back then in his capacity as an assistant coach on the Patriots. He's yet to find that same comfort so far with the Raiders. 
+These two haven't faced one another recently, although Josh McDaniels and Mike Vrabel have squared off last year when the former was still the offensive coordinator of the Patriots. New England whupped Vrabel's Titans that day, although Tennessee was considerably short-handed and still looking to develop new weapons to replace A.J. Brown and Julio Jones. That being said, McDaniels was fully comfortable back then in his capacity as an assistant coach on the Patriots. He's yet to find that same comfort so far with the Raiders.
 
 ***
 
@@ -124,7 +126,7 @@ These two haven't faced one another recently, although Josh McDaniels and Mike V
 
 ***
 
-After watching the Raiders blow a game last week against the Cardinals, I came away just unimpressed. Mike McDaniel's having little trouble incorporating his best weapons in the offense, so why is Josh McDaniels having a rough time pulling off that same feat in Las Vegas, especially when Derek Carr and Davante Adams have a rapport with one another dating back to their college days? In fact, how is a journeyman like Mack Hollins a more critical part of the offense than Adams or Darren Waller? Maybe his outsized role on this offense is just the result of a freaky couple weeks, but it worries me that Derek Carr still doesn't feel all too comfortable in whatever system Josh McDaniels is instituting in place. 
+After watching the Raiders blow a game last week against the Cardinals, I came away just unimpressed. Mike McDaniel's having little trouble incorporating his best weapons in the offense, so why is Josh McDaniels having a rough time pulling off that same feat in Las Vegas, especially when Derek Carr and Davante Adams have a rapport with one another dating back to their college days? In fact, how is a journeyman like Mack Hollins a more critical part of the offense than Adams or Darren Waller? Maybe his outsized role on this offense is just the result of a freaky couple weeks, but it worries me that Derek Carr still doesn't feel all too comfortable in whatever system Josh McDaniels is instituting in place.
 
 On top of that, the linebackers looked pathetically slow last week against Arizona's ground game. To be fair, it's not easy catching Kyler's little munchkin ass when he's pitter-pattering all over the place, but Arizona's tailbacks were balling out as well in the second half. Tennessee has a respectable ground game that's been looking to re-establish itself after an ugly start to the season. This week is **the** week for Vrabel and the Titans - if they can't rediscover their groove at home against an uninspiring Vegas outfit, then the season is truly lost.
 
@@ -161,7 +163,7 @@ Rivals in the NFC South, these two organizations know each other well. Back when
 
 ***
 
-As long as Jameis is dealing with a lingering back injury, I cannot think New Orleans stands a chance of winning. As we saw last week, Winston seems to have reverted back to old form now that the fractures in his back are compromising him. If Christian McCaffrey can play through the game without incident and Carolina's defense can get their act together after a two-game losing skid, it's likely the Panthers may be able to salvage their season as it teeters on the brink. 
+As long as Jameis is dealing with a lingering back injury, I cannot think New Orleans stands a chance of winning. As we saw last week, Winston seems to have reverted back to old form now that the fractures in his back are compromising him. If Christian McCaffrey can play through the game without incident and Carolina's defense can get their act together after a two-game losing skid, it's likely the Panthers may be able to salvage their season as it teeters on the brink.
 
 ***
 
@@ -262,7 +264,7 @@ On top of that, Russell Wilson had San Francisco's numbers over the past few yea
 
 ***
 
-With history being a wash, I need to side with the better overall team here - the 49ers. Russell Wilson is still given way too much respect by the sportsbooks considering Denver was billed as a double-digit favorite last week against a decent Houston outfit. 
+With history being a wash, I need to side with the better overall team here - the 49ers. Russell Wilson is still given way too much respect by the sportsbooks considering Denver was billed as a double-digit favorite last week against a decent Houston outfit.
 
 It's not as if Denver's some pushover though. They've had one of the league's best defensive rosters dating back the past couple years under Vic Fangio. On top of that, they also boast a respectable ground game headlined by Javonte Williams. But the problem is that the coaching staff has yet to marry all these elements together into a product far greater than some of its components. Too many cracks are running through this team as Nathaniel Hackett continues going through some serious growth pains. The defense will likely shape up sooner rather than later, but unless the offense reaches a point where it can be deemed serviceable, defenses alone will not be able to win games in today's NFL.
 
