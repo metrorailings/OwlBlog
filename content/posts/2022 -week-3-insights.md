@@ -41,3 +41,9 @@ I suspect the Colts pass rush is lacking. I also suspect Matt Ryan is a surprisi
 ## Texans @ Bears
 
 Khalil Herbert is a beast. I need to assess whether he's consistently successful rushing the ball, but his explosiveness can't be denied.
+
+***
+
+## Bills @ Dolphins
+
+Tua with the deep pass on 3rd and 22 to set up a touchdown. Impressive. I'm seeing evolution here. Last year, I couldn't see Tua making these passes consistently. But carrying over from last game, it seems Tagavailoa's not afraid to chance these passes when the opportunity presents itself.
