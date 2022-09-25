@@ -70,4 +70,4 @@ These Buccaneer depth receivers are just trash. Two fumbles to end two promising
 
 This Green Bay team has a championship defense. Great defensive backs combined with a defensive line headlined by two studs in Preston Smith and Rashan Gary.
 
-One of the keys here to winning was Tampa Bay managing steady production on offense through scheme. That's clearly not the case here. It's just...bad.
+One of the keys here to winning was Tampa Bay managing steady production on offense through scheme. That's clearly not the case here. It's just...bad strategy. I wonder if Brady is pushing this emphasis on passing now that Bruce Arians is no longer there to check him.
