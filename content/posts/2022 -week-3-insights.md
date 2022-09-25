@@ -59,3 +59,5 @@ Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the m
 ## Packers @ Buccaneers
 
 Tampa Bay's scripted plays opening up the game have been fantastic. Not bad. I do want to see a bit more running.
+
+Likewise, the same can be said of Green Bay's scripted plays.
