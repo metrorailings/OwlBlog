@@ -60,4 +60,6 @@ Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the m
 
 Tampa Bay's scripted plays opening up the game have been fantastic. Not bad. I do want to see a bit more running.
 
-Likewise, the same can be said of Green Bay's scripted plays. Doubs especially doing some good work in the opening drive.
+Likewise, the same can be said of Green Bay's scripted plays. Romeo Doubs especially doing some good work in the opening drive.
+
+I'm a little concerned here by the Buccaneers defense here. They're not doing a great job limiting rushing yardage or pressuring Rodgers. It's very unusual, especially considering the humidity should be favoring them today.
