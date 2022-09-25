@@ -19,3 +19,7 @@ Denzel Ward isn't a good cornerback. Lost occasionally, relies on physicality bo
 George Pickens could be a real gamer for Pittsburgh's offense.
 
 ***
+
+## Eagles @ Commanders
+
+Quez Watkins is the Eagles deep passing threat, certified.
