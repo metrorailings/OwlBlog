@@ -28,4 +28,6 @@ Carson and his tendency to play hero ball is backfiring tremendously here. Get r
 
 Not good, Wentz. I think the maxim here is that Carson can perform well against _bad_ teams. Against good teams, never side with Carson. His passes have been pathetic and lacking any mustard.
 
+It's also noteworthy that Washington's offensive coach is still insisting on seven-stop drops after seeing his quarterback get brutalized in the first quarter.
+
 ***
