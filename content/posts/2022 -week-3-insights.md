@@ -31,3 +31,7 @@ Not good, Wentz. I think the maxim here is that Carson can perform well against 
 It's also noteworthy that Washington's offensive coach is still insisting on seven-stop drops after seeing his quarterback get brutalized in the first quarter.
 
 ***
+
+## Chiefs @ Colts
+
+I suspect the Colts pass rush is lacking. I also suspect Matt Ryan is a surprising liability for the offense. What is it about Frank Reich turning washed-up quarterbacks into albatrosses?
