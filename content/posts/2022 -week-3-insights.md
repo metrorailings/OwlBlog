@@ -67,3 +67,5 @@ I'm a little concerned here by the Buccaneers defense here. They're not doing a 
 Matt LaFleur seems to have went out of his way to prepare his team for the intense heat over the past three weeks. I wonder if that's the key difference here. Either that or the fact that the offensive line is playing at full health now that David Bakhtieri is back. It'll be instructive to look at the pressure numbers once this game is over.
 
 These Buccaneer depth receivers are just trash. Two fumbles to end two promising drives.
+
+This Green Bay team has a championship defense. Great defensive backs combined with a defensive line headlined by two studs in Preston Smith and Rashan Gary.
