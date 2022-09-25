@@ -35,3 +35,9 @@ It's also noteworthy that Washington's offensive coach is still insisting on sev
 ## Chiefs @ Colts
 
 I suspect the Colts pass rush is lacking. I also suspect Matt Ryan is a surprising liability for the offense. What is it about Frank Reich turning washed-up quarterbacks into albatrosses?
+
+***
+
+## Texans @ Bears
+
+Khalil Herbert is a beast. I need to assess whether he's consistently successful rushing the ball, but his explosiveness can't be denied.
