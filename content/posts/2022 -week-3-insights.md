@@ -70,3 +70,5 @@ These Buccaneer depth receivers are just trash. Two fumbles to end two promising
 This Green Bay team has a championship defense. Great defensive backs combined with a defensive line headlined by two studs in Preston Smith and Rashan Gary.
 
 One of the keys here to winning was Tampa Bay managing steady production on offense through scheme. That's clearly not the case here. It's just...bad strategy. I wonder if Brady is pushing this emphasis on passing now that Bruce Arians is no longer there to check him.
+
+I can't stress this enough, but the key metric here is that before their final drive, Tampa Bay rushed 11 times and tried to pass 29 times. Nearly a 75-25 split with depth receivers. I don't understand this. I thought Brady and Byron Leftwich would recognize the passing game would have to be more muted in favor of the ground game, but that wasn't the case.
