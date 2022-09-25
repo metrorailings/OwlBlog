@@ -22,4 +22,4 @@ George Pickens could be a real gamer for Pittsburgh's offense.
 
 ## Eagles @ Commanders
 
-Quez Watkins is the Eagles deep passing threat, certified.
+Quez Watkins is the Eagles deep passing threat, certified. Thinking he may be a significant weapon on this offense.
