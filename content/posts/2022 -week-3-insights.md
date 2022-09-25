@@ -62,4 +62,6 @@ Tampa Bay's scripted plays opening up the game have been fantastic. Not bad. I d
 
 Likewise, the same can be said of Green Bay's scripted plays. Romeo Doubs especially doing some good work in the opening drive.
 
-I'm a little concerned here by the Buccaneers defense here. They're not doing a great job limiting rushing yardage or pressuring Rodgers. It's very unusual, especially considering the humidity should be favoring them today.
+I'm a little concerned here by the Buccaneers defense here. They're not doing a great job limiting rushing yardage or pressuring Rodgers. It's very unusual, especially considering the humidity should be favoring them today. Have these Buccaneers lost a step? Why?
+
+Matt LaFleur seems to have went out of his way to prepare his team for the intense heat over the past three weeks.
