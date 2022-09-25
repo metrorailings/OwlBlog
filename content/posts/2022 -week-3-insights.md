@@ -17,3 +17,5 @@ Myles Garrett still a dominant force. It remains to be see whether the same can 
 Denzel Ward isn't a good cornerback. Lost occasionally, relies on physicality bordering on penalty to try and break up passes...
 
 George Pickens could be a real gamer for Pittsburgh's offense.
+
+***
