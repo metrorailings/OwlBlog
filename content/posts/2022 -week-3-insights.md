@@ -53,3 +53,9 @@ Tua with the deep pass on 3rd and 22 to set up a touchdown. Impressive. I'm seei
 ## Ravens @ Patriots
 
 Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the man's going to be suffering through much of the season going at his current pace.
+
+***
+
+## Packers @ Buccaneers
+
+Tampa Bay's scripted plays opening up the game have been fantastic. Not bad. I do want to see a bit more running.
