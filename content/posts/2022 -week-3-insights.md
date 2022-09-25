@@ -25,3 +25,7 @@ George Pickens could be a real gamer for Pittsburgh's offense.
 Quez Watkins is the Eagles deep passing threat, certified. Thinking he may be a significant weapon on this offense.
 
 Carson and his tendency to play hero ball is backfiring tremendously here. Get rid of the fucking ball, Carson.
+
+Not good, Wentz. I think the maxim here is that Carson can perform well against _bad_ teams. Against good teams, never side with Carson. His passes have been pathetic and lacking any mustard.
+
+***
