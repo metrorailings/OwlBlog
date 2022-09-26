@@ -88,3 +88,7 @@ I'm thinking Garoppalo preselects his shots. Really not able to adjust after the
 Broncos have a great rushing game, so long as Hackett can stick with it.
 
 The threat of Wilson running is opening up shovel pass opportunities that have been absolute money for Denver.
+
+Randy Gregory could be a difference maker for the defense.
+
+Defensive coordinator Ejiro Evero had a fantastic game plan here to limit the 49ers. Five and six-man fronts were used to limit the 49ers from running their outside zone game. The edge rushers would rush in such a way to ensure Jimmy G can never release a quick screen pass cleanly. Well done. The guy's going to be a superstar if he continues game planning like this.
