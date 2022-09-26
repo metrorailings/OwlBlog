@@ -53,6 +53,8 @@ Tua with the deep pass on 3rd and 22 to set up a touchdown. Impressive. I'm seei
 
 Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the man's going to be suffering through much of the season going at his current pace.
 
+Seems to me that the Patriot defense is playing quite a bit of dime personnel against Lamar and the offense, trading size for speed.
+
 ***
 
 ## Packers @ Buccaneers
