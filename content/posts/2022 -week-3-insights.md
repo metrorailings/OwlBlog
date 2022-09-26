@@ -77,4 +77,4 @@ I can't stress this enough, but the key metric here is that before their final d
 
 ## 49ers @ Broncos
 
-Russell still looks very uncomfortable in this offense. Odd.
+Russell still looks very uncomfortable in this offense. Odd. We know he's overrated, but to drop off this much from last year is alarming.
