@@ -116,3 +116,5 @@ Jaguars defense seems to mix things up with man coverage and zone coverage. Nick
 The Charger defense incorporates more Fangio-style principles, especially in coverage. Lots of man coverage with two deep safeties to prevent big plays.
 
 Despite Herbert's rib injury, Los Angeles isn't really running the ball much. Odd. That being said, there's no doubt Herbert is just as elite this year as he was last year.
+
+Both the Chargers and Jaguars run a similar offshoot of the west-coast style offense. Lots of quick passes, peppered with the occasional big play. Neither team seems overly concerned about establishing the ground game, although Jacksonville had early success rushing the ball. 
