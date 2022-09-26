@@ -55,6 +55,8 @@ Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the m
 
 Seems to me that the Patriot defense is playing quite a bit of dime personnel against Lamar and the offense, trading size for speed.
 
+Deatrich Wise actually showing up in the pass rush.
+
 ***
 
 ## Packers @ Buccaneers
