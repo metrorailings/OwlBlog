@@ -55,7 +55,9 @@ Mac Jones, on top of back issues, took a hard hit to his leg. Pretty clear the m
 
 Seems to me that the Patriot defense is playing quite a bit of dime personnel against Lamar and the offense, trading size for speed.
 
-Deatrich Wise actually showing up in the pass rush.
+Deatrich Wise actually showing up in the pass rush. Could this finally be the year he breaks out as a complimentary piece opposite Matthew Judon?
+
+This Baltimore offense hasn't changed colors much. Still very much focused on Lamar's ability to run setting up everything else, be it the read-option or the play-action. Lamar still prefers to throw his balls in between the numbers.
 
 ***
 
