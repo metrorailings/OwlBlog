@@ -108,3 +108,5 @@ Jimmy G needs time to ingratiate himself into the Shanahan system now that he's 
 ## Jaguars @ Chargers
 
 The game's just started and I already see that the Chargers struggling mightily against opposing rushers. 
+
+The Jaguars red zone packages are a little uninspiring, to say the least. I expected better than just simple routes to create space.
