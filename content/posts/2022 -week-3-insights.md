@@ -102,3 +102,9 @@ Randy Gregory could be a difference maker for the defense.
 Defensive coordinator Ejiro Evero had a fantastic game plan here to limit the 49ers. Five and six-man fronts were used to limit the 49ers from running their outside zone game. The edge rushers would rush in such a way to ensure Jimmy G can never release a quick screen pass cleanly. Well done. The guy's going to be a superstar if he continues game planning like this.
 
 Jimmy G needs time to ingratiate himself into the Shanahan system now that he's the starter going forward. Keep in mind the man had very little practice in training camp.
+
+***
+
+## Jaguars @ Chargers
+
+The game's just started and I already see that the Chargers struggling mightily against opposing rushers. 
