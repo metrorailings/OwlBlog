@@ -114,3 +114,5 @@ The Jaguars red zone packages are a little uninspiring, to say the least. I expe
 Jaguars defense seems to mix things up with man coverage and zone coverage. Nickel personnel is likely its base grouping on defense.
 
 The Charger defense incorporates more Fangio-style principles, especially in coverage. Lots of man coverage with two deep safeties to prevent big plays.
+
+Despite Herbert's rib injury, Los Angeles isn't really running the ball much. Odd.
