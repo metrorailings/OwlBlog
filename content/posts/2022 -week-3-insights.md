@@ -110,3 +110,5 @@ Jimmy G needs time to ingratiate himself into the Shanahan system now that he's 
 The game's just started and I already see that the Chargers struggling mightily against opposing rushers. 
 
 The Jaguars red zone packages are a little uninspiring, to say the least. I expected better than just simple routes to create space.
+
+Jaguars defense seems to mix things up with man coverage and zone coverage. Nickel personnel is likely its base grouping on defense.
