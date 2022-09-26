@@ -59,6 +59,12 @@ Deatrich Wise actually showing up in the pass rush. Could this finally be the ye
 
 This Baltimore offense hasn't changed colors much. Still very much focused on Lamar's ability to run setting up everything else, be it the read-option or the play-action. Lamar still prefers to throw his balls in between the numbers.
 
+Rhamondre Stevenson is a real gamer. A tough runner for these Patriots.
+
+DaVante Parker is finally breaking out as New England's top receiver.
+
+Finally, I see some good throws outside the numbers from Lamar!
+
 ***
 
 ## Packers @ Buccaneers
