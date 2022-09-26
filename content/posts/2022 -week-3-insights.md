@@ -112,3 +112,5 @@ The game's just started and I already see that the Chargers struggling mightily 
 The Jaguars red zone packages are a little uninspiring, to say the least. I expected better than just simple routes to create space.
 
 Jaguars defense seems to mix things up with man coverage and zone coverage. Nickel personnel is likely its base grouping on defense.
+
+The Charger defense incorporates more Fangio-style principles, especially in coverage. Lots of man coverage with two deep safeties to prevent big plays.
