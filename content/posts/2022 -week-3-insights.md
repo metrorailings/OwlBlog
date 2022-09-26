@@ -82,3 +82,7 @@ I can't stress this enough, but the key metric here is that before their final d
 Russell still looks very uncomfortable in this offense. Odd. We know he's overrated, but to drop off this much from last year is alarming.
 
 I'm thinking Garoppalo preselects his shots. Really not able to adjust after the snap.
+
+Broncos have a great rushing game, so long as Hackett can stick with it.
+
+The threat of Wilson running is opening up shovel pass opportunities that have been absolute money for Denver.
