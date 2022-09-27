@@ -131,4 +131,4 @@ Giants playing here with many short routes and slashes inside to the middle of t
 
 Cooper Rush taking these hits from the Giants. I really do think this guy is better than Dak.
 
-Now Rush is demonstrating he can read the blitz and throw hot routes when the situation is favorable. I think the Cowboys are in good hands here.
+Now Rush is demonstrating he can read the blitz and throw hot routes when the situation is favorable. I think the Cowboys are in good hands here. Kudos to Kellen Moore for developing the quarterback too.
