@@ -164,3 +164,5 @@ This Falcons offense has some fun potential. Having Mariota run a read-option, u
 Likewise, Seattle is starting to break out too. Not only is DK Metcalf involved more, but Geno Smith is more comfortably throwing from the pocket. Smith even made some passes to the middle of the field through some tight throwing windows.
 
 Fantastic call on 3rd-and-1 from the Seahawks, running a play action to set up a deep shot to a tight end left uncovered.
+
+Seahawks playing quite a bit of cover-three. It is their base defense though as well as their bread and butter, but without the talent, it can be a little too easy to pick apart, as Mariota and his men are clearly proving.
