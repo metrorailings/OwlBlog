@@ -126,3 +126,5 @@ Both the Chargers and Jaguars run a similar offshoot of the west-coast style off
 Cowboys are killing themselves with penalties. It's hilarious.
 
 Cooper Rush impressing here with his willingness to pass deep.
+
+Giants playing here with many short routes and slashes inside to the middle of the field against the press coverage.
