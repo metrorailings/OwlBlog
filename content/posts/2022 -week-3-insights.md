@@ -136,3 +136,5 @@ Now Rush is demonstrating he can read the blitz and throw hot routes when the si
 Kellen Moore needs to be given some serious credit here for the concepts he's incorporating here. He's outwitting Wink.
 
 None of the Giants pass rushers have quite stepped up. WHere's Azeez, Ximenes, and Kayvon?
+
+Also, their receiver situation has me baffled. Kenny Golladay and Sterling Shepard haven't done much despite their outsized contracts. Richie James has **easily** been our best receiver. Nobody else has come close. 
