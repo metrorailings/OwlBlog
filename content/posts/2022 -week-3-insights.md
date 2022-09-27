@@ -107,7 +107,7 @@ Jimmy G needs time to ingratiate himself into the Shanahan system now that he's 
 
 ## Jaguars @ Chargers
 
-The game's just started and I already see that the Chargers struggling mightily against opposing rushers. 
+The game's just started and I already see that the Chargers struggling mightily against opposing rushers.
 
 The Jaguars red zone packages are a little uninspiring, to say the least. I expected better than just simple routes to create space.
 
@@ -117,4 +117,10 @@ The Charger defense incorporates more Fangio-style principles, especially in cov
 
 Despite Herbert's rib injury, Los Angeles isn't really running the ball much. Odd. That being said, there's no doubt Herbert is just as elite this year as he was last year.
 
-Both the Chargers and Jaguars run a similar offshoot of the west-coast style offense. Lots of quick passes, peppered with the occasional big play. Neither team seems overly concerned about establishing the ground game, although Jacksonville had early success rushing the ball. 
+Both the Chargers and Jaguars run a similar offshoot of the west-coast style offense. Lots of quick passes, peppered with the occasional big play. Neither team seems overly concerned about establishing the ground game, although Jacksonville had early success rushing the ball.
+
+***
+
+## Cowboys @ Giants
+
+Cowboys are killing themselves with penalties. It's hilarious.
