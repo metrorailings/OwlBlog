@@ -161,6 +161,6 @@ Dean Pees seems to prefer dime packages on third down.
 
 This Falcons offense has some fun potential. Having Mariota run a read-option, using hard play-action fakes to open up space for receivers, Mariota willing to throw the ball deep...
 
-Likewise, Seattle is starting to break out too. Not only is DK Metcalf involved more, but Geno Smith is more comfortably throwing from the pocket.
+Likewise, Seattle is starting to break out too. Not only is DK Metcalf involved more, but Geno Smith is more comfortably throwing from the pocket. Smith even made some passes to the middle of the field through some tight throwing windows.
 
 Fantastic call on 3rd-and-1 from the Seahawks, running a play action to set up a deep shot to a tight end left uncovered.
