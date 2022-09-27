@@ -170,3 +170,5 @@ Seahawks playing quite a bit of cover-three. It is their base defense though as 
 Geno doing well distributing the ball all over, though he clearly favors DK Metcalf, as he should.
 
 Maybe it's a damning statement on both the Atlanta and Seattle defenses, but their offenses have been outstanding in the first half. 37 points scored in the first half by offensive units that didn't enter the season with high expectations. Geno Smith and Marcus Mariota are also excelling at their quarterbacking. 
+
+Honestly, I haven't seen much from either side's pass rush.
