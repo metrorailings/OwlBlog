@@ -166,3 +166,5 @@ Likewise, Seattle is starting to break out too. Not only is DK Metcalf involved 
 Fantastic call on 3rd-and-1 from the Seahawks, running a play action to set up a deep shot to a tight end left uncovered.
 
 Seahawks playing quite a bit of cover-three. It is their base defense though as well as their bread and butter, but without the talent, it can be a little too easy to pick apart, as Mariota and his men are clearly proving.
+
+Geno doing well distributing the ball all over, though he clearly favors DK Metcalf, as he should.
