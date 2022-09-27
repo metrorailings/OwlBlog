@@ -140,3 +140,9 @@ None of the Giants pass rushers have quite stepped up. WHere's Azeez, Ximenes, a
 Also, their receiver situation has me baffled. Kenny Golladay and Sterling Shepard haven't done much despite their outsized contracts. Richie James has **easily** been our best receiver. Nobody else has come close. Evan Engram may have actually thrived in this offense, but we shipped him off to Jacksonville.
 
 Dallas using plenty of tight ends to strengthen their rushing attack. And it's working. 
+
+***
+
+## Bengals @ Jets
+
+Jets didn't play enough deep coverage against the Bengals. Perhaps more than their lack of a pass rush, this is what doomed them. Keeping only a single safety in the defensive backfield played right into the Bengals hands - Joe Burrow was able to nail the deep passes that are the heartbeat of Cincinnati's offense. 
