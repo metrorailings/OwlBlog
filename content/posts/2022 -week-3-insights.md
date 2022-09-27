@@ -137,4 +137,4 @@ Kellen Moore needs to be given some serious credit here for the concepts he's in
 
 None of the Giants pass rushers have quite stepped up. WHere's Azeez, Ximenes, and Kayvon?
 
-Also, their receiver situation has me baffled. Kenny Golladay and Sterling Shepard haven't done much despite their outsized contracts. Richie James has **easily** been our best receiver. Nobody else has come close. 
+Also, their receiver situation has me baffled. Kenny Golladay and Sterling Shepard haven't done much despite their outsized contracts. Richie James has **easily** been our best receiver. Nobody else has come close. Evan Engram may have actually thrived in this offense, but we shipped him off to Jacksonville. 
