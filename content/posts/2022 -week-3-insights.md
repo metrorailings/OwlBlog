@@ -158,3 +158,5 @@ Sauce Gardner might be the real thing, given the way he limited Ja'Marr Chase.
 Falcons are just getting gashed by the Seahawks tailbacks in the first drive.
 
 Dean Pees seems to prefer dime packages on third down.
+
+This Falcons offense has some fun potential. Having Mariota run a read-option, using hard play-action fakes to open up space for receivers, Mariota willing to throw the ball deep...
