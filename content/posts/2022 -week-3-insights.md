@@ -168,3 +168,5 @@ Fantastic call on 3rd-and-1 from the Seahawks, running a play action to set up a
 Seahawks playing quite a bit of cover-three. It is their base defense though as well as their bread and butter, but without the talent, it can be a little too easy to pick apart, as Mariota and his men are clearly proving.
 
 Geno doing well distributing the ball all over, though he clearly favors DK Metcalf, as he should.
+
+Maybe it's a damning statement on both the Atlanta and Seattle defenses, but their offenses have been outstanding in the first half. 37 points scored in the first half by offensive units that didn't enter the season with high expectations. Geno Smith and Marcus Mariota are also excelling at their quarterbacking. 
