@@ -128,3 +128,7 @@ Cowboys are killing themselves with penalties. It's hilarious.
 Cooper Rush impressing here with his willingness to pass deep.
 
 Giants playing here with many short routes and slashes inside to the middle of the field against the press coverage.
+
+Cooper Rush taking these hits from the Giants. I really do think this guy is better than Dak.
+
+Now Rush is demonstrating he can read the blitz and throw hot routes when the situation is favorable. I think the Cowboys are in good hands here.
