@@ -180,3 +180,34 @@ San Francisco seems to have had the Rams number the past couple years. Yes, Los 
 I'm banking on history repeating itself here. Even though the defensive brain trust over in Los Angeles has keyed in on some of San Francisco's tendencies, the reality is that Kyle has reliably won these games against his protege going back the past couple years. It's odd too, considering Los Angeles follows a philosophy on defense designed to counter the type of zone-running concepts Kyle employs on offense. And yet, the 49ers almost always manage to dominate these games against their rival Rams.
 
 On top of that, the Rams haven't really impressed me this year. It's clear Matthew Stafford is regressing pretty badly. Outside of Cooper Kupp, nobody else among the skill players have stepped up as reliable producers, although Cam Akers may have had a breakout game last week.
+
+***
+
+### Commanders @ Cowboys (-3)
+
+***
+
+##### _Streaks_
+
+Commanders - 2L  
+Cowboys - 2W
+
+##### _Injuries_
+
+Michael Gallup is expected to finally play for the Cowboys.
+
+##### _Weather_
+
+Beautiful
+
+##### _History_
+
+Dallas absolutely obliterated this Washington team last time they played last season. This season, Washington has arguably gotten worser while Dallas has improved, at least from a coaching standpoint. 
+
+***
+
+### Cowboys -3
+
+***
+
+I don't understand this. To state that the Commanders would remain competitive with the Cowboys if this game took place on a neutral field is...jarring. That thought alone is giving me a concussion. The only way Washington stands a chance against Dallas and their venerable pass rush is if Dallas strolls into this match with zero fucks. And that could happen - Dallas is coming off a momentous primetime win while the Commanders are reeling from one of the worst beatdowns of the season so far. If the Commanders win, it's only because they have the emotional edge.
