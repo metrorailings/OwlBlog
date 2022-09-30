@@ -71,3 +71,36 @@ The Texans housed the Chargers last year as double-digit underdogs, thanks to a 
 Watching the Chargers play last week, I still see opposing rushers having a lovely time just running up yards against them. If Dameon Pierce is given more leash here, Houston's ground game should help them find some points here. 
 
 On top of that, this offense isn't the same now that Herbert is still recovering from rib cartilage issues. If Jerry Hughes, Rasheem Green, and the rest of Houston's feisty defense can harangue Herbert, expect the man to make some mistakes.
+
+***
+
+### Patriots @ Packers (-9.5)
+
+***
+
+##### _Streaks_
+
+Patriots - 1L  
+Packers - 2W
+
+##### _Injuries_
+
+With Mac Jones sidelined with a high ankle sprain, Brian Hoyer will now start as the quarterback of the Patriots offense.
+
+##### _Weather_
+
+Cloudy and temperate
+
+##### _History_
+
+No recent history between these two organization or their main coaches
+
+***
+
+### Uncertain
+
+***
+
+The Patriots are a middling team, but Green Bay doesn't deserve to be such massive favorites here considering their offense hasn't hit full stride - Aaron Rodgers is still developing connections with his younger receivers.
+
+Then again, Brian Hoyer is starting in this game. And I worry he may be completely out of his depth, having not seriously played football the past couple years.
