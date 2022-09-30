@@ -137,3 +137,5 @@ Things are much more predictable now in this rematch, especially now that Kyler 
 I say the Cardinals are being underrated here largely because of their sorry performance last week against the Rams. The reality is that Arizona was able to move the ball steadily against the Rams, but they just couldn't finish. Kyler Murray lacked that clutch mentality needed to finish drives in the end zone. Even against the Raiders, it took every trick in the book to steal the win away at the end.
 
 Even though Arizona has issues finishing drives, I expect better results here simply because he'll have more opportunities to matriculate the ball downfield thanks to Baker Mayfield playing hopelessly. As long as the Cardinals defense can force enough short drives from the Panthers, Kyler has no reason not to pin up points here.
+
+***
