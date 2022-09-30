@@ -19,3 +19,5 @@ Miami can't manufacture any pressure on Burrow. Very disappointing considering t
 Interesting that both of Miami's starting cornerbacks are out and Boyer still insists on running man coverage, especially against a Bengal team that's been notably weak against zone coverage.
 
 I feel like Cincinnati's offense should be more productive given the style of defense Miami prefers to play and the lack of pressure. But only 13 completions on 22 throws made from a clean pocket? Not good.
+
+Hayden Hurst finally involved in the Cincinnati passing game.
