@@ -33,4 +33,8 @@ These two danced a couple years ago in the playoffs. Even though the score would
 
 ***
 
-### 
+### Bills -3
+
+***
+
+Not all too comfortable siding with Buffalo here given Lamar's been playing at a high level. But Baltimore's defense is very much a work-in-progress under Mike Macdonald.
