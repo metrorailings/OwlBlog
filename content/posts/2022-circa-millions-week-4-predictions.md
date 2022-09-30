@@ -52,6 +52,8 @@ Texans - 2L
 
 ##### _Injuries_
 
+Justin Herbert is still dealing with a rib injury that won't fully heal for a few weeks.
+
 ##### _Weather_
 
 Clear and lovely weather
@@ -66,4 +68,6 @@ The Texans housed the Chargers last year as double-digit underdogs, thanks to a 
 
 ***
 
-Watching the Chargers play last week, I still see opposing rushers 
+Watching the Chargers play last week, I still see opposing rushers having a lovely time just running up yards against them. If Dameon Pierce is given more leash here, Houston's ground game should help them find some points here. 
+
+On top of that, this offense isn't the same now that Herbert is still recovering from rib cartilage issues. If Jerry Hughes, Rasheem Green, and the rest of Houston's feisty defense can harangue Herbert, expect the man to make some mistakes.
