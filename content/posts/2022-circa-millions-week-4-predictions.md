@@ -65,3 +65,5 @@ The Texans housed the Chargers last year as double-digit underdogs, thanks to a 
 ### Texans +5
 
 ***
+
+Watching the Chargers play last week, I still see opposing rushers 
