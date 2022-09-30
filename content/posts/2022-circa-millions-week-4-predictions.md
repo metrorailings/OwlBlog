@@ -40,3 +40,28 @@ These two danced a couple years ago in the playoffs. Even though the score would
 Not all too comfortable siding with Buffalo here given Lamar's been playing at a high level. But Baltimore's defense is very much a work-in-progress under Mike Macdonald. Miami and New England have exposed some serious flaws with the way that unit operates. I expect Josh Allen to do the same. Buffalo's own defense has issues now that injury is ravaging the secondary, but it should be good enough to limit Lamar in spurts.
 
 ***
+
+### Chargers @ Texans (+5)
+
+***
+
+##### _Streaks_
+
+Chargers - 1L  
+Texans - 2L
+
+##### _Injuries_
+
+##### _Weather_
+
+Clear and lovely weather
+
+##### _History_
+
+The Texans housed the Chargers last year as double-digit underdogs, thanks to a career game from Rex Burkhead, who gashed the Chargers for big yardage. 
+
+***
+
+### Texans +5
+
+***
