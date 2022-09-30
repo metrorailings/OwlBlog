@@ -139,3 +139,32 @@ I say the Cardinals are being underrated here largely because of their sorry per
 Even though Arizona has issues finishing drives, I expect better results here simply because he'll have more opportunities to matriculate the ball downfield thanks to Baker Mayfield playing hopelessly. As long as the Cardinals defense can force enough short drives from the Panthers, Kyler has no reason not to pin up points here.
 
 ***
+
+### Rams @ 49ers (-1.5)
+
+***
+
+##### _Streaks_
+
+Rams - 2W  
+49ers - 1L
+
+##### _Injuries_
+
+##### _Weather_
+
+Beautiful San Francisco weather
+
+##### _History_
+
+San Francisco seems to have had the Rams number the past couple years. Yes, Los Angeles was finally able to win one over them in the conference championship last year, but second rematches are always difficult affairs for teams that have won the first two matches. On top of that, collapsing in the playoffs has become a hallmark of Kyle Shanahan's coaching career, going back to his days in Atlanta - it really shouldn't have been much of a surprise to see the 49ers choke away the lead in the fourth quarter.
+
+***
+
+### 49ers -1.5
+
+***
+
+I'm banking on history repeating itself here. Even though the defensive brain trust over in Los Angeles has keyed in on some of San Francisco's tendencies, the reality is that Kyle has reliably won these games against his protege going back the past couple years. It's odd too, considering Los Angeles follows a philosophy on defense designed to counter the type of zone-running concepts Kyle employs on offense. And yet, the 49ers almost always manage to dominate these games against their rival Rams.
+
+On top of that, the Rams haven't really impressed me this year. It's clear Matthew Stafford is regressing pretty badly. Outside of Cooper Kupp, nobody else among the skill players have stepped up as reliable producers, although Cam Akers may have had a breakout game last week.
