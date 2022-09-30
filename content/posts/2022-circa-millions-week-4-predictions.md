@@ -104,3 +104,5 @@ No recent history between these two organization or their main coaches
 The Patriots are a middling team, but Green Bay doesn't deserve to be such massive favorites here considering their offense hasn't hit full stride - Aaron Rodgers is still developing connections with his younger receivers.
 
 Then again, Brian Hoyer is starting in this game. And I worry he may be completely out of his depth, having not seriously played football the past couple years.
+
+***
