@@ -113,7 +113,7 @@ The Jaguars red zone packages are a little uninspiring, to say the least. I expe
 
 Jaguars defense seems to mix things up with man coverage and zone coverage. Nickel personnel is likely its base grouping on defense.
 
-The Charger defense incorporates more Fangio-style principles, especially in coverage. Lots of man coverage with two deep safeties to prevent big plays. 
+The Charger defense incorporates more Fangio-style principles, especially in coverage. Lots of man coverage with two deep safeties to prevent big plays.
 
 Staley does like throwing blitzes every now and then, but Jacksonville's style of offense seems to play well against the blitz, given how quickly Laurence seems to prefer to get rid of the ball.
 
@@ -169,6 +169,8 @@ Seahawks playing quite a bit of cover-three. It is their base defense though as 
 
 Geno doing well distributing the ball all over, though he clearly favors DK Metcalf, as he should.
 
-Maybe it's a damning statement on both the Atlanta and Seattle defenses, but their offenses have been outstanding in the first half. 37 points scored in the first half by offensive units that didn't enter the season with high expectations. Geno Smith and Marcus Mariota are also excelling at their quarterbacking. 
+Maybe it's a damning statement on both the Atlanta and Seattle defenses, but their offenses have been outstanding in the first half. 37 points scored in the first half by offensive units that didn't enter the season with high expectations. Geno Smith and Marcus Mariota are also excelling at their quarterbacking.
 
 Honestly, I haven't seen much from either side's pass rush.
+
+***
