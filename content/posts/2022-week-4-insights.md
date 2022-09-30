@@ -4,3 +4,8 @@ draft = true
 headline = "Week 4 Insights"
 
 +++
+## Dolphins @ Bengals
+
+Dolphins have issues defensing the run.
+
+Good adjustment by Boyer, switching over to a two-safety look to keep the Bengals from cashing in on their signature big plays.
