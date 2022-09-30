@@ -120,6 +120,10 @@ Panthers - 1W
 
 ##### _Injuries_
 
+It's possible Arizona could be without Hollywood Brown after the wide receiver appeared on the injury roll Friday with a foot injury. Not good. But on the flip side, Rondale Moore could finally be making his debut this season.
+
+Carolina seems to be concerned about Christian McCaffrey, who's only managed to log one practice this week. Not good if their best weapon on offense fails to suit up or leaves early.
+
 ##### _Weather_
 
 Cloudy, but otherwise pleasant
