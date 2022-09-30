@@ -23,6 +23,8 @@ Ravens - 1W
 
 ##### _Injuries_
 
+Buffalo is still a bit short-handed in the secondary so long as Jordan Poyer remains unable to play. The real question is whether Ed Oliver can suit up, especially now that Jordan Phillips has been declared out. Buffalo needs all the help it can get against Lamar and the run-heavy Baltimore defense.  
+
 ##### _Weather_
 
 Some rain is expected
@@ -52,7 +54,7 @@ Texans - 2L
 
 ##### _Injuries_
 
-Justin Herbert is still dealing with a rib injury that won't fully heal for a few weeks.
+Justin Herbert is still dealing with a rib injury that won't fully heal for a few weeks. Perhaps just as worrying, they're down key pieces along the offensive and defensive lines. Arguably their best player on defense will be out for the season. And the offensive line is so depleted that Storm Norton is now being called to protect Herbert in the pocket. To make matters worse, Keenan Allen isn't forecasted to play either. 
 
 ##### _Weather_
 
