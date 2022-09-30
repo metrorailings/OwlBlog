@@ -17,3 +17,5 @@ Boyer seems to have abandoned the double-high safety looks in favor of man cover
 Miami can't manufacture any pressure on Burrow. Very disappointing considering these same Dolphins were considered one of the league's best when it came to rushing the passer last year.
 
 Interesting that both of Miami's starting cornerbacks are out and Boyer still insists on running man coverage, especially against a Bengal team that's been notably weak against zone coverage.
+
+I feel like Cincinnati's offense should be more productive given the style of defense Miami prefers to play and the lack of pressure.
