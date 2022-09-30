@@ -12,8 +12,25 @@ Also, one word about the Buccaneers - the offense is worthless without its recei
 
 ***
 
-### Bills @ Ravens
+### Bills @ Ravens (+3)
 
 ***
 
-##### _Streak_
+##### _Streaks_
+
+Bills - 1L  
+Ravens - 1W
+
+##### _Injuries_
+
+##### _Weather_
+
+Some rain is expected
+
+##### _History_
+
+These two danced a couple years ago in the playoffs. Even though the score would suggest neither team really impressed, the reality was that Buffalo restrained Lamar Jackson from running wild on them. On top of that, the Bills also concentrated their pass coverage on the middle of the field, forcing Lamar to have to throw outside the numbers in order to generate any production through the air. At the time, Lamar wasn't able to make those types of passes.
+
+***
+
+### 
