@@ -39,7 +39,7 @@ These two danced a couple years ago in the playoffs. Even though the score would
 
 ***
 
-Not all too comfortable siding with Buffalo here given Lamar's been playing at a high level. But Baltimore's defense is very much a work-in-progress under Mike Macdonald. Miami and New England have exposed some serious flaws with the way that unit operates. I expect Josh Allen to do the same. Buffalo's own defense has issues now that injury is ravaging the secondary, but it should be good enough to limit Lamar in spurts.
+Not all too comfortable siding with Buffalo here given Lamar's been playing at a high level. But Baltimore's defense is very much a work-in-progress under Mike Macdonald. Miami and New England have exposed some serious flaws with the way that unit operates. I expect Josh Allen to do the same. Buffalo's own defense has issues now that injuries have impacted multiple position groups, but Sean McDermott should still be able to devise a plan that's good enough to limit Lamar in spurts.
 
 ***
 
