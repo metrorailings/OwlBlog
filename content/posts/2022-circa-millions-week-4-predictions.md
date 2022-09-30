@@ -89,6 +89,8 @@ Packers - 2W
 
 With Mac Jones sidelined with a high ankle sprain, Brian Hoyer will now start as the quarterback of the Patriots offense.
 
+Green Bay is remarkably healthy.
+
 ##### _Weather_
 
 Cloudy and temperate
