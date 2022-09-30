@@ -60,7 +60,7 @@ Clear and lovely weather
 
 ##### _History_
 
-The Texans housed the Chargers last year as double-digit underdogs, thanks to a career game from Rex Burkhead, who gashed the Chargers for big yardage. 
+The Texans housed the Chargers last year as double-digit underdogs, thanks to a career game from Rex Burkhead, who gashed the Chargers for big yardage.
 
 ***
 
@@ -68,7 +68,7 @@ The Texans housed the Chargers last year as double-digit underdogs, thanks to a 
 
 ***
 
-Watching the Chargers play last week, I still see opposing rushers having a lovely time just running up yards against them. If Dameon Pierce is given more leash here, Houston's ground game should help them find some points here. 
+Watching the Chargers play last week, I still see opposing rushers having a lovely time just running up yards against them. If Dameon Pierce is given more leash here, Houston's ground game should help them find some points here.
 
 On top of that, this offense isn't the same now that Herbert is still recovering from rib cartilage issues. If Jerry Hughes, Rasheem Green, and the rest of Houston's feisty defense can harangue Herbert, expect the man to make some mistakes.
 
@@ -97,7 +97,7 @@ No recent history between these two organization or their main coaches
 
 ***
 
-### Uncertain
+### Patriots +9.5
 
 ***
 
@@ -106,3 +106,34 @@ The Patriots are a middling team, but Green Bay doesn't deserve to be such massi
 Then again, Brian Hoyer is starting in this game. And I worry he may be completely out of his depth, having not seriously played football the past couple years.
 
 ***
+
+### Cardinals @ Panthers (-1)
+
+***
+
+##### _Streaks_
+
+Cardinals - 1L  
+Panthers - 1W
+
+##### _Injuries_
+
+##### _Weather_
+
+Cloudy, but otherwise pleasant
+
+##### _History_
+
+When these two teams played one another last year, the Panthers surprised everybody and won the game outright despite the sportsbooks pegging them as double-digit underdogs. But a closer look at the game and one can see why **that** game doesn't necessary hold much value in assessing **this** game. First off, the Panthers now have a different offensive coordinator on their staff, one who preaches the west coast approach to offense. Second (and most importantly), neither of the quarterbacks that played in that game will be playing here. Kyler Murray was sidelined with injury in that contest, forcing Colt McCoy to start in his stead. On Carolina's side, that club was riding a short-lived high after reuniting with the beloved Cam Newton. In fact, it was Cam Newton who set the tone early by scoring on a few gadget plays. PJ Walker was the other quarterback playing as well for Carolina, given Newton's unfamiliarity with the playbook. Unlike experienced back-up quarterbacks, very little tape is out there on PJ Walker, so Vance Joseph had to draft a defensive game plan without really understanding what Carolina's offense was going to do with PJ Walker at the helm.
+
+Things are much more predictable now in this rematch, especially now that Kyler Murray is still healthy and Baker Mayfield is a known commodity.
+
+***
+
+### Cardinals +1
+
+***
+
+I say the Cardinals are being underrated here largely because of their sorry performance last week against the Rams. The reality is that Arizona was able to move the ball steadily against the Rams, but they just couldn't finish. Kyler Murray lacked that clutch mentality needed to finish drives in the end zone. Even against the Raiders, it took every trick in the book to steal the win away at the end.
+
+Even though Arizona has issues finishing drives, I expect better results here simply because he'll have more opportunities to matriculate the ball downfield thanks to Baker Mayfield playing hopelessly. As long as the Cardinals defense can force enough short drives from the Panthers, Kyler has no reason not to pin up points here.
