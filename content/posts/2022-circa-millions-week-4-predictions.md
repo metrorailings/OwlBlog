@@ -157,6 +157,10 @@ Rams - 2W
 
 ##### _Injuries_
 
+The Rams are starting to lose some pieces along the wings now that cornerback Troy Hill and wide receiver Van Jefferson have been shifted over to injured reserve.
+
+The injuries are adding up for San Francisco too. Azeez Al-Shaair will be missed for several weeks and Arik Armstead's status remains uncertain. Perhaps most scary is the loss of Trent Williams for the season. Good thing the Rams don't have a dominant edge rusher... 
+
 ##### _Weather_
 
 Beautiful San Francisco weather
