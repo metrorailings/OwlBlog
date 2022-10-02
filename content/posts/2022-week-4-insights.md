@@ -38,4 +38,10 @@ Fuck Pep Hamilton. The fact that this offense couldn't score as many points agai
 
 ## Patriots @ Packers
 
-Packers are just running the ball down the Patriots throat.
+Packers were successful throwing the ball against the Patriots early zone coverage, but ever since New England switched to man coverage, the ground game has taken over.
+
+***
+
+## Cardinals @ Panthers
+
+Still not sure what to make of this Panther defense. Brian Burns is a star as is Jeremy Chinn. Does anybody else really stand out?
