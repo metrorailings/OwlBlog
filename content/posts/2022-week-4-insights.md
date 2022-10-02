@@ -33,3 +33,9 @@ The Commanders defensive line is truly something fierce. Nobody else this season
 ## Chargers @ Texans
 
 Fuck Pep Hamilton. The fact that this offense couldn't score as many points against the Chargers as they did last year is an indictment on his style of offense. Dameon Pierce has only 13 carries! 13 carries?! Last year, Houston gave their tailbacks 35 chances with the rock against these Chargers.
+
+***
+
+## Patriots @ Packers
+
+Packers are just running the ball down the Patriots throat.
