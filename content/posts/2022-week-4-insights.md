@@ -44,4 +44,6 @@ Packers were successful throwing the ball against the Patriots early zone covera
 
 ## Cardinals @ Panthers
 
-Still not sure what to make of this Panther defense. Brian Burns is a star as is Jeremy Chinn. Does anybody else really stand out?
+Still not sure what to make of this Panther defense. Brian Burns is a star as is Jeremy Chinn. Does anybody else really stand out? What about their first-round draft picks in the secondary?
+
+Once again, Phil Snow with his hopeless three-man rushes.
