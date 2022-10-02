@@ -51,3 +51,5 @@ Patriots switching from an inside zone running scheme to a power running scheme 
 Still not sure what to make of this Panther defense. Brian Burns is a star as is Jeremy Chinn. Does anybody else really stand out? What about their first-round draft picks in the secondary?
 
 Once again, Phil Snow with his hopeless three-man rushes.
+
+Frankie Luvu may be another name worth watching on that Carolina defense. He's been making multiple impact plays in the game.
