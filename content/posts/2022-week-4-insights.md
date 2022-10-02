@@ -40,6 +40,8 @@ Fuck Pep Hamilton. The fact that this offense couldn't score as many points agai
 
 Packers were successful throwing the ball against the Patriots early zone coverage, but ever since New England switched to man coverage, the ground game has taken over.
 
+Aaron Rodgers missing on some receivers who've had a step on their man defender. Not good.
+
 ***
 
 ## Cardinals @ Panthers
