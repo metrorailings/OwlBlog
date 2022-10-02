@@ -42,6 +42,8 @@ Packers were successful throwing the ball against the Patriots early zone covera
 
 Aaron Rodgers missing on some receivers who've had a step on their man defender. Not good.
 
+Patriots switching from an inside zone running scheme to a power running scheme in the second half. It's been paying off tremendously. 
+
 ***
 
 ## Cardinals @ Panthers
