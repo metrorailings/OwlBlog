@@ -58,6 +58,8 @@ Frankie Luvu may be another name worth watching on that Carolina defense. He's b
 
 ## Seahawks @ Lions
 
+Geno Smith's ability to run is something I've never really appreciated until now.
+
 ***
 
 ## Chiefs @ Buccaneers
