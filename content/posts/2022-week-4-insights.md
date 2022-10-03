@@ -64,6 +64,8 @@ Seattle incorporating quite a bit of bootlegs and five-wide formations now on of
 
 Geno Smith is _very_ comfortable in this system.
 
+Both these defenses like to employ the zone blitz and occasionally drop linemen into coverage.
+
 ***
 
 ## Chiefs @ Buccaneers
