@@ -42,7 +42,7 @@ Packers were successful throwing the ball against the Patriots early zone covera
 
 Aaron Rodgers missing on some receivers who've had a step on their man defender. Not good.
 
-Patriots switching from an inside zone running scheme to a power running scheme in the second half. It's been paying off tremendously. 
+Patriots switching from an inside zone running scheme to a power running scheme in the second half. It's been paying off tremendously.
 
 ***
 
@@ -59,6 +59,10 @@ Frankie Luvu may be another name worth watching on that Carolina defense. He's b
 ## Seahawks @ Lions
 
 Geno Smith's ability to run is something I've never really appreciated until now.
+
+Seattle incorporating quite a bit of bootlegs and five-wide formations now on offense. Impressive. I'm seeing something coalescing here.
+
+Geno Smith is _very_ comfortable in this system.
 
 ***
 
