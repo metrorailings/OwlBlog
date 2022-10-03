@@ -53,3 +53,7 @@ Still not sure what to make of this Panther defense. Brian Burns is a star as is
 Once again, Phil Snow with his hopeless three-man rushes.
 
 Frankie Luvu may be another name worth watching on that Carolina defense. He's been making multiple impact plays in the game.
+
+***
+
+## Seahawks @ Lions
