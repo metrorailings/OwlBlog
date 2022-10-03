@@ -66,6 +66,10 @@ Geno Smith is _very_ comfortable in this system.
 
 Both these defenses like to employ the zone blitz and occasionally drop linemen into coverage.
 
+Geno Smith and his guys are demonstrating that they're competent enough to overcome poorly called penalties.
+
+Seattle's defensive line is winning its matches in the pass rush.
+
 ***
 
 ## Chiefs @ Buccaneers
