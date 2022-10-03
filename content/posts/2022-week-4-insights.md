@@ -73,3 +73,5 @@ Tom Brady is losing a step. First, it was the match against the Packers where he
 Carlton Davis is pointless. Just letting up major completions.
 
 So it's the second half of the game and Tampa Bay has completely given up on running the ball. Only 3 rushes to something like 30 passes. This is a worrying trend.
+
+This Kansas offense execution has been damn near masterful. Despite the painful loss last week and the hurricane, it's clear the Chiefs came here with the emotional edge. That Super Bowl loss still hurts to this day.
