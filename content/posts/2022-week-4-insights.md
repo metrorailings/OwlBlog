@@ -69,3 +69,5 @@ Now the Chiefs offense is demonstrating a willingness to pass it short, somethin
 Shaq Barrett and Devin White are Tampa's best pass rushers, hands down.
 
 Tom Brady is losing a step. First, it was the match against the Packers where he came in wearing a shirt of his younger self. Then it was him insisting on passing the ball with depth receivers against a defense that prioritizes its passing defense. Now it's him being unable to see a blitz that led to a complete shift in momentum.
+
+Carlton Davis is pointless. Just letting up major completions.
