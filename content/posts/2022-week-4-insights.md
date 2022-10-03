@@ -57,3 +57,9 @@ Frankie Luvu may be another name worth watching on that Carolina defense. He's b
 ***
 
 ## Seahawks @ Lions
+
+***
+
+## Chiefs @ Buccaneers
+
+Now the Chiefs offense is demonstrating a willingness to pass it short, something that should have been back in the Super Bowl. It's paying off against the conservative defensive scheme Bowles is employing against the Kansas offense.
