@@ -96,3 +96,7 @@ This Kansas offense execution has been damn near masterful. Despite the painful 
 ***
 
 ## Jaguars @ Eagles
+
+Trevor Lawrence wasn't ready to handle the ball in such wet weather.
+
+This Jacksonville offense is predicated on short quick passes. Holding the ball too long would expose an offensive line simply unable to hold up against decent defensive fronts. 
