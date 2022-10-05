@@ -37,7 +37,7 @@ Houston's man coverage is suspect. Justin Herbert having real success netting ya
 
 This Houston defense is very susceptible to fakes.
 
-So not only is their man coverage worrisome, but even worse...this pass rush can't manufacture any real pressure, even when it's blitzing.
+So not only is Houston's man coverage worrisome, but even worse...their pass rush can't manufacture any real pressure, even when it's blitzing. Same can be said about the Chargers pass rush in the third quarter - Davis Mills was able to sustain a vital drive by exploiting coverage gaps left behind by blitzers.
 
 This Chargers offense can be sloppy at times. Receivers running into one another on the field on one snap, players colliding in the backfield on another snap... 
 
