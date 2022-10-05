@@ -35,6 +35,8 @@ Fuck Pep Hamilton. The fact that this offense couldn't score as many points agai
 
 Houston's man coverage is suspect. Justin Herbert having real success netting yardage against the Houston defense and their man coverage.
 
+This Houston defense is very susceptible to fakes.
+
 ***
 
 ## Patriots @ Packers
