@@ -37,6 +37,8 @@ Houston's man coverage is suspect. Justin Herbert having real success netting ya
 
 This Houston defense is very susceptible to fakes.
 
+So not only is their man coverage worrisome, but even worse...this pass rush can't manufacture any real pressure, even when it's blitzing.
+
 ***
 
 ## Patriots @ Packers
