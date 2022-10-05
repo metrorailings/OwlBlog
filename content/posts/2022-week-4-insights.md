@@ -39,6 +39,8 @@ This Houston defense is very susceptible to fakes.
 
 So not only is their man coverage worrisome, but even worse...this pass rush can't manufacture any real pressure, even when it's blitzing.
 
+This Chargers offense can be sloppy at times. Receivers running into one another on the field on one snap, players colliding in the backfield on another snap... 
+
 ***
 
 ## Patriots @ Packers
