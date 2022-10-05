@@ -39,7 +39,7 @@ This Houston defense is very susceptible to fakes.
 
 So not only is Houston's man coverage worrisome, but even worse...their pass rush can't manufacture any real pressure, even when it's blitzing. Same can be said about the Chargers pass rush in the third quarter - Davis Mills was able to sustain a vital drive by exploiting coverage gaps left behind by blitzers.
 
-This Chargers offense can be sloppy at times. Receivers running into one another on the field on one snap, players colliding in the backfield on another snap... 
+This Chargers offense can be sloppy at times. Receivers running into one another on the field on one snap, players colliding in the backfield on another snap...
 
 ***
 
@@ -92,3 +92,7 @@ Carlton Davis is pointless. Just letting up major completions.
 So it's the second half of the game and Tampa Bay has completely given up on running the ball. Only 3 rushes to something like 30 passes. This is a worrying trend.
 
 This Kansas offense execution has been damn near masterful. Despite the painful loss last week and the hurricane, it's clear the Chiefs came here with the emotional edge. That Super Bowl loss still hurts to this day.
+
+***
+
+## Jaguars @ Eagles
