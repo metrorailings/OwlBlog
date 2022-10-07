@@ -169,6 +169,10 @@ The Cowboys have been on a hot streak with Cooper Rush at the helm of the offens
 
 ##### _Injuries_
 
+Dallas might be missing the services of star receiver CeeDee Lamb.
+
+The Rams might find themselves thin in the secondary with one starting safety out and the other dealing with rib injuries all week.
+
 ##### _Weather_
 
 Dome game
