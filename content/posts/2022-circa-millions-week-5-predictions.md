@@ -58,7 +58,7 @@ Houston is trying to take back its throne as the worst team in the league. The J
 
 ##### _Injuries_
 
-Does it matter?
+Foley Fatukasi is out for the Jaguars, meaning that rushing defense is not operating anywhere close to full strength. Houston should find some opportunity to be able to run the ball here.
 
 ##### _Weather_
 
@@ -95,7 +95,7 @@ Cincinnati's coming off a decent primetime win while Baltimore is still hurting 
 
 ##### _Injuries_
 
-Hold on...
+Baltimore could be down a crucial weapon in the passing game in Rashod Bateman. On top of that, their pass rush will take a slight blow now that Justin Houston has been definitively ruled out.
 
 ##### _Weather_
 
@@ -113,4 +113,8 @@ The second game yielded similar results, though it's not a fair comparison consi
 
 ***
 
-I'll be honest - the Bengals didn't really impress 
+I'll be honest - the Bengals didn't really impress much against the Dolphins. Miami was forced to throw Teddy Bridgewater out there without any real practice. Even still, Cincinnati was a bit fortunate to leave that game with a win.
+
+That being said, I do believe in Lou Anarumo. And I'm banking on this idea that Anarumo could find ways to limit Lamar Jackson the same way Sean McDermott was able to frustrate him last week. Limiting his ability to pass is absolutely key here, as the Ravens seem unwilling to win a game solely by rushing.
+
+On the other side, Joe Burrow should be able to make hay against this underwhelming Mike Macdonald defense. So long as Burrow can keep pace, the cover is always within reach.
