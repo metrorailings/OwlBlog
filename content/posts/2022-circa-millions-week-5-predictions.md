@@ -138,14 +138,18 @@ The Cardinals will be missing center Rodney Hudson, though Rondale Moore might f
 
 ##### _Weather_
 
-Cool fall weather
+Dome game
 
 ##### _History_
 
-It seems like the Bengals first started breaking out last year after they so pointedly smashed through these Ravens last year in the first of their two matches. Wink Martindale threw way too many blitzes at Joe Burrow. Maybe back in 2019, that would have worked. But now armed with a true deep threat in Ja'Marr Chase, Burrow was able to carve up the defense en route to a statement win.
-
-The second game yielded similar results, though it's not a fair comparison considering Josh Johnson was quarterbacking for the Ravens offense at the time. 
+Neither of these two teams have any recent history together or with common opponents.
 
 ***
 
-### 
+### Eagles -5.5
+
+***
+
+It's possible I might shy away from this pick given the Eagles situation at kicker. But it took the Cardinals moving heaven and earth last week to pull a victory in Carolina. It was a sad win too given the Cardinals offense needed over three full quarters to finally run away with the game. It's clear this offense is a shell of what it was last year - just look at Kyler Murray's average intended air yardage on his throws this season. Nobody else in the NFL is throwing shorter than Kyler Murray - it's pretty grim when Baker Mayfield and Daniel Jones are willing to throw the ball deeper than you.
+
+The only way these Cardinals can keep pace with the Eagles is if their defense can hold Philadelphia's offense at bay on the vast majority of its drives. I don't think Vance Joseph's capable to draw up a game plan to do just that. 
