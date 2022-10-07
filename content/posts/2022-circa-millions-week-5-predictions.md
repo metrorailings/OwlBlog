@@ -118,3 +118,34 @@ I'll be honest - the Bengals didn't really impress much against the Dolphins. Mi
 That being said, I do believe in Lou Anarumo. And I'm banking on this idea that Anarumo could find ways to limit Lamar Jackson the same way Sean McDermott was able to frustrate him last week. Limiting his ability to pass is absolutely key here, as the Ravens seem unwilling to win a game solely by rushing.
 
 On the other side, Joe Burrow should be able to make hay against this underwhelming Mike Macdonald defense. So long as Burrow can keep pace, the cover is always within reach.
+
+***
+
+### Eagles @ Cardinals (+5.5)
+
+***
+
+##### _Streaks_
+
+Eagles - 4W  
+Cardinals - 1W
+
+##### _Injuries_
+
+Jake Elliott is out for the Eagles. Always a little worrying betting on a team missing its place kicker.
+
+The Cardinals will be missing center Rodney Hudson, though Rondale Moore might finally be activated this week.
+
+##### _Weather_
+
+Cool fall weather
+
+##### _History_
+
+It seems like the Bengals first started breaking out last year after they so pointedly smashed through these Ravens last year in the first of their two matches. Wink Martindale threw way too many blitzes at Joe Burrow. Maybe back in 2019, that would have worked. But now armed with a true deep threat in Ja'Marr Chase, Burrow was able to carve up the defense en route to a statement win.
+
+The second game yielded similar results, though it's not a fair comparison considering Josh Johnson was quarterbacking for the Ravens offense at the time. 
+
+***
+
+### 
