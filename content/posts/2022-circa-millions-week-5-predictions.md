@@ -23,12 +23,24 @@ The Saints are reeling after losing a close one in London. Meanwhile, Seattle is
 
 ##### _Injuries_
 
+It's doubtful Jameis Winston will play. And even if he does, the fractures in his back will likely hinder him, as those don't go away so quickly. Michael Thomas and free safety PJ Williams may not make it either.
+
 ##### _Weather_
 
-Dome affair
+Dome game
 
 ##### _History_
 
+Both these teams met last year what was a pretty low-scoring affair. It was a weird game too, considering the way both teams scored their respective touchdown - Geno Smith threw a long bomb to DK Metcalf who managed to elude two defenders while New Orleans struck gold off an aborted snap. 
+
 ***
 
-### 
+### Seahawks (+5.5)
+
+***
+
+This line is too good to be true. I'm not sure why either. Last year when these two danced, the Saints were favored by a point less. That Saints club was arguably better too, with Jameis Winston under center and Alvin Kamara operating in top form. I question whether New Orleans can experience the same success with Andy Dalton at the helm and their receiving corps led by a rookie in Chris Olave and a young gun in Marquez Callaway.  
+
+New Orleans has an emotional edge here given their losing streak and Seattle's statement win over the Lions. Is that enough to justify such a wide spread? I don't think so.
+
+***
