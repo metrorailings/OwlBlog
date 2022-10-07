@@ -75,3 +75,7 @@ The Texans swept the Jaguars last year, but keep in mind that Jaguars team was l
 ***
 
 Sometimes coaches can make all the difference in the world in these matches. Even though Houston housed Jacksonville twice last season, the coaching circumstances are drastically different now. Houston's arguably lost some potency on offense now that Pep Hamilton's calling plays on that side of the ball. Meanwhile, Jacksonville has ascended to a new level after Doug Pederson and his coaching staff transformed the offense and defense to play a style of football better suited to their talents.
+
+Will that be enough to cover such a wide spread? I'm betting yes. Jacksonville's west-coast style offense is exactly the kind of offense that can expose Lovie Smith's undisciplined defense. On top of that, Houston seems to struggle against opposing rushers, which plays well for a Jaguars outfit committed to maintaining an even balance between runs and passes.
+
+Defensively too, Jacksonville's complex defensive schemes should be enough to keep Davis Mills from really popping off. In fact, Houston's pass-heavy offense plays right into the strengths of this Jaguars defense considering Mike Caldwell prefers dedicating more resources to coverage. 
