@@ -179,8 +179,12 @@ Dome game
 
 ##### _History_
 
-Neither of these two teams have any recent history together or with common opponents.
+Neither of these two teams have any recent history together or with common opponents. Though to be fair, these two organizations did dance in the first week of the 2020 season, but that was Mike McCarthy's first game as the coach and different quarterbacks were starting for both teams.
 
 ***
 
-### 
+### Cowboys +5.5
+
+***
+
+Frankly, I'm not enthused at all about this Rams offense. It was an offense that needed talent to truly shine in its simplicity. Instead, the only solid receiver on that team is Cooper Kupp. Void of sufficient talent, the simplicity of the scheme becomes all too easy for opposing defenses to exploit. I think this Dallas defense under Dan Quinn is too good. If Cooper Rush and the combination of Ezekiel Elliott and Tony Pollard can string together two or three scoring drives, that should be enough to nail the cover here.
