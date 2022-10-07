@@ -6,4 +6,14 @@ headline = "Week 5 Insights"
 +++
 ## Colts @ Broncos
 
-Interesting match between two deadbeats.
+Interesting match between these two deadbeats.
+
+As expected, uneventful. No touchdowns. Sums up the ineptitude of both offenses.
+
+Baron Browning may be a top-tier pass rusher for this team. All the more remarkable considering this team is loaded with pass rushing talent (Bradley Chubb, Randy Gregory, and Josey Jewell whenever he blitzes from his linebacking position)
+
+Russell Wilson is washed up. This game all but confirms it. He's missing rapport with his receivers and he lacks touch on his throws.
+
+The Colts love to play quite a bit of cover-three under Gus Bradley. Their rush defense needs to be watched over the next several weeks, as cover-three defenses tend to excel against opposing rushers.
+
+Meaning, Ejiro Evero has proven without any doubt he's a student of the Fangio style defense. He loves fielding five-man fronts with a lone linebacker behind them.
