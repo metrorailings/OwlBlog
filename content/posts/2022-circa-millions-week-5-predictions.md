@@ -79,3 +79,38 @@ Sometimes coaches can make all the difference in the world in these matches. Eve
 Will that be enough to cover such a wide spread? I'm betting yes. Jacksonville's west-coast style offense is exactly the kind of offense that can expose Lovie Smith's undisciplined defense. On top of that, Houston seems to struggle against opposing rushers, which plays well for a Jaguars outfit committed to maintaining an even balance between runs and passes.
 
 Defensively too, Jacksonville's complex defensive schemes should be enough to keep Davis Mills from really popping off. In fact, Houston's pass-heavy offense plays right into the strengths of this Jaguars defense considering Mike Caldwell prefers dedicating more resources to coverage. 
+
+***
+
+### Bengals @ Ravens (-3.5)
+
+***
+
+##### _Streaks_
+
+Bengals - 1W  
+Ravens - 1L
+
+Cincinnati's coming off a decent primetime win while Baltimore is still hurting from a last-minute loss to Buffalo at home.
+
+##### _Injuries_
+
+Hold on...
+
+##### _Weather_
+
+Cool fall weather
+
+##### _History_
+
+It seems like the Bengals first started breaking out last year after they so pointedly smashed through these Ravens last year in the first of their two matches. Wink Martindale threw way too many blitzes at Joe Burrow. Maybe back in 2019, that would have worked. But now armed with a true deep threat in Ja'Marr Chase, Burrow was able to carve up the defense en route to a statement win.
+
+The second game yielded similar results, though it's not a fair comparison considering Josh Johnson was quarterbacking for the Ravens offense at the time. 
+
+***
+
+### Bengals +3.5
+
+***
+
+I'll be honest - the Bengals didn't really impress 
