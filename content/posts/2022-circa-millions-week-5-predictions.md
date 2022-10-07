@@ -153,3 +153,30 @@ Neither of these two teams have any recent history together or with common oppon
 It's possible I might shy away from this pick given the Eagles situation at kicker. But it took the Cardinals moving heaven and earth last week to pull a victory in Carolina. It was a sad win too given the Cardinals offense needed over three full quarters to finally run away with the game. It's clear this offense is a shell of what it was last year - just look at Kyler Murray's average intended air yardage on his throws this season. Nobody else in the NFL is throwing shorter than Kyler Murray - it's pretty grim when Baker Mayfield and Daniel Jones are willing to throw the ball deeper than you.
 
 The only way these Cardinals can keep pace with the Eagles is if their defense can hold Philadelphia's offense at bay on the vast majority of its drives. I don't think Vance Joseph's capable of drawing up a game plan to do just that. Maybe I'm wrong about him....but after watching Mahomes shred his unit in week one, I'm going to side with the hottest team in the league, even if that club is missing its field goal kicker.
+
+***
+
+### Cowboys @ Rams (-5.5)
+
+***
+
+##### _Streaks_
+
+Cowboys - 3W  
+Rams - 1L
+
+The Cowboys have been on a hot streak with Cooper Rush at the helm of the offense while the Rams suffered an embarrassing loss in primetime last week.
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+Neither of these two teams have any recent history together or with common opponents.
+
+***
+
+### 
