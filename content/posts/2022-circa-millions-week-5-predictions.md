@@ -44,3 +44,34 @@ This line is too good to be true. I'm not sure why either. Last year when these 
 New Orleans has an emotional edge here given their losing streak and Seattle's statement win over the Lions. Is that enough to justify such a wide spread? I don't think so.
 
 ***
+
+### Texans @ Jaguars (-7)
+
+***
+
+##### _Streaks_
+
+Texans - 3L  
+Jaguars - 1L
+
+Houston is trying to take back its throne as the worst team in the league. The Jaguars, meanwhile, have been doing well, despite a loss against the Eagles last year up in Philadelphia.
+
+##### _Injuries_
+
+Does it matter?
+
+##### _Weather_
+
+Good weather, although some humidity is expected. Houston should be used to the humidity though.
+
+##### _History_
+
+The Texans swept the Jaguars last year, but keep in mind that Jaguars team was led by an entirely different set of coaches.
+
+***
+
+### Jaguars -7
+
+***
+
+Sometimes coaches can make all the difference in the world in these matches. Even though Houston housed Jacksonville twice last season, the coaching circumstances are drastically different now. Houston's arguably lost some potency on offense now that Pep Hamilton's calling plays on that side of the ball. Meanwhile, Jacksonville has ascended to a new level after Doug Pederson and his coaching staff transformed the offense and defense to play a style of football better suited to their talents.
