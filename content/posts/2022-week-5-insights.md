@@ -30,6 +30,8 @@ This Patriot team having little issue running the ball against this soft Detroit
 
 Odd to see Justin Herbert's stat line so poor starting out the game. Maybe Joe Woods is turning a corner?
 
+Austin Ekeler has turned a new leaf this season. Granted, the Browns suck on defense, but it's been two weeks of Ekeler looking impressive.
+
 ***
 
 ## Bears @ Vikings
