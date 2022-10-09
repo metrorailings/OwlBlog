@@ -54,6 +54,8 @@ Lawrence with a horrible decision leading to a red zone interception. I can't qu
 
 Folo Fatukasi being out for the Jaguars is seriously hurting their rushing defense. I was hoping it wouldn't matter so long as Jacksonville can run up the score, but they just can't.
 
+Trevor Lawrence still plays too much like a bum for my liking. 
+
 ***
 
 ## Seahawks @ Saints
@@ -71,3 +73,5 @@ Taysom Hill was damn near unstoppable. Apparently, the man alone makes all the d
 ## Cowboys @ Rams
 
 Not sure why Kellen Moore is opting to spread the receivers out and pass the ball exclusively, especially when the Rams have shown themselves susceptible to power runs.
+
+Odd that the Cowboys are playing man coverage against Cooper Kupp knowing he's the only weapon the Rams have.
