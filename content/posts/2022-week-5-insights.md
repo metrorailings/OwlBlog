@@ -75,3 +75,9 @@ Taysom Hill was damn near unstoppable. Apparently, the man alone makes all the d
 Not sure why Kellen Moore is opting to spread the receivers out and pass the ball exclusively, especially when the Rams have shown themselves susceptible to power runs.
 
 Odd that the Cowboys are playing man coverage against Cooper Kupp knowing he's the only weapon the Rams have.
+
+Trayvon Diggs is a bum.
+
+Kudos to Kellen Moore for devoting valuable snaps to the ground game, knowing the Rams are vulnerable to that.
+
+Aaron Donald lining up over the left tackle has been hurting Dallas. A great pass rusher going up against this rookie left tackle can really frustrate drives.
