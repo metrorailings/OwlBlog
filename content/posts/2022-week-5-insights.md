@@ -54,7 +54,7 @@ Lawrence with a horrible decision leading to a red zone interception. I can't qu
 
 Folo Fatukasi being out for the Jaguars is seriously hurting their rushing defense. I was hoping it wouldn't matter so long as Jacksonville can run up the score, but they just can't.
 
-Trevor Lawrence still plays too much like a bum for my liking. 
+Trevor Lawrence still plays too much like a bum for my liking.  As does Marvin Jones.
 
 ***
 
@@ -81,3 +81,5 @@ Trayvon Diggs is a bum.
 Kudos to Kellen Moore for devoting valuable snaps to the ground game, knowing the Rams are vulnerable to that.
 
 Aaron Donald lining up over the left tackle has been hurting Dallas. A great pass rusher going up against this rookie left tackle can really frustrate drives.
+
+One thing I like about the Rams is their special teams. Just smart plays overall, faking fair catches to ensure the ball rolls into the end zone, well-executed fake punts, good coverage...
