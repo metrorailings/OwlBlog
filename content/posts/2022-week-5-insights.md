@@ -41,3 +41,9 @@ Against poor defenses, Kirk Cousins thrives.
 ## Steelers @ Bills
 
 Is Josh Allen really elite? I'm seeing some poor throws from him here.
+
+***
+
+## Texans @ Jaguars
+
+I don't think Trevor Lawrence can really operate as a drop-back passer...
