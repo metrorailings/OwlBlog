@@ -56,6 +56,8 @@ Folo Fatukasi being out for the Jaguars is seriously hurting their rushing defen
 
 Trevor Lawrence still plays too much like a bum for my liking.  As does Marvin Jones.
 
+Speaking of which, I'm looking at these receivers and nobody is standing out. Their route-running is nowhere near as crisp as I expected. I worry Jacksonville completely lacks receiving weaponry.
+
 ***
 
 ## Seahawks @ Saints
