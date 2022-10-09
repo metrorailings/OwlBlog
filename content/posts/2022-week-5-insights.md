@@ -17,3 +17,15 @@ Russell Wilson is washed up. This game all but confirms it. He's missing rapport
 The Colts love to play quite a bit of cover-three under Gus Bradley. Their rush defense needs to be watched over the next several weeks, as cover-three defenses tend to excel against opposing rushers.
 
 Meaning, Ejiro Evero has proven without any doubt he's a student of the Fangio style defense. He loves fielding five-man fronts with a lone linebacker behind them. These types of defenses are usually susceptible against power rushers, as the Raiders so aptly demonstrated last week.
+
+***
+
+## Lions @ Patriots
+
+This Patriot team having little issue running the ball against this soft Detroit defense.
+
+***
+
+## Chargers @ Browns
+
+Odd to see Justin Herbert's stat line so poor starting out the game. Maybe Joe Woods is turning a corner?
