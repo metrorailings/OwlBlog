@@ -47,3 +47,15 @@ Is Josh Allen really elite? I'm seeing some poor throws from him here.
 ## Texans @ Jaguars
 
 I don't think Trevor Lawrence can really operate as a drop-back passer...
+
+Lawrence with a horrible decision leading to a red zone interception. I can't quite emphasize how bad of a decision this was too. Jaguars are outplaying the Texans, but these careless mistakes are really dooming them.
+
+Folo Fatukasi being out for the Jaguars is seriously hurting their rushing defense. I was hoping it wouldn't matter so long as Jacksonville can run up the score, but they just can't.
+
+***
+
+## Seahawks @ Saints
+
+Seattle's special-teams with a very questionable turnover. What the hell are they thinking?
+
+Seattle's defense seems helpless against the quarterback option run.
