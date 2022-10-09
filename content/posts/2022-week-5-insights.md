@@ -29,3 +29,15 @@ This Patriot team having little issue running the ball against this soft Detroit
 ## Chargers @ Browns
 
 Odd to see Justin Herbert's stat line so poor starting out the game. Maybe Joe Woods is turning a corner?
+
+***
+
+## Bears @ Vikings
+
+Against poor defenses, Kirk Cousins thrives.
+
+***
+
+## Steelers @ Bills
+
+Is Josh Allen really elite? I'm seeing some poor throws from him here.
