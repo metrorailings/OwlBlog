@@ -61,3 +61,7 @@ Folo Fatukasi being out for the Jaguars is seriously hurting their rushing defen
 Seattle's special-teams with a very questionable turnover. What the hell are they thinking?
 
 Seattle's defense seems helpless against the quarterback option run.
+
+So possible the worst defense in the league traveling on the road a second time, it shouldn't be surprising to see the Saints produce some offense here. What surprises me is how sloppy Seattle has been played. I mean...it's been embarrassingly sloppy.
+
+Taysom Hill was damn near unstoppable. Apparently, the man alone makes all the difference in the world, more than Geno Smith playing at a higher level. The Seahawks were helpless to stop him.
