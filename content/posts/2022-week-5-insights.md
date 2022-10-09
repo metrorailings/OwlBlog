@@ -65,3 +65,9 @@ Seattle's defense seems helpless against the quarterback option run.
 So possible the worst defense in the league traveling on the road a second time, it shouldn't be surprising to see the Saints produce some offense here. What surprises me is how sloppy Seattle has been played. I mean...it's been embarrassingly sloppy.
 
 Taysom Hill was damn near unstoppable. Apparently, the man alone makes all the difference in the world, more than Geno Smith playing at a higher level. The Seahawks were helpless to stop him.
+
+***
+
+## Cowboys @ Rams
+
+Not sure why Kellen Moore is opting to spread the receivers out and pass the ball exclusively, especially when the Rams have shown themselves susceptible to power runs.
