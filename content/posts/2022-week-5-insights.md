@@ -96,4 +96,6 @@ Jason Pierre-Paul already a difference maker for these Ravens, despite literally
 
 Lamar's deep passing needs touch. Twice in critical moments has he overthrown his receiver.
 
-This Bengals offense has been decoded. Pretty shameful. Ja'Marr Chase has been as quiet as a doormouse.
+This Bengals offense has been decoded. Pretty shameful. Ja'Marr Chase has been as quiet as a doormouse. And their trick plays are getting blown up.
+
+No running the ball in goal-to-go situations? What?
