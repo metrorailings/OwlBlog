@@ -117,3 +117,5 @@ Surprised to see Eagles change things up by dropping defensive ends in coverage 
 Kyler's ability to scramble is damn near magical. It's what's keeping this Arizona team afloat.
 
 I think Jalen Hurts has a serious issue handling the blitz. He seems to crumble before when too many people are sent after him. 
+
+It's not just prevent defense! Gannon is purposefully stationing his defensive backs deep against this Arizona offense. Why?
