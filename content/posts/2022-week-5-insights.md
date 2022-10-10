@@ -113,3 +113,5 @@ So many batted balls from Joe Burrow. It's like the Ravens have keyed in on so m
 Jonathan Gannon's keeping his defensive backs unusually deep. Why? Isn't it common knowledge Kyler Murray has been throwing especially short this season? Hopefully, this is just Gannon playing an idiotic form of prevent defense.
 
 Surprised to see Eagles change things up by dropping defensive ends in coverage and calling dime packages.
+
+Kyler's ability to scramble is damn near magical. It's what's keeping this Arizona team afloat.
