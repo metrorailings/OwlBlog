@@ -115,3 +115,5 @@ Jonathan Gannon's keeping his defensive backs unusually deep. Why? Isn't it comm
 Surprised to see Eagles change things up by dropping defensive ends in coverage and calling dime packages.
 
 Kyler's ability to scramble is damn near magical. It's what's keeping this Arizona team afloat.
+
+I think Jalen Hurts has a serious issue handling the blitz. He seems to crumble before when too many people are sent after him. 
