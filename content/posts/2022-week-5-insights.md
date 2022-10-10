@@ -105,3 +105,9 @@ Such poor execution on trick plays by this Bengals offense. Not throwing the bal
 No running the ball in goal-to-go situations? The fuck is Zac Taylor thinking?
 
 So many batted balls from Joe Burrow. It's like the Ravens have keyed in on so many of his tendencies. 
+
+***
+
+## Eagles @ Cardinals
+
+Jonathan Gannon's keeping his defensive backs unusually deep. Why? Isn't it common knowledge Kyler Murray has been throwing especially short this season?
