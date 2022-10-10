@@ -95,3 +95,5 @@ Mike Macdonald committing himself to playing more cover-two, even though his def
 Jason Pierre-Paul already a difference maker for these Ravens, despite literally coming off the streets just last week.
 
 Lamar's deep passing needs touch. Twice in critical moments has he overthrown his receiver.
+
+This Bengals offense has been decoded. Pretty shameful. Ja'Marr Chase has been as quiet as a doormouse.
