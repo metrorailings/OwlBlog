@@ -85,3 +85,11 @@ Kudos to Kellen Moore for devoting valuable snaps to the ground game, knowing th
 Aaron Donald lining up over the left tackle has been hurting Dallas. A great pass rusher going up against this rookie left tackle can really frustrate drives.
 
 One thing I like about the Rams is their special teams. Just smart plays overall - faking fair catches to ensure the ball rolls into the end zone, well-executed fake punts...
+
+***
+
+## Bengals @ Ravens
+
+Mike Macdonald committing himself to playing more cover-two, even though his defense was clearly trained to play man. Good to see him adopt new strategies based on opponent.
+
+Jason Pierre-Paul already a difference maker for these Ravens, despite literally coming off the streets just last week.
