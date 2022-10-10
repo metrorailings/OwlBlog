@@ -93,3 +93,5 @@ One thing I like about the Rams is their special teams. Just smart plays overall
 Mike Macdonald committing himself to playing more cover-two, even though his defense was clearly trained to play man. Good to see him adopt new strategies based on opponent.
 
 Jason Pierre-Paul already a difference maker for these Ravens, despite literally coming off the streets just last week.
+
+Lamar's deep passing needs touch. Twice in critical moments has he overthrown his receiver.
