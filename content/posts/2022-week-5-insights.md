@@ -1,6 +1,5 @@
 +++
 date = 2022-10-09T12:00:00Z
-draft = true
 headline = "Week 5 Insights"
 
 +++
@@ -104,7 +103,7 @@ Such poor execution on trick plays by this Bengals offense. Not throwing the bal
 
 No running the ball in goal-to-go situations? The fuck is Zac Taylor thinking?
 
-So many batted balls from Joe Burrow. It's like the Ravens have keyed in on so many of his tendencies. 
+So many batted balls from Joe Burrow. It's like the Ravens have keyed in on so many of his tendencies.
 
 ***
 
@@ -116,6 +115,16 @@ Surprised to see Eagles change things up by dropping defensive ends in coverage 
 
 Kyler's ability to scramble is damn near magical. It's what's keeping this Arizona team afloat.
 
-I think Jalen Hurts has a serious issue handling the blitz. He seems to crumble before when too many people are sent after him. 
+I think Jalen Hurts has a serious issue handling the blitz. He seems to crumble before when too many people are sent after him.
 
 It's not just prevent defense! Gannon is purposefully stationing his defensive backs deep against this Arizona offense. Why?
+
+***
+
+## Raiders @ Chiefs
+
+Raiders are very intent on maintaining double-coverage on Kelce at all times (except in the end zone, for some bizarre reason). As a result of this, Chiefs started out frustrated. Their first score didn't come until midway through the second quarter.
+
+Raiders having real success running the ball on muscle alone. Six-man offensive front combined with a fullback have opened up some lanes here. Looks like Vegas will be a team that starts leaning heavily on its ground game to motivate the offense.
+
+Davonte Adams drawing some key pass interference calls on a drive ending in a touchdown. The Chiefs insisting on playing everybody in man coverage can bite them in the ass sometimes.
