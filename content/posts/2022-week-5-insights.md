@@ -128,3 +128,5 @@ Raiders are very intent on maintaining double-coverage on Kelce at all times (ex
 Raiders having real success running the ball on muscle alone. Six-man offensive front combined with a fullback have opened up some lanes here. Looks like Vegas will be a team that starts leaning heavily on its ground game to motivate the offense.
 
 Davonte Adams drawing some key pass interference calls on a drive ending in a touchdown. The Chiefs insisting on playing everybody in man coverage can bite them in the ass sometimes.
+
+Juju and MVS becoming bigger parts of the offense.
