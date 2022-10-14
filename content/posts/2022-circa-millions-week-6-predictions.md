@@ -142,7 +142,9 @@ The Rams aren't doing so hot either. With Stafford regressing hard and so many w
 
 ##### _Injuries_
 
-With Baker Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense. But worrying, the Panthers may miss both their starting cornerbacks. 
+With Baker Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense. But worrying, the Panthers may miss both their starting cornerbacks as well as some depth players in the secondary.
+
+The Rams are remarkably healthy, but it's worth noting Cooper Kupp is dealing with a lingering injury. It's always concerning when the only steady vector of production on your offense may not be playing at full strength.
 
 ##### _Weather_
 
