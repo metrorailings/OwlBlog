@@ -58,6 +58,8 @@ Cold, slightly windy, and strangely humid
 
 ##### _History_
 
+No relevant history, though it is worth noting that the offensive masterminds behind both teams are brothers. Matt LaFleur was raised more in the McVay school of offense while his brother Mike studied under Kyle Shanahan. Regardless, both of them incorporate similar foundational principles in their respective offenses - zone-running combined with a healthy dose of pre-snap motion and a myriad of different plays being run out of the same offensive alignments. 
+
 ***
 
 ### 
