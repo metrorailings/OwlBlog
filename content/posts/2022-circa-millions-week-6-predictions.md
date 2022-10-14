@@ -29,7 +29,11 @@ Giants - 2W
 
 ##### _Weather_
 
+Seasonal fall weather
+
 ##### _History_
+
+Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed considerably, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively.
 
 ***
 
@@ -70,6 +74,8 @@ No relevant history, though it is worth noting that the offensive masterminds be
 
 The Green Bay Packers aren't even that good of a team. So for them to be deserving as such massive favorites needs to be questioned immediately.
 
-But the thing is that the Packers have so much in their favor this week - home field advantage, an emotional edge now that people are questioning their competence, a better roster, and a superior quarterback. It's possible Mike LaFleur could surprise me here with an impressive game plan against a Green Bay defense known to prioritize coverage above everything else, but watching the Jets last week, it appears to me that LaFleur's unit is still a little shaky at the pass game. In fact, it was Breece Hall who actually catapulted these Jets to such a dominant win last week. Luckily for Hall, Green Bay's defense has shown a noted vulnerability to opposing rushers, but given the embarrassing loss last week, I suspect Joe Barry will adjust his defensive scheme to keep Hall from popping off. 
+But the thing is that the Packers have so much in their favor this week - home field advantage, an emotional edge now that people are questioning their competence, a better roster, and a superior quarterback. It's possible Mike LaFleur could surprise me here with an impressive game plan against a Green Bay defense known to prioritize coverage above everything else, but watching the Jets last week, it appears to me that LaFleur's unit is still a little shaky at the pass game. In fact, it was a surprise performance from Breece Hall that actually catapulted these Jets to such a dominant win last week. Luckily for Hall, Green Bay's defense has shown a noted vulnerability to opposing rushers, but given the embarrassing loss last week, I suspect Joe Barry will adjust his defensive scheme to keep Hall from popping off. 
 
 If Barry can stifle Breece Hall and Michael Carter, it's hard for me to see Zach Wilson sustain any real production against a Green Bay defense given their zeal for dime packages. 
+
+***
