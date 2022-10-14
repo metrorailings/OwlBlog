@@ -62,6 +62,8 @@ Packers are coming off a humiliating loss to an underrated Giants team while the
 
 ##### _Injuries_
 
+The only concerning injury is Rashan Gary. Gary was able to practice in a limited fashion this week, but a toe injury might limit his production this Sunday.
+
 ##### _Weather_
 
 Cold, slightly windy, and strangely humid
@@ -94,6 +96,10 @@ Patriots - 1W
 Browns - 2L
 
 ##### _Injuries_
+
+Bailey Zappe may have to start again in place of Mac Jones.
+
+Cleveland will be missing its second best pass rusher in Jadaveon Clowney.
 
 ##### _Weather_
 
