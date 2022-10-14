@@ -132,6 +132,8 @@ The Rams aren't doing so hot either. With Stafford regressing hard and so many w
 
 ##### _Injuries_
 
+With Bakey Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense.
+
 ##### _Weather_
 
 Dome Game
