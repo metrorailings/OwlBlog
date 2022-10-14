@@ -114,3 +114,26 @@ My initial instinct here was to go with the Patriots. Not only did New England l
 But a closer look at that game and one realizes that not only was Cleveland down to its third-string halfback, but a wounded Baker Mayfield was leading the offense at the time. The Browns today are in a better situation compared to a year ago. I'm not sure if the same can be said of the Patriots given their situation at passer.
 
 On top of that, New England's run defense needs to be called into question. I know the season is still young, but to be ranked near the bottom in terms of rushing defense DVOA is not reassuring when you're going up against an offense that prides itself on its rushing ability. It's possible the Patriots are being unfairly assessed here considering Belichick's always tinkering with different styles of defense depending on opponent, but it's pretty evident that the defensive line has issues containing opposing rushers - New England's forced the least number of negative runs so far this year.
+
+***
+
+### Panthers @ Rams (-10.5)
+
+***
+
+##### _Streaks_
+
+Panthers - 2L  
+Rams - 2L
+
+The Panthers were losing so bad that Matt Rhule was fired before the halfway point of the season.
+
+The Rams aren't doing so hot either. With Stafford regressing hard and so many weapons from last year gone, the end result has been a team that's been seriously underwhelming.
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome Game
+
+##### _History_
