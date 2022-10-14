@@ -101,4 +101,16 @@ Some minor wings, but otherwise pleasant weather
 
 ##### _History_
 
-Last year, these two faced off in Foxborough. Belichick and his men absolutely smashed a Browns team led by Baker Mayfield. It's worth noting both Nick Chubb and Kareem Hunt were sidelined with injury at the time.
+Last year, these two faced off in Foxborough. Belichick and his men absolutely smashed a Browns team led by Baker Mayfield. It's worth noting both Nick Chubb and Kareem Hunt were sidelined with injury at the time. So even though coaching staffs hasn't really changed much on both organizations, the fact of the matter is that New England will be contesting Cleveland at full strength here.
+
+***
+
+### Uncertain
+
+***
+
+My initial instinct here was to go with the Patriots. Not only did New England look impressive last week against a hot Detroit offense, but rookie third-string quarterback Bailey Zappe has proven himself capable of managing the offense. Cleveland, on the other hand, hasn't changed its feathers much. On top of that, these Patriots also obliterated the Browns last season when the two met last November.
+
+But a closer look at that game and one realizes that not only was Cleveland down to its third-string halfback, but a wounded Baker Mayfield was leading the offense at the time. The Browns today are in a better situation compared to a year ago. I'm not sure if the same can be said of the Patriots given that situation at passer.
+
+On top of that, New England's run defense needs to be called into question. I know the season is still young, but to be ranked near the bottom in terms of rushing defense DVOA is not reassuring when you're going up against an offense that prides itself on its rushing ability. It's possible the Patriots are unfairly being judged here considering Belichick's always tinkering with different styles of defense depending on opponent, but it's still evident that the defensive line has issues containing opposing rushers. 
