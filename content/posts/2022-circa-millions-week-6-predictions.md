@@ -100,3 +100,5 @@ Browns - 2L
 Some minor wings, but otherwise pleasant weather
 
 ##### _History_
+
+Last year, these two faced off in Foxborough. Belichick and his men absolutely smashed a Browns team led by Baker Mayfield. It's worth noting both Nick Chubb and Kareem Hunt were sidelined with injury at the time.
