@@ -142,7 +142,7 @@ The Rams aren't doing so hot either. With Stafford regressing hard and so many w
 
 ##### _Injuries_
 
-With Baker Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense.
+With Baker Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense. But worrying, the Panthers may miss both their starting cornerbacks. 
 
 ##### _Weather_
 
