@@ -4,7 +4,7 @@ draft = true
 headline = "2022 Circa Millions - Week 6 Predictions"
 
 +++
-I'm not sure what to make of last week. Only two picks panned out last week. Two of the wrong picks were toss-ups and the other loss was absolutely...bizarre?  You know...I was honestly convinced I'd net at least four correct picks. But the Jaguars, Seahawks, and Eagles had to all disappoint me. 
+I'm not sure what to make of last week. Only two picks panned out last week. Two of the wrong picks were toss-ups and the other loss was absolutely...bizarre?  You know...I was honestly convinced I'd net at least four correct picks. But the Jaguars, Seahawks, and Eagles had to all disappoint me.
 
 Seattle was so awful defensively that not only did the mediocre Saints win, but they won while covering a pretty tall spread. Pete Carroll and his Seahawks apparently never witnessed a mobile quarterback before - Taysom Hill tallied up four touchdowns, three of them over ground. The fact that Seattle remained more competitive last year against these same Saints was likely attributed to the fact that Taysom Hill was missing in action at the time. Apparently, Hill playing in that game would have made all the difference in the world, as Carroll's defense has never seen a quarterback with quick feet. Damn shame too considering Geno Smith had another career outing this week.
 
@@ -16,4 +16,6 @@ So what did I learn from all this? Not sure. The only thing that gracefully sums
 
 ***
 
- 
+### Ravens @ Giants (+3)
+
+***
