@@ -33,9 +33,9 @@ Seasonal fall weather
 
 ##### _History_
 
-Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed considerably, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively. Baltimore dominated that game in every single aspect imaginable.
+Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed in significant ways, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively. Baltimore dominated that game in every single aspect imaginable.
 
-But here's a more salient point - the current Giants defensive coordinator used to work for Baltimore in the same capacity just last year. In fact, Wink Martindale has spent the last three years practicing against against Lamar and Baltimore's offense.
+But here's a more salient point - the current Giants defensive coordinator used to work for Baltimore in the same capacity just one year ago. In fact, Wink Martindale has spent the last three years practicing against against Lamar and Baltimore's offense under Greg Roman.
 
 ***
 
@@ -44,6 +44,8 @@ But here's a more salient point - the current Giants defensive coordinator used 
 ***
 
 Call it bias, but I think New York has definitively proven itself a good team, even if its passing game leaves a bit to be desired.
+
+The Giants also have two advantages in their favor entering this contest - home field advantage and a defensive coordinator that understands better than any other coordinator the philosophy of offense Greg Roman has instilled in Baltimore. Even though New York's given him considerably less talent than whatever Baltimore gave him, the past few weeks has proven to me that Martindale's still been able to field a very competent defense. So despite the injury bug running through his unit, I expect Martindale will have his men prepared to handle all the various ways the Ravens can move the ball down the field.
 
 ***
 
