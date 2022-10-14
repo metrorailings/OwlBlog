@@ -132,10 +132,20 @@ The Rams aren't doing so hot either. With Stafford regressing hard and so many w
 
 ##### _Injuries_
 
-With Bakey Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense.
+With Baker Mayfield finally sidelined with injury, P.J. Walker can now step in and breathe some life back into this offense.
 
 ##### _Weather_
 
 Dome Game
 
 ##### _History_
+
+No recent history between the two games, though it's worth noting that both teams have literally just faced the 49ers one week removed from one another. These games don't really tell us much considering San Francisco dominated both teams with little effort.
+
+***
+
+### Panthers +10.5
+
+***
+
+The Rams are too pathetic a team to merit such a huge spread. Granted, the Panthers have been a pretty sorry-ass club in their own right, but in their defense, they've recently broken free of some of the shackles holding them back - with Baker currently on the mend and head coach Matt Rhule and defensive coordinator Phil Snow both fired, these Panthers have some real hope for improvement now. Unlike our boy Baker, P.J. Walker can actually connect on some of the passes he throws towards his receivers. On top of that, Walker's also demonstrated some mobility as well. 
