@@ -175,7 +175,9 @@ Eagles - 5W
 
 ##### _Injuries_
 
-Dak is still expected to be out, so Cooper Rush will start again.
+Dak is still expected to be out, so Cooper Rush will start again. The bigger worries initially were the health of Micah Parsons and DeMarcus Lawrence following their win last week, but it seems both players will participate without any restrictions this Sunday.
+
+Philadelphia seems pretty healthy.
 
 ##### _Weather_
 
@@ -209,6 +211,10 @@ Broncos are reeling bad after such an uninspiring showing from the offense the p
 ##### _Injuries_
 
 It's been "reported" that Russell Wilson is dealing with a muscle injury. Whether the report is actually accurate or planted....well...
+
+Moving on though, two valuable starters for the defense will be out - Josey Jewell and Ronald Darby. Jewell is especially important for his blitzing. There is a possibility Justin Simmons could return from injured reserve.
+
+The place kicker for the Chargers is practicing, albeit in limited fashion, so his game-time availability is not guaranteed. Also worth mentioning that Joey Bosa will be out for at least several weeks.
 
 ##### _Weather_
 
