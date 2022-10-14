@@ -203,3 +203,13 @@ It's been "reported" that Russell Wilson is dealing with a muscle injury. Whethe
 Dome affair
 
 ##### _History_
+
+No relevant history to explore here considering this is a new Broncos teams that's markedly different on offense. Even the defense is different now that the team has two premiere pass rushers lining up at the bookends of the trenches.
+
+***
+
+### Broncos +5
+
+***
+
+It disgusts me a little to take this Broncos team on the road against an elite quarterback. But the reality is that this number is a bit inflated following their horrendous outing last game. Denver actually has some redeeming aspects. On top of that, it's not like this Charger team is loaded with so much more talent or coaching prowess - if anything, it can be argued Denver's coaches are a bit better considering Ejiro Evero's start to his young career as a defensive play-caller. 
