@@ -149,3 +149,36 @@ No recent history between the two games, though it's worth noting that both team
 ***
 
 The Rams are too pathetic a team to merit such a huge spread. Granted, the Panthers have been a pretty sorry-ass club in their own right, but in their defense, they've recently broken free of some of the shackles holding them back - with Baker currently on the mend and head coach Matt Rhule and defensive coordinator Phil Snow both fired, these Panthers have some real hope for improvement now. Unlike our boy Baker, P.J. Walker can actually connect on some of the passes he throws towards his receivers. Now McAdoo can throw a wrench into things with his erratic game planning, but it's possible Walker also fits better into his read-option spread offense - I suspect Walker has the mobility to actually execute on those designed quarterback runs that I know McAdoo wants to incorporate in his play-calling. 
+
+***
+
+### Cowboys @ Eagles (-6)
+
+***
+
+##### _Streaks_
+
+Cowboys - 4W  
+Eagles - 5W
+
+##### _Injuries_
+
+Dak is still expected to be out, so Cooper Rush will start again.
+
+##### _Weather_
+
+Crisp fall weather
+
+##### _History_
+
+Dallas schooled the Eagles both times they faced off last year. But to be fair, the Eagles looked drastically different on offense in their first match. The second match was a complete wash, as the Eagles were resting key players all across their roster. So recent history doesn't serve us well here.
+
+***
+
+### Cowboys +6
+
+***
+
+Part of the reason why this line is inflated is the perception that Cooper Rush is a clear step down from Dak Prescott. I'm not convinced about that. On top of that, Jalen Hurts and his composure against pressure needs to be questioned. I know quarterbacks almost always perform worse under duress, but Jalen in particular really suffers. Perhaps I'm not reading him correctly, but I do think Dallas can fluster Jalen enough. On the other side, I expect Cooper, Zeke, and Tony Pollard to be frustrated as well against Philadelphia's stacked defense, but with the way Jonathan Gannon organizes this defense, I do think opportunities are there to move the ball downfield. 
+
+***
