@@ -27,6 +27,10 @@ Giants - 2W
 
 ##### _Injuries_
 
+Baltimore is once again missing their top receiver in Rashod Bateman as well as a solid pass rusher in Justin Houston. Ben Cleveland will also be missing time here.
+
+The Giants are missing a few pieces in their defensive back seven, but nothing too significant. 
+
 ##### _Weather_
 
 Seasonal fall weather
