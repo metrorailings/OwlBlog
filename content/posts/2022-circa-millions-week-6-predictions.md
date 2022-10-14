@@ -16,6 +16,48 @@ So what did I learn from all this? Not sure. The only thing that gracefully sums
 
 ***
 
-### Ravens @ Giants (+3)
+### Ravens @ Giants (+5)
 
 ***
+
+##### _Streaks_
+
+Ravens - 1W  
+Giants - 2W
+
+##### _Injuries_
+
+##### _Weather_
+
+##### _History_
+
+***
+
+### Giants +5.5
+
+***
+
+Yep
+
+***
+
+### Jets @ Packers (-7)
+
+***
+
+##### _Streaks_
+
+Jets - 2W  
+Packers - 1L
+
+##### _Injuries_
+
+##### _Weather_
+
+Cold, slightly windy, and strangely humid
+
+##### _History_
+
+***
+
+### 
