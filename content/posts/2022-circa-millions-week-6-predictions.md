@@ -33,7 +33,9 @@ Seasonal fall weather
 
 ##### _History_
 
-Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed considerably, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively.
+Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed considerably, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively. Baltimore dominated that game in every single aspect imaginable.
+
+A much more salient point is to be made here - the current Giants defensive coordinator used to work for Baltimore in the same capacity just last year. In fact, Wink Martindale has spent the last three years practicing against Baltimore's style of offense.
 
 ***
 
