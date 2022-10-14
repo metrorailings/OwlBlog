@@ -85,3 +85,18 @@ If Barry can stifle Breece Hall and Michael Carter, it's hard for me to see Zach
 ***
 
 ### Patriots @ Browns (-2.5)
+
+***
+
+##### _Streaks_
+
+Patriots - 1W  
+Browns - 2L
+
+##### _Injuries_
+
+##### _Weather_
+
+Some minor wings, but otherwise pleasant weather
+
+##### _History_
