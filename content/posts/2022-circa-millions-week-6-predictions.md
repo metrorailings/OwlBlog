@@ -182,3 +182,24 @@ Dallas schooled the Eagles both times they faced off last year. But to be fair, 
 Part of the reason why this line is inflated is the perception that Cooper Rush is a clear step down from Dak Prescott. I'm not convinced about that. On top of that, Jalen Hurts and his composure against pressure needs to be questioned. I know quarterbacks almost always perform worse under duress, but Jalen in particular really suffers. Perhaps I'm not reading him correctly, but I do think Dallas can fluster Jalen enough. On the other side, I expect Cooper, Zeke, and Tony Pollard to be frustrated as well against Philadelphia's stacked defense, but with the way Jonathan Gannon organizes this defense, I do think opportunities are there to move the ball downfield. 
 
 ***
+
+### Broncos @ Chargers (-5)
+
+***
+
+##### _Streaks_
+
+Broncos - 2L  
+Chargers - 2W
+
+Broncos are reeling bad after such an uninspiring showing from the offense the past two weeks. Russell Wilson in particular has been criticized hard for playing like a clown out there.
+
+##### _Injuries_
+
+It's been "reported" that Russell Wilson is dealing with a muscle injury. Whether the report is actually accurate or planted....well...
+
+##### _Weather_
+
+Dome affair
+
+##### _History_
