@@ -35,7 +35,7 @@ Seasonal fall weather
 
 Interestingly enough, these two organizations danced two years ago. Even though the coaching staffs differed considerably, it was still Daniel Jones and Lamar helming the offenses for New York and Baltimore respectively. Baltimore dominated that game in every single aspect imaginable.
 
-A much more salient point is to be made here - the current Giants defensive coordinator used to work for Baltimore in the same capacity just last year. In fact, Wink Martindale has spent the last three years practicing against Baltimore's style of offense.
+But here's a more salient point - the current Giants defensive coordinator used to work for Baltimore in the same capacity just last year. In fact, Wink Martindale has spent the last three years practicing against against Lamar and Baltimore's offense.
 
 ***
 
@@ -43,7 +43,7 @@ A much more salient point is to be made here - the current Giants defensive coor
 
 ***
 
-Yep
+Call it bias, but I think New York has definitively proven itself a good team, even if its passing game leaves a bit to be desired.
 
 ***
 
