@@ -16,7 +16,7 @@ So what did I learn from all this? Not sure. The only thing that gracefully sums
 
 ***
 
-### Ravens @ Giants (+5)
+### Ravens @ Giants (+5.5)
 
 ***
 
@@ -43,9 +43,9 @@ But here's a more salient point - the current Giants defensive coordinator used 
 
 ***
 
-Call it bias, but I think New York has definitively proven itself a good team, even if its passing game leaves a bit to be desired.
+Call me biased, but I think New York has definitively proven itself a good team, even if it's passing game leaves something to be desired. So to be given this many points on your home turf is a little insulting, no? 
 
-The Giants also have two advantages in their favor entering this contest - home field advantage and a defensive coordinator that understands better than any other coordinator the philosophy of offense Greg Roman has instilled in Baltimore. Even though New York's given him considerably less talent than whatever Baltimore gave him, the past few weeks has proven to me that Martindale's still been able to field a very competent defense. So despite the injury bug running through his unit, I expect Martindale will have his men prepared to handle all the various ways the Ravens can move the ball down the field.
+But besides home field, the Giants have one other critical advantage in their favor - a defensive coordinator who understands better than any other defensive mind Greg Roman's philosophy of offense. Even though New York's given him considerably less talent than whatever Baltimore gave him in years past, the past few weeks have convinced me Martindale's still able to field a very competent defense. So in spite of the injury bug running through the defense currently, I expect Martindale will have his men prepared to handle all the various ways the Ravens can motivate the ball down the field.
 
 ***
 
@@ -83,3 +83,5 @@ But the thing is that the Packers have so much in their favor this week - home f
 If Barry can stifle Breece Hall and Michael Carter, it's hard for me to see Zach Wilson sustain any real production against a Green Bay defense given their zeal for dime packages. 
 
 ***
+
+### Patriots @ Browns (-2.5)
