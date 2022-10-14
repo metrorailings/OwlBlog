@@ -50,6 +50,8 @@ Yep
 Jets - 2W  
 Packers - 1L
 
+Packers are coming off a humiliating loss to an underrated Giants team while the Jets are somewhat buoyant after winning two games as outright underdogs. To be fair though, both of those wins came against rookie quarterbacks who were essentially thrust into action without much preparation.
+
 ##### _Injuries_
 
 ##### _Weather_
@@ -58,8 +60,16 @@ Cold, slightly windy, and strangely humid
 
 ##### _History_
 
-No relevant history, though it is worth noting that the offensive masterminds behind both teams are brothers. Matt LaFleur was raised more in the McVay school of offense while his brother Mike studied under Kyle Shanahan. Regardless, both of them incorporate similar foundational principles in their respective offenses - zone-running combined with a healthy dose of pre-snap motion and a myriad of different plays being run out of the same offensive alignments. 
+No relevant history, though it is worth noting that the offensive masterminds behind both teams are brothers. Matt LaFleur was raised more in the McVay school of offense while his brother Mike studied under Kyle Shanahan. Regardless, both of them incorporate similar foundational principles in their respective offenses - zone-running combined with a healthy dose of pre-snap motion and a myriad of different plays being run out of relatively few offensive alignments. 
 
 ***
 
-### 
+### Packers -7
+
+***
+
+The Green Bay Packers aren't even that good of a team. So for them to be deserving as such massive favorites needs to be questioned immediately.
+
+But the thing is that the Packers have so much in their favor this week - home field advantage, an emotional edge now that people are questioning their competence, a better roster, and a superior quarterback. It's possible Mike LaFleur could surprise me here with an impressive game plan against a Green Bay defense known to prioritize coverage above everything else, but watching the Jets last week, it appears to me that LaFleur's unit is still a little shaky at the pass game. In fact, it was Breece Hall who actually catapulted these Jets to such a dominant win last week. Luckily for Hall, Green Bay's defense has shown a noted vulnerability to opposing rushers, but given the embarrassing loss last week, I suspect Joe Barry will adjust his defensive scheme to keep Hall from popping off. 
+
+If Barry can stifle Breece Hall and Michael Carter, it's hard for me to see Zach Wilson sustain any real production against a Green Bay defense given their zeal for dime packages. 
