@@ -249,8 +249,20 @@ Seahawks - 1L
 
 Arizona's expected to miss their top two tailbacks as well as their main kicker. Tragically, Matt Ammendola will be called again to kick field goals.
 
+Seattle's largely healthy.
+
 ##### _Weather_
 
 Dome affair
 
 ##### _History_
+
+Arizona actually fared well against the Seahawks last year. The last game was a bit of a wash considering it was largely meaningless, so let's focus on the first game (which took place in Seattle). The Cardinals were able to march in there with _Colt McCoy_ and outright dominate the Hawks - they held the ball for roughly 40 minutes. Going through the game logs though, it seems the game was competitive up until the middle of the fourth quarter. Ultimately, Seattle's downfall came because Russell Wilson and the offense were only able to convert 2 of 11 terminal downs, whereas the Cardinals were able to convert half of their third downs.
+
+***
+
+### Seahawks +2.5
+
+***
+
+I'm not sure whether I feel comfortable siding with the Seahawks after the way their defense blew chunks last week against Taysom Hill and the Saints.
