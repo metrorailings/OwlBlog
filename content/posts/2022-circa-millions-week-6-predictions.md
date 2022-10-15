@@ -233,3 +233,22 @@ No relevant history to explore here considering this is a new Broncos teams that
 It disgusts me a little to take this Broncos team on the road against an elite quarterback. But the reality is that this number is a bit inflated following their horrendous outing last game. Denver actually has some redeeming aspects. On top of that, it's not like this Charger team is loaded with so much more talent or coaching prowess - if anything, it can be argued Denver's coaches are a bit better considering Ejiro Evero's start to his young career as a defensive play-caller. 
 
 It's really a matter of home field advantage and an elite quarterback against an emotionally charged team with an elite defense here. The Chargers should still be favored, but not by more than a field goal.
+
+***
+
+### Cardinals @ Seahawks (+2.5)
+
+***
+
+##### _Streaks_
+
+Cardinals - 1L  
+Seahawks - 1L
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome affair
+
+##### _History_
