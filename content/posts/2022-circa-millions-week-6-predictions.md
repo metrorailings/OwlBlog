@@ -269,4 +269,4 @@ I'm not sure whether I feel comfortable siding with the Seahawks after the way t
 
 But Kyler himself has been incredibly disappointing. When he's not running around like a chipmunk, his quarterbacking leaves so much to be desired. On the other side of the field, Geno Smith has been nothing but sensational.
 
-A high-scoring affair is certainly a real possibility here. And if that's the case, all it takes is a fortuitous turnover to settle the outcome.
+A high-scoring affair is certainly a real possibility here. And if that's the case, all it takes is a fortuitous turnover to settle the outcome. That being said, the fact that Arizona is down its kicker favors Seattle here.
