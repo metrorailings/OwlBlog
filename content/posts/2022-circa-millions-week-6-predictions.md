@@ -247,6 +247,8 @@ Seahawks - 1L
 
 ##### _Injuries_
 
+Arizona's expected to miss their top two tailbacks as well as their main kicker. Tragically, Matt Ammendola will be called again to kick field goals.
+
 ##### _Weather_
 
 Dome affair
