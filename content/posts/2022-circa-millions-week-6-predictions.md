@@ -261,8 +261,12 @@ Arizona actually fared well against the Seahawks last year. The last game was a 
 
 ***
 
-### Seahawks +2.5
+### Uncertain
 
 ***
 
-I'm not sure whether I feel comfortable siding with the Seahawks after the way their defense blew chunks last week against Taysom Hill and the Saints.
+I'm not sure whether I feel comfortable siding with the Seahawks after the way their defense blew chunks last week against Taysom Hill and the Saints - Seattle's defense looked completely hopeless against mobile quarterbacks. It's unlikely the Seahawks will be any better against Kyler Murray.
+
+But Kyler himself has been incredibly disappointing. When he's not running around like a chipmunk, his quarterbacking leaves so much to be desired. On the other side of the field, Geno Smith has been nothing but sensational.
+
+A high-scoring affair is certainly a real possibility here. And if that's the case, all it takes is a fortuitous turnover to settle the outcome.
