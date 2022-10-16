@@ -44,6 +44,8 @@ Nice to see Kansas finally commit hard to the short game. 13 of their first 15 t
 
 Spagnuolo starting to frustrate Josh Allen with well-designed blitzes. 
 
+Pacheco is a hard runner.
+
 ***
 
 ## Cardinals @ Seahawks
@@ -51,3 +53,5 @@ Spagnuolo starting to frustrate Josh Allen with well-designed blitzes.
 Cardinals are now running the ball more with Murray and Conner.
 
 Smart zone-rush by the Seahawks to force a Cardinal punt.
+
+The Seahawks cannot handle these blitzes from the Cardinals.
