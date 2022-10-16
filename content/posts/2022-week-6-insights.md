@@ -23,3 +23,5 @@ Kenyon Drake has been a sensational rusher for Baltimore.
 ## Patriots @ Browns
 
 Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious. 
+
+Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. Not much pressure on Zappe, defensive personnel forgetting to pick people up in coverage, cornerbacks whiffing on press...
