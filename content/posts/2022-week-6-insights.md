@@ -33,3 +33,7 @@ Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. No
 ## Jets @ Packers
 
 Reminder to watch this game to see how the Jets kept the Packers from scoring early like they normally do.
+
+***
+
+## 
