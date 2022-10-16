@@ -11,3 +11,5 @@ Seems weird seeing Wink leave the middle of the field so undermanned on third do
 Giants doing well containing the more exotic rushes, as expected considering Wink's been training against Lamar for the past several years.
 
 Are you really putting Mark Andrews in single man coverage?
+
+I'm really impressed at the general athleticism of this Raven defense.
