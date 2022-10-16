@@ -42,6 +42,8 @@ Ken Dorsey impressing me with his scripted plays. He's moving Stefon Diggs aroun
 
 Nice to see Kansas finally commit hard to the short game. 13 of their first 15 touchdowns have been from goal-to-go situations.
 
+Spagnuolo starting to frustrate Josh Allen with well-designed blitzes. 
+
 ***
 
 ## Cardinals @ Seahawks
