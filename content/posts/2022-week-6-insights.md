@@ -5,3 +5,5 @@ headline = "Week 6 Insights"
 
 +++
 ## Ravens @ Giants
+
+Seems weird seeing Wink leave the middle of the field so undermanned on third downs, knowing Lamar loves throwing down the middle.
