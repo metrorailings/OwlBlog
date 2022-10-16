@@ -46,6 +46,8 @@ Spagnuolo starting to frustrate Josh Allen with well-designed blitzes.
 
 Pacheco is a hard runner.
 
+For the Bills, Devin Singletary seems more and more a liability. Not much football IQ nor much willingness to make the tough catches.
+
 ***
 
 ## Cardinals @ Seahawks
