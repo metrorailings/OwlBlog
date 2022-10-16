@@ -39,3 +39,9 @@ Reminder to watch this game to see how the Jets kept the Packers from scoring ea
 ## Bills @ Chiefs
 
 Ken Dorsey impressing me with his scripted plays. He's moving Stefon Diggs around to optimize match-ups.
+
+***
+
+## Cardinals @ Seahawks
+
+Cardinals are now running the ball more with Murray and Conner.
