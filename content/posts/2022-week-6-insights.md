@@ -40,8 +40,12 @@ Reminder to watch this game to see how the Jets kept the Packers from scoring ea
 
 Ken Dorsey impressing me with his scripted plays. He's moving Stefon Diggs around to optimize match-ups.
 
+Nice to see Kansas finally commit hard to the short game. 13 of their first 15 touchdowns have been from goal-to-go situations.
+
 ***
 
 ## Cardinals @ Seahawks
 
 Cardinals are now running the ball more with Murray and Conner.
+
+Smart zone-rush by the Seahawks to force a Cardinal punt.
