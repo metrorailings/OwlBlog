@@ -10,6 +10,8 @@ Seems weird seeing Wink leave the middle of the field so undermanned on third do
 
 Giants doing well containing the more exotic rushes, as expected considering Wink's been training against Lamar for the past several years.
 
-Are you really putting Mark Andrews in single man coverage?
+Are you really putting Mark Andrews in single man coverage? Then again, not sure if it matters much - his ability to find holes in middle coverage is pretty impressive.
 
 I'm really impressed at the general athleticism of this Raven defense.
+
+Daniel Jones just a touch off on his throws, but still playing fairly well.
