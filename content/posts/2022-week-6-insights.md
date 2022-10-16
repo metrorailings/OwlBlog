@@ -52,6 +52,8 @@ Once again, brilliant end-of-half play-calling from Andy Reid helped Kansas post
 
 Finally, Josh Allen punishes the Chiefs for their blitzing. 
 
+If this wasn't already known, Von Miller is an elite pass rusher.
+
 ***
 
 ## Cardinals @ Seahawks
