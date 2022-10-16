@@ -16,7 +16,9 @@ I'm really impressed at the general athleticism of this Raven defense.
 
 Daniel Jones just a touch off on his throws, but still playing fairly well. Lamar too. 
 
-Kenyon Drake has been a sensational rusher for Baltimore.
+Kenyon Drake has been a sensational rusher for Baltimore. Worth keeping an eye on him.
+
+No negative plays from the Giants defense. Browns are sustaining long drives here.
 
 ***
 
@@ -25,3 +27,9 @@ Kenyon Drake has been a sensational rusher for Baltimore.
 Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious. 
 
 Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. Not much pressure on Zappe, defensive personnel forgetting to pick people up in coverage, cornerbacks whiffing on press...
+
+***
+
+## Jets @ Packers
+
+Reminder to watch this game to see how the Jets kept the Packers from scoring early like they normally do.
