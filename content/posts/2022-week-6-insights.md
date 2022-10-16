@@ -60,6 +60,6 @@ Cardinals are now running the ball more with Murray and Conner.
 
 Smart zone-rush by the Seahawks to force a Cardinal punt.
 
-The Seahawks cannot handle these blitzes from the Cardinals. Their play-action game is nerfed if the Cardinals already break through the line of scrimmage at the snap. On top of that, their passing game is nerfed too. I'm honestly wondering how much of Seattle's playbook is dedicated towards shorter passes and pseudo-rushing plays. 
+The Seahawks cannot handle these blitzes from the Cardinals. Their play-action game is nerfed if the Cardinals already break through the line of scrimmage at the snap. On top of that, their passing game is nerfed too. I'm honestly wondering how much of Seattle's playbook is dedicated towards shorter passes and pseudo-rushing plays. I imagine not that much.
 
 Walker is a helluva player for the Seahawks.
