@@ -65,3 +65,5 @@ The Seahawks cannot handle these blitzes from the Cardinals. Their play-action g
 Walker is a helluva player for the Seahawks.
 
 I think Kyler's struggling to communicate with his men in such a hostile environment.
+
+Surprised to see Seattle stack up so many sacks in this game. I suppose Pete Carroll has keyed in a bit on Arizona's protection scheme.
