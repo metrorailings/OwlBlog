@@ -16,6 +16,8 @@ I'm really impressed at the general athleticism of this Raven defense.
 
 Daniel Jones just a touch off on his throws, but still playing fairly well. Lamar too. 
 
+Kenyon Drake has been a sensational rusher for Baltimore.
+
 ***
 
 ## Patriots @ Browns
