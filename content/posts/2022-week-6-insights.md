@@ -48,6 +48,10 @@ Pacheco is a hard runner.
 
 For the Bills, Devin Singletary seems more and more a liability. Not much football IQ nor much willingness to make the tough catches.
 
+Once again, brilliant end-of-half play-calling from Andy Reid helped Kansas post another 3 points to close out the first half.
+
+Finally, Josh Allen punishes the Chiefs for their blitzing. 
+
 ***
 
 ## Cardinals @ Seahawks
