@@ -14,4 +14,10 @@ Are you really putting Mark Andrews in single man coverage? Then again, not sure
 
 I'm really impressed at the general athleticism of this Raven defense.
 
-Daniel Jones just a touch off on his throws, but still playing fairly well.
+Daniel Jones just a touch off on his throws, but still playing fairly well. Lamar too. 
+
+***
+
+## Patriots @ Browns
+
+Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious. 
