@@ -18,7 +18,7 @@ Daniel Jones just a touch off on his throws, but still playing fairly well. Lama
 
 Kenyon Drake has been a sensational rusher for Baltimore. Worth keeping an eye on him.
 
-No negative plays from the Giants defense. Browns are sustaining long drives here.
+No negative plays from the Giants defense. No negative-runs, only 1 sack, few penalties holding back the Ravens....Baltimore's sustaining long drives here.
 
 ***
 
