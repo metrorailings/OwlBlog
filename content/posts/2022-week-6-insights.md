@@ -14,7 +14,7 @@ Are you really putting Mark Andrews in single man coverage? Then again, not sure
 
 I'm really impressed at the general athleticism of this Raven defense.
 
-Daniel Jones just a touch off on his throws, but still playing fairly well. Lamar too.
+Daniel Jones just a touch off on his throws, but still playing fairly well. Lamar too. 
 
 Kenyon Drake has been a sensational rusher for Baltimore. Worth keeping an eye on him.
 
@@ -24,7 +24,7 @@ Not many negative plays from the Giants defense. A couple negative-runs, only 1 
 
 ## Patriots @ Browns
 
-Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious.
+Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious. 
 
 Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. Not much pressure on Zappe, defensive personnel forgetting to pick people up in coverage, cornerbacks whiffing on press...
 
@@ -44,7 +44,7 @@ Ken Dorsey impressing me with his scripted plays. He's moving Stefon Diggs aroun
 
 Nice to see Kansas finally commit hard to the short game. 13 of their first 15 touchdowns have been from goal-to-go situations.
 
-Spagnuolo starting to frustrate Josh Allen with well-designed blitzes.
+Spagnuolo starting to frustrate Josh Allen with well-designed blitzes. 
 
 Pacheco is a hard runner.
 
@@ -52,7 +52,7 @@ For the Bills, Devin Singletary seems more and more a liability. Not much footba
 
 Once again, brilliant end-of-half play-calling from Andy Reid helped Kansas post another 3 points to close out the first half.
 
-Finally, Josh Allen punishes the Chiefs for their blitzing.
+Finally, Josh Allen punishes the Chiefs for their blitzing. 
 
 If this wasn't already known, Von Miller is an elite pass rusher.
 
@@ -86,10 +86,4 @@ Cooper Rush looks terrible. Without the running game, he starts turning into mus
 
 This read-option game on Micah Parsons has been devastating.
 
-Finally, these Cowboys establishing the run behind their three interior linemen. Cooper Rush also noticeably throwing the ball shorter than expected.
-
-Not much blitzing from Dallas....
-
-These Cowboys are just an overly emotional bunch.
-
-The Eagles defensive line has shown up at critical points. Josh Sweat, Haason Reddick, Brandon Graham, etc.
+It's clear Philadelphia had the emotional edge here. Just looking at the coaching, the fans, the way the cornerbacks are playing.
