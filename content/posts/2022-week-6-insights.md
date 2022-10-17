@@ -129,3 +129,5 @@ Grady Jarrett and the rest of Atlanta's interior defensive linemen are something
 49ers loading the box against these Falcons.
 
 Talan Hufonga involved on quite a few blitzes for these 49ers. He may be an impact player though...
+
+Mariota's ability to run has become a real weapon for the Falcons. Add in Drake London and Kyle Pitts with their ability to catch contested throws and you have an Atlanta team that's cooking.
