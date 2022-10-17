@@ -36,7 +36,9 @@ Bailey Zappe showing some impressive processing ability, given that he's been pr
 
 Cleveland cannot be a pass-first team, end of story. At least not until Watson returns.
 
-Nobody on Cleveland's defense is impressing. Cornerbacks are getting beat in man coverage, nobody on the defensive line can mount any pressure, linebackers are useless...
+Nobody on Cleveland's defense is impressing. Cornerbacks are losing in man coverage, nobody on the defensive line can mount any pressure, linebackers are useless...
+
+Deatrich Wise impressing me lately, making an impact on a number of plays.
 
 ***
 
