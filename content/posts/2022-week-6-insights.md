@@ -87,3 +87,5 @@ Cooper Rush looks terrible. Without the running game, he starts turning into mus
 This read-option game on Micah Parsons has been devastating.
 
 Finally, these Cowboys establishing the run behind their three interior linemen. Cooper Rush also noticeably throwing the ball shorter than expected.
+
+Not much blitzing from Dallas....
