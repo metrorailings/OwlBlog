@@ -42,7 +42,7 @@ Amazing. The Packers are being given every opportunity to seize the game and not
 
 Zack Wilson hasn't been playing well. Failing to read the blitz, lacking pocket presence...these are the intangibles you need to succeed in the NFL.
 
-Jets seem to be sticking to single high-coverage, though I see some cover-two in there as well.
+Jets seem to be sticking to single high-coverage, though I see some cover-two in there as well. Usually, when they have two safeties stationed deep, the defensive backs underneath are in man coverage.
 
 Rodgers hand isn't right.
 
