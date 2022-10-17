@@ -52,6 +52,8 @@ The tackle-tackle twist has been absolutely devastating against Green Bay. Appar
 
 Special teams has been especially bad for these Packers. Just sad execution and coordination leading to a blocked field goal and a blocked punt returned for a touchdown.
 
+Green Bay has serious issues defensing crafty runners. Pass coverage is pretty good, but rushing defense is worrisome.
+
 ***
 
 ## Bills @ Chiefs
