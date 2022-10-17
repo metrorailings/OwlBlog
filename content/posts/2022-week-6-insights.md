@@ -81,3 +81,5 @@ Kellen Moore not calling a quarterback sneak on fourth and inches?
 Mike McCarthy may be one of the worst head coaches in the league at discipline and challenges.
 
 Cooper Rush looks terrible. Without the running game, he turns to mush.
+
+This read-option game on Micah Parsons has been devastating.
