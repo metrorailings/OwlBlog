@@ -46,6 +46,10 @@ Jets seem to be sticking to single high-coverage, though I see some cover-two in
 
 Rodgers hand isn't right.
 
+Jets have some admirable misdirection baked into their offense.
+
+It is said that the Jets are reusing the pass rushing tricks to harangue Rodgers. Apparently, the offensive line is doing nothing to adjust for that. 
+
 ***
 
 ## Bills @ Chiefs
