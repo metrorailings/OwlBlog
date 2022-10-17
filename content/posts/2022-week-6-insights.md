@@ -40,7 +40,9 @@ CJ Mosley is a game-changer.
 
 Amazing. The Packers are being given every opportunity to seize the game and not look back. But the Jets defense has been playing amazing.
 
-Zack Wilson hasn't been playing well. Failing to read the blitz, lacking pocket presence...these are the intangibles you need to succeed in the NFL
+Zack Wilson hasn't been playing well. Failing to read the blitz, lacking pocket presence...these are the intangibles you need to succeed in the NFL.
+
+Jets seem to be sticking to single high-coverage, though I see some cover-two in there as well.
 
 ***
 
