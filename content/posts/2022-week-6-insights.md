@@ -36,6 +36,12 @@ Reminder to watch this game to see how the Jets kept the Packers from scoring ea
 
 The Jets defensive line absolutely dominated this Packer offensive front. I mean...plays are being made in the backfield from their linemen. Pretty crazy.
 
+CJ Mosley is a game-changer.
+
+Amazing. The Packers are being given every opportunity to seize the game and not look back. But the Jets defense has been playing amazing.
+
+Zack Wilson hasn't been playing well. Failing to read the blitz, lacking pocket presence...these are the intangibles you need to succeed in the NFL
+
 ***
 
 ## Bills @ Chiefs
