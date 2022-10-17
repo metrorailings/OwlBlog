@@ -89,3 +89,5 @@ This read-option game on Micah Parsons has been devastating.
 Finally, these Cowboys establishing the run behind their three interior linemen. Cooper Rush also noticeably throwing the ball shorter than expected.
 
 Not much blitzing from Dallas....
+
+These Cowboys are just an overly emotional bunch.
