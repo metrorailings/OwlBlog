@@ -28,6 +28,14 @@ Cleveland giving up a rushing touchdown on 3rd and 10 is just hilarious.
 
 Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. Not much pressure on Zappe, defensive personnel forgetting to pick people up in coverage, cornerbacks whiffing on press...
 
+One thing I like about the Patriots - they're not stressing their young quarterback too much. In negative game script, they're giving him easy plays to execute.
+
+Patriots surprising me with how well they're containing Chubb and Hunt. Judon, Deatrich Wise, and safety Kyle Duggar are all making plays against them.
+
+Bailey Zappe showing some impressive processing ability, given that he's been pretty quick exploiting gaps in coverage wherever he can find them.
+
+Cleveland cannot be a pass-first team, end of story. At least not until Watson returns.
+
 ***
 
 ## Jets @ Packers
