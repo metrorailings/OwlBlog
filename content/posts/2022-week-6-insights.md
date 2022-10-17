@@ -116,4 +116,10 @@ Cooper Rush looks terrible. Without the running game, he starts turning into mus
 
 This read-option game on Micah Parsons has been devastating.
 
-It's clear Philadelphia had the emotional edge here. Just looking at the coaching, the fans, the way the cornerbacks are playing.
+It's clear Philadelphia had the emotional edge here. Just looking at the coaches, the fans, the way the cornerbacks are playing.
+
+***
+
+## 49ers @ Falcons
+
+Credit to Grady Jarrett and Dean Pees using 8-man coverage to stop the 49ers on their opening drive.
