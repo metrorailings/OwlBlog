@@ -69,3 +69,9 @@ Walker is a helluva player for the Seahawks, breaking a bunch of tackles.
 I think Kyler's struggling to communicate with his men in such a hostile environment.
 
 Surprised to see Seattle stack up so many sacks in this game. I suppose Pete Carroll has keyed in a bit on Arizona's protection scheme.
+
+***
+
+## Cowboys @ Eagles
+
+Eagles running the ball effectively in zone all over these Cowboys. Only Micah Parsons has been the only player to hold himself well.
