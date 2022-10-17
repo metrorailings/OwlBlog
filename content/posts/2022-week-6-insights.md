@@ -91,3 +91,5 @@ Finally, these Cowboys establishing the run behind their three interior linemen.
 Not much blitzing from Dallas....
 
 These Cowboys are just an overly emotional bunch.
+
+The Eagles defensive line has shown up at critical points. Josh Sweat, Haason Reddick, Brandon Graham, etc.
