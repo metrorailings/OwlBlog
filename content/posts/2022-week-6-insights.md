@@ -127,3 +127,5 @@ Credit to Grady Jarrett and Dean Pees using 8-man coverage to stop the 49ers on 
 Grady Jarrett and the rest of Atlanta's interior defensive linemen are something special.
 
 49ers loading the box against these Falcons.
+
+Talan Hufonga involved on quite a few blitzes for these 49ers. He may be an impact player though...
