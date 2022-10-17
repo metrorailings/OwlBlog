@@ -75,3 +75,5 @@ Surprised to see Seattle stack up so many sacks in this game. I suppose Pete Car
 ## Cowboys @ Eagles
 
 Eagles running the ball effectively in zone all over these Cowboys. Only Micah Parsons has been the only player to hold himself well.
+
+Kellen Moore not calling a quarterback sneak on fourth and inches?
