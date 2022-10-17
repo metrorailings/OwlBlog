@@ -77,3 +77,7 @@ Surprised to see Seattle stack up so many sacks in this game. I suppose Pete Car
 Eagles running the ball effectively in zone all over these Cowboys. Only Micah Parsons has been the only player to hold himself well.
 
 Kellen Moore not calling a quarterback sneak on fourth and inches?
+
+Mike McCarthy may be one of the worst head coaches in the league at discipline and challenges.
+
+Cooper Rush looks terrible. Without the running game, he turns to mush.
