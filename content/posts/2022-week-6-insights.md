@@ -48,7 +48,7 @@ Rodgers hand isn't right.
 
 Jets have some admirable misdirection baked into their offense.
 
-It is said that the Jets are reusing the pass rushing tricks to harangue Rodgers. Apparently, the offensive line is doing nothing to adjust for that.
+The tackle-tackle twist has been absolutely devastating against Green Bay. Apparently, the offensive line is doing nothing to adjust for that.
 
 Special teams has been especially bad for these Packers. Just sad execution and coordination leading to a blocked field goal and a blocked punt returned for a touchdown.
 
