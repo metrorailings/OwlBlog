@@ -34,7 +34,7 @@ Cleveland's defense is just being outplayed by the Bailey Zappe-led Patriots. No
 
 Reminder to watch this game to see how the Jets kept the Packers from scoring early like they normally do.
 
-The Jets defensive line absolutely dominated this Packer offensive front. I mean...plays are being made in the backfield from their linemen. Pretty crazy.
+The Jets defensive line absolutely dominated this Packer offensive front. I mean...plays are frequently being made in the backfield from their linemen. Pretty crazy. Rodgers' interior linemen can't hold up against Quinnen Williams and company.
 
 CJ Mosley is a game-changer.
 
@@ -43,6 +43,8 @@ Amazing. The Packers are being given every opportunity to seize the game and not
 Zack Wilson hasn't been playing well. Failing to read the blitz, lacking pocket presence...these are the intangibles you need to succeed in the NFL.
 
 Jets seem to be sticking to single high-coverage, though I see some cover-two in there as well.
+
+Rodgers hand isn't right.
 
 ***
 
