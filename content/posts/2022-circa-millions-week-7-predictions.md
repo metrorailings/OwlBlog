@@ -37,4 +37,14 @@ Hot and extremely humid
 
 ##### _History_
 
-Neither of these two have faced one another recently, given both are in different conferences.
+Neither of these two organization nor their quarterbacks or coaches have faced off against one another.
+
+***
+
+### Giants +3
+
+***
+
+I know oddsmakers tend to look down on the Giants due to their low yards per play and the inconsistent nature of their offense. But New York is a hot team for good reason. Not only do they not make many errors, their creative playmaking and their clutch mentality lends itself incredibly well to comebacks.
+
+The same can't be said of Jacksonville. In the last three games alone, they've either given up game-winning scores late or lost after accumulating double-digit leads. It's clear the team's missing that killer instinct needed to carry leads all the way to the finish line - in fact, few stats illustrate this better than their pathetic fourth-down conversion rate.  
