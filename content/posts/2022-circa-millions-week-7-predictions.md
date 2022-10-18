@@ -105,10 +105,18 @@ Both teams are coming off impressive wins given their recent struggles.
 
 ##### _Injuries_
 
-Hopefully, Rashod Bateman comes back for these Ravens. Baltimore desperately needs more weapons in the passing game.
-
 ##### _Weather_
 
-Temperate with some humidity
+Lovely weather for football
 
 ##### _History_
+
+Unfortunately, no recent history between these two clubs or their coaching staffs.
+
+***
+
+### Falcons +6.5
+
+***
+
+Call me crazy, but I'm liking this Falcons team. Everybody knows they want to run the ball, yet they still find ways to run the ball. Marcus Mariota has been rejuvenated playing in this offense. His passes are much more crisp too, even though his weapons may be limited.
