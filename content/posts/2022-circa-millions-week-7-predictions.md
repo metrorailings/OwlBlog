@@ -23,3 +23,18 @@ So here we are. What can I do to be better here? I have no idea. I need to take 
 ### Giants @ Jaguars (-3)
 
 ***
+
+##### _Streaks_
+
+Giants - 3W  
+Jaguars - 3L
+
+##### _Injuries_
+
+##### _Weather_
+
+Hot and extremely humid
+
+##### _History_
+
+Neither of these two have faced one another recently, given both are in different conferences.
