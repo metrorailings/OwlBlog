@@ -48,3 +48,5 @@ Neither of these two organization nor their quarterbacks or coaches have faced o
 I know oddsmakers tend to look down on the Giants due to their low yards per play and the inconsistent nature of their offense. But New York is a hot team for good reason. Not only do they not make many errors, their creative playmaking and their clutch mentality lends itself incredibly well to comebacks.
 
 The same can't be said of Jacksonville. In the last three games alone, they've either given up game-winning scores late or lost after accumulating double-digit leads. It's clear the team's missing that killer instinct needed to carry leads all the way to the finish line - in fact, few stats illustrate this better than their pathetic fourth-down conversion rate.  
+
+Even if the Jaguars garner a lead (which I expect), I do see the Giants try and staging a comeback here. It's very possible that New York can outright win the game here despite the stifling humidity. Jacksonville's offense presents some limitations in its implementation of Doug Pederson's west-coast style offense.
