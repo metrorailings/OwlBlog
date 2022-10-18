@@ -73,3 +73,15 @@ Hopefully, Rashod Bateman comes back for these Ravens. Baltimore desperately nee
 Temperate with some humidity
 
 ##### _History_
+
+Only their first match from last year is worth exploring here, as that was the match with Lamar active. That match was a very low-scoring affair relative to expectations. Looking at the gamebook, I can see that the Ravens only managed to push the ball into the end zone once, though they came close a second time. Cleveland did manage to pick off Lamar twice, but neither of those interceptions meant much considering the Browns couldn't sustain much over ground.
+
+***
+
+### Uncertain
+
+***
+
+It's tempting to side with Baltimore here. Going by last year's game alone, this Ravens defense has already demonstrated itself more than capable of shanking Cleveland's ground game. Just last week alone, Saquon Barkley had a rough time getting going against these same Raven defenders.
+
+That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then.
