@@ -148,3 +148,5 @@ Ryan also showing a willingness to absorb hits.
 Good to see Russell Wilson still committed to throwing the ball deep.
 
 This Palmer guy is becoming a significant player in Herbert's offense.
+
+Good to see Russell running too.
