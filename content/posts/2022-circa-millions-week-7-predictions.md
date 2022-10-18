@@ -138,7 +138,7 @@ So can Dean Pees construct a game plan to handcuff Joe Burrow and the passing ga
 Packers - 2L  
 Commanders - 1W
 
-Green Bay is coming off two shameful losses. A third loss against the Commanders and I wouldn't be surprised to see some heads on pikes here.
+Green Bay is coming off two shameful losses. A reckoning is taking place in Wisconsin as we speak. A third loss against the Commanders and I wouldn't be surprised to see some heads on pikes here.
 
 ##### _Injuries_
 
