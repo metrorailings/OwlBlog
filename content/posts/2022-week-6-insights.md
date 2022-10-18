@@ -150,3 +150,5 @@ Good to see Russell Wilson still committed to throwing the ball deep.
 This Palmer guy is becoming a significant player in Herbert's offense.
 
 Good to see Russell running too, even on some designed quarterback runs.
+
+Nathanniel Hackett finally doing the right thing and benching Melvin Gordon.
