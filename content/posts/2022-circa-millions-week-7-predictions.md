@@ -128,3 +128,28 @@ That being said, it doesn't take much talent to actually limit Cincinnati on off
 So can Dean Pees construct a game plan to handcuff Joe Burrow and the passing game? I'm not sure just yet. I think Pees has a habit of mixing up coverages in order to confuse his opponent. Will that work against Burrow?
 
 ***
+
+### Packers @ Commanders (+5.5)
+
+***
+
+##### _Streaks_
+
+Packers - 2L  
+Commanders - 1W
+
+Green Bay is coming off two shameful losses. A third loss against the Commanders and I wouldn't be surprised to see some heads on pikes here.
+
+##### _Injuries_
+
+##### _Weather_
+
+Lovely weather for football
+
+##### _History_
+
+Unfortunately, no recent history between these two clubs or their coaching staffs.
+
+***
+
+### 
