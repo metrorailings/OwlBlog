@@ -16,4 +16,10 @@ The Browns were a legitimately bad pick. It was pretty foolish of me to doubt Be
 
 The Cowboys were another unfortunate pick. I didn't realize the Eagles were so emotionally hyped entering the game. Just watching Nick Sirianni on the sideline, it was clearly evident that this game meant the world to Philadelphia. Honestly, they weren't even that impressive, but the atmosphere and the emotional edge gave them just enough juice to cover the spread here.
 
-So here we are. What can I do to be better here? I have no idea. I need to take more chances on underdogs, knowing full well the defining theme in this league has always been parity. The Steelers, Falcons, and Broncos were always three possible picks in the back of my mind, but I couldn't find the courage to side with any of them last week. That won't happen again. 
+So here we are. What can I do to be better here? I have no idea. I need to take more chances on underdogs, knowing full well the defining theme in this league has always been parity. The Steelers, Falcons, and Broncos were always three possible picks in the back of my mind, but I couldn't find the courage to side with any of them last week. That won't happen again.
+
+***
+
+### Giants @ Jaguars (-3)
+
+***
