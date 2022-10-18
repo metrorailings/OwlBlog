@@ -154,3 +154,5 @@ Good to see Russell running too, even on some designed quarterback runs.
 Nathanniel Hackett finally doing the right thing and benching Melvin Gordon.
 
 Demarri Mathis is a point of weakness in Denver's secondary.
+
+So in overtime, on a critical series, Hackett calls two straight productive runs. Then on 3rd and 1, Denver opts to throw out of shotgun? What? Is Hackett bored of the run?
