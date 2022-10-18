@@ -144,11 +144,9 @@ Green Bay is coming off two shameful losses. A third loss against the Commanders
 
 ##### _Weather_
 
-Lovely weather for football
+Cool weather
 
 ##### _History_
-
-Unfortunately, no recent history between these two clubs or their coaching staffs.
 
 ***
 
