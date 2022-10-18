@@ -37,7 +37,7 @@ Hot and extremely humid
 
 ##### _History_
 
-Neither of these two organization nor their quarterbacks or coaches have faced off against one another.
+Neither of these two organization nor their quarterbacks/coaches have faced off against one another.
 
 ***
 
@@ -49,4 +49,8 @@ I know oddsmakers tend to look down on the Giants due to their low yards per pla
 
 The same can't be said of Jacksonville. In the last three games alone, they've either given up game-winning scores late or lost after accumulating double-digit leads. It's clear the team's missing that killer instinct needed to carry leads all the way to the finish line - in fact, few stats illustrate this better than their pathetic fourth-down conversion rate.  
 
-Even if the Jaguars garner a lead (which I expect), I do see the Giants try and staging a comeback here. It's very possible that New York can outright win the game here despite the stifling humidity. Jacksonville's offense presents some limitations in its implementation of Doug Pederson's west-coast style offense.
+Even if the Jaguars garner a lead (which I expect), I do see the Giants try and staging a comeback here. It's very possible that New York can outright win the game here despite the stifling humidity. I mean....for one thing, Jacksonville's offense presents some limitations in its implementation of Doug Pederson's west-coast style offense. The passing game is largely predicated on routes designed to manufacture space in the short field. It's not a passing attack designed to overcome negative game script, especially given that none of the Jaguar receivers have really stood out as reliable vectors.
+
+If Jacksonville is to win this game, it'd be on the strength of its ground game, led by Travis Etienne. If Jacksonville can stay committed to rushing the ball, the Giants defense will start wearing down from the humidity. So that does concern me.
+
+***
