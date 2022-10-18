@@ -156,3 +156,5 @@ Nathanniel Hackett finally doing the right thing and benching Melvin Gordon.
 Demarri Mathis is a point of weakness in Denver's secondary.
 
 So in overtime, on a critical series, Hackett calls two straight productive runs. Then on 3rd and 1, Denver opts to throw out of shotgun? What? Is Hackett bored of the run?
+
+The Broncos run game is pretty shit, to be honest. Either the Chargers are getting better stopping the run or the Broncos are not committing enough to the ground game.
