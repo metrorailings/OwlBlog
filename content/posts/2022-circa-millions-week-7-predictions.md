@@ -142,6 +142,8 @@ Green Bay is coming off two shameful losses. A third loss against the Commanders
 
 ##### _Injuries_
 
+With Randall Cobb lost for the season, Aaron Rodgers is now missing one of his most trusted weapons on offense.
+
 ##### _Weather_
 
 Cool weather
