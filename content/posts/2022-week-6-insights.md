@@ -152,3 +152,5 @@ This Palmer guy is becoming a significant player in Herbert's offense.
 Good to see Russell running too, even on some designed quarterback runs.
 
 Nathanniel Hackett finally doing the right thing and benching Melvin Gordon.
+
+Demarri Mathis is a point of weakness in Denver's secondary.
