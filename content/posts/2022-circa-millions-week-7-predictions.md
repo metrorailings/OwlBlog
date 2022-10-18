@@ -119,4 +119,12 @@ Unfortunately, no recent history between these two clubs or their coaching staff
 
 ***
 
-Call me crazy, but I'm liking this Falcons team. Everybody knows they want to run the ball, yet they still find ways to run the ball. Marcus Mariota has been rejuvenated playing in this offense. His passes are much more crisp too, even though his weapons may be limited.
+Call me crazy, but I'm liking this Falcons team. Everybody knows they want to run the ball, yet they still find ways to run the ball. Just like Lamar, Marcus Mariota's added an invaluable dimension on offense that makes everything just work. Even with defenders loaded into the box, these Falcons **will** run the ball, full stop. By the way, just a brief note on Marcus Mariota...the man's been rejuvenated playing in this offense. His passes are much more crisp too, even though his weapons may be limited.
+
+The defense concerns me. Even though Dean Pees is renowned for being a defensive mastermind of yore, I just find his unit underwhelming. Maybe it's the lack of pass rushers or the talent missing in the backfield, but I expected more given Dean Pees and his pedigree. 
+
+That being said, it doesn't take much talent to actually limit Cincinnati on offense - all it takes is a commitment to keeping two safeties deep. Even if it makes the defense a bit predictable, the Bengals have serious issue maintaining production against this coverage. Joe Burrow is so habituated to throwing the ball deep that taking away those opportunities leaves him impotent. The Bengals tried to compensate by running the ball with Joe Mixon, but I think Zac Taylor's given up on that recently - just last week, Cincinnati's pass/run ratio was nearly 4 to 1.
+
+So can Dean Pees construct a game plan to handcuff Joe Burrow and the passing game? I'm not sure just yet. I think Pees has a habit of mixing up coverages in order to confuse his opponent. Will that work against Burrow?
+
+***
