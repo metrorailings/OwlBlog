@@ -29,6 +29,8 @@ So here we are. What can I do to be better here? I have no idea. I need to take 
 Giants - 3W  
 Jaguars - 3L
 
+The Giants have been absolutely hot. The Jaguars, on the other hand...not so much after Trevor Lawrence started bragging about their success.
+
 ##### _Injuries_
 
 ##### _Weather_
@@ -62,7 +64,9 @@ If Jacksonville is to win this game, it'd be on the strength of its ground game,
 ##### _Streaks_
 
 Browns - 3L  
-Ravens - 1W
+Ravens - 1L
+
+These poor Browns cannot catch a win. Two close losses followed by a humiliating blowout last week at the hands of the Patriots. The Ravens are reeling too from blowing yet another game in the fourth quarter this year.
 
 ##### _Injuries_
 
@@ -87,3 +91,24 @@ It's tempting to side with Baltimore here. Going by last year's game alone, this
 That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then. I know Jacoby Brissett is now the quarterback for the Browns, but it's not like he's a downgrade from Baker. So I don't see why Baltimore would suddenly have an easier time posting up points here in this rematch.
 
 ***
+
+### Falcons @ Bengals (-6.5)
+
+***
+
+##### _Streaks_
+
+Falcons - 1W  
+Bengals - 1W
+
+Both teams are coming off impressive wins given their recent struggles.
+
+##### _Injuries_
+
+Hopefully, Rashod Bateman comes back for these Ravens. Baltimore desperately needs more weapons in the passing game.
+
+##### _Weather_
+
+Temperate with some humidity
+
+##### _History_
