@@ -54,3 +54,22 @@ Even if the Jaguars garner a lead (which I expect), I do see the Giants try and 
 If Jacksonville is to win this game, it'd be on the strength of its ground game, led by Travis Etienne. If Jacksonville can stay committed to rushing the ball, the Giants defense will start wearing down from the humidity. So that does concern me.
 
 ***
+
+### Browns @ Ravens (-6.5)
+
+***
+
+##### _Streaks_
+
+Browns - 3L  
+Ravens - 1W
+
+##### _Injuries_
+
+Hopefully, Rashod Bateman comes back for these Ravens. Baltimore desperately needs more weapons in the passing game.
+
+##### _Weather_
+
+Temperate with some humidity
+
+##### _History_
