@@ -84,4 +84,6 @@ Only their first match from last year is worth exploring here, as that was the m
 
 It's tempting to side with Baltimore here. Going by last year's game alone, this Ravens defense has already demonstrated itself more than capable of shanking Cleveland's ground game. Just last week alone, Saquon Barkley had a rough time getting going against these same Raven defenders.
 
-That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then. I know Jacoby Brissett is now the quarterback for the Browns, but it's not like he's a downgrade from Baker. 
+That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then. I know Jacoby Brissett is now the quarterback for the Browns, but it's not like he's a downgrade from Baker. So I don't see why Baltimore would suddenly have an easier time posting up points here in this rematch.
+
+***
