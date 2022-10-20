@@ -264,3 +264,26 @@ No recent history between the two, not that it matters much given the new regime
 It's tough taking the Texans here. But the fact that we see the Texans favored by so much more money despite the limited number of tickets written their way...it makes me wonder whether Houston's seen as a prime pick by many of the sharps out there.
 
 I sort of understand why the sharps would be favoring the Texans here. In today's lower-scoring NFL, only great teams should be considered worthy of spreads approaching a full touchdown or more. I'm still not ready to consider the Raiders a good team, despite their impressive showing against the Chiefs a couple weeks ago. The reality is that these Raiders are pretty adept at shooting themselves in the foot, especially when they're still trying to figure out an identity on offense. So are the Texans, but the club can weather a few bullets given that they're taking nearly 7 points before kickoff.
+
+***
+
+### Seahawks @ Chargers (-6.5)
+
+***
+
+##### _Streaks_
+
+Seahawks - 1W  
+Chargers - 3W
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+***
+
+### 
