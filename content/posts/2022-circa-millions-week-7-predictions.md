@@ -231,3 +231,36 @@ Fully healthy, I'd side with the 49ers. But I need to see exactly who's expected
 That being said, the 49ers should experience some success here against a Kansas defense known for surrendering yardage on critical downs. But more importantly, San Francisco carries an emotional edge entering this game. It's not just that they're returning from a surprise loss last week as home dogs, but it was these same Chiefs that took a Super Bowl away from them two years ago. It had to have cut deep knowing that you were so close to a Lombardi trophy if only you managed to hold out on a 3rd and 15...
 
 These two teams are close enough in talent and coaching anyway, so I'm siding with the home underdog with a chip on its shoulder, so long as the injury report on Friday bears some positive news.
+
+***
+
+### Texans @ Raiders (-6.5)
+
+***
+
+##### _Streaks_
+
+Raiders - 1L (BYE)  
+Texans - 1W (BYE)
+
+##### _Injuries_
+
+Darren Waller injured himself yet again in practice the other day, so his status is in serious doubt.
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+No recent history between the two, not that it matters much given the new regime in charge over there in Vegas.
+
+***
+
+### Texans +6.5
+
+***
+
+It's tough taking the Texans here. But the fact that we see the Texans favored by so much more money despite the limited number of tickets written their way...it makes me wonder whether Houston's seen as a prime pick by many of the sharps out there.
+
+I sort of understand why the sharps would be favoring the Texans here. In today's lower-scoring NFL, only great teams should be considered worthy of spreads approaching a full touchdown or more. I'm still not ready to consider the Raiders a good team, despite their impressive showing against the Chiefs a couple weeks ago. The reality is that these Raiders are pretty adept at shooting themselves in the foot, especially when they're still trying to figure out an identity on offense. So are the Texans, but the club can weather a few bullets given that they're taking nearly 7 points before kickoff.
