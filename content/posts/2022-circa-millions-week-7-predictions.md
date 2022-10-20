@@ -150,6 +150,51 @@ Cool weather
 
 ##### _History_
 
+These two teams fought one another last year. Even though Washington performed well enough for about three quarters, the Packers finally found enough juice to run away with the lead and nail the 8-point cover at home.
+
 ***
 
-### 
+### Uncertain
+
+***
+
+So a few things are different with this game compared to the last. One, Washington is playing on their home turf. Two, Green Bay is down its most significant weapon on offense. Three, their offensive line has become appreciably worse. Is this enough for Washington to not only cover, but maybe win? I don't know. Green Bay is playing with an emotional edge now that they've been embarrassed two weeks in a row against perceivably lesser teams.
+
+It helps that neither side has much of a coaching advantage. That being said, these Packers are notably weak against opposing rushers, but Washington is one of the worst teams in the league at running the ball. Generally, Washington passes the ball twice every time it runs.
+
+Taylor Heinecke is a better quarterback compared to Carson Wentz, but how much better? Whatever magic he may have harbored fizzled out quick last year.
+
+***
+
+### Buccaneers @ Panthers (+10.5)
+
+***
+
+##### _Streaks_
+
+Buccaneers - 1L  
+Panthers - 3L
+
+Carolina did not start things well in the post-Rhule era.
+
+##### _Injuries_
+
+##### _Weather_
+
+Beautiful weather fit for spring
+
+##### _History_
+
+Twice last year, these two danced. Tampa Bay dominated both matches by more than 20-point margins.
+
+***
+
+### Buccaneers -10.5
+
+***
+
+I may shy away from this pick closer to game time. Taking such a heavy favorite on the road never sits well with me. But the reality is that if the Panthers plan on trotting PJ Walker back out there after seeing how feckless he was last week....I have no hope they'll be able to post points at all. Even with Christian McCaffrey running wild out there, a tailback can only do so much without any help from his quarterback. Walker only has two different throws in his arsenal - throw straight left or throw straight right. It's not enough to win a middle-school game, let alone an NFL one.
+
+Tampa Bay is nowhere as fierce as they may have been last year when many had them ranked as one of the best offenses, but as the Rams so lovingly demonstrated last week, it doesn't take much to house these Panthers.
+
+***
