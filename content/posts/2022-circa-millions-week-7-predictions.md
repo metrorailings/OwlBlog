@@ -198,3 +198,24 @@ I may shy away from this pick closer to game time. Taking such a heavy favorite 
 Tampa Bay is nowhere as fierce as they may have been last year when many had them ranked as one of the best offenses, but as the Rams so lovingly demonstrated last week, it doesn't take much to house these Panthers.
 
 ***
+
+### Chiefs @ 49ers (-2.5)
+
+***
+
+##### _Streaks_
+
+Buccaneers - 1L  
+Panthers - 3L
+
+Carolina did not start things well in the post-Rhule era.
+
+##### _Injuries_
+
+##### _Weather_
+
+Beautiful weather fit for spring
+
+##### _History_
+
+Twice last year, these two danced. Tampa Bay dominated both matches by more than 20-point margins.
