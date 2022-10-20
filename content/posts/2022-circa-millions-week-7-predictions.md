@@ -205,17 +205,17 @@ Tampa Bay is nowhere as fierce as they may have been last year when many had the
 
 ##### _Streaks_
 
-Buccaneers - 1L  
-Panthers - 3L
-
-Carolina did not start things well in the post-Rhule era.
+Chiefs - 1L  
+49ers - 1L
 
 ##### _Injuries_
 
+The 49ers may as well be the new face of the Wounded Warriors. Key players at every position group across that defense are missing in action. On top of that, their offensive line depth is now being tested as well.
+
 ##### _Weather_
 
-Beautiful weather fit for spring
+Ideal California weather
 
 ##### _History_
 
-Twice last year, these two danced. Tampa Bay dominated both matches by more than 20-point margins.
+The last time these two faced one another was the Super Bowl two years ago. The Chiefs won in what was ultimately a tight contest.
