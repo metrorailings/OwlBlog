@@ -222,10 +222,12 @@ The last time these two faced one another was the Super Bowl two years ago. The 
 
 ***
 
-### Uncertain
+### 49ers +2.5
 
 ***
 
 Fully healthy, I'd side with the 49ers. But I need to see exactly who's expected to be sidelined on San Francisco's side. As good as DeMeco is at coaching up the defense, no amount of scheming can ever compensate for talent.
 
-That being said, the 49ers should experience some success here against a Chiefs defense known for surrendering yardage on critical downs. 
+That being said, the 49ers should experience some success here against a Kansas defense known for surrendering yardage on critical downs. But more importantly, San Francisco carries an emotional edge entering this game. It's not just that they're returning from a surprise loss last week as home dogs, but it was these same Chiefs that took a Super Bowl away from them two years ago. It had to have cut deep knowing that you were so close to a Lombardi trophy if only you managed to hold out on a 3rd and 15...
+
+These two teams are close enough in talent and coaching anyway, so I'm siding with the home underdog with a chip on its shoulder, so long as the injury report on Friday bears some positive news.
