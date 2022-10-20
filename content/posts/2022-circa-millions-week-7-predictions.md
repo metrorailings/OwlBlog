@@ -49,7 +49,7 @@ Neither of these two organization nor their quarterbacks/coaches have faced off 
 
 I know oddsmakers tend to look down on the Giants due to their low yards per play and the inconsistent nature of their offense. But New York is a hot team for good reason. Not only do they not make many errors, their creative playmaking and their clutch mentality lends itself incredibly well to comebacks.
 
-The same can't be said of Jacksonville. In the last three games alone, they've either given up game-winning scores late or lost after accumulating double-digit leads. It's clear the team's missing that killer instinct needed to carry leads all the way to the finish line - in fact, few stats illustrate this better than their pathetic fourth-down conversion rate.  
+The same can't be said of Jacksonville. In the last three games alone, they've either given up game-winning scores late or lost after accumulating double-digit leads. It's clear the team's missing that killer instinct needed to carry leads all the way to the finish line - in fact, few stats illustrate this better than their pathetic fourth-down conversion rate.
 
 Even if the Jaguars garner a lead (which I expect), I do see the Giants try and staging a comeback here. It's very possible that New York can outright win the game here despite the stifling humidity. I mean....for one thing, Jacksonville's offense presents some limitations in its implementation of Doug Pederson's west-coast style offense. The passing game is largely predicated on routes designed to manufacture space in the short field. It's not a passing attack designed to overcome negative game script, especially given that none of the Jaguar receivers have really stood out as reliable vectors.
 
@@ -88,7 +88,7 @@ Only their first match from last year is worth exploring here, as that was the m
 
 It's tempting to side with Baltimore here. Going by last year's game alone, this Ravens defense has already demonstrated itself more than capable of shanking Cleveland's ground game. Just last week alone, Saquon Barkley had a rough time getting going against these same Raven defenders.
 
-That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then. I know Jacoby Brissett is now the quarterback for the Browns, but it's not like he's a downgrade from Baker. So I don't see why Baltimore would suddenly have an easier time posting up points here in this rematch.
+That being said, I see this Cleveland defense has a beat on Greg Roman's offense. The fact that they were able to stunt Lamar and company on most of their drives last year leaves me a bit wary. By and large, nothing much has changed for either team since then. Baltimore's defense hasn't transformed much despite their change at coordinator. And Jacoby Brissett isn't much of a downgrade or upgrade over Baker. So I don't see why Baltimore would suddenly have an easier time posting up points here in this rematch.
 
 ***
 
@@ -121,7 +121,7 @@ Unfortunately, no recent history between these two clubs or their coaching staff
 
 Call me crazy, but I'm liking this Falcons team. Everybody knows they want to run the ball, yet they still find ways to run the ball. Just like Lamar, Marcus Mariota's added an invaluable dimension on offense that makes everything just work. Even with defenders loaded into the box, these Falcons **will** run the ball, full stop. By the way, just a brief note on Marcus Mariota...the man's been rejuvenated playing in this offense. His passes are much more crisp too, even though his weapons may be limited.
 
-The defense concerns me. Even though Dean Pees is renowned for being a defensive mastermind of yore, I just find his unit underwhelming. Maybe it's the lack of pass rushers or the talent missing in the backfield, but I expected more given Dean Pees and his pedigree. 
+The defense concerns me. Even though Dean Pees is renowned for being a defensive mastermind of yore, I just find his unit underwhelming. Maybe it's the lack of pass rushers or the talent missing in the backfield, but I expected more given Dean Pees and his pedigree.
 
 That being said, it doesn't take much talent to actually limit Cincinnati on offense - all it takes is a commitment to keeping two safeties deep. Even if it makes the defense a bit predictable, the Bengals have serious issue maintaining production against this coverage. Joe Burrow is so habituated to throwing the ball deep that taking away those opportunities leaves him impotent. The Bengals tried to compensate by running the ball with Joe Mixon, but I think Zac Taylor's given up on that recently - just last week, Cincinnati's pass/run ratio was nearly 4 to 1.
 
