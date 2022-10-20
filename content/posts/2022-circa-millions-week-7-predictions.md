@@ -284,6 +284,14 @@ Dome game
 
 ##### _History_
 
+Neither of these two organizations have much familiarity with one another, although it's worth noting that Seahawks offensive coordinator Shane Waldron and Chargers defensive coach Brandon Staley served alongside one another back with the Rams in 2020. So there may be some familiarity between both men regarding their styles. 
+
 ***
 
-### 
+### Seahawks +6.5
+
+***
+
+People are still not buying Seattle as a legitimate team. I understand their defense leaves much to be desired, but it's a unit that's seen inklings of improvement recently. More relevant here, the Chargers defense isn't much to celebrate either - they still gave up over 200 yards to Cleveland this year after having just faced them a year ago.
+
+In what will likely be a sparring match between two dominant offenses, give me the offense getting 6.5 points handicapped in their favor. Frankly, with a bit of luck, Seattle may even win this one straight up.
