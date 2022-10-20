@@ -219,3 +219,13 @@ Ideal California weather
 ##### _History_
 
 The last time these two faced one another was the Super Bowl two years ago. The Chiefs won in what was ultimately a tight contest.
+
+***
+
+### Uncertain
+
+***
+
+Fully healthy, I'd side with the 49ers. But I need to see exactly who's expected to be sidelined on San Francisco's side. As good as DeMeco is at coaching up the defense, no amount of scheming can ever compensate for talent.
+
+That being said, the 49ers should experience some success here against a Chiefs defense known for surrendering yardage on critical downs. 
