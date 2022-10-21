@@ -152,6 +152,8 @@ Green Bay is coming off two shameful losses. A reckoning is taking place in Wisc
 
 With Randall Cobb lost for the season, Aaron Rodgers is now missing one of his most trusted weapons on offense.
 
+Carson Wentz being out indefinitely now means Taylor Heinecke will resume his old role as starting quarterback for this Washington franchise.
+
 ##### _Weather_
 
 Cool weather
