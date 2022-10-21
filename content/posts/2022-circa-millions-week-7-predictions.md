@@ -298,6 +298,8 @@ Chargers - 3W
 
 Chargers are not only down a kicker, but they may be down multiple weapons in the passing game. Josh Palmer and Donald Parham have been ruled out. Keenan Allen may be held away from action this Sunday to ensure he heals properly.  None of these players are critical, but a whole mass of them missing from action will undoubtedly make it harder for Justin Herbert to sustain any passing production on offense.
 
+Seattle will be missing the services of its star tailback in Rashaad Penny, at least for the next several weeks. What I find a bit more concerning is that Tyler Lockett hasn't practiced all week, though Pete Carroll has insisted he has a solid shot at taking the field this Sunday.
+
 ##### _Weather_
 
 Dome game
@@ -315,3 +317,5 @@ Neither of these two organizations have much familiarity with one another, altho
 People are still not buying Seattle as a legitimate team. I understand their defense leaves much to be desired, but it's a unit that's seen inklings of improvement recently. More relevant here, the Chargers defense isn't much to celebrate either - they still gave up over 200 yards to Cleveland this year after having just faced them a year ago.
 
 In what will likely be a sparring match between two dominant offenses, give me the offense getting 6.5 points handicapped in their favor. Frankly, with a bit of luck, Seattle may even win this one straight up.
+
+Then again, the injury situation on both teams may nerf any high-scoring potential here. Both contributors are missing a few contributors on their respective offenses. Who has it worse from an injury perspective? I'm not sure that can be easily discerned in the context of this upcoming match.
