@@ -224,7 +224,9 @@ Chiefs - 1L
 
 ##### _Injuries_
 
-The 49ers may as well be the new face of the Wounded Warriors. Key players at every position group across that defense are missing in action. On top of that, their offensive line depth is now being tested as well.
+Kansas is mostly healthy.
+
+Good news for the 49ers - Nick Bosa, Jimmie Ward, and Trent Williams are expected back in action. Charvarius Ward may come back as well, meaning all the major position groups that were missing critical personnel last week are no longer deficient. 
 
 ##### _Weather_
 
