@@ -33,6 +33,10 @@ The Giants have been absolutely hot. The Jaguars, on the other hand...not so muc
 
 ##### _Injuries_
 
+Azeez Ojulari and Oshane Ximines are out for the Giants. The latter is more worrying considering he's been one of the better pass rushers on the team. Leonard Williams and Kayvon Thibodeaux will need to step up.
+
+The biggest injury report is Foley Fatukasi, who's questionable for the contest.
+
 ##### _Weather_
 
 Hot and extremely humid
@@ -284,7 +288,7 @@ Dome game
 
 ##### _History_
 
-Neither of these two organizations have much familiarity with one another, although it's worth noting that Seahawks offensive coordinator Shane Waldron and Chargers defensive coach Brandon Staley served alongside one another back with the Rams in 2020. So there may be some familiarity between both men regarding their styles. 
+Neither of these two organizations have much familiarity with one another, although it's worth noting that Seahawks offensive coordinator Shane Waldron and Chargers defensive coach Brandon Staley served alongside one another back with the Rams in 2020. So there may be some familiarity between both men regarding their styles.
 
 ***
 
