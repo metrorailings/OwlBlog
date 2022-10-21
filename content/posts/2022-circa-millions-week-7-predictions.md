@@ -242,7 +242,7 @@ The last time these two faced one another was the Super Bowl two years ago. The 
 
 ***
 
-Fully healthy, I'd side with the 49ers. But I need to see exactly who's expected to be sidelined on San Francisco's side. As good as DeMeco is at coaching up the defense, no amount of scheming can ever compensate for talent.
+Fully healthy, I'd side with the 49ers. But I need to see exactly who's expected to be sidelined for San Francisco. As good as DeMeco is at coaching up the defense, no amount of scheming can ever compensate for talent.
 
 That being said, the 49ers should experience some success here against a Kansas defense known for surrendering yardage on critical downs. But more importantly, San Francisco carries an emotional edge entering this game. It's not just that they're returning from a surprise loss last week as home dogs, but it was these same Chiefs that took a Super Bowl away from them two years ago. It had to have cut deep knowing that you were so close to a Lombardi trophy if only you managed to hold out on a 3rd and 15...
 
@@ -261,7 +261,9 @@ Texans - 1W (BYE)
 
 ##### _Injuries_
 
-Darren Waller injured himself yet again in practice the other day, so his status is in serious doubt.
+Darren Waller injured himself yet again in practice the other day, so he will be essentially sidelined. On top of that, Hunter Renfrow may be out as well given his limited practice this week.
+
+Jonathan Greenard will be out for Houston, but I doubt that will seriously compromise their pass rush.
 
 ##### _Weather_
 
