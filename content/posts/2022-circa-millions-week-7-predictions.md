@@ -296,6 +296,8 @@ Chargers - 3W
 
 ##### _Injuries_
 
+Chargers are not only down a kicker, but they may be down multiple weapons in the passing game. Josh Palmer and Donald Parham have been ruled out. Keenan Allen may be held away from action this Sunday to ensure he heals properly.  None of these players are critical, but a whole mass of them missing from action will undoubtedly make it harder for Justin Herbert to sustain any passing production on offense.
+
 ##### _Weather_
 
 Dome game
