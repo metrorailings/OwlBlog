@@ -74,7 +74,9 @@ These poor Browns cannot catch a win. Two close losses followed by a humiliating
 
 ##### _Injuries_
 
-Hopefully, Rashod Bateman comes back for these Ravens. Baltimore desperately needs more weapons in the passing game.
+So Mark Andrews, Rashod Bateman, Justin Houston, and Marcus Peters practiced in limited capacity on Friday. Their status is questionable. It's worth noting that John Harbaugh seemed to have intended for certain players to practice less this week given their Thursday match next week, so all players are eligible to play. 
+
+Browns may miss Jadaveon Clowney yet again, not that it seems to matter much.
 
 ##### _Weather_
 
