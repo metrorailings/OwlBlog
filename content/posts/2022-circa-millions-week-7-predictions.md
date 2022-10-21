@@ -111,6 +111,8 @@ Both teams are coming off impressive wins given their recent struggles.
 
 ##### _Injuries_
 
+Logan Wilson is the only significant injury of note. The Bengals will miss him too considering Atlanta has the league's most productive rushing offense (arguably).
+
 ##### _Weather_
 
 Lovely weather for football
