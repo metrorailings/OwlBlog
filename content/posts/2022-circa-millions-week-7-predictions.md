@@ -73,7 +73,7 @@ These poor Browns cannot catch a win. Two close losses followed by a humiliating
 
 ##### _Injuries_
 
-So Mark Andrews, Rashod Bateman, Justin Houston, and Marcus Peters practiced in limited capacity on Friday. Their status is questionable. It's worth noting that John Harbaugh seemed to have intended for certain players to practice less this week given their Thursday match next week, so all players are eligible to play. 
+So Mark Andrews, Rashod Bateman, Justin Houston, and Marcus Peters practiced in limited capacity on Friday. Their status is questionable. It's worth noting that John Harbaugh seemed to have intended for certain players to practice less this week given their Thursday match next week, so all players are plausible to play.
 
 Browns may miss Jadaveon Clowney yet again, not that it seems to matter much.
 
@@ -188,7 +188,7 @@ Carolina did not start things well in the post-Rhule era.
 
 ##### _Injuries_
 
-Carolina's not in a good state of health here. Matt Ioaniddis will be out. On top of that, a number of key players among their defensive back seven are dealing with injuries, so don't be surprised by limited snaps by some of these defensive starters. Furthermore, Christian McCaffrey no longer being present on offense now means the team loses it single most effective weapon on that side of the ball. 
+Carolina's not in a good state of health here. Matt Ioaniddis will be out. On top of that, a number of key players among their defensive back seven are dealing with injuries, so don't be surprised by limited snaps by some of these defensive starters. Furthermore, Christian McCaffrey no longer being present on offense now means the team loses it single most effective weapon on that side of the ball.
 
 Tampa Bay may be missing two starting cornerbacks in the backfield...but does it matter much going up against PJ Walker?
 
@@ -225,7 +225,7 @@ Chiefs - 1L
 
 Kansas is mostly healthy.
 
-Good news for the 49ers - Nick Bosa, Jimmie Ward, and Trent Williams are expected back in action. Charvarius Ward may come back as well, meaning all the major position groups that were missing critical personnel last week are no longer deficient. 
+Good news for the 49ers - Nick Bosa, Jimmie Ward, and Trent Williams are expected back in action. Charvarius Ward may come back as well, meaning all the major position groups that were missing critical personnel last week are no longer deficient.
 
 ##### _Weather_
 
