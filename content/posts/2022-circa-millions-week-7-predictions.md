@@ -171,7 +171,7 @@ So a few things are different with this game compared to the last. One, Washingt
 
 It helps that neither side has much of a coaching advantage. That being said, these Packers are notably weak against opposing rushers, but Washington is one of the worst teams in the league at running the ball. Generally, Washington passes the ball twice every time it runs.
 
-Taylor Heinecke is a better quarterback compared to Carson Wentz, but how much better? Whatever magic he may have harbored fizzled out quick last year.
+Taylor Heinecke is a better quarterback compared to Carson Wentz, but how much better? Whatever magic he may have harbored fizzled out quick last year. That being said, is this cover within reach time time around against a weaker Packers club?
 
 ***
 
