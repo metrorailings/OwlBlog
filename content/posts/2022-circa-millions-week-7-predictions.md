@@ -188,7 +188,7 @@ Carolina did not start things well in the post-Rhule era.
 
 ##### _Injuries_
 
-Carolina's not in a good state of health here. Matt Ioaniddis will be out. On top of that, a number of key players among their defensive back seven are dealing with injuries, so don't be surprised by limited snaps by some of these defensive starters. Furthermore, Christian McCaffrey no longer being present on offense now means the team loses it single most effective weapon on that side of the ball.
+Carolina's not in a good state of health here. Matt Ioaniddis will be out. On top of that, a number of key players among their defensive back seven are dealing with injuries, so don't be surprised by limited snaps by some of these defensive starters. Furthermore, Christian McCaffrey no longer being present on offense now means the team loses its single most effective weapon on that side of the ball.
 
 Tampa Bay may be missing two starting cornerbacks in the backfield...but does it matter much going up against PJ Walker?
 
@@ -206,9 +206,11 @@ Twice last year, these two danced. Tampa Bay dominated both matches by more than
 
 ***
 
-I may shy away from this pick closer to game time. Taking such a heavy favorite on the road never sits well with me. But the reality is that if the Panthers plan on trotting PJ Walker back out there after seeing how feckless he was last week....I have no hope they'll be able to post points at all. Even with Christian McCaffrey running wild out there, a tailback can only do so much without any help from his quarterback. Walker only has two different throws in his arsenal - throw straight left or throw straight right. It's not enough to win a middle-school game, let alone an NFL one.
+I may shy away from this pick closer to game time. Taking such a heavy favorite on the road never sits well with me. But the reality is that if the Panthers plan on trotting PJ Walker back out there after seeing how feckless he was last week....I have no hope they'll be able to post points at all. \~Even with Christian McCaffrey running wild out there, a tailback can only do so much without any help from his quarterback.\~ Walker only has two different throws in his arsenal - throw straight left or throw straight right. It's not enough to win a middle-school game, let alone an NFL one.
 
 Tampa Bay is nowhere as fierce as they may have been last year when many had them ranked as one of the best offenses, but as the Rams so lovingly demonstrated last week, it doesn't take much to house these Panthers.
+
+EDIT: With McCaffrey gone and the organization in tank mode, Tampa has absolutely NO excuse not to beat these Panthers down.
 
 ***
 
