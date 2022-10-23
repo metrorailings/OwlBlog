@@ -31,3 +31,9 @@ All of a sudden, Carolina has found a sort of groove offensively with Chuba Hubb
 Brady is losing his touch.
 
 Remember the cardinal rule - teams who were beaten soundly only to return home as double-digit underdogs against mediocre teams....do not bet against them.
+
+***
+
+## Seahawks @ Chargers
+
+Marquise Goodwin may be yet another additional weapon for the Seahawks.
