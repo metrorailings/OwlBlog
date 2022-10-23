@@ -10,6 +10,6 @@ The Buccaneers lost against an even bigger loser in Carolina. The 49ers lost in 
 
 On top of that, the Jets continue winning despite their sad offense. Green Bay continues finding new ways losing in humiliating fashion. Tennessee still wins despite purely having a management philosophy on offense. Seattle won convincingly against a shaky Chargers team. Giants once again found a way to win in enemy territory.
 
-Sharps were humiliated. As was the public. But if one simply looked at the outcomes last week and bet the winners, chances are that person would be sitting here incredibly happy right now.
+Sharps were humiliated. As was the public. But if one simply looked at the outcomes last week and bet the winners from those games, chances are that person would be sitting here incredibly happy right now.
 
-So where do I sit?
+So what does that tell me? I don't know. Usually, parity is a rule of thumb in the NFL - the low scoring this season actually reflects that principle well. But it seems that the teams trending downward over the past couple weeks are still falling further and faster down that cliff. Meanwhile, the clubs riding high on wins lately continue reaching new heights.
