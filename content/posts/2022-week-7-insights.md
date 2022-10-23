@@ -54,4 +54,12 @@ Nick Bosa starting to lose credibility. Two offside penalties in a row, looking 
 
 So many procedural penalties on the 49ers IN THEIR HOME FIELD.
 
-I'm thinking these 49ers don't have any pass rush without Nick Bosa and Arik Armstead. And 
+I'm thinking these 49ers don't have any pass rush without Nick Bosa and Arik Armstead. And Bosa hasn't been playing well and Armstead's been an injury case. 
+
+Dave Toub with the smart play, forcing a false start to take the 49ers out of field-goal range. 
+
+***
+
+## Texans @ Raiders
+
+I need to spend a bit more time studying this game. Find out if Derek Carr is better improvising or operating under this McDaniels system.
