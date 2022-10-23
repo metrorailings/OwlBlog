@@ -65,3 +65,5 @@ Dave Toub with the smart play, forcing a false start to take the 49ers out of fi
 ## Texans @ Raiders
 
 I need to spend a bit more time studying this game. Find out if Derek Carr is better improvising or operating under this McDaniels system.
+
+Vegas might have found an identity. Texans defense was absolutely helpless in the second half.
