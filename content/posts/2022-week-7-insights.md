@@ -38,6 +38,8 @@ Remember the cardinal rule - teams who were beaten soundly only to return home a
 
 Marquise Goodwin may be yet another additional weapon for the Seahawks, though it helps when Geno Smith's making beautiful passes to him.
 
+Geno frustrates me. Every now and then, his throws are bafflingly off. I suppose you could blame miscommunication sometimes, but that excuse can only be used once or twice.
+
 ***
 
 ## Chiefs @ 49ers
