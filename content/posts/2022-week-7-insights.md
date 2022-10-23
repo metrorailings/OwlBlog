@@ -37,3 +37,9 @@ Remember the cardinal rule - teams who were beaten soundly only to return home a
 ## Seahawks @ Chargers
 
 Marquise Goodwin may be yet another additional weapon for the Seahawks, though it helps when Geno Smith's making beautiful passes to him.
+
+***
+
+## Chiefs @ 49ers
+
+Nick Bosa making the same careless offsides error two downs in a row. May be a sign of this team's lack of commitment to details.
