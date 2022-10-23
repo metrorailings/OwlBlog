@@ -58,6 +58,8 @@ I'm thinking these 49ers don't have any pass rush without Nick Bosa and Arik Arm
 
 Dave Toub with the smart play, forcing a false start to take the 49ers out of field-goal range. 
 
+49ers with ineffective man coverage.
+
 ***
 
 ## Texans @ Raiders
