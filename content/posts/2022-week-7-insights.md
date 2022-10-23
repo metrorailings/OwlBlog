@@ -10,4 +10,6 @@ This Wan'Dale Robinson guy has some potential for the Giants.
 
 Josh Allen naturally a difference maker for Jacksonville.
 
-Smart coaching from the Jaguars offensive staff, taking advantage of the Giants and their blitzing tendencies
+Smart coaching from the Jaguars offensive staff, taking advantage of the Giants and their blitzing tendencies.
+
+Injuries are taking a toll on the Giants. Both their starting guards are out, and Wan'Dale Robinson is dealing with some issues himself. 
