@@ -19,3 +19,9 @@ Panthers using hurry-up to their advantage, knowing the Giants aren't used to th
 Both offenses are overperforming today. I imagine it's because they're both very familiar with this Baltimore-defense - Mike Caldwell and Wink Martindale were once colleagues in Baltimore. Jacksonville's play selection seems to indicate this too, given the number of screens and lateral plays they made.
 
 Daniel Jones once again impressing me, though his accuracy could use a bit more work.
+
+***
+
+## Buccaneers @ Panthers
+
+No Brady sneak on 3rd and 1 and 4th and 1? Yikes. Father Time might finally be winning here.
