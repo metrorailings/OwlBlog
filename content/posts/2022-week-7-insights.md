@@ -51,3 +51,5 @@ I wonder if Kansas can sustain a pass rush if Chris Jones is ever sidelined.
 Kansas and their jet sweeps are damn near perfectly executed. Kudos to Andy Reid.
 
 Nick Bosa starting to lose credibility.
+
+So many procedural penalties on the 49ers IN THEIR HOME FIELD.
