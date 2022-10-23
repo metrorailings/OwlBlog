@@ -13,3 +13,5 @@ Josh Allen naturally a difference maker for Jacksonville.
 Smart coaching from the Jaguars offensive staff, taking advantage of the Giants and their blitzing tendencies.
 
 Injuries are taking a toll on the Giants. Both their starting guards are out, and Wan'Dale Robinson is dealing with some issues himself. 
+
+Panthers using hurry-up to their advantage, knowing the Giants aren't used to the stifling humidity.
