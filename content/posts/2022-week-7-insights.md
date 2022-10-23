@@ -47,3 +47,7 @@ Nick Bosa making the same careless offsides error two downs in a row. May be a s
 It's long overdue, but Brandon Aiyuk is making a case for himself here as a reliable vector on offense.
 
 I wonder if Kansas can sustain a pass rush if Chris Jones is ever sidelined.
+
+Kansas and their jet sweeps are damn near perfectly executed. Kudos to Andy Reid.
+
+Nick Bosa starting to lose credibility.
