@@ -43,3 +43,7 @@ Marquise Goodwin may be yet another additional weapon for the Seahawks, though i
 ## Chiefs @ 49ers
 
 Nick Bosa making the same careless offsides error two downs in a row. May be a sign of this team's lack of commitment to details. DeMeco Ryan is supposed to be one of the best defensive minds in this league too.
+
+It's long overdue, but Brandon Aiyuk is making a case for himself here as a reliable vector on offense.
+
+I wonder if Kansas can sustain a pass rush if Chris Jones is ever sidelined.
