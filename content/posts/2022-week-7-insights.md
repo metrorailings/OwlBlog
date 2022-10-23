@@ -28,4 +28,6 @@ No Brady sneak on 3rd and 1 and 4th and 1? Yikes. Father Time might finally be w
 
 All of a sudden, Carolina has found a sort of groove offensively with Chuba Hubbard, DJ Moore, and Foreman.
 
+Brady is losing his touch.
+
 Remember the cardinal rule - teams who were beaten soundly only to return home as double-digit underdogs against mediocre teams....do not bet against them.
