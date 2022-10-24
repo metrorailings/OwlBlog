@@ -88,3 +88,5 @@ Not only does Rodgers not trust his receivers, but he does not trust his linemen
 I think AJ Terrell leaving the game early did effect the Falcons plan in coverage, compelling them into more single-high coverage.
 
 This defensive line for the Bengals has been sensational.
+
+Cincinnati's lack of a ground game shows itself yet again.
