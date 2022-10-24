@@ -11,7 +11,7 @@ Josh Allen naturally a difference maker for Jacksonville.
 
 Smart coaching from the Jaguars offensive staff, taking advantage of the Giants and their blitzing tendencies.
 
-Injuries are taking a toll on the Giants. Both their starting guards are out, and Wan'Dale Robinson is dealing with some issues himself. 
+Injuries are taking a toll on the Giants. Both their starting guards are out, and Wan'Dale Robinson is dealing with some issues himself.
 
 Panthers using hurry-up to their advantage, knowing the Giants aren't used to the stifling humidity.
 
@@ -55,9 +55,9 @@ Nick Bosa starting to lose credibility. Two offside penalties in a row, looking 
 
 So many procedural penalties on the 49ers IN THEIR HOME FIELD.
 
-I'm thinking these 49ers don't have any pass rush without Nick Bosa and Arik Armstead. And Bosa hasn't been playing well and Armstead's been an injury case. 
+I'm thinking these 49ers don't have any pass rush without Nick Bosa and Arik Armstead. And Bosa hasn't been playing well and Armstead's been an injury case.
 
-Dave Toub with the smart play, forcing a false start to take the 49ers out of field-goal range. 
+Dave Toub with the smart play, forcing a false start to take the 49ers out of field-goal range.
 
 49ers with ineffective man coverage. Twice on 3rd and long have these Chiefs covered.
 
@@ -68,3 +68,9 @@ Dave Toub with the smart play, forcing a false start to take the 49ers out of fi
 I need to spend a bit more time studying this game. Find out if Derek Carr is better improvising or operating under this McDaniels system.
 
 Vegas might have found an identity. Texans defense was absolutely helpless in the second half.
+
+***
+
+## Packers @ Washington
+
+Heinecke definitely infuses this offense with spirit given his gunslinger mentality and his innate toughness
