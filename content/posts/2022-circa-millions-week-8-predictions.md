@@ -12,4 +12,6 @@ On top of that, the Jets continue winning despite their sad offense. Green Bay c
 
 Sharps were humiliated. As was the public. But if one simply looked at the outcomes last week and bet the winners from those games, chances are that person would be sitting here incredibly happy right now.
 
-So what does that tell me? I don't know. Usually, parity is a rule of thumb in the NFL - the low scoring this season actually reflects that principle well. But it seems that the teams trending downward over the past couple weeks are still falling further and faster down that cliff. Meanwhile, the clubs riding high on wins lately continue reaching new heights. What we're seeing here is a gulf - teams with a winning mindset are distancing themselves from those organizations that cannot find the will to win.
+So what does that tell me? I don't know. Usually, parity is a rule of thumb in the NFL - the low scoring this season actually reflects that principle well. But it seems that the teams trending downward over the past couple weeks are still falling further and faster down that cliff. Meanwhile, the clubs riding high on wins lately continue reaching new heights. What we're seeing here is a gulf - teams with a winning mindset are distancing themselves from those organizations that cannot find the will to win. 
+
+The goal, first and foremost, will be to bet on teams with a winner's mentality whenever the situation is favorable for them.
