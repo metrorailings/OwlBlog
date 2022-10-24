@@ -71,6 +71,8 @@ Vegas might have found an identity. Texans defense was absolutely helpless in th
 
 The Texans simply cannot contain runs to the outside. Fascinating. Their linebackers are so slow. How did the Jaguars lose to these chumps again?
 
+That being said, I think home field advantage and the fact that the Texans seem to have a habit of dying in the fourth quarter ultimately decided things here from a spread perspective.
+
 ***
 
 ## Packers @ Washington
