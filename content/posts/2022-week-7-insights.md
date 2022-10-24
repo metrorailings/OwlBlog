@@ -74,3 +74,5 @@ Vegas might have found an identity. Texans defense was absolutely helpless in th
 ## Packers @ Washington
 
 Heinecke definitely infuses this offense with spirit given his gunslinger mentality and his innate toughness
+
+Not only does Rodgers not trust his receivers, but he does not trust his linemen. To be fair, his receivers haven't been doing him much favor, especially with Lazard out.
