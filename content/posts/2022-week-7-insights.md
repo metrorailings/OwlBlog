@@ -69,6 +69,8 @@ I need to spend a bit more time studying this game. Find out if Derek Carr is be
 
 Vegas might have found an identity. Texans defense was absolutely helpless in the second half.
 
+The Texans simply cannot contain runs to the outside. Fascinating.
+
 ***
 
 ## Packers @ Washington
