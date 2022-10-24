@@ -80,3 +80,9 @@ That being said, I think home field advantage and the fact that the Texans seem 
 Heinecke definitely infuses this offense with spirit given his gunslinger mentality and his innate toughness. It helps that he's playing home too.
 
 Not only does Rodgers not trust his receivers, but he does not trust his linemen. To be fair, his receivers haven't been doing him much favor, especially with Lazard out.
+
+***
+
+## Falcons @ Bengals
+
+I think AJ Terrell leaving the game early did effect the Falcons plan in coverage, compelling them into more single-high coverage.
