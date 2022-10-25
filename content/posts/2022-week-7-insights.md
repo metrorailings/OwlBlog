@@ -90,3 +90,11 @@ I think AJ Terrell leaving the game early did effect the Falcons plan in coverag
 This defensive line for the Bengals has been sensational.
 
 Cincinnati's lack of a ground game shows itself yet again.
+
+***
+
+## Bears @ Patriots
+
+Bears are running silly all over these Patriots. Chicago has truly embraced its identity as an improvisational team led by a tailback masquerading as a quarterback. 
+
+Patriots came into this game not caring much. It showed. Belichick must be upset.
