@@ -39,6 +39,14 @@ Dome affair
 
 ##### _History_
 
+Both these teams faced one another early in the season last year in Arizona. Funnily enough, the spread was the exact same - 3.5 points in favor of the home team. Arizona won a very contested affair, though they needed Greg Joseph to miss an easy field goal at the end of the game.
+
+So since then, what's changed? Well, this Arizona team isn't as hot as they were last year - in fact, Minnesota's the team in this match carrying heat. Furthermore, the entire Vikings coaching staff from last year has been trashed in favor of a new regime led by Kevin O'Connell. The Cardinals are still being led by the same coaches, but some of the impact players from last year are no longer there, namely Chandler Jones. 
+
 ***
 
-### 
+### Uncertain
+
+***
+
+It's 
