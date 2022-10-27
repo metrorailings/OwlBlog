@@ -126,3 +126,9 @@ Belichick and his defenses notably struggle against defenses with mobile quarter
 Luckily for them, the Jets don't have a mobile quarterback. In fact, they have a quarterback they don't even fully trust. New York has been winning games chiefly relying on their defense and their ground game. The ground game will suffer now that Breece Hall has blown out his knee, but the club should still be able to produce some yards regardless.
 
 The key for the Patriots here is whether they can stop New York's tailbacks from popping off and getting into their groove. Zack Wilson has to be forced to carry the burden of production here. Judging by the way Robert Saleh and Mike LaFleur have limited his involvement in the offense, I'm assuming Wilson's not yet capable of carrying this offense should circumstances deem it necessary.
+
+***
+
+### Titans @ Texans (+2)
+
+***
