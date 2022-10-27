@@ -93,3 +93,22 @@ It's easy to look down on the Saints after their painful losses in the past two 
 Then again, the Raiders have proven to me that they have the mettle to win, considering they boast one of the league's more intricate ground games. That being said, Josh Jacobs will be tested going up against a Saints defensive coaching staff that should understand the type of power running game Josh McDaniels likes to run.
 
 ***
+
+### Patriots @ Jets (+2.5)
+
+***
+
+##### _Streaks_
+
+Patriots - 1L (MNF)  
+Jets - 4W
+
+The Jets are riding high off a four-game streak. Few teams are better cognizant of their own limitations than the Jets. 
+
+##### _Injuries_
+
+##### _Weather_
+
+Crisp autumn weather
+
+##### _History_
