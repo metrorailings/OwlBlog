@@ -56,3 +56,26 @@ I feel a little queasy thinking that the Cardinals have a credible shot here. Bu
 The 3.5 points here is just enough leeway for Arizona here. Even if the Cardinals lose this game by committing one error too many, they can still nail the cover here. That being said, Arizona's potential to make mistakes here remains uncomfortably high so long as kicker Matt Prater remains sidelined with a hip injury. So Friday's injury report will likely dictate my decision here.
 
 ***
+
+### Raiders @ Saints (+1.5)
+
+***
+
+##### _Streaks_
+
+Raiders - 1W  
+Saints - 2L
+
+New Orleans is hurting after sustaining two losses in part due to injury.
+
+##### _Injuries_
+
+Maybe this week will be the week Darren Waller finally starts for Vegas.
+
+The key names to watch for New Orleans will be Marshon Lattimore, Michael Thomas, and Jarvis Landry.
+
+##### _Weather_
+
+Dome affair
+
+##### _History_
