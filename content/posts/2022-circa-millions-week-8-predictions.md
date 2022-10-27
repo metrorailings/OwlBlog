@@ -43,7 +43,7 @@ Dome affair
 
 Both these teams faced one another early in the season last year in Arizona. Funnily enough, the spread was the exact same - 3.5 points in favor of the home team. Arizona won a very contested affair, though they needed Greg Joseph to miss an easy field goal at the end of the game.
 
-So since then, what's changed? Well, this Arizona team isn't as hot as they were last year - in fact, Minnesota's the team in this match carrying heat. Furthermore, the entire Vikings coaching staff from last year has been trashed in favor of a new regime led by Kevin O'Connell. The Cardinals are still being led by the same coaches, but some of the impact players from last year are no longer there, namely Chandler Jones. 
+So since then, what's changed? Well, this Arizona team isn't as hot as they were last year - in fact, Minnesota's the team in this match carrying heat. Furthermore, the entire Vikings coaching staff from last year has been trashed in favor of a new regime led by Kevin O'Connell. The Cardinals are still being led by the same coaches, but some of the impact players from last year are no longer there, namely Chandler Jones.
 
 ***
 
@@ -103,7 +103,7 @@ Then again, the Raiders have proven to me that they have the mettle to win, cons
 Patriots - 1L (MNF)  
 Jets - 4W
 
-The Jets are riding high off a four-game streak. Few teams are better cognizant of their own limitations than the Jets. 
+The Jets are riding high off a four-game streak. Few teams are better cognizant of their own limitations than the Jets.
 
 ##### _Injuries_
 
@@ -126,6 +126,8 @@ Belichick and his defenses notably struggle against defenses with mobile quarter
 Luckily for them, the Jets don't have a mobile quarterback. In fact, they have a quarterback they don't even fully trust. New York has been winning games chiefly relying on their defense and their ground game. The ground game will suffer now that Breece Hall has blown out his knee, but the club should still be able to produce some yards regardless.
 
 The key for the Patriots here is whether they can stop New York's tailbacks from popping off and getting into their groove. Zack Wilson has to be forced to carry the burden of production here. Judging by the way Robert Saleh and Mike LaFleur have limited his involvement in the offense, I'm assuming Wilson's not yet capable of carrying this offense should circumstances deem it necessary.
+
+Let me take that back...the real key for the Patriots here is whether they can commit to Bailey Zappe over Mac Jones. Mac is a liability. If Mac was inserted into the top role at offense, then this game becomes a matter of whoever makes the most mistakes. Home field advantage would imply a slight advantage for New York then.
 
 ***
 
