@@ -18,4 +18,27 @@ The goal, first and foremost, will be to bet on teams with a winner's mentality 
 
 ***
 
+### Cardinals @ Vikings (-3.5)
+
+***
+
+##### _Streaks_
+
+Cardinals - 1W  
+Vikings - 4W (Bye)
+
+Vikings are one of the hottest teams in the NFL, given their record. Arizona's coming off a strong win over the beleaguered Saints.
+
+##### _Injuries_
+
+DeAndre Hopkins returning for Arizona has been big, especially now that Hollywood Brown is out indefinitely. His first game back against the Saints was nothing short of impressive.
+
+##### _Weather_
+
+Dome affair
+
+##### _History_
+
+***
+
 ### 
