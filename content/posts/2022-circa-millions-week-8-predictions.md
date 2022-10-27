@@ -33,6 +33,8 @@ Vikings are one of the hottest teams in the NFL, given their record. Arizona's c
 
 DeAndre Hopkins returning for Arizona has been big, especially now that Hollywood Brown is out indefinitely. His first game back against the Saints was nothing short of impressive.
 
+Matt Prater is the one injury to watch for these Cardinals, given their sorry situation at kicker.
+
 ##### _Weather_
 
 Dome affair
