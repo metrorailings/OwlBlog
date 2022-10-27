@@ -112,3 +112,5 @@ The Jets are riding high off a four-game streak. Few teams are better cognizant 
 Crisp autumn weather
 
 ##### _History_
+
+Last year, New England swept the Jets easy. As Bill Belichick has shown time and time again with other rookie quarterbacks, Zach Wilson isn't ready for the rigors of the professional leagues.
