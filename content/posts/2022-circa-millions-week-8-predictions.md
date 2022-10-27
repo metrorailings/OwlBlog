@@ -15,3 +15,7 @@ Sharps were humiliated. As was the public. But if one simply looked at the outco
 So what does that tell me? I don't know. Usually, parity is a rule of thumb in the NFL - the low scoring this season actually reflects that principle well. But it seems that the teams trending downward over the past couple weeks are still falling further and faster down that cliff. Meanwhile, the clubs riding high on wins lately continue reaching new heights. What we're seeing here is a gulf - teams with a winning mindset are distancing themselves from those organizations that cannot find the will to win.
 
 The goal, first and foremost, will be to bet on teams with a winner's mentality whenever the situation is favorable for them. Then I'll focus more on underdogs that are facing off against opponents that are overvalued.
+
+***
+
+### 
