@@ -49,4 +49,6 @@ So since then, what's changed? Well, this Arizona team isn't as hot as they were
 
 ***
 
-It's 
+I feel a little queasy thinking that the Cardinals have a credible shot here. But the reality is this - the Vikings haven't been winning football games on the strength of their offense or a fierce defense. Minnesota has been playing a brand of football focused much more on minimizing mistakes and turnovers. It's good enough to win football games, but not cover spreads. In their last four games, the Vikings have only covered once. And it could be argued that lone cover was owed more to luck considering Minnesota's defense managed to knock Miami's starting quarterback out of the game early.
+
+The 3.5 points here is just enough leeway for Arizona here. Even if the Cardinals lose this game by committing one error too many, they can still nail the cover here. That being said, Arizona's potential to make mistakes here remains uncomfortably high so long as Matt Prater remains sidelined with a hip injury. So Friday's injury report will likely dictate my decision here. 
