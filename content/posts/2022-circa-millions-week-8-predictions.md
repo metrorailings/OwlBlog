@@ -90,4 +90,6 @@ No recent history between the two organizations, but the Raiders head coaches an
 
 It's easy to look down on the Saints after their painful losses in the past two weeks. But injuries left them rattled entering both those matches. Despite that, New Orleans still remained somewhat competitive, especially against Cincinnati a few weeks ago. And let's not forget that these same Saints were able to win decisively against Seattle, even going as far as covering a pretty wide spread.
 
+Then again, the Raiders have proven to me that they have the mettle to win, considering they boast one of the league's more intricate ground games. That being said, Josh Jacobs will be tested going up against a Saints defensive coaching staff that should understand the type of power running game Josh McDaniels likes to run.
+
   
