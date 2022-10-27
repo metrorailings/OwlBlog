@@ -131,6 +131,21 @@ Let me take that back...the real key for the Patriots here is whether they can c
 
 ***
 
-### Titans @ Texans (+2)
+### Steelers @ Eagles (-10.5)
 
 ***
+
+##### _Streaks_
+
+Steelers - 1L (SNF)  
+Eagles - 6W (Bye)
+
+Steelers are coming off a limp primetime loss to Miami. 
+
+##### _Injuries_
+
+##### _Weather_
+
+Friendly fall weather
+
+##### _History_
