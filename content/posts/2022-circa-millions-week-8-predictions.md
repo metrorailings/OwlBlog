@@ -79,3 +79,15 @@ The key names to watch for New Orleans will be Marshon Lattimore, Michael Thomas
 Dome affair
 
 ##### _History_
+
+No recent history between the two organizations, but the Raiders head coaches and the Saints coaches have faced off against one another last year when Patrick Graham was a defensive coordinator with the Giants and Josh McDaniels was still the offensive mastermind behind the Patriots. Neither of those two matches can tell us too much given the massive difference in personnel, but it's worth noting the Saints fared well against the units led by McDaniels and Graham respectively. Then again, McDaniels was working on breaking in a rookie quarterback and Graham was herding a demoralized unit.
+
+***
+
+### Uncertain
+
+***
+
+It's easy to look down on the Saints after their painful losses in the past two weeks. But injuries left them rattled entering both those matches. Despite that, New Orleans still remained somewhat competitive, especially against Cincinnati a few weeks ago. And let's not forget that these same Saints were able to win decisively against Seattle, even going as far as covering a pretty wide spread.
+
+  
