@@ -93,5 +93,3 @@ It's easy to look down on the Saints after their painful losses in the past two 
 Then again, the Raiders have proven to me that they have the mettle to win, considering they boast one of the league's more intricate ground games. That being said, Josh Jacobs will be tested going up against a Saints defensive coaching staff that should understand the type of power running game Josh McDaniels likes to run.
 
 ***
-
-  
