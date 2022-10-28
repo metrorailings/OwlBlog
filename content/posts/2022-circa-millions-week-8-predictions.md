@@ -187,6 +187,10 @@ Expect some cold weather, though it shouldn't be anything that'll hinder either 
 
 ##### _History_
 
+No history worthy of analyzing here
+
 ***
 
-### 
+### Bills +11
+
+***
