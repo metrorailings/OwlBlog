@@ -200,3 +200,34 @@ Yet another double-digit favorite. But if there's any team that can cover such a
 That being said, I am aware that Green Bay's stock has plummeted the past few weeks. The Packers are now a team without much to lose. On top of that, I am aware Green Bay still has a few tricks up its sleeve, namely its ground game. For some reason, the Packers have shied away from running the ball during their losing streak. Perhaps this shameful losing streak will be the catalyst for a much-needed shift in offensive philosophy. That being said, will it be enough to help cover the spread here? I'm still not sure. Few teams are better at stonewalling opposing rushers than Buffalo. If the Bills can subvert the growing public narrative and treat these Packers as serious opponents, I do think Buffalo can run away with a huge win here, even if Green Bay surprises people with a shift in mentality.
 
 If this game was played in Wisconsin, I think Green Bay would be a much safer bet. But for the time being, I'll need to side with the winning team certain to ride high on the support of their devoted fans this Sunday night.
+
+***
+
+### Bengals @ Browns (+3)
+
+***
+
+##### _Streaks_
+
+Bengals - 2W  
+Browns - 4L
+
+Cleveland is barely registering a heart beat here after suffering through four consecutive losses.
+
+##### _Injuries_
+
+##### _Weather_
+
+A lovely day considering we're about to enter November.
+
+##### _History_
+
+Surprisingly...the Browns housed these Bengals twice last year, even though Cincinnati was running hot in spurts.
+
+To be fair, the second game took place between the second-string quarterbacks, so only the first game is worth exploring here. That game was interesting - even though the score would indicate a completely one-sided blowout, the statistics don't necessarily testify to that. Cincinnati dominated time of possession. Cleveland was only successful on roughly 40% of their rushing attempts, though that figure may be exaggerated as the Browns may have been slacking in the fourth quarter after being up by three scores. Cleveland also logged several more penalties compared to the Bengals. On top of that, neither team really impressed on third down.
+
+What truly dictated the Browns success in this game was their ability to force multiple turnovers from Cincinnati's offense. Interesting.
+
+***
+
+### 
