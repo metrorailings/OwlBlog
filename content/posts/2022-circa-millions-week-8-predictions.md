@@ -237,3 +237,5 @@ What truly dictated the Browns success in this game was their ability to force m
 I'd rather not be taking the Browns here, but I might not have much choice given the lack of options this week.
 
 This year, Cleveland's already had rematches with several opponents they faced last year. Suspiciously enough, the scores and outcomes in those games seem to indicate the Browns haven't changed much. If that trend holds, Cleveland should be able to handle these Bengals fairly easily at home, especially in primetime.
+
+One thing worth noting from that game last year between Burrow and Cleveland's defense - outside of one drive that started with favorable positioning, the Bengals were completely shut out in the second half. It seems to me Joe Woods may have sniffed out something here, possibly the fact that Cincinnati struggles to motion the ball against two-deep coverage. It's a weakness that Baltimore exploited and I wouldn't be surprised if Woods and Cleveland's defensive coaches picked up on that same vulnerability.
