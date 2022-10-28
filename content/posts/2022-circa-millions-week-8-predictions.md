@@ -163,3 +163,30 @@ After getting burned **bad** on a double-digit favorite last week, why would I d
 Meanwhile, Kenny Pickett is still a project early in development. His ability to overcome adversity is questionable at best. Then again, it's hard to blame the kid considering he's only so many games into his professional career.
 
 The only thing that can stop Philadelphia here is whether they end up losing interest midway through the game. Should that happen, a chance is there that Pittsburgh may nail the back-door cover. A slim chance. 
+
+***
+
+### Packers @ Bills (-11)
+
+***
+
+##### _Streaks_
+
+Packers - 3L  
+Bills - 3W (Bye)
+
+One loss as a major favorite is worrisome. Two consecutive losses as a significant favorite is genuine cause for concern. Three consecutive losses as a decisive favorite though...it's official - Green Bay is a bad team.
+
+##### _Injuries_
+
+Allen Lazard is very unlikely to play, putting even more strain on an underwhelming Packers receiving corps
+
+##### _Weather_
+
+Expect some cold weather, though it shouldn't be anything that'll hinder either team 
+
+##### _History_
+
+***
+
+### 
