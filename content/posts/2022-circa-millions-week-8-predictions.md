@@ -239,3 +239,36 @@ I'd rather not be taking the Browns here, but I might not have much choice given
 This year, Cleveland's already had rematches with several opponents they faced last year. Suspiciously enough, the scores and outcomes in those games seem to indicate the Browns haven't changed much. If that trend holds, Cleveland should be able to handle these Bengals fairly easily at home, especially in primetime.
 
 One thing worth noting from that game last year between Burrow and Cleveland's defense - outside of one drive that started with favorable positioning, the Bengals were completely shut out in the second half. It seems to me Joe Woods may have sniffed out something here, possibly the fact that Cincinnati struggles to motion the ball against two-deep coverage. It's a weakness that Baltimore exploited and I wouldn't be surprised if Woods and Cleveland's defensive coaches picked up on that same vulnerability.
+
+***
+
+### 49ers @ Rams (+1.5)
+
+***
+
+##### _Streaks_
+
+49ers - 2L  
+Rams - 1W (Bye)
+
+##### _Injuries_
+
+49ers are injured along all lines of their defense. It's worth keeping an eye on their report on Friday to see if any of those key players are returning.
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+The 49ers have won every single regular season game against these Rams going back to 2018. Kyle Shanahan clearly has a beat on the Rams.
+
+***
+
+### Uncertain
+
+***
+
+History alone would suggest that the 49ers should be the easy choice here, even on the road. But I worry here. Not only has McVay had a full bye week to prepare against his bitter rivals, but lately, I've seen the Rams adopt the same tactics that Kansas City leveraged so successfully against the 49er defense last week, namely sweeps and screens. I suspect McVay will incorporate so much more of these types of plays in the game to keep San Francisco's pass rushers at bay.
+
+If that happens and Jimmy G is unable to get going against the Rams and their elite defense, it's possible Los Angeles might finally win one over their big brother in the regular season.
