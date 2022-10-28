@@ -149,3 +149,17 @@ Steelers are coming off a limp primetime loss to Miami.
 Friendly fall weather
 
 ##### _History_
+
+No relevant history to even consider between the two franchises
+
+***
+
+### Eagles -10.5
+
+***
+
+After getting burned **bad** on a double-digit favorite last week, why would I dip back into this well? Well, it's because the Eagles (along with the Bills) are among the two best teams in the league. If there's any team capable of covering a double-digit spread comfortably, it should be Philadelphia, especially playing at home almost wholly healthy.
+
+Meanwhile, Kenny Pickett is still a project early in development. His ability to overcome adversity is questionable at best. Then again, it's hard to blame the kid considering he's only so many games into his professional career.
+
+The only thing that can stop Philadelphia here is whether they end up losing interest midway through the game. Should that happen, a chance is there that Pittsburgh may nail the back-door cover. A slim chance. 
