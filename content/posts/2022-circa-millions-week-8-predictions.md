@@ -194,3 +194,5 @@ No history worthy of analyzing here
 ### Bills +11
 
 ***
+
+Yet another double-digit favorite. But if there's any team that can cover such a wide spread, it's undoubtedly the Bills on their own home turf. 
