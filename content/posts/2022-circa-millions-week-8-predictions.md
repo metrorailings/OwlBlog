@@ -224,10 +224,16 @@ A lovely day considering we're about to enter November.
 
 Surprisingly...the Browns housed these Bengals twice last year, even though Cincinnati was running hot in spurts.
 
-To be fair, the second game took place between the second-string quarterbacks, so only the first game is worth exploring here. That game was interesting - even though the score would indicate a completely one-sided blowout, the statistics don't necessarily testify to that. Cincinnati dominated time of possession. Cleveland was only successful on roughly 40% of their rushing attempts, though that figure may be exaggerated as the Browns may have been slacking in the fourth quarter after being up by three scores. Cleveland also logged several more penalties compared to the Bengals. On top of that, neither team really impressed on third down.
+To be fair, the second game took place between the second-string quarterbacks, so only the first game is worth exploring here. That game was interesting - even though the score would indicate a completely one-sided blowout, the statistics don't necessarily testify to that. Cincinnati dominated time of possession. Cleveland was only successful on roughly 40% of their rushing attempts, though that figure may be exaggerated as the Browns may have been slacking in the fourth quarter after being up by three scores. Cleveland also logged several more penalties compared to the Bengals. On top of that, neither team really impressed on third down. The Browns actually posted 11 fewer
 
 What truly dictated the Browns success in this game was their ability to force multiple turnovers from Cincinnati's offense. Interesting.
 
 ***
 
-### 
+### Browns +3
+
+***
+
+I'd rather not be taking the Browns here, but I might not have much choice given the lack of options this week.
+
+This year, Cleveland's already had rematches with several opponents they faced last year. Suspiciously enough, the scores and outcomes in those games seem to indicate the Browns haven't changed much. If that trend holds, Cleveland should be able to handle these Bengals fairly easily at home, especially in primetime.
