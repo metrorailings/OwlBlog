@@ -196,3 +196,7 @@ No history worthy of analyzing here
 ***
 
 Yet another double-digit favorite. But if there's any team that can cover such a wide spread, it's undoubtedly the Bills on their own home turf. 
+
+That being said, I am aware that Green Bay's stock has plummeted the past few weeks. The Packers are now a team without much to lose. On top of that, I am aware Green Bay still has a few tricks up its sleeve, namely its ground game. For some reason, the Packers have shied away from running the ball during their losing streak. Perhaps this shameful losing streak will be the catalyst for a much-needed shift in offensive philosophy. That being said, will it be enough to help cover the spread here? I'm still not sure. Few teams are better at stonewalling opposing rushers than Buffalo. If the Bills can subvert the growing public narrative and treat these Packers as serious opponents, I do think Buffalo can run away with a huge win here, even if Green Bay surprises people with a shift in mentality.
+
+If this game was played in Wisconsin, I think Green Bay would be a much safer bet. But for the time being, I'll need to side with the winning team certain to ride high on the support of their devoted fans this Sunday night.
