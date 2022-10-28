@@ -253,7 +253,7 @@ Rams - 1W (Bye)
 
 ##### _Injuries_
 
-49ers are injured along all lines of their defense. It's worth keeping an eye on their report on Friday to see if any of those key players are returning.
+49ers are injured along all lines of their defense. It's worth keeping an eye on their report on Friday to see if any of those key players are returning - Azeez, Arik Armstead, Emmanuel Mosley...
 
 ##### _Weather_
 
