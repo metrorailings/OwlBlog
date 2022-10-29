@@ -148,6 +148,10 @@ Steelers are coming off a limp primetime loss to Miami.
 
 ##### _Injuries_
 
+Pittsburgh could see TJ Watt return this week, though it remains to be seen whether he can play at full strength. What should worry Pittsburgh this week is that their kicker Chris Boswell showed up late on the injury rolls and appears to be questionable. Not good when you have a rookie quarterback shouldering the burden of production going up against one of the hottest teams in the league.
+
+Eagles are very healthy.
+
 ##### _Weather_
 
 Friendly fall weather
