@@ -224,6 +224,10 @@ Cleveland is barely registering a heart beat here after suffering through four c
 
 ##### _Injuries_
 
+Ja'Marr Chase is out for the next several weeks for these Bengals, a huge blow considering Cincinnati's offense lives and dies by the big play.
+
+Cleveland will be down without their starting tight end in David Njoku.
+
 ##### _Weather_
 
 A lovely day considering we're about to enter November.
