@@ -70,9 +70,9 @@ New Orleans is hurting after sustaining two losses in part due to injury.
 
 ##### _Injuries_
 
-Maybe this week will be the week Darren Waller finally starts for Vegas.
+Maybe this week will be the week Darren Waller finally starts for Vegas. Then again a bug seems to wreaking havoc across the Raiders locker, although McDaniels has said it shouldn't be any real cause for concern.
 
-The key names to watch for New Orleans will be Marshon Lattimore, Michael Thomas, and Jarvis Landry.
+The key names to watch for New Orleans will be Marshon Lattimore, Michael Thomas, and Jarvis Landry. None of these players are expected to play.
 
 ##### _Weather_
 
@@ -140,7 +140,7 @@ Let me take that back...the real key for the Patriots here is whether they can c
 Steelers - 1L (SNF)  
 Eagles - 6W (Bye)
 
-Steelers are coming off a limp primetime loss to Miami. 
+Steelers are coming off a limp primetime loss to Miami.
 
 ##### _Injuries_
 
@@ -162,7 +162,7 @@ After getting burned **bad** on a double-digit favorite last week, why would I d
 
 Meanwhile, Kenny Pickett is still a project early in development. His ability to overcome adversity is questionable at best. Then again, it's hard to blame the kid considering he's only so many games into his professional career.
 
-The only thing that can stop Philadelphia here is whether they end up losing interest midway through the game. Should that happen, a chance is there that Pittsburgh may nail the back-door cover. A slim chance. 
+The only thing that can stop Philadelphia here is whether they end up losing interest midway through the game. Should that happen, a chance is there that Pittsburgh may nail the back-door cover. A slim chance.
 
 ***
 
@@ -183,7 +183,7 @@ Allen Lazard is very unlikely to play, putting even more strain on an underwhelm
 
 ##### _Weather_
 
-Expect some cold weather, though it shouldn't be anything that'll hinder either team 
+Expect some cold weather, though it shouldn't be anything that'll hinder either team
 
 ##### _History_
 
@@ -195,7 +195,7 @@ No history worthy of analyzing here
 
 ***
 
-Yet another double-digit favorite. But if there's any team that can cover such a wide spread, it's undoubtedly the Bills on their own home turf. 
+Yet another double-digit favorite. But if there's any team that can cover such a wide spread, it's undoubtedly the Bills on their own home turf.
 
 That being said, I am aware that Green Bay's stock has plummeted the past few weeks. The Packers are now a team without much to lose. On top of that, I am aware Green Bay still has a few tricks up its sleeve, namely its ground game. For some reason, the Packers have shied away from running the ball during their losing streak. Perhaps this shameful losing streak will be the catalyst for a much-needed shift in offensive philosophy. That being said, will it be enough to help cover the spread here? I'm still not sure. Few teams are better at stonewalling opposing rushers than Buffalo. If the Bills can subvert the growing public narrative and treat these Packers as serious opponents, I do think Buffalo can run away with a huge win here, even if Green Bay surprises people with a shift in mentality.
 
