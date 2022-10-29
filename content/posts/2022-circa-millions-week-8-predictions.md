@@ -107,6 +107,10 @@ The Jets are riding high off a four-game streak. Few teams are better cognizant 
 
 ##### _Injuries_
 
+David Andrews is out for the Patriots, which is a blow to the continuity on their offensive line.
+
+As for the Jets, New York can no longer count on Breece Hall to break off game-changing plays now that he's out for the season. Likewise, Corey Davis will be out as well, though he'll likely return next week.
+
 ##### _Weather_
 
 Crisp autumn weather
