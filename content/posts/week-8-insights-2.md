@@ -30,13 +30,13 @@ I think the rigors of the season are finally taking their toll on Kyler. He took
 
 The Saints are mustering pressure despite the Raiders chipping and dropping extra protectors back. Interesting.
 
-Vegas is getting manhandled at the line of scrimmage. As simple as that. 
-
 I think the Raiders also advertised their fake punt by stacking protectors along one side of the formation.
 
 Derek Carr sucks. Way too dependent on the receivers he deems trustworthy.
 
 So this team is a run-first team. Vegas needs to desperately establish the run to develop rhythm on offense. 
+
+Vegas is getting manhandled at the line of scrimmage. As simple as that. No member of their offensive line is holding up in protection. The bookends especially have a hard time controlling the edge and limiting the edge rushers. 
 
 ***
 
