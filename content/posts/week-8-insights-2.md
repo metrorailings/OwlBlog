@@ -61,3 +61,5 @@ Excellent touchdown play by the Seahawks, using underneath crossers to create sp
 Adoree Jackson playing very well for the Giants secondary.
 
 Giants put up a fight, but turnovers and an inability to move the ball against a surprisingly stingy Seattle defense effectively doomed them.
+
+Seahawks are a name to watch in the postseason. It just depends on whether they can develop a pass rusher or two.
