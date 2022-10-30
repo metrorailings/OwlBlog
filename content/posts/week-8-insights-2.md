@@ -20,4 +20,12 @@ As I thought, this was a game dictated by mistakes and sloppy moments. Good thin
 
 ***
 
+## Cardinals @ Vikings
+
+I think the rigors of the season are finally taking their toll on Kyler. He took two rough hits at the end. Good opportunity to bet against him and this team going forward.
+
+***
+
 ## Raiders @ Saints
+
+The Saints are mustering pressure despite the Raiders chipping and dropping extra protectors back. Interesting.
