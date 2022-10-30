@@ -34,6 +34,8 @@ Vegas is getting manhandled at the line of scrimmage. As simple as that.
 
 I think the Raiders also advertised their fake punt by stacking protectors along one side of the formation.
 
+Derek Carr sucks. Way too dependent on the receivers he deems trustworthy.
+
 ***
 
 ## 49ers @ Rams
@@ -51,3 +53,5 @@ Giants actually impressing against the run here. Good to see them getting better
 Shane Waldron and his unit are executing some really creative plays on critical downs. 
 
 Excellent touchdown play by the Seahawks, using underneath crossers to create space for DK Metcalf.
+
+Adoree Jackson playing very well for the Giants secondary.
