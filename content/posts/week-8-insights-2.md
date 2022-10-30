@@ -14,6 +14,6 @@ The Patriots are getting bailed out by the referees. A shame too. A roughing the
 
 I have to give credit to New England, adjusting in the second half offensively by committing to shorter, quicker passes. Less stress also put on Mac Jones shoulders, considering he doesn't have to wait for routes to develop.
 
-Meanwhile, the Jets seem to have trusted Zack Wilson to carry the team here. BIG mistake. 
+Meanwhile, the Jets seem to have trusted Zack Wilson to carry the team here. BIG mistake. Wilson's so bad that he threw an interception on a throwaway.
 
 ***
