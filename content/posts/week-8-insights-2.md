@@ -44,6 +44,8 @@ Two fades at the goal-line? Really, Rams? No jet sweeps, no shovel passes?
 
 This Rams running game is pathetic. Absolutely incapable of gaining goal-to-go yardage against the 49ers.
 
+Never doubt the inferiority complex again. It's a real thing.
+
 ***
 
 ## Giants @ Seahawks
@@ -55,3 +57,5 @@ Shane Waldron and his unit are executing some really creative plays on critical 
 Excellent touchdown play by the Seahawks, using underneath crossers to create space for DK Metcalf.
 
 Adoree Jackson playing very well for the Giants secondary.
+
+Giants put up a fight, but turnovers and an inability to move the ball against a surprisingly stingy Seattle defense effectively doomed them.
