@@ -36,6 +36,8 @@ I think the Raiders also advertised their fake punt by stacking protectors along
 
 Derek Carr sucks. Way too dependent on the receivers he deems trustworthy.
 
+So this team is a run-first team. Vegas needs to desperately establish the run to develop rhythm on offense. 
+
 ***
 
 ## 49ers @ Rams
@@ -44,7 +46,7 @@ Two fades at the goal-line? Really, Rams? No jet sweeps, no shovel passes?
 
 This Rams running game is pathetic. Absolutely incapable of gaining goal-to-go yardage against the 49ers.
 
-Never doubt the inferiority complex again. It's a real thing.
+Never doubt the inferiority complex again. It's a real thing. The Rams actually played well in the first half, but completely collapsed in the second.
 
 ***
 
