@@ -41,3 +41,11 @@ I think the Raiders also advertised their fake punt by stacking protectors along
 Two fades at the goal-line? Really, Rams? No jet sweeps, no shovel passes?
 
 This Rams running game is pathetic. Absolutely incapable of gaining goal-to-go yardage against the 49ers.
+
+***
+
+## Giants @ Seahawks
+
+Giants actually impressing against the run here. Good to see them getting better over time.
+
+Shane Waldron and his unit are executing some really creative plays on critical downs. 
