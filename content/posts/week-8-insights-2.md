@@ -29,3 +29,11 @@ I think the rigors of the season are finally taking their toll on Kyler. He took
 ## Raiders @ Saints
 
 The Saints are mustering pressure despite the Raiders chipping and dropping extra protectors back. Interesting.
+
+***
+
+## 49ers @ Rams
+
+Two fades at the goal-line? Really, Rams? No jet sweeps, no shovel passes?
+
+This Rams running game is pathetic. Absolutely incapable of gaining goal-to-go yardage against the 49ers.
