@@ -16,4 +16,6 @@ I have to give credit to New England, adjusting in the second half offensively b
 
 Meanwhile, the Jets seem to have trusted Zack Wilson to carry the team here. BIG mistake. Wilson's so bad that he threw an interception on a throwaway.
 
+As I thought, this was a game dictated by mistakes and sloppy moments. Good thing I stayed away from this one. Both starting quarterbacks have been just depressing.
+
 ***
