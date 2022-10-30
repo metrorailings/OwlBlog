@@ -30,6 +30,10 @@ I think the rigors of the season are finally taking their toll on Kyler. He took
 
 The Saints are mustering pressure despite the Raiders chipping and dropping extra protectors back. Interesting.
 
+Vegas is getting manhandled at the line of scrimmage. As simple as that. 
+
+I think the Raiders also advertised their fake punt by stacking protectors along one side of the formation.
+
 ***
 
 ## 49ers @ Rams
