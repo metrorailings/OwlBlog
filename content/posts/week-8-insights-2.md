@@ -49,3 +49,5 @@ This Rams running game is pathetic. Absolutely incapable of gaining goal-to-go y
 Giants actually impressing against the run here. Good to see them getting better over time.
 
 Shane Waldron and his unit are executing some really creative plays on critical downs. 
+
+Excellent touchdown play by the Seahawks, using underneath crossers to create space for DK Metcalf.
