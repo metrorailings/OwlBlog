@@ -72,4 +72,4 @@ Bills defense playing incredibly physical. Not afraid to throw their weight arou
 
 Josh Allen making some silly mistakes late in the game, likely out of carelessness given his team has such a strong lead.
 
-Buffalo as big favorites against a proud team isn't ideal.
+Buffalo as big favorites against a proud team isn't ideal. That being said, the opportunity was there for the cover. But as I expected, the Packers were scrappy enough (especially over ground) and managed to score just enough to make this interesting.
