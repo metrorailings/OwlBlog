@@ -75,3 +75,7 @@ Josh Allen making some silly mistakes late in the game, likely out of carelessne
 Buffalo as big favorites against a proud team isn't ideal. That being said, the opportunity was there for the cover. But as I expected, the Packers were scrappy enough (especially over ground) and managed to score just enough to make this interesting.
 
 Aaron Rodgers is taking waaaaay too much time educating his skill players on the 2-minute offense. Interesting.
+
+***
+
+## Panthers @ Falcons
