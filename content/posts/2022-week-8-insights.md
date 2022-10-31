@@ -83,3 +83,5 @@ Aaron Rodgers is taking waaaaay too much time educating his skill players on the
 Neither of these two teams can defense against the run.
 
 Derrick Brown and Brian Burns working well together to stop one Falcons drive.
+
+Lorenzo Carter with a sensational pick six by anticipating the screen throw.
