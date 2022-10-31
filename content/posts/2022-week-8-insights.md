@@ -34,9 +34,9 @@ I think the Raiders also advertised their fake punt by stacking protectors along
 
 Derek Carr sucks. Way too dependent on the receivers he deems trustworthy.
 
-So this team is a run-first team. Vegas needs to desperately establish the run to develop rhythm on offense. 
+So this team is a run-first team. Vegas needs to desperately establish the run to develop rhythm on offense.
 
-Vegas is getting manhandled at the line of scrimmage. As simple as that. No member of their offensive line is holding up in protection. The bookends especially have a hard time controlling the edge and limiting the edge rushers. 
+Vegas is getting manhandled at the line of scrimmage. As simple as that. No member of their offensive line is holding up in protection. The bookends especially have a hard time controlling the edge and limiting the edge rushers.
 
 ***
 
@@ -54,7 +54,7 @@ Never doubt the inferiority complex again. It's a real thing. The Rams actually 
 
 Giants actually impressing against the run here. Good to see them getting better over time.
 
-Shane Waldron and his unit are executing some really creative plays on critical downs. 
+Shane Waldron and his unit are executing some really creative plays on critical downs.
 
 Excellent touchdown play by the Seahawks, using underneath crossers to create space for DK Metcalf.
 
@@ -63,3 +63,9 @@ Adoree Jackson playing very well for the Giants secondary.
 Giants put up a fight, but turnovers and an inability to move the ball against a surprisingly stingy Seattle defense effectively doomed them.
 
 Seahawks are a name to watch in the postseason. It just depends on whether they can develop a pass rusher or two.
+
+***
+
+## Packers @ Bills
+
+Bills defense playing incredibly physical. Not afraid to throw their weight around.
