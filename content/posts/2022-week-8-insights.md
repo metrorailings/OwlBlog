@@ -85,3 +85,5 @@ Neither of these two teams can defense against the run.
 Derrick Brown and Brian Burns working well together to stop one Falcons drive.
 
 Lorenzo Carter with a sensational pick six by anticipating the screen throw.
+
+Thoroughly unimpressed with Atlanta's defense. Just slow, especially in the back end. The Falcons need to invest more money on this side of the ball. And it's possible Dean Pees may need to finally retire for good.
