@@ -79,3 +79,7 @@ Aaron Rodgers is taking waaaaay too much time educating his skill players on the
 ***
 
 ## Panthers @ Falcons
+
+Neither of these two teams can defense against the run.
+
+Derrick Brown and Brian Burns working well together to stop one Falcons drive.
