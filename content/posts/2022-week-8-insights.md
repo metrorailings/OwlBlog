@@ -71,3 +71,5 @@ Seahawks are a name to watch in the postseason. It just depends on whether they 
 Bills defense playing incredibly physical. Not afraid to throw their weight around.
 
 Josh Allen making some silly mistakes late in the game, likely out of carelessness given his team has such a strong lead.
+
+Buffalo as big favorites against a proud team isn't ideal.
