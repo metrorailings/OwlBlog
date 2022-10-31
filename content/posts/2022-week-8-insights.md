@@ -69,3 +69,5 @@ Seahawks are a name to watch in the postseason. It just depends on whether they 
 ## Packers @ Bills
 
 Bills defense playing incredibly physical. Not afraid to throw their weight around.
+
+Josh Allen making some silly mistakes late in the game, likely out of carelessness given his team has such a strong lead.
