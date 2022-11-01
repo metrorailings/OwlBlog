@@ -75,3 +75,5 @@ I think Kyler Murray's finally feeling the rigors of the season - the kid was in
 A beautiful day with little humidity
 
 ##### _History_
+
+These two met earlier in the year. It was a complete rout by the Seahawks defense, who tallied up several sacks against Arizona.
