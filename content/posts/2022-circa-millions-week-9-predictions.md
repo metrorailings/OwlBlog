@@ -68,7 +68,7 @@ Seattle is riding hot on a winning streak.
 
 ##### _Injuries_
 
-I think Kyler Murray is finally feeling the rigors of the season.
+I think Kyler Murray's finally feeling the rigors of the season - the kid was in a great deal of pain towards the end of that game last week with Minnesota. It's worth noting that we're nearing the midway point of the season too. The past two years, Kyler's level of play has seriously suffered into the second half of the season, likely as a result of too much physical and mental stress accumulating going into November and December. Don't be surprised if Murray starts performing much worse now that winter is arriving. 
 
 ##### _Weather_
 
