@@ -23,6 +23,8 @@ As I thought, this was a game dictated by mistakes and sloppy moments. Good thin
 
 I think the rigors of the season are finally taking their toll on Kyler. He took two rough hits at the end. Good opportunity to bet against him and this team going forward.
 
+JJ Watt may be the best defensive lineman for the Cardinals. Pretty surprising.
+
 ***
 
 ## Raiders @ Saints
