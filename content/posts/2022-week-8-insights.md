@@ -1,5 +1,6 @@
 +++
 date = 2022-10-30T12:00:00Z
+draft = true
 headline = "Week 8 Insights"
 
 +++
@@ -90,3 +91,9 @@ Thoroughly unimpressed with Atlanta's defense. Just slow, especially in the back
 Cornell Armstrong showing up big in single coverage, albeit against a depth defensive back.
 
 PJ Walker really likes his sideline throws.
+
+***
+
+## Bengals @ Browns
+
+Jacoby Brissett is average at best. Foolish decisions, bad throws, etc. But he does have some innate toughness to him.
