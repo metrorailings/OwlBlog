@@ -68,7 +68,7 @@ Seattle is riding hot on a winning streak.
 
 ##### _Injuries_
 
-I think Kyler Murray's finally feeling the rigors of the season - the kid was in a great deal of pain towards the end of that game last week with Minnesota. It's worth noting that we're nearing the midway point of the season too. The past two years, Kyler's level of play has seriously suffered going into November and December, likely as a result of all the blows he sustains in September and October. Don't be surprised if Murray starts performing much worse now that winter is arriving. 
+I think Kyler Murray's finally feeling the rigors of the season - the kid was in a great deal of pain towards the end of that game last week with Minnesota. It's worth noting that we're nearing the midway point of the season too. The past two years, Kyler's level of play has seriously suffered going into November and December, likely as a result of all the blows he sustains in September and October. Don't be surprised if Murray starts performing much worse now that winter is coming. 
 
 ##### _Weather_
 
