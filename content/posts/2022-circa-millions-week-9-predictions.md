@@ -51,4 +51,27 @@ I learned the hard way the past week - never doubt the inferiority complex. The 
 
 Now such a complex can be overcome if the team holding those negative feelings is tangible improved from years past. But one can't say that about the Tampa Bay Buccaneers, especially in light of Brady's historic three-game losing streak. Yes, the Rams may suck too, but Tampa's going through a similar decline themselves.
 
-What Sean McVay will likely attempt to do here is matriculate the ball downfield through quick passes and pseudo-run plays. Not only would that mitigate pressure on their beleaguered offensive line, but it would also expose Tampa's inability to cover the flat.
+What Sean McVay will likely attempt to do here is matriculate the ball downfield through quick passes, screen plays, and backfield trickery. Not only would that mitigate pressure on their beleaguered offensive line, but it would also expose Tampa's inability to adequately cover the flat.
+
+***
+
+### Seahawks @ Cardinals (-1.5)
+
+***
+
+##### _Streaks_
+
+Seahawks - 3W  
+Cardinals - 1L
+
+Seattle is riding hot on a winning streak.
+
+##### _Injuries_
+
+I think Kyler Murray is finally feeling the rigors of the season.
+
+##### _Weather_
+
+A beautiful day with little humidity
+
+##### _History_
