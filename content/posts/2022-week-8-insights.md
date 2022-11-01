@@ -97,3 +97,5 @@ PJ Walker really likes his sideline throws.
 ## Bengals @ Browns
 
 Jacoby Brissett is average at best. Foolish decisions, bad throws, etc. But he does have some innate toughness to him.
+
+The inferiority complex is real here. Never doubt it.
