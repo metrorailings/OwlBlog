@@ -68,7 +68,7 @@ Seattle is riding hot on a winning streak.
 
 ##### _Injuries_
 
-I think Kyler Murray's finally feeling the rigors of the season - the kid was in a great deal of pain towards the end of that game last week with Minnesota. It's worth noting that we're nearing the midway point of the season too. The past two years, Kyler's level of play has seriously suffered going into November and December, likely as a result of all the blows he sustains in September and October. Don't be surprised if Murray starts performing much worse now that winter is coming. 
+I think Kyler Murray's finally feeling the rigors of the season - the kid was in a great deal of pain towards the end of that game last week with Minnesota. It's worth noting that we're nearing the midway point of the season too. The past two years, Kyler's level of play has seriously suffered going into November and December, likely as a result of all the blows he sustains in September and October. Don't be surprised if Murray starts performing much worse now that winter is coming.
 
 ##### _Weather_
 
@@ -76,4 +76,12 @@ A beautiful day with little humidity
 
 ##### _History_
 
-These two met earlier in the year. It was a complete rout by the Seahawks defense, who tallied up several sacks against Arizona.
+These two met earlier in the year. It was a complete rout by the Seahawks defense, who tallied up several sacks against Arizona. That being said, the Cardinals could have won the game if Kliff Kingsbury only took the field goals instead of going for all those fourth downs.
+
+***
+
+### Uncertain
+
+***
+
+This is a difficult game to call. Arizona's defense effectively shut down Seattle's top-flight offense last time. The Seahawks only won convincingly thanks to Kyler Murray regressing to depressed form and Kliff Kingsbury absolutely refusing multiple field goals.
