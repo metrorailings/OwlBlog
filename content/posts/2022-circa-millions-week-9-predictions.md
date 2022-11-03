@@ -76,7 +76,7 @@ A beautiful day with little humidity
 
 ##### _History_
 
-These two met earlier in the year. It was a complete rout by the Seahawks defense, who tallied up several sacks against Arizona. That being said, the Cardinals could have won the game if Kliff Kingsbury only took the field goals instead of going for all those fourth downs.
+These two met earlier in the year. It was a complete rout by the Seahawks defense, who tallied up several sacks against Arizona. That being said, the Cardinals could have won the game if Kliff Kingsbury opted to take field goals instead of going for all those fourth downs.
 
 ***
 
