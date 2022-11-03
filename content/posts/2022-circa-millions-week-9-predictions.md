@@ -85,3 +85,9 @@ These two met earlier in the year. It was a complete rout by the Seahawks defens
 ***
 
 This is a difficult game to call. Arizona's defense effectively shut down Seattle's top-flight offense last time. The Seahawks only won convincingly thanks to Kyler Murray regressing to depressed form and Kliff Kingsbury absolutely refusing multiple field goals.
+
+I don't see Kliff making those same mistakes again. I also see Geno Smith once again playing ineffectively under heavy duress as Arizona rails him with a myriad of blitzes tailored specifically to counter Seattle's bootleg offense.
+
+But I don't have enough faith in Kyler Murray to do just enough to carry this team to victory, especially as Seattle's defense continues improving. And I think Kyler may have reached a breaking point last week after absorbing all those hits from Minnesota's pass rushers. If Murray starts to play more like a zombie than an actual competent quarterback, it'll be difficult for Arizona to win any game this season going forward.
+
+***
