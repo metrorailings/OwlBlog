@@ -128,3 +128,38 @@ To be fair, I still expect Justin Herbert and his offense to produce points agai
 But even in the event of a high-octane affair, give me the team taking points and playing in the comfort of their own stadium.
 
 ***
+
+### Colts @ Patriots (-5.5)
+
+***
+
+##### _Streaks_
+
+Colts - 2L  
+Patriots - 1W
+
+Colts were stung hard last week by a Washington team that barely managed to stage a comeback at the end to steal the win away from Indianapolis.
+
+##### _Injuries_
+
+##### _Weather_
+
+Almost perfect weather, with some mild winds
+
+##### _History_
+
+No recent history between these two worth exploring considering the Colts have new faces at quarterback and defensive coordinator
+
+***
+
+### Uncertain
+
+***
+
+My gut instinct tells me that Belichick against a rookie quarterback should be an obvious decision in favor of the former here...but Michael Lombardi seems wary of this one. The fact remains that the Patriots are still a bit of a hot mess on offense. On top of that, Sam Ehlinger seems to have a penchant for running around, something that the Patriots defense has considerably difficulty handling.
+
+The Patriots need to win by six points to cover this spread. Normally, it's only advisable to take the favorite here when the match-up favors them several different ways. I'm not sure New England can claim many advantages this week going up against an admittedly weak Indianapolis outfit.
+
+***
+
+ 
