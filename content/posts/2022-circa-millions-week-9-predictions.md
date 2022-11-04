@@ -109,6 +109,6 @@ Atlanta is still dealing with a few injuries to their underwhelming secondary.
 
 ##### _Weather_
 
-A beautiful day with little humidity
+Dome game
 
 ##### _History_
