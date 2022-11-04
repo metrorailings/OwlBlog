@@ -112,3 +112,19 @@ Atlanta is still dealing with a few injuries to their underwhelming secondary.
 Dome game
 
 ##### _History_
+
+Neither of these two organizations nor their coaches have any recent history contending against one another.
+
+***
+
+### Falcons +3
+
+***
+
+Not only is Los Angeles entering the game missing some of their key receivers, but their questionable run defense leaves them susceptible to a club that loves rushing the ball more than any other team in the league. Given their outings against Cleveland, Houston, and Seattle, the Chargers still have major issues limiting opposing rushers. It's an issue I don't expect will ever really be remedied by Brandon Staley given his sorry track record.
+
+To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers catch a few lucky breaks, Los Angeles can escape with a win. 
+
+But even in the event of a high-octane affair, give me the team taking points and playing in the comfort of their own stadium.
+
+***
