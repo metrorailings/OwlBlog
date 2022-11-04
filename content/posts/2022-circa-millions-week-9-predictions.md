@@ -179,11 +179,9 @@ No Irv Smith, no problem. T.J. Hockenson will now make his debut as a Viking thi
 
 ##### _Weather_
 
-Almost perfect weather, with some mild winds
+Ideal weather for football
 
 ##### _History_
-
-No recent history between these two worth exploring considering the Colts have new faces at quarterback and defensive coordinator
 
 ***
 
