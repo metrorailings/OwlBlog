@@ -192,3 +192,38 @@ Once again, no history for us to really analyze here. It's worth noting that Ed 
 ***
 
 I know the Commanders have demonstrated that will to win over the past couple weeks now that Heinecke has assumed the reins on offense. But Minnesota is coming in this game just as hot. In fact, the Vikings deserve some serious praise for sacrificing flash in order to practice a safer brand of football ensuring the team doesn't beat itself. If Washington wants this win, it'll need to beat Minnesota, plain and simple. And I'm not sure that's possible on account of their questionable coaching.
+
+***
+
+### Titans @ Chiefs (-12.5)
+
+***
+
+##### _Streaks_
+
+Titans - 5W  
+Chiefs - 1W
+
+So interesting to see Tennessee come in absolutely smoking despite the injury bug sweeping through their locker room yet again
+
+##### _Injuries_
+
+Nothing is more important for Tennessee this week than Ryan Tannehill's health. He's officially listed as questionable, though it may be unlikely he'll be able to play full-time.
+
+##### _Weather_
+
+Cool weather
+
+##### _History_
+
+These Titans have won against the Chiefs twice in the regular season over the past three years, though it is worth noting both victories came in Tennessee. Also, the Titans had better rosters in both those matches than whatever they'll field this Sunday.
+
+***
+
+### Uncertain
+
+***
+
+It's incredibly unlikely Tennessee wins given Malik Willis is expected to start at quarterback and the lack of talent across their offensive roster. But a double-digit spread might be unfair to one of the better head coaches in the league, even if he's saddled with such a short-changed offense. On top of that, the Titans boast one of the best defenses in the league too.
+
+Not to mention...if Ryan Tannehill is able to contribute in spurts, it may be enough for Tennessee to make some hay here and keep things interesting. And if the Titans can manage to keep this game within reach, the cover is guaranteed here.
