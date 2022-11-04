@@ -123,7 +123,7 @@ Neither of these two organizations nor their coaches have any recent history con
 
 Not only is Los Angeles entering the game missing some of their key receivers, but their questionable run defense leaves them susceptible to a club that loves rushing the ball more than any other team in the league. Given their outings against Cleveland, Houston, and Seattle, the Chargers still have major issues limiting opposing rushers. It's an issue I don't expect will ever really be remedied by Brandon Staley given his sorry track record.
 
-To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers catch a few lucky breaks, Los Angeles can escape with a win. 
+To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers catch a few lucky breaks, Los Angeles can escape with a win.
 
 But even in the event of a high-octane affair, give me the team taking points and playing in the comfort of their own stadium.
 
@@ -191,4 +191,4 @@ Once again, no history for us to really analyze here. It's worth noting that Ed 
 
 ***
 
-I know the Commanders have demonstrated that will to win over the past couple weeks now that Heinecke has assumed the reins on offense. But Minnesota is coming in this game just as hot. In fact, the Vikings deserve some serious praise for finding ways to win without relying on any real pizazz. Minnesota seems to be practicing a safer brand of football insisting that the team doesn't beat itself. If Washington wants this win, it'll need to beat Minnesota, plain and simple.
+I know the Commanders have demonstrated that will to win over the past couple weeks now that Heinecke has assumed the reins on offense. But Minnesota is coming in this game just as hot. In fact, the Vikings deserve some serious praise for sacrificing flash in order to practice a safer brand of football ensuring the team doesn't beat itself. If Washington wants this win, it'll need to beat Minnesota, plain and simple. And I'm not sure that's possible on account of their questionable coaching.
