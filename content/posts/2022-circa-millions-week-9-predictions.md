@@ -183,8 +183,12 @@ Ideal weather for football
 
 ##### _History_
 
-Once again, no history for us to really analyze here. It's worth noting that Ed Donatell is familiar with Taylor Heinecke and the Commanders coaching staff from his match last year with them when he was the Broncos defensive coordinator. Washington was able to produce some meaningful yardage in that game, though turnovers ultimately cost them the win.
+Once again, no history for us to really analyze here. It's worth noting that Ed Donatell is familiar with Taylor Heinecke and the Commanders coaching staff from his match last year with them when he was the Broncos defensive coordinator. Washington was able to produce some meaningful yardage in that game, though turnovers ultimately cost them the win. It helped that Denver was able to mount steady pressure against Heinecke.
 
 ***
 
-### 
+### Uncertain
+
+***
+
+I know the Commanders have demonstrated that will to win over the past couple weeks now that Heinecke has assumed the reins on offense. But Minnesota is coming in this game just as hot. In fact, the Vikings deserve some serious praise for finding ways to win without relying on any real pizazz. Minnesota seems to be practicing a safer brand of football insisting that the team doesn't beat itself. If Washington wants this win, it'll need to beat Minnesota, plain and simple.
