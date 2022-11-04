@@ -162,4 +162,6 @@ The Patriots need to win by six points to cover this spread. Normally, it's only
 
 ***
 
- 
+### Vikings @ Commanders (+3.5)
+
+***
