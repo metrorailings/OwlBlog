@@ -165,3 +165,26 @@ The Patriots need to win by six points to cover this spread. Normally, it's only
 ### Vikings @ Commanders (+3.5)
 
 ***
+
+##### _Streaks_
+
+Vikings - 5W  
+Commanders - 3W
+
+Interestingly enough, both teams are riding hot.
+
+##### _Injuries_
+
+No Irv Smith, no problem. T.J. Hockenson will now make his debut as a Viking this Sunday as their starting tight end.
+
+##### _Weather_
+
+Almost perfect weather, with some mild winds
+
+##### _History_
+
+No recent history between these two worth exploring considering the Colts have new faces at quarterback and defensive coordinator
+
+***
+
+### 
