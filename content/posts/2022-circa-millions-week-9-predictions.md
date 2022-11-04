@@ -91,3 +91,24 @@ I don't see Kliff making those same mistakes again. I also see Geno Smith once a
 But I don't have enough faith in Kyler Murray to do just enough to carry this team to victory, especially as Seattle's defense continues to improve. In fact, it's possible Kyler may have reached a breaking point last week after absorbing all those hits from Minnesota's pass rushers. If Murray starts to play more like a zombie than an actual quarterback, it'll be difficult for Arizona to win any game this season going forward.
 
 ***
+
+### Chargers @ Falcons (+3)
+
+***
+
+##### _Streaks_
+
+Chargers - 1L (Bye)  
+Falcons - 1W
+
+##### _Injuries_
+
+Mike Williams is still out on a prolonged basis. It seems like Keenan Allen and Donald Parham are trending towards joining him on the sidelines.
+
+Atlanta is still dealing with a few injuries to their underwhelming secondary.
+
+##### _Weather_
+
+A beautiful day with little humidity
+
+##### _History_
