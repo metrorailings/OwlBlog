@@ -183,6 +183,8 @@ Ideal weather for football
 
 ##### _History_
 
+Once again, no history for us to really analyze here. It's worth noting that Ed Donatell is familiar with Taylor Heinecke and the Commanders coaching staff from his match last year with them when he was the Broncos defensive coordinator. Washington was able to produce some meaningful yardage in that game, though turnovers ultimately cost them the win.
+
 ***
 
 ### 
