@@ -263,6 +263,6 @@ No relevant history here to explore
 
 ***
 
-New Orleans here has been playing much better the past several weeks, most notably last week when they pitched the only shut-out seen so far this season. Not only that, but their rushing numbers have been surprisingly positive from a success perspective. On offense, the Saints have been running the ball effectively over ground thanks to their wildcat packages featuring Taysom Hill. Defensively, they've been efficient limiting opposing rushers. 
+New Orleans here has been playing much better the past several weeks, most notably last week when they pitched the only shut-out seen so far this season. Not only that, but their rushing numbers have been surprisingly positive from a success perspective. On offense, the Saints have been running the ball effectively over ground thanks to all their single-wing plays starring Taysom Hill. Defensively, they've been efficient limiting opposing rushers. 
 
 The Ravens haven't been so impressive, despite their win against Tampa Bay last week. The reality is that Tampa's defense is highly susceptible against teams who incorporate a litany of rushing concepts in their playbook. Lamar and company won't enjoy that same advantage here entering Louisiana.
