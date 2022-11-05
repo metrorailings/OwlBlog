@@ -247,8 +247,10 @@ Both teams are coming off major wins
 
 Rashod Bateman is definitively out for the time being. The bigger issue for Baltimore might be the loss of Mark Andrews. So far, he's been sitting out of practice. Him being out would once again put the spotlight on Isaiah Likely.
 
+The Saints might be getting back some impact players back, most notably offensive lineman Ryan Ramcyzk and wide receiver Jarvis Landry.
+
 ##### _Weather_
 
-Cool weather
+Dome game
 
 ##### _History_
