@@ -125,7 +125,7 @@ Neither of these two organizations nor their coaches have any recent history con
 
 Not only is Los Angeles entering the game missing some of their key receivers, but their questionable run defense leaves them susceptible to a club that loves rushing the ball more than any other team in the league. Given their outings against Cleveland, Houston, and Seattle, the Chargers still have major issues limiting opposing rushers. It's an issue I don't expect will ever really be remedied by Brandon Staley given his sorry track record.
 
-To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers manage to catch a few lucky breaks, Herbert and friends can escape with a win.
+To be fair, I still expect Justin Herbert and his offense to produce multiple scores against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers manage to catch a few lucky breaks, Herbert and friends can escape with a win.
 
 But even in the event of a high-octane affair, give me the team taking points and playing in the comfort of their own stadium.
 
@@ -229,3 +229,26 @@ These Titans have won against the Chiefs twice in the regular season over the pa
 It's incredibly unlikely Tennessee wins given Malik Willis is expected to start at quarterback and the lack of talent across their offensive roster. But a double-digit spread seems a little much, no? Especially when all those points are being given to one of the better head coaches in the league. Even though the team's expected to be short-changed on offense, keep in mind the Titans still boast one of the best defenses in the league.
 
 Not to mention...if Ryan Tannehill is able to contribute in spurts, it may be enough for Tennessee to make some hay here and keep things interesting. And if the Titans can manage to keep this game within reach, the cover is guaranteed here.
+
+***
+
+### Ravens @ Saints (+2.5)
+
+***
+
+##### _Streaks_
+
+Ravens - 1W  
+Saints - 1W
+
+Both teams are coming off major wins
+
+##### _Injuries_
+
+Rashod Bateman is definitively out for the time being. The bigger issue for Baltimore might be the loss of Mark Andrews. So far, he's been sitting out of practice. Him being out would once again put the spotlight on Isaiah Likely.
+
+##### _Weather_
+
+Cool weather
+
+##### _History_
