@@ -33,13 +33,15 @@ Likewise, the defending champions are looking at being rendered irrelevant real 
 
 The biggest injury concern is Cooper Kupp. Without Kupp, Los Angeles may as well not even bother fielding an offense. All right, maybe I'm exaggerating....but not even that much.
 
+Tampa Bay is expected to miss quite a few starters in their defensive backfield.
+
 ##### _Weather_
 
 A beautiful day with little humidity
 
 ##### _History_
 
-It can be argued that the Buccaneers have an inferiority complex here with respect to the Rams. In their past three meetings, Tampa Bay has been simply unable to win one the reigning world champions. In fact, the Rams have not scored less than 27 points in any one of those outings. On the other hand, Brady and company have only seen mixed success against the Rams defense.
+It can be argued that the Buccaneers have an inferiority complex here with respect to the Rams. In their past three meetings, Tampa Bay has proven itself unable to win one the reigning world champions. In fact, the Rams have not scored less than 27 points in any one of those outings. On the other hand, Brady and company have only seen mixed success against the Rams defense.
 
 ***
 
@@ -49,7 +51,7 @@ It can be argued that the Buccaneers have an inferiority complex here with respe
 
 I learned the hard way the past week - never doubt the inferiority complex. The Buccaneers have such a mentality with regards to Los Angeles, going back two years now.
 
-Now such a complex can be overcome if the team holding those negative feelings is tangible improved from years past. But one can't say that about the Tampa Bay Buccaneers, especially in light of Brady's historic three-game losing streak. Yes, the Rams may suck too, but Tampa's going through a similar decline themselves.
+Now such a complex can be overcome if the team holding those negative feelings is tangibly improved from years past. But one can't say that about the Tampa Bay Buccaneers, especially in light of Brady's historic three-game losing streak. Yes, the Rams may suck too, but Tampa's going through a similar decline themselves.
 
 What Sean McVay will likely attempt to do here is matriculate the ball downfield through quick passes, screen plays, and backfield trickery. Not only would that mitigate pressure on their beleaguered offensive line, but it would also expose Tampa's inability to adequately cover the flat.
 
@@ -123,7 +125,7 @@ Neither of these two organizations nor their coaches have any recent history con
 
 Not only is Los Angeles entering the game missing some of their key receivers, but their questionable run defense leaves them susceptible to a club that loves rushing the ball more than any other team in the league. Given their outings against Cleveland, Houston, and Seattle, the Chargers still have major issues limiting opposing rushers. It's an issue I don't expect will ever really be remedied by Brandon Staley given his sorry track record.
 
-To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers catch a few lucky breaks, Los Angeles can escape with a win.
+To be fair, I still expect Justin Herbert and his offense to produce points against an Atlanta defense that ranks among the worst in the league. And that concerns me. If this game escalates into a shoot-out similar to what we saw between Atlanta and Carolina last week and the Chargers manage to catch a few lucky breaks, Herbert and friends can escape with a win.
 
 But even in the event of a high-octane affair, give me the team taking points and playing in the comfort of their own stadium.
 
@@ -224,6 +226,6 @@ These Titans have won against the Chiefs twice in the regular season over the pa
 
 ***
 
-It's incredibly unlikely Tennessee wins given Malik Willis is expected to start at quarterback and the lack of talent across their offensive roster. But a double-digit spread might be unfair to one of the better head coaches in the league, even if he's saddled with such a short-changed offense. On top of that, the Titans boast one of the best defenses in the league too.
+It's incredibly unlikely Tennessee wins given Malik Willis is expected to start at quarterback and the lack of talent across their offensive roster. But a double-digit spread seems a little much, no? Especially when all those points are being given to one of the better head coaches in the league. Even though the team's expected to be short-changed on offense, keep in mind the Titans still boast one of the best defenses in the league.
 
 Not to mention...if Ryan Tannehill is able to contribute in spurts, it may be enough for Tennessee to make some hay here and keep things interesting. And if the Titans can manage to keep this game within reach, the cover is guaranteed here.
