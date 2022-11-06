@@ -60,4 +60,6 @@ Kyler Murray is so bad. Takes little responsibility. Throws bad passes under pre
 
 So the Seahawks seem to have keyed in on a weakness of Arizona's - their interior offensive line in particular. They can't really handle stunts.
 
+Geno Smith's mobility may be underrated. Though it remains to be seen if the team is willing to use it as a weapon or treat it more as an emergency tool.
+
 ***
