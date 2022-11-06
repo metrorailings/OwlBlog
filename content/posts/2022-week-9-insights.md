@@ -43,3 +43,9 @@ It's a push, but the Falcons had opportunities to put this game away. Drake Lond
 ## Bills @ Jets
 
 Jets covered as a massive home underdog after losing outright last week. But they just won straight up. Impressive. The Jets know how to win.
+
+***
+
+## Rams @ Buccaneers
+
+This Rams offense is different. Just bizarre. It's much more a drop-back offense now predicated on long-developing plays. Which doesn't work when your offensive line cannot block.
