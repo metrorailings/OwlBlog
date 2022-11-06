@@ -8,6 +8,8 @@ headline = "Week 9 Insights"
 
 I need to watch this game. The Bears have been surprisingly productive on offense over the past three weeks. Credit to them.
 
+I swear, these receivers are coming back upfield to catch Tua's passes. He doesn't have much strength in his passes, does he?
+
 ***
 
 ## Panthers @ Bengals
@@ -19,3 +21,13 @@ These Panthers have been absolutely unable to stop the Bengals on offense. It's 
 ## Raiders @ Jaguars
 
 Meanwhile, the Raiders are dominating this match. It makes me wonder if it helps that they spent time on the East Coast this week bonding with one another.
+
+It's worth noting conditions are pretty humid, although cloudy.
+
+***
+
+## Chargers @ Falcons
+
+Lots of experimentation on Atlanta's side, putting Mariota out there in empty personnel.
+
+I lost some respect for Arthur Smith. I think he forced Mariota to make too many passes, despite the running game working just swimmingly. And after I saw Khalil Mack literally just take the ball away from Drake London, I'm convinced the Falcons don't have much idea how to win. Even their win against Carolina last week came miraculously off a missed extra point and a missed field goal in overtime.
