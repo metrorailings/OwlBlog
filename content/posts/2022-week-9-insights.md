@@ -49,3 +49,13 @@ Jets covered as a massive home underdog after losing outright last week. But the
 ## Rams @ Buccaneers
 
 This Rams offense is different. Just bizarre. It's much more a drop-back offense now predicated on long-developing plays. Which doesn't work when your offensive line cannot block.
+
+Stafford's passes have no power behind them. He needs to be kept very clean to throw good passes.
+
+***
+
+## Seahawks @ Cardinals
+
+Kyler Murray is so bad. Takes little responsibility. Throws bad passes under pressure. Yelling at his players. 
+
+***
