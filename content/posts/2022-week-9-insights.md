@@ -58,4 +58,6 @@ Stafford's passes have no power behind them. He needs to be kept very clean to t
 
 Kyler Murray is so bad. Takes little responsibility. Throws bad passes under pressure. Yelling at his players. 
 
+So the Seahawks seem to have keyed in on a weakness of Arizona's - their interior offensive line in particular. They can't really handle stunts.
+
 ***
