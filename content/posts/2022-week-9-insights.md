@@ -31,3 +31,5 @@ It's worth noting conditions are pretty humid, although cloudy.
 Lots of experimentation on Atlanta's side, putting Mariota out there in empty personnel.
 
 I lost some respect for Arthur Smith. I think he forced Mariota to make too many passes, despite the running game working just swimmingly. And after I saw Khalil Mack literally just take the ball away from Drake London, I'm convinced the Falcons don't have much idea how to win. Even their win against Carolina last week came miraculously off a missed extra point and a missed field goal in overtime.
+
+It's a push, but the Falcons had opportunities to put this game away. Drake London getting mugged like a child at the goal line and Younghoe Koo missing a field goal despite his high standards....it's worrying. Atlanta doesn't have that winner's spirit. I can't be betting on teams that lack the winning spirit unless they're taking at least 4 points.
