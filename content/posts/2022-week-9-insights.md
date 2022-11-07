@@ -52,6 +52,8 @@ This Rams offense is different. Just bizarre. It's much more a drop-back offense
 
 Stafford's passes have no power behind them. He needs to be kept very clean to throw good passes.
 
+Vita Vea may be stepping up as a respectable pass rusher.
+
 ***
 
 ## Seahawks @ Cardinals
