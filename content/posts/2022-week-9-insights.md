@@ -8,7 +8,7 @@ headline = "Week 9 Insights"
 
 I need to watch this game. The Bears have been surprisingly productive on offense over the past three weeks. Credit to them.
 
-I swear, these receivers are coming back upfield to catch Tua's passes. He doesn't have much strength in his passes, does he?
+I swear, these receivers are coming back upfield to catch Tua's passes. He doesn't have much strength in his passes, does he? Either that or Miami uses a lot of curl concepts in their route running to set up some easy passes for Tua.
 
 Bears covered the spread as home underdogs after coming off a bad loss.
 
