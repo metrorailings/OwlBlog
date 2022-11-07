@@ -69,3 +69,9 @@ So the Seahawks seem to have keyed in on a weakness of Arizona's - their interio
 Geno Smith's mobility may be underrated. Though it remains to be seen if the team is willing to use it as a weapon or treat it more as an emergency tool.
 
 ***
+
+## Titans @ Chiefs
+
+Malik Willis and the read-option run can be an interesting wrinkle in this offense.
+
+You know...Tennessee is running Chicago's offense here.
