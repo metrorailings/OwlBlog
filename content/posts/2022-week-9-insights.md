@@ -20,7 +20,7 @@ Special teams for Chicago coughed up a touchdown on a blocked punt. Pretty shame
 
 Chicago playing man coverage on 3rd down has been a mistake considering Tyreek Hill's speed.
 
-This Bears defense is pretty bad at containing the rushers. The linebackers seem out of place.
+This Bears defense is pretty bad at containing the rushers. The linebackers generally seem out of place. And even if they're in position to impact the play, they fail to do so. In general, this Chicago defense lacks speed at all three levels.
 
 This Miami team has moxie.
 
