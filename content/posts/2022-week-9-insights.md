@@ -85,3 +85,5 @@ Todd Downing trying to disguise his running by not having Derrick Henry out ther
 Chiefs are a little shook. Dropping passes, losing protection, not beating defensive backs on routes. These Titans know how to work them.
 
 Mahomes is flustered too. His passing decision-making hasn't been solid at all. Thankfully, his feet hasn't failed him.
+
+Mario Edwards has been the most impressive defensive lineman for the Chiefs. Interesting.
