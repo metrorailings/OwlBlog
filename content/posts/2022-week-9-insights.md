@@ -81,3 +81,5 @@ You know...Tennessee is running Chicago's offense here.
 Beautiful game management from Mike Vrabel.
 
 Todd Downing trying to disguise his running by not having Derrick Henry out there, but it's not working.
+
+Chiefs are a little shook. These Titans know how to work them.
