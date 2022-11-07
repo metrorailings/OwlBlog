@@ -22,6 +22,8 @@ Chicago playing man coverage on 3rd down has been a mistake considering Tyreek H
 
 This Bears defense is pretty bad at containing the rushers. The linebackers seem out of place.
 
+This Miami team has moxie.
+
 ***
 
 ## Panthers @ Bengals
