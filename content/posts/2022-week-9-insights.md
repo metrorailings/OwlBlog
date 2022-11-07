@@ -16,6 +16,8 @@ Bears pretty good on those hard play-action fakes.
 
 Miami is just so good getting the ball to their star receivers. Tua's decisiveness is also pretty impressive.
 
+Special teams for Chicago coughed up a touchdown on a blocked punt. Pretty shameful.
+
 ***
 
 ## Panthers @ Bengals
