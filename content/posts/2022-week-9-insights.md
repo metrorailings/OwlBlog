@@ -20,6 +20,8 @@ Special teams for Chicago coughed up a touchdown on a blocked punt. Pretty shame
 
 Chicago playing man coverage on 3rd down has been a mistake considering Tyreek Hill's speed.
 
+This Bears defense is pretty bad at containing the rushers. The linebackers seem out of place.
+
 ***
 
 ## Panthers @ Bengals
