@@ -12,6 +12,8 @@ I swear, these receivers are coming back upfield to catch Tua's passes. He doesn
 
 Bears covered the spread as home underdogs after coming off a bad loss.
 
+Bears pretty good on those hard play-action fakes.
+
 ***
 
 ## Panthers @ Bengals
