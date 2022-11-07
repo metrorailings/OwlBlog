@@ -83,3 +83,5 @@ Beautiful game management from Mike Vrabel.
 Todd Downing trying to disguise his running by not having Derrick Henry out there, but it's not working. Just put Derrick out there on second and third downs. Otherwise, all you're doing is nursing a lead.
 
 Chiefs are a little shook. Dropping passes, losing protection, not beating defensive backs on routes. These Titans know how to work them.
+
+Mahomes is flustered too. His passing decision-making hasn't been solid at all. Thankfully, his feet hasn't failed him.
