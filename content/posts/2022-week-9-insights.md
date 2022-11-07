@@ -58,6 +58,8 @@ It's a push, but the Falcons had opportunities to put this game away. Drake Lond
 
 Jets covered as a massive home underdog after losing outright last week. But they just won straight up. Impressive. The Jets know how to win.
 
+The Bills really miss Matt Milano in run support.
+
 ***
 
 ## Rams @ Buccaneers
