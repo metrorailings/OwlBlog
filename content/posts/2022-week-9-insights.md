@@ -18,6 +18,8 @@ Miami is just so good getting the ball to their star receivers. Tua's decisivene
 
 Special teams for Chicago coughed up a touchdown on a blocked punt. Pretty shameful.
 
+Chicago playing man coverage on 3rd down has been a mistake considering Tyreek Hill's speed.
+
 ***
 
 ## Panthers @ Bengals
