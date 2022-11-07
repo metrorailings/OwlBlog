@@ -79,3 +79,5 @@ Malik Willis and the read-option run can be an interesting wrinkle in this offen
 You know...Tennessee is running Chicago's offense here.
 
 Beautiful game management from Mike Vrabel.
+
+Todd Downing trying to disguise his running by not having Derrick Henry out there, but it's not working.
