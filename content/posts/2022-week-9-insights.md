@@ -24,7 +24,7 @@ This Bears defense is pretty bad at containing the rushers. The linebackers gene
 
 This Miami team has moxie.
 
-Andrew Van Ginkel is a vital part of Miami's defense.
+Jaelen Phillips seems to be an important part of this Miami defense.
 
 ***
 
