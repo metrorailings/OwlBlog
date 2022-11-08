@@ -62,6 +62,8 @@ The Bills really miss Matt Milano in run support.
 
 This Jets offense is actually efficient when Zac Wilson is throwing short passes on timing routes. Paired with occasional screens, bootlegs, and a commitment to the run, New York might actually have something going here on offense.
 
+New York's defense is impressing me, though I can still see that Robert Saleh still plays quite a bit of cover-3 in the back-end. Then again, that might not be such a bad decision given the strength of his secondary. He mixes things up with two-deep shells and cover-6 as well.
+
 ***
 
 ## Rams @ Buccaneers
