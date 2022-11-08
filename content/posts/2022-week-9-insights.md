@@ -32,7 +32,7 @@ Jaelen Phillips seems to be an important part of this Miami defense.
 
 These Panthers have been absolutely unable to stop the Bengals on offense. It's a shame. Joe Mixon seems to be running rabid all over Carolina. I need to watch this tape. Maybe Lombardi had a point that last-second losses linger.
 
-Joe Mixon had a historic day, tallying up four touchdowns.  
+Joe Mixon had a historic day, tallying up four touchdowns.
 
 ***
 
@@ -78,7 +78,7 @@ Vita Vea may be stepping up as a respectable pass rusher.
 
 ## Seahawks @ Cardinals
 
-Kyler Murray is so bad. Takes little responsibility. Throws bad passes under pressure. Yelling at his players. 
+Kyler Murray is so bad. Takes little responsibility. Throws bad passes under pressure. Yelling at his players.
 
 So the Seahawks seem to have keyed in on a weakness of Arizona's - their interior offensive line in particular. They can't really handle stunts.
 
@@ -101,3 +101,15 @@ Chiefs are a little shook. Dropping passes, losing protection, not beating defen
 Mahomes is flustered too. His passing decision-making hasn't been solid at all. Thankfully, his feet hasn't failed him.
 
 Mario Edwards has been the most impressive defensive lineman for the Chiefs. Interesting.
+
+***
+
+## Ravens @ Saints
+
+Justin Houston has been sensational for the Ravens.
+
+Lamar and Kenyan Drake have been great running the ball as a tandem pair.
+
+Lamar's passing is still iffy.
+
+Primetime Andy Dalton is baaaaaaaaaaad.
