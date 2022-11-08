@@ -60,6 +60,8 @@ Jets covered as a massive home underdog after losing outright last week. But the
 
 The Bills really miss Matt Milano in run support.
 
+This Jets offense is actually efficient when Zac Wilson is throwing short passes on timing routes. Paired with occasional screens, bootlegs, and a commitment to the run, New York might actually have something going here on offense.
+
 ***
 
 ## Rams @ Buccaneers
