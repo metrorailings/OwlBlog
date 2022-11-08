@@ -112,4 +112,4 @@ Lamar and Kenyan Drake have been great running the ball as a tandem pair.
 
 Lamar's passing is still iffy.
 
-Primetime Andy Dalton is baaaaaaaaaaad.
+Primetime Andy Dalton is baaaaaaaaaaad. Missing receivers in critical moments, holding on to the ball way too long against the blitz, constantly getting his balls batted....it's just bad.
