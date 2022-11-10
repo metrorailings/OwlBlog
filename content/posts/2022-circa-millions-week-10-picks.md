@@ -77,3 +77,5 @@ Neither of these two franchises nor their lead coaches have any recent history w
 ### Dolphins -3.5
 
 ***
+
+Cleveland is slightly overrated as they're returning from a bye week after having stomped out the Bengals in a primetime contest. The reality is that Cincinnati seems to harbor an inferiority complex against the Browns, so that game needs to be interpreted more as a fluke when evaluating Cleveland's real potential.
