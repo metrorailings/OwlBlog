@@ -62,7 +62,11 @@ Dolphins have never lost once when Tua has been able to start and finish a game.
 
 ##### _Injuries_
 
+No major injuries to document here
+
 ##### _Weather_
+
+It's a hot one by November's standards
 
 ##### _History_
 
