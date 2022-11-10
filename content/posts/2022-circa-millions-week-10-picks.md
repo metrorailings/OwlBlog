@@ -48,3 +48,7 @@ Seattle has been playing fantastic this year on both sides of the ball. Nowhere 
 I know Geno Smith has shown susceptibility to the blitz. Unfortunately for him, few people understand the intricacies of blitzing better than Todd Bowles. So do expect some pressure to be mounted against Geno here. That being said, the McVay style of offense Seattle has adopted has seen resounding success against Tampa Bay over the past couple years. I know McVay's club lost last week against these Buccaneers, but one can argue that the reason Los Angeles wasn't able to escape with a victory last week is because they seem to have changed dramatically on offense - instead of being a quick-strike offense loaded with crossing concepts, the Rams are playing a much more traditional form of dropback football that simply isn't working for them. Seattle, meanwhile, is running a carbon copy of the McVay offense that is serving them incredibly well. 
 
 ***
+
+### Browns @ Dolphins (-3.5)
+
+***
