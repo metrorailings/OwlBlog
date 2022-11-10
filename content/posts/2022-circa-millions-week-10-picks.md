@@ -52,3 +52,22 @@ I know Geno Smith has shown susceptibility to the blitz. Unfortunately for him, 
 ### Browns @ Dolphins (-3.5)
 
 ***
+
+##### _Streaks_
+
+Browns - 1W (BYE)  
+Dolphins - 3W
+
+Dolphins have never lost once when Tua has been able to start and finish a game.
+
+##### _Injuries_
+
+##### _Weather_
+
+##### _History_
+
+***
+
+### Dolphins -3.5
+
+***
