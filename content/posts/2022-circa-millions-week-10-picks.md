@@ -78,4 +78,6 @@ Neither of these two franchises nor their lead coaches have any recent history w
 
 ***
 
-Cleveland is slightly overrated as they're returning from a bye week after having stomped out the Bengals in a primetime contest. The reality is that Cincinnati seems to harbor an inferiority complex against the Browns, so that game needs to be interpreted more as a fluke when evaluating Cleveland's real potential.
+Cleveland is slightly overrated as they're returning from a bye week after having stomped out the Bengals in a primetime contest. The reality is that Cincinnati seems to harbor an inferiority complex against the Browns, so that game needs to be interpreted more as a fluke when evaluating Cleveland's real potential. If you look back a few weeks before that Cincinnati game, these Browns haven't really impressed. In fact, they were on a four-game losing skid. It's worth noting three of those losses came against teams that beat the last year as well - Cleveland hasn't really changed face much at all this year. 
+
+The Dolphins, on the other hand...those fish have a swagger to them. Maybe I'm overreacting a little here, but Miami arguably has one of the best offenses in the league - no other offense has seen as much success as Miami's on an EPA basis. No other team boasts a receiving corps as flashy or as frightening as Miami's. Opposing defenses have yet to really adjust to all the play-action passing concepts Mike McDaniel has loaded into his playbook.
