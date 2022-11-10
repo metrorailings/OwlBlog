@@ -70,6 +70,8 @@ It's a hot one by November's standards
 
 ##### _History_
 
+Neither of these two franchises nor their lead coaches have any recent history with one another.
+
 ***
 
 ### Dolphins -3.5
