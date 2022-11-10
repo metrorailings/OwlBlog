@@ -9,3 +9,42 @@ New rule - never pick teams that struggle to win if they're taking anything shor
 The other lesson - add Andy Dalton to the list of quarterbacks who deserve to be on my shitlist for primetime games. No mas, Andy.
 
 ***
+
+### Seahawks @ Buccaneers (-3)
+
+***
+
+##### _Streaks_
+
+Seahawks - 4W  
+Bucccaneers - 1W
+
+Both teams are coming off morale-boosting victories, the Seahawks finishing a sweep on their rival Cardinals and the Buccaneers finally halting a losing skid last week with a last-second comeback against the Rams.
+
+##### _Injuries_
+
+Tampa Bay may have a few points of concern, but the only name worth watching here is Mike Evans. If Evans is out, Brady is down his best weapon.
+
+For the Seahawks, it's worth keeping an eye on Marquise Goodwin.
+
+##### _Weather_
+
+Uneventful weather that shouldn't play much a role in deciding this game
+
+##### _History_
+
+No relevant recent history is there to explore between these two organization or their key coaches.
+
+***
+
+### Seahawks +3
+
+***
+
+How are the Buccaneers favored here? Why do oddsmakers have these Seahawks still slotted so low on their rankings?
+
+Seattle has been playing fantastic this year on both sides of the ball. Nowhere was this more evident than last week in Arizona, when the Seahawks registered three touchdowns after Geno Smith threw a humiliating pick-six that would have likely sapped the morale of lesser teams on the road. This Seattle team has a winner's mindset absent in so many other teams this season, Tampa Bay included. Sure, the Buccaneers won last week, but it was against an uninspiring Rams team that did virtually everything in its power to give that game away. These Seahawks put up a much more impressive performance against an Arizona team with more offensive potential.
+
+I know Geno Smith has shown susceptibility to the blitz. Unfortunately for him, few people understand the intricacies of blitzing better than Todd Bowles. So do expect some pressure to be mounted against Geno here. That being said, the McVay style of offense Seattle has adopted has seen resounding success against Tampa Bay over the past couple years. I know McVay's club lost last week against these Buccaneers, but one can argue that the reason Los Angeles wasn't able to escape with a victory last week is because they seem to have changed dramatically on offense - instead of being a quick-strike offense loaded with crossing concepts, the Rams are playing a much more traditional form of dropback football that simply isn't working for them. Seattle, meanwhile, is running a carbon copy of the McVay offense that is serving them incredibly well. 
+
+***
