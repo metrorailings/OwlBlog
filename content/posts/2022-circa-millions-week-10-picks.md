@@ -147,3 +147,13 @@ As for the Giants, they'll be down a valuable player in Daniel Bellinger as he r
 Unexpectedly nice weather for November
 
 ##### _History_
+
+No real history between these two organizations. Brian Daboll and Lovie Smith have versed against one another last year, but Davis Mills was making his NFL debut in that game, so that game carries little weight in our analysis here.
+
+***
+
+### Giants -4.5
+
+***
+
+A tall spread, but the Giants are capable of covering this spread against a clearly pathetic Texans organization.
