@@ -85,3 +85,40 @@ The Dolphins, on the other hand...those fish have a swagger to them. Maybe I'm o
 The only problem here is the other side of things. Miami's defense hasn't really impressed so much against the pass themselves. But the good news here is that the Dolphins are quite adept limiting the rush, given opposing tailbacks have only found success against them on roughly 45% of their attempts. So that should play well against a Cleveland team that absolutely needs an effective ground game to win here. 
 
 ***
+
+### Lions @ Bears (-3)
+
+***
+
+##### _Streaks_
+
+Lions - 1W  
+Bears - 2L
+
+Despite playing well against some solid teams over the past couple weeks, Chicago is on a losing streak.
+
+##### _Injuries_
+
+Not an injury, but Roquan Smith will be missed now that he's no longer being there to lead Chicago's linebacker corps.
+
+##### _Weather_
+
+Unfortunately for Jared Goff, the gales of November has arrived. While cold winds aren't really expected, temperatures are expected to be in the 30s.
+
+##### _History_
+
+Jared Goff and Justin Fields led their respective teams into battle against one another once last year, on Soldier Field. Chicago solidly won that game, even as three-point favorites. That being said, the coaching staffs for both organizations have changed considerably since then. Matt Nagy and his ilk have been ousted from Chicago. On the other side, Anthony Lynn's no longer in charge of the offense. 
+
+***
+
+### Bears -3
+
+***
+
+It's a bit risky to ask an average team to win outright as field goal favorites, but Detroit's just not that good a team, last week's win notwithstanding. Their defense still ranks among the worst in the league even after being gifted multiple interceptions from Aaron Rodgers last week.
+
+But what really wins me over to Chicago's side here is the cold weather. Reviewing his games over the past couple years, it's clear Jared Goff has issues operating in cold weather. It makes sense too considering Goff spent his childhood in California. I know, I know...quarterbacks born and raised in California have managed to play at all levels of the game without cold weather hindering them too much...but Goff genuinely lacks the inherent fortitude one needs to overcome some habituated aversions. I honestly doubt he's honed an appreciation for cold weather in his limited time with Detroit.
+
+Reviewing photos from Detroit's outdoor practice, I haven't seen any photo of Jared Goff in action. A bit surprising, especially since it seems frigid weather has yet to really grace Michigan. But then again, this is Jared Goff.
+
+Expect the Lions to be productive over ground anyway, especially given the state of Chicago's front-seven now that the team has traded away some of its brand name players. That being said, I don't think Detroit will be consistent here on offense, giving Chicago an opportunity to run up the score.
