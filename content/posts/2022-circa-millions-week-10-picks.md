@@ -83,3 +83,5 @@ Cleveland is slightly overrated as they're returning from a bye week after havin
 The Dolphins, on the other hand...those fish have a swagger to them. Maybe I'm overreacting a but here, but Miami has the most explosive offense in the league - no other offense has seen as much success as Miami's on an EPA basis. It makes sense given no other team boasts a receiving corps as flashy or as frightening as Miami's. Opposing defenses have yet to really adjust to all the play-action passing concepts Mike McDaniel has loaded into his playbook. I don't expect Cleveland's defensive coaches to devise an effective coverage scheme to limit Tyreek Hill and Jaylen Waddle, so the Dolphins should have little issue dicing up their shoddy pass coverage.
 
 The only problem here is the other side of things. Miami's defense hasn't really impressed so much against the pass themselves. But the good news here is that the Dolphins are quite adept limiting the rush, given opposing tailbacks have only found success against them on roughly 45% of their attempts. So that should play well against a Cleveland team that absolutely needs an effective ground game to win here. 
+
+***
