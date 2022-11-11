@@ -144,6 +144,6 @@ As for the Giants, they'll be down a valuable player in Daniel Bellinger as he r
 
 ##### _Weather_
 
-Unfortunately for Jared Goff, the gales of November has arrived. While cold winds aren't really expected, temperatures are expected to be in the 30s.
+Unexpectedly nice weather for November
 
 ##### _History_
