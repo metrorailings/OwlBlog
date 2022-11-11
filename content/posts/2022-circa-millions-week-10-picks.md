@@ -45,7 +45,7 @@ How are the Buccaneers favored here? Why do oddsmakers have these Seahawks still
 
 Seattle has been playing fantastic this year on both sides of the ball. Nowhere was this more evident than last week in Arizona, when the Seahawks registered three touchdowns after Geno Smith threw a humiliating pick-six that would have likely sapped the morale of lesser teams on the road. This Seattle team has a winner's mindset absent in so many other teams this season, notably Tampa Bay. Sure, the Buccaneers won last week, but it was against an uninspiring Rams team that did virtually everything in its power to give that game away. These Seahawks put up a much more impressive performance against an Arizona team with more offensive potential.
 
-I know Geno Smith has shown susceptibility to the blitz. Unfortunately for him, few people understand the intricacies of blitzing better than Todd Bowles, so expect some pressure to be mounted against Geno here. That being said, the McVay style of offense Seattle has adopted has seen resounding success against Tampa Bay over the past couple years. I know McVay's club lost last week against these Buccaneers, but one can argue that the reason Los Angeles wasn't able to escape with a victory last week is because they seem to have changed dramatically on offense - instead of being a quick-strike offense loaded with crossing concepts, the Rams are playing a much more traditional form of dropback football that's simply not working for them. Seattle, meanwhile, is running a carbon copy of the McVay offense that is serving them mighty well. 
+I know Geno Smith has shown susceptibility to the blitz. Unfortunately for him, few people understand the intricacies of blitzing better than Todd Bowles, so expect some pressure to be mounted against Geno here. That being said, the McVay style of offense Seattle has adopted has seen resounding success against Tampa Bay over the past couple years. I know McVay's club lost last week against these Buccaneers, but one can argue that the reason Los Angeles wasn't able to escape with a victory last week is because they seem to have changed dramatically on offense - instead of being a quick-strike offense loaded with crossing concepts, the Rams are playing a much more traditional form of dropback football that's simply not working for them. Seattle, meanwhile, is running a carbon copy of the McVay offense that is serving them mighty well.
 
 ***
 
@@ -78,11 +78,11 @@ Neither of these two franchises nor their lead coaches have any recent history w
 
 ***
 
-Cleveland is slightly overrated as they're returning from a bye week after having stomped out the Bengals in a primetime contest. The reality is that Cincinnati seems to harbor an inferiority complex against the Browns, so that game needs to be interpreted more as a fluke when evaluating Cleveland's real potential. If you look back a few weeks before that Cincinnati game, these Browns haven't really impressed. In fact, they were on a four-game losing skid. It's worth noting three of those losses came against teams that beat the last year as well - Cleveland hasn't really changed face much at all this year. 
+Cleveland is slightly overrated as they're returning from a bye week after having stomped out the Bengals in a primetime contest. The reality is that Cincinnati seems to harbor an inferiority complex against the Browns, so that game needs to be interpreted more as a fluke when evaluating Cleveland's real potential. If you look back a few weeks before that Cincinnati game, these Browns haven't really impressed. In fact, they were on a four-game losing skid. It's worth noting three of those losses came against teams that beat the last year as well - Cleveland hasn't really changed face much at all this year.
 
 The Dolphins, on the other hand...those fish have a swagger to them. Maybe I'm overreacting a but here, but Miami has the most explosive offense in the league - no other offense has seen as much success as Miami's on an EPA basis. It makes sense given no other team boasts a receiving corps as flashy or as frightening as Miami's. Opposing defenses have yet to really adjust to all the play-action passing concepts Mike McDaniel has loaded into his playbook. I don't expect Cleveland's defensive coaches to devise an effective coverage scheme to limit Tyreek Hill and Jaylen Waddle, so the Dolphins should have little issue dicing up their shoddy pass coverage.
 
-The only problem here is the other side of things. Miami's defense hasn't really impressed so much against the pass themselves. But the good news here is that the Dolphins are quite adept limiting the rush, given opposing tailbacks have only found success against them on roughly 45% of their attempts. So that should play well against a Cleveland team that absolutely needs an effective ground game to win here. 
+The only problem here is the other side of things. Miami's defense hasn't really impressed so much against the pass themselves. But the good news here is that the Dolphins are quite adept limiting the rush, given opposing tailbacks have only found success against them on roughly 45% of their attempts. So that should play well against a Cleveland team that absolutely needs an effective ground game to win here.
 
 ***
 
@@ -107,7 +107,7 @@ Unfortunately for Jared Goff, the gales of November has arrived. While cold wind
 
 ##### _History_
 
-Jared Goff and Justin Fields led their respective teams into battle against one another once last year, on Soldier Field. Chicago solidly won that game, even as three-point favorites. That being said, the coaching staffs for both organizations have changed considerably since then. Matt Nagy and his ilk have been ousted from Chicago. On the other side, Anthony Lynn's no longer in charge of the offense. 
+Jared Goff and Justin Fields led their respective teams into battle against one another once last year, on Soldier Field. Chicago solidly won that game, even as three-point favorites. That being said, the coaching staffs for both organizations have changed considerably since then. Matt Nagy and his ilk have been ousted from Chicago. On the other side, Anthony Lynn's no longer in charge of the offense.
 
 ***
 
@@ -122,3 +122,28 @@ But what really wins me over to Chicago's side here is the cold weather. Reviewi
 Reviewing photos from Detroit's outdoor practice, I haven't seen any photo of Jared Goff in action. A bit surprising, especially since it seems frigid weather has yet to really grace Michigan. But then again, this is Jared Goff.
 
 Expect the Lions to be productive over ground anyway, especially given the state of Chicago's front-seven now that the team has traded away some of its brand name players. That being said, I don't think Detroit will be consistent here on offense, giving Chicago an opportunity to run up the score.
+
+***
+
+### Texans @ Giants (-4.5)
+
+***
+
+##### _Streaks_
+
+Texans - 3L  
+Giants - 1L
+
+Houston's coming off a decent performance on Thursday night against an Eagles team that arguably didn't really care to play.
+
+##### _Injuries_
+
+Brandin Cooks isn't definite to play this Sunday, though it appears he's trending towards playing.
+
+As for the Giants, they'll be down a valuable player in Daniel Bellinger as he recuperates from a serious eye injury.
+
+##### _Weather_
+
+Unfortunately for Jared Goff, the gales of November has arrived. While cold winds aren't really expected, temperatures are expected to be in the 30s.
+
+##### _History_
