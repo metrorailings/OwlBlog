@@ -198,3 +198,9 @@ Here's the good news - Heinecke is now under center instead of Wentz. Keep in mi
 ***
 
 Last time Jalen Hurts and Taylor Heinecke danced against one another, it was actually a very competitive game. And it was at that point in the season where Philadelphia wholeheartedly adopted a run-first mentality on offense. Washington did well enough limiting their rushing attack. I suspect the Commanders will be able to limit the Eagles again on the ground, especially considering their defense ranks as one of the absolute best at stopping the run - the Commodores have stoned opposing rushers on over 60% of their attempts. Very impressive.
+
+***
+
+### Chargers @ 49ers (-7)
+
+***
