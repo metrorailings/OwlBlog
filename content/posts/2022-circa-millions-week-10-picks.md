@@ -158,7 +158,7 @@ No real history between these two organizations. Brian Daboll and Lovie Smith ha
 
 A tall spread, but the Giants are capable of covering this spread against a clearly pathetic Texans organization. Their defense is predictable and notably weak against the run, so Daniel Jones and Saquad should be able to make some real hay here against them, especially going into the fourth quarter where New York seems to excel.
 
-My only concern is that Houston seems to have committed much more to their own ground game in recent weeks. If New York has one glaring weakness, it's their own run defense. So Houston can sustain drives themselves so long as Davis Mills is given fewer snaps than Dameon Pierce. But I trust New York will play smart enough and force Houston to commit errors. If a team like Vegas can blow out these fools, I imagine New York can do the same too with proper planning. 
+My only concern is that Houston seems to have committed much more to their own ground game in recent weeks. If New York has one glaring weakness, it's their own run defense. So Houston can sustain drives themselves so long as Davis Mills is given fewer snaps than Dameon Pierce. But I trust New York will play smart enough and force Houston to commit errors. If a team like Vegas can blow out these fools, I imagine New York can do the same too with proper planning.
 
 In Daboll I trust.
 
@@ -184,3 +184,13 @@ No real injury of note on either side
 Quite cool, but both of these teams should be used to this weather
 
 ##### _History_
+
+I'm actually going to copy over what I wrote when these two teams faced off against one another back in week 3.
+
+_Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again with Carson Wentz under center instead of Taylor Heinecke?_
+
+***
+
+### Commanders +11.5
+
+***
