@@ -204,3 +204,20 @@ Last time Jalen Hurts and Taylor Heinecke danced against one another, it was act
 ### Chargers @ 49ers (-7)
 
 ***
+
+##### _Streaks_
+
+Chargers - 1W  
+49ers - 1W
+
+##### _Injuries_
+
+Keenan Allen, Mike Williams, and Dustin Hopkins aren't expected to play. All their absences will be felt. Another thing worthy of note - Austin Johnson will not be playing any more this season, dealing a major blow to their league-worst run defense.
+
+49ers are still missing quite a few pieces on defense, most notably Arik Armstead. It's a little concerning.
+
+##### _Weather_
+
+Quite cool, but both of these teams should be used to this weather
+
+##### _History_
