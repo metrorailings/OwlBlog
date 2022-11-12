@@ -221,3 +221,19 @@ Keenan Allen, Mike Williams, and Dustin Hopkins aren't expected to play. All the
 Quite cool, but both of these teams should be used to this weather
 
 ##### _History_
+
+These two teams haven't faced one another recently, although Kyle Shanahan and Brandon Staley are familiar with one another from the latter's days with the Rams.
+
+***
+
+### Uncertain
+
+***
+
+Everything here is telling me to side with the 49ers. The fact is that Kyle remains one of the best run schemers in the league. Going up against the worst run defense in the league should result in nothing short of a bloodbath, especially when that defense is missing one of its centerpiece run stoppers in Austin Johnson.
+
+On top of that, Justin Herbert will need to find new ways to engineer drives on enemy territory now that he'll be without his two favorite weapons in Mike Williams and Keenan Allen.
+
+But....
+
+I can't help but feel Herbert will do just enough to cover this spread. Herbert is still very much an elite quarterback. On top of that, the 49ers have a history of choking away leads. Not that I expect the Chargers to stage a comeback here, but the 49ers can surrender points at the most inopportune times. Given that San Francisco needs to cover a full touchdown spread, the 49ers need to outright dominate the Chargers for me to be comfortable taking them. And I'm not sure they can do that when the Chargers have been doing just enough to stay relevant in important games. 
