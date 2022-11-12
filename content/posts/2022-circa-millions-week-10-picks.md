@@ -189,10 +189,12 @@ I'm actually going to copy over what I wrote when these two teams faced off agai
 
 _Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again with Carson Wentz under center instead of Taylor Heinecke?_
 
-Here's the good news - Heinecke is now under center instead of Wentz.
+Here's the good news - Heinecke is now under center instead of Wentz. Keep in mind Washington didn't do too well that day, but that was largely because Wentz was playing way too much hero ball against a ferocious Eagles defensive front. It's worth noting Philadelphia was actually gifted a few points courtesy of their starting quarterback throwing a few interceptions their way.
 
 ***
 
 ### Commanders +11.5
 
 ***
+
+Last time Jalen Hurts and Taylor Heinecke danced against one another, it was actually a very competitive game. And it was at that point in the season where Philadelphia wholeheartedly adopted a run-first mentality on offense. Washington did well enough limiting their rushing attack. I suspect the Commanders will be able to limit the Eagles again on the ground, especially considering their defense ranks as one of the absolute best at stopping the run - the Commodores have stoned opposing rushers on over 60% of their attempts. Very impressive.
