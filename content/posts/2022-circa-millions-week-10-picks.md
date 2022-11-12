@@ -189,6 +189,8 @@ I'm actually going to copy over what I wrote when these two teams faced off agai
 
 _Late last year, the Commanders performed well enough on their home turf against a Philadelphia club that's fully embraced a run-first philosophy on offense. Can they pull that same feat off again with Carson Wentz under center instead of Taylor Heinecke?_
 
+Here's the good news - Heinecke is now under center instead of Wentz.
+
 ***
 
 ### Commanders +11.5
