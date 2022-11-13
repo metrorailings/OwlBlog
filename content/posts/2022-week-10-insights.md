@@ -58,4 +58,4 @@ Miami not demonstrating any pad level at all on two failed consecutive sneaks. D
 
 Colt McCoy's gutsy and willing to throw it deep. Loving it.
 
-Brilliant play on fourth-down, running a hard bootleg from heavy personnel
+Brilliant play on fourth-down, running a hard bootleg from heavy personnel.
