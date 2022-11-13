@@ -17,3 +17,5 @@ This turf is messing up Seattle, apparently. They had to change out cleats.
 I think Todd Bowles and his blitzes have been frustrating Geno.
 
 On top of that, it doesn't look like to me that Seattle's mustering much pressure on Brady. I don't even see them invoking the blitz much here.
+
+I love that Seattle's trying to stage a comeback, converting on two huge fourth downs to score.
