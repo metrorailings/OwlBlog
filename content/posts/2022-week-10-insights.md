@@ -27,3 +27,11 @@ It's impressive to see Tampa Bay running the ball when Seattle knows they're run
 ## Lions @ Bears
 
 So far, Goff is having a ball of a time out here in the cold weather. Little into the first quarter, Goff is throwing for nearly 10 yards an attempt. Disgusting.
+
+I think Chicago might have some serious pass rushing issues here, especially after trading away Robert Quinn. Trevis Gipson is apparently the only name worth anything here.
+
+***
+
+## Vikings @ Bills
+
+Josh Allen isn't throwing well at all. He looks more like vintage Josh Allen here. 
