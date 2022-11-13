@@ -49,3 +49,9 @@ Ed Oliver might be a name worth watching on this Bills defensive front.
 ## Browns @ Dolphins
 
 Miami not demonstrating any pad level at all on two failed consecutive sneaks. Disappointing.
+
+***
+
+## Cardinals @ Rams
+
+Colt McCoy's gutsy and willing to throw it deep. Loving it.
