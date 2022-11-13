@@ -30,6 +30,8 @@ So far, Goff is having a ball of a time out here in the cold weather. Little int
 
 I think Chicago might have some serious pass rushing issues here, especially after trading away Robert Quinn. Trevis Gipson is apparently the only name worth anything here.
 
+Cold-weather Goff is no longer a thing. He's playing just fine.
+
 ***
 
 ## Vikings @ Bills
