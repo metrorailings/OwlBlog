@@ -35,3 +35,5 @@ I think Chicago might have some serious pass rushing issues here, especially aft
 ## Vikings @ Bills
 
 Josh Allen isn't throwing well at all. He looks more like vintage Josh Allen here. 
+
+The Bills defensive line loves attacking a single gap in their run defense. 
