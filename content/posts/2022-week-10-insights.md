@@ -32,6 +32,8 @@ I think Chicago might have some serious pass rushing issues here, especially aft
 
 Cold-weather Goff is no longer a thing. He's playing just fine.
 
+My lord, Justin Fields isn't built to be a passer.
+
 ***
 
 ## Vikings @ Bills
