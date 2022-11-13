@@ -11,3 +11,9 @@ So why pick this game to insist on running the ball more, Tampa? Tampa's actuall
 Brady may be playing at an elite level. His passes look more crisp than most other people in the league.
 
 Is this yet another reminder not to bet on overseas games? Why do overseas games bedevil me?
+
+This turf is messing up Seattle, apparently. They had to change out cleats.
+
+I think Todd Bowles and his blitzes have been frustrating Geno.
+
+On top of that, it doesn't look like to me that Seattle's been getting much pressure on Brady.
