@@ -44,6 +44,8 @@ The Bills defensive line loves attacking a single gap in their run defense.
 
 Ed Oliver might be a name worth watching on this Bills defensive front.
 
+Allen with a series of bad plays costing his team the win. An elite quarterback, he is not.
+
 ***
 
 ## Browns @ Dolphins
