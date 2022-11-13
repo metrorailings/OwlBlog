@@ -21,3 +21,9 @@ On top of that, it doesn't look like to me that Seattle's mustering much pressur
 I love that Seattle's trying to stage a comeback, converting on two huge fourth downs to score.
 
 It's impressive to see Tampa Bay running the ball when Seattle knows they're running the ball. This Rachaad White guy has some potential.
+
+***
+
+## Lions @ Bears
+
+So far, Goff is having a ball of a time out here in the cold weather. Little into the first quarter, Goff is throwing for nearly 10 yards an attempt. Disgusting.
