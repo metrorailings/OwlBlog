@@ -42,6 +42,8 @@ Josh Allen isn't throwing well at all. He looks more like vintage Josh Allen her
 
 The Bills defensive line loves attacking a single gap in their run defense.
 
+Ed Oliver might be a name worth watching on this Bills defensive front.
+
 ***
 
 ## Browns @ Dolphins
