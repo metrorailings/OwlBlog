@@ -46,6 +46,8 @@ Ed Oliver might be a name worth watching on this Bills defensive front.
 
 Allen with a series of bad plays costing his team the win. An elite quarterback, he is not.
 
+Eric Kendricks is a major player for Minnesota.
+
 ***
 
 ## Browns @ Dolphins
