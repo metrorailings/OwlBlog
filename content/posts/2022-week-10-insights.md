@@ -65,3 +65,5 @@ Brilliant play on fourth-down, running a hard bootleg from heavy personnel.
 ## Chargers @ 49ers
 
 The energy this San Francisco defense shows is admirable. Multiple people throwing themselves at the tackle.
+
+The Chargers are taking greater care now to protect Herbert in the pocket, given all the ways they're scheming pass protection around Bosa.
