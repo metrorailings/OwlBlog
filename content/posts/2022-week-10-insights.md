@@ -52,6 +52,8 @@ Minnesota's been pretty good reading screens.
 
 Josh Allen and his improvisational ability is really something special though.
 
+I'm really liking Kevin O'Connell's Viking offense.
+
 ***
 
 ## Browns @ Dolphins
