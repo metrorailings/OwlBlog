@@ -75,3 +75,5 @@ The Chargers are taking greater care now to protect Herbert in the pocket, given
 If it wasn't obvious, TJ Watt makes a big difference on defense.'
 
 The read-option plays add an interesting dimension to Pittsburgh's offense.  More importantly though, the Steelers have found ways to leverage Kenny Pickett's speed.
+
+Both these offenses are terrible. Neither can really overcome negative game script. And I don't really sense any solid identity among either of them.
