@@ -59,3 +59,9 @@ Miami not demonstrating any pad level at all on two failed consecutive sneaks. D
 Colt McCoy's gutsy and willing to throw it deep. Loving it.
 
 Brilliant play on fourth-down, running a hard bootleg from heavy personnel.
+
+***
+
+## Chargers @ 49ers
+
+The energy this San Francisco defense shows is admirable. Multiple people throwing themselves at the tackle.
