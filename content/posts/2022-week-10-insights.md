@@ -48,6 +48,10 @@ Allen with a series of bad plays costing his team the win. An elite quarterback,
 
 Eric Kendricks is a major player for Minnesota.
 
+Minnesota's been pretty good reading screens.
+
+Josh Allen and his improvisational ability is really something special though.
+
 ***
 
 ## Browns @ Dolphins
