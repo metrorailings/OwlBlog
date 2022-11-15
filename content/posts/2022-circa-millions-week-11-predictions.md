@@ -17,3 +17,34 @@ So where do we stand here? First, we are going to start playing the numbers more
 ### Browns @ Bills (-9.5)
 
 ***
+
+##### _Streaks_
+
+Browns - 1L  
+Bills - 2L
+
+Buffalo's reeling after two surprise losses.
+
+##### _Injuries_
+
+Josh Allen needs to be monitored through the week. 
+
+##### _Weather_
+
+Snow is expected. Will the weather be so rough that the passing game will be stunted? We'll see
+
+##### _History_
+
+Oddly enough, these two organizations nor their coaches have met in recent games.
+
+***
+
+### Uncertain
+
+***
+
+I'm not sure. Does Buffalo deserve to be nearly double-digit favorites against Cleveland? They haven't been playing well enough to win the past couple weeks. But those games came against playoff-caliber teams with a winning mindset. Cleveland is **NOT** playoff bound this year. And the Browns have done precious little lately to show me they're mentally tough or even trending upward. If anything, the games this year have shown me very little has changed from last year.
+
+Normally, this is a game Buffalo should dominate from start to finish. The Bills should win this game, but the question becomes whether Cleveland can stealthily cover this spread in garbage time. Judging by their last three games, the Bills have issues finishing games out with an exclamation point.
+
+***
