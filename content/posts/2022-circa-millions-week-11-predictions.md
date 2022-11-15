@@ -69,3 +69,11 @@ Nothing critical worthy of note on either side, although it's worth keeping an e
 Cold weather expected of November
 
 ##### _History_
+
+No relevant history worth exploring here
+
+***
+
+### Giants -3
+
+***
