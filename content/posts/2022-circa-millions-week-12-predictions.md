@@ -13,3 +13,7 @@ My other loss was Seattle. Why do I always end up violating my overseas cardinal
 So where do we stand here? First, we are going to start playing the numbers more here? We need to start evaluating the games by looking at the number first and determining whether that number is a fair assessment of the game given both of the teams involved as well as the location where they're playing. Then we go from there.
 
 ***
+
+### Browns @ Bills (-9.5)
+
+***
