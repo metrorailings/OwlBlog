@@ -62,8 +62,10 @@ Detroit's coming off two straight upsets against division rivals.
 
 ##### _Injuries_
 
+Nothing critical worthy of note on either side, although it's worth keeping an eye on Daniel Bellinger
+
 ##### _Weather_
 
-Snow is expected. Will the weather be so rough that the passing game will be stunted? We'll see
+Cold weather expected of November
 
 ##### _History_
