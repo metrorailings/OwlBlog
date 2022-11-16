@@ -27,7 +27,7 @@ Buffalo's reeling after two surprise losses.
 
 ##### _Injuries_
 
-Josh Allen needs to be monitored through the week. 
+Josh Allen needs to be monitored through the week.
 
 ##### _Weather_
 
@@ -62,7 +62,7 @@ Detroit's coming off two straight upsets against division rivals.
 
 ##### _Injuries_
 
-Nothing critical worthy of note on either side, although it's worth keeping an eye on Daniel Bellinger
+Nothing critical worthy of note on either side, although it's worth keeping an eye on Daniel Bellinger.
 
 ##### _Weather_
 
@@ -70,10 +70,12 @@ Cold weather expected of November
 
 ##### _History_
 
-No relevant history worth exploring here
+No history to explore here, tragically
 
 ***
 
 ### Giants -3
 
 ***
+
+The Giants are too disciplined to lose to a mistake-prone Lions team. Granted, Jared Goff played pretty well, but that was against an uninspiring Chicago defense that lacks any real mojo. On top of that, not many of his passes traveled far. In fact, it was his receivers finding ways to generate yards after the catch that played a major role in their production. 
