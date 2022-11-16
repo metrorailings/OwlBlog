@@ -85,3 +85,40 @@ That being said, I'm a little concerned about the Giants and their offense. Thei
 So I'll need to revisit this one later in the week.
 
 ***
+
+### Rams @ Saints (-4)
+
+***
+
+##### _Streaks_
+
+Rams - 3L  
+Saints - 1W
+
+The Rams are not having any fun this season. It's not far-fetched to say they might be one of the worst teams in the league.
+
+##### _Injuries_
+
+Not only is Matthew Stafford expected to be out again as he recovers from a serious brain injury, but Cooper Kupp is out for the next couple weeks with an ankle sprain. This Rams team is in a grave situation.
+
+##### _Weather_
+
+Dome game
+
+##### _History_
+
+Oddly enough, these two teams haven't squared off against one another since 2019. So there's no recent data to examine here.
+
+***
+
+### Saints -4
+
+***
+
+It's a bit odd. The Saints aren't a good team by any means. The last couple weeks alone have shown me that Andy Dalton is nothing more than a placeholder quarterback. Their defense has also been suspect as of late, particularly against opposing rushers. So to see them be considered 4-point favorites here, one would think I'd rather be siding with the underdog here.
+
+But the Rams are a hot mess. An absolute hot mess. The heart and soul of their offense will no longer be there now that he's dealing with an injury expected to sideline him for weeks. Matthew Stafford will likely remain out given the severity of his concussion, meaning John Wolford and Bryce Perkins will forced to handle the reins on offense. It's pretty unclear neither one of them are quite ready for the professional leagues...although I remember writing off PJ Walker in the same way after his depressing outing against these same Rams about a month ago.
+
+If the Rams play as ugly as they did last Sunday, a Saints cover is assured here. But I'm afraid Los Angeles will pull out all the tricks here to try and steal a win here on the road. And you know what? They could win this one here if they string together enough scoring drives through a combination of gimmick plays and surprising quarterback play.
+
+Then again, Carolina made money the past couple weeks by leaning on its running game. Los Angeles can't quite do that now, can they?
