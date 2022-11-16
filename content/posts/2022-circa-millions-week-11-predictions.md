@@ -78,4 +78,6 @@ No history to explore here, tragically
 
 ***
 
-The Giants are too disciplined to lose to a mistake-prone Lions team. Granted, Jared Goff played pretty well, but that was against an uninspiring Chicago defense that lacks any real mojo. On top of that, not many of his passes traveled far. In fact, it was his receivers finding ways to generate yards after the catch that played a major role in their production. 
+The Giants are too disciplined to lose to a mistake-prone Lions team. Granted, Jared Goff played pretty well, but that was against an uninspiring Chicago defense that lacks any real mojo. On top of that, not many of his passes traveled far. In fact, it was his receivers finding ways to generate yards after the catch that played a major role in their production. More importantly though, the Lions owe their win last week to some referee luck as well as Justin Fields being reliably sloppy in the passing game.
+
+That being said, I'm a little concerned about the Giants and their offense. Their ground game hasn't been all that effective lately, at least compared to their games earlier in the season. Defenses have been keying in on stopping Saquon lately, if their last two games are any indication - I mean...Houston was able to limit New York's on over 55% of his rushes. If New York can't depend solely on their tailbacks to carry the burden of production, that means more responsibility's forced on the shoulders of Daniel Jones and Darius Slayton.   
