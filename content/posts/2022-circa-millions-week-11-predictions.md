@@ -161,3 +161,22 @@ In normal circumstances, the Patriots wouldn't merit such a wide spread against 
 On top of that, a good defensive mind should know the proper way to frustrate New York on offense is to limit their production on the ground game. The Patriots were able to do exactly that in their first go-around. I don't see why things would be any different this time around, though Mike LaFleur could finally impress me by manufacturing production through a game plan incorporating a whole bunch of tactics that the Patriots were not expecting at all. Then again, even with a solid game plan, can Zack Wilson steel himself long enough to follow through and lead his team to a victory on enemy territory?
 
 ***
+
+### Raiders @ Broncos (-3)
+
+***
+
+##### _Streaks_
+
+Raiders - 3L  
+Broncos - 1L
+
+The Raiders are coming off their most embarrassing performance of the season, losing against a bottom-tier team led by a coach with absolutely no professional experience.
+
+##### _Injuries_
+
+##### _Weather_
+
+It's going to be a cold one
+
+##### _History_
