@@ -184,3 +184,19 @@ Denver seems to be missing some pieces along the interior of their offensive lin
 Cool weather
 
 ##### _History_
+
+Last time these two met in Las Vegas, the Raiders were able to power their way to a win by relying on Josh Jacobs to assume the mantle of production. Davonte Adams making catches in key moments also helped, but it was a great performance from Jacobs that helped Vegas find their first win of the season.
+
+***
+
+### Broncos -3
+
+***
+
+The Raiders are a bad team overall. It's clear their defense lacks any real passion or heart. Nowhere was that more evident than the play last week where the defense allowed Matt Ryan to scramble for 38 yards.
+
+Can they turn things around? Sure, but it'll be hard for such a limited offense to gain traction against one of the league's toughest defenses. Last time these two played, Denver surrendered way too many yards rushing to Vegas. Given their rushing defense numbers over the season, I'm going to assume that was a fluky result from a defense that was likely caught off-guard from a Raiders team looking desperately for a winning identity on offense. I don't see Josh Jacobs putting up big numbers again, especially in Denver.
+
+I do expect the Raiders defense to play better than last week, and it'll be easier to do so too considering Russell Wilson's offense ranks as one of the most pathetic in the league. But if the Broncos defense affords Wilson enough opportunities, I do expect him to post up points against this soft Vegas defense, no matter how hard they try holding out this time to make up for their lack of effort last week.
+
+***
