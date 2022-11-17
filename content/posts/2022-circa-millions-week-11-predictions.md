@@ -200,3 +200,36 @@ Can they turn things around? Sure, but it'll be hard for such a limited offense 
 I do expect the Raiders defense to play better than last week, and it'll be easier to do so too considering Russell Wilson's offense ranks as one of the most pathetic in the league. But if the Broncos defense affords Wilson enough opportunities, I do expect him to post up points against this soft Vegas defense, no matter how hard they try holding out this time to make up for their lack of effort last week.
 
 ***
+
+### Cowboys @ Vikings (+1.5)
+
+***
+
+##### _Streaks_
+
+Packers - 1L  
+Vikings - 7W
+
+The Cowboys are coming off a loss against Green Bay. Granted, the Packers were desperate for  
+
+##### _Injuries_
+
+Hunter Renfrow and Darren Waller have slid down into injured reserve, meaning the Raiders now definitively have only two certified weapons on offense - Davonte Adams and Josh Jacobs.
+
+Denver seems to be missing some pieces along the interior of their offensive line. Jerry Jeudy is the bigger concern here. His practice schedule has to be monitored.
+
+##### _Weather_
+
+Cool weather
+
+##### _History_
+
+Last year, the Cowboys and Vikings faced off in primetime. I remember that match quite well, as I picked Minnesota in the contest here. I mean...Cooper Rush was starting for Dallas. How could a quarterback who's never called a single snap in regulation succeed on the road against Mike Zimmer's defense? I was wrong. Horribly wrong. Cooper Rush and Kellen Moore were able to thatch together enough plays and score just enough to win in a game where nobody was giving them a chance.
+
+***
+
+### Vikings +1.5
+
+***
+
+Even though history would favor Dallas here, their win in Minnesota last year came against a team that was trending downward given their head coach was on their way out. The Minnesota team this year is very different - the Vikings of 2021 surrendered 1 lead while staging only two significant comebacks.
