@@ -260,3 +260,13 @@ Los Angeles has a whole bunch of injury issues themselves to work through. The g
 Dome game
 
 ##### _History_
+
+Their last game was a bit odd. The Chargers were able to dominate that contest on offense, but the game turned on a dime after Justin Herbert threw a backbreaking pick-six. That interception ended up sapping the team's morale and effectively handed the Chiefs the win.
+
+***
+
+### Uncertain
+
+***
+
+It all comes down to injuries here.
