@@ -235,3 +235,28 @@ Last year, the Cowboys and Vikings faced off in primetime. I remember that match
 Even though history would favor Dallas here, their win in Minnesota last year came against a Viking team trending downward into irrelevance under Mike Zimmer. The Vikings this year is very different though. In fact, consider this - the Vikings of 2021 successfully staged 5 major comebacks while surrendering significant leads in 4 other games. This year's Vikings already staged nearly as many comebacks without surrendering a significant lead in a single game. It's pretty clear the locker room has been given renewed life under the new regime.
 
 On top of that, this defense has been transformed under new coordinator Ed Donatell. No longer does the unit rank near the bottom in so many categories. Most importantly, they went from being one of the worser run defenses to being average. I know, I know, that doesn't sound so impressive given some regression was expected...but it's worth noting Minnesota's been much better slowing down opposing rushers as of lately - they've forced four of their past five opponents to perform worse relative to expectations. All this indicates Dallas is going to struggle getting the ground game going. And if that's the case, I don't think Dak has the mental strength to carry the team against a good opponent.
+
+***
+
+### Chiefs @ Chargers (+6)
+
+***
+
+##### _Streaks_
+
+Chiefs - 3W  
+Chargers - 1L
+
+Los Angeles losing probably doesn't mean too much given the Chargers went to war last week with a barebones roster.
+
+##### _Injuries_
+
+The Chiefs themselves are dealing with a few injuries, most notably to their wide receiver corps - Juju Smith-Schuster, Mecole Hardman, and MVS haven't really been practicing.
+
+Los Angeles has a whole bunch of injury issues themselves to work through. The good news is that Keenan Allen and Mike Williams have been practicing, though their return is still far from guaranteed. 
+
+##### _Weather_
+
+Dome game
+
+##### _History_
