@@ -214,13 +214,9 @@ The Cowboys are coming off a loss against Green Bay. Granted, the Packers were d
 
 ##### _Injuries_
 
-Hunter Renfrow and Darren Waller have slid down into injured reserve, meaning the Raiders now definitively have only two certified weapons on offense - Davonte Adams and Josh Jacobs.
-
-Denver seems to be missing some pieces along the interior of their offensive line. Jerry Jeudy is the bigger concern here. His practice schedule has to be monitored.
-
 ##### _Weather_
 
-Cool weather
+Dome game
 
 ##### _History_
 
