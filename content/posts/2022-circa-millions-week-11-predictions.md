@@ -210,9 +210,13 @@ I do expect the Raiders defense to play better than last week, and it'll be easi
 Packers - 1L  
 Vikings - 7W
 
-The Cowboys are coming off a loss against Green Bay. Granted, the Packers were desperate for  
+The Cowboys are coming off a loss against Green Bay. Granted, the Packers were desperate for a win after suffering through a whole bunch of losses, but the Cowboys lost this game surrendering a double-digit lead in the fourth quarter. That's pretty pathetic.
 
 ##### _Injuries_
+
+Regarding Dallas, their first cornerback is dealing with a concussion. Ezekiel Elliott isn't guaranteed to return. And DeMarcus Lawrence is apparently dealing with a foot injury that threatens to sideline him.
+
+We need to keep an eye on Za'Darius Smith, given he has a knee contusion.
 
 ##### _Weather_
 
