@@ -156,8 +156,8 @@ New York came pretty close a few weeks ago, but the team ultimately collapsed on
 
 ***
 
-In normal circumstances, the Patriots wouldn't merit such a wide spread against a good team. But the game between these two teams a few weeks ago has shown me the Jets have issues finding the mental fortitude to overcome that "little brother" vibe holding them back. 
+In normal circumstances, the Patriots wouldn't merit such a wide spread against a good team. But the game between these two clubs a few weeks ago shows me that the Jets have issues finding the mental fortitude to overcome that "little brother" vibe holding them back. That mental block by itself should damn them in this contest.
 
-On top of that, a good defensive mind should know the proper way to frustrate New York on offense is to limit their production on the ground game. The Patriots were able to do exactly that in their first go-around. I don't see why things would be any different this time around, though Mike LaFleur could finally impress me by manufacturing production through a game plan that would throw the Patriots off completely. Then again, even with a solid game plan, can Zack Wilson steel himself long enough and follow through with the plan?
+On top of that, a good defensive mind should know the proper way to frustrate New York on offense is to limit their production on the ground game. The Patriots were able to do exactly that in their first go-around. I don't see why things would be any different this time around, though Mike LaFleur could finally impress me by manufacturing production through a game plan incorporating a whole bunch of tactics that the Patriots were not expecting at all. Then again, even with a solid game plan, can Zack Wilson steel himself long enough to follow through and lead his team to a victory on enemy territory?
 
 ***
