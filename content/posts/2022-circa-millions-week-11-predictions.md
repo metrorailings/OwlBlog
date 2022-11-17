@@ -181,6 +181,6 @@ Denver seems to be missing some pieces along the interior of their offensive lin
 
 ##### _Weather_
 
-It's going to be a cold one
+Cool weather
 
 ##### _History_
