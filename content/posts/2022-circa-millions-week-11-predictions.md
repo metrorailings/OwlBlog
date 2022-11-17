@@ -122,3 +122,42 @@ But the Rams are a hot mess. An absolute hot mess. The heart and soul of their o
 If the Rams play as ugly as they did last Sunday, a Saints cover is assured here. But I'm afraid Los Angeles will pull out all the tricks here to try and steal a win here on the road. And you know what? They could win this one here if they string together enough scoring drives through a combination of gimmick plays and surprising quarterback play.
 
 Then again, Carolina made money the past couple weeks by leaning on its running game. Los Angeles can't quite do that now, can they?
+
+***
+
+### Jets @ Patriots (-3.5)
+
+***
+
+##### _Streaks_
+
+Jets - 1W (BYE)  
+Patriots - 2W (BYE)
+
+Both teams are returning from the bye on a winning streak.
+
+##### _Injuries_
+
+Sheldon Rankins will be out for several weeks, perhaps hurting their rushing defense.
+
+##### _Weather_
+
+It's going to be a cold one
+
+##### _History_
+
+It seems probable to me that the Jets have an inferiority complex against these Patriots. Belichick has dominated every single one of their meetings so far in the Robert Saleh era.
+
+New York came pretty close a few weeks ago, but the team ultimately collapsed once New England started running away with the lead. 
+
+***
+
+### Patriots -3.5
+
+***
+
+In normal circumstances, the Patriots wouldn't merit such a wide spread against a good team. But the game between these two teams a few weeks ago has shown me the Jets have issues finding the mental fortitude to overcome that "little brother" vibe holding them back. 
+
+On top of that, a good defensive mind should know the proper way to frustrate New York on offense is to limit their production on the ground game. The Patriots were able to do exactly that in their first go-around. I don't see why things would be any different this time around, though Mike LaFleur could finally impress me by manufacturing production through a game plan that would throw the Patriots off completely. Then again, even with a solid game plan, can Zack Wilson steel himself long enough and follow through with the plan?
+
+***
