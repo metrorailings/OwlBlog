@@ -274,3 +274,24 @@ It all comes down to injuries here. If the Chargers are playing with their two m
 But if Mike Williams and Keenan Allen aren't playing, Justin Herbert's only major weapon is Austin Ekeler. And it shouldn't be hard for somebody like Steve Spagnuolo to figure out how to limit him.
 
 That being said, it's almost certain both receivers will be questionable following Friday practice. I wish there was a way to figure out whether these two are playing definitively. If I can't come to any conclusions here regarding their playing status, it might be best to stay away from this game.
+
+***
+
+### Bengals @ Steelers (+4)
+
+***
+
+##### _Streaks_
+
+Bengals - 1W (BYE)  
+Steelers - 1W
+
+##### _Injuries_
+
+Outside of Ja'Marr Chase recuperating from injury and Minkah Fitzpatrick trying to return from appendicitis, both teams are pretty healthy. It's worth noting that DJ Reader will finally return from injured reserve. 
+
+##### _Weather_
+
+Quite cold, but nothing crazy
+
+##### _History_
