@@ -148,7 +148,7 @@ It's going to be a cold one
 
 It seems probable to me that the Jets have an inferiority complex against these Patriots. Belichick has dominated every single one of their meetings so far in the Robert Saleh era.
 
-New York came pretty close a few weeks ago, but the team ultimately collapsed once New England started running away with the lead. 
+New York came pretty close a few weeks ago, but the team ultimately collapsed once New England started running away with the lead.
 
 ***
 
@@ -253,7 +253,7 @@ Los Angeles losing probably doesn't mean too much given the Chargers went to war
 
 The Chiefs themselves are dealing with a few injuries, most notably to their wide receiver corps - Juju Smith-Schuster, Mecole Hardman, and MVS haven't really been practicing.
 
-Los Angeles has a whole bunch of injury issues themselves to work through. The good news is that Keenan Allen and Mike Williams have been practicing, though their return is still far from guaranteed. 
+Los Angeles has a whole bunch of injury issues themselves to work through. The good news is that Keenan Allen and Mike Williams have been practicing, though their return is still far from guaranteed.
 
 ##### _Weather_
 
@@ -269,4 +269,6 @@ Their last game was a bit odd. The Chargers were able to dominate that contest o
 
 ***
 
-It all comes down to injuries here.
+It all comes down to injuries here. If the Chargers are playing with their two man receivers healthy, I think Herbert will have a ball of a time here against a Chiefs defense known for surrendering yards to the Chargers. I also think Los Angeles will do a better job this time of protecting Justin.
+
+But if Mike Williams and Keenan Allen aren't playing, Justin Herbert's only major weapon is Austin Ekeler. And it shouldn't be hard for somebody like Steve Spagnuolo to figure out how to limit him.
