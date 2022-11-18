@@ -272,3 +272,5 @@ Their last game was a bit odd. The Chargers were able to dominate that contest o
 It all comes down to injuries here. If the Chargers are playing with their two man receivers healthy, I think Herbert will have a ball of a time here against a Chiefs defense known for surrendering yards to the Chargers. I also think Los Angeles will do a better job this time of protecting Justin.
 
 But if Mike Williams and Keenan Allen aren't playing, Justin Herbert's only major weapon is Austin Ekeler. And it shouldn't be hard for somebody like Steve Spagnuolo to figure out how to limit him.
+
+That being said, it's almost certain both receivers will be questionable following Friday practice. I wish there was a way to figure out whether these two are playing definitively. If I can't come to any conclusions here regarding their playing status, it might be best to stay away from this game.
