@@ -306,4 +306,6 @@ It took several weeks, but the Bengals might have finally figured a way around t
 
 ***
 
-As I just mentioned, Cincinnati may have finally solved its issues with two-deep safety coverage schemes by leaning on Joe Mixon to gash through six and seven-man boxes.
+As I just mentioned, Cincinnati may have finally solved its issues with two-deep safety coverage schemes by leaning on Joe Mixon to gash through six and seven-man boxes. Now Pittsburgh is pretty good defensing the running game, but their rushing defense wanes considerably when going against an offense that knows how to pass the ball. Cincinnati arguably qualifies as such an offense, even without Ja'Marr Chase.
+
+I suppose that's the real crux of the matter here - can the Bengals actually operate a passing game without their star wide receiver. I suspect yes. Don't expect anything impressive, but if Burrow can connect with Tyler Boyd and Tee Higgins over a dozen or so times while Joe Mixon makes some hay over ground, then the Bengals can post enough points here to win on the road.  
