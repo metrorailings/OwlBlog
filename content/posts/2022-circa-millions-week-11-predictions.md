@@ -27,7 +27,9 @@ Buffalo's reeling after two surprise losses.
 
 ##### _Injuries_
 
-Josh Allen needs to be monitored through the week.
+The only major concern for Cleveland is tight end David Njoku, who's dealing with an ankle issue that popped up this week.
+
+For the Bills, Josh Allen is healthy. The biggest injury concern is Matt Milano, who's listed as questionable. Without him, the running defense does take a bit of a hit. 
 
 ##### _Weather_
 
@@ -288,7 +290,7 @@ Steelers - 1W
 
 ##### _Injuries_
 
-Outside of Ja'Marr Chase recuperating from injury and Minkah Fitzpatrick trying to return from appendicitis, both teams are pretty healthy. It's worth noting that DJ Reader will finally return from injured reserve. 
+Outside of Ja'Marr Chase recuperating from injury and Minkah Fitzpatrick trying to return from appendicitis, both teams are pretty healthy. It's worth noting that DJ Reader will finally return from injured reserve.
 
 ##### _Weather_
 
@@ -308,4 +310,4 @@ It took several weeks, but the Bengals might have finally figured a way around t
 
 As I just mentioned, Cincinnati may have finally solved its issues with two-deep safety coverage schemes by leaning on Joe Mixon to gash through six and seven-man boxes. Now Pittsburgh is pretty good defensing the running game, but their rushing defense wanes considerably when going against an offense that knows how to pass the ball. Cincinnati arguably qualifies as such an offense, even without Ja'Marr Chase.
 
-I suppose that's the real crux of the matter here - can the Bengals actually operate a passing game without their star wide receiver. I suspect yes. Don't expect anything impressive, but if Burrow can connect with Tyler Boyd and Tee Higgins over a dozen or so times while Joe Mixon makes some hay over ground, then the Bengals can post enough points here to win on the road.  
+I suppose that's the real crux of the matter here - can the Bengals actually operate a passing game without their star wide receiver. I suspect yes. Don't expect anything impressive, but if Burrow can connect with Tyler Boyd and Tee Higgins over a dozen or so times while Joe Mixon makes some hay over ground, then the Bengals can post enough points here to win on the road.
