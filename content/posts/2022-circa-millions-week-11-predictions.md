@@ -49,7 +49,7 @@ I'm not sure. Does Buffalo deserve to be nearly double-digit favorites against C
 
 Normally, this is a game Buffalo should dominate from start to finish. The Bills should win this game, but the question becomes whether Cleveland can stealthily cover this spread in garbage time. Judging by their last three games, the Bills have issues finishing games out with an exclamation point.
 
-EDIT: So the Bills missed a day of practice due to inclement weather. And on top of that, the game's now being played in Detroit. The line has dropped relatively sharply in favor of the Browns.
+EDIT: So the Bills missed a day of practice due to inclement weather. And on top of that, the game's now being played in Detroit. The line has dropped relatively sharply in favor of the Browns. So does that mean I take Buffalo here? Sigh...
 
 ***
 
