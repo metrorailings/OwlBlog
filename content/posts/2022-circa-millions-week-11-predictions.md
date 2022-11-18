@@ -295,3 +295,15 @@ Outside of Ja'Marr Chase recuperating from injury and Minkah Fitzpatrick trying 
 Quite cold, but nothing crazy
 
 ##### _History_
+
+The first time these two teams met, Pittsburgh was able to singlehandedly control this game through its defense. By incorporating so many two-deep safety looks in coverage, Cincinnati couldn't hit its signature big throws, so Burrow and company could never settle into rhythm.
+
+It took several weeks, but the Bengals might have finally figured a way around that coverage scheme.
+
+***
+
+#### Bengals -4
+
+***
+
+As I just mentioned, Cincinnati may have finally solved its issues with two-deep safety coverage schemes by leaning on Joe Mixon to gash through six and seven-man boxes.
