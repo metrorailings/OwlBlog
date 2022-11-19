@@ -313,3 +313,75 @@ It took several weeks, but the Bengals might have finally figured a way around t
 As I just mentioned, Cincinnati may have finally solved its issues with two-deep safety coverage schemes by leaning on Joe Mixon to gash through six and seven-man boxes. Now Pittsburgh is pretty good defensing the running game, but their rushing defense wanes considerably when going against an offense that knows how to pass the ball. Cincinnati arguably qualifies as such an offense, even without Ja'Marr Chase.
 
 I suppose that's the real crux of the matter here - can the Bengals actually operate a passing game without their star wide receiver. I suspect yes. Don't expect anything impressive, but if Burrow can connect with Tyler Boyd and Tee Higgins over a dozen or so times while Joe Mixon makes some hay over ground, then the Bengals can post enough points here to win on the road.
+
+***
+
+### Commanders @ Texans (+3.5)
+
+***
+
+##### _Streaks_
+
+Commanders - 1W  
+Texans - 4L
+
+##### _Injuries_
+
+Only injury of concern for the Texans is Rasheem Green, who seems to be bogged down with a flu.
+
+##### _Weather_
+
+Pretty pleasant weather considering we're in November
+
+##### _History_
+
+No real history between these two organizations
+
+***
+
+### Texans +3.5
+
+***
+
+Man, I feel sick taking the Texans here. But Washington is not yet a good enough team to merit a road spread favoring them, even if it's against a team as pathetic as Houston. On top of that, we are seeing a major split in the betting markets - we're seeing nearly 50 percentage points of difference between the ticket count and the money distribution. Houston is getting 85% of the money despite only having 37% of the tickets written against the spread in their favor.
+
+***
+
+### 49ers vs Cardinals (+8) \[Mexico\]
+
+***
+
+##### _Streaks_
+
+49ers - 2W  
+Cardinals - 4L
+
+##### _Injuries_
+
+Arik Armstead is trending towards not playing this Monday.
+
+Kyler Murray is still trying to progress back from injury, though it seems unlikely he'll play given what's being said about his lack of mobility. Colt McCoy looks to start again, despite dealing with a knee injury himself. Zach Ertz is done for the season with his own knee problems.
+
+##### _Weather_
+
+Fantastic weather despite this game being set at high altitude
+
+##### _History_
+
+Going back the last 3 years, Arizona and Kliff Kingsbury seem to do quite well against San Francisco. In fact, the Cardinals actually ended up sweeping the 49ers last year, despite Colt McCoy starting in their second game.
+
+It's worth noting San Francisco was absolutely handled last year on their own home turf by Colt and company.
+
+***
+
+### Cardinals +8
+
+***
+
+Honestly, if this game was played in the United States, this would be an easy Cardinals pick. Arizona's offense is objectively better with Colt McCoy under center instead of Kyler Murray, especially in the second half of the season. Things right now are trending towards him starting once more, potentially with Kyler serving as an emergency back-up.
+
+I expect DeMeco Ryans will be better prepared this season knowing that Arizona housed his defense twice last year. But I do think this San Francisco defense is limited - their success largely hinges on their ability to muster pressure on opposing quarterbacks. But if last week's game against the Rams is any indication, Arizona does well taming rival pass rushers in their division. If Nick Bosa cannot consistently generate pressure, Arizona should post points.
+
+But here's the problem - this is an international game being played on a soccer field. I worry about this. Soccer fields are very rough and not built to handle a game of gridiron football. Expect players to be slipping and sliding all over the place. A part of me is praying that Kliff can anticipate this and strategize around these poor field conditions. 
+
+But if anything, this is going to hurt Kyle Shanahan's offense more. His offense is predicated more on gaining yards after the catch. It won't be easy doing that when the turf monster is out there as the twelfth man on defense.
