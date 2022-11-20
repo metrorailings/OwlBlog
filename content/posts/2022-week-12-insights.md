@@ -13,3 +13,17 @@ Green Bay may have some serious issues on defense. I see them biting a bit too e
 Aaron Rodgers just doesn't trust any of his receivers. For good reason too, it seems like. None of them have really stood out as excellent receivers. It's clear Rodgers needs dominant receivers to really be successful. Guys like Davonte Adams, Greg Jennings, etc...
 
 That being said, Christian Watson and Allen Lazard have shown flashes of greatness every now and then.
+
+***
+
+## Cowboys @ Vikings
+
+The Fangio-style of defense cannot be trusted against power rushing attacks so long as the team is missing a dominant defensive tackle.
+
+Kirk has been flustered by the blitz all game long. It's clear he's far from elite. Not a liability, but definitely not elite.
+
+***
+
+## Raiders @ Broncos
+
+The Fangio-style of defense cannot be trusted against power rushing attacks so long as the team is missing a dominant defensive tackle.
