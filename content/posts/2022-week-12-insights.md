@@ -16,14 +16,30 @@ That being said, Christian Watson and Allen Lazard have shown flashes of greatne
 
 ***
 
+## Lions @ Giants
+
+Aidan Hutchinson has been a sensation.
+
+Daniel Jones can't be trusted to carry this offense on his shoulders, period. In his defense, the guy needs better receivers.
+
+***
+
 ## Cowboys @ Vikings
 
 The Fangio-style of defense cannot be trusted against power rushing attacks so long as the team is missing a dominant defensive tackle.
 
 Kirk has been flustered by the blitz all game long. It's clear he's far from elite. Not a liability, but definitely not elite.
 
+Dallas has learned its mistakes from last week, opting to double down on their ground game. 
+
 ***
 
 ## Raiders @ Broncos
 
 The Fangio-style of defense cannot be trusted against power rushing attacks so long as the team is missing a dominant defensive tackle.
+
+***
+
+## Bengals @ Steelers
+
+Pittsburgh has decoded Cincinnati's protection schemes. Half their sacks so far this season have come against the Bengals.
