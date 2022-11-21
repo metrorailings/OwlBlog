@@ -38,6 +38,8 @@ Dallas has learned its mistakes from last week, opting to double down on their g
 
 The Fangio-style of defense cannot be trusted against power rushing attacks so long as the team is missing a dominant defensive tackle.
 
+Denver can be way too presumptive at times. You have coverage defenders trying to jump routes and make plays.
+
 ***
 
 ## Bengals @ Steelers
