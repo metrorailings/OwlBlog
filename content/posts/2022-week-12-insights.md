@@ -56,3 +56,5 @@ The Cardinals and their lack of conditioning really shows at this high-altitude 
 ## Browns vs Bills
 
 Buffalo can run the ball, even against heavier boxes. Either that or Cleveland is really bad defensing the run. Their linebackers have no sense of gap integrity.
+
+Josh Allen has been pretty lousy in the first half. Not even hitting the easy passes.
