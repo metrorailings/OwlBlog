@@ -50,3 +50,9 @@ Pittsburgh has decoded Cincinnati's protection schemes. Half their sacks so far 
 ## 49ers vs Cardinals
 
 The Cardinals and their lack of conditioning really shows at this high-altitude stadium in Mexico. The 49ers were rewarded for practicing near Mile High Stadium while Arizona is being punished for their lack of conditioning going up against a San Francisco team that spreads the field laterally and incorporates a whole bunch of concepts in their ground game.
+
+***
+
+## Browns vs Bills
+
+Buffalo can run the ball, even against heavier boxes. Either that or Cleveland is really bad defensing the run. Their linebackers have no sense of gap integrity.
