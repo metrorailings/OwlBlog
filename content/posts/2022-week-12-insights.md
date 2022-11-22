@@ -30,7 +30,7 @@ The Fangio-style of defense cannot be trusted against power rushing attacks so l
 
 Kirk has been flustered by the blitz all game long. It's clear he's far from elite. Not a liability, but definitely not elite.
 
-Dallas has learned its mistakes from last week, opting to double down on their ground game. 
+Dallas has learned its mistakes from last week, opting to double down on their ground game.
 
 ***
 
@@ -45,3 +45,9 @@ Denver can be way too presumptive at times. You have coverage defenders trying t
 ## Bengals @ Steelers
 
 Pittsburgh has decoded Cincinnati's protection schemes. Half their sacks so far this season have come against the Bengals.
+
+***
+
+## 49ers vs Cardinals
+
+The Cardinals and their lack of conditioning really shows at this high-altitude stadium in Mexico. The 49ers were rewarded for practicing near Mile High Stadium while Arizona is being punished for their lack of conditioning going up against a San Francisco team that spreads the field laterally and incorporates a whole bunch of concepts in their ground game.
