@@ -9,3 +9,7 @@ headline = "Week 12 Insights"
 Ed Oliver may be a defensive lineman worth watching. He's been pretty sensational this game.
 
 Josh Allen....just no. I don't see any composure in his game. Elite, he is not.
+
+Ben Johnson is truly a special offensive coach. 
+
+Good work by Detroit hemming Josh Allen into the pocket.
