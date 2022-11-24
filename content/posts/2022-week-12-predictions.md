@@ -21,3 +21,13 @@ So forget the contest. Let's just focus on making good picks here. It shouldn't 
 ### Falcons @ Commanders (-4.5)
 
 ***
+
+##### _Recent History_
+
+**Falcons  
+**@ Carolina (L) (No cover)  
+vs Bears (W) (Push)
+
+**Commanders**  
+@ Eagles (W) (Cover)  
+@ Texans (W) (Cover)
