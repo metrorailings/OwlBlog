@@ -17,3 +17,7 @@ Just looking through the game logs though, I see Daniel Jones and Matt Breida di
 So forget the contest. Let's just focus on making good picks here. It shouldn't be this damn difficult.
 
 ***
+
+### Falcons @ Commanders (-4.5)
+
+***
