@@ -67,14 +67,14 @@ Washington will find ways to score against Atlanta's defense. My thesis here is 
 ##### _Recent History_
 
 **Ravens**  
-@ Saints (W) (Favorite)  
-vs Bears (W) (Favorite)
+@ Saints (W) \[MNF\]  
+BYE  
+vs Panthers (W)
 
-**Commanders**  
-@ Eagles (W) (Underdog)  
-@ Texans (W) (Favorite)
-
-##### 
+**Jaguars  
+**Raiders (W)  
+@ Chiefs (L)  
+BYE
 
 ##### _Injuries_
 
@@ -83,3 +83,5 @@ No major injury news worth noting.
 ##### _Weather_
 
 Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
+
+##### _Prior Meetings_
