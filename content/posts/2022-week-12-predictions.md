@@ -72,7 +72,7 @@ BYE
 vs Panthers (W)
 
 **Jaguars  
-**Raiders (W)  
+**vs Raiders (W)  
 @ Chiefs (L)  
 BYE
 
@@ -101,3 +101,40 @@ That being said, Jacksonville is still one of the better teams at limiting oppos
 ***
 
 ### Bears @ Jets (-6)
+
+***
+
+##### _Recent History_
+
+**Bears**  
+Lions (L)  
+@ Falcons (L)
+
+**Jets  
+**Bills (W)  
+BYE  
+@ Patriots (L)
+
+##### _Injuries_
+
+##### _Weather_
+
+Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
+
+##### _Prior Meetings_
+
+No prior contests between these two, but it's worth noting the style of defense Mike Caldwell likes to run is very similar to the type of defense Baltimore has embraced in recent years.
+
+***
+
+### Uncertain
+
+***
+
+It's not the best idea to take a road favorite with a shoddy comeback record. But Jacksonville may well be one of the worst teams in the league. And the field goal kicker is  unreliable given he's cost the team the cover in their game against the Chiefs.
+
+That being said, Jacksonville is still one of the better teams at limiting opposing rushers. It makes sense too, given the youth and athleticism of their defensive front. Players like Fatukasi, Josh Allen, Oluokun, and Travon Walker can hold court with the best rushers.
+
+***
+
+### 
