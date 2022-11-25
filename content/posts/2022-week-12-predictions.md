@@ -161,3 +161,9 @@ BYE
 Starting cornerback Derek Stingley might be missing in action for the Texans, not that it matters much.
 
 No serious injuries are expected to affect Miami. Raheem Mostert isn't practicing, but I suspect they'll be fine.
+
+##### _Weather_
+
+It is expected to be hot and humid. Then again, the weather in Houston and the weather in Miami isn't all that different, I think.
+
+##### _Prior Meetings_
