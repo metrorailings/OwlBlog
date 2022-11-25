@@ -48,4 +48,6 @@ When both these teams met last year in Atlanta, the Commanders were able to gut 
 
 ***
 
- 
+### Falcons +4.5
+
+***
