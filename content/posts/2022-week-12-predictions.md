@@ -25,12 +25,12 @@ So forget the contest. Let's just focus on making good picks here. It shouldn't 
 ##### _Recent History_
 
 **Falcons**  
-@ Carolina (L) (Favorite)  
-vs Bears (W) (Favorite)
+@ Carolina (L) \[TNF\]  
+vs Bears (W)
 
 **Commanders**  
-@ Eagles (W) (Underdog)  
-@ Texans (W) (Favorite)
+@ Eagles (W) \[MNF\]  
+@ Texans (W)
 
 ##### _Injuries_
 
@@ -42,7 +42,7 @@ The Commanders expect some positive developments this weekend, most notably with
 
 It'll be a wet one, with rain expected from start to finish
 
-##### _Recent History_
+##### _Prior Meetings_
 
 When both these teams met last year in Atlanta, the Commanders were able to gut out a last-second comeback. But that Atlanta team was very different from this year's Atlanta club. Nothing actually illustrates this better than their run/pass splits. Last season's Falcons preferred passing the ball on over 60% of the snaps, whereas the offense this season has fully embraced the ground game now that a mobile quarterback in Marcus Mariota is at its helm.
 
@@ -65,6 +65,16 @@ Washington will find ways to score against Atlanta's defense. My thesis here is 
 ***
 
 ##### _Recent History_
+
+**Ravens**  
+@ Saints (W) (Favorite)  
+vs Bears (W) (Favorite)
+
+**Commanders**  
+@ Eagles (W) (Underdog)  
+@ Texans (W) (Favorite)
+
+##### 
 
 ##### _Injuries_
 
