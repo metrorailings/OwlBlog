@@ -51,3 +51,9 @@ When both these teams met last year in Atlanta, the Commanders were able to gut 
 ### Falcons +4.5
 
 ***
+
+This is mainly a schedule play. Washington is coming off two solid road wins, one of them against an Eagles team that had yet to experience defeat this season. Now they return home as decisive favorites against an Atlanta team that's still not all that respected around the league. 
+
+The reality is that Atlanta is not that bad a team. I know Washington's one of the best teams in the league at defending against rush games, but Philadelphia's demonstrated that run packages incorporating the quarterback option can find real success against the Commander defense.
+
+***
