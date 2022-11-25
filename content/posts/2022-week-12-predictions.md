@@ -36,6 +36,8 @@ vs Bears (W) (Favorite)
 
 ##### _Weather_
 
+It'll be a wet one, with rain expected from start to finish
+
 ##### _Recent History_
 
 When both these teams met last year in Atlanta, the Commanders were able to gut out a last-second comeback. But that Atlanta team was very different from this year's Atlanta club. Nothing actually illustrates this better than their run/pass splits. Last season's Falcons preferred passing the ball on over 60% of the snaps, whereas the offense this season has fully embraced the ground game now that a mobile quarterback in Marcus Mariota is at its helm.
