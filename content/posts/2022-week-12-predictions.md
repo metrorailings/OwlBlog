@@ -131,14 +131,10 @@ There's no recent meetings between these two organizations. It also seems their 
 
 ***
 
-### Uncertain
+### Bears +6
 
 ***
 
-It's not the best idea to take a road favorite with a shoddy comeback record. But Jacksonville may well be one of the worst teams in the league. And the field goal kicker is  unreliable given he's cost the team the cover in their game against the Chiefs.
+Are the Jets good enough to merit such a wide spread here? I mean, New York lacks any offense especially after losing Breece Hall. Granted, we're going to see some changes now that the team has benched Zack Wilson in favor of Mike White. But is Mike White much of an upgrade? He's shown an appreciation for taking profits whenever possible. And it seems he's more willing to follow through with whatever game plan Mike LaFleur draws up. But whether he could lead this team back from negative game script or sustain drives without turning the ball over remains to be seen. I didn't see enough last year to conclude anything.
 
-That being said, Jacksonville is still one of the better teams at limiting opposing rushers. It makes sense too, given the youth and athleticism of their defensive front. Players like Fatukasi, Josh Allen, Oluokun, and Travon Walker can hold court with the best rushers.
-
-***
-
-### 
+Let's be honest - the Bears are bad. But their coaching has been impressive considering the man leading their offense was meant to be a tailback. 
