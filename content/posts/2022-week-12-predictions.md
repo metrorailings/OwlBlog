@@ -68,6 +68,8 @@ Washington will find ways to score against Atlanta's defense. My thesis here is 
 
 ##### _Injuries_
 
+No major injury news worth noting.
+
 ##### _Weather_
 
 Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
