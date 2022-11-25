@@ -85,3 +85,5 @@ No major injury news worth noting.
 Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
 
 ##### _Prior Meetings_
+
+No prior contests between these two, but it's worth noting the style of defense Mike Caldwell likes to run is very similar to the type of defense Baltimore has embraced in recent years.
