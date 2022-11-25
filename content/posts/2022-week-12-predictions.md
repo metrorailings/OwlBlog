@@ -178,7 +178,7 @@ Miami won rather comfortably in what was a very low-scoring affair. I suppose th
 
 ***
 
-Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add on top this swagger that's taken over the team this season and the Dolphins are truly one of the best teams in the league. 
+Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add this infectious swagger that's taken over the team this season under new head coach Mike McDaniel and these Dolphins are absolutely rocking. 
 
 More importantly, the Texans may well be the worst team in the league, so it's only appropriate an offensive powerhouse like Miami is favored by double digits here. In fact, on the subject of these Texans, the club has nothing positive trending in its favor. Very few pieces of the roster are actually salvageable, especially now that Davis Mills has been benched. The coaching is shoddy and devoid of vision. Morale has sunk across the organization. Outside of draft picks and a few select players, this team has nothing.
 
