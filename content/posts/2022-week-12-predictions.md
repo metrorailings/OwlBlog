@@ -167,3 +167,19 @@ No serious injuries are expected to affect Miami. Raheem Mostert isn't practicin
 It is expected to be hot and humid. Then again, the weather in Houston and the weather in Miami isn't all that different, I think.
 
 ##### _Prior Meetings_
+
+Houston and Miami met last year in drastically different circumstances. Not only were both teams led by different quarterbacks, both teams were suffering through prolonged losing streaks. Miami was led by a different coaching regime, one that was notably toxic due to the authoritarian style of then head coach Brian Flores.
+
+Miami won rather comfortably in what was a very low-scoring affair. I suppose the Dolphins could have posted up more points on a better day, but Jacoby Brissett turned over the ball twice in the second half. Not much has changed for Houston since then - the Dolphins meanwhile have been born again under new head coach Mike McDaniel.
+
+***
+
+### Dolphins -14
+
+***
+
+Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. 
+
+More importantly, the Texans may well be the worst team in the league, so it's only appropriate an offensive powerhouse like Miami is favored by double digits here. In fact, on the subject of these Texans, the club has nothing positive trending in its favor. Very few pieces of the roster are actually salvageable, especially now that Davis Mills has been benched. The coaching is shoddy and devoid of vision. Morale has sunk across the organization. Outside of draft picks and a few select players, this team has nothing.
+
+Meanwhile, Miami is currently in the lead for the division crown in a division loaded with teams boasting winning records. As much as the Dolphins may want to slack off here, the reality is that it needs to win to stay competitive. I'm banking on Miami being very willing to run up the score against an aimless Houston outfit divided against itself.
