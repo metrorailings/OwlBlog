@@ -100,4 +100,4 @@ That being said, Jacksonville is still one of the better teams at limiting oppos
 
 ***
 
- 
+### Bears @ Jets (-6)
