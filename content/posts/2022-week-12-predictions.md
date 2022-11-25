@@ -56,4 +56,6 @@ This is mainly a schedule play. Washington is coming off two solid road wins, on
 
 The reality is that Atlanta is not that bad a team. I know Washington's one of the best teams in the league at defending against rush games, but Philadelphia's demonstrated that run packages incorporating the quarterback option can find real success against the Commander defense.
 
+Washington will find ways to score against Atlanta's defense. My thesis here is that their defense will be playing at far less than full potential, paving the way for the Falcons to score as well. If the Falcons offense can keep pace with their counterparts on Washington, the cover is guaranteed.
+
 ***
