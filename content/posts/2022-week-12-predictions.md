@@ -140,3 +140,24 @@ Are the Jets good enough to merit such a wide spread here? I mean, New York lack
 Let's be honest - the Bears are bad. But their coaching has been impressive considering  they've managed to engineer a productive offense around a running back masquerading as a quarterback. If Trevor Siemian is forced to start this Sunday, I could actually see the the coaches use the opportunity to tap into some of their receiving potential now that an actual passer is helming the offense. In fact, it's for that reason that I expect Fields to be kept sidelined this week - the coaches have been waiting for a moment like this to actually evaluate their skill players on offense. It'd be wise to use his injury situation to do just that, even if Trevor is average at best at passer.  
 
 ***
+
+### Texans @ Dolphins (-14)
+
+***
+
+##### _Recent History_
+
+**Texans**  
+@ Giants (L)  
+Commanders (L)
+
+**Dolphins**  
+@ Bears (W)  
+Browns (W)  
+BYE
+
+##### _Injuries_
+
+Starting cornerback Derek Stingley might be missing in action for the Texans, not that it matters much.
+
+No serious injuries are expected to affect Miami. Raheem Mostert isn't practicing, but I suspect they'll be fine.
