@@ -34,6 +34,10 @@ vs Bears (W) (Favorite)
 
 ##### _Injuries_
 
+Atlanta's down a significant weapon on offense now that Kyle Pitts has blown out his knee. It'll be up to their depth receivers to make up for that loss.
+
+The Commanders expect some positive developments this weekend, most notably with Chase Young. Young is expected back for this match.
+
 ##### _Weather_
 
 It'll be a wet one, with rain expected from start to finish
