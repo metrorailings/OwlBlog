@@ -59,3 +59,15 @@ The reality is that Atlanta is not that bad a team. I know Washington's one of t
 Washington will find ways to score against Atlanta's defense. My thesis here is that their defense will be playing at far less than full potential, paving the way for the Falcons to score as well. If the Falcons offense can keep pace with their counterparts on Washington, the cover is guaranteed.
 
 ***
+
+### Ravens @ Jaguars (+4.5)
+
+***
+
+##### _Recent History_
+
+##### _Injuries_
+
+##### _Weather_
+
+Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
