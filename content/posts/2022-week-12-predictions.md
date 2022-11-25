@@ -12,7 +12,7 @@ My other embarrassing losses were the Giants and the Cardinals. I won't beat mys
 
 The Giants, though...I'm not sure what happened there. Detroit's defense ranks among the worst in many categories this year, but they were still able to restrain Saquon Barkley, limiting him to 1.5 yards a carry. Given their lack of receiving weaponry and Daniel Jones with his occasionally erratic decision-making, a loss is all but assured when a defense is able to bottle up Saquon like that - Seattle and now Detroit has proven this. But the Lions shouldn't have been able to stone New York's ground game like that. Their defensive front and linebackers aren't world beaters.
 
-Just looking through the game logs though, I see Daniel Jones and Matt Breida did just fine running the ball against the Lions. It was Saquon who kept failing to succeed. In fact, just about every single one of his rushes ended up being unsuccessful. It's dawning on me that not only are the Giants hurting at receiver and tight end, but their tailback situation may be in grave danger if some injury is nipping away at Barkley and preventing him from those explosive gains that's given New York's offense so much life. 
+Just looking through the game logs though, I see Daniel Jones and Matt Breida did just fine running the ball against the Lions. It was Saquon who kept failing to succeed. In fact, just about every single one of his rushes ended up being unsuccessful. It's dawning on me that not only are the Giants hurting at receiver and tight end, but their tailback situation may be in grave danger if some injury is nipping away at Barkley and preventing him from those explosive gains that's given New York's offense so much life.
 
 So forget the contest. Let's just focus on making good picks here. It shouldn't be this damn difficult.
 
@@ -24,10 +24,22 @@ So forget the contest. Let's just focus on making good picks here. It shouldn't 
 
 ##### _Recent History_
 
-**Falcons  
-**@ Carolina (L) (No cover)  
-vs Bears (W) (Push)
+**Falcons**  
+@ Carolina (L) (Favorite)  
+vs Bears (W) (Favorite)
 
 **Commanders**  
-@ Eagles (W) (Cover)  
-@ Texans (W) (Cover)
+@ Eagles (W) (Underdog)  
+@ Texans (W) (Favorite)
+
+##### _Injuries_
+
+##### _Weather_
+
+##### _Recent History_
+
+When both these teams met last year in Atlanta, the Commanders were able to gut out a last-second comeback. But that Atlanta team was very different from this year's Atlanta club. Nothing actually illustrates this better than their run/pass splits. Last season's Falcons preferred passing the ball on over 60% of the snaps, whereas the offense this season has fully embraced the ground game now that a mobile quarterback in Marcus Mariota is at its helm.
+
+***
+
+ 
