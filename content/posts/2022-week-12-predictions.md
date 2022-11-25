@@ -117,13 +117,17 @@ BYE
 
 ##### _Injuries_
 
+Justin Fields is dealing with a bad shoulder, meaning it's possible Trevor Siemian could be starting for the Bears. 
+
+A few players on the Jets are injured, but it's nothing too serious. The good news is that Zach Wilson will be inactive this Sunday, as he's working through some serious leadership deficiencies.
+
 ##### _Weather_
 
-Expect quite a bit of humidity. That being said, the cloudy overcast should help make the heat more manageable.
+Rain is expected towards the second half of the game. It might make things a bit messy especially if this turns out to be a sloppy defensive affair.
 
 ##### _Prior Meetings_
 
-No prior contests between these two, but it's worth noting the style of defense Mike Caldwell likes to run is very similar to the type of defense Baltimore has embraced in recent years.
+There's no recent meetings between these two organizations. It also seems their coaches are unfamiliar with one another. 
 
 ***
 
