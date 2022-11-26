@@ -244,8 +244,20 @@ BYE
 
 ##### _Injuries_
 
+Both sides are fairly healthy.
+
 ##### _Weather_
+
+Expect a bit of rain. Things should be decent temperature-wise.
 
 ##### _Prior Meetings_
 
+Neither of these two teams nor their coaching staffs have met in any capacity.
+
 ***
+
+### Browns +3.5
+
+***
+
+We'll see whether this theory I have about streaks and extended road trips carries any weight. Lord knows it's hard enough for me to side with the Browns here. The Buccaneers have so much more reason to win this game - not only is their defense solid at limiting opposing rushers, but Tampa Bay's offense has found renewed life during their adventure in London. Yet...the fact that the Browns have lost twice on their recent road trip gives them all the motivation here to cover the spread and perhaps even stun the Buccaneers in an upset.
