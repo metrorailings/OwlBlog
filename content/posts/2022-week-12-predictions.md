@@ -226,3 +226,26 @@ So if Vegas winning against the Broncos is nothing more than the result of an in
 It'll be slow going considering the Seattle's returning from a bye. But if the Raiders continue playing as sloppy as they've been playing through the season, Geno Smith and company should have plenty of opportunities to rediscover their groove.
 
 ***
+
+### Buccaneers @ Browns (+3.5)
+
+***
+
+##### _Recent History_
+
+**Buccaneers**  
+vs. Rams (W)  
+vs. Seahawks \[London\] (W)  
+BYE
+
+**Browns**  
+@ Dolphins (L)  
+@ Bills (L)
+
+##### _Injuries_
+
+##### _Weather_
+
+##### _Prior Meetings_
+
+***
