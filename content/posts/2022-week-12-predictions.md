@@ -219,6 +219,10 @@ No recent history between these two and the interactions between the coaching st
 
 ***
 
-Seattle is undervalued here. The Seahawks are still a very good team on the cusp of a playoff berth while Vegas is anything but that. Sure, the Raiders won a tight one against the Broncos last week, but I'm starting to suspect that Denver harbors an inferiority complex against these Raiders dating back the last three or four years. After all, it's almost unfathomable to me that this season, Denver's surrendered the most points to a Vegas team that's been nothing but underwhelming. Denver's a truly elite defense too, which makes that fact all the more remarkable.
+Seattle is undervalued here. The Seahawks are still a very good team on the cusp of a playoff berth while Vegas is anything but that. Sure, the Raiders won a tight one against the Broncos last week, but I'm starting to suspect that Denver harbors an inferiority complex against these Raiders dating back years ago. I mean...it's almost unfathomable to me that so far this season, Denver's surrendered the most points to a Vegas team that's been nothing but underwhelming in every sense of the word. Denver's a truly elite defense too, which makes that fact all the more remarkable.
 
 So if Vegas winning against the Broncos is nothing more than the result of an inferiority complex, than that would mean this current point spread is unnecessarily inflated in their favor. And that makes sense considering Seattle's less than four-point favorites here despite having proven themselves time and time again.
+
+It'll be slow going considering the Seattle's returning from a bye. But if the Raiders continue playing as sloppy as they've been playing through the season, Geno Smith and company should have plenty of opportunities to rediscover their groove.
+
+***
