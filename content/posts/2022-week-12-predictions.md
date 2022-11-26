@@ -208,3 +208,7 @@ Josh Jacobs was a late addition to the injury report, so his status is truly que
 ##### _Weather_
 
 Dome game
+
+##### _Prior Meetings_
+
+No recent history between these two and the interactions between the coaching staff don't really merit much analysis here.
