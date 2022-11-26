@@ -52,7 +52,7 @@ When both these teams met last year in Atlanta, the Commanders were able to gut 
 
 ***
 
-This is mainly a schedule play. Washington is coming off two solid road wins, one of them against an Eagles team that had yet to experience defeat this season. Now they return home as decisive favorites against an Atlanta team that's still not all that respected around the league. 
+This is mainly a schedule play. Washington is coming off two solid road wins, one of them against an Eagles team that had yet to experience defeat this season. Now they return home as decisive favorites against an Atlanta team that's still not all that respected around the league.
 
 The reality is that Atlanta is not that bad a team. I know Washington's one of the best teams in the league at defending against rush games, but Philadelphia's demonstrated that run packages incorporating the quarterback option can find real success against the Commander defense.
 
@@ -71,8 +71,8 @@ Washington will find ways to score against Atlanta's defense. My thesis here is 
 BYE  
 vs Panthers (W)
 
-**Jaguars  
-**vs Raiders (W)  
+\**Jaguars  
+\**vs Raiders (W)  
 @ Chiefs (L)  
 BYE
 
@@ -110,14 +110,14 @@ That being said, Jacksonville is still one of the better teams at limiting oppos
 Lions (L)  
 @ Falcons (L)
 
-**Jets  
-**Bills (W)  
+\**Jets  
+\**Bills (W)  
 BYE  
 @ Patriots (L)
 
 ##### _Injuries_
 
-Justin Fields is dealing with a bad shoulder, meaning it's possible Trevor Siemian could be starting for the Bears. 
+Justin Fields is dealing with a bad shoulder, meaning it's possible Trevor Siemian could be starting for the Bears.
 
 A few players on the Jets are injured, but it's nothing too serious. The good news is that Zach Wilson will be inactive this Sunday, as he's working through some serious leadership deficiencies.
 
@@ -127,7 +127,7 @@ Rain is expected towards the second half of the game. It might make things a bit
 
 ##### _Prior Meetings_
 
-There's no recent meetings between these two organizations. It also seems their coaches are unfamiliar with one another. 
+There's no recent meetings between these two organizations. It also seems their coaches are unfamiliar with one another.
 
 ***
 
@@ -137,7 +137,7 @@ There's no recent meetings between these two organizations. It also seems their 
 
 Are the Jets good enough to merit such a wide spread here? I mean, New York lacks any offense especially after losing Breece Hall. Granted, we're going to see the offense change face now that Zach Wilson's been benched in favor of Mike White. But is White really much of an upgrade? I mean...sure, he's shown an appreciation for taking profits whenever possible. And it seems he's more willing to follow through with whatever game plan Mike LaFleur draws up. But whether he could lead this team back from negative game script or sustain drives without turning the ball over remains to be seen - I didn't see enough last year to conclude anything.
 
-Let's be honest - the Bears are bad. But their coaching has been impressive considering  they've managed to engineer a productive offense around a running back masquerading as a quarterback. If Trevor Siemian is forced to start this Sunday, I could actually see the the coaches use the opportunity to tap into some of their receiving potential now that an actual passer is helming the offense. In fact, it's for that reason that I expect Fields to be kept sidelined this week - the coaches have been waiting for a moment like this to actually evaluate their skill players on offense. It'd be wise to use his injury situation to do just that, even if Trevor is average at best at passer.  
+Let's be honest - the Bears are bad. But their coaching has been impressive considering  they've managed to engineer a productive offense around a running back masquerading as a quarterback. If Trevor Siemian is forced to start this Sunday, I could actually see the the coaches use the opportunity to tap into some of their receiving potential now that an actual passer is helming the offense. In fact, it's for that reason that I expect Fields to be kept sidelined this week - the coaches have been waiting for a moment like this to actually evaluate their skill players on offense. It'd be wise to use his injury situation to do just that, even if Trevor is average at best at passer.
 
 ***
 
@@ -178,8 +178,33 @@ Miami won rather comfortably in what was a very low-scoring affair. I suppose th
 
 ***
 
-Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add this infectious swagger that's taken over the team this season under new head coach Mike McDaniel and these Dolphins are absolutely rocking. 
+Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add this infectious swagger that's taken over the team this season under new head coach Mike McDaniel and these Dolphins are absolutely rocking.
 
 On the other side, we have the Texans....quite possibly the worst team in the league. So it's only appropriate an offensive powerhouse like Miami is favored by double digits here. In fact, on the subject of these Texans, the club has nothing positive trending in its favor. Very few pieces of the roster are actually salvageable, especially now that Davis Mills has been benched. The coaching is shoddy and devoid of vision. Morale has sunk across the organization. Outside of draft picks and a few select players, this team has nothing.
 
 Meanwhile, Miami is currently in the lead for the division crown in a division loaded with teams boasting winning records. As much as the Dolphins may want to slack off here, the reality is that it needs this win to stay competitive. I'm banking on Miami being very willing to run up the score against an aimless Houston outfit clearly struggling on all fronts.
+
+***
+
+### Seahawks @ Raiders (+3.5)
+
+***
+
+##### _Recent History_
+
+**Seahawks**  
+@ Arizona (W)  
+@ Buccaneers \[London\] (L)  
+BYE
+
+**Raiders**  
+vs. Colts (L)  
+@ Broncos (W)
+
+##### _Injuries_
+
+Josh Jacobs was a late addition to the injury report, so his status is truly questionable.
+
+##### _Weather_
+
+Dome game
