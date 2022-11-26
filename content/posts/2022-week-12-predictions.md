@@ -212,3 +212,11 @@ Dome game
 ##### _Prior Meetings_
 
 No recent history between these two and the interactions between the coaching staff don't really merit much analysis here.
+
+***
+
+### Seahawks -3.5
+
+***
+
+Seattle is undervalued here. The Seahawks are still a very good team on the cusp of a playoff berth while Vegas is anything but that. Sure, the Raiders won a tight one against the Broncos last week, but I'm starting to suspect that Denver harbors an inferiority complex against these Raiders dating back the last three or four years. After all, it's almost unfathomable to me that this season, Denver's surrendered the most points to a Vegas team that's been nothing but underwhelming. Denver's a truly elite defense too, which makes that fact all the more remarkable.
