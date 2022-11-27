@@ -35,3 +35,15 @@ Younghoe Koo has been very disappoint as well this year. Maybe it's regression?
 ## Ravens @ Jaguars
 
 Glad to see my original hunch was correct - the Jaguars run defense has been stepping up against these Ravens.
+
+***
+
+## Broncos @ Panthers
+
+Not only does it look like Sam Darnold has been serviceable, but he's been proficient against this vaunted Broncos defense. Is it possible the Broncos are still dealing with a hangover after losing a close one last week against the Raiders?
+
+***
+
+## Bears @ Jets
+
+This Mike White kid has been sensational. It's clear the team's rally around him.
