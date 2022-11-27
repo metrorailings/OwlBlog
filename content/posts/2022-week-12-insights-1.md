@@ -23,3 +23,7 @@ Excellent work by the Giants, staying there in the game. It's becoming clear to 
 It's the injuries hurting the Giants the most. The replacement offensive linemen and secondary's making mistakes giving Dallas unnecessary life.
 
 ***
+
+## Falcons @ Commanders
+
+A power run up the middle on fourth down against Washington's defensive front, arguably the strongest defensive front against the run? Nice work, Arthur Smith. I'm starting to think Smith is a pony with few tricks.
