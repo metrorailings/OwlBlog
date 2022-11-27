@@ -21,3 +21,5 @@ Good work by Detroit hemming Josh Allen into the pocket.
 Excellent work by the Giants, staying there in the game. It's becoming clear to me that part of the reason they lost to Detroit was likely because they may have been preparing for this game at the same time.
 
 It's the injuries hurting the Giants the most. The replacement offensive linemen and secondary's making mistakes giving Dallas unnecessary life.
+
+***
