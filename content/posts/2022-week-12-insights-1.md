@@ -30,6 +30,10 @@ A power run up the middle on fourth down against Washington's defensive front, a
 
 Younghoe Koo has been very disappoint as well this year. Maybe it's regression?
 
+Atlanta had the opportunity to cover and win outright, but the Commanders defensive line tipped the ball at the right moment. Before that, Marcus Mariota tried to run the ball, but the defensive linemen blew that up as well.
+
+I need to assess 
+
 ***
 
 ## Ravens @ Jaguars
@@ -40,10 +44,14 @@ Glad to see my original hunch was correct - the Jaguars run defense has been ste
 
 ## Broncos @ Panthers
 
-Not only does it look like Sam Darnold has been serviceable, but he's been proficient against this vaunted Broncos defense. Is it possible the Broncos are still dealing with a hangover after losing a close one last week against the Raiders?
+Not only does it look like Sam Darnold has been serviceable, but he's been proficient against this vaunted Broncos defense. Is it possible Darnold has turned over a new leaf here under offensive coordinator Ben McAdoo?
 
 ***
 
 ## Bears @ Jets
 
-This Mike White kid has been sensational. It's clear the team's rally around him.
+This Mike White kid has been sensational. It's clear the team rallies around him. His passing has been pretty phenomenal too, though it helps he's playing against an undermanned Bears defense.
+
+Speaking of which, these Chicago Bears were without their defensive leader in Eddie Jackson as well as their two starting cornerbacks. On top of that, once the Jets adjusted to the passing game by the second half, the Bears were all but dead in the water.
+
+Try not to bet against a new quarterback making a start, especially when that quarterback has the chance to infuse life back into the locker room.
