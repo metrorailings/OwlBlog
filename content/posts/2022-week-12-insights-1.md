@@ -61,3 +61,9 @@ Try not to bet against a new quarterback making a start, especially when that qu
 ## Ravens @ Jaguars
 
 Trevor Laurence's passing is not on point. I'd grade it at a B. His receivers have bailed him out on multiple occasions, especially on the last critical drive.
+
+***
+
+## Chargers @ Cardinals
+
+Chargers have been killing the Cards all days on intermediate throws outside the numbers, particularly on 2nd down.
