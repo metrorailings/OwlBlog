@@ -223,7 +223,7 @@ Seattle is undervalued here. The Seahawks are still a very good team on the cusp
 
 So if Vegas winning against the Broncos is nothing more than the result of an inferiority complex, than that would mean this current point spread is unnecessarily inflated in their favor. And that makes sense considering Seattle's less than four-point favorites here despite having proven themselves time and time again.
 
-It'll be slow going considering the Seattle's returning from a bye. But if the Raiders continue playing as sloppy as they've been playing through the season, Geno Smith and company should have plenty of opportunities to rediscover their groove.
+It'll be slow going considering the Seattle's returning from a bye. But if the Raiders continue playing as sloppy as they've been playing through the season, Geno Smith and company should have plenty of opportunities to regain rhythm.
 
 ***
 
@@ -260,4 +260,6 @@ Neither of these two teams nor their coaching staffs have met in any capacity.
 
 ***
 
-We'll see whether this theory I have about streaks and extended road trips carries any weight. Lord knows it's hard enough for me to side with the Browns here. The Buccaneers have so much more reason to win this game - not only is their defense solid at limiting opposing rushers, but Tampa Bay's offense has found renewed life during their adventure in London. Yet...the fact that the Browns have lost twice on their recent road trip gives them all the motivation here to cover the spread and perhaps even stun the Buccaneers in an upset.
+We'll see whether this theory I have about streaks and extended road trips carries any weight. Lord knows it's hard enough for me to side with the Browns here. The Buccaneers have so much more reason to win this game - not only is their defense solid at limiting opposing rushers, but Tampa Bay's offense seems to have turned a new leaf over in Germany. Yet...the fact that the Browns have lost twice on their recent road trip gives them all the motivation here to cover the spread and perhaps even stun the Buccaneers in an upset.
+
+Let's remember Tampa Bay has yet to prove itself in consecutive games this season. And their great outing in Germany was helped by field conditions - it took a couple quarters for Seattle to actually adjust to a turf that was specifically fabricated to facilitate soccer games. The Buccaneers didn't have that problem, I suspect because Brady had past experience preparing for such messy turf.
