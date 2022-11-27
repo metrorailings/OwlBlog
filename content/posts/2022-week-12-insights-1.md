@@ -55,3 +55,9 @@ This Mike White kid has been sensational. It's clear the team rallies around him
 Speaking of which, these Chicago Bears were without their defensive leader in Eddie Jackson as well as their two starting cornerbacks. On top of that, once the Jets adjusted to the passing game by the second half, the Bears were all but dead in the water.
 
 Try not to bet against a new quarterback making a start, especially when that quarterback has the chance to infuse life back into the locker room.
+
+***
+
+## Ravens @ Jaguars
+
+Trevor Laurence's passing is not on point. I'd grade it at a B.
