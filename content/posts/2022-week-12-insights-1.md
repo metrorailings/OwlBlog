@@ -27,3 +27,5 @@ It's the injuries hurting the Giants the most. The replacement offensive linemen
 ## Falcons @ Commanders
 
 A power run up the middle on fourth down against Washington's defensive front, arguably the strongest defensive front against the run? Nice work, Arthur Smith. I'm starting to think Smith is a pony with few tricks.
+
+Younghoe Koo has been very disappoint as well this year. Maybe it's regression?
