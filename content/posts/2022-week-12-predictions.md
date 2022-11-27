@@ -100,7 +100,7 @@ That being said, Jacksonville is still one of the better teams at limiting oppos
 
 ***
 
-### Bears @ Jets (-6)
+### Bears @ Jets (-4.5)
 
 ***
 
@@ -110,8 +110,8 @@ That being said, Jacksonville is still one of the better teams at limiting oppos
 Lions (L)  
 @ Falcons (L)
 
-\**Jets  
-\**Bills (W)  
+**Jets**  
+Bills (W)  
 BYE  
 @ Patriots (L)
 
@@ -131,11 +131,11 @@ There's no recent meetings between these two organizations. It also seems their 
 
 ***
 
-### Bears +6
+### Bears +4.5
 
 ***
 
-Are the Jets good enough to merit such a wide spread here? I mean, New York lacks any offense especially after losing Breece Hall. Granted, we're going to see the offense change face now that Zach Wilson's been benched in favor of Mike White. But is White really much of an upgrade? I mean...sure, he's shown an appreciation for taking profits whenever possible. And it seems he's more willing to follow through with whatever game plan Mike LaFleur draws up. But whether he could lead this team back from negative game script or sustain drives without turning the ball over remains to be seen - I didn't see enough last year to conclude anything.
+Are the Jets good enough to merit a spread more than 4 points, even against Chicago? I mean, New York lacks any offense especially after losing Breece Hall. Granted, we're going to see the offense change face now that Zach Wilson's been benched in favor of Mike White. But is White really much of an upgrade? I mean...sure, he's shown an appreciation for taking profits whenever possible. And it seems he's more willing to follow through with whatever game plan Mike LaFleur draws up. But whether he could lead this team back from negative game script or sustain drives without turning the ball over remains to be seen - I didn't see enough last year to conclude anything.
 
 Let's be honest - the Bears are bad. But their coaching has been impressive considering  they've managed to engineer a productive offense around a running back masquerading as a quarterback. If Trevor Siemian is forced to start this Sunday, I could actually see the the coaches use the opportunity to tap into some of their receiving potential now that an actual passer is helming the offense. In fact, it's for that reason that I expect Fields to be kept sidelined this week - the coaches have been waiting for a moment like this to actually evaluate their skill players on offense. It'd be wise to use his injury situation to do just that, even if Trevor is average at best at passer.
 
@@ -168,7 +168,7 @@ It is expected to be hot and humid. Then again, the weather in Houston and the w
 
 ##### _Prior Meetings_
 
-Houston and Miami met last year in drastically different circumstances. Not only were both teams led by different quarterbacks, both teams were suffering through prolonged losing streaks. Miami was led by a different coaching regime, one that was notably toxic due to the authoritarian style of then head coach Brian Flores.
+Houston and Miami met last year in drastically different circumstances. Not only were both teams led by different quarterbacks, both teams were suffering through prolonged losing streaks. Miami was led by a different coaching regime, one that was notably toxic under the authoritarian rule of the head coach at the time, Brian Flores.
 
 Miami won rather comfortably in what was a very low-scoring affair. I suppose the Dolphins could have posted up more points on a better day, but Jacoby Brissett turned over the ball twice in the second half. Not much has changed for Houston since then - the Dolphins meanwhile have been born again under new head coach Mike McDaniel.
 
@@ -178,9 +178,9 @@ Miami won rather comfortably in what was a very low-scoring affair. I suppose th
 
 ***
 
-Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add this infectious swagger that's taken over the team this season under new head coach Mike McDaniel and these Dolphins are absolutely rocking.
+Give me the Fins all day here. This Miami team isn't afraid to run up the score obnoxiously and I love them for it. Tyreek Hill, Jaylen Waddle, and Tua Tagovailoa have created something dangerous here with the way they're able to score at will. Add to that explosive element this infectious swagger that's taken over the team this season under new head coach Mike McDaniel and these Dolphins are absolutely rocking.
 
-On the other side, we have the Texans....quite possibly the worst team in the league. So it's only appropriate an offensive powerhouse like Miami is favored by double digits here. In fact, on the subject of these Texans, the club has nothing positive trending in its favor. Very few pieces of the roster are actually salvageable, especially now that Davis Mills has been benched. The coaching is shoddy and devoid of vision. Morale has sunk across the organization. Outside of draft picks and a few select players, this team has nothing.
+On the other side, we have the Texans....quite possibly the worst team in the league. So it's only appropriate an offensive powerhouse like Miami is favored by double digits here. In fact, on the subject of these Texans, the club has nothing positive trending in its favor. Very few pieces of the roster are actually salvageable, especially now that Davis Mills has been benched. The coaching is shoddy and devoid of vision. Morale has sunk across the organization, especially now that the team's built pathetically little foundation so far this year. Outside of draft picks and a few select players, this team truly has nothing to brag about.
 
 Meanwhile, Miami is currently in the lead for the division crown in a division loaded with teams boasting winning records. As much as the Dolphins may want to slack off here, the reality is that it needs this win to stay competitive. I'm banking on Miami being very willing to run up the score against an aimless Houston outfit clearly struggling on all fronts.
 
