@@ -71,8 +71,8 @@ Washington will find ways to score against Atlanta's defense. My thesis here is 
 BYE  
 vs Panthers (W)
 
-\**Jaguars  
-\**vs Raiders (W)  
+**Jaguars**  
+vs Raiders (W)  
 @ Chiefs (L)  
 BYE
 
