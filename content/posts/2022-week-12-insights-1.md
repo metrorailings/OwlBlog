@@ -78,7 +78,7 @@ Pay attention to all the negative plays Seattle is racking up on offense.
 
 I'm seeing Seattle use quite a few five-man fronts on defense, with a single linebacker behind them. Is Carroll trying to incorporate Staley principles? And why's he trying to do this against a team that thrives on the power running game?
 
-It's telling that on a critical third down from about 6 yards out, McDaniels chose to run the ball. 
+It's telling that on a critical third down from about 6 yards out, McDaniels chose to run the ball, knowing full well he was never going to try to convert on fourth down.
 
 ***
 
