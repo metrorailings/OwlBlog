@@ -78,7 +78,9 @@ Pay attention to all the negative plays Seattle is racking up on offense.
 
 I'm seeing Seattle use quite a few five-man fronts on defense, with a single linebacker behind them. Is Carroll trying to incorporate Staley principles? And why's he trying to do this against a team that thrives on the power running game?
 
-It's telling that on a critical third down from about 6 yards out, McDaniels chose to run the ball, knowing full well he was never going to try to convert on fourth down.
+It's telling that on a critical third down from about 6 yards out, McDaniels chose to run the ball, knowing full well he was never going to try to convert on fourth down. Conservative coaching is back, baby!
+
+In the end, Josh Jacobs had a monster game despite being questionable on the injury report leading up to the game. Jacobs and his back-up tailback had great days against this sad Seahawks defense.
 
 ***
 
