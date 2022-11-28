@@ -112,3 +112,5 @@ Lots of stacked boxes working against Henry here.
 I'm noticing Bengals are having issues escaping negative game script, perhaps out of design. The team knows the Titans are deadly when rushing the passer and they can't afford to take too long in the pocket as routes develop. 
 
 I'm telling you - Sam Hubbard and Trey Hendrickson both look impressive to me.
+
+Is Joe Burrow elite again? I mean....some of these passes are absolute dimes. He's making plays from improvisation, he's making plays from negative game scripts, his passes have been crisp even in harsh environments....hmmm...
