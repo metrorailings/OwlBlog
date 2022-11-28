@@ -87,3 +87,5 @@ Give Bryce Perkins from credit here for making plays under pressure.
 ## Packers @ Eagles
 
 Packers might be turning over a new leaf. Randall Cobb and Christian Watson making plays now, giving Rodgers just enough weaponry to stitch together a competent offense.
+
+Donkey Kong Suh still got some juice in him.
