@@ -67,3 +67,23 @@ Trevor Laurence's passing is not on point. I'd grade it at a B. His receivers ha
 ## Chargers @ Cardinals
 
 Chargers have been killing the Cards all days on intermediate throws outside the numbers, particularly on 2nd down.
+
+***
+
+## Raiders @ Seahawks
+
+Seahawks might have some serious issues defensing the power running game.
+
+Pay attention to all the negative plays Seattle is racking up on offense.
+
+***
+
+## Rams @ Chiefs
+
+Give Bryce Perkins from credit here for making plays under pressure.
+
+***
+
+## Packers @ Eagles
+
+Packers might be turning over a new leaf. Randall Cobb and Christian Watson making plays now, giving Rodgers just enough weaponry to stitch together a competent offense.
