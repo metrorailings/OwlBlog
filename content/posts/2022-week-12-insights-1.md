@@ -76,6 +76,8 @@ Seahawks might have some serious issues defensing the power running game.
 
 Pay attention to all the negative plays Seattle is racking up on offense.
 
+I'm seeing Seattle use quite a few five-man fronts on defense, with a single linebacker behind them. Is Carroll trying to incorporate Staley principles?
+
 ***
 
 ## Rams @ Chiefs
