@@ -31,7 +31,7 @@ Younghoe Koo has been very disappoint as well this year. Maybe it's regression?
 
 Atlanta had the opportunity to cover and win outright, but the Commanders defensive line tipped the ball at the right moment. Before that, Marcus Mariota tried to run the ball, but the defensive linemen blew that up as well.
 
-I need to assess 
+I need to assess
 
 ***
 
@@ -98,3 +98,17 @@ Donkey Kong Suh still got some juice in him.
 Tight ends have been fantastic blocking for the Eagles.
 
 Worth keeping an eye on Haason Reddick, Fletcher Cox, and Javon Hargrove.
+
+***
+
+## Bengals @ Titans
+
+Hayden Hurst has the potential to be a contributor on offense for the Bengals.
+
+Bud Dupree is a pass rusher worth keeping an eye on.
+
+Lots of stacked boxes working against Henry here.
+
+I'm noticing Bengals are having issues escaping negative game script, perhaps out of design. The team knows the Titans are deadly when rushing the passer and they can't afford to take too long in the pocket as routes develop. 
+
+I'm telling you - Sam Hubbard and Trey Hendrickson both look impressive to me.
