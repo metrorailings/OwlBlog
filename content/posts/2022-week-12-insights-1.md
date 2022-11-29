@@ -117,4 +117,4 @@ Is Joe Burrow elite again? I mean....some of these passes are absolute dimes. He
 
 Let me tell you something - these Titans almost never run the ball on 3rd down unless only a few yards stand between them and the line to gain. It's almost criminal.
 
-Samaje Perine has spunk.
+Samaje Perine and the Bengals running game have spunk.
