@@ -113,4 +113,6 @@ I'm noticing Bengals are having issues escaping negative game script, perhaps ou
 
 I'm telling you - Sam Hubbard and Trey Hendrickson both look impressive to me.
 
-Is Joe Burrow elite again? I mean....some of these passes are absolute dimes. He's making plays from improvisation, he's making plays from negative game scripts, his passes have been crisp even in harsh environments....hmmm...
+Is Joe Burrow elite again? I mean....some of these passes are absolute dimes. He's making plays from improvisation, he's making plays from negative game scripts, his passes have been crisp even in harsh environments....hmmm..
+
+Let me tell you something - these Titans almost never run the ball on 3rd down unless only a few yards stand between them and the line to gain. It's almost criminal.
