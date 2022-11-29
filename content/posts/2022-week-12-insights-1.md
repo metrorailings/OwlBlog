@@ -118,3 +118,13 @@ Is Joe Burrow elite again? I mean....some of these passes are absolute dimes. He
 Let me tell you something - these Titans almost never run the ball on 3rd down unless only a few yards stand between them and the line to gain. It's almost criminal.
 
 Samaje Perine and the Bengals running game have spunk.
+
+***
+
+## Falcons @ Commanders
+
+These Commanders can run the ball.
+
+Montez Sweat is a definite gamer for this Washington pass rush.
+
+I don't detect much slack at all from Washington despite returning home after winning two straight on the road.
