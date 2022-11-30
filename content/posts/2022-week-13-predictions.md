@@ -44,4 +44,4 @@ Dome game
 
 ##### _Prior Meetings_
 
-No recent meetings to analyze between these two organizations or their coaching staffs. 
+No recent meetings to analyze between these two organizations or their coaching staffs. Arthur Smith did face off against Mike Tomlin a couple years ago, but the roster circumstances were considerably different back then.
