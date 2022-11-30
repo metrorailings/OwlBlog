@@ -14,6 +14,10 @@ I think I may be reading too much into a limited sample size. I'll need to keep 
 
 We'll see if that theory holds any weight this week when Jacksonville faces Detroit. The Jaguars played their best game this season last week when Trevor Lawrence led a late-game comeback against the Ravens. Emotions ran rampant across the field down in Duval County once Justin Tucker missed his field goal attempt at the end of regulation. So next week should be a great spot for the Lions.
 
-Another theory worth testing is whether quarterbacks that have historically been awful in primetime stay faithful to that trend. Kirk Cousins bucked that trend last Thursday, but this Minnesota team in general is sporting a different swagger under first-year head coach Kevin O'Connell. It's possible the Vikings have a fire in them this season helping them overcome past shortcomings. I don't think New Orleans has that same mojo, especially given the team holds the worst turnover ratio in the league leading up to this week. So if this theory holds true, expect the Ginger Rifle to implode this Monday in hostile territory.   
+Another theory worth testing is whether quarterbacks that have historically been awful in primetime stay faithful to that trend. Kirk Cousins bucked that trend last Thursday, but this Minnesota team in general is sporting a different swagger under first-year head coach Kevin O'Connell. It's possible the Vikings have a fire in them this season helping them overcome past shortcomings. I don't think New Orleans has that same mojo, especially given the team holds the worst turnover ratio in the league leading up to this week. So if this theory holds true, expect the Ginger Rifle to implode this Monday in hostile territory. 
+
+***
+
+  
 
  
