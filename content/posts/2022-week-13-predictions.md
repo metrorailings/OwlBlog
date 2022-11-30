@@ -27,21 +27,17 @@ Anyway, let's roll forward into some picks here...
 ##### _Recent History_
 
 **Falcons**  
-@ Carolina (L) \[TNF\]  
-vs Bears (W)
+vs. Bengals (L)  
+@ Colts (W) \[MNF\]
 
-**Commanders**  
-@ Eagles (W) \[MNF\]  
-@ Texans (W)
+**Falcons**  
+vs. Bears (W)  
+@ Commanders (L)
+
+Pittsburgh seems to have turned a new leaf with a surprise victory last Monday against a hot Colts team. Kenny Pickett has been playing fairly solid as of lately (by rookie standards).
 
 ##### _Injuries_
 
-Atlanta's down a significant weapon on offense now that Kyle Pitts has blown out his knee. It'll be up to their depth receivers to make up for that loss.
-
-The Commanders expect some positive developments this weekend, most notably with Chase Young. Young is expected back for this match.
-
 ##### _Weather_
-
-It'll be a wet one, with rain expected from start to finish
 
 ##### _Prior Meetings_
