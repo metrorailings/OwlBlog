@@ -38,6 +38,8 @@ Pittsburgh seems to have turned a new leaf with a surprise victory last Monday a
 
 ##### _Injuries_
 
+Najee Harris may not be healthy enough to play for Pittsburgh, though Benny Snell seems to have performed well in relief duty last week.
+
 ##### _Weather_
 
 Dome game
@@ -45,3 +47,9 @@ Dome game
 ##### _Prior Meetings_
 
 No recent meetings to analyze between these two organizations or their coaching staffs. Arthur Smith did face off against Mike Tomlin a couple years ago, but the roster circumstances were considerably different back then.
+
+***
+
+### Steelers +1.5
+
+***
