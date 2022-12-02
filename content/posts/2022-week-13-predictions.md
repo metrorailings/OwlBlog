@@ -94,4 +94,8 @@ No history worth noting between these two clubs or their managers.
 
 ***
 
-Tennessee is almost too tempting a pick here. Not only are they managed by one of the best head coaches in the league, the Titans also boast a defensive front seven capable of shadowing Miles Sanders and Jalen Hurts. If the Eagles can't jump start their offense by establishing the run, then Hurts will be forced to cover the spread through his arm. Forgive me if I'm a bit skeptical that he'll be able to pull that off. Sure, he can do just enough to win the game, but 4.5 points may be a bit too wide a lead for a Philadelphia squad not exactly lighting up the world through the pass. 
+Tennessee is almost too tempting a pick here. Not only are they managed by one of the best head coaches in the league, the Titans also boast a defensive front seven capable of shadowing Miles Sanders and Jalen Hurts. If the Eagles can't jump start their offense by establishing the run, then Hurts will be forced to cover the spread through his arm. Forgive me if I'm a bit skeptical that he'll be able to pull that off. Sure, he can do just enough to win the game, but 4.5 points may be a bit too wide a lead for a Philadelphia squad not exactly lighting up the world through the pass.
+
+So give me the single best defense from a run success perspective here.
+
+***
