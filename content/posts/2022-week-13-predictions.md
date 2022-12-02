@@ -20,7 +20,7 @@ Anyway, let's roll forward into some picks here...
 
 ***
 
-### Steelers @ Falcons (-1.5)
+### Steelers @ Falcons (+1.5)
 
 ***
 
@@ -50,10 +50,12 @@ No recent meetings to analyze between these two organizations or their coaching 
 
 ***
 
-### Steelers +1.5
+### Steelers -1.5
 
 ***
 
 Pittsburgh is not a bad team. Certainly not great, but not bad by any means. Kenny Pickett is finally coming along and putting his receiving weapons to good use, namely Freirmuth, George Pickens, and Diontae Johnson. The ground game is also showing signs of life.
 
-What has me favoring Pittsburgh here is that Tomlin and his defense seem to perform well against opposing rushers, although the way Jonathan Taylor was able to succeed steadily moving the ball last week has me a bit wary. 
+What has me favoring Pittsburgh here is that Tomlin and his defense seem to perform well against opposing rushers, although the way Jonathan Taylor was able to find success steadily last week has me a bit wary. Atlanta won't be so easily denied rushing the game, but I expect the Steelers to snuff them on a few drives. The question then becomes whether Pittsburgh can tally up three of four scores on offense.
+
+***
