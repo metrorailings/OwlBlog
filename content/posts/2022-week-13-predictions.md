@@ -125,4 +125,6 @@ The Lions aren't missing anybody significant.
 
 ##### _Weather_
 
+Dome game
+
 ##### _Prior Meetings_
