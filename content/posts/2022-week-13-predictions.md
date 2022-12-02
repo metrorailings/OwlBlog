@@ -63,3 +63,23 @@ What has me favoring Pittsburgh here is that Tomlin and his defense seem to perf
 ### Titans @ Eagles (-4.5)
 
 ***
+
+##### _Recent History_
+
+**Titans**  
+@ Packers \[TNF\] (W)  
+vs. Bengals (L)
+
+**Eagles**  
+@ Colts (W)  
+vs. Packers \[SNF\] (W)
+
+Titans played well against the Bengals, but ultimately dropped the game late against them. Eagles are back on a winning streak after last week's solid rout over the Packers.
+
+##### _Injuries_
+
+##### _Weather_
+
+Cold, but not freezing
+
+##### _Prior Meetings_
