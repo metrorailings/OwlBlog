@@ -115,6 +115,8 @@ vs. Ravens (W)
 @ Giants (W)  
 vs. Bills \[Thanksgiving\] (L)
 
+The Jaguars are coming off a sensational comeback victory against the Ravens. Meanwhile, Detroit's still reconciling losing to the Bills in a close one on national television. 
+
 ##### _Injuries_
 
 ##### _Weather_
