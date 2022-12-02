@@ -99,3 +99,23 @@ Tennessee is almost too tempting a pick here. Not only are they managed by one o
 So give me the single best defense from a run success perspective here.
 
 ***
+
+### Jaguars @ Lions (+1)
+
+***
+
+##### _Recent History_
+
+**Jaguars**  
+@ Packers \[TNF\] (W)  
+vs. Bengals (L)
+
+**Lions**  
+@ Colts (W)  
+vs. Packers \[SNF\] (W)
+
+##### _Injuries_
+
+##### _Weather_
+
+##### _Prior Meetings_
