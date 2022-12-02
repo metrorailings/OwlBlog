@@ -53,3 +53,7 @@ No recent meetings to analyze between these two organizations or their coaching 
 ### Steelers +1.5
 
 ***
+
+Pittsburgh is not a bad team. Certainly not great, but not bad by any means. Kenny Pickett is finally coming along and putting his receiving weapons to good use, namely Freirmuth, George Pickens, and Diontae Johnson. The ground game is also showing signs of life.
+
+What has me favoring Pittsburgh here is that Tomlin and his defense seem to perform well against opposing rushers, although the way Jonathan Taylor was able to succeed steadily moving the ball last week has me a bit wary. 
