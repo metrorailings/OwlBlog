@@ -107,12 +107,13 @@ So give me the single best defense from a run success perspective here.
 ##### _Recent History_
 
 **Jaguars**  
-@ Packers \[TNF\] (W)  
-vs. Bengals (L)
+@ Chiefs (L)  
+BYE  
+vs. Ravens (W)
 
 **Lions**  
-@ Colts (W)  
-vs. Packers \[SNF\] (W)
+@ Giants (W)  
+vs. Bills \[Thanksgiving\] (L)
 
 ##### _Injuries_
 
