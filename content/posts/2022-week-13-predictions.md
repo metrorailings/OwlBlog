@@ -163,10 +163,26 @@ Both of these teams have been on painful losing streaks, especially the Bears. C
 
 Injury concerns are a bit vexing on both sides. For Green Bay, left tackle David Bakhtiari is out. Which makes things a little more dangerous for Aaron Rodgers, who's already dealing with a litany of issues himself. His abdomen and the thumb on his throwing hand are banged up.
 
-Chicago isn't much better. Even though Justin Fields seems healthy enough to start, his shoulder injury should limit him in some slight capacity. Even worse though, the defense has lost its best player in Eddie Jackson. Without Jackson, nobody is left to captain the unit.
+Chicago isn't much better. Even though Justin Fields seems healthy enough to start, his shoulder injury should limit him in some slight capacity. And if FIelds is knocked out for any reason, that means Nathan Peterman will be seizing the reins on offense. Even worse though, the defense has lost its best player in Eddie Jackson. Without Jackson, nobody is left to captain the unit. Furthermore, both of their rookie starting cornerbacks are also out. 
 
 ##### _Weather_
 
 Near-freezing temperatures and moderate winds are expected
 
 ##### _Prior Meetings_
+
+Twice last year and once earlier this season, Green Bay housed Chicago by double digits. To be fair, it can be argued that Chicago has found its identity since then, fully embracing a run-first mentality to offense given that Justin Fields' biggest strength are his legs and his ability to improvise.
+
+***
+
+### Uncertain
+
+***
+
+If the Bears were healthy, this would be an easy pick for me. Few teams in the league can run the ball better than Chicago. And as Philadelphia so aptly demonstrated last week, a ground game incorporating the quarterback can feast against this soft Packers defense.
+
+But the injuries across their defense are a little too serious for me to ignore. Despite Rodgers dealing with multiple injuries, it won't be hard finding daylight against this porous Bears defense. Combine that with a quality ground game and the Packers should see quite a few drives through to the end zone.
+
+Even worse, Justin Fields isn't 100% either. I don't doubt his spirit, but I do doubt whether he's willing to fully commit to hard runs against a Green Bay defense that understands his tendencies all too well. I know he'll be eating yards, but every single one of his runs will come at a cost so long as Green Bay can land hits on the boy.
+
+***
