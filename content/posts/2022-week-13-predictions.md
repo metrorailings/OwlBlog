@@ -137,4 +137,36 @@ These two organizations met two years ago, but both teams had completely differe
 
 ***
 
-A couple things here...one, I'll be testing out a new rule of thumb as to whether teams coming off emotional wins play at less than full potential the week after. Scanning through some past games seems to give this theory some credence. Two, I've noticed bad teams favored on the road almost never cover this year. Despite their surprise win over Baltimore last week, Jacksonville is still considered a bad team in my book. Unless things have changed dramatically in an inexplicable manner over the past couple weeks, I don't expect them to turn a new leaf. So give me the Lions team taking points here, even if it's only one point. 
+A couple things here...one, I'll be testing out a new rule of thumb as to whether teams coming off emotional wins play at less than full potential the week after. Scanning through some past games seems to give this theory some credence. Two, I've noticed bad teams favored on the road almost never cover this year. Despite their surprise win over Baltimore last week, Jacksonville is still considered a bad team in my book - a one-off win will not change that. I need to see that success sustained over several weeks. Unless things have changed suddenly in an inexplicable manner over the past couple weeks, I don't expect them to really change much. In fact, their historic comeback last week came against a team ranked 31st in comebacks surrendered (only behind Jacksonville, ironically enough). 
+
+So give me an average Lions team taking points here, even if it's only one point.
+
+***
+
+### Packers @ Bears (+4.5)
+
+***
+
+##### _Recent History_
+
+**Packers  
+**vs. Titans \[TNF\] (L)  
+@ Eagles \[SNF\] (L)**  
+**  
+**Bears**  
+@ Falcons (L)  
+@ Jets (L)
+
+Both of these teams have been on painful losing streaks, especially the Bears. Chicago hasn't won a game in over a month. Green Bay lost last week in what may have been the worst rushing defensive performance seen yet this season. 
+
+##### _Injuries_
+
+Injury concerns are a bit vexing on both sides. For Green Bay, left tackle David Bakhtiari is out. Which makes things a little more dangerous for Aaron Rodgers, who's already dealing with a litany of issues himself. His abdomen and the thumb on his throwing hand are banged up.
+
+Chicago isn't much better. Even though Justin Fields seems healthy enough to start, his shoulder injury should limit him in some slight capacity. Even worse though, the defense has lost its best player in Eddie Jackson. Without Jackson, nobody is left to captain the unit.
+
+##### _Weather_
+
+Near-freezing temperatures and moderate winds are expected
+
+##### _Prior Meetings_
