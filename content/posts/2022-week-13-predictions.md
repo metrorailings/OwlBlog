@@ -85,3 +85,7 @@ Philadelphia's best corner in CJ Gardner-Johnson is now ruled out for the rest o
 Cold, but not freezing
 
 ##### _Prior Meetings_
+
+No history worth noting between these two clubs or their managers.
+
+***
