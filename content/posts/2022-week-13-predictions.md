@@ -119,6 +119,10 @@ The Jaguars are coming off a sensational comeback victory against the Ravens. Me
 
 ##### _Injuries_
 
+Travis Etienne may not be fully healthy come Sunday after spraining his foot against the Ravens last week.
+
+The Lions aren't missing anybody significant.
+
 ##### _Weather_
 
 ##### _Prior Meetings_
