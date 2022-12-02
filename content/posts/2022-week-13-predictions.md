@@ -78,6 +78,8 @@ Titans played well against the Bengals, but ultimately dropped the game late aga
 
 ##### _Injuries_
 
+Philadelphia's best corner in CJ Gardner-Johnson is now ruled out for the rest of the season after sustaining a major injury last week.
+
 ##### _Weather_
 
 Cold, but not freezing
