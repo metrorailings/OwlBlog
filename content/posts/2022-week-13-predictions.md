@@ -128,3 +128,11 @@ The Lions aren't missing anybody significant.
 Dome game
 
 ##### _Prior Meetings_
+
+These two organizations met two years ago, but both teams had completely different people leading them into action. So that game tells us very little.
+
+***
+
+### Lions +1
+
+***
