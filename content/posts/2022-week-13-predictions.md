@@ -270,4 +270,14 @@ Both these teams met in what was a rout by the Ravens. The Broncos scored once e
 
 These two faced the Panthers on back-to-back weeks just recently. Baltimore managed to win against Carolina by 10 points while Denver lost by 13 points. Not only that, but look at last year's game between these two - Baltimore won the game in breezy fashion over in Denver. Keep in mind that Denver team was better than this year's team.
 
-I know 8.5 points is a little excessive, but history and current trends greatly favor Baltimore in this situation - a blow-out is the most likely scenario here. Given that reality, give me the team expected to engineer that blow-out. 
+I know 8.5 points is a little excessive, but history and current trends greatly favor Baltimore in this situation - a blow-out is the most likely scenario here. Given that reality, give me the team expected to engineer that blow-out.
+
+***
+
+### Saints @ Buccaneers (-3.5)
+
+***
+
+What happens when a team with an infidelity complex against this opponent runs into that opponent starting a major liability at quarterback? I have no idea. So for that reason, I'm staying away from this one. But I'll keep an eye on this one.
+
+***
