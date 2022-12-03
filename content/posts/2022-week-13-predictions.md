@@ -231,3 +231,43 @@ Seattle is a playoff-caliber team, on the other hand. And the club still finds i
 Seattle needs to find early success and dominate time of possession to win comfortably. If the Seahawks cannot do either, then they have to win the turnover battle. That can happen against a team as listless as these Rams, especially given Los Angeles is missing its best players on both sides of the ball. Not only that, Wolford should be good for a turnover or two.
 
 ***
+
+### Broncos @ Ravens (-8.5)
+
+***
+
+##### _Recent History_
+
+**Broncos**  
+vs. Raiders (L)  
+@ Panthers (L)
+
+**Ravens**  
+vs. Panthers (W)  
+@ Jaguars (L)
+
+Baltimore is coming off its worst loss yet, losing literally last second against the Jaguars on a gutsy two-point play. It was such a troubling loss that Lamar lashed out at fans on social media. Apparently, losing isn't the same when one loses to the Lions and the Jaguars.
+
+##### _Injuries_
+
+Denver could be thin at wide receiver this weekend. Not only is KJ Hamler out, but Jerry Jeudy and Courtland Sutton are questionable. It's likely Sutton will play, but Jeudy isn't guaranteed to play, let alone finish the game should he start.
+
+Baltimore may be down a few starters in the defensive backfield. Then again, does that matter much given it's Russell Wilson throwing the ball against them?
+
+##### _Weather_
+
+Cold, but nothing debilitating
+
+##### Prior Meetings
+
+Both these teams met in what was a rout by the Ravens. The Broncos scored once early in the second quarter and then promptly died. Baltimore coasted to a double-digit victory. It's worth noting though that Drew Lock was at the helm of the offense at the time. Not only that, but an entirely different coaching regime was in charge over there for Denver.
+
+***
+
+### Ravens -8.5
+
+***
+
+These two faced the Panthers on back-to-back weeks just recently. Baltimore managed to win against Carolina by 10 points while Denver lost by 13 points. Not only that, but look at last year's game between these two - Baltimore won the game in breezy fashion over in Denver. Keep in mind that Denver team was better than this year's team.
+
+I know 8.5 points is a little excessive, but history and current trends greatly favor Baltimore in this situation - a blow-out is the most likely scenario here. Given that reality, give me the team expected to engineer that blow-out. 
