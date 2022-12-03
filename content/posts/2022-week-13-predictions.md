@@ -186,3 +186,46 @@ But the injuries across their defense are a little too serious for me to ignore.
 Even worse, Justin Fields isn't 100% either. I don't doubt his spirit, but I do doubt whether he's willing to fully commit to hard runs against a Green Bay defense that understands his tendencies all too well. I know he'll be eating yards, but every single one of his runs will come at a cost so long as Green Bay can land hits on the boy.
 
 ***
+
+### Seahawks @ Rams (+7)
+
+***
+
+##### _Recent History_
+
+**Seahawks  
+**@ Buccaneers (L)  
+BYE  
+vs. Raiders (L)
+
+**Rams**  
+@ Saints (L)  
+@ Chiefs (L)
+
+Rams have been dealt nothing but shameful losses the past several weeks.
+
+##### _Injuries_
+
+Seahawks are mostly healthy.
+
+Rams are anything but. John Wolford is expected to make another tragic start at quarterback this weekend. But more worrying is this - Aaron Donald is going to miss the first ever game of his career. Is he missing this game purely for health reasons or are the Rams so demoralized this season that even their best players are willing to take injury opportunities to sideline themselves?   
+
+##### _Weather_
+
+Dome game
+
+##### _Prior Meetings_
+
+The Rams had the Seahawks number last year, winning outright and covering the spread in both of their games.
+
+***
+
+### Seahawks -7
+
+***
+
+History favors the Rams here, but the reality is that these two teams have been turned upside down this season. The Rams aren't experiencing just any regular Super Bowl hangover - the organization is completely collapsing now that the devil of opportunity has come to collect the bill due for his services last year. After all, this team had to sell its soul to win the championship. A decline was expected, but not one this sudden.
+
+Seattle is a playoff-caliber team, on the other hand. And the club still finds itself trending upward though despite recent losses to the Buccaneers and Raiders. It has to be noted that both losses were predicated on their opponents using the power running game to keep pace with Seattle. And if the Seahawks are denied control of the game early, their opponents have a much easier time winning. I know that sounds self-evident... but it needs to be made clear this squad struggles digging itself out of deficits and then closing out games gracefully. 
+
+Seattle needs to find early success and dominate time of possession to win comfortably. If the Seahawks cannot do either, then they have to win the turnover battle. That can happen against a team as listless as these Rams, especially given Los Angeles is missing its best players on both sides of the ball. Not only that, Wolford should be good for a turnover or two.
