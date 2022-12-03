@@ -229,3 +229,5 @@ History favors the Rams here, but the reality is that these two teams have been 
 Seattle is a playoff-caliber team, on the other hand. And the club still finds itself trending upward though despite recent losses to the Buccaneers and Raiders. It has to be noted that both losses were predicated on their opponents using the power running game to keep pace with Seattle. And if the Seahawks are denied control of the game early, their opponents have a much easier time winning. I know that sounds self-evident... but it needs to be made clear this squad struggles digging itself out of deficits and then closing out games gracefully. 
 
 Seattle needs to find early success and dominate time of possession to win comfortably. If the Seahawks cannot do either, then they have to win the turnover battle. That can happen against a team as listless as these Rams, especially given Los Angeles is missing its best players on both sides of the ball. Not only that, Wolford should be good for a turnover or two.
+
+***
