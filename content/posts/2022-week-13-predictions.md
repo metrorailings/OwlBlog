@@ -281,3 +281,24 @@ I know 8.5 points is a little excessive, but history and current trends greatly 
 What happens when a team with an infidelity complex against this opponent runs into that opponent starting a major liability at quarterback? I have no idea. So for that reason, I'm staying away from this one. But I'll keep an eye on this one.
 
 ***
+
+### Dolphins @ 49ers (-4)
+
+***
+
+##### _Recent History_
+
+**Dolphins**  
+vs. Browns (W)  
+BYE  
+vs. Texans (W)
+
+**49ers**  
+@ Cardinals (W)  
+vs. Saints (W)
+
+Both franchises are on extended winning streaks.
+
+##### _Injuries_
+
+##### _Weather_
