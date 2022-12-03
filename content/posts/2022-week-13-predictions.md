@@ -301,4 +301,26 @@ Both franchises are on extended winning streaks.
 
 ##### _Injuries_
 
+So the Dolphins are expected to miss both their starting tackles. Not good. 
+
+For the 49ers, Trent Williams is expected to be sidelined and Deebo Samuel is at risk of missing action here.
+
 ##### _Weather_
+
+Some drizzle might fall during the game
+
+##### _Prior Meetings_
+
+No prior contests worth analyzing here. Mike McDaniel studied under Kyle Shanahan before becoming head coach of the Dolphins, so these two should be very familiar with their tricks and tendencies.
+
+***
+
+### Uncertain
+
+***
+
+It's a bit of a wide spread. While I feel good about the 49ers winning this game based on the strength of their defensive line versus Miami's offensive front, I'm cognizant of the fact that Miami has been one of the best teams at waging comebacks. I'm not saying the Dolphins will be successful in staging a comeback in enemy territory, but should they try to stage one, a backdoor cover is possible.
+
+Then again, that's assuming San Francisco can assert and maintain a lead throughout the duration of the game. I do think it's a somewhat safe assumption though - Kyle Shanahan should be generally aware of whatever strategy and tactics Mike McDaniel plans on using here. I don't expect San Francisco's defense will prevent Miami from moving the ball on more than half their drives, but I do expect the defense to force enough negative plays to cut drives short and give the 49ers the chance to run up a lead.
+
+That being said, the Dolphins have surprisingly been one of the better teams at stopping opposing rushers this year, so let's see exactly what Miami can do against San Francisco's complex ground game.
