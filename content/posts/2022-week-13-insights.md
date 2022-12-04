@@ -47,3 +47,9 @@ Yep. As I suspected, Pittsburgh is the tougher team. Atlanta is just weak mental
 ## Packers @ Bears
 
 These Bears might have a serious inferiority complex against the Packers. Worth keeping in mind for next year.
+
+***
+
+## Seahawks @ Rams
+
+Why do I keep violating a fundamental rule here? Never bet road teams giving away a whole bunch of points.
