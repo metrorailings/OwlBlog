@@ -18,6 +18,8 @@ This Jets offense is a little too confused for my liking, messing up routes.
 
 Minnesota's red zone defense is honestly admirable. Five red-zone trips, no touchdowns surrendered. Part of that is on the Jets for their sloppiness.
 
+What horrible play-calling from the Jets at the end of the game. Two straight passing plays at the 1-yard line. Both plays were sloppily executed. No faith in their running game.
+
 ***
 
 ## Commanders @ Giants
