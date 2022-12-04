@@ -29,3 +29,9 @@ Jihad Ward stepping up as a name to watch on this Giants defensive front.
 ## Jaguars @ Lions
 
 Looks like my theory about emotional victories holds weight after all. Wish I applied that same logic to the Jets...
+
+***
+
+## Stelers @ Falcons
+
+Yep. As I suspected, Pittsburgh is the tougher team. Atlanta is just weak mentally.
