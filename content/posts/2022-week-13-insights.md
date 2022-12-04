@@ -16,6 +16,8 @@ For all the good vibes in their locker room this week, it doesn't seem to matter
 
 This Jets offense is a little too confused for my liking, messing up routes.
 
+Minnesota's red zone defense is honestly admirable. Five red-zone trips, no touchdowns surrendered. Part of that is on the Jets for their sloppiness.
+
 ***
 
 ## Commanders @ Giants
