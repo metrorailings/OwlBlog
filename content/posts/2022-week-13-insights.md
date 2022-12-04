@@ -19,3 +19,5 @@ For all the good vibes in their locker room this week, it doesn't seem to matter
 ## Commanders @ Giants
 
 Once again, the Giants are presenting issues defending against the run.
+
+McLaurin is a beast. Give the man his credit as the team's top receiver.
