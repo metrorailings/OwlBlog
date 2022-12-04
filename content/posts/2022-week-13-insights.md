@@ -39,3 +39,9 @@ Looks like my theory about emotional victories holds weight after all. Wish I ap
 ## Stelers @ Falcons
 
 Yep. As I suspected, Pittsburgh is the tougher team. Atlanta is just weak mentally.
+
+***
+
+## Packers @ Bears
+
+These Bears might have a serious inferiority complex against the Packers. Worth keeping in mind for next year.
