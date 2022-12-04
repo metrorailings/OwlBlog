@@ -4,3 +4,6 @@ draft = true
 headline = "Week 13 Insights"
 
 +++
+## Browns @ Texans
+
+Browns seem to love running the quarterback option with Deshaun Watson.
