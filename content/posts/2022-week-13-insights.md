@@ -14,6 +14,8 @@ Browns seem to love running the quarterback option with Deshaun Watson.
 
 For all the good vibes in their locker room this week, it doesn't seem to matter much as the Vikings are currently dominating.
 
+This Jets offense is a little too confused for my liking, messing up routes.
+
 ***
 
 ## Commanders @ Giants
