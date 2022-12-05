@@ -58,4 +58,6 @@ Why do I keep violating a fundamental rule here? Never bet road teams giving awa
 
 ## Titans @ Eagles
 
-Eagles are repeatedly getting penalized and having the referees rule against them on critical plays.
+Eagles are repeatedly getting penalized and having the referees rule against them on critical plays. And yet they'll still end up winning this game handily.
+
+It's not advisable to play man coverage against the Eagles and their receivers. Vrabel learned that the hard way today.
