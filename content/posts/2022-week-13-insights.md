@@ -53,3 +53,9 @@ These Bears might have a serious inferiority complex against the Packers. Worth 
 ## Seahawks @ Rams
 
 Why do I keep violating a fundamental rule here? Never bet road teams giving away a whole bunch of points.
+
+***
+
+## Titans @ Eagles
+
+Eagles are repeatedly getting penalized and having the referees rule against them on critical plays.
