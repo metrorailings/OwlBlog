@@ -72,3 +72,7 @@ Kudos to Philadelphia for being so willing to play left-handed this game, knowin
 ## Broncos @ Ravens
 
 This Ravens offensive line is bad. I mean...really bad. Not only did they end up getting Lamar hurt, Tyler Huntley barely had any time to settle into a rhythm in the pocket. Even though Denver was only recorded as having hit the quarterback five times, it seems like they were assaulting him on every other play. Something tells me that number doesn't reflect reality.
+
+Russell Wilson and this Bronco offense have no real rhythm. It's very much a go broke or stay very safe type of offense - Russ only looks towards the deep part of the field and then checks it down underneath if nothing presents itself. I don't see this team scheming any plays attacking the intermediate area of the field.
+
+It's clear Greg Roman and the Baltimore offense don't practice other types of plays much outside of the concept plays that represent the core of their playbook.
