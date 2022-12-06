@@ -76,3 +76,5 @@ This Ravens offensive line is bad. I mean...really bad. Not only did they end up
 Russell Wilson and this Bronco offense have no real rhythm. It's very much a go broke or stay very safe type of offense - Russ only looks towards the deep part of the field and then checks it down underneath if nothing presents itself. I don't see this team scheming any plays attacking the intermediate area of the field.
 
 It's clear Greg Roman and the Baltimore offense don't practice other types of plays much outside of the concept plays that represent the core of their playbook.
+
+Tyler Huntley can run the ball. So don't expect Roman's strategy to shift much on offense if Lamar is sidelined for the foreseeably future.
