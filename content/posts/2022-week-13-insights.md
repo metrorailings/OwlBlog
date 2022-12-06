@@ -66,3 +66,9 @@ Eagles kept stacking the box on early downs, knowing the Titans love to run with
 AJ Brown had a game of the ages here against his old team. Just constantly beating them like a drum over and over.
 
 Kudos to Philadelphia for being so willing to play left-handed this game, knowing full well Tennessee is the single best team in the league defending the run. The Eagles committed wholeheartedly to the passing game, as evidenced by Hurts only running the ball on a handful of snaps. No other game saw the Eagles throw the ball so much. And they were able to pull off the win.
+
+***
+
+## Broncos @ Ravens
+
+This Ravens offensive line is bad. I mean...really bad. Not only did they end up getting Lamar hurt, Tyler Huntley barely had any time to settle into a rhythm in the pocket. Even though Denver was only recorded as having hit the quarterback five times, it seems like they were assaulting him on every other play. Something tells me that number doesn't reflect reality.
