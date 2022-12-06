@@ -64,3 +64,5 @@ It's not advisable to play man coverage against the Eagles and their receivers. 
 Eagles kept stacking the box on early downs, knowing the Titans love to run with power. You can't run with power against stacked boxes though. And when Trayvon Burk was ruled out early with a concussion, he took the Titans passing game with him. Without Burks, Tannehill had nobody reliable to throw to.
 
 AJ Brown had a game of the ages here against his old team. Just constantly beating them like a drum over and over.
+
+Kudos to Philadelphia for being so willing to play left-handed this game, knowing full well Tennessee is the single best team in the league defending the run. The Eagles committed wholeheartedly to the passing game, as evidenced by Hurts only running the ball on a handful of snaps. No other game saw the Eagles throw the ball so much. And they were able to pull off the win.
