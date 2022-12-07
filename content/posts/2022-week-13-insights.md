@@ -86,3 +86,15 @@ Tyler Huntley can run the ball. So don't expect Roman's strategy to shift much o
 Cade York's been having kicking issues as of late. Understandable given he's a rookie.
 
 Deshaun Watson doesn't look good at all. Very rusty. Prone to miscommunication. Relying more on his feet to force production.
+
+***
+
+## Dolphins @ 49ers
+
+It's clear the 49ers are committing more coverage resources towards the middle of the field, even dropping back linebackers deep to take away the intermediate area. Tua hasn't found any sort of rhythm as his favorite part of the field has been taken away from him.
+
+Speaking of which, this should end any potential Tua had of being deemed an elite quarterback.
+
+Nick Bosa has been wreaking havoc consistently this game. An elite pass rusher, no doubt.
+
+As for Miami, multiple people have been making an impact in the pass rush now that Josh Boyer seems much more comfortable blitzing here given San Francisco is down to a third-string quarterback on offense. The only one I've noticed making a consistent impact has been Melvin Ingram, funny enough. Jaelen Philips, Bradley Chubb, and Andrew Van Ginkel have flashed here and then, but not consistently enough. 
