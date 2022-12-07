@@ -23,6 +23,8 @@ Jets defense play hard, especially with their tackling.
 
 This Jones kid on the Vikings defense might be making a name for himself.
 
+Kirk seems cripplingly dependent on Justin Jefferson.
+
 ***
 
 ## Commanders @ Giants
