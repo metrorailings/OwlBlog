@@ -15,7 +15,7 @@ For all the good vibes in their locker room this week, it doesn't seem to matter
 
 This Jets offense is a little too confused for my liking, messing up routes.
 
-Minnesota's red zone defense is honestly admirable. Five red-zone trips, only one touchdown surrendered. Part of that is on the Jets for their sloppiness.
+Minnesota's red zone defense is honestly admirable. Five red-zone trips, not one touchdown surrendered. Part of that is on the Jets for their sloppiness.
 
 What horrible play-calling from the Jets at the end of the game. Two straight passing plays at the 1-yard line. Both plays were sloppily executed. No faith in their running game.
 
@@ -26,6 +26,8 @@ This Jones kid on the Vikings defense might be making a name for himself.
 Kirk almost seems cripplingly dependent on Justin Jefferson.
 
 Minnesota committing more to man coverage than usual. Looks like Donatell is willing to ease up a bit on what is otherwise a dogmatic faithfulness to the Fangio style of defense.
+
+Garrett Wilson is an all-star receiver for these Jets. Elijah Moore seems to be the second option given his quickness and relative athleticism.
 
 ***
 
