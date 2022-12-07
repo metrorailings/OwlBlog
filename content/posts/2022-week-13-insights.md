@@ -78,3 +78,11 @@ Russell Wilson and this Bronco offense have no real rhythm. It's very much a go 
 It's clear Greg Roman and the Baltimore offense don't practice other types of plays much outside of the concept plays that represent the core of their playbook.
 
 Tyler Huntley can run the ball. So don't expect Roman's strategy to shift much on offense if Lamar is sidelined for the foreseeably future.
+
+***
+
+## Browns @ Texans
+
+Cade York's been having kicking issues as of late. Understandable given he's a rookie.
+
+Deshaun Watson doesn't look good at all. Very rusty. Prone to miscommunication. Relying more on his feet to force production.
