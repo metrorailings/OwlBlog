@@ -17,3 +17,7 @@ Fourth, I really should be more wary of drawing comparisons between teams using 
 I think I covered everything. So let's go...
 
 ***
+
+### Jets @ Bills (-9.5)
+
+***
