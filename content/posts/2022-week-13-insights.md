@@ -25,7 +25,7 @@ This Jones kid on the Vikings defense might be making a name for himself.
 
 Kirk almost seems cripplingly dependent on Justin Jefferson.
 
-Minnesota committing more to man coverage than usual.
+Minnesota committing more to man coverage than usual. Looks like Donatell is willing to ease up a bit on what is otherwise a dogmatic faithfulness to the Fangio style of defense.
 
 ***
 
