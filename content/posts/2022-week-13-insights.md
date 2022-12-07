@@ -98,3 +98,5 @@ Speaking of which, this should end any potential Tua had of being deemed an elit
 Nick Bosa has been wreaking havoc consistently this game. An elite pass rusher, no doubt.
 
 As for Miami, multiple people have been making an impact in the pass rush now that Josh Boyer seems much more comfortable blitzing here given San Francisco is down to a third-string quarterback on offense. The only one I've noticed making a consistent impact has been Melvin Ingram, funny enough. Jaelen Philips, Bradley Chubb, and Andrew Van Ginkel have flashed here and then, but not consistently enough. 
+
+The fact that a third-string quarterback can be productive in this offense is testament to the 49ers coaching staff as well as the diverse weaponry they have on hand on that side of the ball. CMC, Deebo, George Kittle, Brandon Aiyuk....
