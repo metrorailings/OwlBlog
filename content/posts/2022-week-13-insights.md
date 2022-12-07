@@ -29,6 +29,8 @@ Minnesota committing more to man coverage than usual. Looks like Donatell is wil
 
 Garrett Wilson is an all-star receiver for these Jets. Elijah Moore seems to be the second option given his quickness and relative athleticism.
 
+Jalen Reagor seems to play the speed option role for the Vikings. Either send him deep down the field or have him run trick plays out of the backfield 
+
 ***
 
 ## Commanders @ Giants
