@@ -12,4 +12,8 @@ Second, the inferiority complex theory carries some weight - Tampa Bay failed to
 
 Third, I shouldn't select teams billed as heavy favorites unless those teams rank among the best in the league, which means only a handful of teams should be considered worthy of a bet should they be giving away a boatload of points on the road.  
 
-Fourth, I really should be more wary of drawing comparisons between teams when the coaching staff for any one of those teams has been shaken up significantly. While the Ravens stomped out Denver last year, the same wouldn't have happened this year even if Lamar managed to survive through all four quarters. It's clear these Ravens aren't built to handle the speed of the Bronco defense - it was only through some luck and the Tyler Hundley's innate toughness that Baltimore was able to barely escape the contest with a win.
+Fourth, I really should be more wary of drawing comparisons between teams using games from last year when the coaching staff for any one of those teams has been shaken up significantly this year. While the Ravens stomped out Denver last year, the same wouldn't have happened this year even if Lamar managed to survive through all four quarters. It's clear these Ravens aren't built to handle the speed of the Bronco defense - it was only through some luck and the Tyler Hundley's innate toughness that Baltimore was able to barely escape the contest with a win.
+
+I think I covered everything. So let's go...
+
+***
