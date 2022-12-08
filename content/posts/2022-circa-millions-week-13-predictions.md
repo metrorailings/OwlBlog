@@ -52,8 +52,8 @@ The Jets won the first match earlier in the season despite being stamped as doub
 
 ***
 
-I know the oddsmakers are showing a bit more respect towards the Jets now that New York is catching fewer points on the road than they were given at home just several weeks ago...but this spread is still a little too egregious. New York is a good team, all things considered. Mike White's made this offense operate at a serviceable level too.
+I know the oddsmakers are showing a bit more respect towards the Jets now that New York is catching fewer points on the road than they were given at home just several weeks ago...but this spread is still too egregious, no? New York is a good team, especially now that Mike White's made this offense operate at a serviceable level. I understand New York is still limited at offensive weaponry, but let's not pretend that same limitation doesn't apply to the Bills - nobody outside of Stefon Diggs has been reliable enough to produce on offense, suspiciously enough.
 
-I understand New York is still limited at offensive weaponry, but let's not pretend that same limitation doesn't apply to the Bills - nobody outside of Stefon Diggs has been reliable enough to produce on offense, suspiciously enough.
+That being said, I'm well aware game script can lead to the Jets losing control of the pace here. If the Bills start dictating the script by running up the script, it's all but over. But 9.5 points is still too much when Buffalo itself is far from a finished product.
 
-That being said, I'm well aware game script can lead to the Jets losing control of the pace here. If the Bills start dictating the script by running up the script, it's all but over. But 9.5 points is still too much when Buffalo itself is far from a finished product.  
+***
