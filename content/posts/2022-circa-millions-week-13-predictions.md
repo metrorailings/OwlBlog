@@ -139,3 +139,47 @@ The Bengals seem to harbor an inferiority complex against the Browns - Cincinnat
 Normally, the presence of an inferiority complex here would make things easy, but the problem is that Cleveland is starting a quarterback that hasn't played the game in nearly two years. Going by last week's tape, it's abundantly clear Deshaun Watson needs time to adjust back to the game. How much time exactly, that I don't know. But until he rediscovers his form, the Brown passing offense will be good as worthless.
 
 Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of taking Cleveland going forward. 
+
+***
+
+### Jaguars @ Titans (-3.5)
+
+***
+
+##### _Recent History_
+
+**Jaguars**  
+vs. Ravens (W)  
+@ Lions (L)
+
+**Titans**  
+vs. Bengals (L)  
+@ Eagles (L)
+
+##### _Injuries_
+
+It's almost guaranteed Treyvon Burk will be missing in action here. 
+
+##### _Weather_
+
+Little chilly with some humidity
+
+##### _Prior Meetings_
+
+The Titans swept the Jaguars with little effort last year. But those results only hold so much weight now that a new coaching regime is in place over in Jacksonville.
+
+***
+
+### Uncertain
+
+***
+
+This game is a great look into what matters more - coaching or talent. Only one organization is loaded with talent, but the other team in the contest has far better coaching with a proven track record. So who wins here? I'm not too sure.
+
+But the one thing I can say is that this spread seems a tad too high in favor of the Titans, especially given their recent struggles on offense. With their best receiver sidelined and their hallmark rushing attack missing some teeth, it's almost impossible for me to envision Tennessee running up the score here. The only way they can pull off such a feat is if their defense can completely stonewall Jacksonville to the point of impotency.
+
+The sad thing is that's certainly possible, especially given how badly the Jaguars are coached on offense. Their gusto for fourth down attempts makes no sense given how many times they've failed to convert - it's almost as if Doug Pederson forgot to draw up fourth down plays before printing out his playbook.
+
+If I had to pick a side here, it'd be Jacksonville. But I'd be calling myself a damn fool for even making a pick here.
+
+***
