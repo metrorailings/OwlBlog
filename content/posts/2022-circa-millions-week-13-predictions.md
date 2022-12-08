@@ -24,8 +24,8 @@ I think I covered everything. So let's go...
 
 ##### _Recent History_
 
-**Jets  
-**vs. Bears (W)  
+\**Jets  
+\**vs. Bears (W)  
 @ Vikings (L)
 
 **Bills**  
@@ -103,3 +103,39 @@ I'm still siding with Pittsburgh here, hoping that a slight inferiority complex 
 It's worth noting that the Steelers are also coming off two straight wins on the road trip, so a lazier performance from them is certainly possible, especially now that Baltimore has to resort to its second-string quarterback.
 
 ***
+
+### Browns @ Bengals (-6.5)
+
+***
+
+##### _Recent History_
+
+**Browns**  
+vs. Buccaneers (W)  
+@ Texans (W)
+
+**Steelers**  
+@ Titans (W)  
+vs. Chiefs (W)
+
+##### _Injuries_
+
+Bengals will be missing the services of their main tight end in Hayden Hurst.
+
+##### _Weather_
+
+Not that bad considering we're in the middle of December.
+
+##### _Prior Meetings_
+
+The Bengals seem to harbor an inferiority complex against the Browns - Cincinnati has a habit of losing big to Cleveland.
+
+***
+
+### Uncertain
+
+***
+
+Normally, the presence of an inferiority complex here would make things easy, but the problem is that Cleveland is starting a quarterback that hasn't played the game in nearly two years. Going by last week's tape, it's abundantly clear Deshaun Watson needs time to adjust back to the game. How much time exactly, that I don't know. But until he rediscovers his form, the Brown passing offense will be good as worthless.
+
+Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of taking Cleveland going forward. 
