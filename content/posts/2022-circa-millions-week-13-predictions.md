@@ -63,3 +63,21 @@ One thing worth noting here is that I have yet another opportunity to test my th
 ### Ravens @ Steelers (-2.5)
 
 ***
+
+##### _Prior Meetings_
+
+Going back to 2020, Pittsburgh has won all their contests against Baltimore, albeit with slim margins. The biggest win was only by 5 points.
+
+***
+
+### Steelers -2.5
+
+***
+
+It's not easy siding with any one team here, knowing how tight matches between these two tend to be. But Pittsburgh has gotten the better of Baltimore in their past four contests. I don't see much changing considering Baltimore this year is not any better than their 2020 or 2021 versions. Pittsburgh isn't much better either, but they've shown promise over the past month.
+
+That being said, it seems the Steelers are real productive once their ground game finds rhythm, which won't be easy to pull off against a Baltimore defense that's emerged in recent weeks as one of the more stouter units against opposing rushers. Even though their overall success rate this year only has them rated as a middling rush defense, the past several weeks has shown me they've been improving on an accelerating trajectory.
+
+I'm still siding with Pittsburgh here, hoping that a slight inferiority complex will be enough to swamp Baltimore's team here and give Mike Tomlin and his men just enough juice to nab victory here.
+
+***
