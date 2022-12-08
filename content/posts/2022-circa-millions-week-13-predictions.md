@@ -160,6 +160,8 @@ vs. Bengals (L)
 
 It's almost guaranteed Treyvon Burk will be missing in action here. 
 
+It's worth keeping an eye on Denico Autry for the Titans.
+
 ##### _Weather_
 
 Little chilly with some humidity
@@ -183,3 +185,43 @@ The sad thing is that's certainly possible, especially given how badly the Jagua
 If I had to pick a side here, it'd be Jacksonville. But I'd be calling myself a damn fool for even making a pick here.
 
 ***
+
+### Chiefs @ Broncos (+9.5)
+
+***
+
+##### _Recent History_
+
+**Chiefs**  
+vs Rams (W)  
+@ Bengals (L)
+
+**Broncos**  
+@ Panthers (L)  
+@ Ravens (L)
+
+Denver is coming off two straight road losses.
+
+##### _e Chiefs Injures_
+
+None worth noting so far, though we'll keep an eye on the injury report come Friday.
+
+##### _Weather_
+
+Chilly
+
+##### _Prior Meetings_
+
+Last year when these two met at Mile High Stadium, the Broncos actually kept this game very competitive until the end. Once again, as I noted earlier, that game can only carry so much weight given a new coaching regime has been installed in Denver. On top of that, the quarterback situation over there is just...tragic.
+
+***
+
+### Uncertain
+
+***
+
+This Denver club is in shambles on offense. It's clear things aren't getting better and that Russell Wilson is showing frighteningly little signs of improvement. Given what I heard about him lately, it appears he refuses to be coached too. So this offense is dead.
+
+For Denver to nail this cover, their defense has to play out of its mind for four quarters straight. Now I know the Chiefs offensive line isn't as impressive as some out there think...but Patrick Mahomes has been playing at an elite level for much of this season. You can only do so much before somebody like him finally wills his way towards points.
+
+Then again...I'm thinking back to that Tennessee game. The Titans were able to frustrate Kansas on offense, though they had to effectively play a double-header on defense to keep the game within reach at the end. Can Denver pull off that same feat? Even if the Broncos let up a bit towards the end, would that afford the Chiefs enough time to run up a double-digit lead here?
