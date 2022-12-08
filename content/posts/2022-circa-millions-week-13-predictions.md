@@ -202,7 +202,7 @@ vs Rams (W)
 
 Denver is coming off two straight road losses.
 
-##### _e Chiefs Injures_
+##### _Injuries_
 
 None worth noting so far, though we'll keep an eye on the injury report come Friday.
 
@@ -225,3 +225,5 @@ This Denver club is in shambles on offense. It's clear things aren't getting bet
 For Denver to nail this cover, their defense has to play out of its mind for four quarters straight. Now I know the Chiefs offensive line isn't as impressive as some out there think...but Patrick Mahomes has been playing at an elite level for much of this season. You can only do so much before somebody like him finally wills his way towards points.
 
 Then again...I'm thinking back to that Tennessee game. The Titans were able to frustrate Kansas on offense, though they had to effectively play a double-header on defense to keep the game within reach at the end. Can Denver pull off that same feat? Even if the Broncos let up a bit towards the end, would that afford the Chiefs enough time to run up a double-digit lead here?
+
+***
