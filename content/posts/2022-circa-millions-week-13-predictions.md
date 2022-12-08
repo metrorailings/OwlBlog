@@ -76,6 +76,14 @@ vs. Broncos (W)
 
 Pittsburgh is coming off two major road wins, which concerns me here.
 
+##### _Injuries_
+
+Baltimore may not only have Lamar Jackson suited up for this game, but they may also be down their best tackler on defense in Patrick Queen.
+
+##### _Weather_
+
+It's going to be a cold outing, with some rain expected.
+
 ##### _Prior Meetings_
 
 Going back to 2020, Pittsburgh has won all their contests against Baltimore, albeit with slim margins. The biggest win was only by 5 points.
