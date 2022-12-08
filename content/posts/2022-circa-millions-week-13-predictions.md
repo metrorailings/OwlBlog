@@ -56,4 +56,10 @@ I know the oddsmakers are showing a bit more respect towards the Jets now that N
 
 That being said, I'm well aware game script can lead to the Jets losing control of the pace here. If the Bills start dictating the script by running up the script, it's all but over. But 9.5 points is still too much when Buffalo itself is far from a finished product.
 
+One thing worth noting here is that I have yet another opportunity to test my theory about teams being a bit lazier than normal when facing an underdog after coming off a successful multi-week road trip.
+
+***
+
+### Ravens @ Steelers (-2.5)
+
 ***
