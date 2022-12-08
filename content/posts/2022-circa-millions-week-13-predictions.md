@@ -64,6 +64,18 @@ One thing worth noting here is that I have yet another opportunity to test my th
 
 ***
 
+##### _Recent History_
+
+**Ravens**  
+@ Jaguars (L)  
+vs. Broncos (W)
+
+**Steelers**  
+@ Colts (W)  
+@ Falcons (W)
+
+Pittsburgh is coming off two major road wins, which concerns me here.
+
 ##### _Prior Meetings_
 
 Going back to 2020, Pittsburgh has won all their contests against Baltimore, albeit with slim margins. The biggest win was only by 5 points.
@@ -79,5 +91,7 @@ It's not easy siding with any one team here, knowing how tight matches between t
 That being said, it seems the Steelers are real productive once their ground game finds rhythm, which won't be easy to pull off against a Baltimore defense that's emerged in recent weeks as one of the more stouter units against opposing rushers. Even though their overall success rate this year only has them rated as a middling rush defense, the past several weeks has shown me they've been improving on an accelerating trajectory.
 
 I'm still siding with Pittsburgh here, hoping that a slight inferiority complex will be enough to swamp Baltimore's team here and give Mike Tomlin and his men just enough juice to nab victory here.
+
+It's worth noting that the Steelers are also coming off two straight wins on the road trip, so a lazier performance from them is certainly possible, especially now that Baltimore has to resort to its second-string quarterback.
 
 ***
