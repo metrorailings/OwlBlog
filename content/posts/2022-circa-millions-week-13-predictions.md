@@ -289,6 +289,8 @@ BYE
 
 ##### _Injuries_
 
+Rondale Moore and DeAndre Hopkins are both names worth watching. Hopkins is likely to play, but Moore isn't.
+
 ##### _Weather_
 
 ##### _Prior Meetings_
