@@ -178,7 +178,7 @@ The Titans swept the Jaguars with little effort last year. But those results onl
 
 This game is a great look into what matters more - coaching or talent. Only one organization is loaded with talent, but the other team in the contest has far better coaching with a proven track record. So who wins here? I'm not too sure.
 
-But the one thing I can say is that this spread seems a tad too high in favor of the Titans, especially given their recent struggles on offense. With their best receiver sidelined and their hallmark rushing attack missing some teeth, it's almost impossible for me to envision Tennessee running up the score here. The only way they can pull off such a feat is if their defense can completely stonewall Jacksonville to the point of impotency.
+But the one thing I can say is that this spread seems a tad too high in favor of the Titans, especially given their recent struggles on offense. With their best receiver sidelined and their hallmark rushing attack lacking teeth lately, it's almost impossible for me to envision Tennessee running up the score here. The only way they can pull off such a feat is if their defense can completely stonewall Jacksonville to the point of impotency.
 
 The sad thing is that's certainly possible, especially given how badly the Jaguars are coached on offense. Their gusto for fourth down attempts makes no sense given how many times they've failed to convert - it's almost as if Doug Pederson forgot to draw up fourth down plays before printing out his playbook.
 
@@ -258,7 +258,7 @@ No real recent history worth exploring here.
 
 ***
 
-### Dolphins -3.5
+### Uncertain
 
 ***
 
