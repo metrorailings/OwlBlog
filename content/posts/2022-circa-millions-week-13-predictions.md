@@ -330,11 +330,21 @@ vs. Raiders (L)
 
 ##### _Injuries_
 
+PJ Walker is expected to return as the starter for Carolina.
+
+Some key players on Seattle's offense are banged up, notably Geno Smith, DK Metcalf, and Kenneth Walker. It seems likely all players will be able to suit up Sunday.
+
 ##### _Weather_
 
 Dome
 
 ##### _Prior Meetings_
+
+***
+
+### Panthers +3.5
+
+***
 
 This game surprised me because of the betting split here. We're seeing nearly a 50% difference between ticket count and money allocation here - even though Seattle's winning ticket count by the slim majority, almost all of the money is siding with Carolina. Why is that? Isn't Geno Smith far better than whoever Carolina is trotting out there?
 
