@@ -52,9 +52,9 @@ The Jets won the first match earlier in the season despite being stamped as doub
 
 ***
 
-I know the oddsmakers are showing a bit more respect towards the Jets now that New York is catching fewer points on the road than they were given at home just several weeks ago...but this spread is still too egregious, no? New York is a good team, especially now that Mike White's made this offense operate at a serviceable level. I understand New York is still limited at offensive weaponry, but let's not pretend that same limitation doesn't apply to the Bills - nobody outside of Stefon Diggs has been reliable enough to produce on offense, suspiciously enough.
+I know the oddsmakers are showing a bit more respect towards the Jets now that New York is catching fewer points on the road than they were given at home just several weeks ago...but this spread is still too egregious, no? New York is a good team, especially now that Mike White's made this offense operate at a serviceable level. I understand New York is still limited at offensive weaponry, but let's not pretend that same limitation doesn't apply to the Bills - nobody outside of Stefon Diggs has been reliable enough to produce yards for Buffalo, suspiciously enough.
 
-That being said, I'm well aware game script can lead to the Jets losing control of the pace here. If the Bills start dictating the script by running up the script, it's all but over. But 9.5 points is still too much when Buffalo itself is far from a finished product.
+That being said, I'm well aware game script can lead to the Jets losing control of the pace here. If the Bills start dictating the script by running up the score, it's all but over. But 9.5 points is still too much when Buffalo itself is far from a finished product.
 
 One thing worth noting here is that I have yet another opportunity to test my theory about teams being a bit lazier than normal when facing an underdog after coming off a successful multi-week road trip.
 
@@ -138,7 +138,7 @@ The Bengals seem to harbor an inferiority complex against the Browns - Cincinnat
 
 Normally, the presence of an inferiority complex here would make things easy, but the problem is that Cleveland is starting a quarterback that hasn't played the game in nearly two years. Going by last week's tape, it's abundantly clear Deshaun Watson needs time to adjust back to the game. How much time exactly, that I don't know. But until he rediscovers his form, the Brown passing offense will be good as worthless.
 
-Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of taking Cleveland going forward.
+Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of Cleveland going forward.
 
 ***
 
