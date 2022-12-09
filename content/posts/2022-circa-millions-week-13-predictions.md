@@ -355,3 +355,5 @@ Well, I reviewed the play-by-play from the last game Carolina played this season
 It's possible Carolina might be able to engineer a passable offense here with Sam Darnold, P.J. Walker, and Chuba Hubbard. Chuba Hubbard especially is important to highlight here, considering Seattle has been downright ugly defending against opposing rushers the past couple weeks. A tough runner can have his way with this Seattle defense if he so chooses. 
 
 Don't get me wrong, Seattle deserves plenty of credit for surpassing expectations this season, but the team still has too many holes. So many of their shortcomings are being papered over thanks to Geno Smith, but even the offense can only mask so many deficiencies. What good is an elite quarterback if the defense has returned to league-worst form lately?
+
+***
