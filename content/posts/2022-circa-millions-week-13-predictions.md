@@ -298,3 +298,15 @@ Rondale Moore and DeAndre Hopkins are both names worth watching. Hopkins is like
 Dome
 
 ##### _Prior Meetings_
+
+Two years ago, these two met over at Gillette Stadium. New England manufactured a last-second comeback to steal the win away from Arizona. A few things have changed considerably since then, mainly on New England's side - Josh McDaniels is no longer its offensive coordinator nor is Cam Newton their quarterback.
+
+***
+
+### Cardinals +1.5
+
+***
+
+It's tough siding with Kyler Murray in short spreads here, but I am following a cardinal rule here - bad to average teams do not deserve to be favorites on the road against teams close to them in stature. New England has too many issues to merit consideration as a good team. Their defense can be especially slow against speedy players, Mac Jones and the skill players haven't been consistent at all on offense, the team has yet to demonstrate any resiliency or mental fortitude...flaws run rampant through that team.
+
+So long as Kyler Murray is given more rein to run wild with the ball, I think Arizona can rack up points against this easygoing Patriot defense.
