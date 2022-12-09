@@ -376,7 +376,9 @@ The Saints won in suspenseful fashion against the rival Saints last Monday. It's
 
 ##### _Injuries_
 
-49ers are down a few people, most importantly Jimmy Garoppalo. Now that Garoppalo is likely done for the season, it'll be the Brock Purdy show from here on out.
+49ers are down a few people, most importantly Jimmy Garoppalo. Now that Garoppalo is likely done for the season, it'll be the Brock Purdy show from here on out. It's also possible Nick Bosa may not suit up after not practicing all week. His hamstring issue flared up again, though Shanahan has indicated he could still play without any practice.
+
+As for Tampa, both their starting safeties may be sidelined, which may limit some of their more creative blitzes.
 
 ##### _Weather_
 
