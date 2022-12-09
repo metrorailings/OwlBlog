@@ -358,7 +358,7 @@ Don't get me wrong, Seattle deserves plenty of credit for surpassing expectation
 
 ***
 
-### Buccaneers @ 49ers
+### Buccaneers @ 49ers (-3.5)
 
 ***
 
@@ -385,3 +385,11 @@ As for Tampa, both their starting safeties may be sidelined, which may limit som
 A little rainy, but otherwise pleasant
 
 ##### _Prior Meetings_
+
+Surprisingly enough, these two teams haven't faced one another over the past couple years despite being in the same conference.
+
+***
+
+### 49ers -3.5
+
+***
