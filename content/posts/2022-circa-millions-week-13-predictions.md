@@ -310,3 +310,34 @@ Two years ago, these two met over at Gillette Stadium. New England manufactured 
 It's tough siding with Kyler Murray in short spreads here, but I am following a cardinal rule here - bad to average teams do not deserve to be favorites on the road against teams close to them in stature. New England has too many issues to merit consideration as a good team. Their defense can be especially slow against speedy players, Mac Jones and the skill players haven't been consistent at all on offense, the team has yet to demonstrate any resiliency or mental fortitude...flaws run rampant through that team.
 
 So long as Kyler Murray is given more rein to run wild with the ball, I think Arizona can rack up points against this easygoing Patriot defense.
+
+***
+
+### Panthers @ Seahawks (-3.5)
+
+***
+
+##### _Recent History_
+
+**Panthers**  
+@ Ravens (L)  
+vs. Broncos (W)  
+BYE
+
+**Seahawks**  
+vs. Raiders (L)  
+@ Rams (W)
+
+##### _Injuries_
+
+##### _Weather_
+
+Dome
+
+##### _Prior Meetings_
+
+This game surprised me because of the betting split here. We're seeing nearly a 50% difference between ticket count and money allocation here - even though Seattle's winning ticket count by the slim majority, almost all of the money is siding with Carolina. Why is that? Isn't Geno Smith far better than whoever Carolina is trotting out there?
+
+Well, I reviewed the play-by-play from the last game Carolina played this season, their home game against the Broncos. A couple things impressed me. One, Sam Darnold was actually able to connect on multiple deep passes to D.J. Moore. Two, Chuba Hubbard was simply sensational, chewing off steady yardage against one of the best defenses in the league. It made no sense why they would swap him with D'Onta Foreman at times, considering Foreman was almost always a drive killer. But Carolina actually sustained decent production against an incredibly stingy Denver defense.
+
+It's possible Carolina might be able to engineer a passable offense here with Sam Darnold, P.J. Walker, and Chuba Hubbard. Chuba Hubbard especially is important to highlight here, considering Seattle has been downright ugly defending against opposing rushers the past couple weeks. A tough runner can have his way with this Seattle defense if he so chooses. 
