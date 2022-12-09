@@ -393,3 +393,5 @@ Surprisingly enough, these two teams haven't faced one another over the past cou
 ### 49ers -3.5
 
 ***
+
+It's interesting that San Francisco is being given so many points here despite the fact that a third-string quarterback will be marshaling their offense going forward. Let that be testament to the completeness of the roster here - the oddsmakers are convinced the 49ers won't suffer many setbacks despite Purdy now starting under center for them. It makes sense too - so much of their offense is built on trickery and their skill players finding ways to create yards after the catch. Therefore, much isn't really asked from the quarterback here as opposed to a traditional drop-back passing game. So long as Purdy can organize this offense and be accurate enough on short yardage throws, the 49ers will be productive offensively. Even if they struggle a bit more than before, their top-tier defense should afford them enough opportunities to develop rhythm.
