@@ -289,8 +289,12 @@ BYE
 
 ##### _Injuries_
 
+A few skill players and defensive backs are injured for the Patriots, but I suspect most (if not all) will end up playing this Monday.
+
 Rondale Moore and DeAndre Hopkins are both names worth watching. Hopkins is likely to play, but Moore isn't.
 
 ##### _Weather_
+
+Dome
 
 ##### _Prior Meetings_
