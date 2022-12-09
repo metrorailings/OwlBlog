@@ -24,8 +24,8 @@ I think I covered everything. So let's go...
 
 ##### _Recent History_
 
-\**Jets  
-\**vs. Bears (W)  
+**Jets**  
+vs. Bears (W)  
 @ Vikings (L)
 
 **Bills**  
@@ -357,3 +357,29 @@ It's possible Carolina might be able to engineer a passable offense here with Sa
 Don't get me wrong, Seattle deserves plenty of credit for surpassing expectations this season, but the team still has too many holes. So many of their shortcomings are being papered over thanks to Geno Smith, but even the offense can only mask so many deficiencies. What good is an elite quarterback if the defense has returned to league-worst form lately?
 
 ***
+
+### Buccaneers @ 49ers
+
+***
+
+##### _Recent History_
+
+**Buccaneers**  
+vs. Saints (W)  
+vs. Dolphins (W)
+
+**49ers**  
+@ Browns (L)  
+vs. Saints (W) \[MNF\]
+
+The Saints won in suspenseful fashion against the rival Saints last Monday. It's possible Tampa may be coming into this game a little emotionally spent.
+
+##### _Injuries_
+
+49ers are down a few people, most importantly Jimmy Garoppalo. Now that Garoppalo is likely done for the season, it'll be the Brock Purdy show from here on out.
+
+##### _Weather_
+
+A little rainy, but otherwise pleasant
+
+##### _Prior Meetings_
