@@ -138,7 +138,7 @@ The Bengals seem to harbor an inferiority complex against the Browns - Cincinnat
 
 Normally, the presence of an inferiority complex here would make things easy, but the problem is that Cleveland is starting a quarterback that hasn't played the game in nearly two years. Going by last week's tape, it's abundantly clear Deshaun Watson needs time to adjust back to the game. How much time exactly, that I don't know. But until he rediscovers his form, the Brown passing offense will be good as worthless.
 
-Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of taking Cleveland going forward. 
+Nick Chubb will chew off some serious yards in this game. But a ground game without any real semblance of a passing offense can only do so much. Until Watson shows me that he can quarterback at a proficient level, I'll be wary of taking Cleveland going forward.
 
 ***
 
@@ -158,7 +158,7 @@ vs. Bengals (L)
 
 ##### _Injuries_
 
-It's almost guaranteed Treyvon Burk will be missing in action here. 
+It's almost guaranteed Treyvon Burk will be missing in action here.
 
 It's worth keeping an eye on Denico Autry for the Titans.
 
@@ -227,3 +227,45 @@ For Denver to nail this cover, their defense has to play out of its mind for fou
 Then again...I'm thinking back to that Tennessee game. The Titans were able to frustrate Kansas on offense, though they had to effectively play a double-header on defense to keep the game within reach at the end. Can Denver pull off that same feat? Even if the Broncos let up a bit towards the end, would that afford the Chiefs enough time to run up a double-digit lead here?
 
 ***
+
+### Dolphins @ Chargers (+3.5)
+
+***
+
+##### _Recent History_
+
+**Dolphins**  
+vs. Texans (W)  
+@ 49ers (L)
+
+**Chargers**  
+@ Cardinals (W)  
+@ Raiders (L)
+
+##### _Injuries_
+
+The Dolphins will permanently lose the services of one of their starting tackles after he was placed on IR.
+
+Mike Williams and Keenan Allen look to return to the field finally healthy this Sunday.
+
+##### _Weather_
+
+Dome
+
+##### _Prior Meetings_
+
+No real recent history worth exploring here.
+
+***
+
+### Dolphins -3.5
+
+***
+
+Yes, the Chargers have one of the best quarterbacks in the league in Justin Herbert. But when you saddle that quarterback with terrible coaching, lame skill players, a shoddy offensive line, an incompetent run defense, and a flaccid pass rush....he's being set up to fail. And that's exactly what we saw last week when the Chargers lost in Vegas.
+
+The good news though is that Keenan Allen and Mike Williams are expected to return back in better health. If they can contribute through the game, Herbert might have the barebones supporting cast he needs to keep this contest in contention.
+
+But the Dolphins are just so incredibly explosive and versatile on offense. This is the exact type of offense that usually ends up exploiting the biggest weakness in the Charger defense - their inability to cap explosive plays. Then again, it's not like the Dolphins are so sterling themselves on defense, especially given their proclivity for the blitz. These blitz-heavy defenses are usually easy pickings too for top-flight quarterbacks like Justin Herbert.
+
+In the end, it's said that teams that cover the spread manage to win the game roughly 80% of the time. In that light, Miami has more reason to win this game.
