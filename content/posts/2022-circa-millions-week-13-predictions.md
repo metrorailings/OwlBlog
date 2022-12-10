@@ -158,9 +158,9 @@ vs. Bengals (L)
 
 ##### _Injuries_
 
-It's almost guaranteed Treyvon Burk will be missing in action here.
+It's guaranteed Treyvon Burk will be missing in action here. On top of that, Denico Autry, David Long, and a few of their starting defensive backs have been ruled out.
 
-It's worth keeping an eye on Denico Autry for the Titans.
+As for Jacksonville, Trevor Lawrence is officially questionable. Very worrying.
 
 ##### _Weather_
 
@@ -182,7 +182,7 @@ But the one thing I can say is that this spread seems a tad too high in favor of
 
 The sad thing is that's certainly possible, especially given how badly the Jaguars are coached on offense. Their gusto for fourth down attempts makes no sense given how many times they've failed to convert - it's almost as if Doug Pederson forgot to draw up fourth down plays before printing out his playbook.
 
-If I had to pick a side here, it'd be Jacksonville. But I'd be calling myself a damn fool for even making a pick here.
+If I had to pick a side here, it'd be Jacksonville. But I'd be calling myself a damn fool for even making a pick here. Especially given Lawrence is not guaranteed to start.
 
 ***
 
