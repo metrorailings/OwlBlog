@@ -258,7 +258,7 @@ No real recent history worth exploring here.
 
 ***
 
-### Uncertain
+### Chargers +3.5
 
 ***
 
@@ -268,7 +268,7 @@ The good news though is that Keenan Allen and Mike Williams are expected to retu
 
 But the Dolphins are just so incredibly explosive and versatile on offense. This is the exact type of offense that usually ends up exploiting the biggest weakness in the Charger defense - their inability to cap explosive plays. Then again, it's not like the Dolphins are so sterling themselves on defense, especially given their proclivity for the blitz. These blitz-heavy defenses are usually easy pickings too for top-flight quarterbacks like Justin Herbert.
 
-In the end, it's said that teams that cover the spread manage to win the game roughly 80% of the time. Good cases can be made for either side here, though Miami has more factors in its favor.
+In the end, it's said that teams that cover the spread manage to win the game roughly 80% of the time. Good cases can be made for either side here, though Miami has more factors in its favor. But 3.5 points....it's a lot of points.
 
 ***
 
