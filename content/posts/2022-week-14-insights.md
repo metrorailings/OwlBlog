@@ -9,3 +9,5 @@ headline = "Week 14 Insights"
 Lions with some creative play-calling. Ben Johnson has done some good work bringing life back into this offense.
 
 Jared Goff looking very good too, so long as he's not being pressured.
+
+***
