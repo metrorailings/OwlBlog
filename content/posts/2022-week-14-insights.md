@@ -15,3 +15,9 @@ Jared Goff looking very good too, so long as he's not being pressured.
 ## Ravens @ Steelers
 
 Need to pay attention as to how Baltimore's defense was able to take over this game.
+
+***
+
+## Chiefs @ Broncos
+
+Patrick Mahomes with another fantastic throw leading to a surprise touchdown. Chiefs are running up points against the Broncos early.
