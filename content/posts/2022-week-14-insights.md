@@ -21,3 +21,5 @@ Need to pay attention as to how Baltimore's defense was able to take over this g
 ## Chiefs @ Broncos
 
 Patrick Mahomes with another fantastic throw leading to a surprise touchdown. Chiefs are running up points against the Broncos early.
+
+Willie Gay with a pick-six. Can we retire Russ?
