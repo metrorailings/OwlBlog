@@ -31,3 +31,7 @@ Willie Gay with a pick-six. Can we retire Russ?
 Jordan Willis with a big play forcing a hold to take away a Tampa touchdown.
 
 Purdy got some balls on him.
+
+***
+
+## Dolphins @ Chargers
