@@ -20,7 +20,11 @@ Meanwhile, Detroit experiments with a fake punt and it works. spectacularly. It 
 
 For Detroit, it seems Amon-Ra St. Brown and DeAndre Swift can be considered vectors. I'm not sure if anybody else quite qualifies yet. Josh Reynolds and DJ Chark are making a case for their candidacy.
 
-I genuinely think Minnesota only has one vector on offense. And that is Justin Jefferson.
+I genuinely think Minnesota only has one vector on offense. And that is Justin Jefferson. TJ Hockenson, Adam Thielan, and Dalvin Cook don't quite qualify yet in my book going by this game alone. Cook might have the best chance of impressing me.
+
+Za'Darius Smith is an elite pass rusher. Not quite sure anybody else on Minnesota's front deserves the same billing.
+
+Danielle Hunter is good in coverage though.
 
 ***
 
