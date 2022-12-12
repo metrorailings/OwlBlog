@@ -41,3 +41,5 @@ Christian Wilkins is something special defending the run. Then again, Los Angele
 The Chargers are using the Dolphins and their blitz-heavy tendencies against them.
 
 Christian Wilkins has been sensational overall.
+
+This rebuilt Chargers coverage has been phenomenal too. Then again, it's not too hard game-planning against Tua when you know he greatly prefers throwing into the intermediate middle of the field.
