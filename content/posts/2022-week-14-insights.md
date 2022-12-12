@@ -44,4 +44,4 @@ Christian Wilkins has been sensational overall.
 
 This rebuilt Chargers coverage has been phenomenal too. Then again, it's not too hard game-planning against Tua when you know he greatly prefers throwing into the intermediate middle of the field.
 
-Take away that intermediate middle of the field and this Miami passing offense turns a little too ugly for my liking. 
+Take away that intermediate middle of the field and this Miami passing offense turns a little too ugly for my liking. It's telling that this is the first time in the last 4 games that Tua has actually scrambled with the ball.
