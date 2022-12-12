@@ -12,7 +12,7 @@ Jared Goff looking very good too, so long as he's not being pressured.
 
 Harrison Smith not playing truly hurts coverage.
 
-Jared Goff may be making a case for elite status.
+Jared Goff may be making a case for elite status. That being said, it's pretty clear Minnesota's defense spent more time studying the ground game than their passing attack.
 
 Minnesota is experimenting a bit too much against Detroit, despite Detroit being objectively competent opponents. A play that was supposed to be a Dalvin Cook pass to the end zone ended up being a turnover. A fourth down attempt in their own territory ended up failing, and Detroit was able to convert that turnover into a touchdown shortly afterwards.
 
