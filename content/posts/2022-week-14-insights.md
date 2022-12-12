@@ -18,6 +18,8 @@ Minnesota is experimenting a bit too much against Detroit, despite Detroit being
 
 Meanwhile, Detroit experiments with a fake punt and it works. spectacularly. It helps to have momentum while playing at home.
 
+For Detroit, it seems Amon-Ra St. Brown and DeAndre Swift can be considered vectors. I'm not sure if anybody else quite qualifies yet. Josh Reynolds and DJ Chark are making a case for their candidacy.
+
 ***
 
 ## Ravens @ Steelers
