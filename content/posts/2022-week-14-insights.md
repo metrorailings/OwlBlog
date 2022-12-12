@@ -12,6 +12,8 @@ Jared Goff looking very good too, so long as he's not being pressured.
 
 Harrison Smith not playing truly hurts coverage.
 
+Jared Goff may be making a case for elitedom.
+
 ***
 
 ## Ravens @ Steelers
