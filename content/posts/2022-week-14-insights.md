@@ -39,3 +39,5 @@ Purdy got some balls on him.
 Christian Wilkins is something special defending the run. Then again, Los Angeles is truly awful running the ball.
 
 The Chargers are using the Dolphins and their blitz-heavy tendencies against them.
+
+Christian Wilkins has been sensational overall.
