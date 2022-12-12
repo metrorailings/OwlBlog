@@ -16,6 +16,8 @@ Jared Goff may be making a case for elite status.
 
 Minnesota is experimenting a bit too much against Detroit, despite Detroit being objectively competent opponents. A play that was supposed to be a Dalvin Cook pass to the end zone ended up being a turnover. A fourth down attempt in their own territory ended up failing, and Detroit was able to convert that turnover into a touchdown shortly afterwards.
 
+Meanwhile, Detroit experiments with a fake punt and it works. spectacularly. It helps to have momentum while playing at home.
+
 ***
 
 ## Ravens @ Steelers
