@@ -20,6 +20,8 @@ Meanwhile, Detroit experiments with a fake punt and it works. spectacularly. It 
 
 For Detroit, it seems Amon-Ra St. Brown and DeAndre Swift can be considered vectors. I'm not sure if anybody else quite qualifies yet. Josh Reynolds and DJ Chark are making a case for their candidacy.
 
+I genuinely think Minnesota only has one vector on offense. And that is Justin Jefferson.
+
 ***
 
 ## Ravens @ Steelers
