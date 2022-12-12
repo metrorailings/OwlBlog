@@ -23,3 +23,11 @@ Need to pay attention as to how Baltimore's defense was able to take over this g
 Patrick Mahomes with another fantastic throw leading to a surprise touchdown. Chiefs are running up points against the Broncos early.
 
 Willie Gay with a pick-six. Can we retire Russ?
+
+***
+
+## Buccaneers @ 49ers
+
+Jordan Willis with a big play forcing a hold to take away a Tampa touchdown.
+
+Purdy got some balls on him.
