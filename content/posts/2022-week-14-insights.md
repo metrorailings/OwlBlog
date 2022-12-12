@@ -35,3 +35,7 @@ Purdy got some balls on him.
 ***
 
 ## Dolphins @ Chargers
+
+Christian Wilkins is something special defending the run.
+
+The Chargers are using the Dolphins and their blitz-heavy tendencies against them.
