@@ -62,3 +62,7 @@ This rebuilt Chargers coverage has been phenomenal too. Then again, it's not too
 Take away that intermediate middle of the field and this Miami passing offense turns a little too ugly for my liking. It's telling that this is the first time in the last 4 games that Tua has actually scrambled with the ball.
 
 ***
+
+## Jaguars @ Titans
+
+Ryan Tannehill seems to be leaning on Westbrook-Ikhine here to carry the load in the receiving game.
