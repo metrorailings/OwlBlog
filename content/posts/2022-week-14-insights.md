@@ -66,3 +66,5 @@ Take away that intermediate middle of the field and this Miami passing offense t
 ## Jaguars @ Titans
 
 Ryan Tannehill seems to be leaning on Westbrook-Ikhine here to carry the load in the receiving game.
+
+Without Denico Autry and a fully healthy Jeffrey Simmons, this Titans pass rush is non-existant.
