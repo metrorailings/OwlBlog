@@ -68,3 +68,13 @@ Take away that intermediate middle of the field and this Miami passing offense t
 Ryan Tannehill seems to be leaning on Westbrook-Ikhine here to carry the load in the receiving game.
 
 Without Denico Autry and a fully healthy Jeffrey Simmons, this Titans pass rush is non-existant.
+
+Tennessee's base man-coverage isn't getting the job done, especially when they're down a starter or two.
+
+Trevor Lawrence is acting bolder than normal, throwing balls into very tight windows.
+
+Credit to Jacksonville for dedicating more offensive snaps to the passing game instead of the rushing attack, at least until the game was well out of reach for Tennessee. It's proof that Doug Pederson and his people can adapt if needed.
+
+Evan Engram may be finally breaking out as this team's top offensive weapon opposite Travis Etienne.
+
+None of Tennessee's receivers have shown themselves to be capable vectors here.
