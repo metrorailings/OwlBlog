@@ -117,6 +117,18 @@ Matt Milano hasn't been practicing at all this week, but things are trending tow
 
 ##### Weather
 
-Dome game
+Expect freezing weather with some slight chance of precipitation
 
 ##### Prior Meetings
+
+Back when these two met earlier, Buffalo proved themselves the better team but still lost. It was a bizarre loss too, considering the Bills possessed the ball for over 40-something minutes. Perhaps Miami benefitted from some luck and the element of surprise that came with new head coach Mike McDaniel installing a system of offense that was unfamiliar to defensive coaches around the league.
+
+***
+
+### Bills -7
+
+***
+
+The Bills are the better team in this match, especially now that Miami has been decoded on offense. I trust Sean McDermott will follow DeMeco Ryans and Brandon Staley in crowding the intermediate area of the field between the hashes with defensive backs, thereby forcing Tua to throw away from his comfort zone. Whether Tagovailoa is capable of doing that remains to be seen, though I didn't see him really adjusting at all last week against the Chargers.
+
+I do think McDaniel will commit to running the ball more, especially given the Bills are known to surrender explosive runs at a higher rate than normal. But Miami themselves haven't really shown any dedication to their ground game this season, so to think they could sustain success running the ball is a bit of a reach. 
