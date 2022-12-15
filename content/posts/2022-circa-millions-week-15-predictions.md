@@ -78,3 +78,11 @@ Nothing as of Wednesday.
 Dome game
 
 ##### Prior Meetings
+
+These two teams danced two years, but the Colts were being led by a different head coach and a quarterback at the time. Likewise, Mike Zimmer and his coaching regime were still in power over there in Minnesota. So that game is essentially meaningless when analyzing this game.
+
+***
+
+### Vikings -4.5
+
+***
