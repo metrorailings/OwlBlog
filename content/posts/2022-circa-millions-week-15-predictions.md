@@ -92,3 +92,31 @@ The Colts have been playing pretty demoralized lately after giving up what would
 Despite the end score, Minnesota's game last week against the Lions was pretty close, all things considering. Their defense rang up some timely stops, their offense was steadily able to move the ball, and Detroit was never able to force the game out of reach until the very end. It appeared to me that the Vikings mainly lost because their defensive coaching staff seriously underestimated Jared Goff's ability to pass - Goff had a field day passing the ball all over the place and connecting with several different receivers.
 
 4\.5 points is not too wide a spread for Minnesota to cover here, even if they've never demonstrated an ability to run up the score against anybody this season. Indianapolis will make a number of critical mistakes and the Vikings should be able to push up the score once the Colts start committing those errors.
+
+***
+
+### Dolphins @ Bills (-7)
+
+***
+
+##### Recent History
+
+**Dolphins**  
+@ 49ers (L)  
+@ Chargers (L) \[SNF\]
+
+**Bills**  
+@ Patriots (W) \[TNF\]  
+vs. Jets (W)
+
+##### Injuries
+
+Miami might be down their starting tailback in Jeff Wilson.
+
+Matt Milano hasn't been practicing at all this week, but things are trending towards him starting at least.
+
+##### Weather
+
+Dome game
+
+##### Prior Meetings
