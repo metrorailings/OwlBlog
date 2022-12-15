@@ -87,4 +87,8 @@ These two teams danced two years, but the Colts were being led by a different he
 
 ***
 
-The Colts have been playing pretty demoralized lately after giving up what would have been a signature win over the Philadelphia Eagles. Since then, they've lost pretty badly against an uninspiring Pittsburgh outfit at home before getting rolled by a Dallas team playing such lackadaisical football. 
+The Colts have been playing pretty demoralized lately after giving up what would have been a signature win over the Philadelphia Eagles. Since then, they've lost pretty badly against an uninspiring Pittsburgh outfit at home before getting rolled by a Dallas team playing such lackadaisical football. It's not that the effort isn't there, but the willpower to resist negative game script is absent across the roster. Meanwhile, Minnesota has been winning games by minimizing mistakes and making timely plays. Even if they don't flash at all on film, it's clear the Vikings are playing a sound brand of football focused simply on winning through discipline and game management. 
+
+Despite the end score, Minnesota's game last week against the Lions was pretty close, all things considering. Their defense rang up some timely stops, their offense was steadily able to move the ball, and Detroit was never able to force the game out of reach until the very end. It appeared to me that the Vikings mainly lost because their defensive coaching staff seriously underestimated Jared Goff's ability to pass - Goff had a field day passing the ball all over the place and connecting with several different receivers.
+
+4\.5 points is not too wide a spread for Minnesota to cover here, even if they've never demonstrated an ability to run up the score against anybody this season. Indianapolis will make a number of critical mistakes and the Vikings should be able to take advantage when these errors are committed.
