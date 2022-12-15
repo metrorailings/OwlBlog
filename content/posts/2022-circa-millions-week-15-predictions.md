@@ -86,3 +86,5 @@ These two teams danced two years, but the Colts were being led by a different he
 ### Vikings -4.5
 
 ***
+
+The Colts have been playing pretty demoralized lately after giving up what would have been a signature win over the Philadelphia Eagles. Since then, they've lost pretty badly against an uninspiring Pittsburgh outfit at home before getting rolled by a Dallas team playing such lackadaisical football. 
