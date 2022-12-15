@@ -47,3 +47,5 @@ No recent history to explore between these two organizations or their coaching s
 ### Texans +14
 
 ***
+
+I don't know if I fully buy into the Texans here, but the fact that we're seeing a 50% difference between the ticket count and the money bet in Houston's favor is enough to merit me selecting them this week.
