@@ -70,3 +70,11 @@ vs. Jets (W)
 @ Lions (L)
 
 ##### Injuries
+
+Nothing as of Wednesday.
+
+##### Weather
+
+Dome game
+
+##### Prior Meetings
