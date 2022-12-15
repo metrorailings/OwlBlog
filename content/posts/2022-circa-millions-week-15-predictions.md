@@ -13,3 +13,31 @@ That being said, my thesis was that Kyler Murray would produce yards on offense 
 Anyway, here we go.
 
 ***
+
+### Chiefs @ Texans (+14)
+
+***
+
+##### Recent History
+
+**Chiefs**  
+asd  
+asd
+
+**Texans**  
+vs. Browns (L)  
+@ Cowboys (L)
+
+Houston nearly won against Dallas last week despite being 17-point underdogs. Maybe this Houston team is better than we thought?
+
+##### Injuries
+
+No injuries of real significance for the Chiefs. The Texans may well be missing their best offensive player in Dameon Pierce after he was caught limping around last week during the game.
+
+##### Weather
+
+Pretty good weather
+
+##### Prior Meetings
+
+***
