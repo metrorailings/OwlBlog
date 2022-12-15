@@ -48,4 +48,6 @@ No recent history to explore between these two organizations or their coaching s
 
 ***
 
-I don't know if I fully buy into the Texans here, but the fact that we're seeing a 50% difference between the ticket count and the money bet in Houston's favor is enough to merit me selecting them this week.
+I don't know if I fully buy into the Texans here, but the fact that we're seeing a 50% difference between the ticket count and the money bet in Houston's favor is enough to merit me selecting them this week. If last week is any indication, it's clear this team thrives on being billed as significant underdogs.
+
+Kansas has a habit of not blowing out opponents that should be blown out. But then again, the Chiefs last week were shelling the Broncos pretty heavily in the first half before dying down in the second half, leaving the window open for Denver to try and stage a comeback. I need to watch the game to see if Kansas intently slowed down in the second half after building a sizable lead. Either way, it's clear the Texans will be fighting hard here, even if this ends up being another losing battle for them.
