@@ -129,6 +129,12 @@ Back when these two met earlier, Buffalo proved themselves the better team but s
 
 ***
 
-The Bills are the better team in this match, especially now that Miami has been decoded on offense. I trust Sean McDermott will follow DeMeco Ryans and Brandon Staley in crowding the intermediate area of the field between the hashes with defensive backs, thereby forcing Tua to throw away from his comfort zone. Whether Tagovailoa is capable of doing that remains to be seen, though I didn't see him really adjusting at all last week against the Chargers.
+The Bills are the better team in this match, especially now that Miami has been decoded on offense. I trust Sean McDermott will follow DeMeco Ryans and Brandon Staley in crowding the intermediate area of the field between the hashes with coverage defenders, thereby forcing Tua to throw away from his comfort zone. Whether Tagovailoa is capable of doing that remains to be seen, though I didn't see him really adjusting at all last week against the Chargers when it was abundantly clear that Los Angeles was going to make a living defending that one region of the field.
 
-I do think McDaniel will commit to running the ball more, especially given the Bills are known to surrender explosive runs at a higher rate than normal. But Miami themselves haven't really shown any dedication to their ground game this season, so to think they could sustain success running the ball is a bit of a reach. 
+I do think McDaniel will commit to running the ball more, especially given the Bills are known to surrender explosive runs at a higher rate than normal. But Miami themselves haven't really shown any dedication to their ground game this season, so to think they could sustain success running the ball is a gamble, especially when the Bills are one of the better teams at forcing negative runs. The Dolphins were only able to steadily run the ball this year in their game against Cleveland, but that's not saying much, is it?
+
+Emotionally, both teams need this win. Miami's returning back from its California mission beaten down physically and mentally. Buffalo is looking to lock down that top seed and avenge a painful loss to these same Dolphins from earlier in the season. On top of that, Buffalo will be playing in front of their beloved home crowd in primetime. So it'd be silly to expect Buffalo to take their foot off the accelerator should they rack up a multiple-score lead. If Miami is to cover this spread, it has to do so by force of will.
+
+***
+
+ 
