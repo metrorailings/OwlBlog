@@ -253,3 +253,5 @@ No historical data here between these two or their coaches.
 ### Uncertain
 
 ***
+
+It's tempting to take the Bengals. On paper, Cincinnati is the far better team. 
