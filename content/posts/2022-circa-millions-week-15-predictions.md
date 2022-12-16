@@ -175,4 +175,6 @@ I bring up their rushing defense because it's well-known that the Steelers only 
 
 ***
 
- 
+### Titans @ Chargers (-3)
+
+***
