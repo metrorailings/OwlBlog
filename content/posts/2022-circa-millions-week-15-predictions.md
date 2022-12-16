@@ -202,3 +202,5 @@ The Chargers are in comparatively better shape, as Sebastian Joseph-Day is expec
 Dome game
 
 ##### Prior Meetings
+
+Neither of these two teams nor their main coaches are too familiar with one another.
