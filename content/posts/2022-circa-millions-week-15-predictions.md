@@ -241,8 +241,16 @@ A little worrying here to be a Bengals supporter here, considering they're trave
 
 ##### Injuries
 
-Cincinnati is expected to miss one of Tyler Boyd and Tee Higgins.
+Cincinnati is expected to miss one of Tyler Boyd and Tee Higgins. Hayden Hurst is also expected to be sidelined. The biggest concern though is Trey Hendrickson - the man hasn't been practicing at all after breaking his wrist last week. It's unlikely he'll be in the game.
 
 Tampa might be missing a few people on defense, most notably Vita Vea. Joe Tryon-Shoyinka's dealing with a hip issue too.
+
+##### Prior Meetings
+
+No historical data here between these two or their coaches.
+
+***
+
+### Uncertain
 
 ***
