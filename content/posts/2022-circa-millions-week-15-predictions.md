@@ -254,4 +254,8 @@ No historical data here between these two or their coaches.
 
 ***
 
-It's tempting to take the Bengals. On paper, Cincinnati is the far better team. 
+It's tempting to take the Bengals. On paper, Cincinnati is the far better team. Better quarterback, better pass rushers, an offensive line in better shape,  a more dynamic offense, arguably better coaching...
+
+But it does concern me that Cincinnati will be missing the services of their best pass rusher in Trey Hendrickson. A significant part of the reason why San Francisco was able to dominate Tampa last week was because Nick Bosa made timely plays to cut some Buccaneer drives short. That being said, San Francisco's style of offense probably played a greater role in the blower, as the way the 49ers operate offensive caters well to exploiting Tampa's weaknesses on defense. Cincinnati's strengths on the other hand caters more to the Bucs strengths on defense, as Tampa Bay seems better constructed defensively to handle traditional drop-back offenses.
+
+Am I overthinking this though?
