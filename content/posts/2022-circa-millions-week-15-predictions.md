@@ -171,7 +171,7 @@ No recent history to explore here.
 
 Carolina's a bit of a strange team. Their season-wide rushing numbers aren't too flattering, but if you look at their last several games, you'll see the Panthers have been outstanding shutting down opposing runners. Their only stumble over that period came against Cincinnati - Joe Mixon had a career outing that day. But honestly, I'm not sure that game was nothing more than a fluky result given the team's mental state at the time.
 
-I bring up their rushing defense because it's well-known that the Steelers only succeed on offense so long as their ground game is brewing. The Panthers have the horses to limit Najee Harris. If Carolina can force Pittsburgh's offense to play away from their strengths, a Panther victory is likely then. The magnitude of that win is uncertain given the sorry state of Carolina's passing game, but given the short spread, all they need to to cover is win.
+I bring up their rushing defense because it's well-known that the Steelers only succeed on offense so long as their ground game is brewing. Baltimore was down to their third-string quarterback, and yet they still won pretty soundly because Pittsburgh couldn't find any rhythm on the ground. These Panthers have the horses to limit Najee Harris, if their recent rushing defense numbers are any indication. If Carolina can force Pittsburgh's offense to play away from their strengths, a Panther victory is likely then. The magnitude of that win is uncertain given the sorry state of Carolina's passing game, but given the short spread, all they need to cover is to win.
 
 ***
 
