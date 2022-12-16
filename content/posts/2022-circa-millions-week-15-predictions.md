@@ -203,4 +203,20 @@ Dome game
 
 ##### Prior Meetings
 
-Neither of these two teams nor their main coaches are too familiar with one another.
+Neither of these two teams nor their main coaches are too familiar with one another. It's worth noting that against other Fangio-style defenses, Tennessee's offense hasn't really impressed statistically. But those games ultimately ended in victories, largely because their opponent's offenses were constantly shooting themselves in the foot.
+
+***
+
+### Titans +3
+
+***
+
+I wish Tennessee had the benefit of the hook here. It'd make me feel so much better siding with them if that were the case. That being said, I'm taking Tennessee here because  of a few reasons.
+
+First, I see an emotional gulf here, considering Los Angeles is coming off a statement win against the hyped Dolphins while Tennessee has lost some face after the Jaguars blew them out last week in their own home stadium.
+
+Second, Tennessee's clearly committed to running this ball with power. And as Vegas showed us just a few weeks ago, the Chargers aren't built to snuff gritty rushers like Josh Jacobs or Derrick Henry.
+
+Third, even though the Titans have one of the worst pass protection units in the league, it should be easier keeping Ryan Tannehill upright against a Charger team not known for being able to pressure quarterbacks.
+
+It's these combination of factors that should not only help Tennessee cover this spread, but perhaps steal a win here as an underdog.
