@@ -178,3 +178,27 @@ I bring up their rushing defense because it's well-known that the Steelers only 
 ### Titans @ Chargers (-3)
 
 ***
+
+##### Recent History
+
+**Titans**  
+@ Eagles (L)  
+vs. Jaguars (L)
+
+**Chargers**  
+@ Raiders (L)  
+vs. Dolphins (W) \[SNF\]
+
+The Titans are on an extended losing streak for the first time in Mike Vrabel's career as head coach. It's pretty amazing to see a team as solidly coached as Tennessee be currently mired in a three-game losing streak, but their talent deficiency has finally caught up with them.
+
+##### Injuries
+
+These Tennessee Titans are the walking wounded. Their top wide receiver, top cornerback, top linebackers, and top defensive pass rushers are all injured. The good news is that Denico Autry and Jeffery Simmons may play in some fashion, so at least their defensive front will have some pop to it come Sunday.
+
+The Chargers are in comparatively better shape, as Sebastian Joseph-Day is expected to return. Lord knows the interior of that defensive front needs his presence.
+
+##### Weather
+
+Dome game
+
+##### Prior Meetings
