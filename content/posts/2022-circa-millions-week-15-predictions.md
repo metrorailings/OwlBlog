@@ -259,3 +259,43 @@ It's tempting to take the Bengals. On paper, Cincinnati is the far better team. 
 But it does concern me that Cincinnati will be missing the services of their best pass rusher in Trey Hendrickson. A significant part of the reason why San Francisco was able to dominate Tampa last week was because Nick Bosa made timely plays to cut some Buccaneer drives short. That being said, San Francisco's style of offense probably played a greater role in the blower, as the way the 49ers operate offensive caters well to exploiting Tampa's weaknesses on defense. Cincinnati's strengths on the other hand caters more to the Bucs strengths on defense, as Tampa Bay seems better constructed defensively to handle traditional drop-back offenses.
 
 Am I overthinking this though?
+
+***
+
+### Ravens @ Browns (-2.5)
+
+***
+
+##### Recent History
+
+**Ravens**  
+vs. Broncos (W)  
+@ Steelers (W)
+
+**Browns**  
+@ Texans (W)  
+vs. Bengals (L)
+
+##### Injuries
+
+In a bit of good news for the Ravens, it seems like Tyler Hundley should be able to play. 
+
+Cleveland is healthy.
+
+##### Weather
+
+Cold with some considerable wind chill. Not all that conducive to passing football.
+
+##### Prior Meetings
+
+Cleveland actually tends to perform well against teams in their division, and that usually includes Baltimore. But that history wasn't enough to save the Browns from Deshaun Watson's poor play last week. The reality is that until Watson settles back into a groove, he's a liability. Hundley is anything but a liability, judging by the way he's been playing lately and the way he punched back hard against Cleveland last year after coming into the game on relief duty.
+
+***
+
+### Ravens +2.5
+
+***
+
+Baltimore is still a good team despite featuring Tyler Hundley at quarterback. In fact, the past two weeks alone has shown me Hundley is far more refined at quarterback than Deshaun. It makes sense too considering the latter is just now working back into playing shape after being removed from game-time action for two years. I understand the Browns are playing at home, but the quarterback discrepancy here should negate that advantage. If Baltimore can keep up their recent trend of containing opposing rushers to low yardage, it's going to be very difficult for Cleveland to move the ball offensively, let alone score touchdowns.
+
+That being said, the Ravens offensive line is still in sorry shape. But what might work in Baltimore's favor here is the fact that Cleveland only has one consistently good pass rusher on their roster - Myles Garrett. If Baltimore can strategize well enough to contain Garrett, Hundley can engineer a passing attack here.
