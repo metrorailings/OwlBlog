@@ -140,3 +140,39 @@ Emotionally, both teams need this win. Miami's returning back from its Californi
 ### Steelers @ Panthers (-2.5)
 
 ***
+
+##### Recent History
+
+**Steelers**  
+@ Falcons (W)  
+vs. Ravens (L)
+
+**Panthers**  
+vs. Broncos (W)  
+@ Seahawks (W)
+
+##### Injuries
+
+For the Steelers, Pat Friermuth and Diontae Johnson haven't been practicing. The bigger issue is Kenny Pickett though. Pickett is almost assured to be ruled out of the game with a concussion.
+
+##### Weather
+
+Chilly, but otherwise pretty good by winter's standards
+
+##### Prior Meetings
+
+No recent history to explore here.
+
+***
+
+### Panthers -2.5
+
+***
+
+Carolina's a bit of a strange team. Their season-wide rushing numbers aren't too flattering, but if you look at their last several games, you'll see the Panthers have been outstanding shutting down opposing runners. Their only stumble over that period came against Cincinnati - Joe Mixon had a career outing that day. But honestly, I'm not sure that game was nothing more than a fluky result given the team's mental state at the time.
+
+I bring up their rushing defense because it's well-known that the Steelers only succeed on offense so long as their ground game is brewing. The Panthers have the horses to limit Najee Harris. If Carolina can force Pittsburgh's offense to play away from their strengths, a Panther victory is likely then. The magnitude of that win is uncertain given the sorry state of Carolina's passing game, but given the short spread, all they need to to cover is win.
+
+***
+
+ 
