@@ -220,3 +220,29 @@ Second, Tennessee's clearly committed to running this ball with power. And as Ve
 Third, even though the Titans have one of the worst pass protection units in the league, it should be easier keeping Ryan Tannehill upright against a Charger team not known for being able to pressure quarterbacks.
 
 It's these combination of factors that should not only help Tennessee cover this spread, but perhaps steal a win here as an underdog.
+
+***
+
+### Bengals @ Buccaneers (+3.5)
+
+***
+
+##### Recent History
+
+**Bengals**  
+vs. Chiefs (W)  
+vs. Browns (W)
+
+**Buccaneers**  
+vs. Saints (W) \[MNF\]  
+@ 49ers (L)
+
+A little worrying here to be a Bengals supporter here, considering they're traveling on the road after winning two games consecutively at home.
+
+##### Injuries
+
+Cincinnati is expected to miss one of Tyler Boyd and Tee Higgins.
+
+Tampa might be missing a few people on defense, most notably Vita Vea. Joe Tryon-Shoyinka's dealing with a hip issue too.
+
+***
