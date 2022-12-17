@@ -13,3 +13,5 @@ It's clear the Vikings came into this game not caring one bit at all. For a team
 Lesson learned - **for teams known for narrow victories, never pick them if they're greater than 3 point favorites.**
 
 ***
+
+As much criticism as Greg Roman deserves for not straying too far from his formulaic approach, you have to give credit to his ability to adjust. The opening Ravens drive in the second half was dominated almost entirely by running plays.
