@@ -8,4 +8,8 @@ These Vikings are just a bad team. I'm not sure how exactly you give up 17 point
 
 Where is Minnesota's pass rush? I do not see them at all.
 
-Maybe the Colts found some resolve over the bye.
+It's clear the Vikings came into this game not caring one bit at all. For a team that's used to winning tight games, this spread may have been way too wide for them. Pretty sad too, all things considering. This team's mentality is centered more on winning without any regard for the score differential.
+
+Lesson learned - **for teams known for narrow victories, never pick them if they're greater than 3 point favorites.**
+
+***
