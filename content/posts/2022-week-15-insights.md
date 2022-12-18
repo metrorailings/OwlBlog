@@ -4,7 +4,7 @@ draft = true
 headline = "2022 Week 15 Insights"
 
 +++
-These Vikings are just a bad team. I'm not sure how exactly you give up 17 points in the first quarter to an Indianapolis team that's truly underwhelming in so many respects, but Minnesota managed to pull that off. 
+These Vikings are just a bad team. I'm not sure how exactly you give up 17 points in the first quarter to an Indianapolis team that's truly underwhelming in so many respects, but Minnesota managed to pull that off.
 
 Where is Minnesota's pass rush? I do not see them at all.
 
@@ -18,12 +18,16 @@ As much criticism as Greg Roman deserves for not straying too far from his formu
 
 You know, it's quite possible Cleveland might have had the emotional edge here given Baltimore won a close one over their nemesis last week Steelers whereas Cleveland lost pretty resoundingly against another division rival last week. Baltimore's victory was all the more impressive considering the Ravens were down to their third-string quarterback late in the third quarter. If Baltimore is recovering from an emotional high, it would explain how Justin Tucker missed two field goals, the tailbacks fumbled the ball twice, and the team embarrassed themselves trying to convert on multiple fourth downs.
 
-That being said, I wasn't wrong about my assessment of Cleveland. Sure, the weather didn't help, but it was still a mostly poor outing from Deshaun Watson. Without their ground game, their offense had issues sustaining production. It was only through the Ravens gifting them so many ridiculous turnovers that the Browns won by a decent margin. 
+That being said, I wasn't wrong about my assessment of Cleveland. Sure, the weather didn't help, but it was still a mostly poor outing from Deshaun Watson. Without their ground game, their offense had issues sustaining production. It was only through the Ravens gifting them so many ridiculous turnovers that the Browns won by a decent margin.
+
+Lesson learned - **when assessing recent history, also note whether teams may be emotionally spent from their last game.**
 
 ***
 
- It seemed obvious to me that Miami would commit to the running game more today. And yet the Bills brain trust seems genuinely surprised at this. And their defense over the middle of the field hasn't exactly been rock solid, as evidenced by Tua connecting with the Penguin for the touchdown. On top of that, Buffalo is intently avoiding pressing the receivers at the line of scrimmage, which makes no sense - the Chargers were incredibly successful last week in part by doing just that.
+It seemed obvious to me that Miami would commit to the running game more today. And yet the Bills brain trust seems genuinely surprised at this. And their defense over the middle of the field hasn't exactly been rock solid, as evidenced by Tua connecting with the Penguin for the touchdown. On top of that, Buffalo is intently avoiding pressing the receivers at the line of scrimmage, which makes no sense - the Chargers were incredibly successful last week in part by doing just that.
 
 I think in the event where an underdog can surprise an opponent with a new dimension on offense, then the advantage goes to the underdog. Lots of rules I'm learning today on what is an otherwise depressing day of football for me.
 
 Miami has an additional vector on offense in the form of its ground game.
+
+Lesson learned - **teams that have recently incorporated other dimensions of offense into their game plan have an edge against defenses.** It's possible this fact may go a long way towards explaining teams going into the playoffs "hot".
