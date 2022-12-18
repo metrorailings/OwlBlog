@@ -278,7 +278,7 @@ vs. Bengals (L)
 
 ##### Injuries
 
-In a bit of good news for the Ravens, it seems like Tyler Hundley should be able to play. 
+In a bit of good news for the Ravens, it seems like Tyler Hundley should be able to play.
 
 Cleveland is healthy.
 
