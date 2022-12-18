@@ -24,4 +24,6 @@ That being said, I wasn't wrong about my assessment of Cleveland. Sure, the weat
 
  It seemed obvious to me that Miami would commit to the running game more today. And yet the Bills brain trust seems genuinely surprised at this. And their defense over the middle of the field hasn't exactly been rock solid, as evidenced by Tua connecting with the Penguin for the touchdown. On top of that, Buffalo is intently avoiding pressing the receivers at the line of scrimmage, which makes no sense - the Chargers were incredibly successful last week in part by doing just that.
 
-I think in the event where an underdog can surprise an opponent with a new dimension on offense, then the advantage goes to the underdog. Lots of rules I'm learning today on what is an otherwise depressing day of football for me. 
+I think in the event where an underdog can surprise an opponent with a new dimension on offense, then the advantage goes to the underdog. Lots of rules I'm learning today on what is an otherwise depressing day of football for me.
+
+Miami has an additional vector on offense in the form of its ground game.
