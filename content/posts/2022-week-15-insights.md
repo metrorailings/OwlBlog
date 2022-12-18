@@ -18,7 +18,7 @@ As much criticism as Greg Roman deserves for not straying too far from his formu
 
 You know, it's quite possible Cleveland might have had the emotional edge here given Baltimore won a close one over their nemesis last week Steelers whereas Cleveland lost pretty resoundingly against another division rival last week. Baltimore's victory was all the more impressive considering the Ravens were down to their third-string quarterback late in the third quarter. If Baltimore is recovering from an emotional high, it would explain how Justin Tucker missed two field goals, the tailbacks fumbled the ball twice, and the team embarrassed themselves trying to convert on multiple fourth downs.
 
-That being said, I wasn't wrong about my assessment of Cleveland. Sure, the weather didn't help, but it was still a mostly poor outing from Deshaun Watson. Without their ground game, their offense had issues sustaining production. It was only through the Ravens gifting them so many ridiculous turnovers that the Browns won by a decent margin.
+That being said, I wasn't wrong about my assessment of Cleveland. Sure, the weather didn't help, but it was still a mostly poor outing from Deshaun Watson. Without any help from their ground game, their offense had issues sustaining production. It was only through the Ravens gifting them so many ridiculous turnovers that the Browns won by a decent margin.
 
 Lesson learned - **when assessing recent history, also note whether teams may be emotionally spent from their last game.**
 
