@@ -33,4 +33,4 @@ Lesson learned - **teams that have recently incorporated other dimensions of off
 
 ***
 
-Tampa Bay is trying to incorporate some new concepts in their playbook and it's been working spectacularly in the first half of their contest against Cincy.
+Tampa Bay is trying to incorporate some new concepts in their playbook and invoke more rushes than otherwise normal for them - so far, these changes have been working spectacularly in their favor in the first half of their contest against Cincy.
