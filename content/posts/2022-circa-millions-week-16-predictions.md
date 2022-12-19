@@ -23,3 +23,11 @@ vs. Eagles (L)
 vs. Colts (W)
 
 The Vikings are coming off an incredibly emotional victory, having successfully waged the NFL's largest comeback after rallying from a deficit of 33 points.
+
+***
+
+### Giants +3.5
+
+***
+
+Last week showed me that certain teams have a hard time covering comfortably as favorites. Usually, it's the teams with underwhelming offenses and no desire to run up the score that struggle to cover spreads greater than a field goal. The Vikings are one such team. I'm not sure why the team insists on performing just well enough to win games, with little regard for scoring margin. I understand the scoring margin doesn't matter much and only really counts for style points, but it leaves these Vikings and others like them susceptible to comebacks and lazy performances. 
