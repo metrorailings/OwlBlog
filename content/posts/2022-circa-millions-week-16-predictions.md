@@ -9,3 +9,17 @@ So the lessons I learned last week will inform me going forward. Football is a g
 ***
 
 ### Giants @ Vikings (-3.5)
+
+***
+
+##### Latest Results
+
+**Giants**  
+vs. Eagles (L)  
+@ Commanders (W)  
+  
+**Vikings**  
+@ Lions (L)  
+vs. Colts (W)
+
+The Vikings are coming off an incredibly emotional victory, having successfully waged the NFL's largest comeback after rallying from a deficit of 33 points.
