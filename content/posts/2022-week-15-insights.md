@@ -30,3 +30,7 @@ I think in the event where an underdog can surprise an opponent with a new dimen
 Miami has an additional vector on offense in the form of its ground game.
 
 Lesson learned - **teams that have recently incorporated other dimensions of offense into their game plan have an edge against defenses.** It's possible this fact may go a long way towards explaining teams going into the playoffs "hot".
+
+***
+
+Tampa Bay is trying to incorporate some new concepts in their playbook and it's been working spectacularly in the first half of their contest against Cincy.
