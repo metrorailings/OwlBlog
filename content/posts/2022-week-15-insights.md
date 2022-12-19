@@ -34,3 +34,5 @@ Lesson learned - **teams that have recently incorporated other dimensions of off
 ***
 
 Tampa Bay is trying to incorporate some new concepts in their playbook - pre-snap motions, play-action, misdirection plays. Not only that, but the offense is relying on its ground game far more than otherwise normal for them. So far, these changes have been working spectacularly in their favor in the first half of their contest against Cincy.
+
+The problem becomes that the Buccaneers might have given up on all those concepts in the second half...
