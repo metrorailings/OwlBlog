@@ -67,3 +67,11 @@ Raiders are coming off a very unexpected win versus the Patriots. First, the tea
 No major injuries on either side, though more will be known later this week when both clubs start practicing.
 
 ##### Prior Meetings
+
+Last year this two faced off in primetime over in Heinz Field. Vegas won unexpectedly as significant underdogs. That being said, that match only carries so much weight here considering the Raiders this year are so dramatically different in terms of coaching. Likewise, the Steelers have changed a bit too now that Roethlisberger is no longer hanging around their neck like an albatross.
+
+***
+
+### Steelers -2.5
+
+***
