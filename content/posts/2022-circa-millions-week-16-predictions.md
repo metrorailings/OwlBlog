@@ -76,6 +76,6 @@ Last year this two faced off in primetime over in Heinz Field. Vegas won unexpec
 
 ***
 
-Once again, this is a test of my theory about emotional victories. The Steelers aren't a great team by any means. But these Raiders are still in the throes of an emotional high after their unexpected win over their head coach's former mentor. I'm not sure Vegas has the mental discipline necessary to reorient themselves in time for this road match against a perceivably lesser opponent.
+Once again, this is a test of my theory about emotional victories. The Steelers aren't a great team by any means. But these Raiders are still in the throes of an emotional high after their unexpected win over their head coach's former mentor. I'm not sure Vegas has the mental discipline necessary to ground themselves in time for this road match against a perceivably lesser opponent.
 
 Using more conventional reasoning here, Pittsburgh has good enough reason to win this game if emotional dynamics didn't matter. Their defensive coaching is smart enough to curb this limited Vegas offense. Most importantly, that Vegas offensive line is still a little loose at the seams, which bodes well for T.J. Watt and company.
