@@ -42,7 +42,7 @@ Last week showed me that certain teams have a hard time covering comfortably as 
 
 We saw that last week against Indianapolis. Minnesota only actually played one half against the Colts after spending the entire first half sobering up from whatever poison was running through their veins the night before. Keep in mind that the Colts were a short favorite, taking only 3.5 points. But that didn't really matter much for a Minnesota club not known for scoring more than whatever is absolutely necessary to win the game.
 
-The Giants are coming in fresh off a win, sure, but I'm not sure if it could really be considered emotional considering New York maintained control of the game early and never really had to worry about ceding the lead towards the end. Minnesota, on the other hand, is enjoying a major emotional high after staging the greatest comeback in league history.
+The Giants are coming in fresh off a win, sure, but I'm not sure if it could really be considered emotional considering New York maintained control of the game early and never really had to worry about ceding the lead towards the end. Minnesota, on the other hand, is enjoying a major emotional high after staging the greatest comeback in league history. A pullback is all but expected here.
 
 ***
 
