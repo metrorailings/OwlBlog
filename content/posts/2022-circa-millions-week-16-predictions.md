@@ -68,7 +68,7 @@ No major injuries on either side, though more will be known later this week when
 
 ##### Prior Meetings
 
-Last year this two faced off in primetime over in Heinz Field. Vegas won unexpectedly as significant underdogs. That being said, that match only carries so much weight here considering the Raiders this year are so dramatically different in terms of coaching. Likewise, the Steelers have changed a bit too on offense now that they have fresh faces leading them on offense.
+Last year these two faced off in primetime over in Heinz Field. Vegas won unexpectedly as significant underdogs. That being said, that match only carries so much weight here considering the Raiders this year are seriously different in terms of coaching. Likewise, the Steelers have changed a bit too on offense now that they have fresh faces leading them on offense.
 
 ***
 
@@ -78,4 +78,4 @@ Last year this two faced off in primetime over in Heinz Field. Vegas won unexpec
 
 Once again, this is a test of my theory about emotional victories. The Steelers aren't a great team by any means. But these Raiders are still in the throes of an emotional high after their unexpected win over their head coach's former mentor. I'm not sure Vegas has the mental discipline necessary to ground themselves in time for this road match against a perceivably lesser opponent.
 
-Using more conventional reasoning here, Pittsburgh has good enough reason to win this game if emotional dynamics didn't matter. Their defensive coaching is smart enough to curb this limited Vegas offense. Most importantly, that Vegas offensive line is still a little loose at the seams, which bodes well for T.J. Watt and company.
+Then again, Pittsburgh has good enough reason to win this game even if emotional dynamics didn't matter. Their defensive coaching is smart enough to curb this limited Vegas offense. Most importantly, that Vegas offensive line is still a little loose at the seams, which bodes well for T.J. Watt and company. If PIttsburgh's defensive front can hold Josh Jacobs at bay and regularly harass Derek Carr in the pocket, a Steeler victory should be certain.
