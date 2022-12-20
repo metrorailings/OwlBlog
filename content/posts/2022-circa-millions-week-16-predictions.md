@@ -68,10 +68,14 @@ No major injuries on either side, though more will be known later this week when
 
 ##### Prior Meetings
 
-Last year this two faced off in primetime over in Heinz Field. Vegas won unexpectedly as significant underdogs. That being said, that match only carries so much weight here considering the Raiders this year are so dramatically different in terms of coaching. Likewise, the Steelers have changed a bit too now that Roethlisberger is no longer hanging around their neck like an albatross.
+Last year this two faced off in primetime over in Heinz Field. Vegas won unexpectedly as significant underdogs. That being said, that match only carries so much weight here considering the Raiders this year are so dramatically different in terms of coaching. Likewise, the Steelers have changed a bit too on offense now that they have fresh faces leading them on offense.
 
 ***
 
 ### Steelers -2.5
 
 ***
+
+Once again, this is a test of my theory about emotional victories. The Steelers aren't a great team by any means. But these Raiders are still in the throes of an emotional high after their unexpected win over their head coach's former mentor. I'm not sure Vegas has the mental discipline necessary to reorient themselves in time for this road match against a perceivably lesser opponent.
+
+Using more conventional reasoning here, Pittsburgh has good reason to win this game outright by at least three points. Their defensive coaching is smart enough to curb this limited Vegas offense. Most importantly, Vegas is missing some key elements along that offensive line, which bodes well for T.J. Watt and company.
