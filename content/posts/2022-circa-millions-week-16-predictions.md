@@ -113,3 +113,5 @@ These two franchises last met on the battlefield about three years ago. So we do
 ### Bengals -3.5
 
 ***
+
+It worries me that the money's favoring New England so much more than the actual ticket count would have you believe. But these Patriots are just a bad team. I think the issues they have are systemic as well - for a Bill Belichick team to screw the pooch on things like punt returns, game management, and procedure penalties is incredibly bizarre. That ugly series of events on the last play wasn't just a fluke - I think it's indicative of some pervasive cancer festering behind the scenes. Matt Patricia clearly isn't cut out to lead an offense at the professional level, but I do think his leadership has had some parasitic influence over the team as a whole. For whatever reason, Belichick is allowing this cancer infecting the locker room to stabilize.
