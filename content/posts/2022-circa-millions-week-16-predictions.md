@@ -79,3 +79,37 @@ Last year these two faced off in primetime over in Heinz Field. Vegas won unexpe
 Once again, this is a test of my theory about emotional victories. The Steelers aren't a great team by any means. But these Raiders are still in the throes of an emotional high after their unexpected win over their head coach's former mentor. I'm not sure Vegas has the mental discipline necessary to ground themselves in time for this road match against a perceivably lesser opponent.
 
 Then again, Pittsburgh has good enough reason to win this game even if emotional dynamics didn't matter. Their defensive coaching is smart enough to curb this limited Vegas offense. Most importantly, that Vegas offensive line is still a little loose at the seams, which bodes well for T.J. Watt and company. If PIttsburgh's defensive front can hold Josh Jacobs at bay and regularly harass Derek Carr in the pocket, a Steeler victory should be certain.
+
+***
+
+### Bengals @ Patriots (+3.5)
+
+***
+
+##### Latest Results
+
+**Bengals**  
+vs. Browns (W)  
+@ Buccaneers (W)
+
+**Patriots**  
+@ Cardinals (W) \[MNF\]  
+@ Raiders (L)
+
+As I described earlier, the Patriots lost in humiliating fashion last week. I'm not sure if they can shake off the embarrassment from that loss too in the span of a week.
+
+##### Injuries
+
+Cincinnati is almost certain to miss its two best pass rushers in Sam Hubbard and Trey Hendrickson.
+
+Patriots are down a starting lineman in Isaiah Wynn.
+
+##### Prior Meetings
+
+These two franchises last met on the battlefield about three years ago. So we do not have any real history worth exploring here.
+
+***
+
+### Bengals -3.5
+
+***
