@@ -173,3 +173,25 @@ vs. Giants (L) (SNF)
 **49ers**  
 vs. Buccaneers (W)  
 @ Seahawks (W) (TNF)
+
+Washington has lost some face in the past several weeks after two disappointing outings against their big brother New York Giants.
+
+##### Injuries
+
+Washington should finally see the return of defensive end Chase Young. I'd be shocked if he makes an immediate impact after spending so much time away from real action.
+
+Deebo Samuel is out for the 49ers, and starting cornerback Ward is questionable with a concussion.
+
+##### Prior Meetings
+
+These two last met two years ago. That meeting holds a little relevance here given the coaching staffs haven't changed much since then. Ron Rivera and company were able to surprise folks by winning as underdogs. Both teams have improved since then, though it seems San Francisco has improved much more compared to the Commanders.
+
+***
+
+### Commanders +7
+
+***
+
+As I said before, this line is largely the result of Washington losing some serious credibility over the past weekends thanks to disappointing games against the Giants, a team many in the public see as inferior. On paper, yes, New York is a worse team compared to the Commanders. But the reality is that it's quite possible this Washington team is saddled with an inferiority complex against the Giants. Three of the past four years, New York has swept Washington in their divisional series - last year was the odd season out, but much of that can be attributed to the general dysfunction running rife through the Giants organization.
+
+If that's true, than Washington is being unfairly valued here, especially when their defense doesn't lag too far behind San Francisco's own defensive outfit. Offensively, the 49ers has more versatility and avenues of attack, but it's not like Washington's short on weaponry of their own. 
