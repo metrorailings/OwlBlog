@@ -158,3 +158,18 @@ I'm mostly riding on this being an emotional play. The Bills are coming off an e
 On top of that, Eberflus has some past familiarity with this defense, something I suspect that knowledge will go a long way towards keeping this game competitive. I do need the Bears defense to make a stand or two to ensure this spread is covered comfortably. While I do expect Justin Fields to eat against a Buffalo defense known for being a little too soft against opposing rushers, I do expect Buffalo to make a few defensive stops on their end given the limited nature of Chicago's overall offense.
 
 ***
+
+### Commanders @ 49ers (-7)
+
+***
+
+##### Latest Results
+
+**Commanders**  
+@ Giants (T)  
+BYE  
+vs. Giants (L) (SNF)
+
+**49ers**  
+vs. Buccaneers (W)  
+@ Seahawks (W) (TNF)
