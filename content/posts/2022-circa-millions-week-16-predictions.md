@@ -116,4 +116,45 @@ These two franchises last met on the battlefield about three years ago. So we do
 
 It worries me that the money's favoring New England so much more than the actual ticket count would have you believe. But these Patriots are just a bad team. I think the issues they have are systemic as well - for a Bill Belichick team to screw the pooch on things like punt returns, game management, and procedure penalties is incredibly bizarre. That ugly series of events on the last play wasn't just a fluke - I think it's indicative of some pervasive cancer festering behind the scenes. Matt Patricia clearly isn't cut out to lead an offense at the professional level, but I do think his leadership has had some parasitic influence over the team as a whole. For whatever reason, Belichick seems to be doing nothing regarding the ills dragging this team down.
 
-So give me a Bengals team here walking into Foxborough with some serious swag. The Bengals have rattled off six straight wins against quality competition. A letdown may be inevitable, but I have a seriously hard time imagining this week is finally that week the Bengals are derailed. And even though this spread is pretty significant given that a road team is the one being favored here, Cincinnati is more than capable of covering this spread. 
+So give me a Bengals team here walking into Foxborough with some serious swag. The Bengals have rattled off six straight wins against quality competition. A letdown may be inevitable, but I have a seriously hard time imagining this week is finally that week the Bengals are derailed. And even though this spread is pretty significant given that a road team is the one being favored here, Cincinnati is more than capable of covering this spread.
+
+***
+
+### Bills @ Bears (+8.5)
+
+***
+
+##### Latest Results
+
+**Bills**  
+vs. Jets (W)  
+vs. Dolphins (W) \[Saturday Night Football\]
+
+**Bears**  
+vs. Packers (L)  
+BYE  
+vs. Eagles (L)
+
+Bills are hot off an emotional win against the Dolphins in primetime. Miami made the game much more competitive than many expected.
+
+##### Injuries
+
+The Bills are down some pieces of both the offensive and defensive fronts, most notably Ed Oliver.
+
+Chicago is missing two talented receivers in Chase Claypool and Equianimeous St. Brown. On top of that, they're down a few offensive linemen too.
+
+##### Prior Meetings
+
+Excepting one fluky game with Jacksonville in humid weather, Buffalo's offense last year had its worst game statistically and point-wise against Matt Eberflus's defense back when  Eberflus was still the defensive coordinator with Indianapolis. That knowledge should help a bit here, though any success Chicago achieves will be limited given the dearth of talent on that side of the ball.
+
+***
+
+### Bears +8.5
+
+***
+
+I'm mostly riding on this being an emotional play. The Bills are coming off an emotionally riveting victory in which a last-second field goal was needed to close out the game against their division rivals, the Miami Dolphins. That field goal was a bit harrowing too given the rough weather at the time - Buffalo had to burn a timeout to ensure their men had enough time to dig out the snow so as to minimizes the chances of the kicker slipping against the turf. If there's any doubt as to how meaningful this game was, Josh Allen was seen telling Miami fans to go home after the game was finalized.
+
+On top of that, Eberflus has some familiarity with this defense, and I suspect that knowledge will go a long way towards keeping this game competitive. I do expect Justin Fields will be eating quite a bit against a Buffalo defense known for being a little too soft against opposing rushers. That being said, I do need the Bears defense to make a stand or two to ensure this spread is covered comfortably.
+
+***
