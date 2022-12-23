@@ -36,3 +36,7 @@ Lesson learned - **teams that have recently incorporated other dimensions of off
 Tampa Bay is trying to incorporate some new concepts in their playbook - pre-snap motions, play-action, misdirection plays. Not only that, but the offense is relying on its ground game far more than otherwise normal for them. So far, these changes have been working spectacularly in their favor in the first half of their contest against Cincy.
 
 The problem becomes that the Buccaneers seem to have given up on all those new concepts in the second half, similar to the way Miami gave up on the ground game in the second half despite seeing so much success with that strategy earlier. It's very difficult for a team to change its stripes this late in the season. In the event of Buffalo, they barely missed doing just enough to comfortably cover the spread. In this game, Cincinnati was able to rally back from a 17-point deficit and cover the spread in the process.
+
+***
+
+Jacksonville's offense has really developed into something sophisticated. Their use of misdirection in particular is admirable.
