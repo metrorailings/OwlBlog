@@ -39,7 +39,7 @@ The problem becomes that the Buccaneers seem to have given up on all those new c
 
 ***
 
-Jacksonville's offense has really developed into something sophisticated. Their use of misdirection in particular is admirable.
+Jacksonville's offense has really developed into something sophisticated. Quite a bit of misdirection, good use of pre-snap motion, surprise quarterback sneaks, wildcat packages, hurry-up plays...
 
 Kelvin Joseph seems to be a liability in coverage, especially given the way Jacksonville has been targeting him. He's given up two touchdowns.
 
