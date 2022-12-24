@@ -1,6 +1,5 @@
 +++
 date = 2022-12-23T12:00:00Z
-draft = true
 headline = "2022 Circa Millions - Week 16 Predictions"
 
 +++
@@ -221,3 +220,19 @@ Despite so many key players missing practice this week, Pete Carroll is pretty c
 Kansas is pretty healthy, relatively speaking.
 
 ##### Prior Matches
+
+None at all
+
+***
+
+### Uncertain
+
+***
+
+Isn't ten points too much here considering Seattle is a fairly explosive offense in their own right? Sure, they're down one of their key weapons in Tyler Lockett, but it shouldn't stop Geno Smith from producing yards against this Kansas defense.
+
+On top of that, Kansas tends to play down against lesser competition. Maybe last week was a wake-up call that they need to stop doing that, but given the Chiefs and their history of playing soft against easy opponents, I'll believe they'll have turned a lead when they finally do so.
+
+That being said...I know Seattle is a team that needs to capture the lead right away. For whatever reason, the Seahawks cannot play from behind. If they fail to post up points on their first two drives, Seattle can possibly find itself on the ass end of another blowout. And I'm worried that's possible given Geno hasn't handled the blitz all too well this year. Few defensive minds are better at blitzing opposing quarterback than Steve Spagnuolo.
+
+***
