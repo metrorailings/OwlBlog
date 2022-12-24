@@ -46,3 +46,5 @@ Kelvin Joseph seems to be a liability in coverage, especially given the way Jack
 Dak Prescott seems to get easily bothered by pressure. His inability to escape pressure also worries me considerably.
 
 For the Cowboys, Ceedee Lamb and Dallas Pollard / Zeke are definite vectors on offense. Noam Brown and Dak Prescott running the quarterback option could give the offense further definition, but I need to see more sustained success from both.
+
+For the Jaguars, Josh Allen is an elite pass rusher. Dawuane Smoot is also making a case for himself, though I doubt he'll be able to qualify given his mediocre numbers so far this season.
