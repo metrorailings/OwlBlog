@@ -43,4 +43,6 @@ Jacksonville's offense has really developed into something sophisticated. Quite 
 
 Kelvin Joseph seems to be a liability in coverage, especially given the way Jacksonville has been targeting him. He's given up two touchdowns.
 
-Dak Prescott seems to get easily bothered by pressure. His inability to escape pressure also worries me considerably. 
+Dak Prescott seems to get easily bothered by pressure. His inability to escape pressure also worries me considerably.
+
+For the Cowboys, Ceedee Lamb and Dallas Pollard / Zeke are definite vectors on offense. Noam Brown and Dak Prescott running the quarterback option could give the offense further definition, but I need to see more sustained success from both.
