@@ -153,9 +153,9 @@ Excepting one fluky game with Jacksonville in humid weather, Buffalo's offense l
 
 ***
 
-I'm mostly riding on this being an emotional play. The Bills are coming off an emotionally riveting game in which a last-second field goal was needed to declare victory against their division rivals, the Miami Dolphins. That field goal was a bit harrowing too given the rough weather at the time - Buffalo had to burn a timeout to ensure their men had enough time to dig out the snow so as to minimizes the chances of the kicker slipping against the turf. If there's any doubt as to how meaningful this game was, Josh Allen was seen telling Miami fans to go home after the game was finalized.
+I'm mostly riding on emotional dynamics here. The Bills are coming off a riveting game in which a last-second field goal was needed to assert victory not only against their division rivals, the Miami Dolphins, but also to claim the division crown. That field goal was a bit harrowing too given the rough weather at the time - Buffalo had to burn a timeout to ensure their men had enough time to dig out the snow so as to minimizes the chances of the kicker slipping against the turf. If there's any doubt about the raw emotions behind the game, Josh Allen was seen telling Miami fans to go home after the game was finalized. 
 
-On top of that, Eberflus has some past familiarity with this defense, something I suspect that knowledge will go a long way towards keeping this game competitive. I do need the Bears defense to make a stand or two to ensure this spread is covered comfortably. While I do expect Justin Fields to eat against a Buffalo defense known for being a little too soft against opposing rushers, I do expect Buffalo to make a few defensive stops on their end given the limited nature of Chicago's overall offense.
+On top of that, Eberflus has some past familiarity with the Bills defense, something I suspect will go a long way towards keeping this game competitive. I do need the Bears defense to make a stand or two to ensure this spread is covered comfortably. While I do expect Justin Fields to eat his fair share against a Buffalo defense known for being a little too soft against opposing rushers, I do expect the Bills to make a few defensive stops on their end given the limited nature of Chicago's overall offense.
 
 ***
 
@@ -192,6 +192,32 @@ These two last met two years ago. That meeting holds a little relevance here giv
 
 ***
 
-As I said before, this line is largely the result of Washington losing some serious credibility over the past weekends thanks to disappointing games against the Giants, a team many in the public see as inferior. On paper, yes, New York is a worse team compared to the Commanders. But the reality is that it's quite possible this Washington team is saddled with an inferiority complex against the Giants. Three of the past four years, New York has swept Washington in their divisional series - last year was the odd season out, but much of that can be attributed to the general dysfunction running rife through the Giants organization.
+As I said before, this line is largely the result of Washington losing some serious credibility over the past weekends thanks to disappointing games against the Giants, a team many in the public see as inferior. On paper, yes, New York is a worse team compared to the Commanders. But the reality is that it's quite possible this Washington team is saddled with an inferiority complex against the Giants. Three of the past four years, New York has swept Washington in their divisional series - last year was the odd season out, but much of that can probably be attributed to the general dysfunction drowning the Giants organization at the time.
 
-If this inferiority complex theory of mine is true, than Washington is being unfairly valued here, especially when their defense doesn't lag too far behind San Francisco's own defensive outfit. Offensively, the 49ers have more versatility and vectors of attack, but it's not like Washington's short on weaponry of their own. 
+If this inferiority complex theory of mine is true, than Washington is being unfairly valued here. One can make the argument that Washington's defense doesn't lag too far behind San Francisco's own respective unit in terms of efficacy. Offensively, the 49ers have more versatility and vectors of attack, but it's not like Washington's short on weaponry of their own. 
+
+***
+
+### Seahawks @ Chiefs (-10)
+
+***
+
+##### Latest Results
+
+**Seahawks**  
+vs. Panthers (L)  
+vs. 49ers (L) \[TNF\]
+
+**Chiefs**  
+vs. Broncos (W)  
+@ Texans (W)
+
+Good opportunity to test whether Seattle is going to go on the road even more hungry now after suffering through two bad losses at home.
+
+##### Injuries
+
+Despite so many key players missing practice this week, Pete Carroll is pretty confident many of them will be playing. Tyler Lockett is definitively out though, and that's going to hurt.
+
+Kansas is pretty healthy, relatively speaking.
+
+##### Prior Matches
