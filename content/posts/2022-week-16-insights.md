@@ -4,3 +4,6 @@ draft = true
 headline = "2022 Week 16 Insights"
 
 +++
+I must watch the Patriots as they attempted to mount a comeback against the Bengals. It seems queer considering the Bengals were so thoroughly dominating the Patriots.
+
+Giants almost mounted a comeback despite the turnovers. Impressive.
