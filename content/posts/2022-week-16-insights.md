@@ -10,3 +10,5 @@ Giants almost mounted a comeback despite the turnovers. Impressive.
 This Packers passing offense is truly ugly. No rhythm. I see some clever misdirection concepts, but it's not enough against this feisty Miami defense. Receivers are having issues separating from defenders. It's a good thing they'll likely miss the playoffs. But real improvement is a good ways away unless they splurge in free agency.
 
 **Why can I not remember that when bad teams are favored on the road, always pick the home team? Look at the Rams clobbering Denver despite being 3-point underdogs.**
+
+I think the Lions were caught slacking. To cough up that many yards to the Panthers is unthinkable. Even if their most physical safety was out of the game, it doesn't matter - watching the game, I saw Detroit regularly stationing 7 people in the box. It didn't seem to matter at all. It's possible these Lions were coming off a high after winning last week's closely contested game against another playoff contender. Carolina was on the opposite end of that spectrum after coming off their worst rushing game last week against the Steelers.
