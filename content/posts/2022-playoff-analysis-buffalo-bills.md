@@ -1,5 +1,5 @@
 +++
-date = 2023-01-12T12:00:00Z
+date = 2022-12-25T12:00:00Z
 headline = "2022 Playoff Analysis: Buffalo Bills"
 
 +++

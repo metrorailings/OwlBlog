@@ -15,16 +15,25 @@
 	</tr>
 	<tr>
 		<td class='categoryCell'>
-			<div>Elite Quarterback</div>
-			<div class='scoreSubtitle'>6 points</div>
+			<div>Quarterback Prowess</div>
+			<div class='scoreSubtitle'>
+				3 points if adequate
+				<br />
+				7 points if elite
+			</div>
 		</td>
 		<td class='answerCell'>
-			<!-- Only if an elite quarterback is specified do we list his name -->
-			{{ if .qb }}
-				{{ $.Scratch.Add "score" 6 }}
-				<div>{{ .qb }}</div>
-			{{ else }}
-				<div>--</div>
+			<div>{{ .qb.name }}</div>
+			{{ if eq .qb.status "l" }}
+				<div>(Liability)</div>
+			{{ end }}
+			{{ if eq .qb.status "a" }}
+				<div>(Adequate)</div>
+				{{ $.Scratch.Add "score" 3 }}
+			{{ end }}
+			{{ if eq .qb.status "e" }}
+				<div>(Elite)</div>
+				{{ $.Scratch.Add "score" 7 }}
 			{{ end }}
 		</td>
 	</tr>
@@ -32,20 +41,24 @@
 		<td class='categoryCell'>
 			<div>Premiere Offensive Weapons</div>
 			<div class='scoreSubtitle'>
-				1 point for the first player, 2 points for the second player, and 3 points for each successive player
+				1 point for the first player
+				<br />
+				2 points for the second player
+				<br />
+				3 points for each successive player
 			</div>
 		</td>
 		<td class='answerCell'>
-			<!-- All names will be given as part of a list -->=
+			<!-- All names will be given as part of a list -->
 			{{ range .weapons }}
 				<div>{{ . }}</div>
 				{{ $.Scratch.Add "score" ($.Scratch.Get "wrScore") }}
 				<!-- Adjust the weapon scoring as we add more names to the list -->
-				{{ if (eq ($.Scratch.Get "wrScore") 1 ) }}
-					{{ $.Scratch.Set "wrScore" 2 }}
-				{{ end }}
 				{{ if (eq ($.Scratch.Get "wrScore") 2 ) }}
 					{{ $.Scratch.Set "wrScore" 3 }}
+				{{ end }}
+				{{ if (eq ($.Scratch.Get "wrScore") 1 ) }}
+					{{ $.Scratch.Set "wrScore" 2 }}
 				{{ end }}
 			{{ end }}
 
@@ -53,11 +66,12 @@
 			{{ range .mWeapons }}
 				<div class='maybePlayer'>{{ . }}<i class='far fa-question-circle'></i></div>
 				{{ $.Scratch.Add "highScore" ($.Scratch.Get "wrScore") }}
-				{{ if (eq ($.Scratch.Get "wrScore") 1 ) }}
-					{{ $.Scratch.Set "wrScore" 2 }}
-				{{ end }}
+				<!-- Adjust the weapon scoring as we add more names to the list -->
 				{{ if (eq ($.Scratch.Get "wrScore") 2 ) }}
 					{{ $.Scratch.Set "wrScore" 3 }}
+				{{ end }}
+				{{ if (eq ($.Scratch.Get "wrScore") 1 ) }}
+					{{ $.Scratch.Set "wrScore" 2 }}
 				{{ end }}
 			{{ end }}
 
@@ -98,8 +112,9 @@
 		<td class='categoryCell'>
 			<div>Number of Successful Comebacks</div>
 			<div class='scoreSubtitle'>
-				3 points if the team successfully staged 2 comebacks, 6 points if the team 
-				staged even more than 2 comebacks
+				3 points if the team successfully staged 2 comebacks
+				<br />
+				6 points if the team staged even more than 2 comebacks
 			</div>
 		</td>
 		<td class='answerCell'>
@@ -116,8 +131,9 @@
 		<td class='categoryCell'>
 			<div>Number of Comebacks Surrendered</div>
 			<div class='scoreSubtitle'>
-				6 points if the team surrendered fewer than 2 comebacks, 3 points if the team
-				surrendered exactly 2 comebacks
+				3 points if the team surrendered exactly 2 comebacks
+				<br />
+				6 points if the team surrendered fewer than 2 comebacks
 			</div>
 		</td>
 		<td class='answerCell'>
