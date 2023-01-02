@@ -1,0 +1,16 @@
+{
+    "name" : "New York Giants",
+    "qb" :
+    {
+        "name" : "Daniel Jones",
+        "status" : "a"
+    },
+    "weapons" : ["Saquon Barkley", "Daniel Jones (Mobile QB)"],
+    "mWeapons" : [],
+    "passRushers" : ["Dexter Lawrence"],
+    "mPassRushers" : ["Kayvon Thibodeaux"],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 0,
+    "phasesExperienced" : [],
+    "quarterbackExperienced" : "n"
+}
