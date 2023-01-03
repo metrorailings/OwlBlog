@@ -4,3 +4,6 @@ draft = true
 headline = "2022 Playoff Analysis - Cincinnati Bengals"
 
 +++
+{{< playoffTeamChart2022 team="bengals" >}}
+
+Cincinnati presents some very interesting potential here. 
