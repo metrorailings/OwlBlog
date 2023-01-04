@@ -7,3 +7,9 @@ headline = "2022 Playoff Notes"
 ### Chargers
 
 Zone defense may not quite be their strong suit. Man coverage seems to suit their defenders better.
+
+***
+
+### Steelers
+
+Timed sideline routes may work the best for Kenny Pickett.
