@@ -8,6 +8,8 @@ headline = "2022 Playoff Notes"
 
 Zone defense may not quite be their strong suit. Man coverage seems to suit their defenders better.
 
+Blitzing has become a hallmark weapon for this defense.
+
 ***
 
 ### Steelers
