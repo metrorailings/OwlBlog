@@ -20,6 +20,8 @@ This Steelers team has been sporting some serious mental fortitude as of lately.
 
 Najee Harris has emerged not only as a feisty tailback, but a reliable weapon in the passing game as well as in pass protection. Stamp him as a vector on offense.
 
+It's worth looking at Cameron Heyward as an elite pass rusher given the way he's flashed in the second game against the Ravens. 
+
 ***
 
 ### Ravens
