@@ -18,6 +18,8 @@ Timed sideline routes may work the best for Kenny Pickett.
 
 This Steelers team has been sporting some serious mental fortitude as of lately.
 
+Najee Harris has emerged not only as a feisty tailback, but a reliable weapon in the passing game as well as in pass protection. Stamp him as a vector on offense.
+
 ***
 
 ### Ravens
