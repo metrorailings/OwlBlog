@@ -16,4 +16,4 @@ Blitzing has become a hallmark weapon for this defense.
 
 Timed sideline routes may work the best for Kenny Pickett.
 
-This Steelers team has some mental fortitude.
+This Steelers team is sporting some serious mental fortitude.
