@@ -1,6 +1,5 @@
 +++
-date = 2023-01-07T12:00:00Z
-draft = true
+date = 2023-01-12T12:00:00Z
 headline = "2022 Playoff Notes"
 
 +++
