@@ -1,0 +1,16 @@
+{
+    "name" : "Cincinnati Bengals",
+    "qb" :
+    {
+        "name" : "Joe Burrow",
+        "status" : "e"
+    },
+    "weapons" : ["Ja'Marr Chase", "Joe Mixon"],
+    "mWeapons" : ["Tee Higgins", "Tyler Boyd", "Trenton Irwin"],
+    "passRushers" : [],
+    "mPassRushers" : ["Trey Hendrickson", "Sam Hubbard"],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}
