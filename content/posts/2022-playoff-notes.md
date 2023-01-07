@@ -47,4 +47,4 @@ Their slide blitzing is remarkably effective, particularly against the run.
 
 Burrow is notably efficient. Show two-deep coverage and he's not afraid to throw it short. Give him the right looks and he'll take his shot.
 
-Good running out of shotgun formation.
+Offense has a penchant for running out of shotgun.
