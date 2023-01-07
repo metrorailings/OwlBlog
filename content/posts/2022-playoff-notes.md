@@ -36,3 +36,15 @@ Very clear that Keenan Allen and Mike Williams are true vectors on this offense.
 Austin Ekeler is staking a name for himself as a reliable weapon as well, though it's tough definitively billing him as a vector when Los Angeles doesn't really bother running the ball much behind him.
 
 Defensively, I'm concerned. The Chargers rely largely on blitzes to manufacture pressure on opposing quarterbacks. No one defensive lineman has really stood out on tape. Kyle Van Noy may be the closest thing this unit has to an elite pass rusher - the man's made his presence known over the past several games through impactful plays. Still, his numbers aren't quite as solid as one would expect from an elite player.
+
+***
+
+### Bengals
+
+Cincinnati's pass rush is a bit neutered if Sam Hubbard and Trey Hendrickson aren't fully healthy.
+
+Their slide blitzing is remarkably effective, particularly against the run.
+
+Burrow is notably efficient. Show two-deep coverage and he's not afraid to throw it short. Give him the right looks and he'll take his shot.
+
+Good running out of shotgun formation.
