@@ -57,6 +57,8 @@ Their playoff inexperience is showing entering this elimination game against the
 
 Arden Key, Trayvon Walker, and Josh Allen are names to consider for the pass rush.
 
+This Jacksonville offense has some exciting concepts built into its playbook. Whether any of their receivers actually merit premiere status remains to be seen though.
+
 ***
 
 ### Titans
