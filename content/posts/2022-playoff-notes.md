@@ -80,3 +80,5 @@ Kudos to the Giants for going out of their way to protect Daniel Jones from the 
 ### Cowboys
 
 Credit to Dallas for prominently emphasizing the ground game, given all the different ways the team has run the ball.
+
+Micah Parsons is almost certainly the only pass rusher worthy of note on this team.
