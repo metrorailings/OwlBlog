@@ -70,3 +70,5 @@ Tennessee is lacking weapons, but it's worth keeping an eye on names like Austin
 Dexter Lawrence is amazing. Bill him as an elite pass rusher. Kayvon Thibadeaux also deserves to have his name mentioned for his high motor alone.
 
 It's clear the team's hurting for receivers. And I'm not sure any of their wide receivers would qualify as vectors on offense.
+
+Kudos to the Giants for going out of their way to protect Daniel Jones from the opponent's better pass rushers.
