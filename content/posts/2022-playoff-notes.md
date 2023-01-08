@@ -45,6 +45,14 @@ Cincinnati's pass rush is a bit neutered if Sam Hubbard and Trey Hendrickson are
 
 Their slide blitzing is remarkably effective, particularly against the run.
 
-Burrow is notably efficient. Show two-deep coverage and he's not afraid to throw it short. Give him the right looks and he'll take his shot.
+Burrow is notably efficient. Show two-deep coverage and he's not afraid to throw it short. Give him the right looks and he'll take his deep shots. One thing that cannot be understated is his poise in the pocket regardless. I am especially impressed at his ability to abort the play once defenders start bearing down upon him.
 
-Offense has a penchant for running out of shotgun.
+This Cincinnati offense has a penchant for running out of shotgun, regardless of whether it's Joe Mixon or Samaje Perine.
+
+***
+
+### Jaguars
+
+Their playoff inexperience is showing entering this elimination game against the Titans to close out the season.
+
+***
