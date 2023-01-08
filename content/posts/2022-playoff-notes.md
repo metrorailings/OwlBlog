@@ -56,3 +56,7 @@ This Cincinnati offense has a penchant for running out of shotgun, regardless of
 Their playoff inexperience is showing entering this elimination game against the Titans to close out the season.
 
 ***
+
+### Titans
+
+Tennessee is lacking weapons, but it's worth keeping an eye on names like Austin Hooper and Okonkwo in addition to Treylon Burks.
