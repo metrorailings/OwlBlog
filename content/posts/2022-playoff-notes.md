@@ -55,8 +55,18 @@ This Cincinnati offense has a penchant for running out of shotgun, regardless of
 
 Their playoff inexperience is showing entering this elimination game against the Titans to close out the season.
 
+Arden Key, Trayvon Walker, and Josh Allen are names to consider for the pass rush.
+
 ***
 
 ### Titans
 
 Tennessee is lacking weapons, but it's worth keeping an eye on names like Austin Hooper and Okonkwo in addition to Treylon Burks.
+
+***
+
+### Giants
+
+Dexter Lawrence is amazing. Bill him as an elite pass rusher. Kayvon Thibadeaux also deserves to have his name mentioned for his high motor alone.
+
+It's clear the team's hurting for receivers. And I'm not sure any of their wide receivers would qualify as vectors on offense.
