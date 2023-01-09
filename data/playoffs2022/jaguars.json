@@ -1,0 +1,16 @@
+{
+    "name" : "Jacksonville Jaguars",
+    "qb" :
+    {
+        "name" : "Trevor Lawrence",
+        "status" : "e"
+    },
+    "weapons" : ["Travis Etienne / Jamycal Hasty", "Zay Jones"],
+    "mWeapons" : ["Christian Kirk"],
+    "passRushers" : ["Josh Allen"],
+    "mPassRushers" : ["Travon Walker"],
+    "comebacks" : 3,
+    "comebacksSurrendered" : 5,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}

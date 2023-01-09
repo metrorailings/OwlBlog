@@ -6,7 +6,7 @@
         "status" : "a"
     },
     "weapons" : ["Saquon Barkley", "Daniel Jones (Mobile QB)"],
-    "mWeapons" : [],
+    "mWeapons" : ["Isaiah Hodgins"],
     "passRushers" : ["Dexter Lawrence"],
     "mPassRushers" : ["Kayvon Thibodeaux"],
     "comebacks" : 4,
