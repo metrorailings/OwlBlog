@@ -55,9 +55,11 @@ This Cincinnati offense has a penchant for running out of shotgun, regardless of
 
 Their playoff inexperience is showing entering this elimination game against the Titans to close out the season.
 
-Arden Key, Trayvon Walker, and Josh Allen are names to consider for the pass rush.
+Arden Key, Trayvon Walker, and Josh Allen are names to consider as elite pass rushers.
 
 This Jacksonville offense has some exciting concepts built into its playbook. Whether any of their receivers actually merit premiere status remains to be seen though.
+
+Foyesade Oluokun is phenomenal stopping the run.
 
 ***
 
