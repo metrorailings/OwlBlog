@@ -93,6 +93,8 @@ Brock Purdy is interesting. It seems like many of his plays are schemed, but his
 
 Purdy is leaning hard on Christian McCaffrey as a safety blanket.
 
+In passing situations from 11 personnel, Purdy's performance has been mixed at best. Credit to Kyle Shanahan for making this offense work with a quarterback still fully unable to operate at the NFL level. That being said, Brock is one tough son of a bitch.
+
 ***
 
 ### Seahawks
