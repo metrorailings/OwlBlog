@@ -99,4 +99,4 @@ Purdy is leaning hard on Christian McCaffrey as a safety blanket.
 
 Geno Smith has issues reading and taking advantage of blitzes. It seems the 49ers know this.
 
-A part of me is wary deeming Uchenna Nwosu as an elite pass rusher. I need more video evidence.
+A part of me is wary deeming Uchenna Nwosu as an elite pass rusher. I need more video evidence. Then again, his numbers alone justify his labelling as such.
