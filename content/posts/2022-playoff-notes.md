@@ -91,6 +91,8 @@ Micah Parsons is almost certainly the only pass rusher worthy of note on this te
 
 Brock Purdy is interesting. It seems like many of his plays are schemed, but his ability to operate within Shanahan's system is very impressive.
 
+Purdy is leaning hard on Christian McCaffrey as a safety blanket.
+
 ***
 
 ### Seahawks
