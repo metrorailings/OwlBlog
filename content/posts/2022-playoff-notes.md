@@ -84,3 +84,15 @@ Kudos to the Giants for going out of their way to protect Daniel Jones from the 
 Credit to Dallas for prominently emphasizing the ground game, given all the different ways the team has run the ball.
 
 Micah Parsons is almost certainly the only pass rusher worthy of note on this team.
+
+***
+
+### 49ers
+
+Brock Purdy is interesting. It seems like many of his plays are schemed, but his ability to operate within Shanahan's system is very impressive.
+
+***
+
+### Seahawks
+
+Geno Smith has issues reading and taking advantage of blitzes. It seems the 49ers know this.
