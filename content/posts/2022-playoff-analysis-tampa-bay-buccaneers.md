@@ -4,3 +4,4 @@ draft = true
 headline = "2022 Playoff Analysis - Tampa Bay Buccaneers"
 
 +++
+{{< playoffTeamChart2022 team="buccaneers" >}}
