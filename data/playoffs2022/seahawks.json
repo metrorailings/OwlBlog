@@ -1,0 +1,16 @@
+{
+    "name" : "Seattle Seahawks",
+    "qb" :
+    {
+        "name" : "Geno Smith",
+        "status" : "a"
+    },
+    "weapons" : ["Kenneth Walker", "Tyler Lockett", "DK Metcalf"],
+    "mWeapons" : [],
+    "passRushers" : ["Uchenna Nwosu"],
+    "mPassRushers" : [],
+    "comebacks" : 1,
+    "comebacksSurrendered" : 2,
+    "phasesExperienced" : ["Offense"],
+    "quarterbackExperienced" : "n"
+}

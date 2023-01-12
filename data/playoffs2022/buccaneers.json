@@ -1,0 +1,16 @@
+{
+    "name" : "Tampa Bay Buccaneers",
+    "qb" :
+    {
+        "name" : "Tom Brady",
+        "status" : "e"
+    },
+    "weapons" : ["Mike Evans"],
+    "mWeapons" : [],
+    "passRushers" : ["Joe Tryon-Shoyinka"],
+    "mPassRushers" : ["Vita Vea"],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 2,
+    "phasesExperienced" : ["Offense", "Defense"],
+    "quarterbackExperienced" : "y"
+}
