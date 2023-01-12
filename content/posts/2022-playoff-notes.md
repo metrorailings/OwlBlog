@@ -102,3 +102,9 @@ In passing situations from 11 personnel, Purdy's performance has been mixed at b
 Geno Smith has issues reading and taking advantage of blitzes. It seems the 49ers know this.
 
 A part of me is wary deeming Uchenna Nwosu as an elite pass rusher. I need more video evidence. Then again, his numbers alone justify his labelling as such.
+
+***
+
+### Vikings
+
+Harrison Phillips is more important to this run defense than I initially thought.
