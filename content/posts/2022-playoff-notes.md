@@ -108,3 +108,5 @@ A part of me is wary deeming Uchenna Nwosu as an elite pass rusher. I need more 
 ### Vikings
 
 Harrison Phillips is more important to this run defense than I initially thought.
+
+Cousins can be too nonchalant at times hanging in the pocket. Then again, it may be his blind side here leaving him unable to sense pressure.
