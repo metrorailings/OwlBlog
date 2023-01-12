@@ -4,3 +4,4 @@ draft = true
 headline = "2022 Playoff Analysis - Los Angeles Chargers"
 
 +++
+{{< playoffTeamChart2022 team="chargers" >}}
