@@ -112,3 +112,9 @@ Harrison Phillips and Tonga may be more important to this run defense than I ini
 Cousins can be too nonchalant at times hanging in the pocket. Then again, it may be his blind side here leaving him unable to sense pressure.
 
 I am still not fully sold on Za'Darius Smith and Danielle Hunter. Neither have flashed enough on tape for my liking.
+
+***
+
+### Eagles
+
+This defense has so many players along their defensive front. Still, the only one I've seen play consistently so far is Haason Reddick. Josh Sweat has also flashed multiple times too.
