@@ -1,0 +1,16 @@
+{
+    "name" : "Los Angeles Chargers",
+    "qb" :
+    {
+        "name" : "Justin Herbert",
+        "status" : "e"
+    },
+    "weapons" : ["Mike Williams", "Keenan Allen", "Austin Ekeler"],
+    "mWeapons" : [],
+    "passRushers" : ["Kyle Van Noy"],
+    "mPassRushers" : [],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 4,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}

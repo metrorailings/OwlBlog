@@ -1,0 +1,16 @@
+{
+    "name" : "Philadelphia Eagles",
+    "qb" :
+    {
+        "name" : "Jalen Hurts",
+        "status" : "a"
+    },
+    "weapons" : ["Miles Sanders", "Jalen Hurts (Mobile QB)", "A.J. Brown"],
+    "mWeapons" : ["DeVonta Smith", "Dallas Goedert"],
+    "passRushers" : ["Haason Reddick"],
+    "mPassRushers" : ["Josh Sweat"],
+    "comebacks" : 2,
+    "comebacksSurrendered" : 1,
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
+    "quarterbackExperienced" : "y"
+}

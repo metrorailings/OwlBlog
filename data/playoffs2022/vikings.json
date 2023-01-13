@@ -1,0 +1,16 @@
+{
+    "name" : "Minnesota Vikings",
+    "qb" :
+    {
+        "name" : "Kirk Cousins",
+        "status" : "a"
+    },
+    "weapons" : ["Justin Jefferson"],
+    "mWeapons" : ["Dalvin Cook"],
+    "passRushers" : [],
+    "mPassRushers" : ["Danielle Hunter", "Za'Darius Smith"],
+    "comebacks" : 6,
+    "comebacksSurrendered" : 0,
+    "phasesExperienced" : ["Offense", "Defense"],
+    "quarterbackExperienced" : "y"
+}

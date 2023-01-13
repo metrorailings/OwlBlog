@@ -1,0 +1,16 @@
+{
+    "name" : "Miami Dolphins",
+    "qb" :
+    {
+        "name" : "Skyler Thompson",
+        "status" : "l"
+    },
+    "weapons" : ["Raheem Mostert / Jeff Wilson Jr."],
+    "mWeapons" : ["Tyreek Hill", "Jaylen Waddle"],
+    "passRushers" : ["Christian Wilkins"],
+    "mPassRushers" : ["Jaelen Philips"],
+    "comebacks" : 3,
+    "comebacksSurrendered" : 3,
+    "phasesExperienced" : ["Offense"],
+    "quarterbackExperienced" : "n"
+}
