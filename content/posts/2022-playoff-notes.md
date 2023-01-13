@@ -117,4 +117,4 @@ I am still not fully sold on Za'Darius Smith and Danielle Hunter. Neither have f
 
 ### Eagles
 
-This defense has so many players along their defensive front. Still, the only one I've seen play consistently so far is Haason Reddick. Josh Sweat has also flashed multiple times too.
+This defense has so many players along their defensive front. Still, the only one I've seen play consistently so far is Haason Reddick. Josh Sweat and Fletcher Cox have also flashed a few times too when I watch tape.
