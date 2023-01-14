@@ -4,3 +4,4 @@ draft = true
 headline = "2022 Playoff Analysis - Philadelphia Eagles"
 
 +++
+{{< playoffTeamChart2022 team="eagles" >}}
