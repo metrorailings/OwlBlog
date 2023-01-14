@@ -114,12 +114,12 @@ the factors in the table
 <div class='scoreSubtitle'>
 3 points if the team successfully staged 2 comebacks
 <br />
-6 points if the team staged even more than 2 comebacks
+7 points if the team staged even more than 2 comebacks
 </div>
 </td>
 <td class='answerCell'>
 {{ if (gt .comebacks 2) }}
-{{ $.Scratch.Add "score" 6 }}
+{{ $.Scratch.Add "score" 7 }}
 {{ end }}
 {{ if (eq .comebacks 2) }}
 {{ $.Scratch.Add "score" 3 }}
@@ -133,12 +133,12 @@ the factors in the table
 <div class='scoreSubtitle'>
 3 points if the team surrendered exactly 2 comebacks
 <br />
-6 points if the team surrendered fewer than 2 comebacks
+7 points if the team surrendered fewer than 2 comebacks
 </div>
 </td>
 <td class='answerCell'>
 {{ if (lt .comebacksSurrendered 2) }}
-{{ $.Scratch.Add "score" 6 }}
+{{ $.Scratch.Add "score" 7 }}
 {{ end }}
 {{ if (eq .comebacksSurrendered 2) }}
 {{ $.Scratch.Add "score" 3 }}
