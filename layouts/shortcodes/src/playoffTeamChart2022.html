@@ -118,10 +118,10 @@
 			</div>
 		</td>
 		<td class='answerCell'>
-			{{ if (gt .comebacks 2) }}
+			{{ if (gt (int .comebacks) 2) }}
 				{{ $.Scratch.Add "score" 7 }}
 			{{ end }}
-			{{ if (eq .comebacks 2) }}
+			{{ if (eq (int .comebacks) 2) }}
 				{{ $.Scratch.Add "score" 3 }}
 			{{ end }}
 			<div>{{ .comebacks }}</div>
@@ -137,10 +137,10 @@
 			</div>
 		</td>
 		<td class='answerCell'>
-			{{ if (lt .comebacksSurrendered 2) }}
+			{{ if (lt (int .comebacksSurrendered) 2) }}
 				{{ $.Scratch.Add "score" 7 }}
 			{{ end }}
-			{{ if (eq .comebacksSurrendered 2) }}
+			{{ if (eq (int .comebacksSurrendered) 2) }}
 				{{ $.Scratch.Add "score" 3 }}
 			{{ end }}
 			<div>{{ .comebacksSurrendered }}</div>
@@ -181,7 +181,11 @@
 	<tr class='scoreRow'>
 		<td class='scoreCell'>Score Range</td>
 		<td class='scoreAnswerCell'>
-			<div>{{ $.Scratch.Get "score" }} - {{ $.Scratch.Get "highScore" }}</div>
+			{{ if (eq ($.Scratch.Get "score") ($.Scratch.Get "highScore") ) }}
+				<div>{{ $.Scratch.Get "score" }}</div>
+			{{ else }}
+				<div>{{ $.Scratch.Get "score" }} - {{ $.Scratch.Get "highScore" }}</div>
+			{{ end }}
 		</td>
 	</tr>
 </table>

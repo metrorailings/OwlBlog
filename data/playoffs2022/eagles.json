@@ -5,8 +5,8 @@
         "name" : "Jalen Hurts",
         "status" : "a"
     },
-    "weapons" : ["Miles Sanders", "Jalen Hurts (Mobile QB)", "A.J. Brown"],
-    "mWeapons" : ["DeVonta Smith", "Dallas Goedert"],
+    "weapons" : ["Miles Sanders", "A.J. Brown", "DeVonta Smith", "Dallas Goedert"],
+    "mWeapons" : ["Jalen Hurts (Mobile QB)"],
     "passRushers" : ["Haason Reddick"],
     "mPassRushers" : ["Josh Sweat", "Fletcher Cox"],
     "comebacks" : 2,

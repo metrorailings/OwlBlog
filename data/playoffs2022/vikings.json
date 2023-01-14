@@ -11,6 +11,6 @@
     "mPassRushers" : ["Danielle Hunter", "Za'Darius Smith"],
     "comebacks" : 6,
     "comebacksSurrendered" : 0,
-    "phasesExperienced" : ["Offense", "Defense"],
+    "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
     "quarterbackExperienced" : "y"
 }

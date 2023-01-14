@@ -6,7 +6,7 @@
         "status" : "e"
     },
     "weapons" : ["Ja'Marr Chase", "Joe Mixon / Samaje Perine", "Tee Higgins"],
-    "mWeapons" : ["Tee Higgins", "Joe Burrow (Mobile QB)"],
+    "mWeapons" : [],
     "passRushers" : [],
     "mPassRushers" : ["Trey Hendrickson", "Sam Hubbard"],
     "comebacks" : 4,

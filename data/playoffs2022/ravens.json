@@ -2,10 +2,10 @@
     "name" : "Baltimore Ravens",
     "qb" :
     {
-        "name" : "Anthony Brown",
+        "name" : "Anthony Brown / Tyler Huntley",
         "status" : "l"
     },
-    "weapons" : ["Kenyan Drake", "Mark Andrews"],
+    "weapons" : ["Kenyan Drake", "Isaiah Likely / Mark Andrews"],
     "mWeapons" : [],
     "passRushers" : [],
     "mPassRushers" : ["Justin Houston"],
