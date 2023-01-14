@@ -9,4 +9,4 @@ I'm not sure if Dallas is any better now than they were last year entering the p
 
 On a positive note, the club has plenty of weaponry on offense. Defensively though, the unit's been showing warts. Up front, nobody but Micah Parsons has shown an ability to dominate in the trenches. DeMarcus Lawrence was expected to be the yin to Parsons' yang, but age seems to have finally whittled him down.
 
-Honestly, expect a tough match against Tampa. Even though the Cowboys are favored, a home team upset is very possible.
+Honestly, expect a tough match against Tampa. Even though the Cowboys are favored, a home team upset is very possible. I'm not sure if Kellen Moore has enough tricks up his sleeve to confuse Tampa's defense on multiple drives here. If Bowles can find ways to suffocate Prescott in the pocket, the Cowboys will end another season on a depressing note.
