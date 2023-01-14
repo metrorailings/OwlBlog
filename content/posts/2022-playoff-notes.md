@@ -1,5 +1,5 @@
 +++
-date = 2023-01-12T12:00:00Z
+date = 2023-01-02T12:00:00Z
 headline = "2022 Playoff Notes"
 
 +++
