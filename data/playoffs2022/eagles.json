@@ -8,7 +8,7 @@
     "weapons" : ["Miles Sanders", "A.J. Brown", "DeVonta Smith", "Dallas Goedert"],
     "mWeapons" : ["Jalen Hurts (Mobile QB)"],
     "passRushers" : ["Haason Reddick"],
-    "mPassRushers" : ["Josh Sweat", "Fletcher Cox"],
+    "mPassRushers" : ["Josh Sweat", "Fletcher Cox / Javon Hargrove"],
     "comebacks" : 2,
     "comebacksSurrendered" : 1,
     "phasesExperienced" : ["Offense", "Defense", "Special Teams"],
