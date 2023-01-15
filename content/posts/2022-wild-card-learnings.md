@@ -11,4 +11,8 @@ The Chargers blowing out the Jaguars in the first half was a little shocking. If
 
 Yet, in the second half....all that didn't matter. Jacksonville was able to stage the third largest comeback in postseason history. The Chargers only managed to post up three points while the Jaguars did just enough to steal away the win at the very moment. I'm still not entirely certain what happened in the second half either. The inside routes were there as well as the occasional deep shots. It's not like the Jaguars suddenly changed tune from the third quarter onward and committed to a style of football different from one that prioritizes short and efficient passing.
 
-It's possible Los Angeles simply decided to run out the clock after halftime, absolutely oblivious to Jacksonville's recent history of near-miraculous comebacks. Or it's possible that the Jaguars were collectively stricken by anxiety given this was the first foray into the postseason for so many people across that roster. I need to rewatch this game just to see what exactly changed between the two halves. Either way, kudos to the Jaguars or winning their first playoff game in the Doug Pederson and Trevor Lawrence era.  
+It's possible Los Angeles simply decided to run out the clock after halftime, absolutely oblivious to Jacksonville's recent history of near-miraculous comebacks. Or it's possible that the Jaguars were collectively stricken by anxiety given this was the first foray into the postseason for so many people across that roster. I need to rewatch this game just to see what exactly changed between the two halves. Either way, kudos to the Jaguars or winning their first playoff game in the Doug Pederson and Trevor Lawrence era.
+
+***
+
+What a hilarious comedy of errors this Bills game against the Dolphins has become. Josh Allen's mistakes have been single-handedly responsible for Miami taking the lead in the third quarter. Skylar Thompson predictably hasn't done much.
