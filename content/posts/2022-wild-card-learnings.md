@@ -20,3 +20,7 @@ What a hilarious comedy of errors this Bills game against the Dolphins has becom
 That being said, Miami has a very good foundation here with a defensive loaded with stars along its defensive front. To nail Josh Allen for seven sacks isn't easy for any defense, period. If the Dolphins can sew up some loose threads along that offense, expect a team that should be competitive in the foreseeable future.
 
 ***
+
+One of the reasons I thought the Vikings would have the upper hand in their contest against the Giants would be their experience in elimination game scenarios. Other than one mistake from Daniel Bellinger, New York hasn't shown me anything indicating that this playoff atmosphere is too much for them to handle. I might need to rethink the value of playoff experience. Even if the team's saddled with the yips, how long is it really expected to last? 
+
+I think I might need to shift more attention to special teams and field goal kickers instead. Maybe assess field goal kickers making their first postseason start and see how well they tend to perform versus league average.   
