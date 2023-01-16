@@ -24,3 +24,11 @@ That being said, Miami has a very good foundation here with a defensive loaded w
 One of the reasons I thought the Vikings would have the upper hand in their contest against the Giants would be their experience in elimination game scenarios. Other than one mistake from Daniel Bellinger, New York hasn't shown me anything indicating that this playoff atmosphere is too much for them to handle. I might need to rethink the value of playoff experience. Even if the team's saddled with the yips, how long is it really expected to last? 
 
 I think I might need to shift more attention to special teams and field goal kickers instead. Maybe assess field goal kickers making their first postseason start and see how well they tend to perform versus league average.   
+
+***
+
+The Bengals worry me. Even if they win against the Ravens, this game revealed some serious deficiencies, namely that defensive front. I picked the Bengals to win the Super Bowl this year based on the contingency that some of their top defensive linemen will round into elite form in the playoffs. It's not happening. Trey Hendricksen, Sam Hubbard, and even D.J. Reader have whiffed a number of times tonight on critical plays.
+
+On top of that, Tee Higgins may be overrated. And if that's the case and their ground game is unable to get going against Baltimore's front, then they only have one viable weapon on offense - Ja'Marr Chase.
+
+A team missing any teeth on both offense and defense isn't cut for the championship. Did I really misread this club that badly or is there another dynamic involved here that I'm missing? Nobody tends to play Cincinnati tougher than the Ravens.     
