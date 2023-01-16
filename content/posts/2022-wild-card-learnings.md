@@ -33,6 +33,6 @@ On top of that, Tee Higgins may be overrated. And if that's the case and their g
 
 A team missing any teeth on both offense and defense isn't cut for the championship. Did I really misread this club that badly or is there another dynamic involved here that I'm missing? Nobody tends to play Cincinnati tougher than the Ravens, in part because John Harbaugh and his coaching staff have a keen understanding of Cincinnati's tendencies on offense.
 
-It's similar to what I saw two years ago when the Buccaneers played the Saints in the divisional round. Tampa played well, but fortune was on their side as well that day - untimely injuries and Brees trying to play through injury were major factors that contributed to Tampa winning the game and going on to win the Super Bowl.
+It's similar to what I saw two years ago when the Buccaneers played the Saints in the divisional round. Tampa played well, but fortune was on their side as well that day - untimely injuries and Brees trying to play through injury were major factors that contributed to Tampa winning the game and going on to win the Super Bowl. Otherwise, it's possible their feelings of inferiority against the New Orleans would have been too much to overcome.
 
 Last year was another similar story too, except the other way around - the Rams were able to go to Tampa Bay and comfortably win because the latter has a serious inferiority complex against the former. Even though Brady and company tried to make things interesting toward the end, it didn't matter much - the Rams had too big a lead for Tampa to surmount.
