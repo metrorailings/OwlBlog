@@ -17,4 +17,6 @@ It's possible Los Angeles simply decided to run out the clock after halftime, ab
 
 What a hilarious comedy of errors this Bills game against the Dolphins has become. Josh Allen's mistakes have been single-handedly responsible for Miami taking the lead in the third quarter. Skylar Thompson hasn't done much predictably.
 
+That being said, Miami has a very good foundation here with a defensive loaded with stars along its defensive front. To nail Josh Allen for seven sacks isn't easy for any defense, period. If the Dolphins can sew up some loose threads along that offense, expect a team that should be competitive in the foreseeable future.
+
 ***
