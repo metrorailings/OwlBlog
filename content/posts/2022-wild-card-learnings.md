@@ -31,4 +31,4 @@ The Bengals worry me. Even if they win against the Ravens, this game revealed so
 
 On top of that, Tee Higgins may be overrated. And if that's the case and their ground game is unable to get going against Baltimore's front, then they only have one viable weapon on offense - Ja'Marr Chase.
 
-A team missing any teeth on both offense and defense isn't cut for the championship. Did I really misread this club that badly or is there another dynamic involved here that I'm missing? Nobody tends to play Cincinnati tougher than the Ravens.     
+A team missing any teeth on both offense and defense isn't cut for the championship. Did I really misread this club that badly or is there another dynamic involved here that I'm missing? Nobody tends to play Cincinnati tougher than the Ravens, in part because John Harbaugh and his coaching staff have a keen understanding of Cincinnati's tendencies on offense.
