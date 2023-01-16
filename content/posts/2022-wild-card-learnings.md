@@ -16,3 +16,5 @@ It's possible Los Angeles simply decided to run out the clock after halftime, ab
 ***
 
 What a hilarious comedy of errors this Bills game against the Dolphins has become. Josh Allen's mistakes have been single-handedly responsible for Miami taking the lead in the third quarter. Skylar Thompson hasn't done much predictably.
+
+***
