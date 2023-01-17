@@ -1,0 +1,14 @@
+{
+    "name" : "San Francisco 49ers",
+    "qb" :
+    {
+        "name" : "Brock Purdy",
+        "status" : "a"
+    },
+    "weapons" : ["Christian McCaffrey", "Brandon Aiyuk", "George Kittle", "Deebo Samuel"],
+    "mWeapons" : [],
+    "passRushers" : ["Nick Bosa"],
+    "mPassRushers" : [],
+    "comebacks" : 2,
+    "comebacksSurrendered" : 3
+}

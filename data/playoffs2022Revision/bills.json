@@ -1,0 +1,14 @@
+{
+    "name" : "Buffalo Bills",
+    "qb" :
+    {
+        "name" : "Josh Allen",
+        "status" : "a"
+    },
+    "weapons" : ["Stefon Diggs", "Josh Allen (Mobile QB)"],
+    "mWeapons" : ["Devin Singletary / James Cook"],
+    "passRushers" : [],
+    "mPassRushers" : [],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 3
+}

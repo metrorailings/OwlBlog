@@ -1,0 +1,14 @@
+{
+    "name" : "Dallas Cowboys",
+    "qb" :
+    {
+        "name" : "Dak Prescott",
+        "status" : "a"
+    },
+    "weapons" : ["CeeDee Lamb", "Tony Pollard"],
+    "mWeapons" : ["Dak Prescott (Mobile QB)", "Dalton Schultz"],
+    "passRushers" : ["Micah Parsons"],
+    "mPassRushers" : [],
+    "comebacks" : 2,
+    "comebacksSurrendered" : 2
+}

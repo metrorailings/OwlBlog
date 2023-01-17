@@ -1,0 +1,14 @@
+{
+    "name" : "Philadelphia Eagles",
+    "qb" :
+    {
+        "name" : "Jalen Hurts",
+        "status" : "a"
+    },
+    "weapons" : ["Miles Sanders", "A.J. Brown", "DeVonta Smith", "Dallas Goedert"],
+    "mWeapons" : ["Jalen Hurts (Mobile QB)"],
+    "passRushers" : ["Haason Reddick"],
+    "mPassRushers" : ["Josh Sweat", "Fletcher Cox / Javon Hargrove"],
+    "comebacks" : 2,
+    "comebacksSurrendered" : 1
+}

@@ -1,0 +1,14 @@
+{
+    "name" : "Kansas City Chiefs",
+    "qb" :
+    {
+        "name" : "Patrick Mahomes",
+        "status" : "a"
+    },
+    "weapons" : ["Travis Kelce", "Patrick Mahomes (Mobile QB)", "Isiah Pacheco / Jerick McKinnon"],
+    "mWeapons" : ["JuJu Smith-Schuster"],
+    "passRushers" : ["Chris Jones", "Carlos Dunlap"],
+    "mPassRushers" : [],
+    "comebacks" : 6,
+    "comebacksSurrendered" : 3
+}

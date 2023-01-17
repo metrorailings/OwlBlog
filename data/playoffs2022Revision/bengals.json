@@ -1,0 +1,14 @@
+{
+    "name" : "Cincinnati Bengals",
+    "qb" :
+    {
+        "name" : "Joe Burrow",
+        "status" : "e"
+    },
+    "weapons" : ["Ja'Marr Chase"],
+    "mWeapons" : ["Joe Mixon / Samaje Perine", "Tee Higgins"],
+    "passRushers" : [],
+    "mPassRushers" : ["Trey Hendrickson", "Sam Hubbard"],
+    "comebacks" : 4,
+    "comebacksSurrendered" : 1
+}
