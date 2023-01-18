@@ -17,6 +17,8 @@ UPDATE: It looks to me that Jacksonville was racked by nerves. Trevor Lawrence i
 
 Doug Pederson should have simplified the playbook entering the game, knowing full well so many of his boys would be experiencing a playoff game for the first time in their lives. We saw this before too back when he won it all with Philadelphia with Nick Foles as the field marshal on offense. Even though the Eagles would stun the world by keeping the offense productive through the postseason despite the loss of their starting passer, their first playoff game was a rough one to watch. It was a low-scoring affair and one that had to be settled by a late field goal.
 
+One more thing worth noting is that Travon Walker seems to have caught his groove in the second half as well, given the way he was always invading Herbert's personal space.
+
 ***
 
 What a hilarious comedy of errors this Bills game against the Dolphins has become. Josh Allen's mistakes have been single-handedly responsible for Miami taking the lead in the third quarter. Skylar Thompson hasn't done much predictably.
