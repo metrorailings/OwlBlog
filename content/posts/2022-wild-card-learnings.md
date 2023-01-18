@@ -21,9 +21,13 @@ That being said, Miami has a very good foundation here with a defensive loaded w
 
 ***
 
-One of the reasons I thought the Vikings would have the upper hand in their contest against the Giants would be their experience in elimination game scenarios. Other than one mistake from Daniel Bellinger, New York hasn't shown me anything indicating that this playoff atmosphere is too much for them to handle. I might need to rethink the value of playoff experience. Even if the team's saddled with the yips, how long is it really expected to last? 
+One of the reasons I thought the Vikings would have the upper hand in their contest against the Giants would be their experience in elimination game scenarios. Other than one mistake from Daniel Bellinger, New York hasn't shown me anything indicating that this playoff atmosphere is too much for them to handle. I might need to rethink the value of playoff experience. Even if the team's saddled with the yips, how long is it really expected to last?
 
-I think I might need to shift more attention to special teams and field goal kickers instead. Maybe assess field goal kickers making their first postseason start and see how well they tend to perform versus league average.   
+I think I might need to shift more attention to special teams and field goal kickers instead. Maybe assess field goal kickers making their first postseason start and see how well they tend to perform versus league average.
+
+UPDATE: Rewatched the tape of the Giants on defense. It was a very impressive showing from Dexter Lawrence. I recorded about five quarterback hits from him alone. He was harassing Kirk all day. It goes without saying that without Dexter, I'm not sure if the Giants would have won this game. 
+
+No one else from that defensive front really showed up consistently. Kayvon has a high motor though, as evidenced by him chasing down ball carriers every now and then.
 
 ***
 
