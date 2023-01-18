@@ -13,7 +13,9 @@ Yet, in the second half....all that didn't matter. Jacksonville was able to stag
 
 It's possible Los Angeles simply decided to run out the clock after halftime, absolutely oblivious to Jacksonville's recent history of near-miraculous comebacks. Or it's possible that the Jaguars were collectively stricken by anxiety given this was the first foray into the postseason for so many people across that roster. I need to rewatch this game just to see what exactly changed between the two halves. Either way, kudos to the Jaguars or winning their first playoff game in the Doug Pederson and Trevor Lawrence era.
 
-UPDATE: Yes, Jacksonville was racked by nerves, apparently. Trevor Lawrence in particular had a Jekyll-and-Hyde style transformation between the two halves. The quarterback who threw four interceptions in the early two quarters was not the same man who came out in the second half and rallied his offense back from a four-score deficit.
+UPDATE: It looks to me that Jacksonville was racked by nerves. Trevor Lawrence in particular had a Jekyll-and-Hyde style transformation between the two halves. The quarterback who threw four interceptions in the early two quarters was not the same man who came out in the second half and rallied his offense back from a four-score deficit.
+
+Doug Pederson should have simplified the playbook entering the game, knowing full well so many of his boys would be experiencing a playoff game for the first time in their lives. We saw this before too back when he won it all with Philadelphia with Nick Foles as the field marshal on offense. Even though the Eagles would stun the world by keeping the offense productive through the postseason despite the loss of their starting passer, their first playoff game was a rough one to watch. It was a low-scoring affair and one that had to be settled by a late field goal.
 
 ***
 
