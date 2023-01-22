@@ -22,8 +22,6 @@ Cincinnati has come into this game well-prepared and with a few tricks up its sl
 
 More importantly, the Bengals have seen a resurgence in their rushing game as well as their pass rush, both of which were obviously missing last week against the Ravens. Cincinnati's defensive line has gotten the better of Buffalo's offensive line consistently. Meanwhile, Joe Mixon is chewing off yardage at six yards a clip.
 
-Buffalo's game plan is disapointing. It's obvious Cincinnati has real issues defending the six-back attack as evident by the game last week against the Ravens. A winning game plan would call for Josh Allen to run the ball more than usual. But it seems like Buffalo never received that memo.
-
 I'll be tracking Cincinnati's defensive pressures here.
 
 Joseph Ossai: I  
@@ -32,3 +30,9 @@ Sam Hubbard: ||
 Cam Sample:  
 D.J Reader: I  
 B.J Hill: II
+
+***
+
+Buffalo's game plan is disapointing. It's obvious Cincinnati has real issues defending the six-back attack as evident by the game last week against the Ravens. A winning game plan would call for Josh Allen to run the ball more than usual. But it seems like Buffalo never received that memo.
+
+Also, these Bills are clearly not comfortable in the snow. So strange considering Buffalo should be very comfortable playing in winter conditions. This says something about the way Sean McDermott manages this club. 
