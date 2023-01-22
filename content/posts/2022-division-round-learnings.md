@@ -18,6 +18,8 @@ In light of all the young teams that have been succeeding in the postseason rece
 
 ***
 
+Cincinnati has come into this game well-prepared and with a few tricks up its sleeve. Kudos to Zac Taylor. 
+
 I'll be tracking Cincinnati's defensive pressures here.
 
 Joseph Ossai: I  
