@@ -23,6 +23,6 @@ Cincinnati has come into this game well-prepared and with a few tricks up its sl
 I'll be tracking Cincinnati's defensive pressures here.
 
 Joseph Ossai: I  
-Trey Hendrickson:  
-Sam Hubbard:  
+Trey Hendrickson: |  
+Sam Hubbard: |  
 Cam Sample:
