@@ -4,4 +4,4 @@ draft = true
 headline = "2022 Division Round Learnings"
 
 +++
-One of the biggest questions about my grades this year was whether Mahomes was deserving of elite status. So far on the first drive of the game coming out off the bye weekend, Mahomes has made nothing but elite-level plays. 
+One of the biggest questions about my grades this year was whether Mahomes was deserving of elite status. So far on the first drive of the game coming out off the bye weekend, Mahomes has made me look pretty stupid given the way he's been nothing short of sensational.
