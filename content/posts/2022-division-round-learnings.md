@@ -15,3 +15,12 @@ The real question becomes just how much the Chiefs offense will be set back by t
 Jacksonville has played too ugly in this game against the Chiefs. Maybe it's reflective of their head coach's free-wheeling management style or perhaps it's a symptom of their youth. Either way, the Jaguars have made way too many critical mistakes - Jamal Agnew letting the ball slip out of his hands just a few yards away from the end zone, Trevor Lawrence throwing some ugly balls under duress, offensive linemen failing to communicate protection responsibilities to one another, defensive linemen constantly finding themselves out of position to make any impact, etc.
 
 In light of all the young teams that have been succeeding in the postseason recently ( the Bengals of last year being one of them)...I'm inclined to think this is a lack of discipline set in part by the way Pederson coaches this team. Pederson seems like the type of guy who approaches team-building and culture a little too lazily - as a result, not enough attention is paid to detail and technique. So not only is this club inadequately prepared to handle various game scenarios, but the club's also more prone to mistakes, especially during moments of high tension. Of course, if this were true, that would make his 2017 Super Bowl run all the more remarkable. But that 2017 Philadelphia team had a few positive traits differentiating themselves from this 2022 Jacksonville organization, namely excellent coordinators as well as a more complete roster on both sides of the ball. Specifically speaking, Philadelphia was stacked at the skill player position as well as their defensive front, something that these Jaguars were missing in the worst way possible today in their game against the Chiefs.
+
+***
+
+I'll be tracking Cincinnati's defensive pressures here.
+
+Joseph Ossai: I  
+Trey Hendrickson:  
+Sam Hubbard:  
+Cam Sample:
