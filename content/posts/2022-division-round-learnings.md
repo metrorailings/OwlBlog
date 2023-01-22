@@ -25,4 +25,6 @@ I'll be tracking Cincinnati's defensive pressures here.
 Joseph Ossai: I  
 Trey Hendrickson: |  
 Sam Hubbard: |  
-Cam Sample:
+Cam Sample:  
+D.J Reader: I  
+B.J Hill: I
