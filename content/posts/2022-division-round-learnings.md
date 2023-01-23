@@ -36,3 +36,15 @@ B.J Hill: II
 Buffalo's game plan is disapointing. It's obvious Cincinnati has real issues defending the six-back attack as evident by the game last week against the Ravens. A winning game plan would call for Josh Allen to run the ball more than usual. But it seems like Buffalo never received that memo.
 
 Also, these Bills are clearly not comfortable in the snow. So strange considering Buffalo should be very comfortable playing in winter conditions. This says something about the way Sean McDermott manages this club. 
+
+***
+
+San Francisco and Dallas was a competitive game until the fourth quarter. I think the Cowboys ran out of juice. I question their conditioning considering the 49ers were doing nothing but running the ball on the second to last drive. Yet, that was enough to chew off most of the game clock in the fourth quarter and give them a field goal to insure the win.
+
+On top of that, Dak Prescott was absolutely horrendous. My original instinct to label him a liability may have been more accurate than ever. His wild card game would then stand as a freaky outlier.
+
+***
+
+One thing that this weekend has made abundantly clear is that teams with two weeks to prepare against a postseason opponent can play far above their pay grade. The Giants had two weeks to strategize against the Vikings and that preparation resulted in a fantastic win in Minnesota. Likewise, it's somewhat obvious Dallas spent the last week of the regular season devising a game plan for the Buccaneers - it's the only way I can explain why the Cowboys offense against Tampa Bay was damn near unstoppable and how Prescott had no issue reading the blitzes that Todd Bowles was throwing at him. For somebody to demonstrate such an ability just now at this point in the year would be absolutely bizarre.
+
+This is a dynamic that needs to be kept in mind going forward in the future.
