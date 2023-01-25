@@ -53,3 +53,5 @@ This is a dynamic that needs to be kept in mind going forward in the future.
 Jalen Hurts doesn't quite have the same pop in his designed runs compared to earlier in the season. It's pretty telling Philadelphia opted not to run him right away once the game started, instead waiting until late in the first drive to finally give him the option to go.
 
 Meanwhile, all of the Eagles other tailbacks have no problem gashing this Giants defense for big yardage.
+
+Philadelphia and their blitzing has been fairly sensational.
