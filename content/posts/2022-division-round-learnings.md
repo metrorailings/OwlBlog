@@ -17,7 +17,7 @@ In light of all the young teams that have been succeeding in the postseason rece
 
 ***
 
-Cincinnati has come into this game well-prepared and with a few tricks up its sleeve. Kudos to Zac Taylor. 
+Cincinnati has come into this game well-prepared and with a few tricks up its sleeve. Kudos to Zac Taylor.
 
 More importantly, the Bengals have seen a resurgence in their rushing game as well as their pass rush, both of which were obviously missing last week against the Ravens. Cincinnati's defensive line has gotten the better of Buffalo's offensive line consistently. Meanwhile, Joe Mixon is chewing off yardage at six yards a clip.
 
@@ -34,7 +34,7 @@ B.J Hill: II
 
 Buffalo's game plan is disapointing. It's obvious Cincinnati has real issues defending the six-back attack as evident by the game last week against the Ravens. A winning game plan would call for Josh Allen to run the ball more than usual. But it seems like Buffalo never received that memo.
 
-Also, these Bills are clearly not comfortable in the snow. So strange considering Buffalo should be very comfortable playing in winter conditions. This says something about the way Sean McDermott manages this club. 
+Also, these Bills are clearly not comfortable in the snow. So strange considering Buffalo should be very comfortable playing in winter conditions. This says something about the way Sean McDermott manages this club.
 
 ***
 
@@ -47,3 +47,9 @@ On top of that, Dak Prescott was absolutely horrendous. My original instinct to 
 One thing that this weekend has made abundantly clear is that teams with two weeks to prepare against a postseason opponent can play far above their pay grade. The Giants had two weeks to strategize against the Vikings and that preparation resulted in a fantastic win in Minnesota. Likewise, it's somewhat obvious Dallas spent the last week of the regular season devising a game plan for the Buccaneers - it's the only way I can explain why the Cowboys offense against Tampa Bay was damn near unstoppable and how Prescott had no issue reading the blitzes that Todd Bowles was throwing at him. For somebody to demonstrate such an ability just now at this point in the year would be absolutely bizarre.
 
 This is a dynamic that needs to be kept in mind going forward in the future.
+
+***
+
+Jalen Hurts doesn't quite have the same pop in his designed runs compared to earlier in the season. It's pretty telling Philadelphia opted not to run him right away once the game started, instead waiting until late in the first drive to finally give him the option to go.
+
+Meanwhile, all of the Eagles other tailbacks have no problem gashing this Giants defense for big yardage.
