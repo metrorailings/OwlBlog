@@ -54,4 +54,4 @@ Jalen Hurts doesn't quite have the same pop in his designed runs compared to ear
 
 Meanwhile, all of the Eagles other tailbacks have no problem gashing this Giants defense for big yardage.
 
-Philadelphia and their blitzing has been fairly sensational.
+Philadelphia and their blitzing has been fairly sensational. Haasan Riddick is indisputably that team's best pass rusher.
