@@ -58,4 +58,4 @@ Philadelphia and their blitzing has been fairly sensational. Haasan Riddick is i
 
 ***
 
-Samson Ebukam is a name I may missed when evaluating San Francisco's pass rushers.
+Samson Ebukam is a name I may have missed when evaluating San Francisco's pass rushers.
