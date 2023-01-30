@@ -1,6 +1,5 @@
 +++
 date = 2023-01-30T12:00:00Z
-draft = true
 headline = "2022 Conference Round Learnings"
 
 +++
@@ -13,6 +12,8 @@ The past couple years, we've seen the Patriots and the Steelers contradict this 
 So not sure where to go here or what this may imply about the upcoming duel between Cincinnati and Kansas City this weekend. While this theory holds sway the majority of the teams, exceptions do exist, proving that further caveats need to be defined here before this rule can be properly leveraged in the future.
 
 EDIT: Looking back at the set of matches between Pittsburgh and Cleveland, I don't think that's an exception after all. In the regular season match, the Steelers actually covered the spread and nearly won the game outright as double-digit underdogs. So if anything, Cleveland underwhelming in the regular season only to dominate in the postseason contest reinforces the theory.
+
+SECOND EDIT: Remember the Giants back in 2011. 
 
 ***
 
