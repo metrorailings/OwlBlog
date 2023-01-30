@@ -1,5 +1,6 @@
 +++
 date = 2023-01-30T12:00:00Z
+draft = true
 headline = "2022 Conference Round Learnings"
 
 +++
@@ -20,3 +21,11 @@ SECOND EDIT: Remember the Giants back in 2011.
 Philadelphia and San Francisco may have been a much closer game had Brock Purdy not been injured early and the referees not favor the Eagles as much. Once it became obvious that these referees weren't giving San Francisco the leeway needed to be physical in coverage, the 49ers lost some teeth on defense. Combined with a nonexistent passing game, this contest was over in the second quarter.
 
 Kansas seems to have adjusted well after losing to Cincinnati in the regular season. The defense has managed to rack up three sacks so far against Joe Burrow on his first six snaps. Pretty shocking to see this vaunted Bengals offense play so pathetically.
+
+So Cincinnati finally shored up its holes in pass protection midway through the game, although things naturally fell apart in the fourth quarter where it matters most. Chris Jones was sensational. The Chiefs were much more comfortable blitzing Burrow too and sending defensive backs down closer to the line of scrimmage to take out any outlet throws. The fact that Burrow kept getting hit and sacked so much today was testament to their excellent game planning. 
+
+Would Cincinnati have won if injuries didn't rob them of key trench players? Probably. Missing three starting offensive linemen really depressed their ground game - Mixon couldn't chew off much yardage on his rushes. Furthermore, it's clear to me Trey Hendrickson and Sam Hubbard are nowhere close to peak form coming off late season injuries. Hendrickson in particular had virtually no impact on this game. It would have been much better starting Joseph Ossai in his place. I noticed Hubbard a few times, but he failed to make a meaningful impact on any single play. Without either of their star pass rushers playing at full potential, Mahomes was far too comfortable operating from the pocket.
+
+If there's one thing that's evident though, it's that having played the Bengals just several weeks prior really helped the Chiefs. Kansas came out with a defensive game plan that prevented Burrow and company from gaining any sort of rhythm on offense. All their points came through painstaking effort that simply couldn't be sustained once the contest went into the fourth quarter. So let this be definitive proof that recent rematches taking place in the postseason favor the loser from the first match, period. 
+
+All these factors played a role in helping Kansas City overcome their limitations on offense and take home the AFC championship.
