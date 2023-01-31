@@ -19,3 +19,5 @@ The drives that followed, Mahomes continued making timely plays. With some help 
 On the other side, Chris Jones made timely plays in the fourth quarter. He batted down three balls on two critical late-game drives. And a fourth down sack to seal the game was made possible in part by him opening up a rushing lane for Frank Clark.
 
 In conclusion, this game made me more worried for the Eagles. Outside of Haason Reddick, I hesitate to call anybody else along that Philly defensive front elite. All of them have contributed at points in the season, which explains just how that unit was able to rack up so many sacks over the course of the year. But San Francisco's own defensive line was considered just as stacked the season they matriculated to the Super Bowl - Mahomes and company fared just fine against the 49ers pass rush. That being said, the raw stats the Eagles defensive front posted this year are truly impressive, although the Chiefs did well enough themselves running up their own quarterback pressure numbers.
+
+***
