@@ -20,3 +20,7 @@ On the other side, Chris Jones made timely plays in the fourth quarter. He batte
 In conclusion, this game made me more worried for the Eagles. Outside of Haason Reddick, I hesitate to call anybody else along that Philly defensive front elite. All of them have contributed at points in the season, which explains just how that unit was able to rack up so many sacks over the course of the year. But San Francisco's own pass rush was considered just as talented the season they matriculated to the Super Bowl, yet Mahomes and company fared just fine against them. That being said, the raw stats the Eagles defensive front posted this year are truly impressive, although the Chiefs did well enough themselves running up their own quarterback pressure numbers.
 
 ***
+
+Jacksonville played Philadelphia early in the season before they fully broke out.
+
+Philadelphia pass rushing numbers -
