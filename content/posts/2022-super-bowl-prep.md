@@ -23,4 +23,4 @@ In conclusion, this game made me more worried for the Eagles. Outside of Haason 
 
 Jacksonville played Philadelphia early in the season before they fully broke out.
 
-Philadelphia pass rushing numbers -
+In that game, Haason Reddick and Fletcher Cox have impressed me more than the other pass rushers. Reddick has been showing up consistently across multiple drives. Fletcher Cox played a significant role in shutting down Jacksonville's opening drive of the second half.
