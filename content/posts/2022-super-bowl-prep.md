@@ -34,3 +34,5 @@ Philadelphia's offense found success largely by running the ball, although a few
 Jacksonville played Kansas several weeks later, before their bye when they managed to pivot to a higher level. So the game can be seen as a somewhat fair comparison to the Philadelphia game earlier in the season. 
 
 The Chiefs pass rush has been impressive. Not only have a number of their blitzes managed to hit home, but all their key pass rushers made impactful plays at one point or another in the first half alone - George Karlaftis successfully batted down two passes, Carlos Dunlap and Khalen Saunders each sacked the quarterback once, and Chris Jones singlehandedly disrupted a few plays.
+
+Kansas' pass rush was more muted during the second half, although Chris Jones showed up a few times on critical plays. His only sack of the game came at a pivotal point when Jacksonville was trying to close out its opening drive in the half with a score. Instead, Doug Pederson had to settle for a field goal because of that sack.
