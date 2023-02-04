@@ -24,3 +24,9 @@ In conclusion, this game made me more worried for the Eagles. Outside of Haason 
 Jacksonville played Philadelphia early in the season before they fully broke out.
 
 In that game, Haason Reddick and Fletcher Cox have impressed me more than the other pass rushers. Reddick has been showing up consistently across multiple drives. Fletcher Cox played a significant role in shutting down Jacksonville's opening drive of the second half.
+
+The Jaguars play-calling took a bit of a bizarre turn midway through the game when the team started relying on screens and shotgun draws to matriculate the ball forward.
+
+Philadelphia's offense found success largely by running the ball, although a few timely passes to A.J. Brown helped them sustain drives that ultimately ended in a score. 
+
+***
