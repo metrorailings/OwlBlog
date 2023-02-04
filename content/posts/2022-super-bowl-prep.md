@@ -33,4 +33,4 @@ Philadelphia's offense found success largely by running the ball, although a few
 
 Jacksonville played Kansas several weeks later, before their bye when they managed to pivot to a higher level. So the game can be seen as a somewhat fair comparison to the Philadelphia game earlier in the season. 
 
-The Chiefs pass rush has been impressing for the most part. Not only have a number of their blitzes managed to hit home, but all of their key pass rushers have made impact plays at one point or another. In the first half alone, George Karlaftis batted down two passes, Carlos Dunlap and Khalen Saunders each sacked the quarterback once, and Chris Jones disrupted a few plays by throwing his weight around in the trenches.
+The Chiefs pass rush has been impressive. Not only have a number of their blitzes managed to hit home, but all their key pass rushers made impactful plays at one point or another in the first half alone - George Karlaftis successfully batted down two passes, Carlos Dunlap and Khalen Saunders each sacked the quarterback once, and Chris Jones singlehandedly disrupted a few plays.
