@@ -30,3 +30,7 @@ The Jaguars play-calling took a bit of a bizarre turn midway through the game wh
 Philadelphia's offense found success largely by running the ball, although a few timely passes to A.J. Brown helped them sustain drives that ultimately ended in a score. 
 
 ***
+
+Jacksonville played Kansas several weeks later, before their bye when they managed to pivot to a higher level. So the game can be seen as a somewhat fair comparison to the Philadelphia game earlier in the season. 
+
+The Chiefs pass rush has been impressing for the most part. Not only have a number of their blitzes managed to hit home, but all of their key pass rushers have made impact plays at one point or another. In the first half alone, George Karlaftis batted down two passes, Carlos Dunlap and Khalen Saunders each sacked the quarterback once, and Chris Jones disrupted a few plays by throwing his weight around in the trenches.
