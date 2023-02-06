@@ -27,11 +27,11 @@ In that game, Haason Reddick and Fletcher Cox have impressed me more than the ot
 
 The Jaguars play-calling took a bit of a bizarre turn midway through the game when the team started relying on screens and shotgun draws to matriculate the ball forward.
 
-Philadelphia's offense found success largely by running the ball, although a few timely passes to A.J. Brown helped them sustain drives that ultimately ended in a score. 
+Philadelphia's offense found success largely by running the ball, although a few timely passes to A.J. Brown helped them sustain drives that ultimately ended in a score.
 
 ***
 
-Jacksonville played Kansas several weeks later, before their bye when they managed to pivot to a higher level. So the game can be seen as a somewhat fair comparison to the Philadelphia game earlier in the season. 
+Jacksonville played Kansas several weeks later, before their bye when they managed to pivot to a higher level. So the game can be seen as a somewhat fair comparison to the Philadelphia game earlier in the season.
 
 The Chiefs pass rush has been impressive. Not only have a number of their blitzes managed to hit home, but all their key pass rushers made impactful plays at one point or another in the first half alone - George Karlaftis successfully batted down two passes, Carlos Dunlap and Khalen Saunders each sacked the quarterback once, and Chris Jones singlehandedly disrupted a few plays.
 
@@ -43,4 +43,10 @@ Interesting game between the Chiefs and the Bengals to determine AFC representat
 
 If Cincinnati can keep Hubbard, Trey, Ossai, and B.J. together next year and give their offense a reliable vector in the short passing game, we could be looking at next year's championship team. Damn shame that untimely injuries and scheduling luck worked against their favor this year.
 
-As for the Chiefs, Chris Jones, Carlos Dunlap, and Mike Danna were the defensive linemen who consistently flashed on tape. All three made impact plays across multiple drives. Offensively, the line in front of Mahomes held up in pass protection for three quarters. In the fourth quarter, things broke down and Mahomes was under duress on a good number of passing snaps. Giving Ossai more snaps on defense really helped Cincinnati keep things scarily close in the fourth quarter. Still...the fact that the Bengals line ultimately couldn't hold up and protect Burrow long enough came to bite them in the ass hard. I'm surprised Joe Burrow couldn't commit more to shorter passes, but then again, I shouldn't be surprised - after being hit all day long, it's only natural for a quarterback to be less keen on reading the field and more likely to throw prayers to his most trusted weapons.  
+As for the Chiefs, Chris Jones, Carlos Dunlap, and Mike Danna were the defensive linemen who consistently flashed on tape. All three made impact plays across multiple drives. Offensively, the line in front of Mahomes held up in pass protection for three quarters. In the fourth quarter, things broke down and Mahomes was under duress on a good number of passing snaps. Giving Ossai more snaps on defense really helped Cincinnati keep things scarily close in the fourth quarter. Still...the fact that the Bengals line ultimately couldn't hold up and protect Burrow long enough came to bite them in the ass hard. I'm surprised Joe Burrow couldn't commit more to shorter passes, but then again, I shouldn't be surprised - after being hit all day long, it's only natural for a quarterback to be less keen on reading the field and more likely to throw prayers to his most trusted weapons.
+
+***
+
+So out of all the tape I've watched so far, Kansas City has four noteworthy defensive trenchmen - Chris Jones, Carlos Dunlap, George Karloftis, and Mike Danna. Philadelphia has four noteworthy defensive linemen - Haason Reddick, Fletcher Cox, Javon Hargrave, and Brandon Graham. Out of all those defensive personnel I just listed, only two are truly elite - Chris Jones and Haason Reddick.
+
+Philadelphia may have a better line overall thanks to their depth, but the difference between them and Kansas is insignificant, in all honesty.
