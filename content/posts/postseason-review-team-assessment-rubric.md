@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2019-12-30T12:00:00Z
 headline = "Postseason Review - Team Assessment Rubric"

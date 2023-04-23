@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-05T23:18:49-05:00"
 headline = "Cowboys over Seahawks - Quick Analysis"

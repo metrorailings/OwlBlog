@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2018-11-17T14:07:48-05:00"
 headline = "Week 11 - Risky Propositions"

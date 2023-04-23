@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 content = ""
 date = "2018-10-29T22:26:01-04:00"

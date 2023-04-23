@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2023-01-16T12:00:00Z
 headline = "2022 Wild Card Round Learnings"

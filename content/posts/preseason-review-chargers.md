@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-09-04 12:00:14"
 headline = "Preseason Review: Los Angeles Chargers"

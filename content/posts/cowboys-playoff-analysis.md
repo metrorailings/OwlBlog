@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2018-12-25T19:04:15-05:00"
 headline = "Cowboys Playoff Analysis"

@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-12T17:57:40-05:00"
 headline = "Cowboys @ Rams - Division Round Preview"

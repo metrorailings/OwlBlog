@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2022-09-09T12:00:00Z
 headline = "2022 Circa Millions - Week 1 Predictions"

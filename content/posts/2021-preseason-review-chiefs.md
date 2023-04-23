@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2021-09-11T12:00:00Z
 draft = true

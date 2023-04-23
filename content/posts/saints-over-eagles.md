@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-13T20:05:43-05:00"
 headline = "Saints over Eagles - Postgame Analysis"

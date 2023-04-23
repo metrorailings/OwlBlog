@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2019-12-29T12:00:00Z
 headline = "Week 17 Quick Insights"

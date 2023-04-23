@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2022-01-13T12:00:00Z
 headline = "2021 Playoff Analysis: Introduction"

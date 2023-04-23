@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-06T20:58:13-05:00"
 headline = "Chargers over Ravens - Quick Analysis"

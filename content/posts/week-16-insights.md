@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-12-25T12:00:00Z
 headline = "Week 16 Insights"

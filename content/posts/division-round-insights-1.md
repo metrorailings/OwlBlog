@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2021-01-16T12:00:00Z
 headline = "Division Round Insights"

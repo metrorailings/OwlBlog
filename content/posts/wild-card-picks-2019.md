@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-01-04T12:00:00Z
 headline = "Wild Card Round: Picks"

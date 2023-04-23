@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-09-24T12:00:00Z
 headline = "Week 3 Insights"

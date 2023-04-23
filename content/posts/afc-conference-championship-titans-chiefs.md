@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-01-19T12:00:00Z
 headline = "AFC Conference Championship - Titans @ Chiefs"

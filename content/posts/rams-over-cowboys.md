@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-13T00:26:09-05:00"
 headline = "Rams over Cowboys - Post-Game Thoughts"

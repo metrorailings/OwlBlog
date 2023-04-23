@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2021-11-05T12:00:00Z
 headline = "Week 9 Circa Picks"

@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-09-05 12:00:06"
 headline = "Preseason Review: Minnesota Vikings"

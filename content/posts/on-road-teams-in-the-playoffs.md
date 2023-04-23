@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-13T21:46:56-05:00"
 headline = "On Road Teams in the Playoffs"

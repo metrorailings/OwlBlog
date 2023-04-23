@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2022-02-11T12:00:00Z
 headline = "Super Bowl LVI: Pass Rush Analysis"

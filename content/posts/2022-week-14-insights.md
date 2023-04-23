@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2022-12-11T12:00:00Z
 headline = "Week 14 Insights"

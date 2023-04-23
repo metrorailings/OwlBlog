@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-11-06T12:00:00Z
 headline = "Week 9 Supercontest Picks"

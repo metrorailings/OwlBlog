@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2019-09-05T12:00:08Z
 headline = "Preseason Review: Chicago Bears"

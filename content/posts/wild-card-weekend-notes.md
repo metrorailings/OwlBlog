@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-01-05T12:00:00Z
 headline = "Wild Card Weekend - Notes"

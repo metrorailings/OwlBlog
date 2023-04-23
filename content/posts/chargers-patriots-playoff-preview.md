@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2019-01-13T01:38:56-05:00"
 headline = "Chargers @ Patriots - Division Round Analysis"

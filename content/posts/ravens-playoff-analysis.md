@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2018-12-27T20:59:34-05:00"
 headline = "Ravens Playoff Analysis"

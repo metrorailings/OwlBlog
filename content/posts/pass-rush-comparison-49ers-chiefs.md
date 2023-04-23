@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2020-01-23T12:00:00Z
 headline = "Pass Rush Comparison: Chiefs vs. 49ers"

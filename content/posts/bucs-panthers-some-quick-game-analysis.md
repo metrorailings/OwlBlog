@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = "2018-11-05T20:58:27-05:00"
 headline = "Bucs @ Panthers - Some Quick Game Analysis"

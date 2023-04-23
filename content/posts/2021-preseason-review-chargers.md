@@ -1,3 +1,7 @@
+---
+_template: owl_post
+---
+
 +++
 date = 2021-08-31T12:00:00Z
 headline = "2021 Preseason Review: Los Angeles Chargers"
