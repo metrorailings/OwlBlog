@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-01-06T21:35:05-05:00"
 headline = "Eagles over Bears - Quick Analysis"

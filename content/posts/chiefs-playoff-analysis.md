@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-01-03T17:13:24-05:00"
 headline = "Chiefs Playoff Analysis"

@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-09-04 12:00:10"
 headline = "Preseason Review: Indianapolis Colts"

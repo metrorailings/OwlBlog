@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2018-12-30T01:38:42-05:00"
 headline = "Bears Playoff Analysis"

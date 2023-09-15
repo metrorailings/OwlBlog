@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2020-12-13T12:00:00Z
 headline = "Week 14 Insights"

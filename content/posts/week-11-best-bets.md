@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2018-11-16T21:58:04-05:00"
 headline = "Week 11 - Solid Bets"

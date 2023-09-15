@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2019-12-31T12:00:00Z
 headline = "Postseason Review - Minnesota Vikings"

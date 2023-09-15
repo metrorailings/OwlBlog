@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2020-07-31T12:00:00Z
 headline = "2020 Preseason Review: Indianapolis Colts"

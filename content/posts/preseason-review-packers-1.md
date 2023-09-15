@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2020-09-06T12:00:00Z
 headline = "2020 Preseason Review: Green Bay Packers"

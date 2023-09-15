@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-09-05 12:00:03"
 headline = "Preseason Review: New York Giants"

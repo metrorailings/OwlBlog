@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2021-09-18T12:00:00Z
 headline = "Week 2 Circa Millions Picks"

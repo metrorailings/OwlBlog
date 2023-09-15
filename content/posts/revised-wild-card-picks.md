@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-01-06T01:10:23-05:00"
 headline = "Revised Wild Card Picks"

@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2022-01-12T12:00:00Z
 headline = "2021 Playoff Analysis: Cincinnati Bengals"

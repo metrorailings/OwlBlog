@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2021-06-18T12:00:00Z
 headline = "2021 Preseason Review: Chicago Bears"

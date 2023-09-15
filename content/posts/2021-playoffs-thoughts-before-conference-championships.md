@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2022-01-28T12:00:00Z
 headline = "2021 Playoffs: Thoughts Before Conference Championships"

@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-01-09T22:31:39-05:00"
 headline = "Division Round Preview - Colts @ Chiefs"

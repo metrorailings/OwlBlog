@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = "2019-10-13 12:00:00"
 headline = "Week 6 Quick Insights"

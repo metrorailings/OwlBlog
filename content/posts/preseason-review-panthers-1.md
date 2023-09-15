@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2020-09-03T12:00:00Z
 headline = "2020 Preseason Review: Carolina Panthers"

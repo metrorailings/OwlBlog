@@ -2,6 +2,7 @@
 _template: owl_post
 ---
 
+
 +++
 date = 2021-10-18T12:00:00Z
 headline = "Week 6 Insights"
