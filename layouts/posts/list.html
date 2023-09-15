@@ -17,7 +17,7 @@
 	
 			{{ $.Scratch.Set "lastPostsDate" (.Date.Format "January 2 2006") }}
 
-			<a class='postSmallTitle' href='{{ .URL }}'>{{ .Params.headline }}</a>
+			<a class='postSmallTitle' href='{{ .Permalink }}'>{{ .Params.headline }}</a>
 		{{ end }}
 	</div>
 
