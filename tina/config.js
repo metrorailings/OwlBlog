@@ -3,7 +3,7 @@ import { owl_postFields } from "./templates";
 import { postFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 
 export default defineConfig({
   branch,
