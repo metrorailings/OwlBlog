@@ -1,20 +1,20 @@
 {
-  "market" : "Arizona",
-  "name" : "Cardinals",
-  "abbrev" : "ARI",
+  "market" : "Carolina",
+  "name" : "Panthers",
+  "abbrev" : "CAR",
 
-  "head_coach" : "Jonathan Gannon",
+  "head_coach" : "Frank Reich",
   "oc" : {
-    "name" : "Drew Petzing",
-    "tier" : "red"
+    "name" : "Frank Reich / Thomas Brown",
+    "tier" : "white"
   },
   "dc" : {
-    "name" : "Jonathan Gannon / Nick Rallis",
-    "tier" : ""
+    "name" : "Ejiro Evero",
+    "tier" : "red"
   },
   "quarterback" : {
-    "name" : "Joshua Dobbs",
-    "tier" : "green"
+    "name" : "Bryce Young",
+    "tier" : "white"
   },
 
   "offense" : {
@@ -34,7 +34,7 @@
     "red_zone_touchdowns" : 0,
     "red_zone_field_goals" : 0,
 
-    "key_vectors" : ["James Conner", "Joshua Dobbs", "Marquise Brown", "Zach Ertz"]
+    "key_vectors" : ["Adam Thielan"]
   },
 
   "defense" : {
@@ -54,11 +54,11 @@
     "red_zone_touchdowns" : 0,
     "red_zone_field_goals" : 0,
 
-    "key_linemen" : [],
-    "key_back_seven_players" : []
+    "key_linemen" : ["Brian Burns", "Derrick Brown"],
+    "key_back_seven_players" : ["Frankie Luvu", "Vonn Bell"]
   },
 
-  "key_players_injured_reserved" : ["Budda Baker"],
+  "key_players_injured_reserved" : [],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
   "recent_drama" : false

@@ -1,20 +1,20 @@
 {
-  "market" : "Arizona",
-  "name" : "Cardinals",
-  "abbrev" : "ARI",
+  "market" : "Baltimore",
+  "name" : "Ravens",
+  "abbrev" : "BAL",
 
-  "head_coach" : "Jonathan Gannon",
+  "head_coach" : "John Harbaugh",
   "oc" : {
-    "name" : "Drew Petzing",
-    "tier" : "red"
-  },
-  "dc" : {
-    "name" : "Jonathan Gannon / Nick Rallis",
+    "name" : "Todd Monken",
     "tier" : ""
   },
+  "dc" : {
+    "name" : "Mike Macdonald",
+    "tier" : "red"
+  },
   "quarterback" : {
-    "name" : "Joshua Dobbs",
-    "tier" : "green"
+    "name" : "Lamar Jackson",
+    "tier" : "red"
   },
 
   "offense" : {
@@ -34,7 +34,7 @@
     "red_zone_touchdowns" : 0,
     "red_zone_field_goals" : 0,
 
-    "key_vectors" : ["James Conner", "Joshua Dobbs", "Marquise Brown", "Zach Ertz"]
+    "key_vectors" : ["Lamar Jackson", "Gus Edwards", "Mark Andrews", "Odell Beckham"]
   },
 
   "defense" : {
@@ -55,10 +55,10 @@
     "red_zone_field_goals" : 0,
 
     "key_linemen" : [],
-    "key_back_seven_players" : []
+    "key_back_seven_players" : ["Roquan Smith"]
   },
 
-  "key_players_injured_reserved" : ["Budda Baker"],
+  "key_players_injured_reserved" : ["J.K. Dobbins"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
   "recent_drama" : false

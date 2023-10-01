@@ -1,20 +1,20 @@
 {
-  "market" : "Arizona",
-  "name" : "Cardinals",
-  "abbrev" : "ARI",
+  "market" : "Atlanta",
+  "name" : "Falcons",
+  "abbrev" : "ATL",
 
-  "head_coach" : "Jonathan Gannon",
+  "head_coach" : "Arthur Smith",
   "oc" : {
-    "name" : "Drew Petzing",
-    "tier" : "red"
+    "name" : "Arthur Smith",
+    "tier" : "green"
   },
   "dc" : {
-    "name" : "Jonathan Gannon / Nick Rallis",
+    "name" : "Dean Pees",
     "tier" : ""
   },
   "quarterback" : {
-    "name" : "Joshua Dobbs",
-    "tier" : "green"
+    "name" : "Desmond Ridder",
+    "tier" : "white"
   },
 
   "offense" : {
@@ -34,7 +34,7 @@
     "red_zone_touchdowns" : 0,
     "red_zone_field_goals" : 0,
 
-    "key_vectors" : ["James Conner", "Joshua Dobbs", "Marquise Brown", "Zach Ertz"]
+    "key_vectors" : ["Bijan Robinson"]
   },
 
   "defense" : {
@@ -54,11 +54,11 @@
     "red_zone_touchdowns" : 0,
     "red_zone_field_goals" : 0,
 
-    "key_linemen" : [],
-    "key_back_seven_players" : []
+    "key_linemen" : ["Grady Jarrett"],
+    "key_back_seven_players" : ["Jessie Bates"]
   },
 
-  "key_players_injured_reserved" : ["Budda Baker"],
+  "key_players_injured_reserved" : [],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
   "recent_drama" : false
