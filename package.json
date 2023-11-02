@@ -21,6 +21,11 @@
   "homepage": "https://github.com/metrorailings/OwlBlog#readme",
   "dependencies": {
     "@tinacms/cli": "^1.5.29",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.0.0",
     "tinacms": "^1.5.20"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0"
   }
 }

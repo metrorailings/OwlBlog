@@ -1,0 +1,34 @@
+{
+  "market" : "Indianapolis",
+  "name" : "Colts",
+  "abbrev" : "IND",
+
+  "head_coach" : "Shane Steichen",
+  "oc" : {
+    "name" : "Shane Steichen / Jim Bob Cooter",
+    "tier" : ""
+  },
+  "dc" : {
+    "name" : "Gus Bradley",
+    "tier" : "green"
+  },
+  "quarterback" : {
+    "name" : "Gardner Minshew",
+    "tier" : "white"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Zack Moss"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["DeForest Buckner"],
+    "key_back_seven_players" : ["Shaq Leonard", "Zaire Franklin"]
+  },
+
+  "key_players_injured_reserved" : [],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

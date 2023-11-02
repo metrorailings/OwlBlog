@@ -1,0 +1,34 @@
+{
+  "market" : "Washington",
+  "name" : "Commanders",
+  "abbrev" : "WAS",
+
+  "head_coach" : "Ron Rivera",
+  "oc" : {
+    "name" : "Eric Bienemy",
+    "tier" : "red"
+  },
+  "dc" : {
+    "name" : "Jack Del Rio",
+    "tier" : "white"
+  },
+  "quarterback" : {
+    "name" : "Sam Howell",
+    "tier" : "green"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Terry McLaurin", "Logan Thomas"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Jonathan Allen", "Duron Payne"],
+    "key_back_seven_players" : ["Kamren Curl", "Jamin Davis"]
+  },
+
+  "key_players_injured_reserved" : ["Cody Barton"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

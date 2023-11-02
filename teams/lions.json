@@ -1,0 +1,34 @@
+{
+  "market" : "Detroit",
+  "name" : "Lions",
+  "abbrev" : "DET",
+
+  "head_coach" : "Dan Campbell",
+  "oc" : {
+    "name" : "Ben Johnson",
+    "tier" : "blue"
+  },
+  "dc" : {
+    "name" : "Aaron Glenn",
+    "tier" : "green"
+  },
+  "quarterback" : {
+    "name" : "Jared Goff",
+    "tier" : "red"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Amon-Ra St. Brown", "David Montgomery / Jahmyr Gibbs", "Sam LaPorta", "Josh Reynolds"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Aidan Hutchinson"],
+    "key_back_seven_players" : ["Brian Branch"]
+  },
+
+  "key_players_injured_reserved" : ["C.J. Gardner-Johnson"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

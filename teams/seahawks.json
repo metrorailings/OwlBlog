@@ -1,0 +1,34 @@
+{
+  "market" : "Seattle",
+  "name" : "Seahawks",
+  "abbrev" : "SEA",
+
+  "head_coach" : "Pete Carroll",
+  "oc" : {
+    "name" : "Shane Waldron",
+    "tier" : "red"
+  },
+  "dc" : {
+    "name" : "Pete Carroll / Clint Hurtt",
+    "tier" : "red"
+  },
+  "quarterback" : {
+    "name" : "Geno Smith",
+    "tier" : "green"
+  },
+
+  "offense" : {
+    "key_vectors" : ["DK Metcalf", "Tyler Lockett", "Kenneth Walker III"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Dre'Mont Jones"],
+    "key_back_seven_players" : ["Bobby Wagner", "Tariq Woolen"]
+  },
+
+  "key_players_injured_reserved" : ["Uchenna Nwosu"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

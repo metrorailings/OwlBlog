@@ -5,7 +5,7 @@
 
   "head_coach" : "Kevin Stefansky",
   "oc" : {
-    "name" : "Kevin Stefansky",
+    "name" : "Kevin Stefansky / Alex Van Pelt",
     "tier" : "red"
   },
   "dc" : {
@@ -13,47 +13,15 @@
     "tier" : "blue"
   },
   "quarterback" : {
-    "name" : "Deshaun Watson",
-    "tier" : "green"
+    "name" : "Deshaun Watson / PJ Walker",
+    "tier" : "white"
   },
 
   "offense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
-    "key_vectors" : ["Deshaun Watson", "Kareem Hunt / Jerome Ford", "Amari Cooper", "David Njoku"]
+    "key_vectors" : ["Deshaun Watson", "Amari Cooper", "David Njoku"]
   },
 
   "defense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
     "key_linemen" : ["Myles Garrett", "Za'Darius Smith"],
     "key_back_seven_players" : ["Denzel Ward", "Greg Newsome"]
   },
@@ -61,5 +29,6 @@
   "key_players_injured_reserved" : ["Nick Chubb"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
-  "recent_drama" : false
+  "emotional_edge" : false,
+  "in_turmoil" : false
 }

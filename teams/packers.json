@@ -1,0 +1,34 @@
+{
+  "market" : "Green Bay",
+  "name" : "Packers",
+  "abbrev" : "GB",
+
+  "head_coach" : "Matt LaFleur",
+  "oc" : {
+    "name" : "Matt LaFleur",
+    "tier" : "red"
+  },
+  "dc" : {
+    "name" : "Joe Barry",
+    "tier" : "green"
+  },
+  "quarterback" : {
+    "name" : "Jordan Love",
+    "tier" : "green"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Jordan Love", "Romeo Doubs", "Jayden Reed"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Rashan Gary", "Kenny Clark"],
+    "key_back_seven_players" : ["De'Vondre Campbell", "Rasul Douglas", "Jaire Alexander"]
+  },
+
+  "key_players_injured_reserved" : ["David Bakhtiari"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

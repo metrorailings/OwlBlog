@@ -6,54 +6,22 @@
   "head_coach" : "Arthur Smith",
   "oc" : {
     "name" : "Arthur Smith",
-    "tier" : "green"
+    "tier" : "red"
   },
   "dc" : {
     "name" : "Dean Pees",
-    "tier" : ""
+    "tier" : "green"
   },
   "quarterback" : {
     "name" : "Desmond Ridder",
-    "tier" : "white"
+    "tier" : "green"
   },
 
   "offense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
     "key_vectors" : ["Bijan Robinson"]
   },
 
   "defense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
     "key_linemen" : ["Grady Jarrett"],
     "key_back_seven_players" : ["Jessie Bates"]
   },
@@ -61,5 +29,6 @@
   "key_players_injured_reserved" : [],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
-  "recent_drama" : false
+  "emotional_edge" : false,
+  "in_turmoil" : false
 }

@@ -18,48 +18,17 @@
   },
 
   "offense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
-    "key_vectors" : ["Josh Allen", "James Cook", "Stefon Diggs", "Gabriel Davis"]
+    "key_vectors" : ["Josh Allen", "James Cook", "Stefon Diggs", "Dalton Kincaid / Dawson Knox"]
   },
 
   "defense" : {
-    "epa" : 0,
-
-    "total_runs" : 0,
-    "successful_runs" : 0,
-    "rsr" : 0,
-    "rsr_sd" : 0,
-
-    "negative_game_script_situations" : 0,
-    "negative_game_script_situations_overcome" : 0,
-    "ngssor" : 0,
-    "ngssor_sd" : 0,
-
-    "red_zone_trips" : 0,
-    "red_zone_touchdowns" : 0,
-    "red_zone_field_goals" : 0,
-
     "key_linemen" : ["Ed Oliver"],
-    "key_back_seven_players" : ["Matt Milano", "Terrel Bernard", "Micah Hyde"]
+    "key_back_seven_players" : ["Terrel Bernard", "Micah Hyde"]
   },
 
-  "key_players_injured_reserved" : [],
+  "key_players_injured_reserved" : ["DaQuan Jones", "Von Miller", "Matt Milano"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
-  "recent_drama" : false
+  "emotional_edge" : false,
+  "in_turmoil" : false
 }

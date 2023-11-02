@@ -22,11 +22,11 @@
   },
 
   "defense" : {
-    "key_linemen" : ["Baron Browning"],
+    "key_linemen" : [],
     "key_back_seven_players" : ["Pat Surtain", "Justin Simmons"]
   },
 
-  "key_players_injured_reserved" : [],
+  "key_players_injured_reserved" : ["Baron Browning"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
   "emotional_edge" : false,
