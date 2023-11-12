@@ -10,7 +10,7 @@
   },
   "dc" : {
     "name" : "Pete Carroll / Clint Hurtt",
-    "tier" : "red"
+    "tier" : "green"
   },
   "quarterback" : {
     "name" : "Geno Smith",
@@ -29,6 +29,8 @@
   "key_players_injured_reserved" : ["Uchenna Nwosu"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
+  "home_field_advantage": 2.5,
+
   "emotional_edge" : false,
   "in_turmoil" : false
 }

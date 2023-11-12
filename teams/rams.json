@@ -29,6 +29,8 @@
   "key_players_injured_reserved" : ["Baron Browning"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
+  "home_field_advantage": 1,
+
   "emotional_edge" : false,
   "in_turmoil" : false
 }

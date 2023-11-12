@@ -5,8 +5,8 @@
 
   "head_coach" : "Matt LaFleur",
   "oc" : {
-    "name" : "Matt LaFleur",
-    "tier" : "red"
+    "name" : "Matt LaFleur / Adam Stenavich",
+    "tier" : "green"
   },
   "dc" : {
     "name" : "Joe Barry",
@@ -18,17 +18,19 @@
   },
 
   "offense" : {
-    "key_vectors" : ["Jordan Love", "Romeo Doubs", "Jayden Reed"]
+    "key_vectors" : ["Jordan Love", "Romeo Doubs", "Aaron Jones"]
   },
 
   "defense" : {
     "key_linemen" : ["Rashan Gary", "Kenny Clark"],
-    "key_back_seven_players" : ["De'Vondre Campbell", "Rasul Douglas", "Jaire Alexander"]
+    "key_back_seven_players" : ["De'Vondre Campbell", "Jaire Alexander"]
   },
 
   "key_players_injured_reserved" : ["David Bakhtiari"],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
+  "home_field_advantage": 2.5,
+
   "emotional_edge" : false,
   "in_turmoil" : false
 }

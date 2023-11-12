@@ -3,18 +3,18 @@
   "name" : "Raiders",
   "abbrev" : "LV",
 
-  "head_coach" : "Josh McDaniels",
+  "head_coach" : "Antonio Pierce",
   "oc" : {
-    "name" : "Josh McDaniels / Mick Lombardi",
-    "tier" : "white"
+    "name" : "Bo Hardegree",
+    "tier" : ""
   },
   "dc" : {
     "name" : "Patrick Graham",
     "tier" : "green"
   },
   "quarterback" : {
-    "name" : "Jimmy Garoppalo",
-    "tier" : "white"
+    "name" : "Aidan O'Connell",
+    "tier" : ""
   },
 
   "offense" : {
@@ -29,6 +29,8 @@
   "key_players_injured_reserved" : [],
   "comebacks_staged" : 0,
   "comebacks_surrendered" : 0,
+  "home_field_advantage": 2.5,
+
   "emotional_edge" : false,
   "in_turmoil" : false
 }

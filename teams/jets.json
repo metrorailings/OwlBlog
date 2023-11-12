@@ -1,0 +1,36 @@
+{
+  "market" : "New York",
+  "name" : "Jets",
+  "abbrev" : "NYJ",
+
+  "head_coach" : "Robert Saleh",
+  "oc" : {
+    "name" : "Nathaniel Hackett",
+    "tier" : "white"
+  },
+  "dc" : {
+    "name" : "Robert Saleh / Jeff Ulbrich",
+    "tier" : "green"
+  },
+  "quarterback" : {
+    "name" : "Zach Wilson",
+    "tier" : "white"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Garrett Wilson", "Breece Hall"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Quinnen Williams", "Jermaine Johnson"],
+    "key_back_seven_players" : ["C.J. Mosley", "Jordan Whitehead"]
+  },
+
+  "key_players_injured_reserved" : ["Aaron Rodgers"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "home_field_advantage": 1.5,
+
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}

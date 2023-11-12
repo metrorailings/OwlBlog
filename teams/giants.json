@@ -1,0 +1,36 @@
+{
+  "market" : "New York",
+  "name" : "Giants",
+  "abbrev" : "NYG",
+
+  "head_coach" : "Brian Daboll",
+  "oc" : {
+    "name" : "Mike Kafka",
+    "tier" : "green"
+  },
+  "dc" : {
+    "name" : "Wink Martindale",
+    "tier" : "green"
+  },
+  "quarterback" : {
+    "name" : "Tommy Devito",
+    "tier" : "white"
+  },
+
+  "offense" : {
+    "key_vectors" : ["Saquon Barkley"]
+  },
+
+  "defense" : {
+    "key_linemen" : ["Dexter Lawrence"],
+    "key_back_seven_players" : ["Bobby Okereke", "Micah McFadden", "Deonte Banks"]
+  },
+
+  "key_players_injured_reserved" : ["Daniel Jones"],
+  "comebacks_staged" : 0,
+  "comebacks_surrendered" : 0,
+  "home_field_advantage": 1.5,
+
+  "emotional_edge" : false,
+  "in_turmoil" : false
+}
