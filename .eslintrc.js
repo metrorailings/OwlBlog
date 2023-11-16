@@ -24,6 +24,9 @@ module.exports = {
     "rules": {
     },
     "globals": {
-        "module": true
+        "module": true,
+        "process": true,
+        "global": true,
+        "require": true,
     }
 }
