@@ -1,36 +1,81 @@
 {
-  "market" : "New York",
-  "name" : "Jets",
-  "abbrev" : "NYJ",
-
-  "head_coach" : "Robert Saleh",
-  "oc" : {
-    "name" : "Nathaniel Hackett",
-    "tier" : "white"
+  "_id": "6555a65a45f201f572b3ef61",
+  "market": "New York",
+  "name": "Jets",
+  "abbrev": "NYJ",
+  "head_coach": "Robert Saleh",
+  "oc": {
+    "name": "Nathaniel Hackett",
+    "tier": "white"
   },
-  "dc" : {
-    "name" : "Robert Saleh / Jeff Ulbrich",
-    "tier" : "green"
+  "dc": {
+    "name": "Robert Saleh / Jeff Ulbrich",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Zach Wilson",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Zach Wilson",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Garrett Wilson", "Breece Hall"]
+  "offense": {
+    "key_vectors": [
+      "Garrett Wilson",
+      "Breece Hall"
+    ],
+    "total_series": 271,
+    "neg_game_script_situations": 128,
+    "neg_game_script_situations_overcome": 58,
+    "ngssr": 0.34,
+    "ngssr_sd": -1.793,
+    "fumbles": 22,
+    "interceptions": 10,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 1,
+    "total_runs": 199,
+    "successful_runs": 76,
+    "negative_runs": 53,
+    "big_runs": 14,
+    "run_grade": 0.15,
+    "run_grade_sd": -2.047,
+    "trailing_epa_per_play": -0.21,
+    "trailing_epa_per_play_sd": -2.093
   },
-
-  "defense" : {
-    "key_linemen" : ["Quinnen Williams", "Jermaine Johnson"],
-    "key_back_seven_players" : ["C.J. Mosley", "Jordan Whitehead"]
+  "defense": {
+    "key_linemen": [
+      "Quinnen Williams",
+      "Jermaine Johnson"
+    ],
+    "key_back_seven_players": [
+      "C.J. Mosley",
+      "Jordan Whitehead"
+    ],
+    "total_series": 314,
+    "neg_game_script_situations": 130,
+    "neg_game_script_situations_surrendered": 67,
+    "ngssr": 0.29,
+    "ngssr_sd": 0.444,
+    "total_runs": 325,
+    "successful_runs": 147,
+    "negative_runs": 70,
+    "big_runs": 29,
+    "run_grade": 0.28,
+    "run_grade_sd": 0.314,
+    "trailing_epa_per_play": -0.07,
+    "trailing_epa_per_play_sd": 1.348
   },
-
-  "key_players_injured_reserved" : ["Aaron Rodgers"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 1.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Aaron Rodgers"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 3,
+    "comebacks_surrendered": 0,
+    "total_plays": 1775,
+    "penalties": 71
+  },
+  "special_teams": {
+    "fg_missed": 1,
+    "xp_missed": 1
+  }
 }

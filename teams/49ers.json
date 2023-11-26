@@ -1,36 +1,83 @@
 {
-  "market" : "San Francisco",
-  "name" : "49ers",
-  "abbrev" : "SF",
-
-  "head_coach" : "Kyle Shanahan",
-  "oc" : {
-    "name" : "Kyle Shanahan",
-    "tier" : "blue"
+  "_id": "6555a65945f201f572b3eeb3",
+  "market": "San Francisco",
+  "name": "49ers",
+  "abbrev": "SF",
+  "head_coach": "Kyle Shanahan",
+  "oc": {
+    "name": "Kyle Shanahan",
+    "tier": "blue"
   },
-  "dc" : {
-    "name" : "Steve Wilks",
-    "tier" : "green"
+  "dc": {
+    "name": "Steve Wilks",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Brock Purdy",
-    "tier" : "red"
+  "quarterback": {
+    "name": "Brock Purdy",
+    "tier": "red"
   },
-
-  "offense" : {
-    "key_vectors" : ["Christian McCaffrey", "George Kittle", "Deebo Samuel", "Brandon Aiyuk"]
+  "offense": {
+    "key_vectors": [
+      "Christian McCaffrey",
+      "George Kittle",
+      "Deebo Samuel",
+      "Brandon Aiyuk"
+    ],
+    "total_series": 313,
+    "neg_game_script_situations": 103,
+    "neg_game_script_situations_overcome": 58.5,
+    "ngssr": 0.22,
+    "ngssr_sd": 1.632,
+    "fumbles": 11,
+    "interceptions": 6,
+    "fourth_down_failures": 6,
+    "two_point_play_failures": 0,
+    "total_runs": 304,
+    "successful_runs": 158,
+    "negative_runs": 54,
+    "big_runs": 34,
+    "run_grade": 0.4,
+    "run_grade_sd": 1.288,
+    "trailing_epa_per_play": 0.15,
+    "trailing_epa_per_play_sd": 1.303
   },
-
-  "defense" : {
-    "key_linemen" : ["Nick Bosa", "Javon Hargrave"],
-    "key_back_seven_players" : ["Fred Warner", "Dre Greenlaw", "Charvarius Ward", "Talanoa Hufanga"]
+  "defense": {
+    "key_linemen": [
+      "Nick Bosa",
+      "Javon Hargrave"
+    ],
+    "key_back_seven_players": [
+      "Fred Warner",
+      "Dre Greenlaw",
+      "Charvarius Ward",
+      "Talanoa Hufanga"
+    ],
+    "total_series": 294,
+    "neg_game_script_situations": 124,
+    "neg_game_script_situations_surrendered": 63,
+    "ngssr": 0.29,
+    "ngssr_sd": 0.444,
+    "total_runs": 200,
+    "successful_runs": 94,
+    "negative_runs": 43,
+    "big_runs": 19,
+    "run_grade": 0.3,
+    "run_grade_sd": 0.023,
+    "trailing_epa_per_play": -0.02,
+    "trailing_epa_per_play_sd": 0.531
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 1,
+    "total_plays": 1686,
+    "penalties": 72
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 0
+  }
 }

@@ -1,36 +1,78 @@
 {
-  "market" : "Los Angeles",
-  "name" : "Chargers",
-  "abbrev" : "LAC",
-
-  "head_coach" : "Brandon Staley",
-  "oc" : {
-    "name" : "Kellen Moore",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3ef10",
+  "market": "Los Angeles",
+  "name": "Chargers",
+  "abbrev": "LAC",
+  "head_coach": "Brandon Staley",
+  "oc": {
+    "name": "Kellen Moore",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Brandon Staley / Derrick Ansley",
-    "tier" : "white"
+  "dc": {
+    "name": "Brandon Staley / Derrick Ansley",
+    "tier": "white"
   },
-  "quarterback" : {
-    "name" : "Justin Herbert",
-    "tier" : "blue"
+  "quarterback": {
+    "name": "Justin Herbert",
+    "tier": "blue"
   },
-
-  "offense" : {
-    "key_vectors" : ["Austin Ekeler", "Keenan Allen"]
+  "offense": {
+    "key_vectors": [
+      "Austin Ekeler",
+      "Keenan Allen"
+    ],
+    "total_series": 269,
+    "neg_game_script_situations": 112,
+    "neg_game_script_situations_overcome": 67.5,
+    "ngssr": 0.27,
+    "ngssr_sd": 0.205,
+    "fumbles": 11,
+    "interceptions": 5,
+    "fourth_down_failures": 9,
+    "two_point_play_failures": 0,
+    "total_runs": 226,
+    "successful_runs": 92,
+    "negative_runs": 43,
+    "big_runs": 17,
+    "run_grade": 0.25,
+    "run_grade_sd": -0.713,
+    "trailing_epa_per_play": 0.04,
+    "trailing_epa_per_play_sd": 0.265
   },
-
-  "defense" : {
-    "key_linemen" : [],
-    "key_back_seven_players" : ["Derwin James", "Kenneth Murray"]
+  "defense": {
+    "key_linemen": [],
+    "key_back_seven_players": [
+      "Derwin James",
+      "Kenneth Murray"
+    ],
+    "total_series": 299,
+    "neg_game_script_situations": 124,
+    "neg_game_script_situations_surrendered": 76.5,
+    "ngssr": 0.26,
+    "ngssr_sd": -0.621,
+    "total_runs": 230,
+    "successful_runs": 110,
+    "negative_runs": 48,
+    "big_runs": 24,
+    "run_grade": 0.32,
+    "run_grade_sd": -0.269,
+    "trailing_epa_per_play": 0.08,
+    "trailing_epa_per_play_sd": -1.103
   },
-
-  "key_players_injured_reserved" : ["Mike Williams"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 1,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Mike Williams"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 3,
+    "total_plays": 1651,
+    "penalties": 52
+  },
+  "special_teams": {
+    "fg_missed": 1,
+    "xp_missed": 0
+  }
 }

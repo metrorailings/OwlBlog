@@ -1,36 +1,84 @@
 {
-  "market" : "Baltimore",
-  "name" : "Ravens",
-  "abbrev" : "BAL",
-
-  "head_coach" : "John Harbaugh",
-  "oc" : {
-    "name" : "Todd Monken",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3efba",
+  "market": "Baltimore",
+  "name": "Ravens",
+  "abbrev": "BAL",
+  "head_coach": "John Harbaugh",
+  "oc": {
+    "name": "Todd Monken",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Mike Macdonald",
-    "tier" : "blue"
+  "dc": {
+    "name": "Mike Macdonald",
+    "tier": "blue"
   },
-  "quarterback" : {
-    "name" : "Lamar Jackson",
-    "tier" : "blue"
+  "quarterback": {
+    "name": "Lamar Jackson",
+    "tier": "blue"
   },
-
-  "offense" : {
-    "key_vectors" : ["Lamar Jackson", "Gus Edwards", "Mark Andrews", "Zay Flowers"]
+  "offense": {
+    "key_vectors": [
+      "Lamar Jackson",
+      "Gus Edwards",
+      "Mark Andrews",
+      "Zay Flowers"
+    ],
+    "total_series": 314,
+    "neg_game_script_situations": 106,
+    "neg_game_script_situations_overcome": 54,
+    "ngssr": 0.23,
+    "ngssr_sd": 1.347,
+    "fumbles": 20,
+    "interceptions": 5,
+    "fourth_down_failures": 9,
+    "two_point_play_failures": 0,
+    "total_runs": 301,
+    "successful_runs": 153,
+    "negative_runs": 50,
+    "big_runs": 33,
+    "run_grade": 0.4,
+    "run_grade_sd": 1.288,
+    "trailing_epa_per_play": 0.16,
+    "trailing_epa_per_play_sd": 1.397
   },
-
-  "defense" : {
-    "key_linemen" : ["Justin Madubuike", "Odafe Oweh", "Kyle Van Noy"],
-    "key_back_seven_players" : ["Roquan Smith", "Geno Stone"]
+  "defense": {
+    "key_linemen": [
+      "Justin Madubuike",
+      "Odafe Oweh",
+      "Kyle Van Noy"
+    ],
+    "key_back_seven_players": [
+      "Roquan Smith",
+      "Geno Stone"
+    ],
+    "total_series": 294,
+    "neg_game_script_situations": 129,
+    "neg_game_script_situations_surrendered": 62,
+    "ngssr": 0.31,
+    "ngssr_sd": 1.154,
+    "total_runs": 231,
+    "successful_runs": 105,
+    "negative_runs": 42,
+    "big_runs": 23,
+    "run_grade": 0.32,
+    "run_grade_sd": -0.269,
+    "trailing_epa_per_play": -0.08,
+    "trailing_epa_per_play_sd": 1.511
   },
-
-  "key_players_injured_reserved" : ["J.K. Dobbins"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "J.K. Dobbins"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 3,
+    "total_plays": 1809,
+    "penalties": 68
+  },
+  "special_teams": {
+    "fg_missed": 4,
+    "xp_missed": 1
+  }
 }

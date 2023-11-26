@@ -1,36 +1,78 @@
 {
-  "market" : "Tampa Bay",
-  "name" : "Buccaneers",
-  "abbrev" : "TB",
-
-  "head_coach" : "Todd Bowles",
-  "oc" : {
-    "name" : "Dave Canales",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3eef9",
+  "market": "Tampa Bay",
+  "name": "Buccaneers",
+  "abbrev": "TB",
+  "head_coach": "Todd Bowles",
+  "oc": {
+    "name": "Dave Canales",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Todd Bowles",
-    "tier" : "green"
+  "dc": {
+    "name": "Todd Bowles",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Baker Mayfield",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Baker Mayfield",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Mike Evans", "Chris Godwin"]
+  "offense": {
+    "key_vectors": [
+      "Mike Evans",
+      "Chris Godwin"
+    ],
+    "total_series": 259,
+    "neg_game_script_situations": 106,
+    "neg_game_script_situations_overcome": 56,
+    "ngssr": 0.28,
+    "ngssr_sd": -0.08,
+    "fumbles": 11,
+    "interceptions": 6,
+    "fourth_down_failures": 10,
+    "two_point_play_failures": 1,
+    "total_runs": 213,
+    "successful_runs": 74,
+    "negative_runs": 44,
+    "big_runs": 13,
+    "run_grade": 0.17,
+    "run_grade_sd": -1.78,
+    "trailing_epa_per_play": -0.03,
+    "trailing_epa_per_play_sd": -0.395
   },
-
-  "defense" : {
-    "key_linemen" : ["Vita Vea"],
-    "key_back_seven_players" : ["Devin White", "Lavonte David"]
+  "defense": {
+    "key_linemen": [
+      "Vita Vea"
+    ],
+    "key_back_seven_players": [
+      "Devin White",
+      "Lavonte David"
+    ],
+    "total_series": 280,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_surrendered": 63.5,
+    "ngssr": 0.27,
+    "ngssr_sd": -0.266,
+    "total_runs": 223,
+    "successful_runs": 102,
+    "negative_runs": 49,
+    "big_runs": 16,
+    "run_grade": 0.27,
+    "run_grade_sd": 0.46,
+    "trailing_epa_per_play": 0.12,
+    "trailing_epa_per_play_sd": -1.756
   },
-
-  "key_players_injured_reserved" : [""],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 1,
+    "total_plays": 1587,
+    "penalties": 69
+  },
+  "special_teams": {
+    "fg_missed": 2,
+    "xp_missed": 0
+  }
 }

@@ -1,36 +1,81 @@
 {
-  "market" : "Washington",
-  "name" : "Commanders",
-  "abbrev" : "WAS",
-
-  "head_coach" : "Ron Rivera",
-  "oc" : {
-    "name" : "Eric Bienemy",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3ef27",
+  "market": "Washington",
+  "name": "Commanders",
+  "abbrev": "WAS",
+  "head_coach": "Ron Rivera",
+  "oc": {
+    "name": "Eric Bienemy",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Jack Del Rio",
-    "tier" : "white"
+  "dc": {
+    "name": "Jack Del Rio",
+    "tier": "white"
   },
-  "quarterback" : {
-    "name" : "Sam Howell",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Sam Howell",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["Terry McLaurin", "Logan Thomas"]
+  "offense": {
+    "key_vectors": [
+      "Terry McLaurin",
+      "Logan Thomas"
+    ],
+    "total_series": 352,
+    "neg_game_script_situations": 143,
+    "neg_game_script_situations_overcome": 77.5,
+    "ngssr": 0.27,
+    "ngssr_sd": 0.205,
+    "fumbles": 16,
+    "interceptions": 13,
+    "fourth_down_failures": 12,
+    "two_point_play_failures": 1,
+    "total_runs": 229,
+    "successful_runs": 108,
+    "negative_runs": 41,
+    "big_runs": 25,
+    "run_grade": 0.35,
+    "run_grade_sd": 0.621,
+    "trailing_epa_per_play": 0,
+    "trailing_epa_per_play_sd": -0.112
   },
-
-  "defense" : {
-    "key_linemen" : ["Jonathan Allen", "Duron Payne"],
-    "key_back_seven_players" : ["Kamren Curl", "Jamin Davis"]
+  "defense": {
+    "key_linemen": [
+      "Jonathan Allen",
+      "Duron Payne"
+    ],
+    "key_back_seven_players": [
+      "Kamren Curl",
+      "Jamin Davis"
+    ],
+    "total_series": 329,
+    "neg_game_script_situations": 150,
+    "neg_game_script_situations_surrendered": 89.5,
+    "ngssr": 0.29,
+    "ngssr_sd": 0.444,
+    "total_runs": 275,
+    "successful_runs": 125,
+    "negative_runs": 52,
+    "big_runs": 24,
+    "run_grade": 0.31,
+    "run_grade_sd": -0.123,
+    "trailing_epa_per_play": 0.08,
+    "trailing_epa_per_play_sd": -1.103
   },
-
-  "key_players_injured_reserved" : ["Cody Barton"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 1.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Cody Barton"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 2,
+    "total_plays": 1992,
+    "penalties": 64
+  },
+  "special_teams": {
+    "fg_missed": 4,
+    "xp_missed": 2
+  }
 }

@@ -1,36 +1,40 @@
 {
-  "market" : "Denver",
-  "name" : "Broncos",
-  "abbrev" : "DEN",
-
-  "head_coach" : "Sean Payton",
-  "oc" : {
-    "name" : "Sean Payton / Joe Lombardi",
-    "tier" : "green"
+  "_id": "6562db94d59f6ec7366a8da7",
+  "market": "Denver",
+  "name": "Broncos",
+  "abbrev": "DEN",
+  "head_coach": "Sean Payton",
+  "oc": {
+    "name": "Sean Payton / Joe Lombardi",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Vance Joseph",
-    "tier" : "white"
+  "dc": {
+    "name": "Vance Joseph",
+    "tier": "white"
   },
-  "quarterback" : {
-    "name" : "Russell Wilson",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Russell Wilson",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Courtney Sutton", "Marvin Mims", "Jerry Jeudy", "Samaje Perine"]
+  "offense": {
+    "key_vectors": [
+      "Courtney Sutton",
+      "Marvin Mims",
+      "Jerry Jeudy",
+      "Samaje Perine"
+    ]
   },
-
-  "defense" : {
-    "key_linemen" : ["Baron Browning"],
-    "key_back_seven_players" : ["Pat Surtain", "Justin Simmons"]
+  "defense": {
+    "key_linemen": [],
+    "key_back_seven_players": [
+      "Pat Surtain",
+      "Justin Simmons"
+    ]
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Baron Browning"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0
 }

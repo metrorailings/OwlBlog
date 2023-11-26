@@ -1,36 +1,82 @@
 {
-  "market" : "Green Bay",
-  "name" : "Packers",
-  "abbrev" : "GB",
-
-  "head_coach" : "Matt LaFleur",
-  "oc" : {
-    "name" : "Matt LaFleur / Adam Stenavich",
-    "tier" : "green"
+  "_id": "6555a65a45f201f572b3ef77",
+  "market": "Green Bay",
+  "name": "Packers",
+  "abbrev": "GB",
+  "head_coach": "Matt LaFleur",
+  "oc": {
+    "name": "Matt LaFleur / Adam Stenavich",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Joe Barry",
-    "tier" : "green"
+  "dc": {
+    "name": "Joe Barry",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Jordan Love",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Jordan Love",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["Jordan Love", "Romeo Doubs", "Aaron Jones"]
+  "offense": {
+    "key_vectors": [
+      "Jordan Love",
+      "Romeo Doubs",
+      "Aaron Jones"
+    ],
+    "total_series": 282,
+    "neg_game_script_situations": 122,
+    "neg_game_script_situations_overcome": 60.5,
+    "ngssr": 0.3,
+    "ngssr_sd": -0.651,
+    "fumbles": 12,
+    "interceptions": 10,
+    "fourth_down_failures": 21,
+    "two_point_play_failures": 2,
+    "total_runs": 245,
+    "successful_runs": 123,
+    "negative_runs": 48,
+    "big_runs": 16,
+    "run_grade": 0.34,
+    "run_grade_sd": 0.488,
+    "trailing_epa_per_play": 0.05,
+    "trailing_epa_per_play_sd": 0.36
   },
-
-  "defense" : {
-    "key_linemen" : ["Rashan Gary", "Kenny Clark"],
-    "key_back_seven_players" : ["De'Vondre Campbell", "Jaire Alexander"]
+  "defense": {
+    "key_linemen": [
+      "Rashan Gary",
+      "Kenny Clark"
+    ],
+    "key_back_seven_players": [
+      "De'Vondre Campbell",
+      "Jaire Alexander"
+    ],
+    "total_series": 310,
+    "neg_game_script_situations": 135,
+    "neg_game_script_situations_surrendered": 68.5,
+    "ngssr": 0.3,
+    "ngssr_sd": 0.799,
+    "total_runs": 304,
+    "successful_runs": 135,
+    "negative_runs": 64,
+    "big_runs": 31,
+    "run_grade": 0.28,
+    "run_grade_sd": 0.314,
+    "trailing_epa_per_play": 0.03,
+    "trailing_epa_per_play_sd": -0.286
   },
-
-  "key_players_injured_reserved" : ["David Bakhtiari"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "David Bakhtiari"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 2,
+    "total_plays": 1766,
+    "penalties": 78
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 3
+  }
 }

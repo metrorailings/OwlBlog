@@ -1,36 +1,73 @@
 {
-  "market" : "Chicago",
-  "name" : "Bears",
-  "abbrev" : "CHI",
-
-  "head_coach" : "Matt Eberflus",
-  "oc" : {
-    "name" : "Luke Getsy",
-    "tier" : "white"
+  "_id": "6555a65945f201f572b3eebe",
+  "market": "Chicago",
+  "name": "Bears",
+  "abbrev": "CHI",
+  "head_coach": "Matt Eberflus",
+  "oc": {
+    "name": "Luke Getsy",
+    "tier": "white"
   },
-  "dc" : {
-    "name" : "Matt Eberflus",
-    "tier" : "white"
+  "dc": {
+    "name": "Matt Eberflus",
+    "tier": "white"
   },
-  "quarterback" : {
-    "name" : "Justin Fields",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Justin Fields",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Justin Fields", "Khalil Herbert / Roschon Johnson"]
+  "offense": {
+    "key_vectors": [
+      "Justin Fields",
+      "Khalil Herbert / Roschon Johnson"
+    ],
+    "total_series": 300,
+    "neg_game_script_situations": 124,
+    "neg_game_script_situations_overcome": 66,
+    "ngssr": 0.28,
+    "ngssr_sd": -0.08,
+    "fumbles": 18,
+    "interceptions": 12,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 2,
+    "total_runs": 307,
+    "successful_runs": 150,
+    "negative_runs": 57,
+    "big_runs": 31,
+    "run_grade": 0.35,
+    "run_grade_sd": 0.621,
+    "trailing_epa_per_play": 0,
+    "trailing_epa_per_play_sd": -0.112
   },
-
-  "defense" : {
-    "key_linemen" : [],
-    "key_back_seven_players" : []
+  "defense": {
+    "key_linemen": [],
+    "key_back_seven_players": [],
+    "total_series": 287,
+    "neg_game_script_situations": 112,
+    "neg_game_script_situations_surrendered": 64.5,
+    "ngssr": 0.26,
+    "ngssr_sd": -0.621,
+    "total_runs": 229,
+    "successful_runs": 92,
+    "negative_runs": 53,
+    "big_runs": 20,
+    "run_grade": 0.21,
+    "run_grade_sd": 1.334,
+    "trailing_epa_per_play": -0.03,
+    "trailing_epa_per_play_sd": 0.694
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 2,
+    "total_plays": 1747,
+    "penalties": 73
+  },
+  "special_teams": {
+    "fg_missed": 1,
+    "xp_missed": 1
+  }
 }

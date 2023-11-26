@@ -1,36 +1,76 @@
 {
-  "market" : "Indianapolis",
-  "name" : "Colts",
-  "abbrev" : "IND",
-
-  "head_coach" : "Shane Steichen",
-  "oc" : {
-    "name" : "Shane Steichen / Jim Bob Cooter",
-    "tier" : "green"
+  "_id": "6555a65a45f201f572b3ef1c",
+  "market": "Indianapolis",
+  "name": "Colts",
+  "abbrev": "IND",
+  "head_coach": "Shane Steichen",
+  "oc": {
+    "name": "Shane Steichen / Jim Bob Cooter",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Gus Bradley",
-    "tier" : "green"
+  "dc": {
+    "name": "Gus Bradley",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Gardner Minshew",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Gardner Minshew",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Zack Moss"]
+  "offense": {
+    "key_vectors": [
+      "Zack Moss"
+    ],
+    "total_series": 269,
+    "neg_game_script_situations": 110,
+    "neg_game_script_situations_overcome": 49.5,
+    "ngssr": 0.3,
+    "ngssr_sd": -0.651,
+    "fumbles": 11,
+    "interceptions": 7,
+    "fourth_down_failures": 19,
+    "two_point_play_failures": 0,
+    "total_runs": 263,
+    "successful_runs": 114,
+    "negative_runs": 54,
+    "big_runs": 25,
+    "run_grade": 0.28,
+    "run_grade_sd": -0.313,
+    "trailing_epa_per_play": 0.02,
+    "trailing_epa_per_play_sd": 0.077
   },
-
-  "defense" : {
-    "key_linemen" : ["DeForest Buckner"],
-    "key_back_seven_players" : ["Shaq Leonard", "Zaire Franklin"]
+  "defense": {
+    "key_linemen": [
+      "DeForest Buckner"
+    ],
+    "key_back_seven_players": [
+      "Zaire Franklin"
+    ],
+    "total_series": 292,
+    "neg_game_script_situations": 116,
+    "neg_game_script_situations_surrendered": 63,
+    "ngssr": 0.27,
+    "ngssr_sd": -0.266,
+    "total_runs": 288,
+    "successful_runs": 143,
+    "negative_runs": 69,
+    "big_runs": 26,
+    "run_grade": 0.3,
+    "run_grade_sd": 0.023,
+    "trailing_epa_per_play": 0.01,
+    "trailing_epa_per_play_sd": 0.041
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 3,
+    "total_plays": 1709,
+    "penalties": 63
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 0
+  }
 }

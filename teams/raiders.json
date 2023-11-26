@@ -1,36 +1,77 @@
 {
-  "market" : "Las Vegas",
-  "name" : "Raiders",
-  "abbrev" : "LV",
-
-  "head_coach" : "Antonio Pierce",
-  "oc" : {
-    "name" : "Bo Hardegree",
-    "tier" : ""
+  "_id": "6555a65a45f201f572b3efa4",
+  "market": "Las Vegas",
+  "name": "Raiders",
+  "abbrev": "LV",
+  "head_coach": "Antonio Pierce",
+  "oc": {
+    "name": "Bo Hardegree",
+    "tier": ""
   },
-  "dc" : {
-    "name" : "Patrick Graham",
-    "tier" : "green"
+  "dc": {
+    "name": "Patrick Graham",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Aidan O'Connell",
-    "tier" : ""
+  "quarterback": {
+    "name": "Aidan O'Connell",
+    "tier": ""
   },
-
-  "offense" : {
-    "key_vectors" : ["Davante Adams"]
+  "offense": {
+    "key_vectors": [
+      "Davante Adams"
+    ],
+    "total_series": 276,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_overcome": 64.5,
+    "ngssr": 0.27,
+    "ngssr_sd": 0.205,
+    "fumbles": 10,
+    "interceptions": 17,
+    "fourth_down_failures": 14,
+    "two_point_play_failures": 1,
+    "total_runs": 245,
+    "successful_runs": 113,
+    "negative_runs": 58,
+    "big_runs": 11,
+    "run_grade": 0.25,
+    "run_grade_sd": -0.713,
+    "trailing_epa_per_play": -0.13,
+    "trailing_epa_per_play_sd": -1.338
   },
-
-  "defense" : {
-    "key_linemen" : ["Maxx Crosby"],
-    "key_back_seven_players" : ["Divine Deablo", "Marcus Peters"]
+  "defense": {
+    "key_linemen": [
+      "Maxx Crosby"
+    ],
+    "key_back_seven_players": [
+      "Divine Deablo",
+      "Marcus Peters"
+    ],
+    "total_series": 300,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_surrendered": 64,
+    "ngssr": 0.25,
+    "ngssr_sd": -0.976,
+    "total_runs": 290,
+    "successful_runs": 145,
+    "negative_runs": 46,
+    "big_runs": 28,
+    "run_grade": 0.39,
+    "run_grade_sd": -1.289,
+    "trailing_epa_per_play": -0.03,
+    "trailing_epa_per_play_sd": 0.694
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 0,
+    "total_plays": 1693,
+    "penalties": 56
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 0
+  }
 }

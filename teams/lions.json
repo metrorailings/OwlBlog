@@ -1,36 +1,80 @@
 {
-  "market" : "Detroit",
-  "name" : "Lions",
-  "abbrev" : "DET",
-
-  "head_coach" : "Dan Campbell",
-  "oc" : {
-    "name" : "Ben Johnson",
-    "tier" : "blue"
+  "_id": "6555a65a45f201f572b3ef6c",
+  "market": "Detroit",
+  "name": "Lions",
+  "abbrev": "DET",
+  "head_coach": "Dan Campbell",
+  "oc": {
+    "name": "Ben Johnson",
+    "tier": "blue"
   },
-  "dc" : {
-    "name" : "Aaron Glenn",
-    "tier" : "green"
+  "dc": {
+    "name": "Aaron Glenn",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Jared Goff",
-    "tier" : "red"
+  "quarterback": {
+    "name": "Jared Goff",
+    "tier": "red"
   },
-
-  "offense" : {
-    "key_vectors" : ["Amon-Ra St. Brown", "David Montgomery / Jahmyr Gibbs", "Sam LaPorta"]
+  "offense": {
+    "key_vectors": [
+      "Amon-Ra St. Brown",
+      "David Montgomery / Jahmyr Gibbs",
+      "Sam LaPorta"
+    ],
+    "total_series": 320,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_overcome": 62.5,
+    "ngssr": 0.24,
+    "ngssr_sd": 1.061,
+    "fumbles": 14,
+    "interceptions": 8,
+    "fourth_down_failures": 20,
+    "two_point_play_failures": 1,
+    "total_runs": 304,
+    "successful_runs": 153,
+    "negative_runs": 48,
+    "big_runs": 32,
+    "run_grade": 0.4,
+    "run_grade_sd": 1.288,
+    "trailing_epa_per_play": 0.1,
+    "trailing_epa_per_play_sd": 0.831
   },
-
-  "defense" : {
-    "key_linemen" : ["Aidan Hutchinson"],
-    "key_back_seven_players" : ["Brian Branch"]
+  "defense": {
+    "key_linemen": [
+      "Aidan Hutchinson"
+    ],
+    "key_back_seven_players": [
+      "Brian Branch"
+    ],
+    "total_series": 298,
+    "neg_game_script_situations": 115,
+    "neg_game_script_situations_surrendered": 63.5,
+    "ngssr": 0.26,
+    "ngssr_sd": -0.621,
+    "total_runs": 232,
+    "successful_runs": 113,
+    "negative_runs": 47,
+    "big_runs": 15,
+    "run_grade": 0.32,
+    "run_grade_sd": -0.269,
+    "trailing_epa_per_play": 0.07,
+    "trailing_epa_per_play_sd": -0.939
   },
-
-  "key_players_injured_reserved" : ["C.J. Gardner-Johnson"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "C.J. Gardner-Johnson"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 1,
+    "total_plays": 1770,
+    "penalties": 62
+  },
+  "special_teams": {
+    "fg_missed": 2,
+    "xp_missed": 1
+  }
 }

@@ -1,36 +1,76 @@
 {
-  "market" : "Atlanta",
-  "name" : "Falcons",
-  "abbrev" : "ATL",
-
-  "head_coach" : "Arthur Smith",
-  "oc" : {
-    "name" : "Arthur Smith",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3ef3f",
+  "market": "Atlanta",
+  "name": "Falcons",
+  "abbrev": "ATL",
+  "head_coach": "Arthur Smith",
+  "oc": {
+    "name": "Arthur Smith",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Dean Pees",
-    "tier" : "green"
+  "dc": {
+    "name": "Dean Pees",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Desmond Ridder",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Desmond Ridder",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["Bijan Robinson"]
+  "offense": {
+    "key_vectors": [
+      "Bijan Robinson"
+    ],
+    "total_series": 286,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_overcome": 58.5,
+    "ngssr": 0.28,
+    "ngssr_sd": -0.08,
+    "fumbles": 12,
+    "interceptions": 7,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 2,
+    "total_runs": 284,
+    "successful_runs": 119,
+    "negative_runs": 60,
+    "big_runs": 30,
+    "run_grade": 0.26,
+    "run_grade_sd": -0.58,
+    "trailing_epa_per_play": -0.01,
+    "trailing_epa_per_play_sd": -0.206
   },
-
-  "defense" : {
-    "key_linemen" : ["Grady Jarrett"],
-    "key_back_seven_players" : ["Jessie Bates"]
+  "defense": {
+    "key_linemen": [
+      "Grady Jarrett"
+    ],
+    "key_back_seven_players": [
+      "Jessie Bates"
+    ],
+    "total_series": 264,
+    "neg_game_script_situations": 116,
+    "neg_game_script_situations_surrendered": 58,
+    "ngssr": 0.31,
+    "ngssr_sd": 1.154,
+    "total_runs": 241,
+    "successful_runs": 102,
+    "negative_runs": 54,
+    "big_runs": 14,
+    "run_grade": 0.23,
+    "run_grade_sd": 1.043,
+    "trailing_epa_per_play": 0.05,
+    "trailing_epa_per_play_sd": -0.613
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 2,
+    "total_plays": 1622,
+    "penalties": 54
+  },
+  "special_teams": {
+    "fg_missed": 1,
+    "xp_missed": 1
+  }
 }

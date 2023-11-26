@@ -1,36 +1,80 @@
 {
-  "market" : "Dallas",
-  "name" : "Cowboys",
-  "abbrev" : "DAL",
-
-  "head_coach" : "Mike McCarthy",
-  "oc" : {
-    "name" : "Mike McCarthy / Brian Schottenheimer",
-    "tier" : "green"
+  "_id": "6555a65a45f201f572b3ef33",
+  "market": "Dallas",
+  "name": "Cowboys",
+  "abbrev": "DAL",
+  "head_coach": "Mike McCarthy",
+  "oc": {
+    "name": "Mike McCarthy / Brian Schottenheimer",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Dan Quinn",
-    "tier" : "red"
+  "dc": {
+    "name": "Dan Quinn",
+    "tier": "red"
   },
-  "quarterback" : {
-    "name" : "Dak Prescott",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Dak Prescott",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["CeeDee Lamb"]
+  "offense": {
+    "key_vectors": [
+      "CeeDee Lamb"
+    ],
+    "total_series": 313,
+    "neg_game_script_situations": 123,
+    "neg_game_script_situations_overcome": 81.5,
+    "ngssr": 0.24,
+    "ngssr_sd": 1.061,
+    "fumbles": 8,
+    "interceptions": 7,
+    "fourth_down_failures": 8,
+    "two_point_play_failures": 1,
+    "total_runs": 269,
+    "successful_runs": 121,
+    "negative_runs": 54,
+    "big_runs": 27,
+    "run_grade": 0.3,
+    "run_grade_sd": -0.046,
+    "trailing_epa_per_play": 0.23,
+    "trailing_epa_per_play_sd": 2.058
   },
-
-  "defense" : {
-    "key_linemen" : ["Micah Parsons", "DeMarcus Lawrence"],
-    "key_back_seven_players" : ["Leighton Vander Esch", "Stephon Gilmore"]
+  "defense": {
+    "key_linemen": [
+      "Micah Parsons",
+      "DeMarcus Lawrence"
+    ],
+    "key_back_seven_players": [
+      "Leighton Vander Esch",
+      "Stephon Gilmore"
+    ],
+    "total_series": 273,
+    "neg_game_script_situations": 116,
+    "neg_game_script_situations_surrendered": 58,
+    "ngssr": 0.3,
+    "ngssr_sd": 0.799,
+    "total_runs": 254,
+    "successful_runs": 118,
+    "negative_runs": 64,
+    "big_runs": 21,
+    "run_grade": 0.25,
+    "run_grade_sd": 0.751,
+    "trailing_epa_per_play": -0.09,
+    "trailing_epa_per_play_sd": 1.674
   },
-
-  "key_players_injured_reserved" : ["Trevon Diggs"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Trevon Diggs"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 0,
+    "total_plays": 1748,
+    "penalties": 81
+  },
+  "special_teams": {
+    "fg_missed": 0,
+    "xp_missed": 3
+  }
 }

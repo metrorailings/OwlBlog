@@ -1,36 +1,78 @@
 {
-  "market" : "New Orleans",
-  "name" : "Saints",
-  "abbrev" : "NO",
-
-  "head_coach" : "Dennis Allen",
-  "oc" : {
-    "name" : "Pete Carmichael",
-    "tier" : "white"
+  "_id": "6555a65a45f201f572b3efc5",
+  "market": "New Orleans",
+  "name": "Saints",
+  "abbrev": "NO",
+  "head_coach": "Dennis Allen",
+  "oc": {
+    "name": "Pete Carmichael",
+    "tier": "white"
   },
-  "dc" : {
-    "name" : "Dennis Allen / Joe Woods",
-    "tier" : "red"
+  "dc": {
+    "name": "Dennis Allen / Joe Woods",
+    "tier": "red"
   },
-  "quarterback" : {
-    "name" : "David Carr",
-    "tier" : "green"
+  "quarterback": {
+    "name": "David Carr",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["Alvin Kamara", "Taysom Hill"]
+  "offense": {
+    "key_vectors": [
+      "Alvin Kamara",
+      "Taysom Hill"
+    ],
+    "total_series": 280,
+    "neg_game_script_situations": 124,
+    "neg_game_script_situations_overcome": 64.5,
+    "ngssr": 0.3,
+    "ngssr_sd": -0.651,
+    "fumbles": 9,
+    "interceptions": 7,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 0,
+    "total_runs": 255,
+    "successful_runs": 124,
+    "negative_runs": 52,
+    "big_runs": 20,
+    "run_grade": 0.32,
+    "run_grade_sd": 0.221,
+    "trailing_epa_per_play": 0.04,
+    "trailing_epa_per_play_sd": 0.265
   },
-
-  "defense" : {
-    "key_linemen" : ["Cameron Jordan"],
-    "key_back_seven_players" : ["Demario Davis", "Tyrann Mathieu"]
+  "defense": {
+    "key_linemen": [
+      "Cameron Jordan"
+    ],
+    "key_back_seven_players": [
+      "Demario Davis",
+      "Tyrann Mathieu"
+    ],
+    "total_series": 268,
+    "neg_game_script_situations": 114,
+    "neg_game_script_situations_surrendered": 58.5,
+    "ngssr": 0.29,
+    "ngssr_sd": 0.444,
+    "total_runs": 221,
+    "successful_runs": 96,
+    "negative_runs": 50,
+    "big_runs": 23,
+    "run_grade": 0.26,
+    "run_grade_sd": 0.606,
+    "trailing_epa_per_play": 0.05,
+    "trailing_epa_per_play_sd": -0.613
   },
-
-  "key_players_injured_reserved" : [""],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 1,
+    "total_plays": 1658,
+    "penalties": 64
+  },
+  "special_teams": {
+    "fg_missed": 5,
+    "xp_missed": 0
+  }
 }

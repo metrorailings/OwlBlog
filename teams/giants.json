@@ -1,36 +1,80 @@
 {
-  "market" : "New York",
-  "name" : "Giants",
-  "abbrev" : "NYG",
-
-  "head_coach" : "Brian Daboll",
-  "oc" : {
-    "name" : "Mike Kafka",
-    "tier" : "green"
+  "_id": "6555a65a45f201f572b3ef4a",
+  "market": "New York",
+  "name": "Giants",
+  "abbrev": "NYG",
+  "head_coach": "Brian Daboll",
+  "oc": {
+    "name": "Mike Kafka",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Wink Martindale",
-    "tier" : "green"
+  "dc": {
+    "name": "Wink Martindale",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Tommy Devito",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Tommy Devito",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Saquon Barkley"]
+  "offense": {
+    "key_vectors": [
+      "Saquon Barkley"
+    ],
+    "total_series": 277,
+    "neg_game_script_situations": 133,
+    "neg_game_script_situations_overcome": 58.5,
+    "ngssr": 0.35,
+    "ngssr_sd": -2.078,
+    "fumbles": 13,
+    "interceptions": 9,
+    "fourth_down_failures": 18,
+    "two_point_play_failures": 2,
+    "total_runs": 257,
+    "successful_runs": 95,
+    "negative_runs": 62,
+    "big_runs": 19,
+    "run_grade": 0.17,
+    "run_grade_sd": -1.78,
+    "trailing_epa_per_play": -0.2,
+    "trailing_epa_per_play_sd": -1.999
   },
-
-  "defense" : {
-    "key_linemen" : ["Dexter Lawrence"],
-    "key_back_seven_players" : ["Bobby Okereke", "Micah McFadden", "Deonte Banks"]
+  "defense": {
+    "key_linemen": [
+      "Dexter Lawrence"
+    ],
+    "key_back_seven_players": [
+      "Bobby Okereke",
+      "Micah McFadden",
+      "Deonte Banks"
+    ],
+    "total_series": 314,
+    "neg_game_script_situations": 117,
+    "neg_game_script_situations_surrendered": 61.5,
+    "ngssr": 0.26,
+    "ngssr_sd": -0.621,
+    "total_runs": 290,
+    "successful_runs": 142,
+    "negative_runs": 52,
+    "big_runs": 40,
+    "run_grade": 0.38,
+    "run_grade_sd": -1.143,
+    "trailing_epa_per_play": 0,
+    "trailing_epa_per_play_sd": 0.204
   },
-
-  "key_players_injured_reserved" : ["Daniel Jones"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 1.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Daniel Jones"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 2,
+    "total_plays": 1775,
+    "penalties": 62
+  },
+  "special_teams": {
+    "fg_missed": 6,
+    "xp_missed": 0
+  }
 }

@@ -1,36 +1,80 @@
 {
-  "market" : "Cincinnati",
-  "name" : "Bengals",
-  "abbrev" : "CIN",
-
-  "head_coach" : "Zac Taylor",
-  "oc" : {
-    "name" : "Zac Taylor",
-    "tier" : "green"
+  "_id": "6555a65945f201f572b3eecc",
+  "market": "Cincinnati",
+  "name": "Bengals",
+  "abbrev": "CIN",
+  "head_coach": "Zac Taylor",
+  "oc": {
+    "name": "Zac Taylor",
+    "tier": "green"
   },
-  "dc" : {
-    "name" : "Lou Anarumo",
-    "tier" : "blue"
+  "dc": {
+    "name": "Lou Anarumo",
+    "tier": "blue"
   },
-  "quarterback" : {
-    "name" : "Joe Burrow",
-    "tier" : "blue"
+  "quarterback": {
+    "name": "Joe Burrow",
+    "tier": "blue"
   },
-
-  "offense" : {
-    "key_vectors" : ["Ja'Marr Chase", "Joe Mixon"]
+  "offense": {
+    "key_vectors": [
+      "Ja'Marr Chase",
+      "Joe Mixon"
+    ],
+    "total_series": 270,
+    "neg_game_script_situations": 105,
+    "neg_game_script_situations_overcome": 51,
+    "ngssr": 0.28,
+    "ngssr_sd": -0.08,
+    "fumbles": 5,
+    "interceptions": 6,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 0,
+    "total_runs": 178,
+    "successful_runs": 81,
+    "negative_runs": 30,
+    "big_runs": 17,
+    "run_grade": 0.33,
+    "run_grade_sd": 0.354,
+    "trailing_epa_per_play": 0.11,
+    "trailing_epa_per_play_sd": 0.926
   },
-
-  "defense" : {
-    "key_linemen" : ["Trey Hendrickson", "B.J. Hill", "Sam Hubbard"],
-    "key_back_seven_players" : ["Logan Wilson", "Dax Hill"]
+  "defense": {
+    "key_linemen": [
+      "Trey Hendrickson",
+      "B.J. Hill",
+      "Sam Hubbard"
+    ],
+    "key_back_seven_players": [
+      "Logan Wilson",
+      "Dax Hill"
+    ],
+    "total_series": 297,
+    "neg_game_script_situations": 97,
+    "neg_game_script_situations_surrendered": 48,
+    "ngssr": 0.23,
+    "ngssr_sd": -1.686,
+    "total_runs": 240,
+    "successful_runs": 120,
+    "negative_runs": 33,
+    "big_runs": 33,
+    "run_grade": 0.43,
+    "run_grade_sd": -1.871,
+    "trailing_epa_per_play": 0.12,
+    "trailing_epa_per_play_sd": -1.756
   },
-
-  "key_players_injured_reserved" : [],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 0,
+    "comebacks_surrendered": 0,
+    "total_plays": 1575,
+    "penalties": 50
+  },
+  "special_teams": {
+    "fg_missed": 4,
+    "xp_missed": 0
+  }
 }

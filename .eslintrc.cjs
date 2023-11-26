@@ -27,6 +27,6 @@ module.exports = {
         "module": true,
         "process": true,
         "global": true,
-        "require": true,
+        "require": true
     }
 }

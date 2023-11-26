@@ -1,36 +1,83 @@
 {
-  "market" : "Cleveland",
-  "name" : "Browns",
-  "abbrev" : "CLE",
-
-  "head_coach" : "Kevin Stefansky",
-  "oc" : {
-    "name" : "Kevin Stefansky / Alex Van Pelt",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3eeee",
+  "market": "Cleveland",
+  "name": "Browns",
+  "abbrev": "CLE",
+  "head_coach": "Kevin Stefansky",
+  "oc": {
+    "name": "Kevin Stefansky / Alex Van Pelt",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Jim Schwartz",
-    "tier" : "blue"
+  "dc": {
+    "name": "Jim Schwartz",
+    "tier": "blue"
   },
-  "quarterback" : {
-    "name" : "Deshaun Watson / PJ Walker",
-    "tier" : "white"
+  "quarterback": {
+    "name": "Dorian Thompson-Robinson",
+    "tier": "white"
   },
-
-  "offense" : {
-    "key_vectors" : ["Deshaun Watson", "Amari Cooper", "David Njoku"]
+  "offense": {
+    "key_vectors": [
+      "Deshaun Watson",
+      "Amari Cooper",
+      "David Njoku"
+    ],
+    "total_series": 299,
+    "neg_game_script_situations": 142,
+    "neg_game_script_situations_overcome": 71,
+    "ngssr": 0.33,
+    "ngssr_sd": -1.508,
+    "fumbles": 12,
+    "interceptions": 13,
+    "fourth_down_failures": 15,
+    "two_point_play_failures": 1,
+    "total_runs": 313,
+    "successful_runs": 142,
+    "negative_runs": 74,
+    "big_runs": 32,
+    "run_grade": 0.27,
+    "run_grade_sd": -0.446,
+    "trailing_epa_per_play": -0.04,
+    "trailing_epa_per_play_sd": -0.489
   },
-
-  "defense" : {
-    "key_linemen" : ["Myles Garrett", "Za'Darius Smith"],
-    "key_back_seven_players" : ["Denzel Ward", "Greg Newsome"]
+  "defense": {
+    "key_linemen": [
+      "Myles Garrett",
+      "Za'Darius Smith"
+    ],
+    "key_back_seven_players": [
+      "Denzel Ward",
+      "Greg Newsome"
+    ],
+    "total_series": 223,
+    "neg_game_script_situations": 111,
+    "neg_game_script_situations_surrendered": 43.5,
+    "ngssr": 0.38,
+    "ngssr_sd": 3.639,
+    "total_runs": 215,
+    "successful_runs": 84,
+    "negative_runs": 63,
+    "big_runs": 22,
+    "run_grade": 0.15,
+    "run_grade_sd": 2.208,
+    "trailing_epa_per_play": -0.1,
+    "trailing_epa_per_play_sd": 1.838
   },
-
-  "key_players_injured_reserved" : ["Nick Chubb"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 3,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Nick Chubb",
+    "Deshaun Watson"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 3,
+    "comebacks_surrendered": 2,
+    "total_plays": 1641,
+    "penalties": 63
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 1
+  }
 }

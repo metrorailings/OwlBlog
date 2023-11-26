@@ -1,36 +1,80 @@
 {
-  "market" : "Pittsburgh",
-  "name" : "Steelers",
-  "abbrev" : "PIT",
-
-  "head_coach" : "Mike Tomlin",
-  "oc" : {
-    "name" : "Matt Canada",
-    "tier" : "white"
+  "_id": "6555a65a45f201f572b3efdb",
+  "market": "Pittsburgh",
+  "name": "Steelers",
+  "abbrev": "PIT",
+  "head_coach": "Mike Tomlin",
+  "oc": {
+    "name": "Matt Canada",
+    "tier": "white"
   },
-  "dc" : {
-    "name" : "Mike Tomlin / Teryl Austin",
-    "tier" : "red"
+  "dc": {
+    "name": "Mike Tomlin / Teryl Austin",
+    "tier": "red"
   },
-  "quarterback" : {
-    "name" : "Kenny Pickett",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Kenny Pickett",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["George Pickens"]
+  "offense": {
+    "key_vectors": [
+      "George Pickens"
+    ],
+    "total_series": 246,
+    "neg_game_script_situations": 99,
+    "neg_game_script_situations_overcome": 44,
+    "ngssr": 0.3,
+    "ngssr_sd": -0.651,
+    "fumbles": 9,
+    "interceptions": 6,
+    "fourth_down_failures": 6,
+    "two_point_play_failures": 2,
+    "total_runs": 228,
+    "successful_runs": 107,
+    "negative_runs": 50,
+    "big_runs": 30,
+    "run_grade": 0.32,
+    "run_grade_sd": 0.221,
+    "trailing_epa_per_play": -0.05,
+    "trailing_epa_per_play_sd": -0.584
   },
-
-  "defense" : {
-    "key_linemen" : ["T.J. Watt", "Alex Highsmith"],
-    "key_back_seven_players" : ["Minkah Fitzpatrick", "Kwon Alexander"]
+  "defense": {
+    "key_linemen": [
+      "T.J. Watt",
+      "Alex Highsmith"
+    ],
+    "key_back_seven_players": [
+      "Minkah Fitzpatrick",
+      "Kwon Alexander"
+    ],
+    "total_series": 293,
+    "neg_game_script_situations": 132,
+    "neg_game_script_situations_surrendered": 70,
+    "ngssr": 0.31,
+    "ngssr_sd": 1.154,
+    "total_runs": 269,
+    "successful_runs": 124,
+    "negative_runs": 54,
+    "big_runs": 24,
+    "run_grade": 0.3,
+    "run_grade_sd": 0.023,
+    "trailing_epa_per_play": 0.02,
+    "trailing_epa_per_play_sd": -0.123
   },
-
-  "key_players_injured_reserved" : ["Cameron Heyward"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 3,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Cameron Heyward"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 3,
+    "comebacks_surrendered": 0,
+    "total_plays": 1604,
+    "penalties": 55
+  },
+  "special_teams": {
+    "fg_missed": 1,
+    "xp_missed": 0
+  }
 }

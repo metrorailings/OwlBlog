@@ -1,36 +1,81 @@
 {
-  "market" : "Seattle",
-  "name" : "Seahawks",
-  "abbrev" : "SEA",
-
-  "head_coach" : "Pete Carroll",
-  "oc" : {
-    "name" : "Shane Waldron",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3efd0",
+  "market": "Seattle",
+  "name": "Seahawks",
+  "abbrev": "SEA",
+  "head_coach": "Pete Carroll",
+  "oc": {
+    "name": "Shane Waldron",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Pete Carroll / Clint Hurtt",
-    "tier" : "green"
+  "dc": {
+    "name": "Pete Carroll / Clint Hurtt",
+    "tier": "green"
   },
-  "quarterback" : {
-    "name" : "Geno Smith",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Geno Smith",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["DK Metcalf", "Tyler Lockett", "Kenneth Walker III"]
+  "offense": {
+    "key_vectors": [
+      "DK Metcalf",
+      "Tyler Lockett",
+      "Kenneth Walker III"
+    ],
+    "total_series": 292,
+    "neg_game_script_situations": 119,
+    "neg_game_script_situations_overcome": 60.5,
+    "ngssr": 0.28,
+    "ngssr_sd": -0.08,
+    "fumbles": 5,
+    "interceptions": 9,
+    "fourth_down_failures": 11,
+    "two_point_play_failures": 0,
+    "total_runs": 233,
+    "successful_runs": 108,
+    "negative_runs": 47,
+    "big_runs": 25,
+    "run_grade": 0.32,
+    "run_grade_sd": 0.221,
+    "trailing_epa_per_play": -0.03,
+    "trailing_epa_per_play_sd": -0.395
   },
-
-  "defense" : {
-    "key_linemen" : ["Dre'Mont Jones"],
-    "key_back_seven_players" : ["Bobby Wagner", "Tariq Woolen"]
+  "defense": {
+    "key_linemen": [
+      "Dre'Mont Jones"
+    ],
+    "key_back_seven_players": [
+      "Bobby Wagner",
+      "Tariq Woolen"
+    ],
+    "total_series": 320,
+    "neg_game_script_situations": 134,
+    "neg_game_script_situations_surrendered": 75,
+    "ngssr": 0.28,
+    "ngssr_sd": 0.089,
+    "total_runs": 280,
+    "successful_runs": 124,
+    "negative_runs": 62,
+    "big_runs": 25,
+    "run_grade": 0.27,
+    "run_grade_sd": 0.46,
+    "trailing_epa_per_play": 0.03,
+    "trailing_epa_per_play_sd": -0.286
   },
-
-  "key_players_injured_reserved" : ["Uchenna Nwosu"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Uchenna Nwosu"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 1,
+    "total_plays": 1784,
+    "penalties": 80
+  },
+  "special_teams": {
+    "fg_missed": 6,
+    "xp_missed": 0
+  }
 }

@@ -1,36 +1,80 @@
 {
-  "market" : "Minnesota",
-  "name" : "Vikings",
-  "abbrev" : "MIN",
-
-  "head_coach" : "Kevin O'Connell",
-  "oc" : {
-    "name" : "Kevin O'Connell / Wes Phillips",
-    "tier" : "red"
+  "_id": "6555a65a45f201f572b3efe6",
+  "market": "Minnesota",
+  "name": "Vikings",
+  "abbrev": "MIN",
+  "head_coach": "Kevin O'Connell",
+  "oc": {
+    "name": "Kevin O'Connell / Wes Phillips",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Brian Flores",
-    "tier" : "red"
+  "dc": {
+    "name": "Brian Flores",
+    "tier": "red"
   },
-  "quarterback" : {
-    "name" : "Joshua Doubs",
-    "tier" : "green"
+  "quarterback": {
+    "name": "Joshua Doubs",
+    "tier": "green"
   },
-
-  "offense" : {
-    "key_vectors" : ["Jordan Addison", "T.J. Hockenson"]
+  "offense": {
+    "key_vectors": [
+      "Jordan Addison",
+      "T.J. Hockenson"
+    ],
+    "total_series": 308,
+    "neg_game_script_situations": 134,
+    "neg_game_script_situations_overcome": 87.5,
+    "ngssr": 0.26,
+    "ngssr_sd": 0.491,
+    "fumbles": 20,
+    "interceptions": 6,
+    "fourth_down_failures": 7,
+    "two_point_play_failures": 0,
+    "total_runs": 242,
+    "successful_runs": 104,
+    "negative_runs": 56,
+    "big_runs": 19,
+    "run_grade": 0.24,
+    "run_grade_sd": -0.846,
+    "trailing_epa_per_play": 0.1,
+    "trailing_epa_per_play_sd": 0.831
   },
-
-  "defense" : {
-    "key_linemen" : ["Danielle Hunter"],
-    "key_back_seven_players" : ["Harrison Smith", "Jordan Hicks"]
+  "defense": {
+    "key_linemen": [
+      "Danielle Hunter"
+    ],
+    "key_back_seven_players": [
+      "Harrison Smith",
+      "Jordan Hicks"
+    ],
+    "total_series": 294,
+    "neg_game_script_situations": 119,
+    "neg_game_script_situations_surrendered": 62.5,
+    "ngssr": 0.28,
+    "ngssr_sd": 0.089,
+    "total_runs": 251,
+    "successful_runs": 120,
+    "negative_runs": 52,
+    "big_runs": 11,
+    "run_grade": 0.29,
+    "run_grade_sd": 0.168,
+    "trailing_epa_per_play": -0.07,
+    "trailing_epa_per_play_sd": 1.348
   },
-
-  "key_players_injured_reserved" : ["Justin Jefferson"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "Justin Jefferson"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 2,
+    "comebacks_surrendered": 2,
+    "total_plays": 1778,
+    "penalties": 54
+  },
+  "special_teams": {
+    "fg_missed": 5,
+    "xp_missed": 2
+  }
 }

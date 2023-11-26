@@ -1,36 +1,84 @@
 {
-  "market" : "Buffalo",
-  "name" : "Bills",
-  "abbrev" : "BUF",
-
-  "head_coach" : "Sean McDermott",
-  "oc" : {
-    "name" : "Ken Dorsey",
-    "tier" : "red"
+  "_id": "6555a65945f201f572b3eed7",
+  "market": "Buffalo",
+  "name": "Bills",
+  "abbrev": "BUF",
+  "head_coach": "Sean McDermott",
+  "oc": {
+    "name": "Ken Dorsey",
+    "tier": "red"
   },
-  "dc" : {
-    "name" : "Sean McDermott",
-    "tier" : "blue"
+  "dc": {
+    "name": "Sean McDermott",
+    "tier": "blue"
   },
-  "quarterback" : {
-    "name" : "Josh Allen",
-    "tier" : "red"
+  "quarterback": {
+    "name": "Josh Allen",
+    "tier": "red"
   },
-
-  "offense" : {
-    "key_vectors" : ["Josh Allen", "James Cook", "Stefon Diggs", "Dalton Kincaid / Dawson Knox"]
+  "offense": {
+    "key_vectors": [
+      "Josh Allen",
+      "James Cook",
+      "Stefon Diggs",
+      "Dalton Kincaid / Dawson Knox"
+    ],
+    "total_series": 314,
+    "neg_game_script_situations": 100,
+    "neg_game_script_situations_overcome": 57,
+    "ngssr": 0.21,
+    "ngssr_sd": 1.918,
+    "fumbles": 10,
+    "interceptions": 12,
+    "fourth_down_failures": 8,
+    "two_point_play_failures": 1,
+    "total_runs": 252,
+    "successful_runs": 144,
+    "negative_runs": 38,
+    "big_runs": 27,
+    "run_grade": 0.47,
+    "run_grade_sd": 2.222,
+    "trailing_epa_per_play": 0.1,
+    "trailing_epa_per_play_sd": 0.831
   },
-
-  "defense" : {
-    "key_linemen" : ["Ed Oliver"],
-    "key_back_seven_players" : ["Terrel Bernard", "Micah Hyde"]
+  "defense": {
+    "key_linemen": [
+      "Ed Oliver"
+    ],
+    "key_back_seven_players": [
+      "Terrel Bernard",
+      "Micah Hyde"
+    ],
+    "total_series": 289,
+    "neg_game_script_situations": 117,
+    "neg_game_script_situations_surrendered": 62,
+    "ngssr": 0.28,
+    "ngssr_sd": 0.089,
+    "total_runs": 231,
+    "successful_runs": 90,
+    "negative_runs": 59,
+    "big_runs": 27,
+    "run_grade": 0.19,
+    "run_grade_sd": 1.626,
+    "trailing_epa_per_play": -0.01,
+    "trailing_epa_per_play_sd": 0.368
   },
-
-  "key_players_injured_reserved" : ["DaQuan Jones", "Von Miller", "Matt Milano"],
-  "comebacks_staged" : 0,
-  "comebacks_surrendered" : 0,
-  "home_field_advantage": 2.5,
-
-  "emotional_edge" : false,
-  "in_turmoil" : false
+  "key_players_injured_reserved": [
+    "DaQuan Jones",
+    "Von Miller",
+    "Matt Milano"
+  ],
+  "emotional_edge": false,
+  "in_turmoil": false,
+  "__v": 0,
+  "team": {
+    "comebacks_staged": 1,
+    "comebacks_surrendered": 3,
+    "total_plays": 1711,
+    "penalties": 73
+  },
+  "special_teams": {
+    "fg_missed": 3,
+    "xp_missed": 1
+  }
 }
